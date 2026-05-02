@@ -1,33 +1,42 @@
 {
-  "generated_at": "2026-05-02T12:53:42.277Z",
+  "generated_at": "2026-05-02T18:47:02.094Z",
   "window_hours": 24,
   "hn_show": [
-    {
-      "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
-      "url": "https://www.ghost.charity/",
-      "hn_url": "https://news.ycombinator.com/item?id=47975472",
-      "points": 119,
-      "comments": 88,
-      "created_ts": 1777647127,
-      "author": "keepamovin"
-    },
     {
       "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
       "url": "https://github.com/lahfir/agent-desktop",
       "hn_url": "https://news.ycombinator.com/item?id=47982708",
-      "points": 88,
-      "comments": 28,
+      "points": 90,
+      "comments": 30,
       "created_ts": 1777688304,
       "author": "lahfir"
     },
     {
-      "title": "Show HN: AI CAD Harness",
-      "url": "https://fusion.adam.new/install",
-      "hn_url": "https://news.ycombinator.com/item?id=47977694",
-      "points": 86,
-      "comments": 86,
-      "created_ts": 1777657433,
-      "author": "zachdive"
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47985077",
+      "points": 56,
+      "comments": 10,
+      "created_ts": 1777717291,
+      "author": "pplonski86"
+    },
+    {
+      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+      "url": "https://piruet.app",
+      "hn_url": "https://news.ycombinator.com/item?id=47985210",
+      "points": 52,
+      "comments": 43,
+      "created_ts": 1777718575,
+      "author": "patillacode"
+    },
+    {
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "hn_url": "https://news.ycombinator.com/item?id=47984675",
+      "points": 44,
+      "comments": 22,
+      "created_ts": 1777712067,
+      "author": "nip"
     },
     {
       "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
@@ -39,47 +48,20 @@
       "author": "xodn348"
     },
     {
-      "title": "Show HN: My Private GitHub on Postgres",
-      "url": "https://github.com/calebwin/gitgres",
-      "hn_url": "https://news.ycombinator.com/item?id=47977659",
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47984614",
       "points": 41,
-      "comments": 23,
-      "created_ts": 1777657215,
-      "author": "calebhwin"
-    },
-    {
-      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-      "url": "https://piruet.app",
-      "hn_url": "https://news.ycombinator.com/item?id=47985210",
-      "points": 26,
-      "comments": 26,
-      "created_ts": 1777718575,
-      "author": "patillacode"
-    },
-    {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "url": "https://mljar.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47985077",
-      "points": 24,
-      "comments": 3,
-      "created_ts": 1777717291,
-      "author": "pplonski86"
-    },
-    {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "hn_url": "https://news.ycombinator.com/item?id=47984675",
-      "points": 22,
-      "comments": 13,
-      "created_ts": 1777712067,
-      "author": "nip"
+      "comments": 18,
+      "created_ts": 1777711365,
+      "author": "brettnbutter"
     },
     {
       "title": "Show HN: Browser-based light pollution simulator using real photometric data",
       "url": "https://iesna.eu/?wasm=skyglow_demo",
       "hn_url": "https://news.ycombinator.com/item?id=47984734",
-      "points": 22,
-      "comments": 6,
+      "points": 34,
+      "comments": 11,
       "created_ts": 1777712898,
       "author": "holg"
     },
@@ -87,111 +69,84 @@
       "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
       "url": "https://mathstick.github.io",
       "hn_url": "https://news.ycombinator.com/item?id=47983485",
-      "points": 20,
-      "comments": 17,
+      "points": 30,
+      "comments": 23,
       "created_ts": 1777698279,
       "author": "trangram"
-    },
-    {
-      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-      "url": "https://snewpapers.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47984614",
-      "points": 17,
-      "comments": 11,
-      "created_ts": 1777711365,
-      "author": "brettnbutter"
-    },
-    {
-      "title": "Show HN: Omar – A TUI for managing 100 coding agents",
-      "url": "https://omar.tech",
-      "hn_url": "https://news.ycombinator.com/item?id=47978340",
-      "points": 14,
-      "comments": 2,
-      "created_ts": 1777660513,
-      "author": "karim7"
     }
   ],
   "hn_front": [
     {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "hn_url": "https://news.ycombinator.com/item?id=47979583",
-      "points": 480,
-      "comments": 405,
-      "created_ts": 1777666019,
-      "author": "thatxliner"
-    },
-    {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "hn_url": "https://news.ycombinator.com/item?id=47977748",
-      "points": 367,
-      "comments": 213,
-      "created_ts": 1777657662,
-      "author": "XzetaU8"
-    },
-    {
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
       "hn_url": "https://news.ycombinator.com/item?id=47983352",
-      "points": 345,
-      "comments": 161,
+      "points": 605,
+      "comments": 257,
       "created_ts": 1777696684,
       "author": "buildbot"
     },
     {
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47983226",
-      "points": 309,
-      "comments": 167,
-      "created_ts": 1777695155,
-      "author": "supermdguy"
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "hn_url": "https://news.ycombinator.com/item?id=47979583",
+      "points": 545,
+      "comments": 446,
+      "created_ts": 1777666019,
+      "author": "thatxliner"
     },
     {
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "hn_url": "https://news.ycombinator.com/item?id=47975571",
-      "points": 274,
-      "comments": 289,
-      "created_ts": 1777647607,
-      "author": "whoishiring"
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "hn_url": "https://news.ycombinator.com/item?id=47987256",
+      "points": 299,
+      "comments": 156,
+      "created_ts": 1777735693,
+      "author": "laurex"
     },
     {
-      "title": "Apocalypse Early Warning System",
-      "url": "https://ews.kylemcdonald.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=47976566",
-      "points": 215,
-      "comments": 99,
-      "created_ts": 1777652483,
-      "author": "carlsborg"
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "hn_url": "https://news.ycombinator.com/item?id=47984852",
+      "points": 188,
+      "comments": 70,
+      "created_ts": 1777714249,
+      "author": "moosia"
     },
     {
-      "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
-      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-      "hn_url": "https://news.ycombinator.com/item?id=47977026",
-      "points": 196,
-      "comments": 98,
-      "created_ts": 1777654363,
-      "author": "indigodaddy"
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "hn_url": "https://news.ycombinator.com/item?id=47984522",
+      "points": 163,
+      "comments": 80,
+      "created_ts": 1777710203,
+      "author": "ankitg12"
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=47975676",
-      "hn_url": "https://news.ycombinator.com/item?id=47975676",
-      "points": 171,
-      "comments": 224,
-      "created_ts": 1777648022,
-      "author": "proberts"
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "url": "https://github.com/nexu-io/open-design",
+      "hn_url": "https://news.ycombinator.com/item?id=47985750",
+      "points": 130,
+      "comments": 74,
+      "created_ts": 1777724176,
+      "author": "steveharing1"
     },
     {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "hn_url": "https://news.ycombinator.com/item?id=47978834",
-      "points": 155,
-      "comments": 60,
-      "created_ts": 1777662656,
-      "author": "wooster"
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47988776",
+      "points": 117,
+      "comments": 19,
+      "created_ts": 1777745022,
+      "author": "rsaarelm"
+    },
+    {
+      "title": "America's Expanding Domestic Surveillance",
+      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "hn_url": "https://news.ycombinator.com/item?id=47987006",
+      "points": 110,
+      "comments": 63,
+      "created_ts": 1777734133,
+      "author": "Brajeshwar"
     }
   ],
   "ph_today": {

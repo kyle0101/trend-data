@@ -1,0 +1,91 @@
+name: Update Trends
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每 6 小时跑一次（够了，routine 一天就 1 次）
+  workflow_dispatch:         # 手动触发按钮
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch HN + PH
+        run: |
+          DAY_AGO=$(($(date +%s) - 86400))
+          UA='Mozilla/5.0 (compatible; trend-bot/1.0)'
+
+          mkdir -p data
+
+          # HN Show
+          curl -sH "User-Agent: $UA" \
+            "https://hn.algolia.com/api/v1/search?tags=show_hn&numericFilters=created_at_i>${DAY_AGO},points>10&hitsPerPage=30" \
+            > data/hn_show.json || echo '{"error":"fetch failed"}' > data/hn_show.json
+
+          # HN Front
+          curl -sH "User-Agent: $UA" \
+            "https://hn.algolia.com/api/v1/search?tags=front_page&numericFilters=created_at_i>${DAY_AGO},points>100&hitsPerPage=30" \
+            > data/hn_front.json || echo '{"error":"fetch failed"}' > data/hn_front.json
+
+          # PH RSS
+          curl -sH "User-Agent: $UA" \
+            "https://www.producthunt.com/feed" \
+            > data/ph.xml || echo '<error/>' > data/ph.xml
+
+      - name: Build merged trends.json
+        run: |
+          node -e '
+          const fs = require("fs");
+          const hn_show = JSON.parse(fs.readFileSync("data/hn_show.json","utf8"));
+          const hn_front = JSON.parse(fs.readFileSync("data/hn_front.json","utf8"));
+          const phXml = fs.readFileSync("data/ph.xml","utf8");
+
+          const simplifyHN = (d) => (d.hits || []).map(h => ({
+            title: h.title,
+            url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+            hn_url: `https://news.ycombinator.com/item?id=${h.objectID}`,
+            points: h.points || 0,
+            comments: h.num_comments || 0,
+            created_ts: h.created_at_i,
+            author: h.author,
+          }));
+
+          const phItems = [];
+          const re = /<item>([\s\S]*?)<\/item>/g;
+          let m;
+          while ((m = re.exec(phXml)) !== null) {
+            const block = m[1];
+            const pick = (tag) => {
+              const r = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`).exec(block);
+              if (!r) return "";
+              return r[1].replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]+>/g, "").trim();
+            };
+            const title = pick("title");
+            if (!title) continue;
+            phItems.push({
+              title,
+              url: pick("link"),
+              tagline: pick("description").slice(0, 200),
+              pub_date: pick("pubDate"),
+            });
+          }
+
+          fs.writeFileSync("trends.json", JSON.stringify({
+            generated_at: new Date().toISOString(),
+            window_hours: 24,
+            hn_show: simplifyHN(hn_show),
+            hn_front: simplifyHN(hn_front),
+            ph_today: phItems.slice(0, 30),
+          }, null, 2));
+          '
+
+      - name: Commit
+        run: |
+          git config user.name "trend-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add trends.json
+          git diff --staged --quiet || git commit -m "update $(date -u +%FT%TZ)"
+          git push

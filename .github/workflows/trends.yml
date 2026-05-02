@@ -2,8 +2,8 @@ name: Update Trends
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每 6 小时跑一次（够了，routine 一天就 1 次）
-  workflow_dispatch:         # 手动触发按钮
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -13,74 +13,98 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch HN + PH
+      - name: Fetch and build trends.json
         run: |
-          DAY_AGO=$(($(date +%s) - 86400))
-          UA='Mozilla/5.0 (compatible; trend-bot/1.0)'
+          node << 'NODE_EOF'
+          const fs = require('fs');
+          const DAY_AGO = Math.floor(Date.now() / 1000) - 86400;
+          const headers = {
+            'User-Agent': 'Mozilla/5.0 (compatible; trend-bot/1.0; +https://github.com/kyleyangsh/trend-data)',
+            'Accept': 'application/json, text/xml, */*'
+          };
 
-          mkdir -p data
-
-          # HN Show
-          curl -sH "User-Agent: $UA" \
-            "https://hn.algolia.com/api/v1/search?tags=show_hn&numericFilters=created_at_i>${DAY_AGO},points>10&hitsPerPage=30" \
-            > data/hn_show.json || echo '{"error":"fetch failed"}' > data/hn_show.json
-
-          # HN Front
-          curl -sH "User-Agent: $UA" \
-            "https://hn.algolia.com/api/v1/search?tags=front_page&numericFilters=created_at_i>${DAY_AGO},points>100&hitsPerPage=30" \
-            > data/hn_front.json || echo '{"error":"fetch failed"}' > data/hn_front.json
-
-          # PH RSS
-          curl -sH "User-Agent: $UA" \
-            "https://www.producthunt.com/feed" \
-            > data/ph.xml || echo '<error/>' > data/ph.xml
-
-      - name: Build merged trends.json
-        run: |
-          node -e '
-          const fs = require("fs");
-          const hn_show = JSON.parse(fs.readFileSync("data/hn_show.json","utf8"));
-          const hn_front = JSON.parse(fs.readFileSync("data/hn_front.json","utf8"));
-          const phXml = fs.readFileSync("data/ph.xml","utf8");
-
-          const simplifyHN = (d) => (d.hits || []).map(h => ({
-            title: h.title,
-            url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
-            hn_url: `https://news.ycombinator.com/item?id=${h.objectID}`,
-            points: h.points || 0,
-            comments: h.num_comments || 0,
-            created_ts: h.created_at_i,
-            author: h.author,
-          }));
-
-          const phItems = [];
-          const re = /<item>([\s\S]*?)<\/item>/g;
-          let m;
-          while ((m = re.exec(phXml)) !== null) {
-            const block = m[1];
-            const pick = (tag) => {
-              const r = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`).exec(block);
-              if (!r) return "";
-              return r[1].replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]+>/g, "").trim();
-            };
-            const title = pick("title");
-            if (!title) continue;
-            phItems.push({
-              title,
-              url: pick("link"),
-              tagline: pick("description").slice(0, 200),
-              pub_date: pick("pubDate"),
-            });
+          async function fetchJSON(url) {
+            try {
+              const r = await fetch(url, { headers });
+              const text = await r.text();
+              if (!r.ok) return { error: `HTTP ${r.status}: ${text.slice(0, 200)}` };
+              try { return JSON.parse(text); }
+              catch { return { error: `non-JSON (${text.length}B): ${text.slice(0, 200)}` }; }
+            } catch (e) { return { error: `network: ${e.message}` }; }
           }
 
-          fs.writeFileSync("trends.json", JSON.stringify({
-            generated_at: new Date().toISOString(),
-            window_hours: 24,
-            hn_show: simplifyHN(hn_show),
-            hn_front: simplifyHN(hn_front),
-            ph_today: phItems.slice(0, 30),
-          }, null, 2));
-          '
+          async function fetchText(url) {
+            try {
+              const r = await fetch(url, { headers });
+              if (!r.ok) return { error: `HTTP ${r.status}` };
+              return await r.text();
+            } catch (e) { return { error: `network: ${e.message}` }; }
+          }
+
+          (async () => {
+            const [hn_show, hn_front, ph_xml] = await Promise.all([
+              fetchJSON(`https://hn.algolia.com/api/v1/search?tags=show_hn&numericFilters=created_at_i>${DAY_AGO},points>10&hitsPerPage=30`),
+              fetchJSON(`https://hn.algolia.com/api/v1/search?tags=front_page&numericFilters=created_at_i>${DAY_AGO},points>100&hitsPerPage=30`),
+              fetchText('https://www.producthunt.com/feed'),
+            ]);
+
+            const simplifyHN = (d) => {
+              if (d?.error) return { error: d.error };
+              if (!d?.hits)  return { error: 'no hits' };
+              return d.hits.map(h => ({
+                title: h.title,
+                url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+                hn_url: `https://news.ycombinator.com/item?id=${h.objectID}`,
+                points: h.points || 0,
+                comments: h.num_comments || 0,
+                created_ts: h.created_at_i,
+                author: h.author,
+              }));
+            };
+
+            const parsePH = (xml) => {
+              if (typeof xml !== 'string') return xml;
+              const items = [];
+              const re = /<item>([\s\S]*?)<\/item>/g;
+              let m;
+              while ((m = re.exec(xml)) !== null) {
+                const block = m[1];
+                const pick = (tag) => {
+                  const r = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`).exec(block);
+                  if (!r) return '';
+                  return r[1].replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
+                };
+                const title = pick('title');
+                if (!title) continue;
+                items.push({
+                  title,
+                  url: pick('link'),
+                  tagline: pick('description').slice(0, 200),
+                  pub_date: pick('pubDate'),
+                });
+              }
+              return items.length ? items.slice(0, 30) : { error: 'no items parsed' };
+            };
+
+            const out = {
+              generated_at: new Date().toISOString(),
+              window_hours: 24,
+              hn_show:  simplifyHN(hn_show),
+              hn_front: simplifyHN(hn_front),
+              ph_today: parsePH(ph_xml),
+            };
+
+            fs.writeFileSync('trends.json', JSON.stringify(out, null, 2));
+
+            const fmt = (k, v) => Array.isArray(v)
+              ? `  ${k}: ✓ ${v.length} items`
+              : `  ${k}: ✗ ${JSON.stringify(v).slice(0, 250)}`;
+            console.log('=== Status ===');
+            console.log(fmt('hn_show',  out.hn_show));
+            console.log(fmt('hn_front', out.hn_front));
+            console.log(fmt('ph_today', out.ph_today));
+          })();
+          NODE_EOF
 
       - name: Commit
         run: |

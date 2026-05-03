@@ -1,16 +1,8 @@
 {
-  "generated_at": "2026-05-03T02:16:59.130Z",
+  "generated_at": "2026-05-03T02:21:24.051Z",
   "window_hours": 24,
+  "ph_source": "producthunt.com/feed",
   "hn_show": [
-    {
-      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
-      "url": "https://github.com/lahfir/agent-desktop",
-      "hn_url": "https://news.ycombinator.com/item?id=47982708",
-      "points": 93,
-      "comments": 34,
-      "created_ts": 1777688304,
-      "author": "lahfir"
-    },
     {
       "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
       "url": "https://mljar.com/",
@@ -30,6 +22,15 @@
       "author": "patillacode"
     },
     {
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "url": "https://hnup.date/hn-sota",
+      "hn_url": "https://news.ycombinator.com/item?id=47990708",
+      "points": 51,
+      "comments": 29,
+      "created_ts": 1777757105,
+      "author": "yunusabd"
+    },
+    {
       "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
       "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
       "hn_url": "https://news.ycombinator.com/item?id=47984675",
@@ -37,15 +38,6 @@
       "comments": 23,
       "created_ts": 1777712067,
       "author": "nip"
-    },
-    {
-      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
-      "url": "https://hnup.date/hn-sota",
-      "hn_url": "https://news.ycombinator.com/item?id=47990708",
-      "points": 49,
-      "comments": 29,
-      "created_ts": 1777757105,
-      "author": "yunusabd"
     },
     {
       "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
@@ -60,7 +52,7 @@
       "title": "Show HN: Browser-based light pollution simulator using real photometric data",
       "url": "https://iesna.eu/?wasm=skyglow_demo",
       "hn_url": "https://news.ycombinator.com/item?id=47984734",
-      "points": 36,
+      "points": 37,
       "comments": 11,
       "created_ts": 1777712898,
       "author": "holg"
@@ -89,8 +81,8 @@
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
       "hn_url": "https://news.ycombinator.com/item?id=47989883",
-      "points": 828,
-      "comments": 385,
+      "points": 831,
+      "comments": 388,
       "created_ts": 1777751846,
       "author": "indrora"
     },
@@ -116,7 +108,7 @@
       "title": "California to begin ticketing driverless cars that violate traffic laws",
       "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
       "hn_url": "https://news.ycombinator.com/item?id=47988742",
-      "points": 251,
+      "points": 252,
       "comments": 256,
       "created_ts": 1777744758,
       "author": "geox"
@@ -125,7 +117,7 @@
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
       "hn_url": "https://news.ycombinator.com/item?id=47984852",
-      "points": 225,
+      "points": 226,
       "comments": 83,
       "created_ts": 1777714249,
       "author": "moosia"
@@ -143,7 +135,7 @@
       "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
       "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
       "hn_url": "https://news.ycombinator.com/item?id=47988261",
-      "points": 200,
+      "points": 201,
       "comments": 126,
       "created_ts": 1777741818,
       "author": "1vuio0pswjnm7"
@@ -158,19 +150,10 @@
       "author": "valzevul"
     },
     {
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "url": "https://github.com/nexu-io/open-design",
-      "hn_url": "https://news.ycombinator.com/item?id=47985750",
-      "points": 180,
-      "comments": 86,
-      "created_ts": 1777724176,
-      "author": "steveharing1"
-    },
-    {
       "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
       "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
       "hn_url": "https://news.ycombinator.com/item?id=47991350",
-      "points": 166,
+      "points": 168,
       "comments": 54,
       "created_ts": 1777761923,
       "author": "breve"
@@ -185,25 +168,195 @@
       "author": "richardboegli"
     },
     {
-      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "hn_url": "https://news.ycombinator.com/item?id=47987333",
-      "points": 124,
-      "comments": 134,
-      "created_ts": 1777736297,
-      "author": "nickvec"
-    },
-    {
       "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
       "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
       "hn_url": "https://news.ycombinator.com/item?id=47990284",
       "points": 118,
-      "comments": 26,
+      "comments": 27,
       "created_ts": 1777754540,
       "author": "andsoitis"
     }
   ],
-  "ph_today": {
-    "error": "no items parsed"
-  }
+  "ph_today": [
+    {
+      "title": "Microsoft Copilot Health",
+      "url": "https://www.producthunt.com/products/copilot-health",
+      "tagline": "",
+      "pub_date": "2026-04-22T03:34:44-07:00"
+    },
+    {
+      "title": "Cloud Computer by Manus",
+      "url": "https://www.producthunt.com/products/manus",
+      "tagline": "",
+      "pub_date": "2026-04-30T08:50:18-07:00"
+    },
+    {
+      "title": "Ara",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "tagline": "",
+      "pub_date": "2026-04-30T18:30:46-07:00"
+    },
+    {
+      "title": "YouTube TV Custom Multiview",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-04-28T19:51:28-07:00"
+    },
+    {
+      "title": "Breaks",
+      "url": "https://www.producthunt.com/products/breaks",
+      "tagline": "",
+      "pub_date": "2026-04-29T03:16:20-07:00"
+    },
+    {
+      "title": "Feather",
+      "url": "https://www.producthunt.com/products/feather-18",
+      "tagline": "",
+      "pub_date": "2026-04-29T17:13:24-07:00"
+    },
+    {
+      "title": "Filect",
+      "url": "https://www.producthunt.com/products/filect",
+      "tagline": "",
+      "pub_date": "2026-04-26T14:57:34-07:00"
+    },
+    {
+      "title": "Scholé",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "tagline": "",
+      "pub_date": "2026-04-21T15:30:17-07:00"
+    },
+    {
+      "title": "Postiz",
+      "url": "https://www.producthunt.com/products/postiz",
+      "tagline": "",
+      "pub_date": "2026-04-26T05:37:39-07:00"
+    },
+    {
+      "title": "Ghosted",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+      "tagline": "",
+      "pub_date": "2026-04-30T08:54:01-07:00"
+    },
+    {
+      "title": "LaunchCut",
+      "url": "https://www.producthunt.com/products/launchcut-2",
+      "tagline": "",
+      "pub_date": "2026-04-30T14:35:28-07:00"
+    },
+    {
+      "title": "PeekFocus",
+      "url": "https://www.producthunt.com/products/peekfocus",
+      "tagline": "",
+      "pub_date": "2026-04-30T21:57:56-07:00"
+    },
+    {
+      "title": "ScreenVeil",
+      "url": "https://www.producthunt.com/products/screenveil",
+      "tagline": "",
+      "pub_date": "2026-04-28T00:56:19-07:00"
+    },
+    {
+      "title": "HiveTerm",
+      "url": "https://www.producthunt.com/products/hiveterm",
+      "tagline": "",
+      "pub_date": "2026-04-30T02:41:22-07:00"
+    },
+    {
+      "title": "AnyDrop",
+      "url": "https://www.producthunt.com/products/anydrop-3",
+      "tagline": "",
+      "pub_date": "2026-04-29T02:48:08-07:00"
+    },
+    {
+      "title": "Zush",
+      "url": "https://www.producthunt.com/products/zush",
+      "tagline": "",
+      "pub_date": "2026-04-24T07:28:09-07:00"
+    },
+    {
+      "title": "Buda",
+      "url": "https://www.producthunt.com/products/buda-2",
+      "tagline": "",
+      "pub_date": "2026-04-27T16:18:01-07:00"
+    },
+    {
+      "title": "Montage",
+      "url": "https://www.producthunt.com/products/montage-3",
+      "tagline": "",
+      "pub_date": "2026-04-30T08:50:23-07:00"
+    },
+    {
+      "title": "nudge",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "tagline": "",
+      "pub_date": "2026-04-30T02:59:09-07:00"
+    },
+    {
+      "title": "TrafficClaw",
+      "url": "https://www.producthunt.com/products/trafficclaw",
+      "tagline": "",
+      "pub_date": "2026-03-20T07:25:13-07:00"
+    },
+    {
+      "title": "Bitgrain",
+      "url": "https://www.producthunt.com/products/bitgrain",
+      "tagline": "",
+      "pub_date": "2026-04-27T21:44:07-07:00"
+    },
+    {
+      "title": "Genspark for Word",
+      "url": "https://www.producthunt.com/products/genspark",
+      "tagline": "",
+      "pub_date": "2026-04-08T08:53:54-07:00"
+    },
+    {
+      "title": "Marx Finance",
+      "url": "https://www.producthunt.com/products/marx-finance",
+      "tagline": "",
+      "pub_date": "2026-04-30T02:41:02-07:00"
+    },
+    {
+      "title": "CipherLock",
+      "url": "https://www.producthunt.com/products/cipherlock",
+      "tagline": "",
+      "pub_date": "2026-04-30T06:09:03-07:00"
+    },
+    {
+      "title": "MUSIXQUARE",
+      "url": "https://www.producthunt.com/products/musixquare",
+      "tagline": "",
+      "pub_date": "2026-04-18T15:18:21-07:00"
+    },
+    {
+      "title": "Beauty Diagram",
+      "url": "https://www.producthunt.com/products/beauty-diagram",
+      "tagline": "",
+      "pub_date": "2026-04-30T09:57:43-07:00"
+    },
+    {
+      "title": "Zed 1.0",
+      "url": "https://www.producthunt.com/products/zed",
+      "tagline": "",
+      "pub_date": "2026-04-30T09:34:46-07:00"
+    },
+    {
+      "title": "AstroGrid",
+      "url": "https://www.producthunt.com/products/astrogrid",
+      "tagline": "",
+      "pub_date": "2026-04-29T20:22:20-07:00"
+    },
+    {
+      "title": "Hera Launch",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "tagline": "",
+      "pub_date": "2026-04-27T02:33:59-07:00"
+    },
+    {
+      "title": "Mintlify Editor",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "tagline": "",
+      "pub_date": "2026-04-28T16:01:20-07:00"
+    }
+  ]
 }

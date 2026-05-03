@@ -1,174 +1,209 @@
-name: Update Trends
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Fetch and build trends.json
-        run: |
-          node << 'NODE_EOF'
-          const fs = require('fs');
-          const DAY_AGO = Math.floor(Date.now() / 1000) - 86400;
-          const headers = {
-            'User-Agent': 'Mozilla/5.0 (compatible; trend-bot/1.0; +https://github.com/kyleyangsh/trend-data)',
-            'Accept': 'application/json, text/xml, application/rss+xml, */*'
-          };
-
-          async function fetchJSON(url) {
-            try {
-              const r = await fetch(url, { headers });
-              const text = await r.text();
-              if (!r.ok) return { error: `HTTP ${r.status}: ${text.slice(0, 200)}` };
-              try { return JSON.parse(text); }
-              catch { return { error: `non-JSON (${text.length}B): ${text.slice(0, 200)}` }; }
-            } catch (e) { return { error: `network: ${e.message}` }; }
-          }
-
-          async function fetchText(url) {
-            try {
-              const r = await fetch(url, { headers });
-              const text = await r.text();
-              if (!r.ok) return { error: `HTTP ${r.status}`, body: text.slice(0, 300) };
-              return { ok: true, text, length: text.length };
-            } catch (e) { return { error: `network: ${e.message}` }; }
-          }
-
-          // 解析 RSS 2.0 (PH 官方) 或 Atom (备用)
-          function parseRSSorAtom(xml) {
-            if (typeof xml !== 'string' || !xml.length) return [];
-            const items = [];
-
-            // RSS 2.0: <item>...</item>
-            const itemRe = /<item\b[^>]*>([\s\S]*?)<\/item>/gi;
-            let m;
-            while ((m = itemRe.exec(xml)) !== null) {
-              const block = m[1];
-              const pick = (tag) => {
-                const r = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i').exec(block);
-                if (!r) return '';
-                return r[1].replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
-              };
-              const title = pick('title');
-              if (!title) continue;
-              items.push({
-                title,
-                url: pick('link'),
-                tagline: pick('description').slice(0, 200),
-                pub_date: pick('pubDate'),
-              });
-            }
-
-            // Atom: <entry>...</entry> (fallback if RSS empty)
-            if (items.length === 0) {
-              const entryRe = /<entry\b[^>]*>([\s\S]*?)<\/entry>/gi;
-              while ((m = entryRe.exec(xml)) !== null) {
-                const block = m[1];
-                const titleM = /<title\b[^>]*>([\s\S]*?)<\/title>/i.exec(block);
-                const linkM  = /<link[^>]*href="([^"]+)"/i.exec(block);
-                const sumM   = /<summary\b[^>]*>([\s\S]*?)<\/summary>/i.exec(block);
-                const pubM   = /<published\b[^>]*>([\s\S]*?)<\/published>/i.exec(block);
-                if (!titleM) continue;
-                const clean = (s) => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
-                items.push({
-                  title: clean(titleM[1]),
-                  url: linkM ? linkM[1] : '',
-                  tagline: clean(sumM ? sumM[1] : '').slice(0, 200),
-                  pub_date: clean(pubM ? pubM[1] : ''),
-                });
-              }
-            }
-
-            return items;
-          }
-
-          (async () => {
-            // 并行: HN show + HN front + PH primary + PH fallback (mirror)
-            const [hn_show, hn_front, ph_primary, ph_fallback] = await Promise.all([
-              fetchJSON(`https://hn.algolia.com/api/v1/search?tags=show_hn&numericFilters=created_at_i>${DAY_AGO},points>10&hitsPerPage=30`),
-              fetchJSON(`https://hn.algolia.com/api/v1/search?tags=front_page&numericFilters=created_at_i>${DAY_AGO},points>100&hitsPerPage=30`),
-              fetchText('https://www.producthunt.com/feed'),
-              fetchText('https://raw.githubusercontent.com/headllines/producthunt-daily-rss/master/rss.xml'),
-            ]);
-
-            console.log('=== Raw fetch results ===');
-            console.log('hn_show:',     hn_show?.error  ? `ERR ${hn_show.error}`   : `${hn_show?.hits?.length || 0} hits`);
-            console.log('hn_front:',    hn_front?.error ? `ERR ${hn_front.error}`  : `${hn_front?.hits?.length || 0} hits`);
-            console.log('ph_primary:',  ph_primary?.error ? `ERR ${ph_primary.error}` : `${ph_primary.length}B fetched`);
-            console.log('ph_fallback:', ph_fallback?.error ? `ERR ${ph_fallback.error}` : `${ph_fallback.length}B fetched`);
-
-            const simplifyHN = (d) => {
-              if (d?.error) return { error: d.error };
-              if (!d?.hits)  return { error: 'no hits' };
-              return d.hits.map(h => ({
-                title: h.title,
-                url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
-                hn_url: `https://news.ycombinator.com/item?id=${h.objectID}`,
-                points: h.points || 0,
-                comments: h.num_comments || 0,
-                created_ts: h.created_at_i,
-                author: h.author,
-              }));
-            };
-
-            // PH 双轨: primary 失败/空就走 fallback
-            let phItems = [];
-            let phSource = 'unknown';
-            if (ph_primary?.ok) {
-              phItems = parseRSSorAtom(ph_primary.text);
-              if (phItems.length > 0) {
-                phSource = 'producthunt.com/feed';
-              } else {
-                console.log('[ph] primary fetched but parsed 0 items; preview:', ph_primary.text.slice(0, 300));
-              }
-            }
-            if (phItems.length === 0 && ph_fallback?.ok) {
-              phItems = parseRSSorAtom(ph_fallback.text);
-              if (phItems.length > 0) {
-                phSource = 'headllines/producthunt-daily-rss (mirror)';
-              } else {
-                console.log('[ph] fallback fetched but parsed 0 items; preview:', ph_fallback.text.slice(0, 300));
-              }
-            }
-
-            const ph_today = phItems.length > 0
-              ? phItems.slice(0, 30)
-              : { error: `parsed 0 items from both sources (primary=${ph_primary?.error || 'ok'}, fallback=${ph_fallback?.error || 'ok'})` };
-
-            const out = {
-              generated_at: new Date().toISOString(),
-              window_hours: 24,
-              ph_source: phSource,
-              hn_show:  simplifyHN(hn_show),
-              hn_front: simplifyHN(hn_front),
-              ph_today,
-            };
-
-            fs.writeFileSync('trends.json', JSON.stringify(out, null, 2));
-
-            const fmt = (k, v) => Array.isArray(v)
-              ? `  ${k}: ✓ ${v.length} items`
-              : `  ${k}: ✗ ${JSON.stringify(v).slice(0, 300)}`;
-            console.log('\n=== Final ===');
-            console.log(fmt('hn_show',  out.hn_show));
-            console.log(fmt('hn_front', out.hn_front));
-            console.log(fmt('ph_today', out.ph_today));
-            console.log(`  ph_source: ${phSource}`);
-          })();
-          NODE_EOF
-
-      - name: Commit
-        run: |
-          git config user.name "trend-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add trends.json
-          git diff --staged --quiet || git commit -m "update $(date -u +%FT%TZ)"
-          git push
+{
+  "generated_at": "2026-05-03T02:16:59.130Z",
+  "window_hours": 24,
+  "hn_show": [
+    {
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "hn_url": "https://news.ycombinator.com/item?id=47982708",
+      "points": 93,
+      "comments": 34,
+      "created_ts": 1777688304,
+      "author": "lahfir"
+    },
+    {
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47985077",
+      "points": 62,
+      "comments": 10,
+      "created_ts": 1777717291,
+      "author": "pplonski86"
+    },
+    {
+      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+      "url": "https://piruet.app",
+      "hn_url": "https://news.ycombinator.com/item?id=47985210",
+      "points": 57,
+      "comments": 45,
+      "created_ts": 1777718575,
+      "author": "patillacode"
+    },
+    {
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "hn_url": "https://news.ycombinator.com/item?id=47984675",
+      "points": 50,
+      "comments": 23,
+      "created_ts": 1777712067,
+      "author": "nip"
+    },
+    {
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "url": "https://hnup.date/hn-sota",
+      "hn_url": "https://news.ycombinator.com/item?id=47990708",
+      "points": 49,
+      "comments": 29,
+      "created_ts": 1777757105,
+      "author": "yunusabd"
+    },
+    {
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47984614",
+      "points": 45,
+      "comments": 18,
+      "created_ts": 1777711365,
+      "author": "brettnbutter"
+    },
+    {
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "hn_url": "https://news.ycombinator.com/item?id=47984734",
+      "points": 36,
+      "comments": 11,
+      "created_ts": 1777712898,
+      "author": "holg"
+    },
+    {
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "url": "https://mathstick.github.io",
+      "hn_url": "https://news.ycombinator.com/item?id=47983485",
+      "points": 33,
+      "comments": 27,
+      "created_ts": 1777698279,
+      "author": "trangram"
+    },
+    {
+      "title": "Show HN: Rust library for Undo/Redo using deltas, snapshots or commands",
+      "url": "https://github.com/mikwielgus/undoredo",
+      "hn_url": "https://news.ycombinator.com/item?id=47989164",
+      "points": 15,
+      "comments": 1,
+      "created_ts": 1777747297,
+      "author": "mikolajw"
+    }
+  ],
+  "hn_front": [
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "hn_url": "https://news.ycombinator.com/item?id=47989883",
+      "points": 828,
+      "comments": 385,
+      "created_ts": 1777751846,
+      "author": "indrora"
+    },
+    {
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47988776",
+      "points": 380,
+      "comments": 119,
+      "created_ts": 1777745022,
+      "author": "rsaarelm"
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "hn_url": "https://news.ycombinator.com/item?id=47988504",
+      "points": 339,
+      "comments": 110,
+      "created_ts": 1777743149,
+      "author": "dabinat"
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "hn_url": "https://news.ycombinator.com/item?id=47988742",
+      "points": 251,
+      "comments": 256,
+      "created_ts": 1777744758,
+      "author": "geox"
+    },
+    {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "hn_url": "https://news.ycombinator.com/item?id=47984852",
+      "points": 225,
+      "comments": 83,
+      "created_ts": 1777714249,
+      "author": "moosia"
+    },
+    {
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=47988592",
+      "points": 210,
+      "comments": 68,
+      "created_ts": 1777743655,
+      "author": "RubyGuy"
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47988261",
+      "points": 200,
+      "comments": 126,
+      "created_ts": 1777741818,
+      "author": "1vuio0pswjnm7"
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "hn_url": "https://news.ycombinator.com/item?id=47990606",
+      "points": 181,
+      "comments": 33,
+      "created_ts": 1777756469,
+      "author": "valzevul"
+    },
+    {
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "url": "https://github.com/nexu-io/open-design",
+      "hn_url": "https://news.ycombinator.com/item?id=47985750",
+      "points": 180,
+      "comments": 86,
+      "created_ts": 1777724176,
+      "author": "steveharing1"
+    },
+    {
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "hn_url": "https://news.ycombinator.com/item?id=47991350",
+      "points": 166,
+      "comments": 54,
+      "created_ts": 1777761923,
+      "author": "breve"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "hn_url": "https://news.ycombinator.com/item?id=47990318",
+      "points": 163,
+      "comments": 26,
+      "created_ts": 1777754790,
+      "author": "richardboegli"
+    },
+    {
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "hn_url": "https://news.ycombinator.com/item?id=47987333",
+      "points": 124,
+      "comments": 134,
+      "created_ts": 1777736297,
+      "author": "nickvec"
+    },
+    {
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "hn_url": "https://news.ycombinator.com/item?id=47990284",
+      "points": 118,
+      "comments": 26,
+      "created_ts": 1777754540,
+      "author": "andsoitis"
+    }
+  ],
+  "ph_today": {
+    "error": "no items parsed"
+  }
+}

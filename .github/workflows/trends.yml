@@ -20,7 +20,7 @@ jobs:
           const DAY_AGO = Math.floor(Date.now() / 1000) - 86400;
           const headers = {
             'User-Agent': 'Mozilla/5.0 (compatible; trend-bot/1.0; +https://github.com/kyleyangsh/trend-data)',
-            'Accept': 'application/json, text/xml, */*'
+            'Accept': 'application/json, text/xml, application/rss+xml, */*'
           };
 
           async function fetchJSON(url) {
@@ -36,17 +36,74 @@ jobs:
           async function fetchText(url) {
             try {
               const r = await fetch(url, { headers });
-              if (!r.ok) return { error: `HTTP ${r.status}` };
-              return await r.text();
+              const text = await r.text();
+              if (!r.ok) return { error: `HTTP ${r.status}`, body: text.slice(0, 300) };
+              return { ok: true, text, length: text.length };
             } catch (e) { return { error: `network: ${e.message}` }; }
           }
 
+          // 解析 RSS 2.0 (PH 官方) 或 Atom (备用)
+          function parseRSSorAtom(xml) {
+            if (typeof xml !== 'string' || !xml.length) return [];
+            const items = [];
+
+            // RSS 2.0: <item>...</item>
+            const itemRe = /<item\b[^>]*>([\s\S]*?)<\/item>/gi;
+            let m;
+            while ((m = itemRe.exec(xml)) !== null) {
+              const block = m[1];
+              const pick = (tag) => {
+                const r = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i').exec(block);
+                if (!r) return '';
+                return r[1].replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
+              };
+              const title = pick('title');
+              if (!title) continue;
+              items.push({
+                title,
+                url: pick('link'),
+                tagline: pick('description').slice(0, 200),
+                pub_date: pick('pubDate'),
+              });
+            }
+
+            // Atom: <entry>...</entry> (fallback if RSS empty)
+            if (items.length === 0) {
+              const entryRe = /<entry\b[^>]*>([\s\S]*?)<\/entry>/gi;
+              while ((m = entryRe.exec(xml)) !== null) {
+                const block = m[1];
+                const titleM = /<title\b[^>]*>([\s\S]*?)<\/title>/i.exec(block);
+                const linkM  = /<link[^>]*href="([^"]+)"/i.exec(block);
+                const sumM   = /<summary\b[^>]*>([\s\S]*?)<\/summary>/i.exec(block);
+                const pubM   = /<published\b[^>]*>([\s\S]*?)<\/published>/i.exec(block);
+                if (!titleM) continue;
+                const clean = (s) => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
+                items.push({
+                  title: clean(titleM[1]),
+                  url: linkM ? linkM[1] : '',
+                  tagline: clean(sumM ? sumM[1] : '').slice(0, 200),
+                  pub_date: clean(pubM ? pubM[1] : ''),
+                });
+              }
+            }
+
+            return items;
+          }
+
           (async () => {
-            const [hn_show, hn_front, ph_xml] = await Promise.all([
+            // 并行: HN show + HN front + PH primary + PH fallback (mirror)
+            const [hn_show, hn_front, ph_primary, ph_fallback] = await Promise.all([
               fetchJSON(`https://hn.algolia.com/api/v1/search?tags=show_hn&numericFilters=created_at_i>${DAY_AGO},points>10&hitsPerPage=30`),
               fetchJSON(`https://hn.algolia.com/api/v1/search?tags=front_page&numericFilters=created_at_i>${DAY_AGO},points>100&hitsPerPage=30`),
               fetchText('https://www.producthunt.com/feed'),
+              fetchText('https://raw.githubusercontent.com/headllines/producthunt-daily-rss/master/rss.xml'),
             ]);
+
+            console.log('=== Raw fetch results ===');
+            console.log('hn_show:',     hn_show?.error  ? `ERR ${hn_show.error}`   : `${hn_show?.hits?.length || 0} hits`);
+            console.log('hn_front:',    hn_front?.error ? `ERR ${hn_front.error}`  : `${hn_front?.hits?.length || 0} hits`);
+            console.log('ph_primary:',  ph_primary?.error ? `ERR ${ph_primary.error}` : `${ph_primary.length}B fetched`);
+            console.log('ph_fallback:', ph_fallback?.error ? `ERR ${ph_fallback.error}` : `${ph_fallback.length}B fetched`);
 
             const simplifyHN = (d) => {
               if (d?.error) return { error: d.error };
@@ -62,47 +119,49 @@ jobs:
               }));
             };
 
-            const parsePH = (xml) => {
-              if (typeof xml !== 'string') return xml;
-              const items = [];
-              const re = /<item>([\s\S]*?)<\/item>/g;
-              let m;
-              while ((m = re.exec(xml)) !== null) {
-                const block = m[1];
-                const pick = (tag) => {
-                  const r = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`).exec(block);
-                  if (!r) return '';
-                  return r[1].replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').trim();
-                };
-                const title = pick('title');
-                if (!title) continue;
-                items.push({
-                  title,
-                  url: pick('link'),
-                  tagline: pick('description').slice(0, 200),
-                  pub_date: pick('pubDate'),
-                });
+            // PH 双轨: primary 失败/空就走 fallback
+            let phItems = [];
+            let phSource = 'unknown';
+            if (ph_primary?.ok) {
+              phItems = parseRSSorAtom(ph_primary.text);
+              if (phItems.length > 0) {
+                phSource = 'producthunt.com/feed';
+              } else {
+                console.log('[ph] primary fetched but parsed 0 items; preview:', ph_primary.text.slice(0, 300));
               }
-              return items.length ? items.slice(0, 30) : { error: 'no items parsed' };
-            };
+            }
+            if (phItems.length === 0 && ph_fallback?.ok) {
+              phItems = parseRSSorAtom(ph_fallback.text);
+              if (phItems.length > 0) {
+                phSource = 'headllines/producthunt-daily-rss (mirror)';
+              } else {
+                console.log('[ph] fallback fetched but parsed 0 items; preview:', ph_fallback.text.slice(0, 300));
+              }
+            }
+
+            const ph_today = phItems.length > 0
+              ? phItems.slice(0, 30)
+              : { error: `parsed 0 items from both sources (primary=${ph_primary?.error || 'ok'}, fallback=${ph_fallback?.error || 'ok'})` };
 
             const out = {
               generated_at: new Date().toISOString(),
               window_hours: 24,
+              ph_source: phSource,
               hn_show:  simplifyHN(hn_show),
               hn_front: simplifyHN(hn_front),
-              ph_today: parsePH(ph_xml),
+              ph_today,
             };
 
             fs.writeFileSync('trends.json', JSON.stringify(out, null, 2));
 
             const fmt = (k, v) => Array.isArray(v)
               ? `  ${k}: ✓ ${v.length} items`
-              : `  ${k}: ✗ ${JSON.stringify(v).slice(0, 250)}`;
-            console.log('=== Status ===');
+              : `  ${k}: ✗ ${JSON.stringify(v).slice(0, 300)}`;
+            console.log('\n=== Final ===');
             console.log(fmt('hn_show',  out.hn_show));
             console.log(fmt('hn_front', out.hn_front));
             console.log(fmt('ph_today', out.ph_today));
+            console.log(`  ph_source: ${phSource}`);
           })();
           NODE_EOF
 

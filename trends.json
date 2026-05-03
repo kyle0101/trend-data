@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-02T18:47:02.094Z",
+  "generated_at": "2026-05-03T02:09:25.869Z",
   "window_hours": 24,
   "hn_show": [
     {
       "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
       "url": "https://github.com/lahfir/agent-desktop",
       "hn_url": "https://news.ycombinator.com/item?id=47982708",
-      "points": 90,
-      "comments": 30,
+      "points": 93,
+      "comments": 34,
       "created_ts": 1777688304,
       "author": "lahfir"
     },
@@ -15,7 +15,7 @@
       "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
       "url": "https://mljar.com/",
       "hn_url": "https://news.ycombinator.com/item?id=47985077",
-      "points": 56,
+      "points": 62,
       "comments": 10,
       "created_ts": 1777717291,
       "author": "pplonski86"
@@ -24,8 +24,8 @@
       "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
       "url": "https://piruet.app",
       "hn_url": "https://news.ycombinator.com/item?id=47985210",
-      "points": 52,
-      "comments": 43,
+      "points": 57,
+      "comments": 45,
       "created_ts": 1777718575,
       "author": "patillacode"
     },
@@ -33,25 +33,25 @@
       "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
       "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
       "hn_url": "https://news.ycombinator.com/item?id=47984675",
-      "points": 44,
-      "comments": 22,
+      "points": 50,
+      "comments": 23,
       "created_ts": 1777712067,
       "author": "nip"
     },
     {
-      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-      "url": "https://github.com/xodn348/destiny",
-      "hn_url": "https://news.ycombinator.com/item?id=47979438",
-      "points": 41,
-      "comments": 40,
-      "created_ts": 1777665378,
-      "author": "xodn348"
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "url": "https://hnup.date/hn-sota",
+      "hn_url": "https://news.ycombinator.com/item?id=47990708",
+      "points": 48,
+      "comments": 28,
+      "created_ts": 1777757105,
+      "author": "yunusabd"
     },
     {
       "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
       "url": "https://snewpapers.com/",
       "hn_url": "https://news.ycombinator.com/item?id=47984614",
-      "points": 41,
+      "points": 45,
       "comments": 18,
       "created_ts": 1777711365,
       "author": "brettnbutter"
@@ -60,7 +60,7 @@
       "title": "Show HN: Browser-based light pollution simulator using real photometric data",
       "url": "https://iesna.eu/?wasm=skyglow_demo",
       "hn_url": "https://news.ycombinator.com/item?id=47984734",
-      "points": 34,
+      "points": 36,
       "comments": 11,
       "created_ts": 1777712898,
       "author": "holg"
@@ -69,84 +69,138 @@
       "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
       "url": "https://mathstick.github.io",
       "hn_url": "https://news.ycombinator.com/item?id=47983485",
-      "points": 30,
-      "comments": 23,
+      "points": 33,
+      "comments": 26,
       "created_ts": 1777698279,
       "author": "trangram"
+    },
+    {
+      "title": "Show HN: Rust library for Undo/Redo using deltas, snapshots or commands",
+      "url": "https://github.com/mikwielgus/undoredo",
+      "hn_url": "https://news.ycombinator.com/item?id=47989164",
+      "points": 14,
+      "comments": 1,
+      "created_ts": 1777747297,
+      "author": "mikolajw"
     }
   ],
   "hn_front": [
     {
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "hn_url": "https://news.ycombinator.com/item?id=47983352",
-      "points": 605,
-      "comments": 257,
-      "created_ts": 1777696684,
-      "author": "buildbot"
-    },
-    {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "hn_url": "https://news.ycombinator.com/item?id=47979583",
-      "points": 545,
-      "comments": 446,
-      "created_ts": 1777666019,
-      "author": "thatxliner"
-    },
-    {
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "hn_url": "https://news.ycombinator.com/item?id=47987256",
-      "points": 299,
-      "comments": 156,
-      "created_ts": 1777735693,
-      "author": "laurex"
-    },
-    {
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "hn_url": "https://news.ycombinator.com/item?id=47984852",
-      "points": 188,
-      "comments": 70,
-      "created_ts": 1777714249,
-      "author": "moosia"
-    },
-    {
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "hn_url": "https://news.ycombinator.com/item?id=47984522",
-      "points": 163,
-      "comments": 80,
-      "created_ts": 1777710203,
-      "author": "ankitg12"
-    },
-    {
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "url": "https://github.com/nexu-io/open-design",
-      "hn_url": "https://news.ycombinator.com/item?id=47985750",
-      "points": 130,
-      "comments": 74,
-      "created_ts": 1777724176,
-      "author": "steveharing1"
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "hn_url": "https://news.ycombinator.com/item?id=47989883",
+      "points": 816,
+      "comments": 383,
+      "created_ts": 1777751846,
+      "author": "indrora"
     },
     {
       "title": "NetHack 5.0.0",
       "url": "https://nethack.org/v500/release.html",
       "hn_url": "https://news.ycombinator.com/item?id=47988776",
-      "points": 117,
-      "comments": 19,
+      "points": 379,
+      "comments": 118,
       "created_ts": 1777745022,
       "author": "rsaarelm"
     },
     {
-      "title": "America's Expanding Domestic Surveillance",
-      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
-      "hn_url": "https://news.ycombinator.com/item?id=47987006",
-      "points": 110,
-      "comments": 63,
-      "created_ts": 1777734133,
-      "author": "Brajeshwar"
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "hn_url": "https://news.ycombinator.com/item?id=47988504",
+      "points": 338,
+      "comments": 109,
+      "created_ts": 1777743149,
+      "author": "dabinat"
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "hn_url": "https://news.ycombinator.com/item?id=47988742",
+      "points": 248,
+      "comments": 256,
+      "created_ts": 1777744758,
+      "author": "geox"
+    },
+    {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "hn_url": "https://news.ycombinator.com/item?id=47984852",
+      "points": 224,
+      "comments": 83,
+      "created_ts": 1777714249,
+      "author": "moosia"
+    },
+    {
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=47988592",
+      "points": 207,
+      "comments": 67,
+      "created_ts": 1777743655,
+      "author": "RubyGuy"
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47988261",
+      "points": 197,
+      "comments": 125,
+      "created_ts": 1777741818,
+      "author": "1vuio0pswjnm7"
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "hn_url": "https://news.ycombinator.com/item?id=47990606",
+      "points": 180,
+      "comments": 33,
+      "created_ts": 1777756469,
+      "author": "valzevul"
+    },
+    {
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "url": "https://github.com/nexu-io/open-design",
+      "hn_url": "https://news.ycombinator.com/item?id=47985750",
+      "points": 179,
+      "comments": 86,
+      "created_ts": 1777724176,
+      "author": "steveharing1"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "hn_url": "https://news.ycombinator.com/item?id=47990318",
+      "points": 160,
+      "comments": 26,
+      "created_ts": 1777754790,
+      "author": "richardboegli"
+    },
+    {
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "hn_url": "https://news.ycombinator.com/item?id=47991350",
+      "points": 154,
+      "comments": 54,
+      "created_ts": 1777761923,
+      "author": "breve"
+    },
+    {
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "hn_url": "https://news.ycombinator.com/item?id=47987333",
+      "points": 124,
+      "comments": 134,
+      "created_ts": 1777736297,
+      "author": "nickvec"
+    },
+    {
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "hn_url": "https://news.ycombinator.com/item?id=47990284",
+      "points": 116,
+      "comments": 25,
+      "created_ts": 1777754540,
+      "author": "andsoitis"
     }
   ],
   "ph_today": {

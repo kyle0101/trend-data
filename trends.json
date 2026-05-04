@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-05-03T18:49:07.807Z",
+  "generated_at": "2026-05-04T02:08:42.867Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
-      "url": "https://hnup.date/hn-sota",
-      "hn_url": "https://news.ycombinator.com/item?id=47990708",
-      "points": 138,
-      "comments": 78,
-      "created_ts": 1777757105,
-      "author": "yunusabd"
-    },
-    {
       "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
       "url": "https://github.com/bring-shrubbery/ml-sharp-web",
       "hn_url": "https://news.ycombinator.com/item?id=47995037",
-      "points": 133,
-      "comments": 35,
+      "points": 159,
+      "comments": 40,
       "created_ts": 1777799696,
       "author": "bring-shrubbery"
+    },
+    {
+      "title": "Show HN: Ableton Live MCP",
+      "url": "https://github.com/bschoepke/ableton-live-mcp",
+      "hn_url": "https://news.ycombinator.com/item?id=47999656",
+      "points": 67,
+      "comments": 47,
+      "created_ts": 1777831528,
+      "author": "bschoepke"
+    },
+    {
+      "title": "Show HN: I built a RISC-V emulator that runs DOOM",
+      "url": "https://github.com/lalitshankarch/rvcore",
+      "hn_url": "https://news.ycombinator.com/item?id=47996055",
+      "points": 33,
+      "comments": 1,
+      "created_ts": 1777809432,
+      "author": "Flex247A"
     },
     {
       "title": "Show HN: I built a tool that helps predict HN front page success",
@@ -31,15 +40,6 @@
       "author": "margotli"
     },
     {
-      "title": "Show HN: I built a RISC-V emulator that runs DOOM",
-      "url": "https://github.com/lalitshankarch/rvcore",
-      "hn_url": "https://news.ycombinator.com/item?id=47996055",
-      "points": 21,
-      "comments": 0,
-      "created_ts": 1777809432,
-      "author": "Flex247A"
-    },
-    {
       "title": "Show HN: Bhatti – Self-hostable Firecracker orchestrator with auto pause/wake",
       "url": "https://bhatti.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=47996509",
@@ -47,85 +47,160 @@
       "comments": 3,
       "created_ts": 1777813014,
       "author": "sahil-shubham"
+    },
+    {
+      "title": "Show HN: Julius, a New Lisp Implementation",
+      "url": "https://github.com/tgflynn/Julius",
+      "hn_url": "https://news.ycombinator.com/item?id=47994161",
+      "points": 12,
+      "comments": 2,
+      "created_ts": 1777791517,
+      "author": "tgflynn"
+    },
+    {
+      "title": "Show HN: Software Engineer to Novelist: Writing a Book Like Coding",
+      "url": "https://frequal.com/forwriters/",
+      "hn_url": "https://news.ycombinator.com/item?id=47998570",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1777825592,
+      "author": "TeaVMFan"
     }
   ],
   "hn_front": [
     {
-      "title": "This Month in Ladybird – April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "hn_url": "https://news.ycombinator.com/item?id=47990318",
-      "points": 467,
-      "comments": 133,
-      "created_ts": 1777754790,
-      "author": "richardboegli"
-    },
-    {
-      "title": "Six years perfecting maps on watchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "hn_url": "https://news.ycombinator.com/item?id=47990606",
-      "points": 413,
-      "comments": 106,
-      "created_ts": 1777756469,
-      "author": "valzevul"
-    },
-    {
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
       "hn_url": "https://news.ycombinator.com/item?id=47997418",
-      "points": 403,
-      "comments": 231,
+      "points": 606,
+      "comments": 349,
       "created_ts": 1777819407,
       "author": "teleforce"
     },
     {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "hn_url": "https://news.ycombinator.com/item?id=47991802",
-      "points": 369,
-      "comments": 180,
-      "created_ts": 1777766474,
-      "author": "unignorant"
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "hn_url": "https://news.ycombinator.com/item?id=48000152",
+      "points": 270,
+      "comments": 273,
+      "created_ts": 1777834468,
+      "author": "dryadin"
     },
     {
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "hn_url": "https://news.ycombinator.com/item?id=47990284",
-      "points": 271,
-      "comments": 146,
-      "created_ts": 1777754540,
-      "author": "andsoitis"
+      "title": "Why TUIs are back",
+      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+      "hn_url": "https://news.ycombinator.com/item?id=48000028",
+      "points": 261,
+      "comments": 285,
+      "created_ts": 1777833748,
+      "author": "rickcarlino"
     },
     {
-      "title": "For thirty years I programmed with Phish on, every day",
-      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47998225",
-      "points": 154,
-      "comments": 104,
-      "created_ts": 1777823759,
-      "author": "azhenley"
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "hn_url": "https://news.ycombinator.com/item?id=47999636",
+      "points": 257,
+      "comments": 82,
+      "created_ts": 1777831394,
+      "author": "nullagent"
+    },
+    {
+      "title": "A desktop made for one",
+      "url": "https://isene.org/2026/05/Audience-of-One.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47997947",
+      "points": 237,
+      "comments": 96,
+      "created_ts": 1777822325,
+      "author": "xngbuilds"
+    },
+    {
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "hn_url": "https://news.ycombinator.com/item?id=47998790",
+      "points": 231,
+      "comments": 96,
+      "created_ts": 1777826891,
+      "author": "rishabhd"
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47998946",
+      "points": 192,
+      "comments": 59,
+      "created_ts": 1777827733,
+      "author": "KatiMichel"
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "hn_url": "https://news.ycombinator.com/item?id=48002136",
+      "points": 165,
+      "comments": 74,
+      "created_ts": 1777846400,
+      "author": "alattaran"
+    },
+    {
+      "title": "How far behind is each major Chromium browser?",
+      "url": "https://chromium-drift.pages.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=47999006",
+      "points": 164,
+      "comments": 57,
+      "created_ts": 1777827958,
+      "author": "skaul"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "hn_url": "https://news.ycombinator.com/item?id=48002442",
+      "points": 159,
+      "comments": 110,
+      "created_ts": 1777848727,
+      "author": "ayoisaiah"
     },
     {
       "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
       "url": "https://github.com/bring-shrubbery/ml-sharp-web",
       "hn_url": "https://news.ycombinator.com/item?id=47995037",
-      "points": 133,
-      "comments": 35,
+      "points": 159,
+      "comments": 40,
       "created_ts": 1777799696,
       "author": "bring-shrubbery"
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48002777",
+      "points": 123,
+      "comments": 83,
+      "created_ts": 1777851371,
+      "author": "bjhess"
+    },
+    {
+      "title": "Security through obscurity is not bad",
+      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
+      "hn_url": "https://news.ycombinator.com/item?id=47997486",
+      "points": 119,
+      "comments": 144,
+      "created_ts": 1777819796,
+      "author": "mobeigi"
+    },
+    {
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "hn_url": "https://news.ycombinator.com/item?id=48002938",
+      "points": 103,
+      "comments": 42,
+      "created_ts": 1777852742,
+      "author": "SpyCoder77"
     }
   ],
   "ph_today": [
     {
-      "title": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
+      "title": "PandaProbe",
+      "url": "https://www.producthunt.com/products/pandaprobe",
       "tagline": "",
-      "pub_date": "2026-04-23T04:26:09-07:00"
-    },
-    {
-      "title": "Huddle01 VMs",
-      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
-      "tagline": "",
-      "pub_date": "2026-04-25T11:17:26-07:00"
+      "pub_date": "2026-04-29T09:53:50-07:00"
     },
     {
       "title": "Aximote In-Car App",
@@ -140,10 +215,16 @@
       "pub_date": "2026-04-09T03:25:31-07:00"
     },
     {
-      "title": "PandaProbe",
-      "url": "https://www.producthunt.com/products/pandaprobe",
+      "title": "Huddle01 VMs",
+      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
       "tagline": "",
-      "pub_date": "2026-04-29T09:53:50-07:00"
+      "pub_date": "2026-04-25T11:17:26-07:00"
+    },
+    {
+      "title": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
+      "tagline": "",
+      "pub_date": "2026-04-23T04:26:09-07:00"
     },
     {
       "title": "Mockin 2.0",
@@ -152,34 +233,10 @@
       "pub_date": "2026-04-23T00:54:41-07:00"
     },
     {
-      "title": "YouTube TV Custom Multiview",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-04-28T19:51:28-07:00"
-    },
-    {
       "title": "Scholé",
       "url": "https://www.producthunt.com/products/schole-2",
       "tagline": "",
       "pub_date": "2026-04-21T15:30:17-07:00"
-    },
-    {
-      "title": "Feather",
-      "url": "https://www.producthunt.com/products/feather-18",
-      "tagline": "",
-      "pub_date": "2026-04-29T17:13:24-07:00"
-    },
-    {
-      "title": "Microsoft Copilot Health",
-      "url": "https://www.producthunt.com/products/copilot-health",
-      "tagline": "",
-      "pub_date": "2026-04-22T03:34:44-07:00"
-    },
-    {
-      "title": "Cloud Computer by Manus",
-      "url": "https://www.producthunt.com/products/manus",
-      "tagline": "",
-      "pub_date": "2026-04-30T08:50:18-07:00"
     },
     {
       "title": "Filect",
@@ -188,10 +245,34 @@
       "pub_date": "2026-04-26T14:57:34-07:00"
     },
     {
+      "title": "Feather",
+      "url": "https://www.producthunt.com/products/feather-18",
+      "tagline": "",
+      "pub_date": "2026-04-29T17:13:24-07:00"
+    },
+    {
       "title": "Breaks",
       "url": "https://www.producthunt.com/products/breaks",
       "tagline": "",
       "pub_date": "2026-04-29T03:16:20-07:00"
+    },
+    {
+      "title": "Cloud Computer by Manus",
+      "url": "https://www.producthunt.com/products/manus",
+      "tagline": "",
+      "pub_date": "2026-04-30T08:50:18-07:00"
+    },
+    {
+      "title": "Microsoft Copilot Health",
+      "url": "https://www.producthunt.com/products/copilot-health",
+      "tagline": "",
+      "pub_date": "2026-04-22T03:34:44-07:00"
+    },
+    {
+      "title": "YouTube TV Custom Multiview",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-04-28T19:51:28-07:00"
     },
     {
       "title": "Ara",
@@ -200,22 +281,22 @@
       "pub_date": "2026-04-30T18:30:46-07:00"
     },
     {
-      "title": "Postiz",
-      "url": "https://www.producthunt.com/products/postiz",
-      "tagline": "",
-      "pub_date": "2026-04-26T05:37:39-07:00"
-    },
-    {
       "title": "Buda",
       "url": "https://www.producthunt.com/products/buda-2",
       "tagline": "",
       "pub_date": "2026-04-27T16:18:01-07:00"
     },
     {
-      "title": "MUSIXQUARE",
-      "url": "https://www.producthunt.com/products/musixquare",
+      "title": "HiveTerm",
+      "url": "https://www.producthunt.com/products/hiveterm",
       "tagline": "",
-      "pub_date": "2026-04-18T15:18:21-07:00"
+      "pub_date": "2026-04-30T02:41:22-07:00"
+    },
+    {
+      "title": "PeekFocus",
+      "url": "https://www.producthunt.com/products/peekfocus",
+      "tagline": "",
+      "pub_date": "2026-04-30T21:57:56-07:00"
     },
     {
       "title": "ScreenVeil",
@@ -224,16 +305,34 @@
       "pub_date": "2026-04-28T00:56:19-07:00"
     },
     {
-      "title": "nudge",
-      "url": "https://www.producthunt.com/products/nudge-26",
+      "title": "LaunchCut",
+      "url": "https://www.producthunt.com/products/launchcut-2",
       "tagline": "",
-      "pub_date": "2026-04-30T02:59:09-07:00"
+      "pub_date": "2026-04-30T14:35:28-07:00"
     },
     {
       "title": "TrafficClaw",
       "url": "https://www.producthunt.com/products/trafficclaw",
       "tagline": "",
       "pub_date": "2026-03-20T07:25:13-07:00"
+    },
+    {
+      "title": "nudge",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "tagline": "",
+      "pub_date": "2026-04-30T02:59:09-07:00"
+    },
+    {
+      "title": "Postiz",
+      "url": "https://www.producthunt.com/products/postiz",
+      "tagline": "",
+      "pub_date": "2026-04-26T05:37:39-07:00"
+    },
+    {
+      "title": "MUSIXQUARE",
+      "url": "https://www.producthunt.com/products/musixquare",
+      "tagline": "",
+      "pub_date": "2026-04-18T15:18:21-07:00"
     },
     {
       "title": "Montage",
@@ -248,28 +347,10 @@
       "pub_date": "2026-04-27T21:44:07-07:00"
     },
     {
-      "title": "Genspark for Word",
-      "url": "https://www.producthunt.com/products/genspark",
+      "title": "Beauty Diagram",
+      "url": "https://www.producthunt.com/products/beauty-diagram",
       "tagline": "",
-      "pub_date": "2026-04-08T08:53:54-07:00"
-    },
-    {
-      "title": "LaunchCut",
-      "url": "https://www.producthunt.com/products/launchcut-2",
-      "tagline": "",
-      "pub_date": "2026-04-30T14:35:28-07:00"
-    },
-    {
-      "title": "PeekFocus",
-      "url": "https://www.producthunt.com/products/peekfocus",
-      "tagline": "",
-      "pub_date": "2026-04-30T21:57:56-07:00"
-    },
-    {
-      "title": "Marx Finance",
-      "url": "https://www.producthunt.com/products/marx-finance",
-      "tagline": "",
-      "pub_date": "2026-04-30T02:41:02-07:00"
+      "pub_date": "2026-04-30T09:57:43-07:00"
     },
     {
       "title": "Zed 1.0",
@@ -278,22 +359,22 @@
       "pub_date": "2026-04-30T09:34:46-07:00"
     },
     {
-      "title": "HiveTerm",
-      "url": "https://www.producthunt.com/products/hiveterm",
+      "title": "Genspark for Word",
+      "url": "https://www.producthunt.com/products/genspark",
       "tagline": "",
-      "pub_date": "2026-04-30T02:41:22-07:00"
+      "pub_date": "2026-04-08T08:53:54-07:00"
     },
     {
-      "title": "Zush",
-      "url": "https://www.producthunt.com/products/zush",
+      "title": "Ghosted",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
       "tagline": "",
-      "pub_date": "2026-04-24T07:28:09-07:00"
+      "pub_date": "2026-04-30T08:54:01-07:00"
     },
     {
-      "title": "Beauty Diagram",
-      "url": "https://www.producthunt.com/products/beauty-diagram",
+      "title": "AnyDrop",
+      "url": "https://www.producthunt.com/products/anydrop-3",
       "tagline": "",
-      "pub_date": "2026-04-30T09:57:43-07:00"
+      "pub_date": "2026-04-29T02:48:08-07:00"
     }
   ]
 }

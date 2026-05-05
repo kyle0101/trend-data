@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-05-05T02:07:37.061Z",
+  "generated_at": "2026-05-05T07:58:58.658Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
+    {
+      "title": "Show HN: Muesli – If Granola and Wisprflow had an open source on device baby",
+      "url": "https://freedspeech.xyz",
+      "hn_url": "https://news.ycombinator.com/item?id=48011116",
+      "points": 14,
+      "comments": 9,
+      "created_ts": 1777912914,
+      "author": "pHequals7"
+    },
     {
       "title": "Show HN: Bonsai 1.7B ternary model at 442T/s on M4 Max",
       "url": "https://agents2agents.ai/bonsai",
@@ -11,15 +20,6 @@
       "comments": 3,
       "created_ts": 1777909638,
       "author": "hhuytho"
-    },
-    {
-      "title": "Show HN: Muesli – If Granola and Wisprflow had an open source on device baby",
-      "url": "https://freedspeech.xyz",
-      "hn_url": "https://news.ycombinator.com/item?id=48011116",
-      "points": 11,
-      "comments": 6,
-      "created_ts": 1777912914,
-      "author": "pHequals7"
     }
   ],
   "hn_front": [
@@ -27,35 +27,17 @@
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
       "hn_url": "https://news.ycombinator.com/item?id=48007438",
-      "points": 1166,
-      "comments": 546,
+      "points": 1316,
+      "comments": 625,
       "created_ts": 1777894862,
       "author": "thitran"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "hn_url": "https://news.ycombinator.com/item?id=48006402",
-      "points": 640,
-      "comments": 608,
-      "created_ts": 1777887072,
-      "author": "n1b0m"
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "hn_url": "https://news.ycombinator.com/item?id=48011689",
-      "points": 417,
-      "comments": 144,
-      "created_ts": 1777914996,
-      "author": "ZeidJ"
     },
     {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
       "hn_url": "https://news.ycombinator.com/item?id=48012735",
-      "points": 416,
-      "comments": 149,
+      "points": 518,
+      "comments": 183,
       "created_ts": 1777918962,
       "author": "cft"
     },
@@ -63,35 +45,62 @@
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
       "hn_url": "https://news.ycombinator.com/item?id=48011184",
-      "points": 411,
-      "comments": 283,
+      "points": 475,
+      "comments": 314,
       "created_ts": 1777913100,
       "author": "remote-dev"
+    },
+    {
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "hn_url": "https://news.ycombinator.com/item?id=48016880",
+      "points": 452,
+      "comments": 314,
+      "created_ts": 1777943297,
+      "author": "SergeAx"
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "hn_url": "https://news.ycombinator.com/item?id=48013919",
-      "points": 287,
-      "comments": 104,
+      "points": 388,
+      "comments": 122,
       "created_ts": 1777923767,
       "author": "Sean-Der"
+    },
+    {
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "hn_url": "https://news.ycombinator.com/item?id=48016534",
+      "points": 298,
+      "comments": 45,
+      "created_ts": 1777939741,
+      "author": "gyomu"
     },
     {
       "title": "How Monero’s proof of work works",
       "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
       "hn_url": "https://news.ycombinator.com/item?id=48009020",
-      "points": 238,
-      "comments": 183,
+      "points": 279,
+      "comments": 196,
       "created_ts": 1777903850,
       "author": "alcazar"
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "hn_url": "https://news.ycombinator.com/item?id=48009983",
+      "points": 274,
+      "comments": 253,
+      "created_ts": 1777908766,
+      "author": "littlexsparkee"
     },
     {
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
       "hn_url": "https://news.ycombinator.com/item?id=48009172",
-      "points": 233,
-      "comments": 80,
+      "points": 273,
+      "comments": 89,
       "created_ts": 1777904587,
       "author": "antirez"
     },
@@ -99,71 +108,53 @@
       "title": "PyInfra 3.8.0",
       "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
       "hn_url": "https://news.ycombinator.com/item?id=48008083",
-      "points": 223,
-      "comments": 82,
+      "points": 266,
+      "comments": 89,
       "created_ts": 1777899226,
       "author": "wowi42"
     },
     {
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-      "hn_url": "https://news.ycombinator.com/item?id=48011603",
-      "points": 221,
-      "comments": 150,
-      "created_ts": 1777914657,
-      "author": "andsoitis"
-    },
-    {
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "hn_url": "https://news.ycombinator.com/item?id=48009983",
-      "points": 214,
-      "comments": 212,
-      "created_ts": 1777908766,
-      "author": "littlexsparkee"
-    },
-    {
-      "title": "Heat pump sales rise across Europe",
-      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-      "hn_url": "https://news.ycombinator.com/item?id=48012003",
-      "points": 210,
-      "comments": 125,
-      "created_ts": 1777916115,
-      "author": "doener"
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "hn_url": "https://news.ycombinator.com/item?id=48015397",
+      "points": 232,
+      "comments": 100,
+      "created_ts": 1777930842,
+      "author": "BOOSTERHIDROGEN"
     },
     {
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
       "hn_url": "https://news.ycombinator.com/item?id=48012162",
-      "points": 170,
-      "comments": 74,
+      "points": 193,
+      "comments": 80,
       "created_ts": 1777916792,
       "author": "bearsyankees"
     },
     {
-      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "url": "https://www.fuelinsight.co.uk",
-      "hn_url": "https://news.ycombinator.com/item?id=48009747",
-      "points": 159,
-      "comments": 75,
-      "created_ts": 1777907721,
-      "author": "theazureguy"
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "hn_url": "https://news.ycombinator.com/item?id=48017298",
+      "points": 186,
+      "comments": 108,
+      "created_ts": 1777946901,
+      "author": "raphaelcosta"
     },
     {
-      "title": "Newton's law of gravity passes its biggest test",
-      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "hn_url": "https://news.ycombinator.com/item?id=48008074",
-      "points": 138,
-      "comments": 129,
-      "created_ts": 1777899177,
-      "author": "pseudolus"
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "hn_url": "https://news.ycombinator.com/item?id=48017948",
+      "points": 173,
+      "comments": 20,
+      "created_ts": 1777954157,
+      "author": "kristianpaul"
     },
     {
       "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
       "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
       "hn_url": "https://news.ycombinator.com/item?id=48009840",
-      "points": 128,
-      "comments": 101,
+      "points": 164,
+      "comments": 122,
       "created_ts": 1777908173,
       "author": "Brajeshwar"
     },
@@ -171,219 +162,201 @@
       "title": "Formatting a 25M-line codebase overnight",
       "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
       "hn_url": "https://news.ycombinator.com/item?id=48014325",
-      "points": 124,
-      "comments": 66,
+      "points": 162,
+      "comments": 82,
       "created_ts": 1777925513,
       "author": "r00k"
     },
     {
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "hn_url": "https://news.ycombinator.com/item?id=48015397",
-      "points": 116,
-      "comments": 37,
-      "created_ts": 1777930842,
-      "author": "BOOSTERHIDROGEN"
-    },
-    {
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "hn_url": "https://news.ycombinator.com/item?id=48016880",
-      "points": 103,
-      "comments": 48,
-      "created_ts": 1777943297,
-      "author": "SergeAx"
-    },
-    {
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "url": "https://pomiferous.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48009441",
-      "points": 102,
-      "comments": 43,
-      "created_ts": 1777906061,
-      "author": "Ariarule"
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "url": "https://walzr.com/empty-screenings",
+      "hn_url": "https://news.ycombinator.com/item?id=48018066",
+      "points": 125,
+      "comments": 99,
+      "created_ts": 1777955602,
+      "author": "MrBuddyCasino"
     }
   ],
   "ph_today": [
     {
-      "title": "Claude Code &amp; Codex Usage Trading Cards by Rudel",
-      "url": "https://www.producthunt.com/products/rudel",
+      "title": "PanicMode",
+      "url": "https://www.producthunt.com/products/panicmode",
       "tagline": "",
-      "pub_date": "2026-04-30T01:41:49-07:00"
+      "pub_date": "2026-05-04T05:28:29-07:00"
     },
     {
-      "title": "Mindra",
-      "url": "https://www.producthunt.com/products/mindra",
+      "title": "PaceBar",
+      "url": "https://www.producthunt.com/products/pacebar",
       "tagline": "",
-      "pub_date": "2026-04-22T09:34:27-07:00"
+      "pub_date": "2026-05-01T11:45:24-07:00"
     },
     {
-      "title": "Visitor profiles and timeline by Croct",
-      "url": "https://www.producthunt.com/products/croct",
+      "title": "Steam Controller",
+      "url": "https://www.producthunt.com/products/steam-machine",
       "tagline": "",
-      "pub_date": "2026-04-15T13:00:46-07:00"
+      "pub_date": "2026-05-04T20:25:17-07:00"
     },
     {
-      "title": "Flowly",
-      "url": "https://www.producthunt.com/products/flowly-6",
+      "title": "Facts",
+      "url": "https://www.producthunt.com/products/facts-fc3505e0-6206-4a1b-b6b4-01b7ffbb7783",
       "tagline": "",
-      "pub_date": "2026-05-02T17:13:34-07:00"
+      "pub_date": "2026-05-04T08:09:35-07:00"
     },
     {
-      "title": "Aaavatar",
-      "url": "https://www.producthunt.com/products/aaavatar",
+      "title": "Ghostwriter",
+      "url": "https://www.producthunt.com/products/ghostwriter-5",
       "tagline": "",
-      "pub_date": "2026-05-03T16:39:06-07:00"
+      "pub_date": "2026-03-19T22:27:03-07:00"
     },
     {
-      "title": "Manex",
-      "url": "https://www.producthunt.com/products/manex",
+      "title": "Agentic API Grader by SaaStr.ai",
+      "url": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
       "tagline": "",
-      "pub_date": "2026-05-02T03:38:25-07:00"
+      "pub_date": "2026-05-04T04:30:55-07:00"
     },
     {
-      "title": "Regulus by Cumbuca",
-      "url": "https://www.producthunt.com/products/cumbuca",
+      "title": "Unity AI",
+      "url": "https://www.producthunt.com/products/unity",
       "tagline": "",
-      "pub_date": "2026-04-30T15:35:10-07:00"
+      "pub_date": "2026-05-04T21:14:03-07:00"
     },
     {
-      "title": "Dropy",
-      "url": "https://www.producthunt.com/products/dropy-price-tracker-price-history",
+      "title": "Openclick",
+      "url": "https://www.producthunt.com/products/openclick",
       "tagline": "",
-      "pub_date": "2026-05-03T10:22:54-07:00"
+      "pub_date": "2026-05-04T13:45:55-07:00"
     },
     {
-      "title": "Codex Pets",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Tollecode",
+      "url": "https://www.producthunt.com/products/tollecode",
       "tagline": "",
-      "pub_date": "2026-05-03T20:02:40-07:00"
+      "pub_date": "2026-05-04T05:39:06-07:00"
     },
     {
-      "title": "Panels Store",
-      "url": "https://www.producthunt.com/products/panels-store",
+      "title": "Dina",
+      "url": "https://www.producthunt.com/products/dina",
       "tagline": "",
-      "pub_date": "2026-05-01T14:00:27-07:00"
+      "pub_date": "2026-05-04T22:57:40-07:00"
     },
     {
-      "title": "Sleek Analytics for iOS",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "title": "Flowstep 1.0",
+      "url": "https://www.producthunt.com/products/flowstep",
       "tagline": "",
-      "pub_date": "2026-05-03T04:40:34-07:00"
+      "pub_date": "2026-04-27T10:13:36-07:00"
     },
     {
-      "title": "Replyke V7",
-      "url": "https://www.producthunt.com/products/replyke",
+      "title": "Intuned Agent",
+      "url": "https://www.producthunt.com/products/intuned",
       "tagline": "",
-      "pub_date": "2026-04-19T22:28:08-07:00"
+      "pub_date": "2026-05-01T10:11:05-07:00"
     },
     {
-      "title": "PandaProbe",
-      "url": "https://www.producthunt.com/products/pandaprobe",
+      "title": "Kilo Code for VS Code 7",
+      "url": "https://www.producthunt.com/products/kilocode",
       "tagline": "",
-      "pub_date": "2026-04-29T09:53:50-07:00"
+      "pub_date": "2026-03-30T01:59:27-07:00"
     },
     {
-      "title": "Huddle01 VMs",
-      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+      "title": "Breathwrk",
+      "url": "https://www.producthunt.com/products/breathwrk",
       "tagline": "",
-      "pub_date": "2026-04-25T11:17:26-07:00"
+      "pub_date": "2026-05-04T13:40:32-07:00"
     },
     {
-      "title": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
+      "title": "Velo 2.0",
+      "url": "https://www.producthunt.com/products/velo-4",
       "tagline": "",
-      "pub_date": "2026-04-23T04:26:09-07:00"
+      "pub_date": "2026-05-04T09:58:38-07:00"
     },
     {
-      "title": "Rosentic",
-      "url": "https://www.producthunt.com/products/rosentic",
+      "title": "Blaze",
+      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
       "tagline": "",
-      "pub_date": "2026-04-09T03:25:31-07:00"
+      "pub_date": "2026-04-29T07:37:18-07:00"
     },
     {
-      "title": "Mockin 2.0",
-      "url": "https://www.producthunt.com/products/mockin-for-product-designers",
+      "title": "Airbyte Agents",
+      "url": "https://www.producthunt.com/products/airbyte-agents",
       "tagline": "",
-      "pub_date": "2026-04-23T00:54:41-07:00"
+      "pub_date": "2026-05-04T08:40:19-07:00"
     },
     {
-      "title": "Aximote In-Car App",
-      "url": "https://www.producthunt.com/products/aximote-in-car-app",
+      "title": "SupplyMango",
+      "url": "https://www.producthunt.com/products/supplymango",
       "tagline": "",
-      "pub_date": "2026-04-30T07:04:40-07:00"
+      "pub_date": "2026-04-30T14:30:12-07:00"
     },
     {
-      "title": "Cloud Computer by Manus",
-      "url": "https://www.producthunt.com/products/manus",
+      "title": "Zumma",
+      "url": "https://www.producthunt.com/products/zumma",
       "tagline": "",
-      "pub_date": "2026-04-30T08:50:18-07:00"
+      "pub_date": "2026-04-30T14:29:37-07:00"
     },
     {
-      "title": "Feather",
-      "url": "https://www.producthunt.com/products/feather-18",
+      "title": "Firstwork",
+      "url": "https://www.producthunt.com/products/firstwork-2",
       "tagline": "",
-      "pub_date": "2026-04-29T17:13:24-07:00"
+      "pub_date": "2026-04-30T14:30:43-07:00"
     },
     {
-      "title": "Ara",
-      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "title": "Waydev Agent",
+      "url": "https://www.producthunt.com/products/waydev",
       "tagline": "",
-      "pub_date": "2026-04-30T18:30:46-07:00"
+      "pub_date": "2026-04-30T14:27:38-07:00"
     },
     {
-      "title": "Scholé",
-      "url": "https://www.producthunt.com/products/schole-2",
+      "title": "DeepXL Corp",
+      "url": "https://www.producthunt.com/products/deepxl-ai",
       "tagline": "",
-      "pub_date": "2026-04-21T15:30:17-07:00"
+      "pub_date": "2026-04-30T14:28:41-07:00"
     },
     {
-      "title": "Filect",
-      "url": "https://www.producthunt.com/products/filect",
+      "title": "Mentium.io",
+      "url": "https://www.producthunt.com/products/mentium-io",
       "tagline": "",
-      "pub_date": "2026-04-26T14:57:34-07:00"
+      "pub_date": "2026-04-30T14:27:59-07:00"
     },
     {
-      "title": "Microsoft Copilot Health",
-      "url": "https://www.producthunt.com/products/copilot-health",
+      "title": "AskSia Inc.",
+      "url": "https://www.producthunt.com/products/asksia-ai",
       "tagline": "",
-      "pub_date": "2026-04-22T03:34:44-07:00"
+      "pub_date": "2026-04-30T14:28:17-07:00"
     },
     {
-      "title": "YouTube TV Custom Multiview",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Truck Parking Club",
+      "url": "https://www.producthunt.com/products/truck-parking-club",
       "tagline": "",
-      "pub_date": "2026-04-28T19:51:28-07:00"
+      "pub_date": "2026-04-30T14:29:32-07:00"
     },
     {
-      "title": "Breaks",
-      "url": "https://www.producthunt.com/products/breaks",
+      "title": "Mona",
+      "url": "https://www.producthunt.com/products/mona-8",
       "tagline": "",
-      "pub_date": "2026-04-29T03:16:20-07:00"
+      "pub_date": "2026-04-30T14:27:45-07:00"
     },
     {
-      "title": "Genspark for Word",
-      "url": "https://www.producthunt.com/products/genspark",
+      "title": "Omniscope",
+      "url": "https://www.producthunt.com/products/omniscope",
       "tagline": "",
-      "pub_date": "2026-04-08T08:53:54-07:00"
+      "pub_date": "2026-04-30T14:30:46-07:00"
     },
     {
-      "title": "Marx Finance",
-      "url": "https://www.producthunt.com/products/marx-finance",
+      "title": "Oriane",
+      "url": "https://www.producthunt.com/products/oriane",
       "tagline": "",
-      "pub_date": "2026-04-30T02:41:02-07:00"
+      "pub_date": "2026-04-30T14:30:50-07:00"
     },
     {
-      "title": "LaunchCut",
-      "url": "https://www.producthunt.com/products/launchcut-2",
+      "title": "OrderEAT",
+      "url": "https://www.producthunt.com/products/ordereat",
       "tagline": "",
-      "pub_date": "2026-04-30T14:35:28-07:00"
+      "pub_date": "2026-04-30T14:29:46-07:00"
     },
     {
-      "title": "Ghosted",
-      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+      "title": "Art House",
+      "url": "https://www.producthunt.com/products/art-house",
       "tagline": "",
-      "pub_date": "2026-04-30T08:54:01-07:00"
+      "pub_date": "2026-04-30T14:29:18-07:00"
     }
   ]
 }

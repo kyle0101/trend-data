@@ -1,97 +1,70 @@
 {
-  "generated_at": "2026-05-06T13:50:24.220Z",
+  "generated_at": "2026-05-06T19:27:18.963Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "url": "https://red-squares.cian.lol/",
-      "hn_url": "https://news.ycombinator.com/item?id=48034587",
-      "points": 432,
-      "comments": 89,
-      "created_ts": 1778063320,
-      "author": "cianmm"
+      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+      "url": "https://tilde.run/",
+      "hn_url": "https://news.ycombinator.com/item?id=48037724",
+      "points": 90,
+      "comments": 75,
+      "created_ts": 1778083114,
+      "author": "ozkatz"
     },
     {
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48026342",
-      "points": 190,
-      "comments": 65,
-      "created_ts": 1778004794,
-      "author": "ouli"
+      "title": "Show HN: Hallucinopedia",
+      "url": "http://halupedia.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48038257",
+      "points": 55,
+      "comments": 56,
+      "created_ts": 1778085472,
+      "author": "bstrama"
     },
     {
-      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-      "url": "https://news.ycombinator.com/item?id=48023496",
-      "hn_url": "https://news.ycombinator.com/item?id=48023496",
-      "points": 127,
-      "comments": 32,
-      "created_ts": 1777993398,
-      "author": "mtricot"
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48038019",
+      "points": 42,
+      "comments": 13,
+      "created_ts": 1778084400,
+      "author": "oahmadov"
     },
     {
-      "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
-      "url": "https://github.com/aragossa/pii-shield",
-      "hn_url": "https://news.ycombinator.com/item?id=48023587",
+      "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
+      "url": "https://github.com/sqliteai/adam",
+      "hn_url": "https://news.ycombinator.com/item?id=48035677",
       "points": 24,
-      "comments": 4,
-      "created_ts": 1777993768,
-      "author": "aragoss"
+      "comments": 8,
+      "created_ts": 1778072189,
+      "author": "marcobambini"
     },
     {
-      "title": "Show HN: New Benchmark from SWE-bench team is 0% solved",
-      "url": "https://programbench.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48023602",
-      "points": 17,
-      "comments": 3,
-      "created_ts": 1777993841,
-      "author": "lieret"
+      "title": "Show HN: NFC tags are good material for pranks on Android",
+      "url": "https://mastodon.social/@maxwellito/116524250100439866",
+      "hn_url": "https://news.ycombinator.com/item?id=48036182",
+      "points": 13,
+      "comments": 2,
+      "created_ts": 1778075057,
+      "author": "maxwellito"
     },
     {
-      "title": "Show HN: Codeberg (Forgejo) CLI, built with Xclif",
-      "url": "https://codeberg.org/thatxliner/codeberg-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=48023567",
-      "points": 15,
-      "comments": 1,
-      "created_ts": 1777993678,
-      "author": "thatxliner"
+      "title": "Show HN: Better Design – 28 Shadcn design systems (OSS, MCP: Cursor/Claude Code)",
+      "url": "https://github.com/marvkr/better-design",
+      "hn_url": "https://news.ycombinator.com/item?id=48030177",
+      "points": 11,
+      "comments": 0,
+      "created_ts": 1778023895,
+      "author": "marvinkr"
     }
   ],
   "hn_front": [
     {
-      "title": "DNSSEC disruption affecting .de domains – Resolved",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "hn_url": "https://news.ycombinator.com/item?id=48027897",
-      "points": 699,
-      "comments": 370,
-      "created_ts": 1778012195,
-      "author": "warpspin"
-    },
-    {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "hn_url": "https://news.ycombinator.com/item?id=48024540",
-      "points": 610,
-      "comments": 298,
-      "created_ts": 1777997657,
-      "author": "amrrs"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48023861",
-      "points": 482,
-      "comments": 326,
-      "created_ts": 1777994838,
-      "author": "blenderob"
-    },
-    {
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
       "hn_url": "https://news.ycombinator.com/item?id=48031261",
-      "points": 474,
-      "comments": 237,
+      "points": 620,
+      "comments": 339,
       "created_ts": 1778033024,
       "author": "signa11"
     },
@@ -99,129 +72,120 @@
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "hn_url": "https://news.ycombinator.com/item?id=48031684",
-      "points": 454,
-      "comments": 243,
+      "points": 588,
+      "comments": 338,
       "created_ts": 1778037033,
       "author": "rolph"
     },
     {
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "url": "https://red-squares.cian.lol/",
-      "hn_url": "https://news.ycombinator.com/item?id=48034587",
-      "points": 432,
-      "comments": 89,
-      "created_ts": 1778063320,
-      "author": "cianmm"
-    },
-    {
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "hn_url": "https://news.ycombinator.com/item?id=48024859",
-      "points": 426,
-      "comments": 244,
-      "created_ts": 1777998888,
-      "author": "palashawas"
-    },
-    {
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=48028842",
-      "points": 304,
-      "comments": 209,
-      "created_ts": 1778016410,
-      "author": "nohell"
-    },
-    {
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "hn_url": "https://news.ycombinator.com/item?id=48024129",
-      "points": 303,
-      "comments": 80,
-      "created_ts": 1777996038,
-      "author": "brudgers"
-    },
-    {
-      "title": "YouTube, your RSS feeds are broken",
-      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-      "hn_url": "https://news.ycombinator.com/item?id=48030964",
-      "points": 206,
-      "comments": 77,
-      "created_ts": 1778030131,
-      "author": "veeti"
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "hn_url": "https://news.ycombinator.com/item?id=48037555",
+      "points": 567,
+      "comments": 183,
+      "created_ts": 1778082253,
+      "author": "haunter"
     },
     {
       "title": "Knitting bullshit",
       "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
       "hn_url": "https://news.ycombinator.com/item?id=48032461",
-      "points": 205,
-      "comments": 97,
+      "points": 369,
+      "comments": 157,
       "created_ts": 1778044438,
       "author": "ColinEberhardt"
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "hn_url": "https://news.ycombinator.com/item?id=48031109",
-      "points": 190,
-      "comments": 154,
-      "created_ts": 1778031524,
-      "author": "debo_"
-    },
-    {
-      "title": "Why most product tours get skipped",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "hn_url": "https://news.ycombinator.com/item?id=48028546",
-      "points": 183,
-      "comments": 156,
-      "created_ts": 1778015119,
-      "author": "pancomplex"
-    },
-    {
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "hn_url": "https://news.ycombinator.com/item?id=48031867",
-      "points": 140,
-      "comments": 86,
-      "created_ts": 1778038671,
-      "author": "neilfrndes"
+      "title": "YouTube, your RSS feeds are broken",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "hn_url": "https://news.ycombinator.com/item?id=48030964",
+      "points": 290,
+      "comments": 102,
+      "created_ts": 1778030131,
+      "author": "veeti"
     },
     {
       "title": "Multi-stroke text effect in CSS",
       "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
       "hn_url": "https://news.ycombinator.com/item?id=48032265",
-      "points": 138,
-      "comments": 18,
+      "points": 265,
+      "comments": 37,
       "created_ts": 1778042605,
       "author": "cheeaun"
+    },
+    {
+      "title": "Appearing Productive in the Workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "hn_url": "https://news.ycombinator.com/item?id=48038001",
+      "points": 238,
+      "comments": 80,
+      "created_ts": 1778084309,
+      "author": "diebillionaires"
+    },
+    {
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "hn_url": "https://news.ycombinator.com/item?id=48031867",
+      "points": 214,
+      "comments": 158,
+      "created_ts": 1778038671,
+      "author": "neilfrndes"
     },
     {
       "title": "Reverse-engineering the 1998 Ultima Online demo server",
       "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
       "hn_url": "https://news.ycombinator.com/item?id=48032976",
-      "points": 118,
-      "comments": 24,
+      "points": 193,
+      "comments": 50,
       "created_ts": 1778049089,
       "author": "notsentient"
+    },
+    {
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "hn_url": "https://news.ycombinator.com/item?id=48037128",
+      "points": 179,
+      "comments": 244,
+      "created_ts": 1778079997,
+      "author": "e12e"
+    },
+    {
+      "title": "CNN founder Ted Turner, a pioneer of cable TV news, dies at 87",
+      "url": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
+      "hn_url": "https://news.ycombinator.com/item?id=48037009",
+      "points": 118,
+      "comments": 91,
+      "created_ts": 1778079397,
+      "author": "pseudolus"
+    },
+    {
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "hn_url": "https://news.ycombinator.com/item?id=48034762",
+      "points": 108,
+      "comments": 32,
+      "created_ts": 1778064832,
+      "author": "jandeboevrie"
     }
   ],
   "ph_today": [
+    {
+      "title": "Shadow 2.0",
+      "url": "https://www.producthunt.com/products/shadow-6",
+      "tagline": "",
+      "pub_date": "2026-04-30T23:19:43-07:00"
+    },
+    {
+      "title": "WOZCODE",
+      "url": "https://www.producthunt.com/products/wozcode",
+      "tagline": "",
+      "pub_date": "2026-05-01T09:22:31-07:00"
+    },
     {
       "title": "Ads in ChatGPT",
       "url": "https://www.producthunt.com/products/chatgpt",
       "tagline": "",
       "pub_date": "2026-05-05T20:17:32-07:00"
-    },
-    {
-      "title": "Realtime TTS-2",
-      "url": "https://www.producthunt.com/products/inworld-ai",
-      "tagline": "",
-      "pub_date": "2026-04-24T09:23:14-07:00"
-    },
-    {
-      "title": "Superset 2.0",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "tagline": "",
-      "pub_date": "2026-04-21T09:45:22-07:00"
     },
     {
       "title": "pay.sh",
@@ -230,10 +194,10 @@
       "pub_date": "2026-05-01T06:17:19-07:00"
     },
     {
-      "title": "Spotit",
-      "url": "https://www.producthunt.com/products/spotit-3",
+      "title": "Superset 2.0",
+      "url": "https://www.producthunt.com/products/superset-5",
       "tagline": "",
-      "pub_date": "2026-05-03T07:57:35-07:00"
+      "pub_date": "2026-04-21T09:45:22-07:00"
     },
     {
       "title": "Kanwas",
@@ -242,10 +206,76 @@
       "pub_date": "2026-05-05T15:00:12-07:00"
     },
     {
+      "title": "Gas City 1.0",
+      "url": "https://www.producthunt.com/products/gas-city",
+      "tagline": "",
+      "pub_date": "2026-05-01T18:26:03-07:00"
+    },
+    {
+      "title": "Spotit",
+      "url": "https://www.producthunt.com/products/spotit-3",
+      "tagline": "",
+      "pub_date": "2026-05-03T07:57:35-07:00"
+    },
+    {
+      "title": "Gyro Autopilot",
+      "url": "https://www.producthunt.com/products/gyro-autopilot",
+      "tagline": "",
+      "pub_date": "2026-04-13T01:22:55-07:00"
+    },
+    {
+      "title": "damnlines.com",
+      "url": "https://www.producthunt.com/products/damnlines-com",
+      "tagline": "",
+      "pub_date": "2026-05-04T19:13:30-07:00"
+    },
+    {
       "title": "Contrario",
       "url": "https://www.producthunt.com/products/contrario",
       "tagline": "",
       "pub_date": "2026-04-21T14:24:56-07:00"
+    },
+    {
+      "title": "moar",
+      "url": "https://www.producthunt.com/products/moar-2",
+      "tagline": "",
+      "pub_date": "2026-05-04T17:45:48-07:00"
+    },
+    {
+      "title": "Magic",
+      "url": "https://www.producthunt.com/products/magic-13",
+      "tagline": "",
+      "pub_date": "2026-03-23T07:54:48-07:00"
+    },
+    {
+      "title": "Custom Integrations by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "tagline": "",
+      "pub_date": "2026-04-28T06:11:50-07:00"
+    },
+    {
+      "title": "Realtime TTS-2",
+      "url": "https://www.producthunt.com/products/inworld-ai",
+      "tagline": "",
+      "pub_date": "2026-04-24T09:23:14-07:00"
+    },
+    {
+      "title": "Magic Studio by Once UI",
+      "url": "https://www.producthunt.com/products/magic-studio-by-once-ui",
+      "tagline": "",
+      "pub_date": "2026-05-05T10:27:45-07:00"
+    },
+    {
+      "title": "Alumni Founder",
+      "url": "https://www.producthunt.com/products/alumni-founder",
+      "tagline": "",
+      "pub_date": "2026-05-04T06:03:43-07:00"
+    },
+    {
+      "title": "Open Finance MCP",
+      "url": "https://www.producthunt.com/products/open-finance-mcp",
+      "tagline": "",
+      "pub_date": "2026-04-30T15:27:51-07:00"
     },
     {
       "title": "GetDynasty",
@@ -260,118 +290,22 @@
       "pub_date": "2026-05-05T11:49:37-07:00"
     },
     {
-      "title": "DevAlly",
-      "url": "https://www.producthunt.com/products/devally",
-      "tagline": "",
-      "pub_date": "2026-05-05T15:10:01-07:00"
-    },
-    {
-      "title": "Gas City 1.0",
-      "url": "https://www.producthunt.com/products/gas-city",
-      "tagline": "",
-      "pub_date": "2026-05-01T18:26:03-07:00"
-    },
-    {
-      "title": "Magic",
-      "url": "https://www.producthunt.com/products/magic-13",
-      "tagline": "",
-      "pub_date": "2026-03-23T07:54:48-07:00"
-    },
-    {
-      "title": "Alumni Founder",
-      "url": "https://www.producthunt.com/products/alumni-founder",
-      "tagline": "",
-      "pub_date": "2026-05-04T06:03:43-07:00"
-    },
-    {
-      "title": "Custom Integrations by Databox",
-      "url": "https://www.producthunt.com/products/databox",
-      "tagline": "",
-      "pub_date": "2026-04-28T06:11:50-07:00"
-    },
-    {
-      "title": "Open Finance MCP",
-      "url": "https://www.producthunt.com/products/open-finance-mcp",
-      "tagline": "",
-      "pub_date": "2026-04-30T15:27:51-07:00"
-    },
-    {
-      "title": "Magic Studio by Once UI",
-      "url": "https://www.producthunt.com/products/magic-studio-by-once-ui",
-      "tagline": "",
-      "pub_date": "2026-05-05T10:27:45-07:00"
-    },
-    {
-      "title": "Gyro Autopilot",
-      "url": "https://www.producthunt.com/products/gyro-autopilot",
-      "tagline": "",
-      "pub_date": "2026-04-13T01:22:55-07:00"
-    },
-    {
-      "title": "moar",
-      "url": "https://www.producthunt.com/products/moar-2",
-      "tagline": "",
-      "pub_date": "2026-05-04T17:45:48-07:00"
-    },
-    {
       "title": "Knowly 1.0",
       "url": "https://www.producthunt.com/products/knowly-ai",
       "tagline": "",
       "pub_date": "2026-05-05T21:40:53-07:00"
     },
     {
-      "title": "Shadow 2.0",
-      "url": "https://www.producthunt.com/products/shadow-6",
+      "title": "DevAlly",
+      "url": "https://www.producthunt.com/products/devally",
       "tagline": "",
-      "pub_date": "2026-04-30T23:19:43-07:00"
+      "pub_date": "2026-05-05T15:10:01-07:00"
     },
     {
-      "title": "WOZCODE",
-      "url": "https://www.producthunt.com/products/wozcode",
+      "title": "PanicMode",
+      "url": "https://www.producthunt.com/products/panicmode",
       "tagline": "",
-      "pub_date": "2026-05-01T09:22:31-07:00"
-    },
-    {
-      "title": "damnlines.com",
-      "url": "https://www.producthunt.com/products/damnlines-com",
-      "tagline": "",
-      "pub_date": "2026-05-04T19:13:30-07:00"
-    },
-    {
-      "title": "Openclick",
-      "url": "https://www.producthunt.com/products/openclick",
-      "tagline": "",
-      "pub_date": "2026-05-04T13:45:55-07:00"
-    },
-    {
-      "title": "Blaze",
-      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
-      "tagline": "",
-      "pub_date": "2026-04-29T07:37:18-07:00"
-    },
-    {
-      "title": "Velo 2.0",
-      "url": "https://www.producthunt.com/products/velo-4",
-      "tagline": "",
-      "pub_date": "2026-05-04T09:58:38-07:00"
-    },
-    {
-      "title": "Flowstep 1.0",
-      "url": "https://www.producthunt.com/products/flowstep",
-      "tagline": "",
-      "pub_date": "2026-04-27T10:13:36-07:00"
-    },
-    {
-      "title": "Intuned Agent",
-      "url": "https://www.producthunt.com/products/intuned",
-      "tagline": "",
-      "pub_date": "2026-05-01T10:11:05-07:00"
-    },
-    {
-      "title": "Steam Controller",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "tagline": "",
-      "pub_date": "2026-05-04T20:25:17-07:00"
+      "pub_date": "2026-05-04T05:28:29-07:00"
     },
     {
       "title": "Dina",
@@ -380,10 +314,40 @@
       "pub_date": "2026-05-04T22:57:40-07:00"
     },
     {
+      "title": "Velo 2.0",
+      "url": "https://www.producthunt.com/products/velo-4",
+      "tagline": "",
+      "pub_date": "2026-05-04T09:58:38-07:00"
+    },
+    {
+      "title": "PaceBar",
+      "url": "https://www.producthunt.com/products/pacebar",
+      "tagline": "",
+      "pub_date": "2026-05-01T11:45:24-07:00"
+    },
+    {
+      "title": "Flowstep 1.0",
+      "url": "https://www.producthunt.com/products/flowstep",
+      "tagline": "",
+      "pub_date": "2026-04-27T10:13:36-07:00"
+    },
+    {
       "title": "Breathwrk",
       "url": "https://www.producthunt.com/products/breathwrk",
       "tagline": "",
       "pub_date": "2026-05-04T13:40:32-07:00"
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "tagline": "",
+      "pub_date": "2026-05-04T20:25:17-07:00"
+    },
+    {
+      "title": "Blaze",
+      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
+      "tagline": "",
+      "pub_date": "2026-04-29T07:37:18-07:00"
     }
   ]
 }

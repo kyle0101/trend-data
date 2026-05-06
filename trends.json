@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-05-05T19:08:39.185Z",
+  "generated_at": "2026-05-06T02:08:02.811Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: I built a new word game, Wordtrak",
-      "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
-      "hn_url": "https://news.ycombinator.com/item?id=48021420",
-      "points": 57,
-      "comments": 28,
-      "created_ts": 1777983257,
-      "author": "qrush"
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48026342",
+      "points": 111,
+      "comments": 41,
+      "created_ts": 1778004794,
+      "author": "ouli"
     },
     {
       "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
       "url": "https://news.ycombinator.com/item?id=48023496",
       "hn_url": "https://news.ycombinator.com/item?id=48023496",
-      "points": 53,
-      "comments": 6,
+      "points": 96,
+      "comments": 23,
       "created_ts": 1777993398,
       "author": "mtricot"
     },
     {
-      "title": "Show HN: I indexed 8,643 BSides talks across 227 chapters and 6 continents",
-      "url": "https://allbsides.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48015655",
-      "points": 19,
-      "comments": 8,
-      "created_ts": 1777932621,
-      "author": "Parkado"
-    },
-    {
-      "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
-      "url": "https://github.com/aragossa/pii-shield",
-      "hn_url": "https://news.ycombinator.com/item?id=48023587",
-      "points": 18,
-      "comments": 3,
-      "created_ts": 1777993768,
-      "author": "aragoss"
+      "title": "Show HN: I built a new word game, Wordtrak",
+      "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+      "hn_url": "https://news.ycombinator.com/item?id=48021420",
+      "points": 67,
+      "comments": 33,
+      "created_ts": 1777983257,
+      "author": "qrush"
     },
     {
       "title": "Show HN: Orch8 – Durable workflow engine in Rust, one binary, Postgres or SQLite",
       "url": "https://github.com/orch8-io/engine",
       "hn_url": "https://news.ycombinator.com/item?id=48021431",
-      "points": 16,
+      "points": 22,
       "comments": 1,
       "created_ts": 1777983314,
       "author": "_alphageek"
     },
     {
-      "title": "Show HN: I built a native macOS audio player and it changed my life",
-      "url": "https://github.com/chrisallick/light-crime-audio-player",
-      "hn_url": "https://news.ycombinator.com/item?id=48016525",
+      "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
+      "url": "https://github.com/aragossa/pii-shield",
+      "hn_url": "https://news.ycombinator.com/item?id=48023587",
+      "points": 21,
+      "comments": 4,
+      "created_ts": 1777993768,
+      "author": "aragoss"
+    },
+    {
+      "title": "Show HN: Brainio – Markdown notepad that turns notes into visual mind maps",
+      "url": "https://brainio.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48019173",
+      "points": 19,
+      "comments": 19,
+      "created_ts": 1777966137,
+      "author": "havlenao"
+    },
+    {
+      "title": "Show HN: New Benchmark from SWE-bench team is 0% solved",
+      "url": "https://programbench.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48023602",
       "points": 14,
-      "comments": 7,
-      "created_ts": 1777939566,
-      "author": "chrisallick"
+      "comments": 1,
+      "created_ts": 1777993841,
+      "author": "lieret"
     },
     {
       "title": "Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative",
@@ -67,13 +76,13 @@
       "author": "harryfelio"
     },
     {
-      "title": "Show HN: A tiny C program where an LLM rewires its DAG while running",
-      "url": "https://github.com/kouhxp/liteflow",
-      "hn_url": "https://news.ycombinator.com/item?id=48017118",
+      "title": "Show HN: Codeberg (Forgejo) CLI, built with Xclif",
+      "url": "https://codeberg.org/thatxliner/codeberg-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48023567",
       "points": 11,
       "comments": 1,
-      "created_ts": 1777945385,
-      "author": "mrkn1"
+      "created_ts": 1777993678,
+      "author": "thatxliner"
     }
   ],
   "hn_front": [
@@ -81,116 +90,107 @@
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "hn_url": "https://news.ycombinator.com/item?id=48019219",
-      "points": 881,
-      "comments": 607,
+      "points": 1251,
+      "comments": 852,
       "created_ts": 1777966495,
       "author": "john-doe"
     },
     {
-      "title": "AI didn't delete your database, you did",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "hn_url": "https://news.ycombinator.com/item?id=48022742",
-      "points": 426,
-      "comments": 225,
-      "created_ts": 1777990070,
-      "author": "Brajeshwar"
-    },
-    {
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "hn_url": "https://news.ycombinator.com/item?id=48019163",
-      "points": 390,
-      "comments": 212,
-      "created_ts": 1777965963,
-      "author": "pjmlp"
-    },
-    {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "hn_url": "https://news.ycombinator.com/item?id=48021561",
-      "points": 314,
-      "comments": 255,
-      "created_ts": 1777984108,
-      "author": "alentodorov"
-    },
-    {
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "hn_url": "https://news.ycombinator.com/item?id=48018066",
-      "points": 283,
-      "comments": 240,
-      "created_ts": 1777955602,
-      "author": "MrBuddyCasino"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48023861",
-      "points": 239,
-      "comments": 156,
-      "created_ts": 1777994838,
-      "author": "blenderob"
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "hn_url": "https://news.ycombinator.com/item?id=48020063",
-      "points": 232,
-      "comments": 161,
-      "created_ts": 1777973422,
-      "author": "youngbrioche"
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "hn_url": "https://news.ycombinator.com/item?id=48027897",
+      "points": 534,
+      "comments": 251,
+      "created_ts": 1778012195,
+      "author": "warpspin"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
       "hn_url": "https://news.ycombinator.com/item?id=48024540",
-      "points": 196,
-      "comments": 73,
+      "points": 454,
+      "comments": 200,
       "created_ts": 1777997657,
       "author": "amrrs"
     },
     {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48019025",
-      "points": 194,
-      "comments": 198,
-      "created_ts": 1777964725,
-      "author": "ingve"
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "hn_url": "https://news.ycombinator.com/item?id=48021561",
+      "points": 382,
+      "comments": 291,
+      "created_ts": 1777984108,
+      "author": "alentodorov"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48023861",
+      "points": 365,
+      "comments": 248,
+      "created_ts": 1777994838,
+      "author": "blenderob"
+    },
+    {
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48024859",
+      "points": 322,
+      "comments": 185,
+      "created_ts": 1777998888,
+      "author": "palashawas"
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48020063",
+      "points": 312,
+      "comments": 219,
+      "created_ts": 1777973422,
+      "author": "youngbrioche"
     },
     {
       "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
       "hn_url": "https://news.ycombinator.com/item?id=48025687",
-      "points": 171,
-      "comments": 89,
+      "points": 302,
+      "comments": 176,
       "created_ts": 1778002098,
       "author": "SeenNotHeard"
     },
     {
-      "title": "Incident with Actions",
-      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-      "hn_url": "https://news.ycombinator.com/item?id=48022900",
-      "points": 136,
-      "comments": 73,
-      "created_ts": 1777990878,
-      "author": "pera"
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "hn_url": "https://news.ycombinator.com/item?id=48026349",
+      "points": 272,
+      "comments": 323,
+      "created_ts": 1778004827,
+      "author": "littlexsparkee"
     },
     {
-      "title": "UK: Two millionth electric car registered as market rebounds strongly",
-      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-      "hn_url": "https://news.ycombinator.com/item?id=48024364",
-      "points": 134,
-      "comments": 160,
-      "created_ts": 1777996997,
-      "author": "kieranmaine"
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "hn_url": "https://news.ycombinator.com/item?id=48021368",
+      "points": 269,
+      "comments": 385,
+      "created_ts": 1777983024,
+      "author": "adrianmsmith"
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old",
+      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "hn_url": "https://news.ycombinator.com/item?id=48026207",
+      "points": 257,
+      "comments": 231,
+      "created_ts": 1778004265,
+      "author": "spankibalt"
+    },
+    {
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
       "hn_url": "https://news.ycombinator.com/item?id=48024129",
-      "points": 122,
-      "comments": 29,
+      "points": 230,
+      "comments": 58,
       "created_ts": 1777996038,
       "author": "brudgers"
     },
@@ -198,69 +198,54 @@
       "title": "Agents for financial services and insurance",
       "url": "https://www.anthropic.com/news/finance-agents",
       "hn_url": "https://news.ycombinator.com/item?id=48023533",
-      "points": 118,
-      "comments": 97,
+      "points": 199,
+      "comments": 151,
       "created_ts": 1777993547,
       "author": "louiereederson"
     },
     {
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "hn_url": "https://news.ycombinator.com/item?id=48024859",
+      "title": "I'm scared about biological computing",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "hn_url": "https://news.ycombinator.com/item?id=48024358",
+      "points": 146,
+      "comments": 132,
+      "created_ts": 1777996986,
+      "author": "kuberwastaken"
+    },
+    {
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=48028842",
+      "points": 136,
+      "comments": 98,
+      "created_ts": 1778016410,
+      "author": "nohell"
+    },
+    {
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
+      "hn_url": "https://news.ycombinator.com/item?id=48026021",
       "points": 116,
-      "comments": 74,
-      "created_ts": 1777998888,
-      "author": "palashawas"
+      "comments": 23,
+      "created_ts": 1778003551,
+      "author": "gmays"
+    },
+    {
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48026342",
+      "points": 111,
+      "comments": 41,
+      "created_ts": 1778004794,
+      "author": "ouli"
     }
   ],
   "ph_today": [
-    {
-      "title": "Flowstep 1.0",
-      "url": "https://www.producthunt.com/products/flowstep",
-      "tagline": "",
-      "pub_date": "2026-04-27T10:13:36-07:00"
-    },
-    {
-      "title": "Intuned Agent",
-      "url": "https://www.producthunt.com/products/intuned",
-      "tagline": "",
-      "pub_date": "2026-05-01T10:11:05-07:00"
-    },
-    {
-      "title": "TalentOS",
-      "url": "https://www.producthunt.com/products/talentos-2",
-      "tagline": "",
-      "pub_date": "2026-04-28T12:52:32-07:00"
-    },
-    {
-      "title": "Blaze",
-      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
-      "tagline": "",
-      "pub_date": "2026-04-29T07:37:18-07:00"
-    },
-    {
-      "title": "Kilo Code v7 for VS Code",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "tagline": "",
-      "pub_date": "2026-03-30T01:59:27-07:00"
-    },
     {
       "title": "Tollecode",
       "url": "https://www.producthunt.com/products/tollecode",
       "tagline": "",
       "pub_date": "2026-05-04T05:39:06-07:00"
-    },
-    {
-      "title": "Facts",
-      "url": "https://www.producthunt.com/products/facts-fc3505e0-6206-4a1b-b6b4-01b7ffbb7783",
-      "tagline": "",
-      "pub_date": "2026-05-04T08:09:35-07:00"
-    },
-    {
-      "title": "Unity AI",
-      "url": "https://www.producthunt.com/products/unity",
-      "tagline": "",
-      "pub_date": "2026-05-04T21:14:03-07:00"
     },
     {
       "title": "Airbyte Agents",
@@ -269,34 +254,10 @@
       "pub_date": "2026-05-04T08:40:19-07:00"
     },
     {
-      "title": "Agentic API Grader by SaaStr.ai",
-      "url": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
+      "title": "Blaze",
+      "url": "https://www.producthunt.com/products/blaze-your-new-calendar",
       "tagline": "",
-      "pub_date": "2026-05-04T04:30:55-07:00"
-    },
-    {
-      "title": "PaceBar",
-      "url": "https://www.producthunt.com/products/pacebar",
-      "tagline": "",
-      "pub_date": "2026-05-01T11:45:24-07:00"
-    },
-    {
-      "title": "Dina",
-      "url": "https://www.producthunt.com/products/dina",
-      "tagline": "",
-      "pub_date": "2026-05-04T22:57:40-07:00"
-    },
-    {
-      "title": "Breathwrk",
-      "url": "https://www.producthunt.com/products/breathwrk",
-      "tagline": "",
-      "pub_date": "2026-05-04T13:40:32-07:00"
-    },
-    {
-      "title": "Steam Controller",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "tagline": "",
-      "pub_date": "2026-05-04T20:25:17-07:00"
+      "pub_date": "2026-04-29T07:37:18-07:00"
     },
     {
       "title": "Velo 2.0",
@@ -311,16 +272,82 @@
       "pub_date": "2026-03-19T22:27:03-07:00"
     },
     {
-      "title": "Openclick",
-      "url": "https://www.producthunt.com/products/openclick",
+      "title": "Intuned Agent",
+      "url": "https://www.producthunt.com/products/intuned",
       "tagline": "",
-      "pub_date": "2026-05-04T13:45:55-07:00"
+      "pub_date": "2026-05-01T10:11:05-07:00"
+    },
+    {
+      "title": "PaceBar",
+      "url": "https://www.producthunt.com/products/pacebar",
+      "tagline": "",
+      "pub_date": "2026-05-01T11:45:24-07:00"
+    },
+    {
+      "title": "Kilo Code v7 for VS Code",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "tagline": "",
+      "pub_date": "2026-03-30T01:59:27-07:00"
+    },
+    {
+      "title": "Facts",
+      "url": "https://www.producthunt.com/products/facts-fc3505e0-6206-4a1b-b6b4-01b7ffbb7783",
+      "tagline": "",
+      "pub_date": "2026-05-04T08:09:35-07:00"
     },
     {
       "title": "PanicMode",
       "url": "https://www.producthunt.com/products/panicmode",
       "tagline": "",
       "pub_date": "2026-05-04T05:28:29-07:00"
+    },
+    {
+      "title": "Openclick",
+      "url": "https://www.producthunt.com/products/openclick",
+      "tagline": "",
+      "pub_date": "2026-05-04T13:45:55-07:00"
+    },
+    {
+      "title": "Dina",
+      "url": "https://www.producthunt.com/products/dina",
+      "tagline": "",
+      "pub_date": "2026-05-04T22:57:40-07:00"
+    },
+    {
+      "title": "TalentOS",
+      "url": "https://www.producthunt.com/products/talentos-2",
+      "tagline": "",
+      "pub_date": "2026-04-28T12:52:32-07:00"
+    },
+    {
+      "title": "Unity AI",
+      "url": "https://www.producthunt.com/products/unity",
+      "tagline": "",
+      "pub_date": "2026-05-04T21:14:03-07:00"
+    },
+    {
+      "title": "Agentic API Grader by SaaStr.ai",
+      "url": "https://www.producthunt.com/products/saastr-ai-your-ai-powered-b2b-advisor",
+      "tagline": "",
+      "pub_date": "2026-05-04T04:30:55-07:00"
+    },
+    {
+      "title": "Breathwrk",
+      "url": "https://www.producthunt.com/products/breathwrk",
+      "tagline": "",
+      "pub_date": "2026-05-04T13:40:32-07:00"
+    },
+    {
+      "title": "Flowstep 1.0",
+      "url": "https://www.producthunt.com/products/flowstep",
+      "tagline": "",
+      "pub_date": "2026-04-27T10:13:36-07:00"
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "tagline": "",
+      "pub_date": "2026-05-04T20:25:17-07:00"
     },
     {
       "title": "Vitract",
@@ -335,28 +362,10 @@
       "pub_date": "2026-04-30T14:27:41-07:00"
     },
     {
-      "title": "Electrokare",
-      "url": "https://www.producthunt.com/products/electrokare",
+      "title": "Firstwork",
+      "url": "https://www.producthunt.com/products/firstwork-2",
       "tagline": "",
-      "pub_date": "2026-04-30T14:29:53-07:00"
-    },
-    {
-      "title": "Spikerz",
-      "url": "https://www.producthunt.com/products/spikerz",
-      "tagline": "",
-      "pub_date": "2026-04-30T14:28:30-07:00"
-    },
-    {
-      "title": "Peppr AI",
-      "url": "https://www.producthunt.com/products/peppr-ai",
-      "tagline": "",
-      "pub_date": "2026-04-30T14:30:01-07:00"
-    },
-    {
-      "title": "Hubble Technologies Inc.",
-      "url": "https://www.producthunt.com/products/hubble-technologies-inc",
-      "tagline": "",
-      "pub_date": "2026-04-30T14:28:14-07:00"
+      "pub_date": "2026-04-30T14:30:43-07:00"
     },
     {
       "title": "Hestus",
@@ -365,34 +374,52 @@
       "pub_date": "2026-04-30T14:30:37-07:00"
     },
     {
-      "title": "Waydev Agent",
-      "url": "https://www.producthunt.com/products/waydev",
-      "tagline": "",
-      "pub_date": "2026-04-30T14:27:38-07:00"
-    },
-    {
       "title": "Oriane",
       "url": "https://www.producthunt.com/products/oriane",
       "tagline": "",
       "pub_date": "2026-04-30T14:30:50-07:00"
     },
     {
-      "title": "Firstwork",
-      "url": "https://www.producthunt.com/products/firstwork-2",
+      "title": "AskSia Inc.",
+      "url": "https://www.producthunt.com/products/asksia-ai",
       "tagline": "",
-      "pub_date": "2026-04-30T14:30:43-07:00"
+      "pub_date": "2026-04-30T14:28:17-07:00"
     },
     {
-      "title": "Art House",
-      "url": "https://www.producthunt.com/products/art-house",
+      "title": "Pickle",
+      "url": "https://www.producthunt.com/products/pickle-10",
       "tagline": "",
-      "pub_date": "2026-04-30T14:29:18-07:00"
+      "pub_date": "2026-04-30T14:30:34-07:00"
+    },
+    {
+      "title": "Vyrill Agentic Video Commerce Platform",
+      "url": "https://www.producthunt.com/products/vyrill",
+      "tagline": "",
+      "pub_date": "2026-04-30T14:27:36-07:00"
+    },
+    {
+      "title": "AWEAR",
+      "url": "https://www.producthunt.com/products/awear",
+      "tagline": "",
+      "pub_date": "2026-04-30T14:27:51-07:00"
     },
     {
       "title": "Boxtree, Inc.",
       "url": "https://www.producthunt.com/products/table-space-by-boxtree",
       "tagline": "",
       "pub_date": "2026-04-30T14:28:36-07:00"
+    },
+    {
+      "title": "MyARC",
+      "url": "https://www.producthunt.com/products/myarc",
+      "tagline": "",
+      "pub_date": "2026-04-30T14:30:06-07:00"
+    },
+    {
+      "title": "Self AI",
+      "url": "https://www.producthunt.com/products/mox-data",
+      "tagline": "",
+      "pub_date": "2026-04-30T14:27:56-07:00"
     }
   ]
 }

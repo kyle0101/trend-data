@@ -1,59 +1,32 @@
 {
-  "generated_at": "2026-05-07T13:48:43.321Z",
+  "generated_at": "2026-05-07T19:29:00.042Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48038257",
-      "points": 260,
-      "comments": 227,
-      "created_ts": 1778085472,
-      "author": "bstrama"
-    },
-    {
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
-      "hn_url": "https://news.ycombinator.com/item?id=48037724",
-      "points": 181,
-      "comments": 124,
-      "created_ts": 1778083114,
-      "author": "ozkatz"
-    },
-    {
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48038019",
-      "points": 140,
-      "comments": 34,
-      "created_ts": 1778084400,
-      "author": "oahmadov"
+      "title": "Show HN: TRUST – Coding Rust like it's 1989",
+      "url": "https://github.com/wojtczyk/trust",
+      "hn_url": "https://news.ycombinator.com/item?id=48045939",
+      "points": 85,
+      "comments": 55,
+      "created_ts": 1778133532,
+      "author": "wojtczyk"
     },
     {
       "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
       "url": "https://github.com/olivier-ls/php-fts",
       "hn_url": "https://news.ycombinator.com/item?id=48041316",
-      "points": 75,
-      "comments": 20,
+      "points": 79,
+      "comments": 22,
       "created_ts": 1778099297,
       "author": "asmodios"
-    },
-    {
-      "title": "Show HN: Trust – Coding Rust like it's 1989",
-      "url": "https://github.com/wojtczyk/trust",
-      "hn_url": "https://news.ycombinator.com/item?id=48045939",
-      "points": 60,
-      "comments": 19,
-      "created_ts": 1778133532,
-      "author": "wojtczyk"
     },
     {
       "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
       "url": "https://github.com/darkrishabh/agent-skills-eval",
       "hn_url": "https://news.ycombinator.com/item?id=48046023",
-      "points": 39,
-      "comments": 15,
+      "points": 62,
+      "comments": 28,
       "created_ts": 1778134345,
       "author": "darkrishabh"
     },
@@ -61,170 +34,143 @@
       "title": "Show HN: Social Network for Corporate Cringe",
       "url": "https://CringeOut.com",
       "hn_url": "https://news.ycombinator.com/item?id=48046874",
-      "points": 25,
-      "comments": 19,
+      "points": 27,
+      "comments": 23,
       "created_ts": 1778142396,
       "author": "CringeOut"
+    },
+    {
+      "title": "Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]",
+      "url": "https://www.youtube.com/watch?v=4HLOsi2gWXQ",
+      "hn_url": "https://news.ycombinator.com/item?id=48048452",
+      "points": 16,
+      "comments": 0,
+      "created_ts": 1778156170,
+      "author": "tonyonodi"
+    },
+    {
+      "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "points": 15,
+      "comments": 10,
+      "created_ts": 1778168316,
+      "author": "cpan22"
+    },
+    {
+      "title": "Show HN: SereneUI – A VSCode-inspired, open-source UI for Postgres",
+      "url": "https://github.com/serenedb/serenedb/tree/main/serene-ui",
+      "hn_url": "https://news.ycombinator.com/item?id=48047702",
+      "points": 15,
+      "comments": 0,
+      "created_ts": 1778149696,
+      "author": "gnusi"
     }
   ],
   "hn_front": [
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "hn_url": "https://news.ycombinator.com/item?id=48037555",
-      "points": 1575,
-      "comments": 519,
-      "created_ts": 1778082253,
-      "author": "haunter"
-    },
-    {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "hn_url": "https://news.ycombinator.com/item?id=48038001",
-      "points": 1358,
-      "comments": 542,
-      "created_ts": 1778084309,
-      "author": "diebillionaires"
-    },
-    {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "hn_url": "https://news.ycombinator.com/item?id=48037128",
-      "points": 658,
-      "comments": 746,
-      "created_ts": 1778079997,
-      "author": "e12e"
-    },
-    {
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
       "hn_url": "https://news.ycombinator.com/item?id=48042434",
-      "points": 400,
-      "comments": 116,
+      "points": 564,
+      "comments": 172,
       "created_ts": 1778104723,
       "author": "whatisabcdefgh"
     },
     {
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "hn_url": "https://news.ycombinator.com/item?id=48039362",
-      "points": 344,
-      "comments": 358,
-      "created_ts": 1778090373,
-      "author": "unforgivenpasta"
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049653",
+      "points": 414,
+      "comments": 178,
+      "created_ts": 1778162770,
+      "author": "speckx"
     },
     {
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "hn_url": "https://news.ycombinator.com/item?id=48038827",
-      "points": 272,
-      "comments": 200,
-      "created_ts": 1778087974,
-      "author": "stevekrouse"
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
+      "hn_url": "https://news.ycombinator.com/item?id=48049208",
+      "points": 267,
+      "comments": 181,
+      "created_ts": 1778160604,
+      "author": "surprisetalk"
     },
     {
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48038257",
-      "points": 260,
-      "comments": 227,
-      "created_ts": 1778085472,
-      "author": "bstrama"
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050964",
+      "points": 244,
+      "comments": 86,
+      "created_ts": 1778169393,
+      "author": "newsoftheday"
     },
     {
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "hn_url": "https://news.ycombinator.com/item?id=48044638",
-      "points": 194,
-      "comments": 99,
-      "created_ts": 1778120303,
-      "author": "andsoitis"
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050278",
+      "points": 186,
+      "comments": 70,
+      "created_ts": 1778166140,
+      "author": "berlianta"
     },
     {
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
-      "hn_url": "https://news.ycombinator.com/item?id=48037724",
-      "points": 181,
-      "comments": 124,
-      "created_ts": 1778083114,
-      "author": "ozkatz"
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=48050540",
+      "points": 159,
+      "comments": 168,
+      "created_ts": 1778167403,
+      "author": "speckx"
     },
     {
-      "title": "RSS feeds send me more traffic than Google",
-      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "hn_url": "https://news.ycombinator.com/item?id=48043964",
-      "points": 174,
-      "comments": 38,
-      "created_ts": 1778114406,
-      "author": "SpyCoder77"
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "points": 144,
+      "comments": 46,
+      "created_ts": 1778168424,
+      "author": "tamnd"
     },
     {
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "hn_url": "https://news.ycombinator.com/item?id=48047981",
-      "points": 156,
-      "comments": 108,
-      "created_ts": 1778152224,
-      "author": "Qem"
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051562",
+      "points": 122,
+      "comments": 59,
+      "created_ts": 1778172215,
+      "author": "bsuh"
     },
     {
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "hn_url": "https://news.ycombinator.com/item?id=48045012",
-      "points": 129,
-      "comments": 69,
-      "created_ts": 1778123604,
-      "author": "stereo-highway"
+      "title": "ProgramBench: Can language models rebuild programs from scratch?",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "hn_url": "https://news.ycombinator.com/item?id=48045174",
+      "points": 118,
+      "comments": 68,
+      "created_ts": 1778125575,
+      "author": "jonbaer"
+    },
+    {
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049764",
+      "points": 110,
+      "comments": 47,
+      "created_ts": 1778163316,
+      "author": "surprisetalk"
     }
   ],
   "ph_today": [
     {
-      "title": "ClearMesh",
-      "url": "https://www.producthunt.com/products/clearmesh",
+      "title": "Phrony",
+      "url": "https://www.producthunt.com/products/phrony",
       "tagline": "",
-      "pub_date": "2026-05-06T13:06:33-07:00"
+      "pub_date": "2026-05-06T09:01:01-07:00"
     },
     {
-      "title": "Hachigo",
-      "url": "https://www.producthunt.com/products/hachigo",
+      "title": "Lingo.dev v1",
+      "url": "https://www.producthunt.com/products/lingodotdev",
       "tagline": "",
-      "pub_date": "2026-05-02T11:06:06-07:00"
-    },
-    {
-      "title": "Arkiv",
-      "url": "https://www.producthunt.com/products/arkiv",
-      "tagline": "",
-      "pub_date": "2026-05-05T08:29:28-07:00"
-    },
-    {
-      "title": "Luma Uni 1.1 API",
-      "url": "https://www.producthunt.com/products/luma-ai",
-      "tagline": "",
-      "pub_date": "2026-05-05T09:43:14-07:00"
-    },
-    {
-      "title": "MultiChat",
-      "url": "https://www.producthunt.com/products/multichat",
-      "tagline": "",
-      "pub_date": "2026-03-15T04:12:54-07:00"
-    },
-    {
-      "title": "reMarkable Paper Pure",
-      "url": "https://www.producthunt.com/products/remarkable-paper-pro",
-      "tagline": "",
-      "pub_date": "2026-05-06T06:58:29-07:00"
-    },
-    {
-      "title": "MESA",
-      "url": "https://www.producthunt.com/products/mesa",
-      "tagline": "",
-      "pub_date": "2026-04-22T10:15:00-07:00"
-    },
-    {
-      "title": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer",
-      "tagline": "",
-      "pub_date": "2026-05-06T00:20:14-07:00"
+      "pub_date": "2026-04-23T00:41:50-07:00"
     },
     {
       "title": "FlowMarket",
@@ -239,46 +185,10 @@
       "pub_date": "2026-05-05T10:19:05-07:00"
     },
     {
-      "title": "GPT‑5.5 Instant",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "MESA",
+      "url": "https://www.producthunt.com/products/mesa",
       "tagline": "",
-      "pub_date": "2026-05-05T10:05:04-07:00"
-    },
-    {
-      "title": "Memory Tags",
-      "url": "https://www.producthunt.com/products/memory-tags",
-      "tagline": "",
-      "pub_date": "2026-04-23T08:35:32-07:00"
-    },
-    {
-      "title": "Basedash MCP server",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-06T15:31:59-07:00"
-    },
-    {
-      "title": "DevPass by LLM Gateway",
-      "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
-      "tagline": "",
-      "pub_date": "2026-05-05T12:14:26-07:00"
-    },
-    {
-      "title": "Phrony",
-      "url": "https://www.producthunt.com/products/phrony",
-      "tagline": "",
-      "pub_date": "2026-05-06T09:01:01-07:00"
-    },
-    {
-      "title": "Lingo.dev v1",
-      "url": "https://www.producthunt.com/products/lingodotdev",
-      "tagline": "",
-      "pub_date": "2026-04-23T00:41:50-07:00"
-    },
-    {
-      "title": "LikeTony.ai",
-      "url": "https://www.producthunt.com/products/liketony-ai",
-      "tagline": "",
-      "pub_date": "2026-05-06T23:50:49-07:00"
+      "pub_date": "2026-04-22T10:15:00-07:00"
     },
     {
       "title": "Lovie Formation - Incorporation MCP",
@@ -287,10 +197,28 @@
       "pub_date": "2026-04-24T12:41:53-07:00"
     },
     {
-      "title": "GetThis",
-      "url": "https://www.producthunt.com/products/getthis",
+      "title": "Neo by Amp",
+      "url": "https://www.producthunt.com/products/amp-free",
       "tagline": "",
-      "pub_date": "2026-05-05T22:51:47-07:00"
+      "pub_date": "2026-05-06T20:22:56-07:00"
+    },
+    {
+      "title": "Basedash MCP server",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-06T15:31:59-07:00"
+    },
+    {
+      "title": "Saydi",
+      "url": "https://www.producthunt.com/products/saydi",
+      "tagline": "",
+      "pub_date": "2026-05-06T04:17:27-07:00"
+    },
+    {
+      "title": "Memory Tags",
+      "url": "https://www.producthunt.com/products/memory-tags",
+      "tagline": "",
+      "pub_date": "2026-04-23T08:35:32-07:00"
     },
     {
       "title": "Forge",
@@ -299,10 +227,40 @@
       "pub_date": "2026-05-06T14:05:32-07:00"
     },
     {
-      "title": "Saydi",
-      "url": "https://www.producthunt.com/products/saydi",
+      "title": "reMarkable Paper Pure",
+      "url": "https://www.producthunt.com/products/remarkable-paper-pro",
       "tagline": "",
-      "pub_date": "2026-05-06T04:17:27-07:00"
+      "pub_date": "2026-05-06T06:58:29-07:00"
+    },
+    {
+      "title": "Hachigo",
+      "url": "https://www.producthunt.com/products/hachigo",
+      "tagline": "",
+      "pub_date": "2026-05-02T11:06:06-07:00"
+    },
+    {
+      "title": "ClearMesh",
+      "url": "https://www.producthunt.com/products/clearmesh",
+      "tagline": "",
+      "pub_date": "2026-05-06T13:06:33-07:00"
+    },
+    {
+      "title": "LikeTony.ai",
+      "url": "https://www.producthunt.com/products/liketony-ai",
+      "tagline": "",
+      "pub_date": "2026-05-06T23:50:49-07:00"
+    },
+    {
+      "title": "DevPass by LLM Gateway",
+      "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
+      "tagline": "",
+      "pub_date": "2026-05-05T12:14:26-07:00"
+    },
+    {
+      "title": "Google Pomelli Catalog",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-05-05T09:47:13-07:00"
     },
     {
       "title": "Askmeety",
@@ -317,28 +275,40 @@
       "pub_date": "2026-05-06T05:04:29-07:00"
     },
     {
-      "title": "Google Pomelli Catalog",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "GPT‑5.5 Instant",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-05-05T09:47:13-07:00"
+      "pub_date": "2026-05-05T10:05:04-07:00"
     },
     {
-      "title": "Neo by Amp",
-      "url": "https://www.producthunt.com/products/amp-free",
+      "title": "MultiChat",
+      "url": "https://www.producthunt.com/products/multichat",
       "tagline": "",
-      "pub_date": "2026-05-06T20:22:56-07:00"
+      "pub_date": "2026-03-15T04:12:54-07:00"
     },
     {
-      "title": "Avon AI",
-      "url": "https://www.producthunt.com/products/avon-ai",
+      "title": "Luma Uni 1.1 API",
+      "url": "https://www.producthunt.com/products/luma-ai",
       "tagline": "",
-      "pub_date": "2026-04-30T18:51:10-07:00"
+      "pub_date": "2026-05-05T09:43:14-07:00"
     },
     {
-      "title": "SLED AI",
-      "url": "https://www.producthunt.com/products/sled-ai",
+      "title": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer",
       "tagline": "",
-      "pub_date": "2026-04-30T18:52:30-07:00"
+      "pub_date": "2026-05-06T00:20:14-07:00"
+    },
+    {
+      "title": "Arkiv",
+      "url": "https://www.producthunt.com/products/arkiv",
+      "tagline": "",
+      "pub_date": "2026-05-05T08:29:28-07:00"
+    },
+    {
+      "title": "GetThis",
+      "url": "https://www.producthunt.com/products/getthis",
+      "tagline": "",
+      "pub_date": "2026-05-05T22:51:47-07:00"
     },
     {
       "title": "imgn.ai",
@@ -347,16 +317,28 @@
       "pub_date": "2026-04-30T18:52:27-07:00"
     },
     {
-      "title": "Fareplace",
-      "url": "https://www.producthunt.com/products/fareplace",
+      "title": "Bluespine",
+      "url": "https://www.producthunt.com/products/bluespine",
       "tagline": "",
-      "pub_date": "2026-04-30T18:51:39-07:00"
+      "pub_date": "2026-05-05T11:18:35-07:00"
     },
     {
-      "title": "Kai ai",
-      "url": "https://www.producthunt.com/products/kai-ai",
+      "title": "Xenaris",
+      "url": "https://www.producthunt.com/products/xenaris",
       "tagline": "",
-      "pub_date": "2026-04-30T18:51:14-07:00"
+      "pub_date": "2026-04-30T18:52:18-07:00"
+    },
+    {
+      "title": "Cyvers",
+      "url": "https://www.producthunt.com/products/cyvers",
+      "tagline": "",
+      "pub_date": "2026-04-30T18:52:08-07:00"
+    },
+    {
+      "title": "RAKOR",
+      "url": "https://www.producthunt.com/products/rakor",
+      "tagline": "",
+      "pub_date": "2026-04-30T18:52:15-07:00"
     }
   ]
 }

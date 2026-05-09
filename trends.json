@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T19:07:19.647Z",
+  "generated_at": "2026-05-09T02:11:06.580Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,118 +7,82 @@
       "title": "Show HN: Git for AI Agents",
       "url": "https://github.com/regent-vcs/re_gent",
       "hn_url": "https://news.ycombinator.com/item?id=48063548",
-      "points": 65,
-      "comments": 38,
+      "points": 93,
+      "comments": 45,
       "created_ts": 1778249736,
       "author": "doshay"
+    },
+    {
+      "title": "Show HN: GETadb.com – every GET request creates a DB",
+      "url": "https://www.getadb.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48065203",
+      "points": 24,
+      "comments": 33,
+      "created_ts": 1778257057,
+      "author": "nezaj"
     },
     {
       "title": "Show HN: A Local-First Agentic Knowledge Manager",
       "url": "https://github.com/egroup-labs/kept",
       "hn_url": "https://news.ycombinator.com/item?id=48060900",
-      "points": 15,
-      "comments": 1,
+      "points": 16,
+      "comments": 2,
       "created_ts": 1778234013,
       "author": "Mapika"
+    },
+    {
+      "title": "Show HN: CADara – I made an open-source in-browser CAD",
+      "url": "https://cadara.app",
+      "hn_url": "https://news.ycombinator.com/item?id=48070022",
+      "points": 12,
+      "comments": 5,
+      "created_ts": 1778282809,
+      "author": "ttouch"
     }
   ],
   "hn_front": [
     {
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "hn_url": "https://news.ycombinator.com/item?id=48054423",
-      "points": 1199,
-      "comments": 829,
-      "created_ts": 1778185417,
-      "author": "PriorityLeft"
-    },
-    {
-      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "hn_url": "https://news.ycombinator.com/item?id=48055913",
-      "points": 876,
-      "comments": 582,
-      "created_ts": 1778192541,
-      "author": "stefanpie"
-    },
-    {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "hn_url": "https://news.ycombinator.com/item?id=48056227",
-      "points": 771,
-      "comments": 407,
-      "created_ts": 1778194931,
-      "author": "psxuaw"
-    },
-    {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "hn_url": "https://news.ycombinator.com/item?id=48053623",
-      "points": 758,
-      "comments": 306,
-      "created_ts": 1778181692,
-      "author": "flipped"
-    },
-    {
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
       "hn_url": "https://news.ycombinator.com/item?id=48062117",
-      "points": 746,
-      "comments": 646,
+      "points": 901,
+      "comments": 737,
       "created_ts": 1778243405,
       "author": "surprisetalk"
     },
     {
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "hn_url": "https://news.ycombinator.com/item?id=48063199",
-      "points": 432,
-      "comments": 206,
-      "created_ts": 1778248570,
-      "author": "ribtoks"
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "hn_url": "https://news.ycombinator.com/item?id=48067119",
+      "points": 646,
+      "comments": 229,
+      "created_ts": 1778265958,
+      "author": "anonymousiam"
     },
     {
-      "title": "A web page that shows you everything the browser told it without asking",
-      "url": "https://sinceyouarrived.world/taken",
-      "hn_url": "https://news.ycombinator.com/item?id=48062178",
-      "points": 343,
-      "comments": 176,
-      "created_ts": 1778243825,
-      "author": "mwheelz"
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "hn_url": "https://news.ycombinator.com/item?id=48061884",
+      "points": 452,
+      "comments": 94,
+      "created_ts": 1778241806,
+      "author": "defrost"
     },
     {
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
       "hn_url": "https://news.ycombinator.com/item?id=48061566",
-      "points": 284,
-      "comments": 111,
+      "points": 374,
+      "comments": 150,
       "created_ts": 1778239331,
       "author": "ColinWright"
-    },
-    {
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "hn_url": "https://news.ycombinator.com/item?id=48059662",
-      "points": 248,
-      "comments": 59,
-      "created_ts": 1778223864,
-      "author": "Borkdude"
-    },
-    {
-      "title": "Ask HN: We just had an actual UUID v4 collision...",
-      "url": "https://news.ycombinator.com/item?id=48060054",
-      "hn_url": "https://news.ycombinator.com/item?id=48060054",
-      "points": 179,
-      "comments": 171,
-      "created_ts": 1778227034,
-      "author": "mittermayr"
     },
     {
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48057901",
-      "points": 177,
-      "comments": 127,
+      "points": 291,
+      "comments": 183,
       "created_ts": 1778208541,
       "author": "sbt567"
     },
@@ -126,17 +90,26 @@
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "hn_url": "https://news.ycombinator.com/item?id=48065360",
-      "points": 145,
-      "comments": 48,
+      "points": 285,
+      "comments": 98,
       "created_ts": 1778257792,
       "author": "willmeyers"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "hn_url": "https://news.ycombinator.com/item?id=48066524",
+      "points": 247,
+      "comments": 104,
+      "created_ts": 1778262908,
+      "author": "speckx"
     },
     {
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
       "hn_url": "https://news.ycombinator.com/item?id=48061938",
-      "points": 142,
-      "comments": 240,
+      "points": 236,
+      "comments": 348,
       "created_ts": 1778242225,
       "author": "david-gpu"
     },
@@ -144,28 +117,46 @@
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
       "hn_url": "https://news.ycombinator.com/item?id=48064312",
-      "points": 133,
-      "comments": 50,
+      "points": 191,
+      "comments": 80,
       "created_ts": 1778253035,
       "author": "xngbuilds"
     },
     {
-      "title": "GeoJSON",
-      "url": "https://geojson.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=48060918",
-      "points": 123,
-      "comments": 61,
-      "created_ts": 1778234137,
-      "author": "tosh"
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "hn_url": "https://news.ycombinator.com/item?id=48069192",
+      "points": 153,
+      "comments": 110,
+      "created_ts": 1778276867,
+      "author": "tcp_handshaker"
     },
     {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "hn_url": "https://news.ycombinator.com/item?id=48061884",
-      "points": 120,
-      "comments": 12,
-      "created_ts": 1778241806,
-      "author": "defrost"
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48067734",
+      "points": 144,
+      "comments": 87,
+      "created_ts": 1778269239,
+      "author": "MrBruh"
+    },
+    {
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48058197",
+      "points": 135,
+      "comments": 80,
+      "created_ts": 1778211118,
+      "author": "christhecaribou"
+    },
+    {
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48063521",
+      "points": 123,
+      "comments": 54,
+      "created_ts": 1778249671,
+      "author": "ibobev"
     }
   ],
   "ph_today": [
@@ -176,16 +167,16 @@
       "pub_date": "2026-05-07T15:55:21-07:00"
     },
     {
-      "title": "Flare",
-      "url": "https://www.producthunt.com/products/flare-9",
+      "title": "ElevenCreative Flows",
+      "url": "https://www.producthunt.com/products/elevencreative-flows",
       "tagline": "",
-      "pub_date": "2026-05-05T07:38:00-07:00"
+      "pub_date": "2026-05-01T03:54:52-07:00"
     },
     {
-      "title": "Socrati",
-      "url": "https://www.producthunt.com/products/socrati-learn-with-ai",
+      "title": "Photobomb",
+      "url": "https://www.producthunt.com/products/photobomb",
       "tagline": "",
-      "pub_date": "2026-04-14T06:48:14-07:00"
+      "pub_date": "2026-05-06T08:06:59-07:00"
     },
     {
       "title": "GitHired",
@@ -194,40 +185,28 @@
       "pub_date": "2026-04-19T12:16:05-07:00"
     },
     {
+      "title": "Minions",
+      "url": "https://www.producthunt.com/products/minions",
+      "tagline": "",
+      "pub_date": "2026-05-07T19:58:13-07:00"
+    },
+    {
+      "title": "MiniMax Hub",
+      "url": "https://www.producthunt.com/products/minimax",
+      "tagline": "",
+      "pub_date": "2026-05-07T04:21:27-07:00"
+    },
+    {
+      "title": "Flare",
+      "url": "https://www.producthunt.com/products/flare-9",
+      "tagline": "",
+      "pub_date": "2026-05-05T07:38:00-07:00"
+    },
+    {
       "title": "Monid 2.0",
       "url": "https://www.producthunt.com/products/monid",
       "tagline": "",
       "pub_date": "2026-05-07T21:48:50-07:00"
-    },
-    {
-      "title": "Kuku: open source",
-      "url": "https://www.producthunt.com/products/kuku",
-      "tagline": "",
-      "pub_date": "2026-05-07T23:52:29-07:00"
-    },
-    {
-      "title": "Google Health",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-05-07T09:54:51-07:00"
-    },
-    {
-      "title": "RankSpot",
-      "url": "https://www.producthunt.com/products/rankspot",
-      "tagline": "",
-      "pub_date": "2026-04-20T11:52:54-07:00"
-    },
-    {
-      "title": "Noteweave",
-      "url": "https://www.producthunt.com/products/noteweave",
-      "tagline": "",
-      "pub_date": "2026-05-07T05:58:41-07:00"
-    },
-    {
-      "title": "Espa",
-      "url": "https://www.producthunt.com/products/espa",
-      "tagline": "",
-      "pub_date": "2026-05-07T05:32:18-07:00"
     },
     {
       "title": "Fabraix",
@@ -236,34 +215,34 @@
       "pub_date": "2026-05-07T11:21:51-07:00"
     },
     {
-      "title": "APIEval-20",
-      "url": "https://www.producthunt.com/products/kushoai",
+      "title": "MediaOptim",
+      "url": "https://www.producthunt.com/products/compress-anything-upload-nothing",
       "tagline": "",
-      "pub_date": "2026-05-07T04:03:39-07:00"
+      "pub_date": "2026-05-07T06:47:43-07:00"
     },
     {
-      "title": "Benchmark",
-      "url": "https://www.producthunt.com/products/are-you-beeing-spreaded",
+      "title": "Contral",
+      "url": "https://www.producthunt.com/products/contral",
       "tagline": "",
-      "pub_date": "2026-04-30T15:44:07-07:00"
+      "pub_date": "2026-05-07T12:47:04-07:00"
     },
     {
-      "title": "Donely Knowledge Layer",
-      "url": "https://www.producthunt.com/products/donely",
+      "title": "Fluent Frame",
+      "url": "https://www.producthunt.com/products/fluent-frame",
       "tagline": "",
-      "pub_date": "2026-05-07T14:17:08-07:00"
+      "pub_date": "2026-05-06T07:22:45-07:00"
     },
     {
-      "title": "Tracea",
-      "url": "https://www.producthunt.com/products/tracea",
+      "title": "Kuku: open source",
+      "url": "https://www.producthunt.com/products/kuku",
       "tagline": "",
-      "pub_date": "2026-04-29T07:20:34-07:00"
+      "pub_date": "2026-05-07T23:52:29-07:00"
     },
     {
-      "title": "Ara",
-      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "title": "KodHau",
+      "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
       "tagline": "",
-      "pub_date": "2026-05-06T05:01:03-07:00"
+      "pub_date": "2026-05-07T23:59:12-07:00"
     },
     {
       "title": "iOrchestra AI Hardware Engineers",
@@ -272,34 +251,10 @@
       "pub_date": "2026-05-06T10:08:38-07:00"
     },
     {
-      "title": "Bitfield",
-      "url": "https://www.producthunt.com/products/bitfield",
+      "title": "Toto",
+      "url": "https://www.producthunt.com/products/toto-applied-worldmodels",
       "tagline": "",
-      "pub_date": "2026-05-07T21:59:06-07:00"
-    },
-    {
-      "title": "Radiq",
-      "url": "https://www.producthunt.com/products/radiq",
-      "tagline": "",
-      "pub_date": "2026-05-07T17:14:54-07:00"
-    },
-    {
-      "title": "ElevenCreative Flows",
-      "url": "https://www.producthunt.com/products/elevencreative-flows",
-      "tagline": "",
-      "pub_date": "2026-05-01T03:54:52-07:00"
-    },
-    {
-      "title": "Operations",
-      "url": "https://www.producthunt.com/products/operations",
-      "tagline": "",
-      "pub_date": "2026-05-07T12:53:10-07:00"
-    },
-    {
-      "title": "MarkUp",
-      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
-      "tagline": "",
-      "pub_date": "2026-05-07T20:15:54-07:00"
+      "pub_date": "2026-05-08T05:01:44-07:00"
     },
     {
       "title": "Illospace",
@@ -314,40 +269,76 @@
       "pub_date": "2026-05-05T15:46:48-07:00"
     },
     {
-      "title": "MediaOptim",
-      "url": "https://www.producthunt.com/products/compress-anything-upload-nothing",
+      "title": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot",
       "tagline": "",
-      "pub_date": "2026-05-07T06:47:43-07:00"
+      "pub_date": "2026-04-20T11:52:54-07:00"
     },
     {
-      "title": "Fluent Frame",
-      "url": "https://www.producthunt.com/products/fluent-frame",
+      "title": "Radiq",
+      "url": "https://www.producthunt.com/products/radiq",
       "tagline": "",
-      "pub_date": "2026-05-06T07:22:45-07:00"
+      "pub_date": "2026-05-07T17:14:54-07:00"
     },
     {
-      "title": "Stetos.co",
-      "url": "https://www.producthunt.com/products/stetos-co",
+      "title": "Cardamom",
+      "url": "https://www.producthunt.com/products/cardamom-2",
       "tagline": "",
-      "pub_date": "2026-05-07T22:46:55-07:00"
-    },
-    {
-      "title": "Smart FAQs",
-      "url": "https://www.producthunt.com/products/smart-faqs",
-      "tagline": "",
-      "pub_date": "2026-05-07T04:38:10-07:00"
-    },
-    {
-      "title": "Contral",
-      "url": "https://www.producthunt.com/products/contral",
-      "tagline": "",
-      "pub_date": "2026-05-07T12:47:04-07:00"
+      "pub_date": "2026-05-07T14:28:11-07:00"
     },
     {
       "title": "Maia Executives",
       "url": "https://www.producthunt.com/products/maia-your-ai-co-worker",
       "tagline": "",
       "pub_date": "2026-05-07T10:05:14-07:00"
+    },
+    {
+      "title": "BNA Code",
+      "url": "https://www.producthunt.com/products/bna-code",
+      "tagline": "",
+      "pub_date": "2026-05-06T20:59:35-07:00"
+    },
+    {
+      "title": "Socrati",
+      "url": "https://www.producthunt.com/products/socrati-learn-with-ai",
+      "tagline": "",
+      "pub_date": "2026-04-14T06:48:14-07:00"
+    },
+    {
+      "title": "Sutra",
+      "url": "https://www.producthunt.com/products/sutra-4",
+      "tagline": "",
+      "pub_date": "2026-05-07T19:25:22-07:00"
+    },
+    {
+      "title": "APIEval-20",
+      "url": "https://www.producthunt.com/products/kushoai",
+      "tagline": "",
+      "pub_date": "2026-05-07T04:03:39-07:00"
+    },
+    {
+      "title": "RNDA",
+      "url": "https://www.producthunt.com/products/rnda",
+      "tagline": "",
+      "pub_date": "2026-05-06T17:26:01-07:00"
+    },
+    {
+      "title": "Espa",
+      "url": "https://www.producthunt.com/products/espa",
+      "tagline": "",
+      "pub_date": "2026-05-07T05:32:18-07:00"
+    },
+    {
+      "title": "Noteweave",
+      "url": "https://www.producthunt.com/products/noteweave",
+      "tagline": "",
+      "pub_date": "2026-05-07T05:58:41-07:00"
+    },
+    {
+      "title": "Bitfield",
+      "url": "https://www.producthunt.com/products/bitfield",
+      "tagline": "",
+      "pub_date": "2026-05-07T21:59:06-07:00"
     }
   ]
 }

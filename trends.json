@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:00:05.187Z",
+  "generated_at": "2026-05-10T13:02:22.505Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
       "hn_url": "https://news.ycombinator.com/item?id=48080587",
-      "points": 221,
-      "comments": 95,
+      "points": 322,
+      "comments": 150,
       "created_ts": 1778382104,
       "author": "imtomt"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
       "hn_url": "https://news.ycombinator.com/item?id=48076815",
-      "points": 150,
-      "comments": 39,
+      "points": 195,
+      "comments": 55,
       "created_ts": 1778349133,
       "author": "marcingas"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: Rust but Lisp",
       "url": "https://github.com/ThatXliner/rust-but-lisp",
       "hn_url": "https://news.ycombinator.com/item?id=48078575",
-      "points": 125,
-      "comments": 65,
+      "points": 152,
+      "comments": 68,
       "created_ts": 1778363187,
       "author": "thatxliner"
     },
@@ -43,8 +43,8 @@
       "title": "Show HN: Countries where you can leave your MacBook at a random coffee shop",
       "url": "https://vouchatlas.com",
       "hn_url": "https://news.ycombinator.com/item?id=48079425",
-      "points": 20,
-      "comments": 15,
+      "points": 35,
+      "comments": 32,
       "created_ts": 1778370054,
       "author": "canergl"
     },
@@ -52,55 +52,19 @@
       "title": "Show HN: Create flashcards with Space CLI",
       "url": "https://getspace.app/cli",
       "hn_url": "https://news.ycombinator.com/item?id=48075340",
-      "points": 18,
-      "comments": 7,
+      "points": 21,
+      "comments": 9,
       "created_ts": 1778337484,
       "author": "friebetill"
     }
   ],
   "hn_front": [
     {
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "hn_url": "https://news.ycombinator.com/item?id=48074265",
-      "points": 597,
-      "comments": 92,
-      "created_ts": 1778328030,
-      "author": "hggh"
-    },
-    {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "hn_url": "https://news.ycombinator.com/item?id=48073680",
-      "points": 530,
-      "comments": 490,
-      "created_ts": 1778321575,
-      "author": "heldrida"
-    },
-    {
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "hn_url": "https://news.ycombinator.com/item?id=48073246",
-      "points": 397,
-      "comments": 153,
-      "created_ts": 1778316274,
-      "author": "rbanffy"
-    },
-    {
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48077126",
-      "points": 383,
-      "comments": 412,
-      "created_ts": 1778351616,
-      "author": "JumpCrisscross"
-    },
-    {
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
       "hn_url": "https://news.ycombinator.com/item?id=48076173",
-      "points": 375,
-      "comments": 210,
+      "points": 455,
+      "comments": 237,
       "created_ts": 1778344116,
       "author": "susam"
     },
@@ -108,8 +72,8 @@
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
       "hn_url": "https://news.ycombinator.com/item?id=48074952",
-      "points": 317,
-      "comments": 282,
+      "points": 357,
+      "comments": 317,
       "created_ts": 1778334512,
       "author": "ColinWright"
     },
@@ -117,8 +81,8 @@
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
       "hn_url": "https://news.ycombinator.com/item?id=48075366",
-      "points": 276,
-      "comments": 183,
+      "points": 330,
+      "comments": 225,
       "created_ts": 1778337658,
       "author": "LorenDB"
     },
@@ -126,8 +90,8 @@
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
       "hn_url": "https://news.ycombinator.com/item?id=48080587",
-      "points": 221,
-      "comments": 95,
+      "points": 322,
+      "comments": 150,
       "created_ts": 1778382104,
       "author": "imtomt"
     },
@@ -135,17 +99,26 @@
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
       "hn_url": "https://news.ycombinator.com/item?id=48076651",
-      "points": 203,
-      "comments": 58,
+      "points": 244,
+      "comments": 72,
       "created_ts": 1778347839,
       "author": "cuechan"
+    },
+    {
+      "title": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48081245",
+      "points": 225,
+      "comments": 81,
+      "created_ts": 1778390763,
+      "author": "robalni"
     },
     {
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
       "hn_url": "https://news.ycombinator.com/item?id=48076815",
-      "points": 150,
-      "comments": 39,
+      "points": 195,
+      "comments": 55,
       "created_ts": 1778349133,
       "author": "marcingas"
     },
@@ -153,8 +126,8 @@
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
       "hn_url": "https://news.ycombinator.com/item?id=48077971",
-      "points": 137,
-      "comments": 74,
+      "points": 174,
+      "comments": 82,
       "created_ts": 1778358681,
       "author": "Deeg9rie9usi"
     },
@@ -162,33 +135,27 @@
       "title": "Show HN: Rust but Lisp",
       "url": "https://github.com/ThatXliner/rust-but-lisp",
       "hn_url": "https://news.ycombinator.com/item?id=48078575",
-      "points": 125,
-      "comments": 65,
+      "points": 152,
+      "comments": 68,
       "created_ts": 1778363187,
       "author": "thatxliner"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "hn_url": "https://news.ycombinator.com/item?id=48076465",
-      "points": 122,
-      "comments": 69,
-      "created_ts": 1778346406,
-      "author": "ggallas"
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "hn_url": "https://news.ycombinator.com/item?id=48080702",
+      "points": 121,
+      "comments": 21,
+      "created_ts": 1778383322,
+      "author": "gmays"
     }
   ],
   "ph_today": [
     {
-      "title": "LumiChats Offline",
-      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "title": "deepsec",
+      "url": "https://www.producthunt.com/products/vercel",
       "tagline": "",
-      "pub_date": "2026-05-06T02:00:17-07:00"
-    },
-    {
-      "title": "Tailgrids 3.0",
-      "url": "https://www.producthunt.com/products/tailgrids",
-      "tagline": "",
-      "pub_date": "2026-05-02T00:08:28-07:00"
+      "pub_date": "2026-05-05T04:00:17-07:00"
     },
     {
       "title": "Adject 2.0",
@@ -203,16 +170,16 @@
       "pub_date": "2026-03-30T03:55:00-07:00"
     },
     {
-      "title": "InvestorFinder",
-      "url": "https://www.producthunt.com/products/investorfinder",
-      "tagline": "",
-      "pub_date": "2026-05-08T04:03:01-07:00"
-    },
-    {
       "title": "Keel",
       "url": "https://www.producthunt.com/products/keel-3",
       "tagline": "",
       "pub_date": "2026-04-30T16:04:25-07:00"
+    },
+    {
+      "title": "LumiChats Offline",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "tagline": "",
+      "pub_date": "2026-05-06T02:00:17-07:00"
     },
     {
       "title": "AgentPeek",
@@ -221,94 +188,16 @@
       "pub_date": "2026-05-09T15:27:11-07:00"
     },
     {
-      "title": "deepsec",
-      "url": "https://www.producthunt.com/products/vercel",
+      "title": "InvestorFinder",
+      "url": "https://www.producthunt.com/products/investorfinder",
       "tagline": "",
-      "pub_date": "2026-05-05T04:00:17-07:00"
+      "pub_date": "2026-05-08T04:03:01-07:00"
     },
     {
-      "title": "Nylas CLI",
-      "url": "https://www.producthunt.com/products/nylas",
+      "title": "Tailgrids 3.0",
+      "url": "https://www.producthunt.com/products/tailgrids",
       "tagline": "",
-      "pub_date": "2026-05-04T19:58:35-07:00"
-    },
-    {
-      "title": "MolmoAct 2",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
-      "tagline": "",
-      "pub_date": "2026-05-05T10:07:40-07:00"
-    },
-    {
-      "title": "BugDrop",
-      "url": "https://www.producthunt.com/products/bugdrop-2",
-      "tagline": "",
-      "pub_date": "2026-05-07T10:08:01-07:00"
-    },
-    {
-      "title": "Staff.rip",
-      "url": "https://www.producthunt.com/products/staff-rip",
-      "tagline": "",
-      "pub_date": "2026-05-08T06:43:30-07:00"
-    },
-    {
-      "title": "Glowix",
-      "url": "https://www.producthunt.com/products/glowix",
-      "tagline": "",
-      "pub_date": "2026-05-06T05:37:28-07:00"
-    },
-    {
-      "title": "Manuscripts.app",
-      "url": "https://www.producthunt.com/products/manuscripts-app",
-      "tagline": "",
-      "pub_date": "2026-05-02T23:22:50-07:00"
-    },
-    {
-      "title": "ClawTick",
-      "url": "https://www.producthunt.com/products/clawtick",
-      "tagline": "",
-      "pub_date": "2026-05-06T03:24:51-07:00"
-    },
-    {
-      "title": "Pop",
-      "url": "https://www.producthunt.com/products/pop-13",
-      "tagline": "",
-      "pub_date": "2026-04-27T23:41:42-07:00"
-    },
-    {
-      "title": "Omi A11Y",
-      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
-      "tagline": "",
-      "pub_date": "2026-05-04T02:52:31-07:00"
-    },
-    {
-      "title": "Zappy by ZapDigits",
-      "url": "https://www.producthunt.com/products/zapdigits",
-      "tagline": "",
-      "pub_date": "2026-05-08T02:57:19-07:00"
-    },
-    {
-      "title": "nocal 4",
-      "url": "https://www.producthunt.com/products/nocal",
-      "tagline": "",
-      "pub_date": "2026-05-08T11:15:13-07:00"
-    },
-    {
-      "title": "How AI-pilled are you?",
-      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
-      "tagline": "",
-      "pub_date": "2026-05-07T16:10:14-07:00"
-    },
-    {
-      "title": "Prism",
-      "url": "https://www.producthunt.com/products/prism-26",
-      "tagline": "",
-      "pub_date": "2026-05-06T09:31:45-07:00"
-    },
-    {
-      "title": "Ghost",
-      "url": "https://www.producthunt.com/products/ghost-8",
-      "tagline": "",
-      "pub_date": "2026-05-07T10:30:42-07:00"
+      "pub_date": "2026-05-02T00:08:28-07:00"
     },
     {
       "title": "Codex in Chrome",
@@ -317,34 +206,88 @@
       "pub_date": "2026-05-08T07:50:19-07:00"
     },
     {
-      "title": "MarkUp",
-      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
+      "title": "Ghost",
+      "url": "https://www.producthunt.com/products/ghost-8",
       "tagline": "",
-      "pub_date": "2026-05-07T20:15:54-07:00"
+      "pub_date": "2026-05-07T10:30:42-07:00"
     },
     {
-      "title": "SuperIsland",
-      "url": "https://www.producthunt.com/products/superisland",
+      "title": "How AI-pilled are you?",
+      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
       "tagline": "",
-      "pub_date": "2026-05-07T15:55:41-07:00"
+      "pub_date": "2026-05-07T16:10:14-07:00"
     },
     {
-      "title": "Photobomb",
-      "url": "https://www.producthunt.com/products/photobomb",
+      "title": "MolmoAct 2",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
       "tagline": "",
-      "pub_date": "2026-05-06T08:06:59-07:00"
+      "pub_date": "2026-05-05T10:07:40-07:00"
     },
     {
-      "title": "Sendly",
-      "url": "https://www.producthunt.com/products/sendly-2",
+      "title": "ClawTick",
+      "url": "https://www.producthunt.com/products/clawtick",
       "tagline": "",
-      "pub_date": "2026-05-07T15:55:21-07:00"
+      "pub_date": "2026-05-06T03:24:51-07:00"
     },
     {
-      "title": "MiniMax Hub",
-      "url": "https://www.producthunt.com/products/minimax",
+      "title": "Prism",
+      "url": "https://www.producthunt.com/products/prism-26",
       "tagline": "",
-      "pub_date": "2026-05-07T04:21:27-07:00"
+      "pub_date": "2026-05-06T09:31:45-07:00"
+    },
+    {
+      "title": "BugDrop",
+      "url": "https://www.producthunt.com/products/bugdrop-2",
+      "tagline": "",
+      "pub_date": "2026-05-07T10:08:01-07:00"
+    },
+    {
+      "title": "nocal 4",
+      "url": "https://www.producthunt.com/products/nocal",
+      "tagline": "",
+      "pub_date": "2026-05-08T11:15:13-07:00"
+    },
+    {
+      "title": "Staff.rip",
+      "url": "https://www.producthunt.com/products/staff-rip",
+      "tagline": "",
+      "pub_date": "2026-05-08T06:43:30-07:00"
+    },
+    {
+      "title": "Nylas CLI",
+      "url": "https://www.producthunt.com/products/nylas",
+      "tagline": "",
+      "pub_date": "2026-05-04T19:58:35-07:00"
+    },
+    {
+      "title": "Zappy by ZapDigits",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "tagline": "",
+      "pub_date": "2026-05-08T02:57:19-07:00"
+    },
+    {
+      "title": "Manuscripts.app",
+      "url": "https://www.producthunt.com/products/manuscripts-app",
+      "tagline": "",
+      "pub_date": "2026-05-02T23:22:50-07:00"
+    },
+    {
+      "title": "Omi A11Y",
+      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
+      "tagline": "",
+      "pub_date": "2026-05-04T02:52:31-07:00"
+    },
+    {
+      "title": "Glowix",
+      "url": "https://www.producthunt.com/products/glowix",
+      "tagline": "",
+      "pub_date": "2026-05-06T05:37:28-07:00"
+    },
+    {
+      "title": "Pop",
+      "url": "https://www.producthunt.com/products/pop-13",
+      "tagline": "",
+      "pub_date": "2026-04-27T23:41:42-07:00"
     },
     {
       "title": "AgentChat",
@@ -353,10 +296,40 @@
       "pub_date": "2026-05-07T07:17:36-07:00"
     },
     {
-      "title": "cursor party",
-      "url": "https://www.producthunt.com/products/cursor-party",
+      "title": "MarkUp",
+      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
       "tagline": "",
-      "pub_date": "2026-05-06T06:45:27-07:00"
+      "pub_date": "2026-05-07T20:15:54-07:00"
+    },
+    {
+      "title": "Monid 2.0",
+      "url": "https://www.producthunt.com/products/monid",
+      "tagline": "",
+      "pub_date": "2026-05-07T21:48:50-07:00"
+    },
+    {
+      "title": "Google Health",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-05-07T09:54:51-07:00"
+    },
+    {
+      "title": "KodHau",
+      "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+      "tagline": "",
+      "pub_date": "2026-05-07T23:59:12-07:00"
+    },
+    {
+      "title": "Swiftcruit",
+      "url": "https://www.producthunt.com/products/swiftcruit",
+      "tagline": "",
+      "pub_date": "2026-05-07T00:49:21-07:00"
+    },
+    {
+      "title": "MiniMax Hub",
+      "url": "https://www.producthunt.com/products/minimax",
+      "tagline": "",
+      "pub_date": "2026-05-07T04:21:27-07:00"
     }
   ]
 }

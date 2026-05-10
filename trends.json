@@ -1,52 +1,70 @@
 {
-  "generated_at": "2026-05-10T02:12:36.738Z",
+  "generated_at": "2026-05-10T08:00:05.187Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "hn_url": "https://news.ycombinator.com/item?id=48080587",
+      "points": 221,
+      "comments": 95,
+      "created_ts": 1778382104,
+      "author": "imtomt"
+    },
+    {
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
       "hn_url": "https://news.ycombinator.com/item?id=48076815",
-      "points": 93,
-      "comments": 30,
+      "points": 150,
+      "comments": 39,
       "created_ts": 1778349133,
       "author": "marcingas"
+    },
+    {
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=48078575",
+      "points": 125,
+      "comments": 65,
+      "created_ts": 1778363187,
+      "author": "thatxliner"
     },
     {
       "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
       "url": "https://mochijs.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48075059",
-      "points": 38,
+      "points": 41,
       "comments": 19,
       "created_ts": 1778335300,
       "author": "ccheshirecat"
     },
     {
+      "title": "Show HN: Countries where you can leave your MacBook at a random coffee shop",
+      "url": "https://vouchatlas.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48079425",
+      "points": 20,
+      "comments": 15,
+      "created_ts": 1778370054,
+      "author": "canergl"
+    },
+    {
       "title": "Show HN: Create flashcards with Space CLI",
       "url": "https://getspace.app/cli",
       "hn_url": "https://news.ycombinator.com/item?id=48075340",
-      "points": 16,
-      "comments": 6,
+      "points": 18,
+      "comments": 7,
       "created_ts": 1778337484,
       "author": "friebetill"
     }
   ],
   "hn_front": [
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "hn_url": "https://news.ycombinator.com/item?id=48071262",
-      "points": 608,
-      "comments": 428,
-      "created_ts": 1778294502,
-      "author": "_alternator_"
-    },
-    {
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "hn_url": "https://news.ycombinator.com/item?id=48074265",
-      "points": 539,
-      "comments": 77,
+      "points": 597,
+      "comments": 92,
       "created_ts": 1778328030,
       "author": "hggh"
     },
@@ -54,44 +72,26 @@
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "hn_url": "https://news.ycombinator.com/item?id=48073680",
-      "points": 429,
-      "comments": 412,
+      "points": 530,
+      "comments": 490,
       "created_ts": 1778321575,
       "author": "heldrida"
-    },
-    {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "hn_url": "https://news.ycombinator.com/item?id=48071940",
-      "points": 421,
-      "comments": 238,
-      "created_ts": 1778302432,
-      "author": "pretext"
-    },
-    {
-      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "hn_url": "https://news.ycombinator.com/item?id=48072190",
-      "points": 402,
-      "comments": 279,
-      "created_ts": 1778305932,
-      "author": "muse900"
     },
     {
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
       "hn_url": "https://news.ycombinator.com/item?id=48073246",
-      "points": 358,
-      "comments": 138,
+      "points": 397,
+      "comments": 153,
       "created_ts": 1778316274,
       "author": "rbanffy"
     },
     {
-      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "title": "Meta's embrace of AI is making its employees miserable",
       "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
       "hn_url": "https://news.ycombinator.com/item?id=48077126",
-      "points": 301,
-      "comments": 266,
+      "points": 383,
+      "comments": 412,
       "created_ts": 1778351616,
       "author": "JumpCrisscross"
     },
@@ -99,8 +99,8 @@
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
       "hn_url": "https://news.ycombinator.com/item?id=48076173",
-      "points": 269,
-      "comments": 152,
+      "points": 375,
+      "comments": 210,
       "created_ts": 1778344116,
       "author": "susam"
     },
@@ -108,8 +108,8 @@
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
       "hn_url": "https://news.ycombinator.com/item?id=48074952",
-      "points": 265,
-      "comments": 222,
+      "points": 317,
+      "comments": 282,
       "created_ts": 1778334512,
       "author": "ColinWright"
     },
@@ -117,126 +117,114 @@
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
       "hn_url": "https://news.ycombinator.com/item?id=48075366",
-      "points": 210,
-      "comments": 145,
+      "points": 276,
+      "comments": 183,
       "created_ts": 1778337658,
       "author": "LorenDB"
+    },
+    {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "hn_url": "https://news.ycombinator.com/item?id=48080587",
+      "points": 221,
+      "comments": 95,
+      "created_ts": 1778382104,
+      "author": "imtomt"
     },
     {
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
       "hn_url": "https://news.ycombinator.com/item?id=48076651",
-      "points": 158,
-      "comments": 45,
+      "points": 203,
+      "comments": 58,
       "created_ts": 1778347839,
       "author": "cuechan"
     },
     {
-      "title": "Getting arrested in Japan",
-      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-      "hn_url": "https://news.ycombinator.com/item?id=48078647",
-      "points": 148,
-      "comments": 158,
-      "created_ts": 1778363779,
-      "author": "bane"
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "hn_url": "https://news.ycombinator.com/item?id=48076815",
+      "points": 150,
+      "comments": 39,
+      "created_ts": 1778349133,
+      "author": "marcingas"
+    },
+    {
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "hn_url": "https://news.ycombinator.com/item?id=48077971",
+      "points": 137,
+      "comments": 74,
+      "created_ts": 1778358681,
+      "author": "Deeg9rie9usi"
+    },
+    {
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=48078575",
+      "points": 125,
+      "comments": 65,
+      "created_ts": 1778363187,
+      "author": "thatxliner"
     },
     {
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
       "hn_url": "https://news.ycombinator.com/item?id=48076465",
-      "points": 110,
-      "comments": 60,
+      "points": 122,
+      "comments": 69,
       "created_ts": 1778346406,
       "author": "ggallas"
-    },
-    {
-      "title": "Forking the Web",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "hn_url": "https://news.ycombinator.com/item?id=48074087",
-      "points": 108,
-      "comments": 117,
-      "created_ts": 1778326387,
-      "author": "wrxd"
     }
   ],
   "ph_today": [
     {
-      "title": "Codex in Chrome",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "LumiChats Offline",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
       "tagline": "",
-      "pub_date": "2026-05-08T07:50:19-07:00"
+      "pub_date": "2026-05-06T02:00:17-07:00"
     },
     {
-      "title": "Prism",
-      "url": "https://www.producthunt.com/products/prism-26",
+      "title": "Tailgrids 3.0",
+      "url": "https://www.producthunt.com/products/tailgrids",
       "tagline": "",
-      "pub_date": "2026-05-06T09:31:45-07:00"
+      "pub_date": "2026-05-02T00:08:28-07:00"
     },
     {
-      "title": "Manuscripts.app",
-      "url": "https://www.producthunt.com/products/manuscripts-app",
+      "title": "Adject 2.0",
+      "url": "https://www.producthunt.com/products/adject",
       "tagline": "",
-      "pub_date": "2026-05-02T23:22:50-07:00"
+      "pub_date": "2026-05-08T12:29:52-07:00"
     },
     {
-      "title": "MolmoAct 2",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "title": "Notion 3.4",
+      "url": "https://www.producthunt.com/products/notion-3-4",
       "tagline": "",
-      "pub_date": "2026-05-05T10:07:40-07:00"
+      "pub_date": "2026-03-30T03:55:00-07:00"
     },
     {
-      "title": "nocal 4",
-      "url": "https://www.producthunt.com/products/nocal",
+      "title": "InvestorFinder",
+      "url": "https://www.producthunt.com/products/investorfinder",
       "tagline": "",
-      "pub_date": "2026-05-08T11:15:13-07:00"
+      "pub_date": "2026-05-08T04:03:01-07:00"
     },
     {
-      "title": "Pop",
-      "url": "https://www.producthunt.com/products/pop-13",
+      "title": "Keel",
+      "url": "https://www.producthunt.com/products/keel-3",
       "tagline": "",
-      "pub_date": "2026-04-27T23:41:42-07:00"
+      "pub_date": "2026-04-30T16:04:25-07:00"
     },
     {
-      "title": "Zappy by ZapDigits",
-      "url": "https://www.producthunt.com/products/zapdigits",
+      "title": "AgentPeek",
+      "url": "https://www.producthunt.com/products/agentpeek",
       "tagline": "",
-      "pub_date": "2026-05-08T02:57:19-07:00"
+      "pub_date": "2026-05-09T15:27:11-07:00"
     },
     {
-      "title": "How AI-pilled are you?",
-      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+      "title": "deepsec",
+      "url": "https://www.producthunt.com/products/vercel",
       "tagline": "",
-      "pub_date": "2026-05-07T16:10:14-07:00"
-    },
-    {
-      "title": "Glowix",
-      "url": "https://www.producthunt.com/products/glowix",
-      "tagline": "",
-      "pub_date": "2026-05-06T05:37:28-07:00"
-    },
-    {
-      "title": "Ghost",
-      "url": "https://www.producthunt.com/products/ghost-8",
-      "tagline": "",
-      "pub_date": "2026-05-07T10:30:42-07:00"
-    },
-    {
-      "title": "Omi A11Y",
-      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
-      "tagline": "",
-      "pub_date": "2026-05-04T02:52:31-07:00"
-    },
-    {
-      "title": "ClawTick",
-      "url": "https://www.producthunt.com/products/clawtick",
-      "tagline": "",
-      "pub_date": "2026-05-06T03:24:51-07:00"
-    },
-    {
-      "title": "Staff.rip",
-      "url": "https://www.producthunt.com/products/staff-rip",
-      "tagline": "",
-      "pub_date": "2026-05-08T06:43:30-07:00"
+      "pub_date": "2026-05-05T04:00:17-07:00"
     },
     {
       "title": "Nylas CLI",
@@ -245,10 +233,88 @@
       "pub_date": "2026-05-04T19:58:35-07:00"
     },
     {
+      "title": "MolmoAct 2",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "tagline": "",
+      "pub_date": "2026-05-05T10:07:40-07:00"
+    },
+    {
       "title": "BugDrop",
       "url": "https://www.producthunt.com/products/bugdrop-2",
       "tagline": "",
       "pub_date": "2026-05-07T10:08:01-07:00"
+    },
+    {
+      "title": "Staff.rip",
+      "url": "https://www.producthunt.com/products/staff-rip",
+      "tagline": "",
+      "pub_date": "2026-05-08T06:43:30-07:00"
+    },
+    {
+      "title": "Glowix",
+      "url": "https://www.producthunt.com/products/glowix",
+      "tagline": "",
+      "pub_date": "2026-05-06T05:37:28-07:00"
+    },
+    {
+      "title": "Manuscripts.app",
+      "url": "https://www.producthunt.com/products/manuscripts-app",
+      "tagline": "",
+      "pub_date": "2026-05-02T23:22:50-07:00"
+    },
+    {
+      "title": "ClawTick",
+      "url": "https://www.producthunt.com/products/clawtick",
+      "tagline": "",
+      "pub_date": "2026-05-06T03:24:51-07:00"
+    },
+    {
+      "title": "Pop",
+      "url": "https://www.producthunt.com/products/pop-13",
+      "tagline": "",
+      "pub_date": "2026-04-27T23:41:42-07:00"
+    },
+    {
+      "title": "Omi A11Y",
+      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
+      "tagline": "",
+      "pub_date": "2026-05-04T02:52:31-07:00"
+    },
+    {
+      "title": "Zappy by ZapDigits",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "tagline": "",
+      "pub_date": "2026-05-08T02:57:19-07:00"
+    },
+    {
+      "title": "nocal 4",
+      "url": "https://www.producthunt.com/products/nocal",
+      "tagline": "",
+      "pub_date": "2026-05-08T11:15:13-07:00"
+    },
+    {
+      "title": "How AI-pilled are you?",
+      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+      "tagline": "",
+      "pub_date": "2026-05-07T16:10:14-07:00"
+    },
+    {
+      "title": "Prism",
+      "url": "https://www.producthunt.com/products/prism-26",
+      "tagline": "",
+      "pub_date": "2026-05-06T09:31:45-07:00"
+    },
+    {
+      "title": "Ghost",
+      "url": "https://www.producthunt.com/products/ghost-8",
+      "tagline": "",
+      "pub_date": "2026-05-07T10:30:42-07:00"
+    },
+    {
+      "title": "Codex in Chrome",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-05-08T07:50:19-07:00"
     },
     {
       "title": "MarkUp",
@@ -257,28 +323,16 @@
       "pub_date": "2026-05-07T20:15:54-07:00"
     },
     {
+      "title": "SuperIsland",
+      "url": "https://www.producthunt.com/products/superisland",
+      "tagline": "",
+      "pub_date": "2026-05-07T15:55:41-07:00"
+    },
+    {
       "title": "Photobomb",
       "url": "https://www.producthunt.com/products/photobomb",
       "tagline": "",
       "pub_date": "2026-05-06T08:06:59-07:00"
-    },
-    {
-      "title": "Ara",
-      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
-      "tagline": "",
-      "pub_date": "2026-05-06T05:01:03-07:00"
-    },
-    {
-      "title": "Swiftcruit",
-      "url": "https://www.producthunt.com/products/swiftcruit",
-      "tagline": "",
-      "pub_date": "2026-05-07T00:49:21-07:00"
-    },
-    {
-      "title": "RankSpot",
-      "url": "https://www.producthunt.com/products/rankspot",
-      "tagline": "",
-      "pub_date": "2026-04-20T11:52:54-07:00"
     },
     {
       "title": "Sendly",
@@ -287,10 +341,10 @@
       "pub_date": "2026-05-07T15:55:21-07:00"
     },
     {
-      "title": "Stetos.co",
-      "url": "https://www.producthunt.com/products/stetos-co",
+      "title": "MiniMax Hub",
+      "url": "https://www.producthunt.com/products/minimax",
       "tagline": "",
-      "pub_date": "2026-05-07T22:46:55-07:00"
+      "pub_date": "2026-05-07T04:21:27-07:00"
     },
     {
       "title": "AgentChat",
@@ -299,46 +353,10 @@
       "pub_date": "2026-05-07T07:17:36-07:00"
     },
     {
-      "title": "Google Health",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "cursor party",
+      "url": "https://www.producthunt.com/products/cursor-party",
       "tagline": "",
-      "pub_date": "2026-05-07T09:54:51-07:00"
-    },
-    {
-      "title": "Kuku: open source",
-      "url": "https://www.producthunt.com/products/kuku",
-      "tagline": "",
-      "pub_date": "2026-05-07T23:52:29-07:00"
-    },
-    {
-      "title": "Flare",
-      "url": "https://www.producthunt.com/products/flare-9",
-      "tagline": "",
-      "pub_date": "2026-05-05T07:38:00-07:00"
-    },
-    {
-      "title": "Monid 2.0",
-      "url": "https://www.producthunt.com/products/monid",
-      "tagline": "",
-      "pub_date": "2026-05-07T21:48:50-07:00"
-    },
-    {
-      "title": "Fabraix",
-      "url": "https://www.producthunt.com/products/nyx-4",
-      "tagline": "",
-      "pub_date": "2026-05-07T11:21:51-07:00"
-    },
-    {
-      "title": "Radiq",
-      "url": "https://www.producthunt.com/products/radiq",
-      "tagline": "",
-      "pub_date": "2026-05-07T17:14:54-07:00"
-    },
-    {
-      "title": "iOrchestra AI Hardware Engineers",
-      "url": "https://www.producthunt.com/products/vibe-engineer-by-iorchestra",
-      "tagline": "",
-      "pub_date": "2026-05-06T10:08:38-07:00"
+      "pub_date": "2026-05-06T06:45:27-07:00"
     }
   ]
 }

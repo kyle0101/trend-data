@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T14:33:56.315Z",
+  "generated_at": "2026-05-11T19:29:32.684Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,100 +7,100 @@
       "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
       "url": "https://github.com/adamjgmiller/adamsreview",
       "hn_url": "https://news.ycombinator.com/item?id=48090276",
-      "points": 58,
-      "comments": 19,
+      "points": 71,
+      "comments": 40,
       "created_ts": 1778465189,
       "author": "adamthegoalie"
     },
     {
-      "title": "Show HN: Codebook of 450k+ unique words and phrases acts as a text compressor",
-      "url": "https://i.postimg.cc/WpBcB4HK/IMG-20260510-103853.jpg",
-      "hn_url": "https://news.ycombinator.com/item?id=48084385",
+      "title": "Show HN: TikTok but for Scientific Papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48096842",
+      "points": 60,
+      "comments": 38,
+      "created_ts": 1778515550,
+      "author": "ciwrl"
+    },
+    {
+      "title": "Show HN: Free tool to see how much AI bots are costing your site",
+      "url": "https://botcost.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48096045",
+      "points": 16,
+      "comments": 15,
+      "created_ts": 1778512153,
+      "author": "plaintosapp"
+    },
+    {
+      "title": "Show HN: SLayer, a semantic layer maintained by your agent",
+      "url": "https://github.com/MotleyAI/slayer",
+      "hn_url": "https://news.ycombinator.com/item?id=48095686",
       "points": 11,
-      "comments": 1,
-      "created_ts": 1778424115,
-      "author": "smalltorch"
+      "comments": 3,
+      "created_ts": 1778510737,
+      "author": "yannranchere"
     },
     {
       "title": "Show HN: I trained a chess engine to play like humans",
       "url": "https://news.ycombinator.com/item?id=48088819",
       "hn_url": "https://news.ycombinator.com/item?id=48088819",
       "points": 11,
-      "comments": 0,
+      "comments": 3,
       "created_ts": 1778452289,
       "author": "hazard"
     }
   ],
   "hn_front": [
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "hn_url": "https://news.ycombinator.com/item?id=48086190",
-      "points": 1845,
-      "comments": 609,
-      "created_ts": 1778435642,
-      "author": "ChuckMcM"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "hn_url": "https://news.ycombinator.com/item?id=48085821",
-      "points": 1470,
-      "comments": 572,
-      "created_ts": 1778433568,
-      "author": "cylo"
-    },
-    {
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "hn_url": "https://news.ycombinator.com/item?id=48090029",
-      "points": 633,
-      "comments": 342,
+      "points": 849,
+      "comments": 511,
       "created_ts": 1778462631,
       "author": "dropbox_miner"
-    },
-    {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48086082",
-      "points": 625,
-      "comments": 152,
-      "created_ts": 1778434990,
-      "author": "miniBill"
-    },
-    {
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "hn_url": "https://news.ycombinator.com/item?id=48089091",
-      "points": 434,
-      "comments": 129,
-      "created_ts": 1778454550,
-      "author": "shintoist"
     },
     {
       "title": "Mythos Finds a Curl Vulnerability",
       "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
       "hn_url": "https://news.ycombinator.com/item?id=48091737",
-      "points": 368,
-      "comments": 156,
+      "points": 543,
+      "comments": 225,
       "created_ts": 1778481548,
       "author": "TangerineDream"
+    },
+    {
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "hn_url": "https://news.ycombinator.com/item?id=48089091",
+      "points": 513,
+      "comments": 153,
+      "created_ts": 1778454550,
+      "author": "shintoist"
     },
     {
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48093100",
-      "points": 294,
-      "comments": 87,
+      "points": 512,
+      "comments": 171,
       "created_ts": 1778494384,
       "author": "orhunp_"
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "hn_url": "https://news.ycombinator.com/item?id=48092028",
+      "points": 406,
+      "comments": 262,
+      "created_ts": 1778484414,
+      "author": "negura"
     },
     {
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
       "hn_url": "https://news.ycombinator.com/item?id=48088576",
-      "points": 282,
-      "comments": 159,
+      "points": 336,
+      "comments": 197,
       "created_ts": 1778450563,
       "author": "cmbailey"
     },
@@ -108,8 +108,8 @@
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "hn_url": "https://news.ycombinator.com/item?id=48089289",
-      "points": 252,
-      "comments": 75,
+      "points": 327,
+      "comments": 94,
       "created_ts": 1778456395,
       "author": "cratermoon"
     },
@@ -117,45 +117,45 @@
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "hn_url": "https://news.ycombinator.com/item?id=48090521",
-      "points": 251,
-      "comments": 125,
+      "points": 308,
+      "comments": 175,
       "created_ts": 1778467414,
       "author": "susam"
     },
     {
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=48085993",
-      "hn_url": "https://news.ycombinator.com/item?id=48085993",
-      "points": 215,
-      "comments": 791,
-      "created_ts": 1778434481,
-      "author": "david927"
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48096692",
+      "points": 257,
+      "comments": 68,
+      "created_ts": 1778514907,
+      "author": "adamnemecek"
     },
     {
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "hn_url": "https://news.ycombinator.com/item?id=48092028",
-      "points": 127,
-      "comments": 67,
-      "created_ts": 1778484414,
-      "author": "negura"
+      "title": "Software engineering may no longer be a lifetime career",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "hn_url": "https://news.ycombinator.com/item?id=48095550",
+      "points": 200,
+      "comments": 371,
+      "created_ts": 1778510048,
+      "author": "movis"
     },
     {
-      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "hn_url": "https://news.ycombinator.com/item?id=48089049",
-      "points": 124,
-      "comments": 44,
-      "created_ts": 1778454151,
-      "author": "adunk"
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48093043",
+      "points": 190,
+      "comments": 140,
+      "created_ts": 1778493887,
+      "author": "JumpCrisscross"
     }
   ],
   "ph_today": [
     {
-      "title": "MiroMiro v2",
-      "url": "https://www.producthunt.com/products/miromiro",
+      "title": "Weavable",
+      "url": "https://www.producthunt.com/products/weavable",
       "tagline": "",
-      "pub_date": "2026-05-06T03:56:59-07:00"
+      "pub_date": "2026-04-23T15:29:49-07:00"
     },
     {
       "title": "Genpire",
@@ -164,22 +164,16 @@
       "pub_date": "2025-12-15T03:31:30-08:00"
     },
     {
-      "title": "Warp Open-Source",
-      "url": "https://www.producthunt.com/products/warp",
+      "title": "articuler.ai",
+      "url": "https://www.producthunt.com/products/articuler-ai",
       "tagline": "",
-      "pub_date": "2026-05-07T06:28:56-07:00"
+      "pub_date": "2026-05-04T10:32:03-07:00"
     },
     {
-      "title": "Snapseed 4.0",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Web Speed",
+      "url": "https://www.producthunt.com/products/web-speed",
       "tagline": "",
-      "pub_date": "2026-05-10T19:40:08-07:00"
-    },
-    {
-      "title": "Known Agents",
-      "url": "https://www.producthunt.com/products/known-agents",
-      "tagline": "",
-      "pub_date": "2026-04-28T12:33:03-07:00"
+      "pub_date": "2026-05-09T13:54:58-07:00"
     },
     {
       "title": "Graphbit PRFlow",
@@ -188,28 +182,16 @@
       "pub_date": "2025-12-19T01:47:46-08:00"
     },
     {
-      "title": "articuler.ai",
-      "url": "https://www.producthunt.com/products/articuler-ai",
+      "title": "Warp Open-Source",
+      "url": "https://www.producthunt.com/products/warp",
       "tagline": "",
-      "pub_date": "2026-05-04T10:32:03-07:00"
+      "pub_date": "2026-05-07T06:28:56-07:00"
     },
     {
-      "title": "Suprbox",
-      "url": "https://www.producthunt.com/products/suprbox",
+      "title": "Known Agents",
+      "url": "https://www.producthunt.com/products/known-agents",
       "tagline": "",
-      "pub_date": "2026-05-10T16:08:51-07:00"
-    },
-    {
-      "title": "CacheTray",
-      "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
-      "tagline": "",
-      "pub_date": "2026-05-10T11:35:54-07:00"
-    },
-    {
-      "title": "Weavable",
-      "url": "https://www.producthunt.com/products/weavable",
-      "tagline": "",
-      "pub_date": "2026-04-23T15:29:49-07:00"
+      "pub_date": "2026-04-28T12:33:03-07:00"
     },
     {
       "title": "Scroll Launch",
@@ -218,10 +200,22 @@
       "pub_date": "2026-04-30T13:57:22-07:00"
     },
     {
-      "title": "Web Speed",
-      "url": "https://www.producthunt.com/products/web-speed",
+      "title": "MiroMiro v2",
+      "url": "https://www.producthunt.com/products/miromiro",
       "tagline": "",
-      "pub_date": "2026-05-09T13:54:58-07:00"
+      "pub_date": "2026-05-06T03:56:59-07:00"
+    },
+    {
+      "title": "Suprbox",
+      "url": "https://www.producthunt.com/products/suprbox",
+      "tagline": "",
+      "pub_date": "2026-05-10T16:08:51-07:00"
+    },
+    {
+      "title": "Snapseed 4.0",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-05-10T19:40:08-07:00"
     },
     {
       "title": "ChatGPT for Google Sheets",
@@ -234,24 +228,6 @@
       "url": "https://www.producthunt.com/products/grok",
       "tagline": "",
       "pub_date": "2026-05-10T20:41:57-07:00"
-    },
-    {
-      "title": "Bruin",
-      "url": "https://www.producthunt.com/products/bruin",
-      "tagline": "",
-      "pub_date": "2026-05-09T06:22:22-07:00"
-    },
-    {
-      "title": "RPCForge",
-      "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
-      "tagline": "",
-      "pub_date": "2026-05-10T08:55:32-07:00"
-    },
-    {
-      "title": "Kofe Flow",
-      "url": "https://www.producthunt.com/products/kofe-flow-pomodoro-timer",
-      "tagline": "",
-      "pub_date": "2026-05-07T20:46:39-07:00"
     },
     {
       "title": "Connector.wtf",
@@ -272,46 +248,28 @@
       "pub_date": "2026-05-10T13:22:25-07:00"
     },
     {
-      "title": "OpenJobs AI",
-      "url": "https://www.producthunt.com/products/openjobs-ai",
+      "title": "Kofe Flow",
+      "url": "https://www.producthunt.com/products/kofe-flow-pomodoro-timer",
       "tagline": "",
-      "pub_date": "2026-05-01T12:49:10-07:00"
+      "pub_date": "2026-05-07T20:46:39-07:00"
     },
     {
-      "title": "ClawSecure",
-      "url": "https://www.producthunt.com/products/clawsecure",
+      "title": "Bruin",
+      "url": "https://www.producthunt.com/products/bruin",
       "tagline": "",
-      "pub_date": "2026-05-01T12:48:54-07:00"
+      "pub_date": "2026-05-09T06:22:22-07:00"
     },
     {
-      "title": "Plouton AI",
-      "url": "https://www.producthunt.com/products/plouton-ai",
+      "title": "RPCForge",
+      "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
       "tagline": "",
-      "pub_date": "2026-05-01T12:48:28-07:00"
+      "pub_date": "2026-05-10T08:55:32-07:00"
     },
     {
-      "title": "onBeacon",
-      "url": "https://www.producthunt.com/products/onbeacon",
+      "title": "CacheTray",
+      "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
       "tagline": "",
-      "pub_date": "2026-05-01T12:49:21-07:00"
-    },
-    {
-      "title": "Hoogly.ai",
-      "url": "https://www.producthunt.com/products/hoogly",
-      "tagline": "",
-      "pub_date": "2026-05-01T12:49:17-07:00"
-    },
-    {
-      "title": "AIFORPET",
-      "url": "https://www.producthunt.com/products/aiforpet",
-      "tagline": "",
-      "pub_date": "2026-05-07T14:37:55-07:00"
-    },
-    {
-      "title": "TaggIoT",
-      "url": "https://www.producthunt.com/products/taggiot",
-      "tagline": "",
-      "pub_date": "2026-05-01T12:48:48-07:00"
+      "pub_date": "2026-05-10T11:35:54-07:00"
     },
     {
       "title": "Acceler8",
@@ -326,10 +284,52 @@
       "pub_date": "2026-05-01T12:47:50-07:00"
     },
     {
+      "title": "ThinkMD",
+      "url": "https://www.producthunt.com/products/thinkmd",
+      "tagline": "",
+      "pub_date": "2026-05-01T12:48:51-07:00"
+    },
+    {
       "title": "Belli",
       "url": "https://www.producthunt.com/products/belli",
       "tagline": "",
       "pub_date": "2026-05-01T12:48:56-07:00"
+    },
+    {
+      "title": "Needle AI, Inc.",
+      "url": "https://www.producthunt.com/products/needle-ai-inc",
+      "tagline": "",
+      "pub_date": "2026-05-01T12:49:11-07:00"
+    },
+    {
+      "title": "Blind Creator",
+      "url": "https://www.producthunt.com/products/blind-creator",
+      "tagline": "",
+      "pub_date": "2026-05-07T14:37:39-07:00"
+    },
+    {
+      "title": "Pegasi",
+      "url": "https://www.producthunt.com/products/pegasi",
+      "tagline": "",
+      "pub_date": "2026-05-07T14:37:52-07:00"
+    },
+    {
+      "title": "Infiuss Health",
+      "url": "https://www.producthunt.com/products/infiuss-health",
+      "tagline": "",
+      "pub_date": "2026-05-01T12:49:14-07:00"
+    },
+    {
+      "title": "TaggIoT",
+      "url": "https://www.producthunt.com/products/taggiot",
+      "tagline": "",
+      "pub_date": "2026-05-01T12:48:48-07:00"
+    },
+    {
+      "title": "AIFORPET",
+      "url": "https://www.producthunt.com/products/aiforpet",
+      "tagline": "",
+      "pub_date": "2026-05-07T14:37:55-07:00"
     }
   ]
 }

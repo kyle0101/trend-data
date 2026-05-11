@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-11T02:31:01.930Z",
+  "generated_at": "2026-05-11T09:28:58.928Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "hn_url": "https://news.ycombinator.com/item?id=48080587",
-      "points": 389,
-      "comments": 209,
-      "created_ts": 1778382104,
-      "author": "imtomt"
-    },
-    {
       "title": "Show HN: An index of indie web/blog indexes",
       "url": "https://theindex.fyi",
       "hn_url": "https://news.ycombinator.com/item?id=48083580",
-      "points": 96,
-      "comments": 37,
+      "points": 115,
+      "comments": 38,
       "created_ts": 1778417431,
       "author": "rocketpastsix"
     },
     {
-      "title": "Show HN: Modafinil - Let agents continue running while MacBook lid is closed",
-      "url": "https://github.com/narcotic-sh/modafinil",
-      "hn_url": "https://news.ycombinator.com/item?id=48080675",
-      "points": 13,
-      "comments": 24,
-      "created_ts": 1778383023,
-      "author": "hamza_q_"
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "hn_url": "https://news.ycombinator.com/item?id=48090276",
+      "points": 32,
+      "comments": 8,
+      "created_ts": 1778465189,
+      "author": "adamthegoalie"
+    },
+    {
+      "title": "Show HN: Codebook of 450k+ unique words and phrases acts as a text compressor",
+      "url": "https://i.postimg.cc/WpBcB4HK/IMG-20260510-103853.jpg",
+      "hn_url": "https://news.ycombinator.com/item?id=48084385",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1778424115,
+      "author": "smalltorch"
     }
   ],
   "hn_front": [
@@ -36,8 +36,8 @@
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "hn_url": "https://news.ycombinator.com/item?id=48086190",
-      "points": 934,
-      "comments": 340,
+      "points": 1506,
+      "comments": 489,
       "created_ts": 1778435642,
       "author": "ChuckMcM"
     },
@@ -45,282 +45,291 @@
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "hn_url": "https://news.ycombinator.com/item?id=48085821",
-      "points": 620,
-      "comments": 295,
+      "points": 1113,
+      "comments": 475,
       "created_ts": 1778433568,
       "author": "cylo"
-    },
-    {
-      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "hn_url": "https://news.ycombinator.com/item?id=48084432",
-      "points": 484,
-      "comments": 262,
-      "created_ts": 1778424425,
-      "author": "iancmceachern"
     },
     {
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "hn_url": "https://news.ycombinator.com/item?id=48086082",
-      "points": 409,
-      "comments": 98,
+      "points": 526,
+      "comments": 134,
       "created_ts": 1778434990,
       "author": "miniBill"
     },
     {
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48081469",
-      "points": 202,
-      "comments": 109,
-      "created_ts": 1778394050,
-      "author": "MrGilbert"
-    },
-    {
-      "title": "Think Linear Algebra (2023)",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48082396",
-      "points": 170,
-      "comments": 20,
-      "created_ts": 1778406033,
-      "author": "tamnd"
-    },
-    {
-      "title": "What's a mathematician to do? (2010)",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "hn_url": "https://news.ycombinator.com/item?id=48083007",
-      "points": 155,
-      "comments": 75,
-      "created_ts": 1778412410,
-      "author": "ipnon"
-    },
-    {
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "hn_url": "https://news.ycombinator.com/item?id=48088151",
-      "points": 152,
-      "comments": 71,
-      "created_ts": 1778447818,
-      "author": "lemonberry"
-    },
-    {
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=48085993",
-      "hn_url": "https://news.ycombinator.com/item?id=48085993",
-      "points": 138,
-      "comments": 474,
-      "created_ts": 1778434481,
-      "author": "david927"
-    },
-    {
-      "title": "Traces Of Humanity",
-      "url": "https://tracesofhumanity.org/hello-world/",
-      "hn_url": "https://news.ycombinator.com/item?id=48085782",
-      "points": 130,
-      "comments": 19,
-      "created_ts": 1778433310,
-      "author": "alex77456"
-    },
-    {
-      "title": "The locals don't know",
-      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-      "hn_url": "https://news.ycombinator.com/item?id=48085055",
-      "points": 104,
-      "comments": 73,
-      "created_ts": 1778429017,
-      "author": "herbertl"
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "hn_url": "https://news.ycombinator.com/item?id=48090029",
+      "points": 337,
+      "comments": 156,
+      "created_ts": 1778462631,
+      "author": "dropbox_miner"
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
       "hn_url": "https://news.ycombinator.com/item?id=48089091",
-      "points": 102,
-      "comments": 48,
+      "points": 299,
+      "comments": 92,
       "created_ts": 1778454550,
       "author": "shintoist"
+    },
+    {
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "hn_url": "https://news.ycombinator.com/item?id=48088151",
+      "points": 247,
+      "comments": 140,
+      "created_ts": 1778447818,
+      "author": "lemonberry"
+    },
+    {
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "hn_url": "https://news.ycombinator.com/item?id=48088576",
+      "points": 208,
+      "comments": 103,
+      "created_ts": 1778450563,
+      "author": "cmbailey"
+    },
+    {
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=48085993",
+      "hn_url": "https://news.ycombinator.com/item?id=48085993",
+      "points": 184,
+      "comments": 668,
+      "created_ts": 1778434481,
+      "author": "david927"
+    },
+    {
+      "title": "The locals don't know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "hn_url": "https://news.ycombinator.com/item?id=48085055",
+      "points": 161,
+      "comments": 127,
+      "created_ts": 1778429017,
+      "author": "herbertl"
+    },
+    {
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48090521",
+      "points": 156,
+      "comments": 67,
+      "created_ts": 1778467414,
+      "author": "susam"
+    },
+    {
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "hn_url": "https://news.ycombinator.com/item?id=48089289",
+      "points": 156,
+      "comments": 40,
+      "created_ts": 1778456395,
+      "author": "cratermoon"
+    },
+    {
+      "title": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=48085782",
+      "points": 156,
+      "comments": 23,
+      "created_ts": 1778433310,
+      "author": "alex77456"
+    },
+    {
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "hn_url": "https://news.ycombinator.com/item?id=48091737",
+      "points": 116,
+      "comments": 46,
+      "created_ts": 1778481548,
+      "author": "TangerineDream"
     }
   ],
   "ph_today": [
     {
-      "title": "Tailgrids 3.0",
-      "url": "https://www.producthunt.com/products/tailgrids",
+      "title": "Graphbit PRFlow - AI Code Review Agent",
+      "url": "https://www.producthunt.com/products/graphbit",
       "tagline": "",
-      "pub_date": "2026-05-02T00:08:28-07:00"
+      "pub_date": "2025-12-19T01:47:46-08:00"
     },
     {
-      "title": "Keel",
-      "url": "https://www.producthunt.com/products/keel-3",
+      "title": "Weavable",
+      "url": "https://www.producthunt.com/products/weavable",
       "tagline": "",
-      "pub_date": "2026-04-30T16:04:25-07:00"
+      "pub_date": "2026-04-23T15:29:49-07:00"
     },
     {
-      "title": "Adject 2.0",
-      "url": "https://www.producthunt.com/products/adject",
+      "title": "Snapseed 4.0",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-05-08T12:29:52-07:00"
+      "pub_date": "2026-05-10T19:40:08-07:00"
     },
     {
-      "title": "Notion 3.4",
-      "url": "https://www.producthunt.com/products/notion-3-4",
+      "title": "ChatGPT for Google Sheets",
+      "url": "https://www.producthunt.com/products/chatgpt-for-google-sheets",
       "tagline": "",
-      "pub_date": "2026-03-30T03:55:00-07:00"
+      "pub_date": "2026-05-05T22:30:14-07:00"
     },
     {
-      "title": "Better Sol",
-      "url": "https://www.producthunt.com/products/better-sol",
+      "title": "Yeta AI / YouTube Translator",
+      "url": "https://www.producthunt.com/products/yeta-ai",
       "tagline": "",
-      "pub_date": "2026-05-09T20:07:49-07:00"
+      "pub_date": "2026-05-09T02:10:49-07:00"
     },
     {
-      "title": "LumiChats Offline(free)",
-      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "title": "Warp Open-Source",
+      "url": "https://www.producthunt.com/products/warp",
       "tagline": "",
-      "pub_date": "2026-05-06T02:00:17-07:00"
+      "pub_date": "2026-05-07T06:28:56-07:00"
     },
     {
-      "title": "InvestorFinder",
-      "url": "https://www.producthunt.com/products/investorfinder",
+      "title": "MiroMiro v2",
+      "url": "https://www.producthunt.com/products/miromiro",
       "tagline": "",
-      "pub_date": "2026-05-08T04:03:01-07:00"
+      "pub_date": "2026-05-06T03:56:59-07:00"
     },
     {
-      "title": "deepsec",
-      "url": "https://www.producthunt.com/products/vercel",
+      "title": "Web Speed",
+      "url": "https://www.producthunt.com/products/web-speed",
       "tagline": "",
-      "pub_date": "2026-05-05T04:00:17-07:00"
+      "pub_date": "2026-05-09T13:54:58-07:00"
     },
     {
-      "title": "AgentPeek",
-      "url": "https://www.producthunt.com/products/agentpeek",
+      "title": "Genpire",
+      "url": "https://www.producthunt.com/products/genpire-ai",
       "tagline": "",
-      "pub_date": "2026-05-09T15:27:11-07:00"
+      "pub_date": "2025-12-15T03:31:30-08:00"
     },
     {
-      "title": "Prism",
-      "url": "https://www.producthunt.com/products/prism-26",
+      "title": "Known Agents",
+      "url": "https://www.producthunt.com/products/known-agents",
       "tagline": "",
-      "pub_date": "2026-05-06T09:31:45-07:00"
+      "pub_date": "2026-04-28T12:33:03-07:00"
     },
     {
-      "title": "How AI-pilled are you?",
-      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+      "title": "Grok Connectors",
+      "url": "https://www.producthunt.com/products/grok",
       "tagline": "",
-      "pub_date": "2026-05-07T16:10:14-07:00"
+      "pub_date": "2026-05-10T20:41:57-07:00"
     },
     {
-      "title": "Codex in Chrome",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Suprbox",
+      "url": "https://www.producthunt.com/products/suprbox",
       "tagline": "",
-      "pub_date": "2026-05-08T07:50:19-07:00"
+      "pub_date": "2026-05-10T16:08:51-07:00"
     },
     {
-      "title": "Zappy by ZapDigits",
-      "url": "https://www.producthunt.com/products/zapdigits",
+      "title": "Bruin",
+      "url": "https://www.producthunt.com/products/bruin",
       "tagline": "",
-      "pub_date": "2026-05-08T02:57:19-07:00"
+      "pub_date": "2026-05-09T06:22:22-07:00"
     },
     {
-      "title": "MolmoAct 2",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "title": "CacheTray",
+      "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
       "tagline": "",
-      "pub_date": "2026-05-05T10:07:40-07:00"
+      "pub_date": "2026-05-10T11:35:54-07:00"
     },
     {
-      "title": "Glowix",
-      "url": "https://www.producthunt.com/products/glowix",
+      "title": "Kofe Flow",
+      "url": "https://www.producthunt.com/products/kofe-flow-pomodoro-timer",
       "tagline": "",
-      "pub_date": "2026-05-06T05:37:28-07:00"
+      "pub_date": "2026-05-07T20:46:39-07:00"
     },
     {
-      "title": "ClawTick",
-      "url": "https://www.producthunt.com/products/clawtick",
+      "title": "articuler.ai",
+      "url": "https://www.producthunt.com/products/articuler-ai",
       "tagline": "",
-      "pub_date": "2026-05-06T03:24:51-07:00"
+      "pub_date": "2026-05-04T10:32:03-07:00"
     },
     {
-      "title": "BugDrop",
-      "url": "https://www.producthunt.com/products/bugdrop-2",
+      "title": "Connector.wtf",
+      "url": "https://www.producthunt.com/products/connector-wtf",
       "tagline": "",
-      "pub_date": "2026-05-07T10:08:01-07:00"
+      "pub_date": "2026-05-09T03:58:37-07:00"
     },
     {
-      "title": "nocal 4",
-      "url": "https://www.producthunt.com/products/nocal",
+      "title": "RPCForge",
+      "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
       "tagline": "",
-      "pub_date": "2026-05-08T11:15:13-07:00"
+      "pub_date": "2026-05-10T08:55:32-07:00"
     },
     {
-      "title": "Nylas CLI",
-      "url": "https://www.producthunt.com/products/nylas",
+      "title": "Scroll Launch",
+      "url": "https://www.producthunt.com/products/scroll-launch",
       "tagline": "",
-      "pub_date": "2026-05-04T19:58:35-07:00"
+      "pub_date": "2026-04-30T13:57:22-07:00"
     },
     {
-      "title": "Omi A11Y",
-      "url": "https://www.producthunt.com/products/omi-a11y-accessibility-scanner",
+      "title": "LinCal",
+      "url": "https://www.producthunt.com/products/lincal",
       "tagline": "",
-      "pub_date": "2026-05-04T02:52:31-07:00"
+      "pub_date": "2026-05-10T13:22:25-07:00"
     },
     {
-      "title": "Manuscripts.app",
-      "url": "https://www.producthunt.com/products/manuscripts-app",
+      "title": "Acceler8",
+      "url": "https://www.producthunt.com/products/acceler8",
       "tagline": "",
-      "pub_date": "2026-05-02T23:22:50-07:00"
+      "pub_date": "2026-05-01T12:48:10-07:00"
     },
     {
-      "title": "Ghost",
-      "url": "https://www.producthunt.com/products/ghost-8",
+      "title": "Pegasi",
+      "url": "https://www.producthunt.com/products/pegasi",
       "tagline": "",
-      "pub_date": "2026-05-07T10:30:42-07:00"
+      "pub_date": "2026-05-07T14:37:52-07:00"
     },
     {
-      "title": "Staff.rip",
-      "url": "https://www.producthunt.com/products/staff-rip",
+      "title": "onBeacon",
+      "url": "https://www.producthunt.com/products/onbeacon",
       "tagline": "",
-      "pub_date": "2026-05-08T06:43:30-07:00"
+      "pub_date": "2026-05-01T12:49:21-07:00"
     },
     {
-      "title": "Pop",
-      "url": "https://www.producthunt.com/products/pop-13",
+      "title": "Wubble.ai",
+      "url": "https://www.producthunt.com/products/wubble-ai",
       "tagline": "",
-      "pub_date": "2026-04-27T23:41:42-07:00"
+      "pub_date": "2026-05-01T13:03:59-07:00"
     },
     {
-      "title": "MarkUp",
-      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
+      "title": "Greenmentor.co",
+      "url": "https://www.producthunt.com/products/greenmentor-co",
       "tagline": "",
-      "pub_date": "2026-05-07T20:15:54-07:00"
+      "pub_date": "2026-05-01T12:48:26-07:00"
     },
     {
-      "title": "KodHau",
-      "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+      "title": "Airbag",
+      "url": "https://www.producthunt.com/products/airbag",
       "tagline": "",
-      "pub_date": "2026-05-07T23:59:12-07:00"
+      "pub_date": "2026-05-07T14:37:49-07:00"
     },
     {
-      "title": "Swiftcruit",
-      "url": "https://www.producthunt.com/products/swiftcruit",
+      "title": "MUI-Robotics",
+      "url": "https://www.producthunt.com/products/mui-robotics",
       "tagline": "",
-      "pub_date": "2026-05-07T00:49:21-07:00"
+      "pub_date": "2026-05-01T12:47:44-07:00"
     },
     {
-      "title": "Ara",
-      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "title": "Hoogly.ai",
+      "url": "https://www.producthunt.com/products/hoogly",
       "tagline": "",
-      "pub_date": "2026-05-06T05:01:03-07:00"
+      "pub_date": "2026-05-01T12:49:17-07:00"
     },
     {
-      "title": "GitHired",
-      "url": "https://www.producthunt.com/products/githired-2",
+      "title": "GreenFi Ai",
+      "url": "https://www.producthunt.com/products/greenfi-ai",
       "tagline": "",
-      "pub_date": "2026-04-19T12:16:05-07:00"
+      "pub_date": "2026-05-01T12:47:58-07:00"
     },
     {
-      "title": "Kuku: open source",
-      "url": "https://www.producthunt.com/products/kuku",
+      "title": "Quest",
+      "url": "https://www.producthunt.com/products/quest-5",
       "tagline": "",
-      "pub_date": "2026-05-07T23:52:29-07:00"
+      "pub_date": "2026-05-01T12:48:20-07:00"
     }
   ]
 }

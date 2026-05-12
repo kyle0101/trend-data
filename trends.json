@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-05-12T14:03:03.094Z",
+  "generated_at": "2026-05-12T19:40:11.652Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: TikTok but for scientific papers",
-      "url": "https://andreaturchet.github.io/website/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48096842",
-      "points": 151,
-      "comments": 67,
-      "created_ts": 1778515550,
-      "author": "ciwrl"
-    },
-    {
       "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
       "url": "https://github.com/ab-613/opengravity",
       "hn_url": "https://news.ycombinator.com/item?id=48100192",
-      "points": 91,
-      "comments": 29,
+      "points": 99,
+      "comments": 30,
       "created_ts": 1778531005,
       "author": "ab613"
     },
@@ -31,31 +22,67 @@
       "author": "mnexa"
     },
     {
-      "title": "Show HN: Free tool to see how much AI bots are costing your site",
-      "url": "https://botcost.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48096045",
-      "points": 18,
-      "comments": 15,
-      "created_ts": 1778512153,
-      "author": "plaintosapp"
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=48111896",
+      "points": 38,
+      "comments": 6,
+      "created_ts": 1778608991,
+      "author": "HenryNdubuaku"
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "hn_url": "https://news.ycombinator.com/item?id=48111143",
+      "points": 27,
+      "comments": 8,
+      "created_ts": 1778605822,
+      "author": "sai18"
+    },
+    {
+      "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+      "url": "https://news.ycombinator.com/item?id=48110593",
+      "hn_url": "https://news.ycombinator.com/item?id=48110593",
+      "points": 22,
+      "comments": 8,
+      "created_ts": 1778603574,
+      "author": "namanyayg"
+    },
+    {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "hn_url": "https://news.ycombinator.com/item?id=48108778",
+      "points": 22,
+      "comments": 5,
+      "created_ts": 1778595895,
+      "author": "azurewraith"
     },
     {
       "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
       "url": "https://www.npmjs.com/package/@gkiely/safe-install",
       "hn_url": "https://news.ycombinator.com/item?id=48102636",
       "points": 17,
-      "comments": 2,
+      "comments": 3,
       "created_ts": 1778545810,
       "author": "gkiely"
     },
     {
-      "title": "Show HN: SLayer, a semantic layer maintained by your agent",
-      "url": "https://github.com/MotleyAI/slayer",
-      "hn_url": "https://news.ycombinator.com/item?id=48095686",
-      "points": 12,
+      "title": "Show HN: Doomscroll the Goverment's UFO Files as One Gigantic Microfilm",
+      "url": "https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?page=2",
+      "hn_url": "https://news.ycombinator.com/item?id=48104254",
+      "points": 14,
+      "comments": 7,
+      "created_ts": 1778560851,
+      "author": "keepamovin"
+    },
+    {
+      "title": "Show HN: Retrace – reverse debugging for production CPython applications",
+      "url": "https://github.com/retracesoftware/retracesoftware",
+      "hn_url": "https://news.ycombinator.com/item?id=48107362",
+      "points": 14,
       "comments": 3,
-      "created_ts": 1778510737,
-      "author": "yannranchere"
+      "created_ts": 1778589300,
+      "author": "L15p3r"
     }
   ],
   "hn_front": [
@@ -63,8 +90,8 @@
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "hn_url": "https://news.ycombinator.com/item?id=48100706",
-      "points": 932,
-      "comments": 387,
+      "points": 1035,
+      "comments": 433,
       "created_ts": 1778533705,
       "author": "varunsharma07"
     },
@@ -72,126 +99,108 @@
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "hn_url": "https://news.ycombinator.com/item?id=48100433",
-      "points": 652,
-      "comments": 679,
+      "points": 815,
+      "comments": 860,
       "created_ts": 1778532355,
       "author": "indigodaddy"
     },
     {
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=48100500",
-      "points": 600,
-      "comments": 582,
-      "created_ts": 1778532717,
-      "author": "AnonGitLabEmpl"
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "hn_url": "https://news.ycombinator.com/item?id=48109224",
+      "points": 813,
+      "comments": 288,
+      "created_ts": 1778597681,
+      "author": "rubenbe"
     },
     {
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
       "hn_url": "https://news.ycombinator.com/item?id=48104428",
-      "points": 397,
-      "comments": 177,
+      "points": 582,
+      "comments": 300,
       "created_ts": 1778562684,
       "author": "adunk"
-    },
-    {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "hn_url": "https://news.ycombinator.com/item?id=48098261",
-      "points": 387,
-      "comments": 77,
-      "created_ts": 1778521988,
-      "author": "bookofjoe"
     },
     {
       "title": "They Live (1988) inspired Adblocker",
       "url": "https://github.com/davmlaw/they_live_adblocker",
       "hn_url": "https://news.ycombinator.com/item?id=48102700",
-      "points": 384,
-      "comments": 123,
+      "points": 508,
+      "comments": 163,
       "created_ts": 1778546274,
       "author": "tokenburner"
-    },
-    {
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "hn_url": "https://news.ycombinator.com/item?id=48100524",
-      "points": 268,
-      "comments": 35,
-      "created_ts": 1778532817,
-      "author": "smhx"
     },
     {
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
       "hn_url": "https://news.ycombinator.com/item?id=48106024",
-      "points": 260,
-      "comments": 49,
+      "points": 448,
+      "comments": 86,
       "created_ts": 1778578221,
       "author": "surprisetalk"
     },
     {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "hn_url": "https://news.ycombinator.com/item?id=48100662",
-      "points": 224,
-      "comments": 233,
-      "created_ts": 1778533450,
-      "author": "showmypost"
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "hn_url": "https://news.ycombinator.com/item?id=48107997",
+      "points": 324,
+      "comments": 28,
+      "created_ts": 1778592406,
+      "author": "ibobev"
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48106534",
-      "points": 220,
-      "comments": 164,
-      "created_ts": 1778583607,
-      "author": "thm"
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "hn_url": "https://news.ycombinator.com/item?id=48111545",
+      "points": 253,
+      "comments": 333,
+      "created_ts": 1778607456,
+      "author": "tambourine_man"
     },
     {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "hn_url": "https://news.ycombinator.com/item?id=48103042",
-      "points": 179,
-      "comments": 81,
-      "created_ts": 1778549069,
-      "author": "matrixhelix"
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "hn_url": "https://news.ycombinator.com/item?id=48110021",
+      "points": 187,
+      "comments": 168,
+      "created_ts": 1778600987,
+      "author": "voisin"
     },
     {
-      "title": "Show HN: TikTok but for scientific papers",
-      "url": "https://andreaturchet.github.io/website/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48096842",
-      "points": 151,
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "hn_url": "https://news.ycombinator.com/item?id=48109460",
+      "points": 166,
       "comments": 67,
-      "created_ts": 1778515550,
-      "author": "ciwrl"
+      "created_ts": 1778598520,
+      "author": "nilirl"
     },
     {
-      "title": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48103511",
-      "points": 134,
-      "comments": 24,
-      "created_ts": 1778552891,
-      "author": "aragonite"
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "hn_url": "https://news.ycombinator.com/item?id=48109970",
+      "points": 163,
+      "comments": 67,
+      "created_ts": 1778600754,
+      "author": "xz18r"
     },
     {
-      "title": "Extremely Low Frequencies",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48104041",
-      "points": 131,
-      "comments": 9,
-      "created_ts": 1778558375,
-      "author": "pinewurst"
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "hn_url": "https://news.ycombinator.com/item?id=48103668",
+      "points": 158,
+      "comments": 131,
+      "created_ts": 1778554591,
+      "author": "Cider9986"
     }
   ],
   "ph_today": [
     {
-      "title": "Hopper",
-      "url": "https://www.producthunt.com/products/hopper-4",
+      "title": "display.dev",
+      "url": "https://www.producthunt.com/products/display-dev",
       "tagline": "",
-      "pub_date": "2026-05-10T22:25:42-07:00"
+      "pub_date": "2026-05-11T05:29:11-07:00"
     },
     {
       "title": "Free AI SEO Auditor",
@@ -200,28 +209,10 @@
       "pub_date": "2026-05-11T18:28:35-07:00"
     },
     {
-      "title": "EmailTemple",
-      "url": "https://www.producthunt.com/products/emailtemple",
+      "title": "Hyperswitch Prism",
+      "url": "https://www.producthunt.com/products/hyperswitch-2",
       "tagline": "",
-      "pub_date": "2026-05-11T02:23:19-07:00"
-    },
-    {
-      "title": "MiniCPM-V 4.6",
-      "url": "https://www.producthunt.com/products/minicpm-4-0",
-      "tagline": "",
-      "pub_date": "2026-05-11T20:30:27-07:00"
-    },
-    {
-      "title": "Vexilo",
-      "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
-      "tagline": "",
-      "pub_date": "2026-05-09T07:32:03-07:00"
-    },
-    {
-      "title": "Whisper Island by Coddo",
-      "url": "https://www.producthunt.com/products/coddo",
-      "tagline": "",
-      "pub_date": "2026-05-11T13:16:09-07:00"
+      "pub_date": "2026-05-09T00:20:21-07:00"
     },
     {
       "title": "ARKAD Wallet",
@@ -230,34 +221,16 @@
       "pub_date": "2026-04-13T07:09:19-07:00"
     },
     {
-      "title": "Bouquin &amp; Ink",
-      "url": "https://www.producthunt.com/products/bouquin-ink",
+      "title": "knooth",
+      "url": "https://www.producthunt.com/products/knooth",
       "tagline": "",
-      "pub_date": "2026-05-11T19:54:49-07:00"
+      "pub_date": "2026-05-11T07:28:36-07:00"
     },
     {
-      "title": "HeyNews",
-      "url": "https://www.producthunt.com/products/heynews",
+      "title": "Vexilo",
+      "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
       "tagline": "",
-      "pub_date": "2026-05-08T04:06:37-07:00"
-    },
-    {
-      "title": "MY AI Agent",
-      "url": "https://www.producthunt.com/products/my-ai-agent",
-      "tagline": "",
-      "pub_date": "2026-05-10T19:04:13-07:00"
-    },
-    {
-      "title": "ContentPilots",
-      "url": "https://www.producthunt.com/products/contentpilots",
-      "tagline": "",
-      "pub_date": "2026-05-10T16:02:13-07:00"
-    },
-    {
-      "title": "FileFlan",
-      "url": "https://www.producthunt.com/products/fileflan",
-      "tagline": "",
-      "pub_date": "2026-05-11T09:56:13-07:00"
+      "pub_date": "2026-05-09T07:32:03-07:00"
     },
     {
       "title": "Seer Platform",
@@ -266,52 +239,22 @@
       "pub_date": "2026-04-06T23:27:14-07:00"
     },
     {
-      "title": "knooth",
-      "url": "https://www.producthunt.com/products/knooth",
+      "title": "Jotform Claude App",
+      "url": "https://www.producthunt.com/products/jotform",
       "tagline": "",
-      "pub_date": "2026-05-11T07:28:36-07:00"
+      "pub_date": "2026-05-08T00:44:00-07:00"
     },
     {
-      "title": "TrackTalent",
-      "url": "https://www.producthunt.com/products/outtalent",
+      "title": "Pixcode",
+      "url": "https://www.producthunt.com/products/pixcode",
       "tagline": "",
-      "pub_date": "2026-04-28T01:44:27-07:00"
+      "pub_date": "2026-05-11T01:53:12-07:00"
     },
     {
-      "title": "display.dev",
-      "url": "https://www.producthunt.com/products/display-dev",
+      "title": "EmailTemple",
+      "url": "https://www.producthunt.com/products/emailtemple",
       "tagline": "",
-      "pub_date": "2026-05-11T05:29:11-07:00"
-    },
-    {
-      "title": "Open Vibe",
-      "url": "https://www.producthunt.com/products/open-vibe",
-      "tagline": "",
-      "pub_date": "2026-05-04T06:59:25-07:00"
-    },
-    {
-      "title": "zubhai",
-      "url": "https://www.producthunt.com/products/zubhai",
-      "tagline": "",
-      "pub_date": "2026-05-02T23:10:47-07:00"
-    },
-    {
-      "title": "Prism protocol",
-      "url": "https://www.producthunt.com/products/prism-protocol",
-      "tagline": "",
-      "pub_date": "2026-05-11T17:30:24-07:00"
-    },
-    {
-      "title": "TabGroup Vault",
-      "url": "https://www.producthunt.com/products/tabgroup-vault",
-      "tagline": "",
-      "pub_date": "2026-05-11T04:21:44-07:00"
-    },
-    {
-      "title": "Auvylo",
-      "url": "https://www.producthunt.com/products/auvylo",
-      "tagline": "",
-      "pub_date": "2026-05-10T02:17:30-07:00"
+      "pub_date": "2026-05-11T02:23:19-07:00"
     },
     {
       "title": "Synci",
@@ -320,16 +263,10 @@
       "pub_date": "2026-03-29T08:44:23-07:00"
     },
     {
-      "title": "Khaos Brain",
-      "url": "https://www.producthunt.com/products/khaos-brain",
+      "title": "Prism protocol",
+      "url": "https://www.producthunt.com/products/prism-protocol",
       "tagline": "",
-      "pub_date": "2026-05-11T07:44:17-07:00"
-    },
-    {
-      "title": "Hyperswitch Prism",
-      "url": "https://www.producthunt.com/products/hyperswitch-2",
-      "tagline": "",
-      "pub_date": "2026-05-09T00:20:21-07:00"
+      "pub_date": "2026-05-11T17:30:24-07:00"
     },
     {
       "title": "Long Horizon",
@@ -338,10 +275,70 @@
       "pub_date": "2026-05-06T07:00:57-07:00"
     },
     {
-      "title": "hackerDen",
-      "url": "https://www.producthunt.com/products/hackerden",
+      "title": "MusicMinutes",
+      "url": "https://www.producthunt.com/products/musicminutes",
       "tagline": "",
-      "pub_date": "2026-04-10T23:23:30-07:00"
+      "pub_date": "2026-05-05T11:47:51-07:00"
+    },
+    {
+      "title": "HeyNews",
+      "url": "https://www.producthunt.com/products/heynews",
+      "tagline": "",
+      "pub_date": "2026-05-08T04:06:37-07:00"
+    },
+    {
+      "title": "Klyxshot",
+      "url": "https://www.producthunt.com/products/klyxshot",
+      "tagline": "",
+      "pub_date": "2026-05-10T07:39:30-07:00"
+    },
+    {
+      "title": "MY AI Agent",
+      "url": "https://www.producthunt.com/products/my-ai-agent",
+      "tagline": "",
+      "pub_date": "2026-05-10T19:04:13-07:00"
+    },
+    {
+      "title": "Open Vibe",
+      "url": "https://www.producthunt.com/products/open-vibe",
+      "tagline": "",
+      "pub_date": "2026-05-04T06:59:25-07:00"
+    },
+    {
+      "title": "MiniCPM-V 4.6",
+      "url": "https://www.producthunt.com/products/minicpm-4-0",
+      "tagline": "",
+      "pub_date": "2026-05-11T20:30:27-07:00"
+    },
+    {
+      "title": "Whirr",
+      "url": "https://www.producthunt.com/products/whirr-2",
+      "tagline": "",
+      "pub_date": "2026-05-11T13:47:05-07:00"
+    },
+    {
+      "title": "Habitvs",
+      "url": "https://www.producthunt.com/products/habitvs",
+      "tagline": "",
+      "pub_date": "2026-05-10T08:00:00-07:00"
+    },
+    {
+      "title": "ContentPilots",
+      "url": "https://www.producthunt.com/products/contentpilots",
+      "tagline": "",
+      "pub_date": "2026-05-10T16:02:13-07:00"
+    },
+    {
+      "title": "DeepFrame",
+      "url": "https://www.producthunt.com/products/deepframe",
+      "tagline": "",
+      "pub_date": "2026-05-11T07:48:21-07:00"
+    },
+    {
+      "title": "TrackTalent",
+      "url": "https://www.producthunt.com/products/outtalent",
+      "tagline": "",
+      "pub_date": "2026-04-28T01:44:27-07:00"
     },
     {
       "title": "Kelviq",
@@ -350,22 +347,34 @@
       "pub_date": "2026-05-05T15:39:25-07:00"
     },
     {
-      "title": "Jotform Claude App",
-      "url": "https://www.producthunt.com/products/jotform",
+      "title": "Khaos Brain",
+      "url": "https://www.producthunt.com/products/khaos-brain",
       "tagline": "",
-      "pub_date": "2026-05-08T00:44:00-07:00"
+      "pub_date": "2026-05-11T07:44:17-07:00"
     },
     {
-      "title": "Whale Starts",
-      "url": "https://www.producthunt.com/products/whale-starts",
+      "title": "Devkat",
+      "url": "https://www.producthunt.com/products/devkat",
       "tagline": "",
-      "pub_date": "2026-05-11T02:45:29-07:00"
+      "pub_date": "2026-05-06T20:48:53-07:00"
     },
     {
-      "title": "Habitvs",
-      "url": "https://www.producthunt.com/products/habitvs",
+      "title": "Auvylo",
+      "url": "https://www.producthunt.com/products/auvylo",
       "tagline": "",
-      "pub_date": "2026-05-10T08:00:00-07:00"
+      "pub_date": "2026-05-10T02:17:30-07:00"
+    },
+    {
+      "title": "Whisper Island by Coddo",
+      "url": "https://www.producthunt.com/products/coddo",
+      "tagline": "",
+      "pub_date": "2026-05-11T13:16:09-07:00"
+    },
+    {
+      "title": "hackerDen",
+      "url": "https://www.producthunt.com/products/hackerden",
+      "tagline": "",
+      "pub_date": "2026-04-10T23:23:30-07:00"
     }
   ]
 }

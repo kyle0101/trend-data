@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-05-12T19:40:11.652Z",
+  "generated_at": "2026-05-13T02:31:12.518Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "url": "https://github.com/ab-613/opengravity",
-      "hn_url": "https://news.ycombinator.com/item?id=48100192",
-      "points": 99,
-      "comments": 30,
-      "created_ts": 1778531005,
-      "author": "ab613"
-    },
-    {
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "hn_url": "https://news.ycombinator.com/item?id=48100227",
-      "points": 43,
-      "comments": 3,
-      "created_ts": 1778531177,
-      "author": "mnexa"
-    },
-    {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
       "hn_url": "https://news.ycombinator.com/item?id=48111896",
-      "points": 38,
-      "comments": 6,
+      "points": 292,
+      "comments": 105,
       "created_ts": 1778608991,
       "author": "HenryNdubuaku"
+    },
+    {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "hn_url": "https://news.ycombinator.com/item?id=48108778",
+      "points": 78,
+      "comments": 25,
+      "created_ts": 1778595895,
+      "author": "azurewraith"
     },
     {
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "url": "https://www.hypercubic.ai/hopper",
       "hn_url": "https://news.ycombinator.com/item?id=48111143",
-      "points": 27,
-      "comments": 8,
+      "points": 59,
+      "comments": 35,
       "created_ts": 1778605822,
       "author": "sai18"
     },
@@ -43,35 +34,17 @@
       "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
       "url": "https://news.ycombinator.com/item?id=48110593",
       "hn_url": "https://news.ycombinator.com/item?id=48110593",
-      "points": 22,
-      "comments": 8,
+      "points": 41,
+      "comments": 17,
       "created_ts": 1778603574,
       "author": "namanyayg"
-    },
-    {
-      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-      "url": "https://github.com/statewright/statewright",
-      "hn_url": "https://news.ycombinator.com/item?id=48108778",
-      "points": 22,
-      "comments": 5,
-      "created_ts": 1778595895,
-      "author": "azurewraith"
-    },
-    {
-      "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
-      "url": "https://www.npmjs.com/package/@gkiely/safe-install",
-      "hn_url": "https://news.ycombinator.com/item?id=48102636",
-      "points": 17,
-      "comments": 3,
-      "created_ts": 1778545810,
-      "author": "gkiely"
     },
     {
       "title": "Show HN: Doomscroll the Goverment's UFO Files as One Gigantic Microfilm",
       "url": "https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?page=2",
       "hn_url": "https://news.ycombinator.com/item?id=48104254",
-      "points": 14,
-      "comments": 7,
+      "points": 16,
+      "comments": 10,
       "created_ts": 1778560851,
       "author": "keepamovin"
     },
@@ -83,96 +56,51 @@
       "comments": 3,
       "created_ts": 1778589300,
       "author": "L15p3r"
+    },
+    {
+      "title": "Show HN: An implementation of Common Lisp in development, reached version 1.6",
+      "url": "https://savannah.nongnu.org/news/?id=10889",
+      "hn_url": "https://news.ycombinator.com/item?id=48105458",
+      "points": 14,
+      "comments": 3,
+      "created_ts": 1778572535,
+      "author": "andreamonaco"
     }
   ],
   "hn_front": [
     {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "hn_url": "https://news.ycombinator.com/item?id=48100706",
-      "points": 1035,
-      "comments": 433,
-      "created_ts": 1778533705,
-      "author": "varunsharma07"
-    },
-    {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "hn_url": "https://news.ycombinator.com/item?id=48100433",
-      "points": 815,
-      "comments": 860,
-      "created_ts": 1778532355,
-      "author": "indigodaddy"
-    },
-    {
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
       "hn_url": "https://news.ycombinator.com/item?id=48109224",
-      "points": 813,
-      "comments": 288,
+      "points": 1114,
+      "comments": 369,
       "created_ts": 1778597681,
       "author": "rubenbe"
-    },
-    {
-      "title": "Screenshots of Old Desktop OSes",
-      "url": "http://www.typewritten.org/Media/",
-      "hn_url": "https://news.ycombinator.com/item?id=48104428",
-      "points": 582,
-      "comments": 300,
-      "created_ts": 1778562684,
-      "author": "adunk"
-    },
-    {
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "hn_url": "https://news.ycombinator.com/item?id=48102700",
-      "points": 508,
-      "comments": 163,
-      "created_ts": 1778546274,
-      "author": "tokenburner"
-    },
-    {
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48106024",
-      "points": 448,
-      "comments": 86,
-      "created_ts": 1778578221,
-      "author": "surprisetalk"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "hn_url": "https://news.ycombinator.com/item?id=48107997",
-      "points": 324,
-      "comments": 28,
-      "created_ts": 1778592406,
-      "author": "ibobev"
     },
     {
       "title": "Googlebook",
       "url": "https://googlebook.google/",
       "hn_url": "https://news.ycombinator.com/item?id=48111545",
-      "points": 253,
-      "comments": 333,
+      "points": 629,
+      "comments": 1054,
       "created_ts": 1778607456,
       "author": "tambourine_man"
     },
     {
-      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-      "hn_url": "https://news.ycombinator.com/item?id=48110021",
-      "points": 187,
-      "comments": 168,
-      "created_ts": 1778600987,
-      "author": "voisin"
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "hn_url": "https://news.ycombinator.com/item?id=48107997",
+      "points": 415,
+      "comments": 35,
+      "created_ts": 1778592406,
+      "author": "ibobev"
     },
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "hn_url": "https://news.ycombinator.com/item?id=48109460",
-      "points": 166,
-      "comments": 67,
+      "points": 386,
+      "comments": 186,
       "created_ts": 1778598520,
       "author": "nilirl"
     },
@@ -180,57 +108,99 @@
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
       "hn_url": "https://news.ycombinator.com/item?id=48109970",
-      "points": 163,
-      "comments": 67,
+      "points": 314,
+      "comments": 128,
       "created_ts": 1778600754,
       "author": "xz18r"
     },
     {
-      "title": "Instructure pays ransom to Canvas hackers",
-      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-      "hn_url": "https://news.ycombinator.com/item?id=48103668",
-      "points": 158,
-      "comments": 131,
-      "created_ts": 1778554591,
-      "author": "Cider9986"
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "hn_url": "https://news.ycombinator.com/item?id=48111531",
+      "points": 293,
+      "comments": 92,
+      "created_ts": 1778607358,
+      "author": "Brajeshwar"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=48111896",
+      "points": 292,
+      "comments": 105,
+      "created_ts": 1778608991,
+      "author": "HenryNdubuaku"
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48112042",
+      "points": 239,
+      "comments": 118,
+      "created_ts": 1778609548,
+      "author": "chizhik-pyzhik"
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "hn_url": "https://news.ycombinator.com/item?id=48113895",
+      "points": 222,
+      "comments": 26,
+      "created_ts": 1778616986,
+      "author": "_vaporwave_"
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=48111765",
+      "points": 195,
+      "comments": 42,
+      "created_ts": 1778608452,
+      "author": "aduffy"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "hn_url": "https://news.ycombinator.com/item?id=48115127",
+      "points": 184,
+      "comments": 73,
+      "created_ts": 1778622921,
+      "author": "Murfalo"
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "hn_url": "https://news.ycombinator.com/item?id=48115807",
+      "points": 169,
+      "comments": 39,
+      "created_ts": 1778627500,
+      "author": "doener"
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48111581",
+      "points": 148,
+      "comments": 122,
+      "created_ts": 1778607613,
+      "author": "devhouse"
+    },
+    {
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "hn_url": "https://news.ycombinator.com/item?id=48115059",
+      "points": 105,
+      "comments": 11,
+      "created_ts": 1778622504,
+      "author": "hn_acker"
     }
   ],
   "ph_today": [
-    {
-      "title": "display.dev",
-      "url": "https://www.producthunt.com/products/display-dev",
-      "tagline": "",
-      "pub_date": "2026-05-11T05:29:11-07:00"
-    },
-    {
-      "title": "Free AI SEO Auditor",
-      "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
-      "tagline": "",
-      "pub_date": "2026-05-11T18:28:35-07:00"
-    },
-    {
-      "title": "Hyperswitch Prism",
-      "url": "https://www.producthunt.com/products/hyperswitch-2",
-      "tagline": "",
-      "pub_date": "2026-05-09T00:20:21-07:00"
-    },
-    {
-      "title": "ARKAD Wallet",
-      "url": "https://www.producthunt.com/products/arkad-wallet",
-      "tagline": "",
-      "pub_date": "2026-04-13T07:09:19-07:00"
-    },
     {
       "title": "knooth",
       "url": "https://www.producthunt.com/products/knooth",
       "tagline": "",
       "pub_date": "2026-05-11T07:28:36-07:00"
-    },
-    {
-      "title": "Vexilo",
-      "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
-      "tagline": "",
-      "pub_date": "2026-05-09T07:32:03-07:00"
     },
     {
       "title": "Seer Platform",
@@ -239,46 +209,22 @@
       "pub_date": "2026-04-06T23:27:14-07:00"
     },
     {
+      "title": "Hopper",
+      "url": "https://www.producthunt.com/products/hopper-4",
+      "tagline": "",
+      "pub_date": "2026-05-10T22:25:42-07:00"
+    },
+    {
       "title": "Jotform Claude App",
       "url": "https://www.producthunt.com/products/jotform",
       "tagline": "",
       "pub_date": "2026-05-08T00:44:00-07:00"
     },
     {
-      "title": "Pixcode",
-      "url": "https://www.producthunt.com/products/pixcode",
+      "title": "display.dev",
+      "url": "https://www.producthunt.com/products/display-dev",
       "tagline": "",
-      "pub_date": "2026-05-11T01:53:12-07:00"
-    },
-    {
-      "title": "EmailTemple",
-      "url": "https://www.producthunt.com/products/emailtemple",
-      "tagline": "",
-      "pub_date": "2026-05-11T02:23:19-07:00"
-    },
-    {
-      "title": "Synci",
-      "url": "https://www.producthunt.com/products/synci",
-      "tagline": "",
-      "pub_date": "2026-03-29T08:44:23-07:00"
-    },
-    {
-      "title": "Prism protocol",
-      "url": "https://www.producthunt.com/products/prism-protocol",
-      "tagline": "",
-      "pub_date": "2026-05-11T17:30:24-07:00"
-    },
-    {
-      "title": "Long Horizon",
-      "url": "https://www.producthunt.com/products/long-horizon",
-      "tagline": "",
-      "pub_date": "2026-05-06T07:00:57-07:00"
-    },
-    {
-      "title": "MusicMinutes",
-      "url": "https://www.producthunt.com/products/musicminutes",
-      "tagline": "",
-      "pub_date": "2026-05-05T11:47:51-07:00"
+      "pub_date": "2026-05-11T05:29:11-07:00"
     },
     {
       "title": "HeyNews",
@@ -287,16 +233,22 @@
       "pub_date": "2026-05-08T04:06:37-07:00"
     },
     {
-      "title": "Klyxshot",
-      "url": "https://www.producthunt.com/products/klyxshot",
+      "title": "Kelviq",
+      "url": "https://www.producthunt.com/products/kelviq",
       "tagline": "",
-      "pub_date": "2026-05-10T07:39:30-07:00"
+      "pub_date": "2026-05-05T15:39:25-07:00"
     },
     {
-      "title": "MY AI Agent",
-      "url": "https://www.producthunt.com/products/my-ai-agent",
+      "title": "Whale Starts",
+      "url": "https://www.producthunt.com/products/whale-starts",
       "tagline": "",
-      "pub_date": "2026-05-10T19:04:13-07:00"
+      "pub_date": "2026-05-11T02:45:29-07:00"
+    },
+    {
+      "title": "Hyperswitch Prism",
+      "url": "https://www.producthunt.com/products/hyperswitch-2",
+      "tagline": "",
+      "pub_date": "2026-05-09T00:20:21-07:00"
     },
     {
       "title": "Open Vibe",
@@ -305,34 +257,16 @@
       "pub_date": "2026-05-04T06:59:25-07:00"
     },
     {
-      "title": "MiniCPM-V 4.6",
-      "url": "https://www.producthunt.com/products/minicpm-4-0",
+      "title": "Whisper Island by Coddo",
+      "url": "https://www.producthunt.com/products/coddo",
       "tagline": "",
-      "pub_date": "2026-05-11T20:30:27-07:00"
+      "pub_date": "2026-05-11T13:16:09-07:00"
     },
     {
-      "title": "Whirr",
-      "url": "https://www.producthunt.com/products/whirr-2",
+      "title": "ARKAD Wallet",
+      "url": "https://www.producthunt.com/products/arkad-wallet",
       "tagline": "",
-      "pub_date": "2026-05-11T13:47:05-07:00"
-    },
-    {
-      "title": "Habitvs",
-      "url": "https://www.producthunt.com/products/habitvs",
-      "tagline": "",
-      "pub_date": "2026-05-10T08:00:00-07:00"
-    },
-    {
-      "title": "ContentPilots",
-      "url": "https://www.producthunt.com/products/contentpilots",
-      "tagline": "",
-      "pub_date": "2026-05-10T16:02:13-07:00"
-    },
-    {
-      "title": "DeepFrame",
-      "url": "https://www.producthunt.com/products/deepframe",
-      "tagline": "",
-      "pub_date": "2026-05-11T07:48:21-07:00"
+      "pub_date": "2026-04-13T07:09:19-07:00"
     },
     {
       "title": "TrackTalent",
@@ -341,16 +275,28 @@
       "pub_date": "2026-04-28T01:44:27-07:00"
     },
     {
-      "title": "Kelviq",
-      "url": "https://www.producthunt.com/products/kelviq",
+      "title": "Long Horizon",
+      "url": "https://www.producthunt.com/products/long-horizon",
       "tagline": "",
-      "pub_date": "2026-05-05T15:39:25-07:00"
+      "pub_date": "2026-05-06T07:00:57-07:00"
     },
     {
-      "title": "Khaos Brain",
-      "url": "https://www.producthunt.com/products/khaos-brain",
+      "title": "EmailTemple",
+      "url": "https://www.producthunt.com/products/emailtemple",
       "tagline": "",
-      "pub_date": "2026-05-11T07:44:17-07:00"
+      "pub_date": "2026-05-11T02:23:19-07:00"
+    },
+    {
+      "title": "FileFlan",
+      "url": "https://www.producthunt.com/products/fileflan",
+      "tagline": "",
+      "pub_date": "2026-05-11T09:56:13-07:00"
+    },
+    {
+      "title": "Habitvs",
+      "url": "https://www.producthunt.com/products/habitvs",
+      "tagline": "",
+      "pub_date": "2026-05-10T08:00:00-07:00"
     },
     {
       "title": "Devkat",
@@ -359,22 +305,76 @@
       "pub_date": "2026-05-06T20:48:53-07:00"
     },
     {
-      "title": "Auvylo",
-      "url": "https://www.producthunt.com/products/auvylo",
+      "title": "Prism protocol",
+      "url": "https://www.producthunt.com/products/prism-protocol",
       "tagline": "",
-      "pub_date": "2026-05-10T02:17:30-07:00"
+      "pub_date": "2026-05-11T17:30:24-07:00"
     },
     {
-      "title": "Whisper Island by Coddo",
-      "url": "https://www.producthunt.com/products/coddo",
+      "title": "MusicMinutes",
+      "url": "https://www.producthunt.com/products/musicminutes",
       "tagline": "",
-      "pub_date": "2026-05-11T13:16:09-07:00"
+      "pub_date": "2026-05-05T11:47:51-07:00"
     },
     {
       "title": "hackerDen",
       "url": "https://www.producthunt.com/products/hackerden",
       "tagline": "",
       "pub_date": "2026-04-10T23:23:30-07:00"
+    },
+    {
+      "title": "TabGroup Vault",
+      "url": "https://www.producthunt.com/products/tabgroup-vault",
+      "tagline": "",
+      "pub_date": "2026-05-11T04:21:44-07:00"
+    },
+    {
+      "title": "MY AI Agent",
+      "url": "https://www.producthunt.com/products/my-ai-agent",
+      "tagline": "",
+      "pub_date": "2026-05-10T19:04:13-07:00"
+    },
+    {
+      "title": "VKO1",
+      "url": "https://www.producthunt.com/products/vko1-for-ios-macos",
+      "tagline": "",
+      "pub_date": "2026-05-11T03:46:38-07:00"
+    },
+    {
+      "title": "Auvylo",
+      "url": "https://www.producthunt.com/products/auvylo",
+      "tagline": "",
+      "pub_date": "2026-05-10T02:17:30-07:00"
+    },
+    {
+      "title": "Synci",
+      "url": "https://www.producthunt.com/products/synci",
+      "tagline": "",
+      "pub_date": "2026-03-29T08:44:23-07:00"
+    },
+    {
+      "title": "MiniCPM-V 4.6",
+      "url": "https://www.producthunt.com/products/minicpm-4-0",
+      "tagline": "",
+      "pub_date": "2026-05-11T20:30:27-07:00"
+    },
+    {
+      "title": "Free AI SEO Auditor",
+      "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
+      "tagline": "",
+      "pub_date": "2026-05-11T18:28:35-07:00"
+    },
+    {
+      "title": "Pixcode",
+      "url": "https://www.producthunt.com/products/pixcode",
+      "tagline": "",
+      "pub_date": "2026-05-11T01:53:12-07:00"
+    },
+    {
+      "title": "Keeby for Windows",
+      "url": "https://www.producthunt.com/products/keeby",
+      "tagline": "",
+      "pub_date": "2026-05-11T06:42:56-07:00"
     }
   ]
 }

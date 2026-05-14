@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:30:09.219Z",
+  "generated_at": "2026-05-14T13:51:53.841Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,28 +7,19 @@
       "title": "Show HN: Nibble",
       "url": "https://github.com/glouw/nibble",
       "hn_url": "https://news.ycombinator.com/item?id=48130186",
-      "points": 51,
-      "comments": 5,
+      "points": 72,
+      "comments": 17,
       "created_ts": 1778723205,
       "author": "glouwbug"
     },
     {
-      "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
-      "url": "https://github.com/torrix-ai/install",
-      "hn_url": "https://news.ycombinator.com/item?id=48120912",
-      "points": 31,
-      "comments": 2,
-      "created_ts": 1778674466,
-      "author": "AdarshRao23"
-    },
-    {
-      "title": "Show HN: Rotunda - A browser built for agents with simulated typing",
-      "url": "https://github.com/monkeysee-ai/rotunda",
-      "hn_url": "https://news.ycombinator.com/item?id=48121824",
-      "points": 13,
-      "comments": 1,
-      "created_ts": 1778679841,
-      "author": "icyfox"
+      "title": "Show HN: Running the second public ODoH relay",
+      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48133561",
+      "points": 62,
+      "comments": 17,
+      "created_ts": 1778755490,
+      "author": "rdme"
     }
   ],
   "hn_front": [
@@ -36,26 +27,26 @@
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "hn_url": "https://news.ycombinator.com/item?id=48122635",
-      "points": 553,
-      "comments": 173,
+      "points": 582,
+      "comments": 183,
       "created_ts": 1778683518,
       "author": "speckx"
     },
     {
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "hn_url": "https://news.ycombinator.com/item?id=48126848",
-      "points": 322,
-      "comments": 475,
-      "created_ts": 1778703136,
-      "author": "bookofjoe"
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "hn_url": "https://news.ycombinator.com/item?id=48130950",
+      "points": 372,
+      "comments": 333,
+      "created_ts": 1778731175,
+      "author": "neilfrndes"
     },
     {
       "title": "Scorched Earth 2000 – Web",
       "url": "http://www.scorch2000.com/web/",
       "hn_url": "https://news.ycombinator.com/item?id=48129694",
-      "points": 231,
-      "comments": 94,
+      "points": 311,
+      "comments": 125,
       "created_ts": 1778719289,
       "author": "meshko"
     },
@@ -63,202 +54,31 @@
       "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
       "hn_url": "https://news.ycombinator.com/item?id=48125617",
-      "points": 205,
-      "comments": 213,
+      "points": 261,
+      "comments": 320,
       "created_ts": 1778697051,
       "author": "tosh"
     },
     {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "hn_url": "https://news.ycombinator.com/item?id=48130950",
-      "points": 201,
-      "comments": 127,
-      "created_ts": 1778731175,
-      "author": "neilfrndes"
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "url": "https://github.com/DrCatHicks/learning-opportunities",
+      "hn_url": "https://news.ycombinator.com/item?id=48130679",
+      "points": 118,
+      "comments": 19,
+      "created_ts": 1778728411,
+      "author": "cdrnsf"
     },
     {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48121929",
-      "points": 196,
-      "comments": 532,
-      "created_ts": 1778680433,
-      "author": "akrylov"
-    },
-    {
-      "title": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "hn_url": "https://news.ycombinator.com/item?id=48130123",
-      "points": 187,
-      "comments": 172,
-      "created_ts": 1778722685,
-      "author": "ahmedomran8"
-    },
-    {
-      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-      "hn_url": "https://news.ycombinator.com/item?id=48130519",
-      "points": 145,
-      "comments": 80,
-      "created_ts": 1778726708,
-      "author": "cookiengineer"
-    },
-    {
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "hn_url": "https://news.ycombinator.com/item?id=48123546",
-      "points": 117,
-      "comments": 25,
-      "created_ts": 1778687520,
-      "author": "rbanffy"
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "url": "https://classic7.lol/",
+      "hn_url": "https://news.ycombinator.com/item?id=48132030",
+      "points": 111,
+      "comments": 107,
+      "created_ts": 1778742198,
+      "author": "jandeboevrie"
     }
   ],
   "ph_today": [
-    {
-      "title": "c15t 2.0",
-      "url": "https://www.producthunt.com/products/c15t",
-      "tagline": "",
-      "pub_date": "2026-05-12T03:53:02-07:00"
-    },
-    {
-      "title": "Comie.dev",
-      "url": "https://www.producthunt.com/products/comie-dev",
-      "tagline": "",
-      "pub_date": "2026-05-13T23:09:16-07:00"
-    },
-    {
-      "title": "Openclaw OS",
-      "url": "https://www.producthunt.com/products/thesys",
-      "tagline": "",
-      "pub_date": "2026-05-13T00:21:03-07:00"
-    },
-    {
-      "title": "Otamiser",
-      "url": "https://www.producthunt.com/products/otamiser",
-      "tagline": "",
-      "pub_date": "2026-04-23T13:39:18-07:00"
-    },
-    {
-      "title": "Resend Automations",
-      "url": "https://www.producthunt.com/products/resend",
-      "tagline": "",
-      "pub_date": "2026-05-13T08:22:21-07:00"
-    },
-    {
-      "title": "Enjo Help Center",
-      "url": "https://www.producthunt.com/products/enjo-help-center",
-      "tagline": "",
-      "pub_date": "2026-05-13T20:01:38-07:00"
-    },
-    {
-      "title": "Storecraft",
-      "url": "https://www.producthunt.com/products/storecraft",
-      "tagline": "",
-      "pub_date": "2026-05-13T23:54:40-07:00"
-    },
-    {
-      "title": "Lumox",
-      "url": "https://www.producthunt.com/products/lumox-mirror-ios-to-mac",
-      "tagline": "",
-      "pub_date": "2026-05-09T12:51:36-07:00"
-    },
-    {
-      "title": "Fei Design Mode",
-      "url": "https://www.producthunt.com/products/autonomyai",
-      "tagline": "",
-      "pub_date": "2026-05-05T13:07:29-07:00"
-    },
-    {
-      "title": "Write Lint",
-      "url": "https://www.producthunt.com/products/write-lint",
-      "tagline": "",
-      "pub_date": "2026-05-13T11:23:38-07:00"
-    },
-    {
-      "title": "Tendem by Toloka",
-      "url": "https://www.producthunt.com/products/tendem-by-toloka",
-      "tagline": "",
-      "pub_date": "2026-05-06T14:23:37-07:00"
-    },
-    {
-      "title": "Tenure",
-      "url": "https://www.producthunt.com/products/tenure",
-      "tagline": "",
-      "pub_date": "2026-05-13T15:57:53-07:00"
-    },
-    {
-      "title": "RoBrain",
-      "url": "https://www.producthunt.com/products/robrain",
-      "tagline": "",
-      "pub_date": "2026-05-12T10:45:00-07:00"
-    },
-    {
-      "title": "AURIXA",
-      "url": "https://www.producthunt.com/products/replit",
-      "tagline": "",
-      "pub_date": "2026-05-13T00:51:08-07:00"
-    },
-    {
-      "title": "DesignMD",
-      "url": "https://www.producthunt.com/products/designmd-2",
-      "tagline": "",
-      "pub_date": "2026-05-13T07:40:33-07:00"
-    },
-    {
-      "title": "Chronicle",
-      "url": "https://www.producthunt.com/products/chronicle-ai-voice-memory",
-      "tagline": "",
-      "pub_date": "2026-02-08T11:24:58-08:00"
-    },
-    {
-      "title": "Raindrop Workshop",
-      "url": "https://www.producthunt.com/products/raindrop",
-      "tagline": "",
-      "pub_date": "2026-05-13T23:50:48-07:00"
-    },
-    {
-      "title": "Edit Mind",
-      "url": "https://www.producthunt.com/products/edit-mind-3",
-      "tagline": "",
-      "pub_date": "2026-05-13T01:27:28-07:00"
-    },
-    {
-      "title": "Notion Developer Platform",
-      "url": "https://www.producthunt.com/products/notion",
-      "tagline": "",
-      "pub_date": "2026-05-13T20:14:47-07:00"
-    },
-    {
-      "title": "Ansvisor",
-      "url": "https://www.producthunt.com/products/ansvisor",
-      "tagline": "",
-      "pub_date": "2026-05-12T06:53:55-07:00"
-    },
-    {
-      "title": "YM.dat",
-      "url": "https://www.producthunt.com/products/ym-dat",
-      "tagline": "",
-      "pub_date": "2026-05-13T22:03:02-07:00"
-    },
-    {
-      "title": "PiP Cue",
-      "url": "https://www.producthunt.com/products/pip-cue",
-      "tagline": "",
-      "pub_date": "2026-05-13T14:18:06-07:00"
-    },
-    {
-      "title": "Open Browser Use",
-      "url": "https://www.producthunt.com/products/open-browser-use",
-      "tagline": "",
-      "pub_date": "2026-05-13T02:12:57-07:00"
-    },
-    {
-      "title": "Indigo",
-      "url": "https://www.producthunt.com/products/indigo-2",
-      "tagline": "",
-      "pub_date": "2026-05-13T22:01:57-07:00"
-    },
     {
       "title": "Woleet",
       "url": "https://www.producthunt.com/products/woleet-sign",
@@ -266,22 +86,22 @@
       "pub_date": "2026-04-12T12:42:14-07:00"
     },
     {
-      "title": "Causo for Fundraising",
-      "url": "https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising",
+      "title": "Stella",
+      "url": "https://www.producthunt.com/products/stella-4",
       "tagline": "",
-      "pub_date": "2026-05-06T06:30:22-07:00"
+      "pub_date": "2026-05-13T11:51:11-07:00"
     },
     {
-      "title": "Instants by Instagram",
-      "url": "https://www.producthunt.com/products/instagram",
+      "title": "Quietly",
+      "url": "https://www.producthunt.com/products/quietly-5",
       "tagline": "",
-      "pub_date": "2026-05-13T14:20:35-07:00"
+      "pub_date": "2026-05-13T00:32:48-07:00"
     },
     {
-      "title": "Naptick AI",
-      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion",
+      "title": "transfa.sh",
+      "url": "https://www.producthunt.com/products/transfa-sh",
       "tagline": "",
-      "pub_date": "2026-05-06T09:26:10-07:00"
+      "pub_date": "2026-05-13T18:12:10-07:00"
     },
     {
       "title": "PTOFlow",
@@ -290,10 +110,154 @@
       "pub_date": "2026-05-06T16:07:27-07:00"
     },
     {
-      "title": "Asteroid",
-      "url": "https://www.producthunt.com/products/asteroid-3",
+      "title": "Openclaw OS",
+      "url": "https://www.producthunt.com/products/thesys",
       "tagline": "",
-      "pub_date": "2026-05-09T21:12:54-07:00"
+      "pub_date": "2026-05-13T00:21:03-07:00"
+    },
+    {
+      "title": "Naptick AI",
+      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion",
+      "tagline": "",
+      "pub_date": "2026-05-06T09:26:10-07:00"
+    },
+    {
+      "title": "Enjo Help Center",
+      "url": "https://www.producthunt.com/products/enjo-help-center",
+      "tagline": "",
+      "pub_date": "2026-05-13T20:01:38-07:00"
+    },
+    {
+      "title": "Open Computer Use",
+      "url": "https://www.producthunt.com/products/open-computer-use",
+      "tagline": "",
+      "pub_date": "2026-05-13T01:20:31-07:00"
+    },
+    {
+      "title": "Spellar 3.0",
+      "url": "https://www.producthunt.com/products/spellar",
+      "tagline": "",
+      "pub_date": "2026-01-04T09:04:53-08:00"
+    },
+    {
+      "title": "c15t 2.0",
+      "url": "https://www.producthunt.com/products/c15t",
+      "tagline": "",
+      "pub_date": "2026-05-12T03:53:02-07:00"
+    },
+    {
+      "title": "Templates in ElevenCreative",
+      "url": "https://www.producthunt.com/products/templates-in-elevencreative",
+      "tagline": "",
+      "pub_date": "2026-05-13T11:14:30-07:00"
+    },
+    {
+      "title": "Online 3D Editor",
+      "url": "https://www.producthunt.com/products/online-3d-editor",
+      "tagline": "",
+      "pub_date": "2026-05-13T13:00:08-07:00"
+    },
+    {
+      "title": "Causo for Fundraising",
+      "url": "https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising",
+      "tagline": "",
+      "pub_date": "2026-05-06T06:30:22-07:00"
+    },
+    {
+      "title": "Tendem by Toloka",
+      "url": "https://www.producthunt.com/products/tendem-by-toloka",
+      "tagline": "",
+      "pub_date": "2026-05-06T14:23:37-07:00"
+    },
+    {
+      "title": "Higgsfield Supercomputer",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "tagline": "",
+      "pub_date": "2026-05-13T14:15:33-07:00"
+    },
+    {
+      "title": "Instants by Instagram",
+      "url": "https://www.producthunt.com/products/instagram",
+      "tagline": "",
+      "pub_date": "2026-05-13T14:20:35-07:00"
+    },
+    {
+      "title": "Stagent",
+      "url": "https://www.producthunt.com/products/stagent",
+      "tagline": "",
+      "pub_date": "2026-05-13T05:13:14-07:00"
+    },
+    {
+      "title": "Sherloq",
+      "url": "https://www.producthunt.com/products/sherloq-2",
+      "tagline": "",
+      "pub_date": "2026-05-11T23:06:05-07:00"
+    },
+    {
+      "title": "Crystal",
+      "url": "https://www.producthunt.com/products/crystal-7",
+      "tagline": "",
+      "pub_date": "2026-05-13T16:42:49-07:00"
+    },
+    {
+      "title": "AURIXA",
+      "url": "https://www.producthunt.com/products/replit",
+      "tagline": "",
+      "pub_date": "2026-05-13T00:51:08-07:00"
+    },
+    {
+      "title": "Ace",
+      "url": "https://www.producthunt.com/products/ace-9",
+      "tagline": "",
+      "pub_date": "2026-05-13T09:26:37-07:00"
+    },
+    {
+      "title": "Chronicle",
+      "url": "https://www.producthunt.com/products/chronicle-ai-voice-memory",
+      "tagline": "",
+      "pub_date": "2026-02-08T11:24:58-08:00"
+    },
+    {
+      "title": "Tenure",
+      "url": "https://www.producthunt.com/products/tenure",
+      "tagline": "",
+      "pub_date": "2026-05-13T15:57:53-07:00"
+    },
+    {
+      "title": "LineageLens",
+      "url": "https://www.producthunt.com/products/lineage-lens",
+      "tagline": "",
+      "pub_date": "2026-05-12T00:19:28-07:00"
+    },
+    {
+      "title": "YM.dat",
+      "url": "https://www.producthunt.com/products/ym-dat",
+      "tagline": "",
+      "pub_date": "2026-05-13T22:03:02-07:00"
+    },
+    {
+      "title": "MobileCLI",
+      "url": "https://www.producthunt.com/products/mobilecli",
+      "tagline": "",
+      "pub_date": "2026-05-13T08:27:12-07:00"
+    },
+    {
+      "title": "Ansvisor",
+      "url": "https://www.producthunt.com/products/ansvisor",
+      "tagline": "",
+      "pub_date": "2026-05-12T06:53:55-07:00"
+    },
+    {
+      "title": "Otamiser",
+      "url": "https://www.producthunt.com/products/otamiser",
+      "tagline": "",
+      "pub_date": "2026-04-23T13:39:18-07:00"
+    },
+    {
+      "title": "Lychee",
+      "url": "https://www.producthunt.com/products/lychee-4",
+      "tagline": "",
+      "pub_date": "2026-05-13T13:29:34-07:00"
     }
   ]
 }

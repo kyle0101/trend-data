@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T19:44:25.969Z",
+  "generated_at": "2026-05-14T02:32:21.872Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,19 @@
       "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
       "url": "https://github.com/torrix-ai/install",
       "hn_url": "https://news.ycombinator.com/item?id=48120912",
-      "points": 22,
-      "comments": 0,
+      "points": 29,
+      "comments": 2,
       "created_ts": 1778674466,
       "author": "AdarshRao23"
+    },
+    {
+      "title": "Show HN: Rotunda - A browser built for agents with simulated typing",
+      "url": "https://github.com/monkeysee-ai/rotunda",
+      "hn_url": "https://news.ycombinator.com/item?id=48121824",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1778679841,
+      "author": "icyfox"
     }
   ],
   "hn_front": [
@@ -18,8 +27,8 @@
       "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
       "hn_url": "https://news.ycombinator.com/item?id=48120629",
-      "points": 763,
-      "comments": 485,
+      "points": 889,
+      "comments": 539,
       "created_ts": 1778672540,
       "author": "monokai_nl"
     },
@@ -27,8 +36,8 @@
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
       "hn_url": "https://news.ycombinator.com/item?id=48121266",
-      "points": 450,
-      "comments": 238,
+      "points": 532,
+      "comments": 284,
       "created_ts": 1778676840,
       "author": "jorijn"
     },
@@ -36,103 +45,76 @@
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "hn_url": "https://news.ycombinator.com/item?id=48122635",
-      "points": 365,
-      "comments": 114,
+      "points": 505,
+      "comments": 161,
       "created_ts": 1778683518,
       "author": "speckx"
     },
     {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "hn_url": "https://news.ycombinator.com/item?id=48117810",
-      "points": 281,
-      "comments": 65,
-      "created_ts": 1778646303,
-      "author": "matt_d"
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "hn_url": "https://news.ycombinator.com/item?id=48126848",
+      "points": 265,
+      "comments": 367,
+      "created_ts": 1778703136,
+      "author": "bookofjoe"
     },
     {
-      "title": "Kickstarter is forced to ban adult content by payment processors",
-      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
-      "hn_url": "https://news.ycombinator.com/item?id=48123198",
-      "points": 272,
-      "comments": 200,
-      "created_ts": 1778685987,
-      "author": "stalfosknight"
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "hn_url": "https://news.ycombinator.com/item?id=48118727",
+      "points": 202,
+      "comments": 140,
+      "created_ts": 1778655974,
+      "author": "rdslw"
     },
     {
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "hn_url": "https://news.ycombinator.com/item?id=48115823",
-      "points": 224,
-      "comments": 196,
-      "created_ts": 1778627581,
-      "author": "tcp_handshaker"
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "hn_url": "https://news.ycombinator.com/item?id=48128003",
+      "points": 182,
+      "comments": 61,
+      "created_ts": 1778708418,
+      "author": "pycassa"
     },
     {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "url": "https://ossresistance.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48123015",
-      "points": 205,
-      "comments": 66,
-      "created_ts": 1778685217,
-      "author": "mikemcquaid"
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48121929",
+      "points": 166,
+      "comments": 473,
+      "created_ts": 1778680433,
+      "author": "akrylov"
     },
     {
-      "title": "Haiku",
-      "url": "https://www.haiku-os.org",
-      "hn_url": "https://news.ycombinator.com/item?id=48124002",
-      "points": 137,
-      "comments": 62,
-      "created_ts": 1778689330,
-      "author": "tosh"
+      "title": "Meta won't let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "hn_url": "https://news.ycombinator.com/item?id=48126981",
+      "points": 118,
+      "comments": 52,
+      "created_ts": 1778703741,
+      "author": "logickkk1"
     },
     {
-      "title": "Twin brothers wipe 96 government databases minutes after being fired",
-      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "hn_url": "https://news.ycombinator.com/item?id=48115438",
-      "points": 135,
-      "comments": 74,
-      "created_ts": 1778624887,
-      "author": "jnord"
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "hn_url": "https://news.ycombinator.com/item?id=48126156",
+      "points": 112,
+      "comments": 113,
+      "created_ts": 1778699687,
+      "author": "danso"
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "hn_url": "https://news.ycombinator.com/item?id=48123546",
+      "points": 105,
+      "comments": 20,
+      "created_ts": 1778687520,
+      "author": "rbanffy"
     }
   ],
   "ph_today": [
-    {
-      "title": "BossHogg",
-      "url": "https://www.producthunt.com/products/bosshogg",
-      "tagline": "",
-      "pub_date": "2026-05-12T18:45:29-07:00"
-    },
-    {
-      "title": "Pipecat",
-      "url": "https://www.producthunt.com/products/pipecat-2",
-      "tagline": "",
-      "pub_date": "2026-05-12T08:59:14-07:00"
-    },
-    {
-      "title": "tapcut",
-      "url": "https://www.producthunt.com/products/tapcut-the-analogue-shortcut",
-      "tagline": "",
-      "pub_date": "2026-04-24T23:33:34-07:00"
-    },
-    {
-      "title": "ScoutFox",
-      "url": "https://www.producthunt.com/products/scoutfox",
-      "tagline": "",
-      "pub_date": "2026-05-12T00:11:52-07:00"
-    },
-    {
-      "title": "Jootle",
-      "url": "https://www.producthunt.com/products/jootle",
-      "tagline": "",
-      "pub_date": "2026-05-12T06:11:31-07:00"
-    },
-    {
-      "title": "SurfBuddy",
-      "url": "https://www.producthunt.com/products/surfbuddy-2",
-      "tagline": "",
-      "pub_date": "2026-04-30T13:53:14-07:00"
-    },
     {
       "title": "Glosso",
       "url": "https://www.producthunt.com/products/glosso",
@@ -140,22 +122,10 @@
       "pub_date": "2026-05-12T11:17:30-07:00"
     },
     {
-      "title": "Plate",
-      "url": "https://www.producthunt.com/products/plate-4",
+      "title": "LayerProof Matte 2.0",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
       "tagline": "",
-      "pub_date": "2026-05-12T02:13:15-07:00"
-    },
-    {
-      "title": "WhoAmILookingFor",
-      "url": "https://www.producthunt.com/products/whoamilookingfor",
-      "tagline": "",
-      "pub_date": "2026-05-12T07:39:02-07:00"
-    },
-    {
-      "title": "xyOps",
-      "url": "https://www.producthunt.com/products/xyops",
-      "tagline": "",
-      "pub_date": "2026-05-09T18:06:17-07:00"
+      "pub_date": "2026-04-20T03:39:34-07:00"
     },
     {
       "title": "Latitude for Claude Code",
@@ -164,28 +134,10 @@
       "pub_date": "2026-05-11T07:12:35-07:00"
     },
     {
-      "title": "Gretl",
-      "url": "https://www.producthunt.com/products/gretl-control-panel-for-your-localhost",
-      "tagline": "",
-      "pub_date": "2026-05-08T07:41:19-07:00"
-    },
-    {
-      "title": "Whisper Internet Infra AI Context",
-      "url": "https://www.producthunt.com/products/whisper-internet-infra-ai-context",
-      "tagline": "",
-      "pub_date": "2026-05-12T02:29:30-07:00"
-    },
-    {
       "title": "SideNotes",
       "url": "https://www.producthunt.com/products/sidenotes-3",
       "tagline": "",
       "pub_date": "2026-05-12T21:42:25-07:00"
-    },
-    {
-      "title": "Blaze 2.0",
-      "url": "https://www.producthunt.com/products/blaze-5",
-      "tagline": "",
-      "pub_date": "2026-05-12T21:02:47-07:00"
     },
     {
       "title": "Claudy",
@@ -194,22 +146,10 @@
       "pub_date": "2026-03-10T01:22:55-07:00"
     },
     {
-      "title": "CraftBot with Living UI",
-      "url": "https://www.producthunt.com/products/craftbot",
+      "title": "Liminary",
+      "url": "https://www.producthunt.com/products/liminary",
       "tagline": "",
-      "pub_date": "2026-04-30T03:02:37-07:00"
-    },
-    {
-      "title": "Flowsnip",
-      "url": "https://www.producthunt.com/products/flowsnip",
-      "tagline": "",
-      "pub_date": "2026-05-12T05:50:36-07:00"
-    },
-    {
-      "title": "Memoket Gem",
-      "url": "https://www.producthunt.com/products/memoket-gem",
-      "tagline": "",
-      "pub_date": "2026-05-06T21:28:59-07:00"
+      "pub_date": "2026-04-29T13:37:57-07:00"
     },
     {
       "title": "Apideck MCP Server",
@@ -218,28 +158,40 @@
       "pub_date": "2026-05-04T05:57:15-07:00"
     },
     {
-      "title": "Ota",
-      "url": "https://www.producthunt.com/products/ota",
+      "title": "Googlebook",
+      "url": "https://www.producthunt.com/products/googlebook-2",
       "tagline": "",
-      "pub_date": "2026-05-08T14:50:48-07:00"
+      "pub_date": "2026-05-12T14:33:07-07:00"
     },
     {
-      "title": "Tweaklify",
-      "url": "https://www.producthunt.com/products/tweaklify",
+      "title": "CraftBot with Living UI",
+      "url": "https://www.producthunt.com/products/craftbot",
       "tagline": "",
-      "pub_date": "2026-05-12T01:17:46-07:00"
+      "pub_date": "2026-04-30T03:02:37-07:00"
     },
     {
-      "title": "Skyty Wall",
-      "url": "https://www.producthunt.com/products/skyty-wall",
+      "title": "Memoket Gem",
+      "url": "https://www.producthunt.com/products/memoket-gem",
       "tagline": "",
-      "pub_date": "2026-05-12T09:34:17-07:00"
+      "pub_date": "2026-05-06T21:28:59-07:00"
     },
     {
-      "title": "RescueTime for iOS &amp; Android",
-      "url": "https://www.producthunt.com/products/rescuetime",
+      "title": "xyOps",
+      "url": "https://www.producthunt.com/products/xyops",
       "tagline": "",
-      "pub_date": "2026-04-20T09:17:52-07:00"
+      "pub_date": "2026-05-09T18:06:17-07:00"
+    },
+    {
+      "title": "WhoAmILookingFor",
+      "url": "https://www.producthunt.com/products/whoamilookingfor",
+      "tagline": "",
+      "pub_date": "2026-05-12T07:39:02-07:00"
+    },
+    {
+      "title": "Pipali",
+      "url": "https://www.producthunt.com/products/pipali",
+      "tagline": "",
+      "pub_date": "2026-05-06T09:42:58-07:00"
     },
     {
       "title": "Zen Reports",
@@ -248,10 +200,88 @@
       "pub_date": "2026-05-12T20:28:58-07:00"
     },
     {
-      "title": "Mycelis",
-      "url": "https://www.producthunt.com/products/mycelis",
+      "title": "Frontdesk AI",
+      "url": "https://www.producthunt.com/products/frontdesk-ai",
       "tagline": "",
-      "pub_date": "2026-05-12T09:34:28-07:00"
+      "pub_date": "2026-05-07T12:06:38-07:00"
+    },
+    {
+      "title": "Whisper Internet Infra AI Context",
+      "url": "https://www.producthunt.com/products/whisper-internet-infra-ai-context",
+      "tagline": "",
+      "pub_date": "2026-05-12T02:29:30-07:00"
+    },
+    {
+      "title": "Crade AI",
+      "url": "https://www.producthunt.com/products/crade",
+      "tagline": "",
+      "pub_date": "2026-05-11T09:44:04-07:00"
+    },
+    {
+      "title": "Blurto",
+      "url": "https://www.producthunt.com/products/blurto",
+      "tagline": "",
+      "pub_date": "2026-05-04T02:33:19-07:00"
+    },
+    {
+      "title": "Tago",
+      "url": "https://www.producthunt.com/products/tago-by-savhfresh",
+      "tagline": "",
+      "pub_date": "2026-05-11T14:04:08-07:00"
+    },
+    {
+      "title": "Skyty Wall",
+      "url": "https://www.producthunt.com/products/skyty-wall",
+      "tagline": "",
+      "pub_date": "2026-05-12T09:34:17-07:00"
+    },
+    {
+      "title": "Akaru",
+      "url": "https://www.producthunt.com/products/akaru-alarm-calendar",
+      "tagline": "",
+      "pub_date": "2026-05-12T22:16:00-07:00"
+    },
+    {
+      "title": "Tweaklify",
+      "url": "https://www.producthunt.com/products/tweaklify",
+      "tagline": "",
+      "pub_date": "2026-05-12T01:17:46-07:00"
+    },
+    {
+      "title": "Mi",
+      "url": "https://www.producthunt.com/products/mi",
+      "tagline": "",
+      "pub_date": "2026-05-12T15:32:34-07:00"
+    },
+    {
+      "title": "TipTap",
+      "url": "https://www.producthunt.com/products/tiptap-2",
+      "tagline": "",
+      "pub_date": "2026-04-16T05:21:25-07:00"
+    },
+    {
+      "title": "BossHogg",
+      "url": "https://www.producthunt.com/products/bosshogg",
+      "tagline": "",
+      "pub_date": "2026-05-12T18:45:29-07:00"
+    },
+    {
+      "title": "Jootle",
+      "url": "https://www.producthunt.com/products/jootle",
+      "tagline": "",
+      "pub_date": "2026-05-12T06:11:31-07:00"
+    },
+    {
+      "title": "Plate",
+      "url": "https://www.producthunt.com/products/plate-4",
+      "tagline": "",
+      "pub_date": "2026-05-12T02:13:15-07:00"
+    },
+    {
+      "title": "ScoutFox",
+      "url": "https://www.producthunt.com/products/scoutfox",
+      "tagline": "",
+      "pub_date": "2026-05-12T00:11:52-07:00"
     },
     {
       "title": "Termux Lite",
@@ -260,22 +290,10 @@
       "pub_date": "2026-05-12T12:04:47-07:00"
     },
     {
-      "title": "PitchDrop.ai",
-      "url": "https://www.producthunt.com/products/pitchdrop-ai",
+      "title": "IndexedAI",
+      "url": "https://www.producthunt.com/products/indexedai",
       "tagline": "",
-      "pub_date": "2026-05-12T22:41:51-07:00"
-    },
-    {
-      "title": "Googlebook",
-      "url": "https://www.producthunt.com/products/googlebook-2",
-      "tagline": "",
-      "pub_date": "2026-05-12T14:33:07-07:00"
-    },
-    {
-      "title": "Mnara",
-      "url": "https://www.producthunt.com/products/mnara-macos-system-monitor",
-      "tagline": "",
-      "pub_date": "2026-05-12T14:54:47-07:00"
+      "pub_date": "2026-05-08T16:07:10-07:00"
     }
   ]
 }

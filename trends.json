@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T13:49:05.842Z",
+  "generated_at": "2026-05-15T19:21:12.853Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
       "url": "https://github.com/Andyyyy64/whichllm",
       "hn_url": "https://news.ycombinator.com/item?id=48146369",
-      "points": 223,
-      "comments": 36,
+      "points": 273,
+      "comments": 63,
       "created_ts": 1778836764,
       "author": "andyyyy64"
     },
@@ -16,44 +16,53 @@
       "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
       "url": "https://github.com/GlycemicGPT/GlycemicGPT",
       "hn_url": "https://news.ycombinator.com/item?id=48144670",
-      "points": 58,
-      "comments": 45,
+      "points": 62,
+      "comments": 57,
       "created_ts": 1778820503,
       "author": "jlengelbrecht"
-    },
-    {
-      "title": "Show HN: Race to the Bottom",
-      "url": "https://race-to-the-bottom.onrender.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48135764",
-      "points": 56,
-      "comments": 45,
-      "created_ts": 1778768150,
-      "author": "maxwellito"
     },
     {
       "title": "Show HN: GridTravel – A community based travel app for users to share routes",
       "url": "https://www.gridtravel.app",
       "hn_url": "https://news.ycombinator.com/item?id=48141902",
-      "points": 49,
-      "comments": 28,
+      "points": 50,
+      "comments": 31,
       "created_ts": 1778796330,
       "author": "knuaym9"
     },
     {
-      "title": "Show HN: Browse 61 3D Printable Robots",
-      "url": "https://orobot.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=48139017",
-      "points": 13,
-      "comments": 1,
-      "created_ts": 1778782228,
-      "author": "xanderjanz"
+      "title": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
+      "url": "https://trmnl.com/blog/vibe-coding-shiphero",
+      "hn_url": "https://news.ycombinator.com/item?id=48148601",
+      "points": 23,
+      "comments": 5,
+      "created_ts": 1778853099,
+      "author": "ryanckulp"
+    },
+    {
+      "title": "Show HN: Find local farms near you with raw dairy, pasture eggs, and more",
+      "url": "https://farm-to-door.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48151227",
+      "points": 16,
+      "comments": 17,
+      "created_ts": 1778865308,
+      "author": "YoungGato"
+    },
+    {
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "url": "https://github.com/sleuth-io/sx",
+      "hn_url": "https://news.ycombinator.com/item?id=48151058",
+      "points": 16,
+      "comments": 5,
+      "created_ts": 1778864602,
+      "author": "detkin"
     },
     {
       "title": "Show HN: I solved my study problems by talking to a goose",
       "url": "https://professorgoose.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48145095",
-      "points": 11,
-      "comments": 8,
+      "points": 12,
+      "comments": 10,
       "created_ts": 1778825167,
       "author": "polaritymaking"
     },
@@ -69,168 +78,135 @@
   ],
   "hn_front": [
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "hn_url": "https://news.ycombinator.com/item?id=48138136",
-      "points": 941,
-      "comments": 485,
-      "created_ts": 1778778480,
-      "author": "arkadiyt"
-    },
-    {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "hn_url": "https://news.ycombinator.com/item?id=48137145",
-      "points": 639,
-      "comments": 150,
-      "created_ts": 1778773651,
-      "author": "allenleee"
-    },
-    {
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "hn_url": "https://news.ycombinator.com/item?id=48143880",
-      "points": 469,
-      "comments": 276,
-      "created_ts": 1778812535,
-      "author": "RGBCube"
-    },
-    {
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "hn_url": "https://news.ycombinator.com/item?id=48138268",
-      "points": 402,
-      "comments": 90,
-      "created_ts": 1778779068,
-      "author": "hetsaraiya"
-    },
-    {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "hn_url": "https://news.ycombinator.com/item?id=48139219",
-      "points": 394,
-      "comments": 104,
-      "created_ts": 1778783109,
-      "author": "quadrige"
-    },
-    {
       "title": "Codex is now in the ChatGPT mobile app",
       "url": "https://openai.com/index/work-with-codex-from-anywhere/",
       "hn_url": "https://news.ycombinator.com/item?id=48140529",
-      "points": 384,
-      "comments": 189,
+      "points": 450,
+      "comments": 226,
       "created_ts": 1778789174,
       "author": "mikeevans"
-    },
-    {
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "hn_url": "https://news.ycombinator.com/item?id=48142108",
-      "points": 364,
-      "comments": 147,
-      "created_ts": 1778797752,
-      "author": "caust1c"
-    },
-    {
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "hn_url": "https://news.ycombinator.com/item?id=48142251",
-      "points": 364,
-      "comments": 136,
-      "created_ts": 1778798656,
-      "author": "cdrnsf"
     },
     {
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "url": "https://explorer.samismith.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48146129",
-      "points": 262,
-      "comments": 64,
+      "points": 412,
+      "comments": 104,
       "created_ts": 1778834736,
       "author": "smusamashah"
     },
     {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "hn_url": "https://news.ycombinator.com/item?id=48146369",
-      "points": 223,
-      "comments": 36,
-      "created_ts": 1778836764,
-      "author": "andyyyy64"
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "hn_url": "https://news.ycombinator.com/item?id=48142108",
+      "points": 401,
+      "comments": 168,
+      "created_ts": 1778797752,
+      "author": "caust1c"
+    },
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48150431",
+      "points": 375,
+      "comments": 115,
+      "created_ts": 1778861736,
+      "author": "JSeiko"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "hn_url": "https://news.ycombinator.com/item?id=48148337",
+      "points": 244,
+      "comments": 242,
+      "created_ts": 1778851735,
+      "author": "hackernj"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48148460",
+      "points": 242,
+      "comments": 99,
+      "created_ts": 1778852394,
+      "author": "happyhardcore"
     },
     {
       "title": "Details of the Daring Airdrop at Tristan Da Cunha",
       "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "hn_url": "https://news.ycombinator.com/item?id=48144380",
-      "points": 190,
-      "comments": 68,
+      "points": 240,
+      "comments": 90,
       "created_ts": 1778817374,
       "author": "kspacewalk2"
-    },
-    {
-      "title": "Claude for Legal",
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "hn_url": "https://news.ycombinator.com/item?id=48141234",
-      "points": 132,
-      "comments": 115,
-      "created_ts": 1778792705,
-      "author": "Einenlum"
     },
     {
       "title": "O(x)Caml in Space",
       "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
       "hn_url": "https://news.ycombinator.com/item?id=48147058",
-      "points": 123,
-      "comments": 16,
+      "points": 200,
+      "comments": 47,
       "created_ts": 1778842551,
       "author": "yminsky"
     },
     {
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "hn_url": "https://news.ycombinator.com/item?id=48140953",
-      "points": 112,
-      "comments": 55,
-      "created_ts": 1778791308,
-      "author": "p_stuart82"
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "hn_url": "https://news.ycombinator.com/item?id=48150900",
+      "points": 187,
+      "comments": 111,
+      "created_ts": 1778863885,
+      "author": "ndiddy"
+    },
+    {
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "url": "https://radicle.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147603",
+      "points": 172,
+      "comments": 45,
+      "created_ts": 1778846875,
+      "author": "KolmogorovComp"
+    },
+    {
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "hn_url": "https://news.ycombinator.com/item?id=48151383",
+      "points": 147,
+      "comments": 74,
+      "created_ts": 1778866104,
+      "author": "tencentshill"
+    },
+    {
+      "title": "A new book on Steve Jobs at NeXT",
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=48146908",
+      "points": 132,
+      "comments": 113,
+      "created_ts": 1778841298,
+      "author": "rbanffy"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "url": "https://ascii.textfiles.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48148726",
+      "points": 101,
+      "comments": 19,
+      "created_ts": 1778853756,
+      "author": "bookofjoe"
     }
   ],
   "ph_today": [
     {
-      "title": "DevRecorder",
-      "url": "https://www.producthunt.com/products/devrecorder",
+      "title": "mia",
+      "url": "https://www.producthunt.com/products/mia-8",
       "tagline": "",
-      "pub_date": "2026-05-14T08:15:30-07:00"
+      "pub_date": "2026-05-14T22:29:32-07:00"
     },
     {
-      "title": "Planora",
-      "url": "https://www.producthunt.com/products/planora-3",
+      "title": "PHBench",
+      "url": "https://www.producthunt.com/products/vela-terminal",
       "tagline": "",
-      "pub_date": "2026-05-14T14:33:41-07:00"
-    },
-    {
-      "title": "PromptScout",
-      "url": "https://www.producthunt.com/products/promptscout",
-      "tagline": "",
-      "pub_date": "2026-05-14T06:13:48-07:00"
-    },
-    {
-      "title": "Lensmor",
-      "url": "https://www.producthunt.com/products/lensmor-2",
-      "tagline": "",
-      "pub_date": "2026-05-09T01:19:13-07:00"
-    },
-    {
-      "title": "Nimbus",
-      "url": "https://www.producthunt.com/products/nimbus-10",
-      "tagline": "",
-      "pub_date": "2026-05-14T21:58:07-07:00"
-    },
-    {
-      "title": "Mobius",
-      "url": "https://www.producthunt.com/products/mobius-3",
-      "tagline": "",
-      "pub_date": "2026-05-14T23:07:23-07:00"
+      "pub_date": "2026-05-11T11:22:01-07:00"
     },
     {
       "title": "Relay",
@@ -239,124 +215,10 @@
       "pub_date": "2026-04-18T05:32:01-07:00"
     },
     {
-      "title": "Crustimate",
-      "url": "https://www.producthunt.com/products/findable-4",
-      "tagline": "",
-      "pub_date": "2026-05-13T07:11:17-07:00"
-    },
-    {
       "title": "Gradient Bang",
       "url": "https://www.producthunt.com/products/gradient-bang",
       "tagline": "",
       "pub_date": "2026-05-13T16:38:02-07:00"
-    },
-    {
-      "title": "Wowable",
-      "url": "https://www.producthunt.com/products/wowable",
-      "tagline": "",
-      "pub_date": "2026-04-24T03:30:55-07:00"
-    },
-    {
-      "title": "Magic Notebook",
-      "url": "https://www.producthunt.com/products/magic-notebook",
-      "tagline": "",
-      "pub_date": "2026-04-24T14:39:35-07:00"
-    },
-    {
-      "title": "Atter AI",
-      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-      "tagline": "",
-      "pub_date": "2026-05-14T03:15:38-07:00"
-    },
-    {
-      "title": "Noeth",
-      "url": "https://www.producthunt.com/products/noeth",
-      "tagline": "",
-      "pub_date": "2026-05-14T01:31:20-07:00"
-    },
-    {
-      "title": "SpotFetch by DocentPro",
-      "url": "https://www.producthunt.com/products/docentpro",
-      "tagline": "",
-      "pub_date": "2026-05-07T22:30:30-07:00"
-    },
-    {
-      "title": "DramaBox by Resemble AI",
-      "url": "https://www.producthunt.com/products/resemble-clone",
-      "tagline": "",
-      "pub_date": "2026-05-14T12:55:25-07:00"
-    },
-    {
-      "title": "Cline SDK",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "tagline": "",
-      "pub_date": "2026-05-13T09:45:13-07:00"
-    },
-    {
-      "title": "Repaint",
-      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
-      "tagline": "",
-      "pub_date": "2026-04-23T19:44:57-07:00"
-    },
-    {
-      "title": "Tiny World Builder",
-      "url": "https://www.producthunt.com/products/tiny-world-builder",
-      "tagline": "",
-      "pub_date": "2026-05-15T05:33:27-07:00"
-    },
-    {
-      "title": "Cats Lock",
-      "url": "https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people",
-      "tagline": "",
-      "pub_date": "2026-05-08T17:29:06-07:00"
-    },
-    {
-      "title": "Atlas Navigation",
-      "url": "https://www.producthunt.com/products/atlas-navigation",
-      "tagline": "",
-      "pub_date": "2026-05-11T15:24:50-07:00"
-    },
-    {
-      "title": "Glance",
-      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-      "tagline": "",
-      "pub_date": "2026-05-14T07:10:53-07:00"
-    },
-    {
-      "title": "TrustClaw by Composio",
-      "url": "https://www.producthunt.com/products/composio",
-      "tagline": "",
-      "pub_date": "2026-05-13T13:37:54-07:00"
-    },
-    {
-      "title": "Cleo AI",
-      "url": "https://www.producthunt.com/products/cleo-ai",
-      "tagline": "",
-      "pub_date": "2026-05-14T11:03:05-07:00"
-    },
-    {
-      "title": "Autograph.video Beta",
-      "url": "https://www.producthunt.com/products/autograph-video-beta",
-      "tagline": "",
-      "pub_date": "2026-05-14T15:33:43-07:00"
-    },
-    {
-      "title": "Mantel",
-      "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
-      "tagline": "",
-      "pub_date": "2026-05-14T11:46:16-07:00"
-    },
-    {
-      "title": "Gluten App",
-      "url": "https://www.producthunt.com/products/gluten-app",
-      "tagline": "",
-      "pub_date": "2026-05-12T08:03:27-07:00"
-    },
-    {
-      "title": "Basedash MCP Connectors",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-14T14:09:07-07:00"
     },
     {
       "title": "AgentRail",
@@ -365,16 +227,154 @@
       "pub_date": "2026-05-14T07:51:39-07:00"
     },
     {
+      "title": "DevRecorder",
+      "url": "https://www.producthunt.com/products/devrecorder",
+      "tagline": "",
+      "pub_date": "2026-05-14T08:15:30-07:00"
+    },
+    {
+      "title": "Magic Notebook",
+      "url": "https://www.producthunt.com/products/magic-notebook",
+      "tagline": "",
+      "pub_date": "2026-04-24T14:39:35-07:00"
+    },
+    {
+      "title": "Noeth",
+      "url": "https://www.producthunt.com/products/noeth",
+      "tagline": "",
+      "pub_date": "2026-05-14T01:31:20-07:00"
+    },
+    {
+      "title": "Planora",
+      "url": "https://www.producthunt.com/products/planora-3",
+      "tagline": "",
+      "pub_date": "2026-05-14T14:33:41-07:00"
+    },
+    {
+      "title": "Whiteout",
+      "url": "https://www.producthunt.com/products/whiteout",
+      "tagline": "",
+      "pub_date": "2026-05-14T14:06:42-07:00"
+    },
+    {
       "title": "Riffly",
       "url": "https://www.producthunt.com/products/riffly",
       "tagline": "",
       "pub_date": "2026-05-07T11:37:20-07:00"
     },
     {
+      "title": "Wowable",
+      "url": "https://www.producthunt.com/products/wowable",
+      "tagline": "",
+      "pub_date": "2026-04-24T03:30:55-07:00"
+    },
+    {
+      "title": "Mantel",
+      "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
+      "tagline": "",
+      "pub_date": "2026-05-14T11:46:16-07:00"
+    },
+    {
+      "title": "TrustClaw by Composio",
+      "url": "https://www.producthunt.com/products/composio",
+      "tagline": "",
+      "pub_date": "2026-05-13T13:37:54-07:00"
+    },
+    {
+      "title": "OpenHuman",
+      "url": "https://www.producthunt.com/products/openhuman",
+      "tagline": "",
+      "pub_date": "2026-05-01T09:39:53-07:00"
+    },
+    {
+      "title": "Basedash MCP Connectors",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-14T14:09:07-07:00"
+    },
+    {
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
+      "tagline": "",
+      "pub_date": "2026-05-13T19:51:00-07:00"
+    },
+    {
+      "title": "Lensmor",
+      "url": "https://www.producthunt.com/products/lensmor-2",
+      "tagline": "",
+      "pub_date": "2026-05-09T01:19:13-07:00"
+    },
+    {
+      "title": "Atlas Navigation",
+      "url": "https://www.producthunt.com/products/atlas-navigation",
+      "tagline": "",
+      "pub_date": "2026-05-11T15:24:50-07:00"
+    },
+    {
+      "title": "Repaint",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "tagline": "",
+      "pub_date": "2026-04-23T19:44:57-07:00"
+    },
+    {
+      "title": "Sleek Analytics v3",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "tagline": "",
+      "pub_date": "2026-05-14T20:17:45-07:00"
+    },
+    {
+      "title": "Kimi WebBridge",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "tagline": "",
+      "pub_date": "2026-05-14T22:16:54-07:00"
+    },
+    {
+      "title": "Cats Lock",
+      "url": "https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people",
+      "tagline": "",
+      "pub_date": "2026-05-08T17:29:06-07:00"
+    },
+    {
+      "title": "Mobius",
+      "url": "https://www.producthunt.com/products/mobius-3",
+      "tagline": "",
+      "pub_date": "2026-05-14T23:07:23-07:00"
+    },
+    {
+      "title": "DramaBox by Resemble AI",
+      "url": "https://www.producthunt.com/products/resemble-clone",
+      "tagline": "",
+      "pub_date": "2026-05-14T12:55:25-07:00"
+    },
+    {
+      "title": "Picsart MCP",
+      "url": "https://www.producthunt.com/products/picsart",
+      "tagline": "",
+      "pub_date": "2026-05-14T01:53:53-07:00"
+    },
+    {
+      "title": "Atter AI",
+      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
+      "tagline": "",
+      "pub_date": "2026-05-14T03:15:38-07:00"
+    },
+    {
       "title": "Agent-Sin",
       "url": "https://www.producthunt.com/products/agent-sin",
       "tagline": "",
       "pub_date": "2026-05-14T19:36:56-07:00"
+    },
+    {
+      "title": "Gluten App",
+      "url": "https://www.producthunt.com/products/gluten-app",
+      "tagline": "",
+      "pub_date": "2026-05-12T08:03:27-07:00"
+    },
+    {
+      "title": "Nimbus",
+      "url": "https://www.producthunt.com/products/nimbus-10",
+      "tagline": "",
+      "pub_date": "2026-05-14T21:58:07-07:00"
     }
   ]
 }

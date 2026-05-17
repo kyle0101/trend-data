@@ -1,110 +1,161 @@
 {
-  "generated_at": "2026-05-17T13:03:40.140Z",
+  "generated_at": "2026-05-17T18:58:05.640Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "hn_url": "https://news.ycombinator.com/item?id=48161881",
-      "points": 92,
-      "comments": 39,
-      "created_ts": 1778950841,
-      "author": "tsiry"
-    },
-    {
       "title": "Show HN: Codiff, a local diff review tool",
       "url": "https://github.com/nkzw-tech/codiff/releases",
       "hn_url": "https://news.ycombinator.com/item?id=48166275",
-      "points": 21,
-      "comments": 18,
+      "points": 23,
+      "comments": 19,
       "created_ts": 1778995814,
       "author": "cpojer"
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "hn_url": "https://news.ycombinator.com/item?id=48169874",
+      "points": 11,
+      "comments": 12,
+      "created_ts": 1779032227,
+      "author": "Bibabomas"
     }
   ],
   "hn_front": [
     {
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "hn_url": "https://news.ycombinator.com/item?id=48164287",
-      "points": 454,
-      "comments": 228,
-      "created_ts": 1778970230,
-      "author": "gidellav"
-    },
-    {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
       "hn_url": "https://news.ycombinator.com/item?id=48166459",
-      "points": 344,
-      "comments": 138,
+      "points": 531,
+      "comments": 230,
       "created_ts": 1778998646,
       "author": "WithinReason"
     },
     {
-      "title": "A nicer voltmeter clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "hn_url": "https://news.ycombinator.com/item?id=48164432",
-      "points": 234,
-      "comments": 29,
-      "created_ts": 1778971516,
-      "author": "surprisetalk"
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=48164287",
+      "points": 509,
+      "comments": 283,
+      "created_ts": 1778970230,
+      "author": "gidellav"
+    },
+    {
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48168856",
+      "points": 429,
+      "comments": 176,
+      "created_ts": 1779025350,
+      "author": "nolok"
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168221",
+      "points": 358,
+      "comments": 276,
+      "created_ts": 1779020025,
+      "author": "TheEdonian"
+    },
+    {
+      "title": "Americans Are Smashing Flock Cameras",
+      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=48170798",
+      "points": 309,
+      "comments": 236,
+      "created_ts": 1779037755,
+      "author": "rolph"
+    },
+    {
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "hn_url": "https://news.ycombinator.com/item?id=48168056",
+      "points": 302,
+      "comments": 298,
+      "created_ts": 1779018571,
+      "author": "mooreds"
+    },
+    {
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "hn_url": "https://news.ycombinator.com/item?id=48168058",
+      "points": 299,
+      "comments": 201,
+      "created_ts": 1779018586,
+      "author": "dive"
     },
     {
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
       "hn_url": "https://news.ycombinator.com/item?id=48163392",
-      "points": 229,
-      "comments": 276,
+      "points": 289,
+      "comments": 308,
       "created_ts": 1778962446,
       "author": "bookofjoe"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hn_url": "https://news.ycombinator.com/item?id=48164432",
+      "points": 281,
+      "comments": 36,
+      "created_ts": 1778971516,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48168198",
+      "points": 232,
+      "comments": 197,
+      "created_ts": 1779019763,
+      "author": "datadrivenangel"
+    },
+    {
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48168708",
+      "points": 217,
+      "comments": 117,
+      "created_ts": 1779024134,
+      "author": "zzzeek"
     },
     {
       "title": "Hosting a website on an 8-bit microcontroller",
       "url": "https://maurycyz.com/projects/mcusite/",
       "hn_url": "https://news.ycombinator.com/item?id=48165295",
-      "points": 162,
-      "comments": 13,
+      "points": 205,
+      "comments": 17,
       "created_ts": 1778981126,
       "author": "zdw"
     },
     {
-      "title": "Halt and Catch Fire",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "hn_url": "https://news.ycombinator.com/item?id=48162468",
-      "points": 159,
-      "comments": 80,
-      "created_ts": 1778955389,
-      "author": "ScottWRobinson"
+      "title": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "hn_url": "https://news.ycombinator.com/item?id=48168626",
+      "points": 192,
+      "comments": 70,
+      "created_ts": 1779023480,
+      "author": "ch_sm"
     },
     {
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "hn_url": "https://news.ycombinator.com/item?id=48164294",
-      "points": 113,
-      "comments": 36,
-      "created_ts": 1778970333,
-      "author": "Dachande663"
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "hn_url": "https://news.ycombinator.com/item?id=48168668",
+      "points": 135,
+      "comments": 78,
+      "created_ts": 1779023787,
+      "author": "tech4bot"
     }
   ],
   "ph_today": [
-    {
-      "title": "Fere AI",
-      "url": "https://www.producthunt.com/products/fere-ai",
-      "tagline": "",
-      "pub_date": "2026-04-30T10:44:29-07:00"
-    },
     {
       "title": "Vivago Video Agent",
       "url": "https://www.producthunt.com/products/viva",
       "tagline": "",
       "pub_date": "2026-05-13T06:02:37-07:00"
-    },
-    {
-      "title": "Files SDK",
-      "url": "https://www.producthunt.com/products/files-sdk",
-      "tagline": "",
-      "pub_date": "2026-05-11T01:34:09-07:00"
     },
     {
       "title": "Kirki",
@@ -113,10 +164,22 @@
       "pub_date": "2026-05-16T04:15:00-07:00"
     },
     {
+      "title": "Files SDK",
+      "url": "https://www.producthunt.com/products/files-sdk",
+      "tagline": "",
+      "pub_date": "2026-05-11T01:34:09-07:00"
+    },
+    {
       "title": "SUN-to-Spotify",
       "url": "https://www.producthunt.com/products/sun-ai",
       "tagline": "",
       "pub_date": "2025-03-16T22:09:16-07:00"
+    },
+    {
+      "title": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
+      "tagline": "",
+      "pub_date": "2026-04-30T10:44:29-07:00"
     },
     {
       "title": "M5Stack PaperColor",
@@ -125,22 +188,10 @@
       "pub_date": "2026-05-15T07:37:56-07:00"
     },
     {
-      "title": "Loova Agents",
-      "url": "https://www.producthunt.com/products/loova-agents",
-      "tagline": "",
-      "pub_date": "2026-05-09T23:39:10-07:00"
-    },
-    {
       "title": "Agentmemory",
       "url": "https://www.producthunt.com/products/agent-memory-dev",
       "tagline": "",
       "pub_date": "2026-05-11T02:53:56-07:00"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite",
-      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
-      "tagline": "",
-      "pub_date": "2026-05-11T00:41:05-07:00"
     },
     {
       "title": "ChatGPT for Personal Finance",
@@ -149,58 +200,28 @@
       "pub_date": "2026-05-15T12:16:51-07:00"
     },
     {
-      "title": "Wring",
-      "url": "https://www.producthunt.com/products/wring",
-      "tagline": "",
-      "pub_date": "2026-05-15T07:24:23-07:00"
-    },
-    {
       "title": "Raybeam",
       "url": "https://www.producthunt.com/products/raybeam",
       "tagline": "",
       "pub_date": "2026-05-15T21:29:06-07:00"
     },
     {
-      "title": "Cline SDK",
-      "url": "https://www.producthunt.com/products/cline-4",
+      "title": "Wring",
+      "url": "https://www.producthunt.com/products/wring",
       "tagline": "",
-      "pub_date": "2026-05-13T09:45:13-07:00"
+      "pub_date": "2026-05-15T07:24:23-07:00"
     },
     {
-      "title": "Kimi WebBridge",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "title": "Loova Agents",
+      "url": "https://www.producthunt.com/products/loova-agents",
       "tagline": "",
-      "pub_date": "2026-05-14T22:16:54-07:00"
+      "pub_date": "2026-05-09T23:39:10-07:00"
     },
     {
-      "title": "Basedash MCP Connectors",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "Gemini 3.1 Flash-Lite",
+      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
       "tagline": "",
-      "pub_date": "2026-05-14T14:09:07-07:00"
-    },
-    {
-      "title": "Atter AI",
-      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-      "tagline": "",
-      "pub_date": "2026-05-14T03:15:38-07:00"
-    },
-    {
-      "title": "Relay",
-      "url": "https://www.producthunt.com/products/relay-15",
-      "tagline": "",
-      "pub_date": "2026-04-18T05:32:01-07:00"
-    },
-    {
-      "title": "PromptScout",
-      "url": "https://www.producthunt.com/products/promptscout",
-      "tagline": "",
-      "pub_date": "2026-05-14T06:13:48-07:00"
-    },
-    {
-      "title": "Planora",
-      "url": "https://www.producthunt.com/products/planora-3",
-      "tagline": "",
-      "pub_date": "2026-05-14T14:33:41-07:00"
+      "pub_date": "2026-05-11T00:41:05-07:00"
     },
     {
       "title": "Repaint",
@@ -209,34 +230,40 @@
       "pub_date": "2026-04-23T19:44:57-07:00"
     },
     {
-      "title": "Picsart MCP",
-      "url": "https://www.producthunt.com/products/picsart",
+      "title": "PHBench",
+      "url": "https://www.producthunt.com/products/vela-terminal",
       "tagline": "",
-      "pub_date": "2026-05-14T01:53:53-07:00"
+      "pub_date": "2026-05-11T11:22:01-07:00"
     },
     {
-      "title": "Mantel",
-      "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
       "tagline": "",
-      "pub_date": "2026-05-14T11:46:16-07:00"
+      "pub_date": "2026-05-13T19:51:00-07:00"
     },
     {
-      "title": "Autograph.video Beta",
-      "url": "https://www.producthunt.com/products/autograph-video-beta",
+      "title": "Relay",
+      "url": "https://www.producthunt.com/products/relay-15",
       "tagline": "",
-      "pub_date": "2026-05-14T15:33:43-07:00"
+      "pub_date": "2026-04-18T05:32:01-07:00"
     },
     {
-      "title": "Just The Tips",
-      "url": "https://www.producthunt.com/products/just-the-tips",
+      "title": "Lensmor",
+      "url": "https://www.producthunt.com/products/lensmor-2",
       "tagline": "",
-      "pub_date": "2026-05-04T14:02:33-07:00"
+      "pub_date": "2026-05-09T01:19:13-07:00"
     },
     {
-      "title": "OpenIT",
-      "url": "https://www.producthunt.com/products/openit",
+      "title": "SpotFetch by DocentPro",
+      "url": "https://www.producthunt.com/products/docentpro",
       "tagline": "",
-      "pub_date": "2026-05-15T00:00:30-07:00"
+      "pub_date": "2026-05-07T22:30:30-07:00"
+    },
+    {
+      "title": "TrustClaw by Composio",
+      "url": "https://www.producthunt.com/products/composio",
+      "tagline": "",
+      "pub_date": "2026-05-13T13:37:54-07:00"
     },
     {
       "title": "Standboy",
@@ -245,10 +272,10 @@
       "pub_date": "2026-05-14T06:02:59-07:00"
     },
     {
-      "title": "Whiteout",
-      "url": "https://www.producthunt.com/products/whiteout",
+      "title": "HasData",
+      "url": "https://www.producthunt.com/products/hasdata",
       "tagline": "",
-      "pub_date": "2026-05-14T14:06:42-07:00"
+      "pub_date": "2026-05-07T02:34:26-07:00"
     },
     {
       "title": "Crustimate",
@@ -257,16 +284,52 @@
       "pub_date": "2026-05-13T07:11:17-07:00"
     },
     {
-      "title": "Atlas Navigation",
-      "url": "https://www.producthunt.com/products/atlas-navigation",
+      "title": "OpenHuman",
+      "url": "https://www.producthunt.com/products/openhuman",
       "tagline": "",
-      "pub_date": "2026-05-11T15:24:50-07:00"
+      "pub_date": "2026-05-01T09:39:53-07:00"
     },
     {
-      "title": "Magic Notebook",
-      "url": "https://www.producthunt.com/products/magic-notebook",
+      "title": "Picsart MCP",
+      "url": "https://www.producthunt.com/products/picsart",
       "tagline": "",
-      "pub_date": "2026-04-24T14:39:35-07:00"
+      "pub_date": "2026-05-14T01:53:53-07:00"
+    },
+    {
+      "title": "Gradient Bang",
+      "url": "https://www.producthunt.com/products/gradient-bang",
+      "tagline": "",
+      "pub_date": "2026-05-13T16:38:02-07:00"
+    },
+    {
+      "title": "Wowable",
+      "url": "https://www.producthunt.com/products/wowable",
+      "tagline": "",
+      "pub_date": "2026-04-24T03:30:55-07:00"
+    },
+    {
+      "title": "Cats Lock",
+      "url": "https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people",
+      "tagline": "",
+      "pub_date": "2026-05-08T17:29:06-07:00"
+    },
+    {
+      "title": "Atter AI",
+      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
+      "tagline": "",
+      "pub_date": "2026-05-14T03:15:38-07:00"
+    },
+    {
+      "title": "Noeth",
+      "url": "https://www.producthunt.com/products/noeth",
+      "tagline": "",
+      "pub_date": "2026-05-14T01:31:20-07:00"
+    },
+    {
+      "title": "Glance",
+      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
+      "tagline": "",
+      "pub_date": "2026-05-14T07:10:53-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T02:29:06.605Z",
+  "generated_at": "2026-05-17T08:12:31.726Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,16 +7,25 @@
       "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
       "url": "https://tangled.org/rocksky.app/rocksky",
       "hn_url": "https://news.ycombinator.com/item?id=48161881",
-      "points": 59,
-      "comments": 25,
+      "points": 73,
+      "comments": 33,
       "created_ts": 1778950841,
       "author": "tsiry"
+    },
+    {
+      "title": "Show HN: Codiff, a local diff review tool",
+      "url": "https://github.com/nkzw-tech/codiff/releases",
+      "hn_url": "https://news.ycombinator.com/item?id=48166275",
+      "points": 19,
+      "comments": 16,
+      "created_ts": 1778995814,
+      "author": "cpojer"
     },
     {
       "title": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
       "url": "https://a-dark-cave.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48158305",
-      "points": 11,
+      "points": 12,
       "comments": 6,
       "created_ts": 1778921867,
       "author": "julez_"
@@ -27,129 +36,141 @@
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "hn_url": "https://news.ycombinator.com/item?id=48158400",
-      "points": 444,
-      "comments": 287,
+      "points": 520,
+      "comments": 311,
       "created_ts": 1778922866,
       "author": "mpweiher"
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "hn_url": "https://news.ycombinator.com/item?id=48157559",
-      "points": 339,
-      "comments": 333,
-      "created_ts": 1778914915,
-      "author": "frays"
-    },
-    {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "hn_url": "https://news.ycombinator.com/item?id=48159445",
-      "points": 302,
-      "comments": 127,
-      "created_ts": 1778933181,
-      "author": "mjgil"
-    },
-    {
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48159241",
-      "points": 248,
-      "comments": 143,
-      "created_ts": 1778931392,
-      "author": "eamag"
-    },
-    {
-      "title": "We've made the world too complicated",
-      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "hn_url": "https://news.ycombinator.com/item?id=48158065",
-      "points": 198,
-      "comments": 187,
-      "created_ts": 1778919917,
-      "author": "James72689"
-    },
-    {
-      "title": "δ-mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "hn_url": "https://news.ycombinator.com/item?id=48158506",
-      "points": 194,
-      "comments": 53,
-      "created_ts": 1778923806,
-      "author": "44za12"
     },
     {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
       "hn_url": "https://news.ycombinator.com/item?id=48164287",
-      "points": 187,
-      "comments": 54,
+      "points": 350,
+      "comments": 144,
       "created_ts": 1778970230,
       "author": "gidellav"
     },
     {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "hn_url": "https://news.ycombinator.com/item?id=48161997",
-      "points": 114,
-      "comments": 76,
-      "created_ts": 1778951578,
-      "author": "rbanffy"
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159445",
+      "points": 331,
+      "comments": 135,
+      "created_ts": 1778933181,
+      "author": "mjgil"
     },
     {
-      "title": "Futhark by example (2020)",
-      "url": "https://futhark-lang.org/examples.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48158606",
-      "points": 109,
-      "comments": 28,
-      "created_ts": 1778925010,
-      "author": "tosh"
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158065",
+      "points": 280,
+      "comments": 252,
+      "created_ts": 1778919917,
+      "author": "James72689"
     },
     {
-      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
-      "url": "https://parttelescopes.web.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=48160914",
-      "points": 107,
-      "comments": 28,
-      "created_ts": 1778944337,
-      "author": "openrockets"
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48159241",
+      "points": 279,
+      "comments": 160,
+      "created_ts": 1778931392,
+      "author": "eamag"
+    },
+    {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "hn_url": "https://news.ycombinator.com/item?id=48158506",
+      "points": 210,
+      "comments": 56,
+      "created_ts": 1778923806,
+      "author": "44za12"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "hn_url": "https://news.ycombinator.com/item?id=48163392",
+      "points": 162,
+      "comments": 177,
+      "created_ts": 1778962446,
+      "author": "bookofjoe"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hn_url": "https://news.ycombinator.com/item?id=48164432",
+      "points": 156,
+      "comments": 22,
+      "created_ts": 1778971516,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "hn_url": "https://news.ycombinator.com/item?id=48162468",
+      "points": 126,
+      "comments": 66,
+      "created_ts": 1778955389,
+      "author": "ScottWRobinson"
+    },
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48164891",
+      "points": 125,
+      "comments": 46,
+      "created_ts": 1778975987,
+      "author": "breve"
+    },
+    {
+      "title": "Greek Alphabet Cards",
+      "url": "https://labs.randomquark.com/alphabet_cards/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159354",
+      "points": 120,
+      "comments": 56,
+      "created_ts": 1778932389,
+      "author": "ricochet11"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48165295",
+      "points": 111,
+      "comments": 8,
+      "created_ts": 1778981126,
+      "author": "zdw"
     }
   ],
   "ph_today": [
     {
-      "title": "Raybeam",
-      "url": "https://www.producthunt.com/products/raybeam",
+      "title": "Vivago Video Agent",
+      "url": "https://www.producthunt.com/products/viva",
       "tagline": "",
-      "pub_date": "2026-05-15T21:29:06-07:00"
+      "pub_date": "2026-05-13T06:02:37-07:00"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite",
-      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
+      "title": "Kirki",
+      "url": "https://www.producthunt.com/products/kirki",
       "tagline": "",
-      "pub_date": "2026-05-11T00:41:05-07:00"
+      "pub_date": "2026-05-16T04:15:00-07:00"
     },
     {
-      "title": "M5Stack PaperColor",
-      "url": "https://www.producthunt.com/products/m5stack",
+      "title": "SUN-to-Spotify",
+      "url": "https://www.producthunt.com/products/sun-ai",
       "tagline": "",
-      "pub_date": "2026-05-15T07:37:56-07:00"
+      "pub_date": "2025-03-16T22:09:16-07:00"
     },
     {
-      "title": "Wring",
-      "url": "https://www.producthunt.com/products/wring",
+      "title": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
       "tagline": "",
-      "pub_date": "2026-05-15T07:24:23-07:00"
+      "pub_date": "2026-04-30T10:44:29-07:00"
     },
     {
-      "title": "ChatGPT for Personal Finance",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Files SDK",
+      "url": "https://www.producthunt.com/products/files-sdk",
       "tagline": "",
-      "pub_date": "2026-05-15T12:16:51-07:00"
-    },
-    {
-      "title": "Agentmemory",
-      "url": "https://www.producthunt.com/products/agent-memory-dev",
-      "tagline": "",
-      "pub_date": "2026-05-11T02:53:56-07:00"
+      "pub_date": "2026-05-11T01:34:09-07:00"
     },
     {
       "title": "Loova Agents",
@@ -158,10 +179,40 @@
       "pub_date": "2026-05-09T23:39:10-07:00"
     },
     {
-      "title": "Standboy",
-      "url": "https://www.producthunt.com/products/standboy",
+      "title": "Wring",
+      "url": "https://www.producthunt.com/products/wring",
       "tagline": "",
-      "pub_date": "2026-05-14T06:02:59-07:00"
+      "pub_date": "2026-05-15T07:24:23-07:00"
+    },
+    {
+      "title": "Raybeam",
+      "url": "https://www.producthunt.com/products/raybeam",
+      "tagline": "",
+      "pub_date": "2026-05-15T21:29:06-07:00"
+    },
+    {
+      "title": "ChatGPT for Personal Finance",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-05-15T12:16:51-07:00"
+    },
+    {
+      "title": "M5Stack PaperColor",
+      "url": "https://www.producthunt.com/products/m5stack",
+      "tagline": "",
+      "pub_date": "2026-05-15T07:37:56-07:00"
+    },
+    {
+      "title": "Agentmemory",
+      "url": "https://www.producthunt.com/products/agent-memory-dev",
+      "tagline": "",
+      "pub_date": "2026-05-11T02:53:56-07:00"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite",
+      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
+      "tagline": "",
+      "pub_date": "2026-05-11T00:41:05-07:00"
     },
     {
       "title": "Kimi WebBridge",
@@ -170,88 +221,10 @@
       "pub_date": "2026-05-14T22:16:54-07:00"
     },
     {
-      "title": "OpenIT",
-      "url": "https://www.producthunt.com/products/openit",
+      "title": "SpotFetch by DocentPro",
+      "url": "https://www.producthunt.com/products/docentpro",
       "tagline": "",
-      "pub_date": "2026-05-15T00:00:30-07:00"
-    },
-    {
-      "title": "Crustimate",
-      "url": "https://www.producthunt.com/products/findable-4",
-      "tagline": "",
-      "pub_date": "2026-05-13T07:11:17-07:00"
-    },
-    {
-      "title": "Whiteout",
-      "url": "https://www.producthunt.com/products/whiteout",
-      "tagline": "",
-      "pub_date": "2026-05-14T14:06:42-07:00"
-    },
-    {
-      "title": "Planora",
-      "url": "https://www.producthunt.com/products/planora-3",
-      "tagline": "",
-      "pub_date": "2026-05-14T14:33:41-07:00"
-    },
-    {
-      "title": "Basedash MCP Connectors",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-14T14:09:07-07:00"
-    },
-    {
-      "title": "Mantel",
-      "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
-      "tagline": "",
-      "pub_date": "2026-05-14T11:46:16-07:00"
-    },
-    {
-      "title": "Gradient Bang",
-      "url": "https://www.producthunt.com/products/gradient-bang",
-      "tagline": "",
-      "pub_date": "2026-05-13T16:38:02-07:00"
-    },
-    {
-      "title": "Glance",
-      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-      "tagline": "",
-      "pub_date": "2026-05-14T07:10:53-07:00"
-    },
-    {
-      "title": "Mobius",
-      "url": "https://www.producthunt.com/products/mobius-3",
-      "tagline": "",
-      "pub_date": "2026-05-14T23:07:23-07:00"
-    },
-    {
-      "title": "mia",
-      "url": "https://www.producthunt.com/products/mia-8",
-      "tagline": "",
-      "pub_date": "2026-05-14T22:29:32-07:00"
-    },
-    {
-      "title": "Cline SDK",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "tagline": "",
-      "pub_date": "2026-05-13T09:45:13-07:00"
-    },
-    {
-      "title": "Magic Notebook",
-      "url": "https://www.producthunt.com/products/magic-notebook",
-      "tagline": "",
-      "pub_date": "2026-04-24T14:39:35-07:00"
-    },
-    {
-      "title": "PromptScout",
-      "url": "https://www.producthunt.com/products/promptscout",
-      "tagline": "",
-      "pub_date": "2026-05-14T06:13:48-07:00"
-    },
-    {
-      "title": "Just The Tips",
-      "url": "https://www.producthunt.com/products/just-the-tips",
-      "tagline": "",
-      "pub_date": "2026-05-04T14:02:33-07:00"
+      "pub_date": "2026-05-07T22:30:30-07:00"
     },
     {
       "title": "Autograph.video Beta",
@@ -260,40 +233,94 @@
       "pub_date": "2026-05-14T15:33:43-07:00"
     },
     {
-      "title": "SpotFetch by DocentPro",
-      "url": "https://www.producthunt.com/products/docentpro",
+      "title": "Cleo AI",
+      "url": "https://www.producthunt.com/products/cleo-ai",
       "tagline": "",
-      "pub_date": "2026-05-07T22:30:30-07:00"
+      "pub_date": "2026-05-14T11:03:05-07:00"
     },
     {
-      "title": "Repaint",
-      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "title": "Agent-Sin",
+      "url": "https://www.producthunt.com/products/agent-sin",
       "tagline": "",
-      "pub_date": "2026-04-23T19:44:57-07:00"
+      "pub_date": "2026-05-14T19:36:56-07:00"
     },
     {
-      "title": "OpenHuman",
-      "url": "https://www.producthunt.com/products/openhuman",
+      "title": "Riffly",
+      "url": "https://www.producthunt.com/products/riffly",
       "tagline": "",
-      "pub_date": "2026-05-01T09:39:53-07:00"
+      "pub_date": "2026-05-07T11:37:20-07:00"
     },
     {
-      "title": "PHBench",
-      "url": "https://www.producthunt.com/products/vela-terminal",
+      "title": "Tiny World Builder",
+      "url": "https://www.producthunt.com/products/tiny-world-builder",
       "tagline": "",
-      "pub_date": "2026-05-11T11:22:01-07:00"
+      "pub_date": "2026-05-15T05:33:27-07:00"
     },
     {
-      "title": "Sleek Analytics v3",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "title": "HasData",
+      "url": "https://www.producthunt.com/products/hasdata",
       "tagline": "",
-      "pub_date": "2026-05-14T20:17:45-07:00"
+      "pub_date": "2026-05-07T02:34:26-07:00"
     },
     {
-      "title": "Lensmor",
-      "url": "https://www.producthunt.com/products/lensmor-2",
+      "title": "Cline SDK",
+      "url": "https://www.producthunt.com/products/cline-4",
       "tagline": "",
-      "pub_date": "2026-05-09T01:19:13-07:00"
+      "pub_date": "2026-05-13T09:45:13-07:00"
+    },
+    {
+      "title": "Picsart MCP",
+      "url": "https://www.producthunt.com/products/picsart",
+      "tagline": "",
+      "pub_date": "2026-05-14T01:53:53-07:00"
+    },
+    {
+      "title": "Mobius",
+      "url": "https://www.producthunt.com/products/mobius-3",
+      "tagline": "",
+      "pub_date": "2026-05-14T23:07:23-07:00"
+    },
+    {
+      "title": "Planora",
+      "url": "https://www.producthunt.com/products/planora-3",
+      "tagline": "",
+      "pub_date": "2026-05-14T14:33:41-07:00"
+    },
+    {
+      "title": "Nimbus",
+      "url": "https://www.producthunt.com/products/nimbus-10",
+      "tagline": "",
+      "pub_date": "2026-05-14T21:58:07-07:00"
+    },
+    {
+      "title": "DramaBox by Resemble AI",
+      "url": "https://www.producthunt.com/products/resemble-clone",
+      "tagline": "",
+      "pub_date": "2026-05-14T12:55:25-07:00"
+    },
+    {
+      "title": "OpenIT",
+      "url": "https://www.producthunt.com/products/openit",
+      "tagline": "",
+      "pub_date": "2026-05-15T00:00:30-07:00"
+    },
+    {
+      "title": "Basedash MCP Connectors",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-14T14:09:07-07:00"
+    },
+    {
+      "title": "Gluten App",
+      "url": "https://www.producthunt.com/products/gluten-app",
+      "tagline": "",
+      "pub_date": "2026-05-12T08:03:27-07:00"
+    },
+    {
+      "title": "DevRecorder",
+      "url": "https://www.producthunt.com/products/devrecorder",
+      "tagline": "",
+      "pub_date": "2026-05-14T08:15:30-07:00"
     }
   ]
 }

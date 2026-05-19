@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-19T09:30:40.392Z",
+  "generated_at": "2026-05-19T14:43:27.612Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "hn_url": "https://news.ycombinator.com/item?id=48179677",
-      "points": 632,
-      "comments": 309,
-      "created_ts": 1779111213,
-      "author": "zakirullin"
-    },
-    {
-      "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
-      "hn_url": "https://news.ycombinator.com/item?id=48178184",
-      "points": 321,
-      "comments": 132,
-      "created_ts": 1779103962,
-      "author": "stephenlthorn"
-    },
-    {
       "title": "Show HN: We missed Winamp, so we built an audio player for macOS",
       "url": "https://www.advanced-research.net/180db",
       "hn_url": "https://news.ycombinator.com/item?id=48184214",
-      "points": 61,
-      "comments": 65,
+      "points": 67,
+      "comments": 71,
       "created_ts": 1779132033,
       "author": "surganov"
     },
@@ -34,7 +16,7 @@
       "title": "Show HN: InsForge – Open-source Heroku for coding agents",
       "url": "https://github.com/InsForge/InsForge",
       "hn_url": "https://news.ycombinator.com/item?id=48181342",
-      "points": 45,
+      "points": 49,
       "comments": 6,
       "created_ts": 1779118842,
       "author": "mrcoldbrew"
@@ -43,55 +25,64 @@
       "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
       "url": "https://github.com/harmont-dev/hsrs",
       "hn_url": "https://news.ycombinator.com/item?id=48189044",
-      "points": 27,
-      "comments": 2,
+      "points": 47,
+      "comments": 3,
       "created_ts": 1779163569,
       "author": "suis_siva"
+    },
+    {
+      "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+      "url": "https://github.com/vostride/id-agent",
+      "hn_url": "https://news.ycombinator.com/item?id=48191852",
+      "points": 27,
+      "comments": 46,
+      "created_ts": 1779189416,
+      "author": "pranshuchittora"
     },
     {
       "title": "Show HN: Beacon - The open-source layer for local AI agent visibility",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "hn_url": "https://news.ycombinator.com/item?id=48183793",
-      "points": 19,
-      "comments": 7,
+      "points": 20,
+      "comments": 8,
       "created_ts": 1779129955,
       "author": "jqdsouza"
+    },
+    {
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "url": "https://setpose.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48193474",
+      "points": 16,
+      "comments": 11,
+      "created_ts": 1779199459,
+      "author": "augustvdv"
     }
   ],
   "hn_front": [
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48182754",
-      "points": 952,
-      "comments": 468,
-      "created_ts": 1779125902,
-      "author": "nycdatasci"
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=48188183",
+      "points": 577,
+      "comments": 472,
+      "created_ts": 1779154242,
+      "author": "yakkomajuri"
     },
     {
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "hn_url": "https://news.ycombinator.com/item?id=48182281",
-      "points": 450,
-      "comments": 301,
+      "points": 492,
+      "comments": 350,
       "created_ts": 1779123681,
       "author": "tomeraberbach"
-    },
-    {
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=48188183",
-      "points": 420,
-      "comments": 279,
-      "created_ts": 1779154242,
-      "author": "yakkomajuri"
     },
     {
       "title": "Click (2016)",
       "url": "https://clickclickclick.click/",
       "hn_url": "https://news.ycombinator.com/item?id=48187054",
-      "points": 298,
-      "comments": 71,
+      "points": 337,
+      "comments": 85,
       "created_ts": 1779145382,
       "author": "andrewzeno"
     },
@@ -99,84 +90,99 @@
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
       "hn_url": "https://news.ycombinator.com/item?id=48183301",
-      "points": 260,
-      "comments": 209,
+      "points": 316,
+      "comments": 235,
       "created_ts": 1779127938,
       "author": "lukaspetersson"
     },
     {
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=48179021",
-      "points": 224,
-      "comments": 123,
-      "created_ts": 1779108568,
-      "author": "topherjaynes"
+      "title": "Gaussian Splat of a Strawberry",
+      "url": "https://superspl.at/scene/84df8849",
+      "hn_url": "https://news.ycombinator.com/item?id=48191602",
+      "points": 253,
+      "comments": 104,
+      "created_ts": 1779187127,
+      "author": "danybittel"
     },
     {
-      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48187201",
-      "points": 220,
-      "comments": 130,
-      "created_ts": 1779146290,
-      "author": "cucho"
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48188787",
+      "points": 230,
+      "comments": 19,
+      "created_ts": 1779160665,
+      "author": "pabs3"
     },
     {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "hn_url": "https://news.ycombinator.com/item?id=48184322",
-      "points": 157,
-      "comments": 37,
-      "created_ts": 1779132445,
-      "author": "veqq"
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "hn_url": "https://news.ycombinator.com/item?id=48189368",
+      "points": 217,
+      "comments": 141,
+      "created_ts": 1779167089,
+      "author": "theanonymousone"
     },
     {
       "title": "Cursor Introduces Composer 2.5",
       "url": "https://cursor.com/blog/composer-2-5",
       "hn_url": "https://news.ycombinator.com/item?id=48182516",
-      "points": 143,
-      "comments": 99,
+      "points": 213,
+      "comments": 162,
       "created_ts": 1779124843,
       "author": "asar"
     },
     {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "url": "https://github.com/2b2tplace/1m_release",
-      "hn_url": "https://news.ycombinator.com/item?id=48180204",
-      "points": 141,
-      "comments": 85,
-      "created_ts": 1779113587,
-      "author": "exploraz"
+      "title": "New accessibility features powered by Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "hn_url": "https://news.ycombinator.com/item?id=48192224",
+      "points": 213,
+      "comments": 97,
+      "created_ts": 1779192258,
+      "author": "interpol_p"
     },
     {
-      "title": "Peter Salus has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48188665",
-      "points": 131,
-      "comments": 10,
-      "created_ts": 1779159402,
-      "author": "speckx"
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=48184322",
+      "points": 174,
+      "comments": 42,
+      "created_ts": 1779132445,
+      "author": "veqq"
+    },
+    {
+      "title": "OpenBSD 7.9 Released",
+      "url": "https://www.openbsd.org/79.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48192882",
+      "points": 126,
+      "comments": 52,
+      "created_ts": 1779196311,
+      "author": "bradley_taunt"
     }
   ],
   "ph_today": [
     {
-      "title": "Lyricly",
-      "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
+      "title": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach",
       "tagline": "",
-      "pub_date": "2026-05-16T07:12:12-07:00"
+      "pub_date": "2026-04-29T20:13:27-07:00"
     },
     {
-      "title": "CtrlOps",
-      "url": "https://www.producthunt.com/products/ctrlops",
+      "title": "Vocabi",
+      "url": "https://www.producthunt.com/products/vocabi",
       "tagline": "",
-      "pub_date": "2026-05-16T10:43:18-07:00"
+      "pub_date": "2026-05-16T09:03:32-07:00"
     },
     {
-      "title": "Mantle Chat",
-      "url": "https://www.producthunt.com/products/mantle-chat",
+      "title": "Voker",
+      "url": "https://www.producthunt.com/products/voker",
       "tagline": "",
-      "pub_date": "2026-04-01T07:17:37-07:00"
+      "pub_date": "2026-05-13T16:52:55-07:00"
+    },
+    {
+      "title": "ShioriCode",
+      "url": "https://www.producthunt.com/products/shioricode",
+      "tagline": "",
+      "pub_date": "2026-05-12T14:59:38-07:00"
     },
     {
       "title": "Drizz",
@@ -191,76 +197,10 @@
       "pub_date": "2026-05-16T22:10:40-07:00"
     },
     {
-      "title": "Thinnest AI",
-      "url": "https://www.producthunt.com/products/thinnest-ai",
+      "title": "Monocle 3.5 for macOS",
+      "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
       "tagline": "",
-      "pub_date": "2026-05-18T22:09:58-07:00"
-    },
-    {
-      "title": "Buggyverse",
-      "url": "https://www.producthunt.com/products/buggyverse",
-      "tagline": "",
-      "pub_date": "2026-05-14T21:27:19-07:00"
-    },
-    {
-      "title": "Voker",
-      "url": "https://www.producthunt.com/products/voker",
-      "tagline": "",
-      "pub_date": "2026-05-13T16:52:55-07:00"
-    },
-    {
-      "title": "calog.cc",
-      "url": "https://www.producthunt.com/products/calog-cc",
-      "tagline": "",
-      "pub_date": "2026-05-08T09:43:18-07:00"
-    },
-    {
-      "title": "Hanami",
-      "url": "https://www.producthunt.com/products/hanami-2",
-      "tagline": "",
-      "pub_date": "2026-05-06T21:47:45-07:00"
-    },
-    {
-      "title": "Starchild-1 by Odyssey",
-      "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
-      "tagline": "",
-      "pub_date": "2026-05-18T10:03:44-07:00"
-    },
-    {
-      "title": "VWFNDR™ + MBL",
-      "url": "https://www.producthunt.com/products/vwfndr-mbl",
-      "tagline": "",
-      "pub_date": "2026-05-18T23:56:15-07:00"
-    },
-    {
-      "title": "imgproxy v4",
-      "url": "https://www.producthunt.com/products/imgproxy",
-      "tagline": "",
-      "pub_date": "2026-05-11T10:36:04-07:00"
-    },
-    {
-      "title": "LearnHouse",
-      "url": "https://www.producthunt.com/products/learnhouse",
-      "tagline": "",
-      "pub_date": "2026-05-17T09:16:06-07:00"
-    },
-    {
-      "title": "CaseGap AI",
-      "url": "https://www.producthunt.com/products/casegap-ai",
-      "tagline": "",
-      "pub_date": "2026-05-17T10:12:24-07:00"
-    },
-    {
-      "title": "Insights by Omnia",
-      "url": "https://www.producthunt.com/products/omnia-2",
-      "tagline": "",
-      "pub_date": "2026-05-18T08:15:28-07:00"
-    },
-    {
-      "title": "PollyReach",
-      "url": "https://www.producthunt.com/products/pollyreach",
-      "tagline": "",
-      "pub_date": "2026-04-29T20:13:27-07:00"
+      "pub_date": "2026-05-18T18:36:37-07:00"
     },
     {
       "title": "Motion",
@@ -269,34 +209,40 @@
       "pub_date": "2026-05-11T17:31:35-07:00"
     },
     {
-      "title": "Papr Graph",
-      "url": "https://www.producthunt.com/products/papr-3",
+      "title": "Hanami",
+      "url": "https://www.producthunt.com/products/hanami-2",
       "tagline": "",
-      "pub_date": "2026-05-16T07:18:36-07:00"
+      "pub_date": "2026-05-06T21:47:45-07:00"
     },
     {
-      "title": "Composer 2.5",
-      "url": "https://www.producthunt.com/products/cursor",
+      "title": "CtrlOps",
+      "url": "https://www.producthunt.com/products/ctrlops",
       "tagline": "",
-      "pub_date": "2026-05-18T19:39:57-07:00"
+      "pub_date": "2026-05-16T10:43:18-07:00"
     },
     {
-      "title": "Trainer",
-      "url": "https://www.producthunt.com/products/trainer-2",
+      "title": "Mantle Chat",
+      "url": "https://www.producthunt.com/products/mantle-chat",
       "tagline": "",
-      "pub_date": "2026-05-18T20:01:36-07:00"
+      "pub_date": "2026-04-01T07:17:37-07:00"
     },
     {
-      "title": "Cosmic Insights",
-      "url": "https://www.producthunt.com/products/cosmic",
+      "title": "LearnHouse",
+      "url": "https://www.producthunt.com/products/learnhouse",
       "tagline": "",
-      "pub_date": "2026-05-16T21:08:23-07:00"
+      "pub_date": "2026-05-17T09:16:06-07:00"
     },
     {
-      "title": "Monocle 3.5 for macOS",
-      "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+      "title": "Insights by Omnia",
+      "url": "https://www.producthunt.com/products/omnia-2",
       "tagline": "",
-      "pub_date": "2026-05-18T18:36:37-07:00"
+      "pub_date": "2026-05-18T08:15:28-07:00"
+    },
+    {
+      "title": "calog.cc",
+      "url": "https://www.producthunt.com/products/calog-cc",
+      "tagline": "",
+      "pub_date": "2026-05-08T09:43:18-07:00"
     },
     {
       "title": "Haystack",
@@ -305,10 +251,10 @@
       "pub_date": "2026-05-17T11:55:22-07:00"
     },
     {
-      "title": "Vocabi",
-      "url": "https://www.producthunt.com/products/vocabi",
+      "title": "imgproxy v4",
+      "url": "https://www.producthunt.com/products/imgproxy",
       "tagline": "",
-      "pub_date": "2026-05-16T09:03:32-07:00"
+      "pub_date": "2026-05-11T10:36:04-07:00"
     },
     {
       "title": "CLI Market",
@@ -317,22 +263,76 @@
       "pub_date": "2026-05-18T19:55:22-07:00"
     },
     {
+      "title": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "tagline": "",
+      "pub_date": "2026-05-18T19:39:57-07:00"
+    },
+    {
+      "title": "Starchild-1 by Odyssey",
+      "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+      "tagline": "",
+      "pub_date": "2026-05-18T10:03:44-07:00"
+    },
+    {
+      "title": "Thinnest AI",
+      "url": "https://www.producthunt.com/products/thinnest-ai",
+      "tagline": "",
+      "pub_date": "2026-05-18T22:09:58-07:00"
+    },
+    {
       "title": "AutoShelf",
       "url": "https://www.producthunt.com/products/autoshelf",
       "tagline": "",
       "pub_date": "2026-05-18T04:35:20-07:00"
     },
     {
-      "title": "ShioriCode",
-      "url": "https://www.producthunt.com/products/shioricode",
+      "title": "Papr Graph",
+      "url": "https://www.producthunt.com/products/papr-3",
       "tagline": "",
-      "pub_date": "2026-05-12T14:59:38-07:00"
+      "pub_date": "2026-05-16T07:18:36-07:00"
+    },
+    {
+      "title": "Cosmic Insights",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "tagline": "",
+      "pub_date": "2026-05-16T21:08:23-07:00"
+    },
+    {
+      "title": "Trainer",
+      "url": "https://www.producthunt.com/products/trainer-2",
+      "tagline": "",
+      "pub_date": "2026-05-18T20:01:36-07:00"
+    },
+    {
+      "title": "Buggyverse",
+      "url": "https://www.producthunt.com/products/buggyverse",
+      "tagline": "",
+      "pub_date": "2026-05-14T21:27:19-07:00"
     },
     {
       "title": "Agora-1 by Odyssey",
       "url": "https://www.producthunt.com/products/odyssey-5",
       "tagline": "",
       "pub_date": "2026-05-18T20:57:01-07:00"
+    },
+    {
+      "title": "Lyricly",
+      "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
+      "tagline": "",
+      "pub_date": "2026-05-16T07:12:12-07:00"
+    },
+    {
+      "title": "VWFNDR™ + MBL",
+      "url": "https://www.producthunt.com/products/vwfndr-mbl",
+      "tagline": "",
+      "pub_date": "2026-05-18T23:56:15-07:00"
+    },
+    {
+      "title": "CaseGap AI",
+      "url": "https://www.producthunt.com/products/casegap-ai",
+      "tagline": "",
+      "pub_date": "2026-05-17T10:12:24-07:00"
     },
     {
       "title": "Triggered Agents by Adaptive",

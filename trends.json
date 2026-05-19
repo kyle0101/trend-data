@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T19:28:21.785Z",
+  "generated_at": "2026-05-19T02:37:16.307Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
       "hn_url": "https://news.ycombinator.com/item?id=48179677",
-      "points": 386,
-      "comments": 205,
+      "points": 557,
+      "comments": 281,
       "created_ts": 1779111213,
       "author": "zakirullin"
     },
@@ -16,149 +16,176 @@
       "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
       "url": "https://github.com/stephenlthorn/auto-identity-remove",
       "hn_url": "https://news.ycombinator.com/item?id=48178184",
-      "points": 309,
-      "comments": 125,
+      "points": 316,
+      "comments": 130,
       "created_ts": 1779103962,
       "author": "stephenlthorn"
+    },
+    {
+      "title": "Show HN: We missed Winamp, so we built an audio player for macOS",
+      "url": "https://www.advanced-research.net/180db",
+      "hn_url": "https://news.ycombinator.com/item?id=48184214",
+      "points": 57,
+      "comments": 61,
+      "created_ts": 1779132033,
+      "author": "surganov"
     },
     {
       "title": "Show HN: InsForge – Open-source Heroku for coding agents",
       "url": "https://github.com/InsForge/InsForge",
       "hn_url": "https://news.ycombinator.com/item?id=48181342",
-      "points": 18,
-      "comments": 3,
+      "points": 34,
+      "comments": 6,
       "created_ts": 1779118842,
       "author": "mrcoldbrew"
+    },
+    {
+      "title": "Show HN: Beacon - The open-source layer for local AI agent visibility",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "hn_url": "https://news.ycombinator.com/item?id=48183793",
+      "points": 17,
+      "comments": 7,
+      "created_ts": 1779129955,
+      "author": "jqdsouza"
     }
   ],
   "hn_front": [
     {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "hn_url": "https://news.ycombinator.com/item?id=48179677",
-      "points": 386,
-      "comments": 205,
-      "created_ts": 1779111213,
-      "author": "zakirullin"
-    },
-    {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "hn_url": "https://news.ycombinator.com/item?id=48182754",
-      "points": 363,
-      "comments": 170,
+      "points": 808,
+      "comments": 424,
       "created_ts": 1779125902,
       "author": "nycdatasci"
+    },
+    {
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "hn_url": "https://news.ycombinator.com/item?id=48179677",
+      "points": 557,
+      "comments": 281,
+      "created_ts": 1779111213,
+      "author": "zakirullin"
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
       "hn_url": "https://news.ycombinator.com/item?id=48181125",
-      "points": 288,
-      "comments": 136,
+      "points": 420,
+      "comments": 191,
       "created_ts": 1779117859,
       "author": "ildari"
-    },
-    {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "hn_url": "https://news.ycombinator.com/item?id=48175140",
-      "points": 248,
-      "comments": 626,
-      "created_ts": 1779073174,
-      "author": "ahalbert4"
-    },
-    {
-      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "hn_url": "https://news.ycombinator.com/item?id=48181041",
-      "points": 243,
-      "comments": 25,
-      "created_ts": 1779117499,
-      "author": "gok"
-    },
-    {
-      "title": "Actually, democracy dies in H.R.",
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48180091",
-      "points": 232,
-      "comments": 165,
-      "created_ts": 1779113066,
-      "author": "mitchbob"
-    },
-    {
-      "title": "Project Glasswing: what Mythos showed us",
-      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "hn_url": "https://news.ycombinator.com/item?id=48179732",
-      "points": 191,
-      "comments": 80,
-      "created_ts": 1779111431,
-      "author": "Fysi"
     },
     {
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "hn_url": "https://news.ycombinator.com/item?id=48182281",
-      "points": 185,
-      "comments": 118,
+      "points": 372,
+      "comments": 255,
       "created_ts": 1779123681,
       "author": "tomeraberbach"
     },
     {
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "hn_url": "https://news.ycombinator.com/item?id=48179183",
-      "points": 178,
-      "comments": 46,
-      "created_ts": 1779109278,
-      "author": "bauc"
+      "title": "Project Glasswing: what Mythos showed us",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=48179732",
+      "points": 292,
+      "comments": 108,
+      "created_ts": 1779111431,
+      "author": "Fysi"
     },
     {
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "hn_url": "https://news.ycombinator.com/item?id=48178692",
-      "points": 175,
-      "comments": 85,
-      "created_ts": 1779106850,
-      "author": "jonbaer"
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "hn_url": "https://news.ycombinator.com/item?id=48182592",
+      "points": 266,
+      "comments": 437,
+      "created_ts": 1779125154,
+      "author": "srameshc"
     },
     {
-      "title": "Qwen 3.7 Preview",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
-      "hn_url": "https://news.ycombinator.com/item?id=48181877",
-      "points": 112,
-      "comments": 44,
-      "created_ts": 1779121451,
-      "author": "theanonymousone"
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48184350",
+      "points": 233,
+      "comments": 92,
+      "created_ts": 1779132539,
+      "author": "cdrnsf"
     },
     {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "url": "https://github.com/2b2tplace/1m_release",
-      "hn_url": "https://news.ycombinator.com/item?id=48180204",
-      "points": 108,
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "hn_url": "https://news.ycombinator.com/item?id=48187054",
+      "points": 209,
+      "comments": 49,
+      "created_ts": 1779145382,
+      "author": "andrewzeno"
+    },
+    {
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "hn_url": "https://news.ycombinator.com/item?id=48183301",
+      "points": 177,
+      "comments": 163,
+      "created_ts": 1779127938,
+      "author": "lukaspetersson"
+    },
+    {
+      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+      "hn_url": "https://news.ycombinator.com/item?id=48184635",
+      "points": 136,
+      "comments": 63,
+      "created_ts": 1779133809,
+      "author": "Lihh27"
+    },
+    {
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=48184322",
+      "points": 134,
+      "comments": 28,
+      "created_ts": 1779132445,
+      "author": "veqq"
+    },
+    {
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48187201",
+      "points": 118,
       "comments": 70,
-      "created_ts": 1779113587,
-      "author": "exploraz"
+      "created_ts": 1779146290,
+      "author": "cucho"
+    },
+    {
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "hn_url": "https://news.ycombinator.com/item?id=48178378",
+      "points": 110,
+      "comments": 29,
+      "created_ts": 1779105065,
+      "author": "SVI"
     }
   ],
   "ph_today": [
     {
-      "title": "LobeHub",
-      "url": "https://www.producthunt.com/products/lobehub",
+      "title": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3",
       "tagline": "",
-      "pub_date": "2026-05-15T02:48:13-07:00"
+      "pub_date": "2026-05-17T21:05:57-07:00"
     },
     {
-      "title": "SizzleAir",
-      "url": "https://www.producthunt.com/products/sizzleair",
+      "title": "Origio",
+      "url": "https://www.producthunt.com/products/origio",
       "tagline": "",
-      "pub_date": "2026-05-17T06:10:10-07:00"
+      "pub_date": "2026-05-03T10:25:18-07:00"
     },
     {
-      "title": "Shadow",
-      "url": "https://www.producthunt.com/products/shadow-4",
+      "title": "Agentspan",
+      "url": "https://www.producthunt.com/products/agentspan",
       "tagline": "",
-      "pub_date": "2026-05-08T00:41:32-07:00"
+      "pub_date": "2026-05-14T19:09:00-07:00"
     },
     {
       "title": "QuickRight",
@@ -173,46 +200,16 @@
       "pub_date": "2026-04-15T06:27:47-07:00"
     },
     {
-      "title": "Krea 2",
-      "url": "https://www.producthunt.com/products/krea",
-      "tagline": "",
-      "pub_date": "2026-05-17T21:49:16-07:00"
-    },
-    {
       "title": "LandingHero AI",
       "url": "https://www.producthunt.com/products/landinghero-ai-2",
       "tagline": "",
       "pub_date": "2026-04-12T08:46:55-07:00"
     },
     {
-      "title": "M1 by Montage",
-      "url": "https://www.producthunt.com/products/montage-3",
+      "title": "Shadow",
+      "url": "https://www.producthunt.com/products/shadow-4",
       "tagline": "",
-      "pub_date": "2026-05-17T21:05:57-07:00"
-    },
-    {
-      "title": "Draft",
-      "url": "https://www.producthunt.com/products/draft-12",
-      "tagline": "",
-      "pub_date": "2026-04-29T20:22:16-07:00"
-    },
-    {
-      "title": "AnyFrame",
-      "url": "https://www.producthunt.com/products/anyframe-2",
-      "tagline": "",
-      "pub_date": "2026-05-17T23:49:44-07:00"
-    },
-    {
-      "title": "Polarity",
-      "url": "https://www.producthunt.com/products/polarity-2",
-      "tagline": "",
-      "pub_date": "2026-05-17T20:56:06-07:00"
-    },
-    {
-      "title": "Agentspan",
-      "url": "https://www.producthunt.com/products/agentspan",
-      "tagline": "",
-      "pub_date": "2026-05-14T19:09:00-07:00"
+      "pub_date": "2026-05-08T00:41:32-07:00"
     },
     {
       "title": "Moody",
@@ -221,10 +218,16 @@
       "pub_date": "2026-05-17T07:31:31-07:00"
     },
     {
-      "title": "Origio",
-      "url": "https://www.producthunt.com/products/origio",
+      "title": "Krea 2",
+      "url": "https://www.producthunt.com/products/krea",
       "tagline": "",
-      "pub_date": "2026-05-03T10:25:18-07:00"
+      "pub_date": "2026-05-17T21:49:16-07:00"
+    },
+    {
+      "title": "Draft",
+      "url": "https://www.producthunt.com/products/draft-12",
+      "tagline": "",
+      "pub_date": "2026-04-29T20:22:16-07:00"
     },
     {
       "title": "ReactVision Studio",
@@ -233,10 +236,16 @@
       "pub_date": "2026-05-17T05:40:43-07:00"
     },
     {
-      "title": "pixserp",
-      "url": "https://www.producthunt.com/products/pixserp",
+      "title": "Polarity",
+      "url": "https://www.producthunt.com/products/polarity-2",
       "tagline": "",
-      "pub_date": "2026-05-16T05:11:38-07:00"
+      "pub_date": "2026-05-17T20:56:06-07:00"
+    },
+    {
+      "title": "Triggered Agents by Adaptive",
+      "url": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
+      "tagline": "",
+      "pub_date": "2026-04-04T02:50:38-07:00"
     },
     {
       "title": "Searchad.ai",
@@ -245,16 +254,52 @@
       "pub_date": "2026-05-16T23:59:00-07:00"
     },
     {
+      "title": "pixserp",
+      "url": "https://www.producthunt.com/products/pixserp",
+      "tagline": "",
+      "pub_date": "2026-05-16T05:11:38-07:00"
+    },
+    {
+      "title": "LobeHub",
+      "url": "https://www.producthunt.com/products/lobehub",
+      "tagline": "",
+      "pub_date": "2026-05-15T02:48:13-07:00"
+    },
+    {
+      "title": "AnyFrame",
+      "url": "https://www.producthunt.com/products/anyframe-2",
+      "tagline": "",
+      "pub_date": "2026-05-17T23:49:44-07:00"
+    },
+    {
       "title": "Voiser AI",
       "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
       "tagline": "",
       "pub_date": "2026-05-17T23:28:32-07:00"
     },
     {
-      "title": "Triggered Agents by Adaptive",
-      "url": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
+      "title": "SizzleAir",
+      "url": "https://www.producthunt.com/products/sizzleair",
       "tagline": "",
-      "pub_date": "2026-04-04T02:50:38-07:00"
+      "pub_date": "2026-05-17T06:10:10-07:00"
+    },
+    {
+      "title": "SUN-to-Spotify",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "tagline": "",
+      "pub_date": "2025-03-16T22:09:16-07:00"
+    },
+    {
+      "title": "Vivago Video Agent",
+      "url": "https://www.producthunt.com/products/viva",
+      "tagline": "",
+      "pub_date": "2026-05-13T06:02:37-07:00"
+    },
+    {
+      "title": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
+      "tagline": "",
+      "pub_date": "2026-04-30T10:44:29-07:00"
     },
     {
       "title": "Kirki",
@@ -269,40 +314,10 @@
       "pub_date": "2026-05-11T01:34:09-07:00"
     },
     {
-      "title": "SUN-to-Spotify",
-      "url": "https://www.producthunt.com/products/sun-ai",
-      "tagline": "",
-      "pub_date": "2025-03-16T22:09:16-07:00"
-    },
-    {
-      "title": "Fere AI",
-      "url": "https://www.producthunt.com/products/fere-ai",
-      "tagline": "",
-      "pub_date": "2026-04-30T10:44:29-07:00"
-    },
-    {
-      "title": "Vivago Video Agent",
-      "url": "https://www.producthunt.com/products/viva",
-      "tagline": "",
-      "pub_date": "2026-05-13T06:02:37-07:00"
-    },
-    {
       "title": "Raybeam",
       "url": "https://www.producthunt.com/products/raybeam",
       "tagline": "",
       "pub_date": "2026-05-15T21:29:06-07:00"
-    },
-    {
-      "title": "M5Stack PaperColor",
-      "url": "https://www.producthunt.com/products/m5stack",
-      "tagline": "",
-      "pub_date": "2026-05-15T07:37:56-07:00"
-    },
-    {
-      "title": "ChatGPT for Personal Finance",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-05-15T12:16:51-07:00"
     },
     {
       "title": "Agentmemory",
@@ -311,16 +326,28 @@
       "pub_date": "2026-05-11T02:53:56-07:00"
     },
     {
-      "title": "Wring",
-      "url": "https://www.producthunt.com/products/wring",
-      "tagline": "",
-      "pub_date": "2026-05-15T07:24:23-07:00"
-    },
-    {
       "title": "Loova Agents",
       "url": "https://www.producthunt.com/products/loova-agents",
       "tagline": "",
       "pub_date": "2026-05-09T23:39:10-07:00"
+    },
+    {
+      "title": "ChatGPT for Personal Finance",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-05-15T12:16:51-07:00"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite",
+      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
+      "tagline": "",
+      "pub_date": "2026-05-11T00:41:05-07:00"
+    },
+    {
+      "title": "Wring",
+      "url": "https://www.producthunt.com/products/wring",
+      "tagline": "",
+      "pub_date": "2026-05-15T07:24:23-07:00"
     }
   ]
 }

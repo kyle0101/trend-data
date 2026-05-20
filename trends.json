@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-05-20T08:56:41.599Z",
+  "generated_at": "2026-05-20T14:43:55.375Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "hn_url": "https://news.ycombinator.com/item?id=48191602",
-      "points": 497,
-      "comments": 190,
-      "created_ts": 1779187127,
-      "author": "danybittel"
-    },
-    {
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "hn_url": "https://news.ycombinator.com/item?id=48192383",
-      "points": 463,
-      "comments": 170,
-      "created_ts": 1779193387,
-      "author": "zambelli"
-    },
-    {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "url": "https://setpose.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48193474",
-      "points": 78,
-      "comments": 30,
-      "created_ts": 1779199459,
-      "author": "augustvdv"
-    },
-    {
       "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
       "url": "https://superlog.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=48195021",
-      "points": 65,
+      "points": 66,
       "comments": 44,
       "created_ts": 1779206046,
       "author": "Magnanten"
     },
     {
-      "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
-      "url": "https://github.com/vostride/id-agent",
-      "hn_url": "https://news.ycombinator.com/item?id=48191852",
-      "points": 36,
-      "comments": 52,
-      "created_ts": 1779189416,
-      "author": "pranshuchittora"
-    },
-    {
       "title": "Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB",
       "url": "https://github.com/xataio/deltax",
       "hn_url": "https://news.ycombinator.com/item?id=48197390",
-      "points": 30,
+      "points": 35,
       "comments": 1,
       "created_ts": 1779215770,
       "author": "tee-es-gee"
@@ -61,8 +25,8 @@
       "title": "Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal",
       "url": "https://github.com/Benexl/yt-x",
       "hn_url": "https://news.ycombinator.com/item?id=48198425",
-      "points": 20,
-      "comments": 2,
+      "points": 25,
+      "comments": 3,
       "created_ts": 1779219871,
       "author": "Benex254"
     },
@@ -78,20 +42,11 @@
   ],
   "hn_front": [
     {
-      "title": "I’ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "hn_url": "https://news.ycombinator.com/item?id=48194352",
-      "points": 1307,
-      "comments": 545,
-      "created_ts": 1779203265,
-      "author": "dmarcos"
-    },
-    {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "hn_url": "https://news.ycombinator.com/item?id=48196570",
-      "points": 760,
-      "comments": 537,
+      "points": 880,
+      "comments": 603,
       "created_ts": 1779212625,
       "author": "spectraldrift"
     },
@@ -99,189 +54,153 @@
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48195009",
-      "points": 754,
-      "comments": 168,
+      "points": 877,
+      "comments": 189,
       "created_ts": 1779206018,
       "author": "andreww591"
-    },
-    {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=48192224",
-      "points": 667,
-      "comments": 345,
-      "created_ts": 1779192258,
-      "author": "interpol_p"
-    },
-    {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "hn_url": "https://news.ycombinator.com/item?id=48197980",
-      "points": 641,
-      "comments": 198,
-      "created_ts": 1779218006,
-      "author": "ortusdux"
     },
     {
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "hn_url": "https://news.ycombinator.com/item?id=48197370",
-      "points": 522,
-      "comments": 699,
+      "points": 626,
+      "comments": 858,
       "created_ts": 1779215667,
       "author": "berkeleyjunk"
-    },
-    {
-      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "hn_url": "https://news.ycombinator.com/item?id=48201484",
-      "points": 472,
-      "comments": 298,
-      "created_ts": 1779236634,
-      "author": "aarondf"
-    },
-    {
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "hn_url": "https://news.ycombinator.com/item?id=48192383",
-      "points": 463,
-      "comments": 170,
-      "created_ts": 1779193387,
-      "author": "zambelli"
-    },
-    {
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "url": "https://twitter.com/github/status/2056884788179726685",
-      "hn_url": "https://news.ycombinator.com/item?id=48201316",
-      "points": 416,
-      "comments": 216,
-      "created_ts": 1779235278,
-      "author": "splenditer"
-    },
-    {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "hn_url": "https://news.ycombinator.com/item?id=48198291",
-      "points": 274,
-      "comments": 142,
-      "created_ts": 1779219270,
-      "author": "smooke"
-    },
-    {
-      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "hn_url": "https://news.ycombinator.com/item?id=48200569",
-      "points": 265,
-      "comments": 150,
-      "created_ts": 1779229831,
-      "author": "janalsncm"
-    },
-    {
-      "title": "Mistral AI acquires Emmi AI",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=48197995",
-      "points": 254,
-      "comments": 72,
-      "created_ts": 1779218052,
-      "author": "doener"
-    },
-    {
-      "title": "Gemini CLI will stop working from June 18, 2026",
-      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "hn_url": "https://news.ycombinator.com/item?id=48196867",
-      "points": 198,
-      "comments": 104,
-      "created_ts": 1779213790,
-      "author": "primaprashant"
-    },
-    {
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "url": "https://fivethirtyeightindex.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48201973",
-      "points": 180,
-      "comments": 40,
-      "created_ts": 1779240859,
-      "author": "ChocMontePy"
     },
     {
       "title": "Everything in C is undefined behavior",
       "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
       "hn_url": "https://news.ycombinator.com/item?id=48203698",
-      "points": 150,
-      "comments": 122,
+      "points": 344,
+      "comments": 488,
       "created_ts": 1779257242,
       "author": "lycopodiopsida"
     },
     {
-      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-      "hn_url": "https://news.ycombinator.com/item?id=48194098",
-      "points": 125,
-      "comments": 197,
-      "created_ts": 1779202242,
-      "author": "gmays"
+      "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "hn_url": "https://news.ycombinator.com/item?id=48200569",
+      "points": 336,
+      "comments": 207,
+      "created_ts": 1779229831,
+      "author": "janalsncm"
+    },
+    {
+      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "hn_url": "https://news.ycombinator.com/item?id=48206768",
+      "points": 324,
+      "comments": 116,
+      "created_ts": 1779281021,
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "hn_url": "https://news.ycombinator.com/item?id=48198291",
+      "points": 312,
+      "comments": 168,
+      "created_ts": 1779219270,
+      "author": "smooke"
+    },
+    {
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "hn_url": "https://news.ycombinator.com/item?id=48196867",
+      "points": 312,
+      "comments": 162,
+      "created_ts": 1779213790,
+      "author": "primaprashant"
+    },
+    {
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48197995",
+      "points": 298,
+      "comments": 90,
+      "created_ts": 1779218052,
+      "author": "doener"
+    },
+    {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48201973",
+      "points": 293,
+      "comments": 68,
+      "created_ts": 1779240859,
+      "author": "ChocMontePy"
+    },
+    {
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48207004",
+      "points": 262,
+      "comments": 254,
+      "created_ts": 1779282150,
+      "author": "healsdata"
+    },
+    {
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "hn_url": "https://news.ycombinator.com/item?id=48202047",
+      "points": 225,
+      "comments": 109,
+      "created_ts": 1779241386,
+      "author": "ranit"
+    },
+    {
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "hn_url": "https://news.ycombinator.com/item?id=48205626",
+      "points": 223,
+      "comments": 85,
+      "created_ts": 1779273302,
+      "author": "kevinsimper"
+    },
+    {
+      "title": "College students drown out AI-praising commencement speeches with boos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "hn_url": "https://news.ycombinator.com/item?id=48206241",
+      "points": 204,
+      "comments": 181,
+      "created_ts": 1779277892,
+      "author": "iancmceachern"
+    },
+    {
+      "title": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48205699",
+      "points": 200,
+      "comments": 64,
+      "created_ts": 1779274040,
+      "author": "robin_reala"
+    },
+    {
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "hn_url": "https://news.ycombinator.com/item?id=48203536",
+      "points": 123,
+      "comments": 34,
+      "created_ts": 1779255831,
+      "author": "darktoto"
+    },
+    {
+      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+      "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+      "hn_url": "https://news.ycombinator.com/item?id=48206640",
+      "points": 113,
+      "comments": 79,
+      "created_ts": 1779280258,
+      "author": "iamnothere"
     }
   ],
   "ph_today": [
-    {
-      "title": "Re_gent",
-      "url": "https://www.producthunt.com/products/re_gent",
-      "tagline": "",
-      "pub_date": "2026-05-14T05:19:20-07:00"
-    },
-    {
-      "title": "Glia",
-      "url": "https://www.producthunt.com/products/glia-2",
-      "tagline": "",
-      "pub_date": "2026-05-19T07:12:55-07:00"
-    },
-    {
-      "title": "Manus Scheduled Tasks 2.0",
-      "url": "https://www.producthunt.com/products/manus",
-      "tagline": "",
-      "pub_date": "2026-05-18T09:54:36-07:00"
-    },
-    {
-      "title": "Emdash",
-      "url": "https://www.producthunt.com/products/emdash",
-      "tagline": "",
-      "pub_date": "2026-05-18T11:26:05-07:00"
-    },
-    {
-      "title": "Supercut for Agents",
-      "url": "https://www.producthunt.com/products/supercut",
-      "tagline": "",
-      "pub_date": "2026-05-19T06:42:30-07:00"
-    },
     {
       "title": "StoreClaw",
       "url": "https://www.producthunt.com/products/storeclaw",
       "tagline": "",
       "pub_date": "2026-05-11T17:00:55-07:00"
-    },
-    {
-      "title": "GhostSnap",
-      "url": "https://www.producthunt.com/products/ghostsnap",
-      "tagline": "",
-      "pub_date": "2026-05-19T06:13:18-07:00"
-    },
-    {
-      "title": "Gemini Omni",
-      "url": "https://www.producthunt.com/products/gemini-omni-4",
-      "tagline": "",
-      "pub_date": "2026-05-19T12:39:26-07:00"
-    },
-    {
-      "title": "mailX by mailwarm (YC S20)",
-      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
-      "tagline": "",
-      "pub_date": "2026-04-28T04:51:53-07:00"
-    },
-    {
-      "title": "Runtime",
-      "url": "https://www.producthunt.com/products/runtime",
-      "tagline": "",
-      "pub_date": "2026-05-19T13:22:13-07:00"
     },
     {
       "title": "Viberia",
@@ -290,46 +209,16 @@
       "pub_date": "2026-05-18T22:50:33-07:00"
     },
     {
-      "title": "Multi-Claude",
-      "url": "https://www.producthunt.com/products/multi-claude",
+      "title": "GhostSnap",
+      "url": "https://www.producthunt.com/products/ghostsnap",
       "tagline": "",
-      "pub_date": "2026-05-18T20:49:40-07:00"
+      "pub_date": "2026-05-19T06:13:18-07:00"
     },
     {
-      "title": "Tophat by Shopify",
-      "url": "https://www.producthunt.com/products/tophat",
+      "title": "Glia",
+      "url": "https://www.producthunt.com/products/glia-2",
       "tagline": "",
-      "pub_date": "2026-04-02T18:02:02-07:00"
-    },
-    {
-      "title": "Hiro",
-      "url": "https://www.producthunt.com/products/hiro-2",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:15:40-07:00"
-    },
-    {
-      "title": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
-      "tagline": "",
-      "pub_date": "2026-05-09T14:52:22-07:00"
-    },
-    {
-      "title": "Chromtuner",
-      "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos",
-      "tagline": "",
-      "pub_date": "2026-05-16T11:09:36-07:00"
-    },
-    {
-      "title": "Insta360 Mic Pro",
-      "url": "https://www.producthunt.com/products/insta-360",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:03:21-07:00"
-    },
-    {
-      "title": "Owlish",
-      "url": "https://www.producthunt.com/products/owlish",
-      "tagline": "",
-      "pub_date": "2026-05-19T02:29:18-07:00"
+      "pub_date": "2026-05-19T07:12:55-07:00"
     },
     {
       "title": "Retina",
@@ -338,10 +227,130 @@
       "pub_date": "2026-05-15T18:00:18-07:00"
     },
     {
-      "title": "CtrlOps",
-      "url": "https://www.producthunt.com/products/ctrlops",
+      "title": "Manus Scheduled Tasks 2.0",
+      "url": "https://www.producthunt.com/products/manus",
       "tagline": "",
-      "pub_date": "2026-05-16T10:43:18-07:00"
+      "pub_date": "2026-05-18T09:54:36-07:00"
+    },
+    {
+      "title": "Skilled",
+      "url": "https://www.producthunt.com/products/skilled-2",
+      "tagline": "",
+      "pub_date": "2026-05-18T14:23:04-07:00"
+    },
+    {
+      "title": "Invenio",
+      "url": "https://www.producthunt.com/products/invenio",
+      "tagline": "",
+      "pub_date": "2026-05-19T07:28:34-07:00"
+    },
+    {
+      "title": "Tophat by Shopify",
+      "url": "https://www.producthunt.com/products/tophat",
+      "tagline": "",
+      "pub_date": "2026-04-02T18:02:02-07:00"
+    },
+    {
+      "title": "Re_gent",
+      "url": "https://www.producthunt.com/products/re_gent",
+      "tagline": "",
+      "pub_date": "2026-05-14T05:19:20-07:00"
+    },
+    {
+      "title": "Type Switch 3.0 for macOS",
+      "url": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
+      "tagline": "",
+      "pub_date": "2026-05-18T06:25:04-07:00"
+    },
+    {
+      "title": "LayerProof Kraft",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "tagline": "",
+      "pub_date": "2026-05-19T20:44:43-07:00"
+    },
+    {
+      "title": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
+      "tagline": "",
+      "pub_date": "2026-05-09T14:52:22-07:00"
+    },
+    {
+      "title": "Tether",
+      "url": "https://www.producthunt.com/products/tether-10",
+      "tagline": "",
+      "pub_date": "2026-05-19T08:23:27-07:00"
+    },
+    {
+      "title": "Gemini Omni",
+      "url": "https://www.producthunt.com/products/gemini-omni-4",
+      "tagline": "",
+      "pub_date": "2026-05-19T12:39:26-07:00"
+    },
+    {
+      "title": "Emdash",
+      "url": "https://www.producthunt.com/products/emdash",
+      "tagline": "",
+      "pub_date": "2026-05-18T11:26:05-07:00"
+    },
+    {
+      "title": "Insta360 Mic Pro",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:03:21-07:00"
+    },
+    {
+      "title": "Supercut for Agents",
+      "url": "https://www.producthunt.com/products/supercut",
+      "tagline": "",
+      "pub_date": "2026-05-19T06:42:30-07:00"
+    },
+    {
+      "title": "Chromtuner",
+      "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos",
+      "tagline": "",
+      "pub_date": "2026-05-16T11:09:36-07:00"
+    },
+    {
+      "title": "mailX by mailwarm",
+      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
+      "tagline": "",
+      "pub_date": "2026-04-28T04:51:53-07:00"
+    },
+    {
+      "title": "Multi-Claude",
+      "url": "https://www.producthunt.com/products/multi-claude",
+      "tagline": "",
+      "pub_date": "2026-05-18T20:49:40-07:00"
+    },
+    {
+      "title": "Owlish",
+      "url": "https://www.producthunt.com/products/owlish",
+      "tagline": "",
+      "pub_date": "2026-05-19T02:29:18-07:00"
+    },
+    {
+      "title": "Runtime",
+      "url": "https://www.producthunt.com/products/runtime",
+      "tagline": "",
+      "pub_date": "2026-05-19T13:22:13-07:00"
+    },
+    {
+      "title": "Haystack",
+      "url": "https://www.producthunt.com/products/haystack-editor",
+      "tagline": "",
+      "pub_date": "2026-05-17T11:55:22-07:00"
+    },
+    {
+      "title": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "tagline": "",
+      "pub_date": "2026-05-18T19:39:57-07:00"
+    },
+    {
+      "title": "AutoShelf",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "tagline": "",
+      "pub_date": "2026-05-18T04:35:20-07:00"
     },
     {
       "title": "imgproxy v4",
@@ -350,10 +359,10 @@
       "pub_date": "2026-05-11T10:36:04-07:00"
     },
     {
-      "title": "calog.cc",
-      "url": "https://www.producthunt.com/products/calog-cc",
+      "title": "LearnHouse",
+      "url": "https://www.producthunt.com/products/learnhouse",
       "tagline": "",
-      "pub_date": "2026-05-08T09:43:18-07:00"
+      "pub_date": "2026-05-17T09:16:06-07:00"
     },
     {
       "title": "PollyReach",
@@ -366,42 +375,6 @@
       "url": "https://www.producthunt.com/products/buggyverse",
       "tagline": "",
       "pub_date": "2026-05-14T21:27:19-07:00"
-    },
-    {
-      "title": "Cosmic Insights",
-      "url": "https://www.producthunt.com/products/cosmic",
-      "tagline": "",
-      "pub_date": "2026-05-16T21:08:23-07:00"
-    },
-    {
-      "title": "Lyricly",
-      "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
-      "tagline": "",
-      "pub_date": "2026-05-16T07:12:12-07:00"
-    },
-    {
-      "title": "Vocabi",
-      "url": "https://www.producthunt.com/products/vocabi",
-      "tagline": "",
-      "pub_date": "2026-05-16T09:03:32-07:00"
-    },
-    {
-      "title": "Agora-1 by Odyssey",
-      "url": "https://www.producthunt.com/products/odyssey-5",
-      "tagline": "",
-      "pub_date": "2026-05-18T20:57:01-07:00"
-    },
-    {
-      "title": "VWFNDR™ + MBL",
-      "url": "https://www.producthunt.com/products/vwfndr-mbl",
-      "tagline": "",
-      "pub_date": "2026-05-18T23:56:15-07:00"
-    },
-    {
-      "title": "Composer 2.5",
-      "url": "https://www.producthunt.com/products/cursor",
-      "tagline": "",
-      "pub_date": "2026-05-18T19:39:57-07:00"
     }
   ]
 }

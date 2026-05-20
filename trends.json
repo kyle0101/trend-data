@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T19:45:10.283Z",
+  "generated_at": "2026-05-20T02:37:49.461Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,17 +7,26 @@
       "title": "Show HN: Gaussian Splat of a Strawberry",
       "url": "https://superspl.at/scene/84df8849",
       "hn_url": "https://news.ycombinator.com/item?id=48191602",
-      "points": 418,
-      "comments": 165,
+      "points": 482,
+      "comments": 186,
       "created_ts": 1779187127,
       "author": "danybittel"
+    },
+    {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "hn_url": "https://news.ycombinator.com/item?id=48192383",
+      "points": 288,
+      "comments": 110,
+      "created_ts": 1779193387,
+      "author": "zambelli"
     },
     {
       "title": "Show HN: I made a 3D pose maker for artists",
       "url": "https://setpose.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48193474",
-      "points": 61,
-      "comments": 28,
+      "points": 70,
+      "comments": 30,
       "created_ts": 1779199459,
       "author": "augustvdv"
     },
@@ -34,8 +43,8 @@
       "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
       "url": "https://superlog.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=48195021",
-      "points": 33,
-      "comments": 31,
+      "points": 48,
+      "comments": 43,
       "created_ts": 1779206046,
       "author": "Magnanten"
     },
@@ -43,16 +52,34 @@
       "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
       "url": "https://github.com/vostride/id-agent",
       "hn_url": "https://news.ycombinator.com/item?id=48191852",
-      "points": 29,
-      "comments": 48,
+      "points": 35,
+      "comments": 50,
       "created_ts": 1779189416,
       "author": "pranshuchittora"
+    },
+    {
+      "title": "Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB",
+      "url": "https://github.com/xataio/deltax",
+      "hn_url": "https://news.ycombinator.com/item?id=48197390",
+      "points": 22,
+      "comments": 1,
+      "created_ts": 1779215770,
+      "author": "tee-es-gee"
+    },
+    {
+      "title": "Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal",
+      "url": "https://github.com/Benexl/yt-x",
+      "hn_url": "https://news.ycombinator.com/item?id=48198425",
+      "points": 15,
+      "comments": 0,
+      "created_ts": 1779219871,
+      "author": "Benex254"
     },
     {
       "title": "Show HN: Clark-Browser – Stealth Chromium",
       "url": "https://github.com/clark-labs-inc/clark-browser",
       "hn_url": "https://news.ycombinator.com/item?id=48188741",
-      "points": 12,
+      "points": 14,
       "comments": 3,
       "created_ts": 1779160191,
       "author": "stan_kirdey"
@@ -63,100 +90,148 @@
       "title": "I’ve joined Anthropic",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "hn_url": "https://news.ycombinator.com/item?id=48194352",
-      "points": 884,
-      "comments": 346,
+      "points": 1190,
+      "comments": 489,
       "created_ts": 1779203265,
       "author": "dmarcos"
-    },
-    {
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=48188183",
-      "points": 681,
-      "comments": 532,
-      "created_ts": 1779154242,
-      "author": "yakkomajuri"
-    },
-    {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=48192224",
-      "points": 497,
-      "comments": 262,
-      "created_ts": 1779192258,
-      "author": "interpol_p"
-    },
-    {
-      "title": "Show HN: Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "hn_url": "https://news.ycombinator.com/item?id=48191602",
-      "points": 418,
-      "comments": 165,
-      "created_ts": 1779187127,
-      "author": "danybittel"
     },
     {
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48195009",
-      "points": 371,
-      "comments": 79,
+      "points": 611,
+      "comments": 146,
       "created_ts": 1779206018,
       "author": "andreww591"
     },
     {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "hn_url": "https://news.ycombinator.com/item?id=48187054",
-      "points": 360,
-      "comments": 91,
-      "created_ts": 1779145382,
-      "author": "andrewzeno"
-    },
-    {
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "hn_url": "https://news.ycombinator.com/item?id=48189368",
-      "points": 323,
-      "comments": 248,
-      "created_ts": 1779167089,
-      "author": "theanonymousone"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "hn_url": "https://news.ycombinator.com/item?id=48190454",
-      "points": 309,
-      "comments": 142,
-      "created_ts": 1779176753,
-      "author": "LelouBil"
-    },
-    {
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48188787",
-      "points": 294,
-      "comments": 23,
-      "created_ts": 1779160665,
-      "author": "pabs3"
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "hn_url": "https://news.ycombinator.com/item?id=48192224",
+      "points": 606,
+      "comments": 312,
+      "created_ts": 1779192258,
+      "author": "interpol_p"
     },
     {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "hn_url": "https://news.ycombinator.com/item?id=48196570",
-      "points": 149,
-      "comments": 148,
+      "points": 604,
+      "comments": 455,
       "created_ts": 1779212625,
       "author": "spectraldrift"
+    },
+    {
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "hn_url": "https://news.ycombinator.com/item?id=48197980",
+      "points": 484,
+      "comments": 147,
+      "created_ts": 1779218006,
+      "author": "ortusdux"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "hn_url": "https://news.ycombinator.com/item?id=48190454",
+      "points": 408,
+      "comments": 168,
+      "created_ts": 1779176753,
+      "author": "LelouBil"
+    },
+    {
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=48197370",
+      "points": 394,
+      "comments": 562,
+      "created_ts": 1779215667,
+      "author": "berkeleyjunk"
+    },
+    {
+      "title": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+      "hn_url": "https://news.ycombinator.com/item?id=48197703",
+      "points": 331,
+      "comments": 195,
+      "created_ts": 1779216985,
+      "author": "7777777phil"
+    },
+    {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "hn_url": "https://news.ycombinator.com/item?id=48192383",
+      "points": 288,
+      "comments": 110,
+      "created_ts": 1779193387,
+      "author": "zambelli"
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "hn_url": "https://news.ycombinator.com/item?id=48198291",
+      "points": 210,
+      "comments": 106,
+      "created_ts": 1779219270,
+      "author": "smooke"
+    },
+    {
+      "title": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "hn_url": "https://news.ycombinator.com/item?id=48201484",
+      "points": 182,
+      "comments": 62,
+      "created_ts": 1779236634,
+      "author": "aarondf"
+    },
+    {
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48197995",
+      "points": 173,
+      "comments": 44,
+      "created_ts": 1779218052,
+      "author": "doener"
+    },
+    {
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "hn_url": "https://news.ycombinator.com/item?id=48201316",
+      "points": 156,
+      "comments": 40,
+      "created_ts": 1779235278,
+      "author": "splenditer"
+    },
+    {
+      "title": "Dumb ways for an open source project to die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48198127",
+      "points": 154,
+      "comments": 93,
+      "created_ts": 1779218576,
+      "author": "chmaynard"
+    },
+    {
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "hn_url": "https://news.ycombinator.com/item?id=48200569",
+      "points": 131,
+      "comments": 81,
+      "created_ts": 1779229831,
+      "author": "janalsncm"
+    },
+    {
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48194614",
+      "points": 112,
+      "comments": 42,
+      "created_ts": 1779204473,
+      "author": "akhuettel"
     }
   ],
   "ph_today": [
-    {
-      "title": "Drizz",
-      "url": "https://www.producthunt.com/products/drizz-2",
-      "tagline": "",
-      "pub_date": "2026-05-14T00:03:28-07:00"
-    },
     {
       "title": "Chert",
       "url": "https://www.producthunt.com/products/chert",
@@ -164,94 +239,10 @@
       "pub_date": "2026-05-16T22:10:40-07:00"
     },
     {
-      "title": "Haystack",
-      "url": "https://www.producthunt.com/products/haystack-editor",
+      "title": "Drizz",
+      "url": "https://www.producthunt.com/products/drizz-2",
       "tagline": "",
-      "pub_date": "2026-05-17T11:55:22-07:00"
-    },
-    {
-      "title": "Motion",
-      "url": "https://www.producthunt.com/products/motion-8",
-      "tagline": "",
-      "pub_date": "2026-05-11T17:31:35-07:00"
-    },
-    {
-      "title": "Trainer",
-      "url": "https://www.producthunt.com/products/trainer-2",
-      "tagline": "",
-      "pub_date": "2026-05-18T20:01:36-07:00"
-    },
-    {
-      "title": "PollyReach",
-      "url": "https://www.producthunt.com/products/pollyreach",
-      "tagline": "",
-      "pub_date": "2026-04-29T20:13:27-07:00"
-    },
-    {
-      "title": "Agora-1 by Odyssey",
-      "url": "https://www.producthunt.com/products/odyssey-5",
-      "tagline": "",
-      "pub_date": "2026-05-18T20:57:01-07:00"
-    },
-    {
-      "title": "CLI Market",
-      "url": "https://www.producthunt.com/products/cli-market",
-      "tagline": "",
-      "pub_date": "2026-05-18T19:55:22-07:00"
-    },
-    {
-      "title": "LearnHouse",
-      "url": "https://www.producthunt.com/products/learnhouse",
-      "tagline": "",
-      "pub_date": "2026-05-17T09:16:06-07:00"
-    },
-    {
-      "title": "Composer 2.5",
-      "url": "https://www.producthunt.com/products/cursor",
-      "tagline": "",
-      "pub_date": "2026-05-18T19:39:57-07:00"
-    },
-    {
-      "title": "Vocabi",
-      "url": "https://www.producthunt.com/products/vocabi",
-      "tagline": "",
-      "pub_date": "2026-05-16T09:03:32-07:00"
-    },
-    {
-      "title": "Voker",
-      "url": "https://www.producthunt.com/products/voker",
-      "tagline": "",
-      "pub_date": "2026-05-13T16:52:55-07:00"
-    },
-    {
-      "title": "imgproxy v4",
-      "url": "https://www.producthunt.com/products/imgproxy",
-      "tagline": "",
-      "pub_date": "2026-05-11T10:36:04-07:00"
-    },
-    {
-      "title": "Monocle 3.5 for macOS",
-      "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
-      "tagline": "",
-      "pub_date": "2026-05-18T18:36:37-07:00"
-    },
-    {
-      "title": "Lyricly",
-      "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
-      "tagline": "",
-      "pub_date": "2026-05-16T07:12:12-07:00"
-    },
-    {
-      "title": "Mantle Chat",
-      "url": "https://www.producthunt.com/products/mantle-chat",
-      "tagline": "",
-      "pub_date": "2026-04-01T07:17:37-07:00"
-    },
-    {
-      "title": "Hanami",
-      "url": "https://www.producthunt.com/products/hanami-2",
-      "tagline": "",
-      "pub_date": "2026-05-06T21:47:45-07:00"
+      "pub_date": "2026-05-14T00:03:28-07:00"
     },
     {
       "title": "VWFNDR™ + MBL",
@@ -260,22 +251,28 @@
       "pub_date": "2026-05-18T23:56:15-07:00"
     },
     {
-      "title": "AutoShelf",
-      "url": "https://www.producthunt.com/products/autoshelf",
+      "title": "CtrlOps",
+      "url": "https://www.producthunt.com/products/ctrlops",
       "tagline": "",
-      "pub_date": "2026-05-18T04:35:20-07:00"
+      "pub_date": "2026-05-16T10:43:18-07:00"
     },
     {
-      "title": "Papr Graph",
-      "url": "https://www.producthunt.com/products/papr-3",
+      "title": "Cosmic Insights",
+      "url": "https://www.producthunt.com/products/cosmic",
       "tagline": "",
-      "pub_date": "2026-05-16T07:18:36-07:00"
+      "pub_date": "2026-05-16T21:08:23-07:00"
     },
     {
-      "title": "Buggyverse",
-      "url": "https://www.producthunt.com/products/buggyverse",
+      "title": "Mantle Chat",
+      "url": "https://www.producthunt.com/products/mantle-chat",
       "tagline": "",
-      "pub_date": "2026-05-14T21:27:19-07:00"
+      "pub_date": "2026-04-01T07:17:37-07:00"
+    },
+    {
+      "title": "Haystack",
+      "url": "https://www.producthunt.com/products/haystack-editor",
+      "tagline": "",
+      "pub_date": "2026-05-17T11:55:22-07:00"
     },
     {
       "title": "Insights by Omnia",
@@ -284,34 +281,10 @@
       "pub_date": "2026-05-18T08:15:28-07:00"
     },
     {
-      "title": "CtrlOps",
-      "url": "https://www.producthunt.com/products/ctrlops",
+      "title": "CLI Market",
+      "url": "https://www.producthunt.com/products/cli-market",
       "tagline": "",
-      "pub_date": "2026-05-16T10:43:18-07:00"
-    },
-    {
-      "title": "calog.cc",
-      "url": "https://www.producthunt.com/products/calog-cc",
-      "tagline": "",
-      "pub_date": "2026-05-08T09:43:18-07:00"
-    },
-    {
-      "title": "Starchild-1 by Odyssey",
-      "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
-      "tagline": "",
-      "pub_date": "2026-05-18T10:03:44-07:00"
-    },
-    {
-      "title": "Thinnest AI",
-      "url": "https://www.producthunt.com/products/thinnest-ai",
-      "tagline": "",
-      "pub_date": "2026-05-18T22:09:58-07:00"
-    },
-    {
-      "title": "CaseGap AI",
-      "url": "https://www.producthunt.com/products/casegap-ai",
-      "tagline": "",
-      "pub_date": "2026-05-17T10:12:24-07:00"
+      "pub_date": "2026-05-18T19:55:22-07:00"
     },
     {
       "title": "ShioriCode",
@@ -320,10 +293,118 @@
       "pub_date": "2026-05-12T14:59:38-07:00"
     },
     {
-      "title": "Cosmic Insights",
-      "url": "https://www.producthunt.com/products/cosmic",
+      "title": "Agora-1 by Odyssey",
+      "url": "https://www.producthunt.com/products/odyssey-5",
       "tagline": "",
-      "pub_date": "2026-05-16T21:08:23-07:00"
+      "pub_date": "2026-05-18T20:57:01-07:00"
+    },
+    {
+      "title": "Papr Graph",
+      "url": "https://www.producthunt.com/products/papr-3",
+      "tagline": "",
+      "pub_date": "2026-05-16T07:18:36-07:00"
+    },
+    {
+      "title": "Vocabi",
+      "url": "https://www.producthunt.com/products/vocabi",
+      "tagline": "",
+      "pub_date": "2026-05-16T09:03:32-07:00"
+    },
+    {
+      "title": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach",
+      "tagline": "",
+      "pub_date": "2026-04-29T20:13:27-07:00"
+    },
+    {
+      "title": "Starchild-1 by Odyssey",
+      "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+      "tagline": "",
+      "pub_date": "2026-05-18T10:03:44-07:00"
+    },
+    {
+      "title": "Lyricly",
+      "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
+      "tagline": "",
+      "pub_date": "2026-05-16T07:12:12-07:00"
+    },
+    {
+      "title": "Hanami",
+      "url": "https://www.producthunt.com/products/hanami-2",
+      "tagline": "",
+      "pub_date": "2026-05-06T21:47:45-07:00"
+    },
+    {
+      "title": "AutoShelf",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "tagline": "",
+      "pub_date": "2026-05-18T04:35:20-07:00"
+    },
+    {
+      "title": "Monocle 3.5 for macOS",
+      "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+      "tagline": "",
+      "pub_date": "2026-05-18T18:36:37-07:00"
+    },
+    {
+      "title": "LearnHouse",
+      "url": "https://www.producthunt.com/products/learnhouse",
+      "tagline": "",
+      "pub_date": "2026-05-17T09:16:06-07:00"
+    },
+    {
+      "title": "Thinnest AI",
+      "url": "https://www.producthunt.com/products/thinnest-ai",
+      "tagline": "",
+      "pub_date": "2026-05-18T22:09:58-07:00"
+    },
+    {
+      "title": "Buggyverse",
+      "url": "https://www.producthunt.com/products/buggyverse",
+      "tagline": "",
+      "pub_date": "2026-05-14T21:27:19-07:00"
+    },
+    {
+      "title": "Motion",
+      "url": "https://www.producthunt.com/products/motion-8",
+      "tagline": "",
+      "pub_date": "2026-05-11T17:31:35-07:00"
+    },
+    {
+      "title": "CaseGap AI",
+      "url": "https://www.producthunt.com/products/casegap-ai",
+      "tagline": "",
+      "pub_date": "2026-05-17T10:12:24-07:00"
+    },
+    {
+      "title": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "tagline": "",
+      "pub_date": "2026-05-18T19:39:57-07:00"
+    },
+    {
+      "title": "Trainer",
+      "url": "https://www.producthunt.com/products/trainer-2",
+      "tagline": "",
+      "pub_date": "2026-05-18T20:01:36-07:00"
+    },
+    {
+      "title": "imgproxy v4",
+      "url": "https://www.producthunt.com/products/imgproxy",
+      "tagline": "",
+      "pub_date": "2026-05-11T10:36:04-07:00"
+    },
+    {
+      "title": "calog.cc",
+      "url": "https://www.producthunt.com/products/calog-cc",
+      "tagline": "",
+      "pub_date": "2026-05-08T09:43:18-07:00"
+    },
+    {
+      "title": "Voker",
+      "url": "https://www.producthunt.com/products/voker",
+      "tagline": "",
+      "pub_date": "2026-05-13T16:52:55-07:00"
     },
     {
       "title": "Triggered Agents by Adaptive",

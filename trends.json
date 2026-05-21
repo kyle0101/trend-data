@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:25:45.970Z",
+  "generated_at": "2026-05-21T14:49:02.958Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,17 +7,26 @@
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "url": "https://github.com/kageroumado/phosphene",
       "hn_url": "https://news.ycombinator.com/item?id=48215979",
-      "points": 272,
-      "comments": 59,
+      "points": 356,
+      "comments": 82,
       "created_ts": 1779321246,
       "author": "kageroumado"
+    },
+    {
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "url": "https://github.com/helvesec/rmux",
+      "hn_url": "https://news.ycombinator.com/item?id=48219918",
+      "points": 122,
+      "comments": 60,
+      "created_ts": 1779355320,
+      "author": "shideneyu"
     },
     {
       "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
       "url": "https://github.com/kouhxp/yapsnap",
       "hn_url": "https://news.ycombinator.com/item?id=48214399",
-      "points": 69,
-      "comments": 24,
+      "points": 83,
+      "comments": 37,
       "created_ts": 1779312508,
       "author": "mrkn1"
     },
@@ -25,7 +34,7 @@
       "title": "Show HN: Lance – image/video generation and understanding in one model",
       "url": "https://github.com/bytedance/Lance",
       "hn_url": "https://news.ycombinator.com/item?id=48209668",
-      "points": 60,
+      "points": 62,
       "comments": 14,
       "created_ts": 1779291932,
       "author": "cleardusk"
@@ -43,8 +52,8 @@
       "title": "Show HN: I made a tool for learning scales, chords, and how to combine them",
       "url": "https://projects.alesh.com/intervalkit/",
       "hn_url": "https://news.ycombinator.com/item?id=48211334",
-      "points": 27,
-      "comments": 17,
+      "points": 29,
+      "comments": 18,
       "created_ts": 1779299060,
       "author": "aleshh"
     },
@@ -52,28 +61,10 @@
       "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
       "url": "https://github.com/mupt-ai/dari-docs",
       "hn_url": "https://news.ycombinator.com/item?id=48210615",
-      "points": 20,
-      "comments": 6,
+      "points": 21,
+      "comments": 7,
       "created_ts": 1779295987,
       "author": "byhong03"
-    },
-    {
-      "title": "Show HN: Open-Source Agentic QA Harness with Memory",
-      "url": "https://vostride.com/agent-qa",
-      "hn_url": "https://news.ycombinator.com/item?id=48205901",
-      "points": 17,
-      "comments": 2,
-      "created_ts": 1779275447,
-      "author": "pranshuchittora"
-    },
-    {
-      "title": "Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark",
-      "url": "https://github.com/serenedb/serenedb/tree/main/libs/iresearch",
-      "hn_url": "https://news.ycombinator.com/item?id=48205526",
-      "points": 14,
-      "comments": 3,
-      "created_ts": 1779272466,
-      "author": "gnusi"
     },
     {
       "title": "Show HN: CipherStash Stack – Data Level Access Control in TS/JS",
@@ -90,53 +81,44 @@
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "hn_url": "https://news.ycombinator.com/item?id=48212493",
-      "points": 1140,
-      "comments": 827,
+      "points": 1293,
+      "comments": 942,
       "created_ts": 1779303930,
       "author": "tedsanders"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "hn_url": "https://news.ycombinator.com/item?id=48207660",
-      "points": 827,
-      "comments": 340,
-      "created_ts": 1779284617,
-      "author": "Timofeibu"
-    },
-    {
-      "title": "Saying goodbye to asm.js",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48206340",
-      "points": 374,
-      "comments": 145,
-      "created_ts": 1779278516,
-      "author": "eqrion"
     },
     {
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
       "hn_url": "https://news.ycombinator.com/item?id=48212046",
-      "points": 368,
-      "comments": 130,
+      "points": 464,
+      "comments": 153,
       "created_ts": 1779302036,
       "author": "gregsadetsky"
     },
     {
-      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "hn_url": "https://news.ycombinator.com/item?id=48205782",
-      "points": 312,
-      "comments": 193,
-      "created_ts": 1779274629,
-      "author": "tigerlily"
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "hn_url": "https://news.ycombinator.com/item?id=48220647",
+      "points": 460,
+      "comments": 238,
+      "created_ts": 1779361418,
+      "author": "sandebert"
+    },
+    {
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "hn_url": "https://news.ycombinator.com/item?id=48220105",
+      "points": 360,
+      "comments": 306,
+      "created_ts": 1779356986,
+      "author": "sofumel"
     },
     {
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "url": "https://github.com/kageroumado/phosphene",
       "hn_url": "https://news.ycombinator.com/item?id=48215979",
-      "points": 272,
-      "comments": 59,
+      "points": 356,
+      "comments": 82,
       "created_ts": 1779321246,
       "author": "kageroumado"
     },
@@ -144,100 +126,85 @@
       "title": "DOS Zone",
       "url": "https://dos.zone/",
       "hn_url": "https://news.ycombinator.com/item?id=48215418",
-      "points": 252,
-      "comments": 52,
+      "points": 308,
+      "comments": 71,
       "created_ts": 1779317607,
       "author": "rglover"
+    },
+    {
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "hn_url": "https://news.ycombinator.com/item?id=48222383",
+      "points": 290,
+      "comments": 164,
+      "created_ts": 1779370692,
+      "author": "speckx"
     },
     {
       "title": "Anthropic is expanding to Colossus2. Will use GB200",
       "url": "https://twitter.com/nottombrown/status/2057194829986300375",
       "hn_url": "https://news.ycombinator.com/item?id=48214017",
-      "points": 191,
-      "comments": 176,
+      "points": 257,
+      "comments": 285,
       "created_ts": 1779310552,
       "author": "aurareturn"
-    },
-    {
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48216278",
-      "points": 188,
-      "comments": 136,
-      "created_ts": 1779323761,
-      "author": "wapasta"
-    },
-    {
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "hn_url": "https://news.ycombinator.com/item?id=48211409",
-      "points": 173,
-      "comments": 88,
-      "created_ts": 1779299332,
-      "author": "thnaks"
     },
     {
       "title": "The Letter S, by Donald Knuth (1980) [pdf]",
       "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=48216016",
-      "points": 162,
-      "comments": 21,
+      "points": 228,
+      "comments": 38,
       "created_ts": 1779321531,
       "author": "bambax"
     },
     {
-      "title": "SBCL: the ultimate assembly code breadboard (2014)",
-      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-      "hn_url": "https://news.ycombinator.com/item?id=48209558",
-      "points": 152,
-      "comments": 8,
-      "created_ts": 1779291588,
-      "author": "yacin"
+      "title": "Hating AI Is Good",
+      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+      "hn_url": "https://news.ycombinator.com/item?id=48222366",
+      "points": 218,
+      "comments": 230,
+      "created_ts": 1779370566,
+      "author": "cdrnsf"
     },
     {
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48205415",
-      "points": 151,
-      "comments": 164,
-      "created_ts": 1779271468,
-      "author": "pramodbiligiri"
-    },
-    {
-      "title": "Why is Inkwell stuck in review",
-      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48211134",
-      "points": 140,
-      "comments": 46,
-      "created_ts": 1779298215,
-      "author": "speckx"
+      "title": "No Slop Grenade",
+      "url": "https://noslopgrenade.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48219992",
+      "points": 201,
+      "comments": 111,
+      "created_ts": 1779355875,
+      "author": "napolux"
     },
     {
       "title": "Haskell Foundation 2026 Update",
       "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
       "hn_url": "https://news.ycombinator.com/item?id=48216983",
-      "points": 110,
-      "comments": 32,
+      "points": 153,
+      "comments": 53,
       "created_ts": 1779329603,
       "author": "azhenley"
     },
     {
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "hn_url": "https://news.ycombinator.com/item?id=48219060",
-      "points": 105,
-      "comments": 45,
-      "created_ts": 1779348115,
-      "author": "OuterVale"
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48220696",
+      "points": 144,
+      "comments": 67,
+      "created_ts": 1779361811,
+      "author": "rbanffy"
+    },
+    {
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "url": "https://github.com/helvesec/rmux",
+      "hn_url": "https://news.ycombinator.com/item?id=48219918",
+      "points": 122,
+      "comments": 60,
+      "created_ts": 1779355320,
+      "author": "shideneyu"
     }
   ],
   "ph_today": [
-    {
-      "title": "Framed",
-      "url": "https://www.producthunt.com/products/framed-mockup-studio",
-      "tagline": "",
-      "pub_date": "2026-05-20T21:00:21-07:00"
-    },
     {
       "title": "Tycoon AI",
       "url": "https://www.producthunt.com/products/tycoon-us",
@@ -245,58 +212,16 @@
       "pub_date": "2026-05-20T19:08:22-07:00"
     },
     {
-      "title": "Ente Locker",
-      "url": "https://www.producthunt.com/products/ente-locker",
+      "title": "WeWeb 3.0",
+      "url": "https://www.producthunt.com/products/weweb-io",
       "tagline": "",
-      "pub_date": "2026-05-20T00:03:47-07:00"
+      "pub_date": "2025-01-13T08:41:04-08:00"
     },
     {
-      "title": "TongueType for macOS",
-      "url": "https://www.producthunt.com/products/tonguetype",
+      "title": "Framed",
+      "url": "https://www.producthunt.com/products/framed-mockup-studio",
       "tagline": "",
-      "pub_date": "2026-05-19T14:56:55-07:00"
-    },
-    {
-      "title": "Novi Notes 1.1",
-      "url": "https://www.producthunt.com/products/novi-notes",
-      "tagline": "",
-      "pub_date": "2026-04-06T07:48:29-07:00"
-    },
-    {
-      "title": "Basedash Skills",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-20T20:23:45-07:00"
-    },
-    {
-      "title": "Tacet",
-      "url": "https://www.producthunt.com/products/tacet",
-      "tagline": "",
-      "pub_date": "2026-05-20T23:42:39-07:00"
-    },
-    {
-      "title": "AutoSubtitles 2.0",
-      "url": "https://www.producthunt.com/products/autosubtitles",
-      "tagline": "",
-      "pub_date": "2026-05-20T05:23:35-07:00"
-    },
-    {
-      "title": "Vivaldi 8.0",
-      "url": "https://www.producthunt.com/products/vivaldi",
-      "tagline": "",
-      "pub_date": "2026-05-20T07:41:40-07:00"
-    },
-    {
-      "title": "InstaVM",
-      "url": "https://www.producthunt.com/products/instavm",
-      "tagline": "",
-      "pub_date": "2026-05-20T00:05:28-07:00"
-    },
-    {
-      "title": "Google Antigravity 2.0",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:24:04-07:00"
+      "pub_date": "2026-05-20T21:00:21-07:00"
     },
     {
       "title": "Visual Usability Checker",
@@ -311,16 +236,40 @@
       "pub_date": "2026-05-20T18:40:49-07:00"
     },
     {
+      "title": "Ente Locker",
+      "url": "https://www.producthunt.com/products/ente-locker",
+      "tagline": "",
+      "pub_date": "2026-05-20T00:03:47-07:00"
+    },
+    {
+      "title": "Tacet",
+      "url": "https://www.producthunt.com/products/tacet",
+      "tagline": "",
+      "pub_date": "2026-05-20T23:42:39-07:00"
+    },
+    {
+      "title": "TongueType for macOS",
+      "url": "https://www.producthunt.com/products/tonguetype",
+      "tagline": "",
+      "pub_date": "2026-05-19T14:56:55-07:00"
+    },
+    {
+      "title": "Vivaldi 8.0",
+      "url": "https://www.producthunt.com/products/vivaldi",
+      "tagline": "",
+      "pub_date": "2026-05-20T07:41:40-07:00"
+    },
+    {
       "title": "Slideshot",
       "url": "https://www.producthunt.com/products/slideshot",
       "tagline": "",
       "pub_date": "2026-05-20T07:38:49-07:00"
     },
     {
-      "title": "CatchAll by NewsCatcher",
-      "url": "https://www.producthunt.com/products/catchall",
+      "title": "Novi Notes 1.1",
+      "url": "https://www.producthunt.com/products/novi-notes",
       "tagline": "",
-      "pub_date": "2026-05-13T10:35:20-07:00"
+      "pub_date": "2026-04-06T07:48:29-07:00"
     },
     {
       "title": "WarmIntro",
@@ -329,46 +278,46 @@
       "pub_date": "2026-05-20T00:02:17-07:00"
     },
     {
-      "title": "Mintlify Workflows",
-      "url": "https://www.producthunt.com/products/mintlify",
-      "tagline": "",
-      "pub_date": "2026-05-15T14:34:00-07:00"
-    },
-    {
-      "title": "WeWeb 3.0",
-      "url": "https://www.producthunt.com/products/weweb-io",
-      "tagline": "",
-      "pub_date": "2025-01-13T08:41:04-08:00"
-    },
-    {
       "title": "Mixpanel Headless",
       "url": "https://www.producthunt.com/products/mixpanel",
       "tagline": "",
       "pub_date": "2026-05-20T14:59:00-07:00"
     },
     {
-      "title": "GhostSnap",
-      "url": "https://www.producthunt.com/products/ghostsnap",
+      "title": "InstaVM",
+      "url": "https://www.producthunt.com/products/instavm",
       "tagline": "",
-      "pub_date": "2026-05-19T06:13:18-07:00"
+      "pub_date": "2026-05-20T00:05:28-07:00"
     },
     {
-      "title": "Emdash",
-      "url": "https://www.producthunt.com/products/emdash",
+      "title": "Basedash Skills",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-05-18T11:26:05-07:00"
+      "pub_date": "2026-05-20T20:23:45-07:00"
     },
     {
-      "title": "Owlish",
-      "url": "https://www.producthunt.com/products/owlish",
+      "title": "Google Antigravity 2.0",
+      "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
-      "pub_date": "2026-05-19T02:29:18-07:00"
+      "pub_date": "2026-05-19T22:24:04-07:00"
     },
     {
-      "title": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
+      "title": "CatchAll by NewsCatcher",
+      "url": "https://www.producthunt.com/products/catchall",
       "tagline": "",
-      "pub_date": "2026-05-09T14:52:22-07:00"
+      "pub_date": "2026-05-13T10:35:20-07:00"
+    },
+    {
+      "title": "AutoSubtitles 2.0",
+      "url": "https://www.producthunt.com/products/autosubtitles",
+      "tagline": "",
+      "pub_date": "2026-05-20T05:23:35-07:00"
+    },
+    {
+      "title": "Mintlify Workflows",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "tagline": "",
+      "pub_date": "2026-05-15T14:34:00-07:00"
     },
     {
       "title": "StoreClaw",
@@ -377,16 +326,10 @@
       "pub_date": "2026-05-11T17:00:55-07:00"
     },
     {
-      "title": "Gemini Omni",
-      "url": "https://www.producthunt.com/products/gemini-omni-4",
+      "title": "Tophat by Shopify",
+      "url": "https://www.producthunt.com/products/tophat",
       "tagline": "",
-      "pub_date": "2026-05-19T12:39:26-07:00"
-    },
-    {
-      "title": "Manus Scheduled Tasks 2.0",
-      "url": "https://www.producthunt.com/products/manus",
-      "tagline": "",
-      "pub_date": "2026-05-18T09:54:36-07:00"
+      "pub_date": "2026-04-02T18:02:02-07:00"
     },
     {
       "title": "Type Switch 3.0 for macOS",
@@ -395,22 +338,52 @@
       "pub_date": "2026-05-18T06:25:04-07:00"
     },
     {
-      "title": "LayerProof Kraft",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "title": "Invenio",
+      "url": "https://www.producthunt.com/products/invenio",
       "tagline": "",
-      "pub_date": "2026-05-19T20:44:43-07:00"
-    },
-    {
-      "title": "Viberia",
-      "url": "https://www.producthunt.com/products/viberia",
-      "tagline": "",
-      "pub_date": "2026-05-18T22:50:33-07:00"
+      "pub_date": "2026-05-19T07:28:34-07:00"
     },
     {
       "title": "Skilled",
       "url": "https://www.producthunt.com/products/skilled-2",
       "tagline": "",
       "pub_date": "2026-05-18T14:23:04-07:00"
+    },
+    {
+      "title": "Insta360 Mic Pro",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:03:21-07:00"
+    },
+    {
+      "title": "Chromtuner",
+      "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos",
+      "tagline": "",
+      "pub_date": "2026-05-16T11:09:36-07:00"
+    },
+    {
+      "title": "LayerProof Kraft",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "tagline": "",
+      "pub_date": "2026-05-19T20:44:43-07:00"
+    },
+    {
+      "title": "Manus Scheduled Tasks 2.0",
+      "url": "https://www.producthunt.com/products/manus",
+      "tagline": "",
+      "pub_date": "2026-05-18T09:54:36-07:00"
+    },
+    {
+      "title": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
+      "tagline": "",
+      "pub_date": "2026-05-09T14:52:22-07:00"
+    },
+    {
+      "title": "Glia",
+      "url": "https://www.producthunt.com/products/glia-2",
+      "tagline": "",
+      "pub_date": "2026-05-19T07:12:55-07:00"
     }
   ]
 }

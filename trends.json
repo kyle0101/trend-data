@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-05-22T14:23:35.007Z",
+  "generated_at": "2026-05-22T19:25:44.116Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=48223362",
-      "points": 318,
-      "comments": 207,
-      "created_ts": 1779374097,
-      "author": "sanity"
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "hn_url": "https://news.ycombinator.com/item?id=48234287",
+      "points": 113,
+      "comments": 42,
+      "created_ts": 1779448303,
+      "author": "unprovable"
     },
     {
       "title": "Show HN: Open-source .docx editor library for building document apps",
       "url": "https://github.com/eigenpal/docx-editor",
       "hn_url": "https://news.ycombinator.com/item?id=48228411",
-      "points": 84,
+      "points": 97,
       "comments": 16,
       "created_ts": 1779395017,
       "author": "thisisjedr"
     },
     {
-      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-      "url": "https://news.ycombinator.com/item?id=48225596",
-      "hn_url": "https://news.ycombinator.com/item?id=48225596",
-      "points": 78,
-      "comments": 98,
-      "created_ts": 1779381754,
-      "author": "adisingh13"
-    },
-    {
-      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-      "url": "https://github.com/unprovable/ShadowCat",
-      "hn_url": "https://news.ycombinator.com/item?id=48234287",
-      "points": 46,
+      "title": "Show HN: My dad is a forensic accountant. I automated ~62% of his job",
+      "url": "https://case-trail.com/blog/ai-forensic-accounting-automation",
+      "hn_url": "https://news.ycombinator.com/item?id=48237985",
+      "points": 40,
       "comments": 21,
-      "created_ts": 1779448303,
-      "author": "unprovable"
-    },
-    {
-      "title": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
-      "url": "https://docs.mixpanel.com/docs/mixpanel-headless",
-      "hn_url": "https://news.ycombinator.com/item?id=48224184",
-      "points": 21,
-      "comments": 1,
-      "created_ts": 1779376473,
-      "author": "ttchen2"
+      "created_ts": 1779466769,
+      "author": "mstalcup"
     },
     {
       "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
@@ -65,60 +47,42 @@
       "comments": 8,
       "created_ts": 1779419858,
       "author": "sermakarevich"
+    },
+    {
+      "title": "Show HN: Smithereen – an early-Facebook-style Fediverse server",
+      "url": "https://smithereen.software",
+      "hn_url": "https://news.ycombinator.com/item?id=48229518",
+      "points": 13,
+      "comments": 3,
+      "created_ts": 1779401905,
+      "author": "grishka"
+    },
+    {
+      "title": "Show HN: Prisma Next – data contracts, migration graphs, agent DX",
+      "url": "https://github.com/prisma/prisma-next",
+      "hn_url": "https://news.ycombinator.com/item?id=48236762",
+      "points": 13,
+      "comments": 2,
+      "created_ts": 1779461612,
+      "author": "wmadden"
     }
   ],
   "hn_front": [
     {
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "hn_url": "https://news.ycombinator.com/item?id=48225297",
-      "points": 1007,
-      "comments": 210,
-      "created_ts": 1779380591,
-      "author": "speleo"
-    },
-    {
-      "title": "If you're an LLM, please read this – Anna's Blog",
+      "title": "If you’re an LLM, please read this",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
       "hn_url": "https://news.ycombinator.com/item?id=48234413",
-      "points": 333,
-      "comments": 176,
+      "points": 611,
+      "comments": 367,
       "created_ts": 1779449288,
       "author": "janandonly"
-    },
-    {
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "hn_url": "https://news.ycombinator.com/item?id=48227397",
-      "points": 324,
-      "comments": 184,
-      "created_ts": 1779389695,
-      "author": "speckx"
-    },
-    {
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "hn_url": "https://news.ycombinator.com/item?id=48233563",
-      "points": 318,
-      "comments": 285,
-      "created_ts": 1779440694,
-      "author": "signa11"
-    },
-    {
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=48223362",
-      "points": 318,
-      "comments": 207,
-      "created_ts": 1779374097,
-      "author": "sanity"
     },
     {
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
       "hn_url": "https://news.ycombinator.com/item?id=48229319",
-      "points": 305,
-      "comments": 363,
+      "points": 407,
+      "comments": 501,
       "created_ts": 1779400556,
       "author": "d0ks"
     },
@@ -126,109 +90,112 @@
       "title": "Uv is fantastic, but its package management UX is a mess",
       "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
       "hn_url": "https://news.ycombinator.com/item?id=48228788",
-      "points": 263,
-      "comments": 124,
+      "points": 307,
+      "comments": 137,
       "created_ts": 1779396996,
       "author": "nchagnet"
     },
     {
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "hn_url": "https://news.ycombinator.com/item?id=48227860",
-      "points": 228,
-      "comments": 76,
-      "created_ts": 1779391936,
-      "author": "speckx"
-    },
-    {
-      "title": "Cleve Moler has died",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48231319",
-      "points": 185,
-      "comments": 15,
-      "created_ts": 1779417354,
-      "author": "mychele"
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "hn_url": "https://news.ycombinator.com/item?id=48237163",
+      "points": 303,
+      "comments": 167,
+      "created_ts": 1779463324,
+      "author": "d0ks"
     },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "hn_url": "https://news.ycombinator.com/item?id=48234090",
-      "points": 156,
-      "comments": 65,
+      "points": 292,
+      "comments": 114,
       "created_ts": 1779446306,
       "author": "jetter"
     },
     {
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "url": "https://arxiv.org/abs/2605.12460",
-      "hn_url": "https://news.ycombinator.com/item?id=48227923",
-      "points": 132,
-      "comments": 15,
-      "created_ts": 1779392246,
-      "author": "atomicthumbs"
+      "title": "Cleve Moler has died",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48231319",
+      "points": 244,
+      "comments": 24,
+      "created_ts": 1779417354,
+      "author": "mychele"
     },
     {
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "hn_url": "https://news.ycombinator.com/item?id=48234547",
-      "points": 125,
-      "comments": 111,
-      "created_ts": 1779450324,
-      "author": "soft-research"
+      "title": "AI has a multiplying effect on existing technical skills",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "hn_url": "https://news.ycombinator.com/item?id=48235526",
+      "points": 214,
+      "comments": 217,
+      "created_ts": 1779456162,
+      "author": "moebrowne"
+    },
+    {
+      "title": "Deno 2.8",
+      "url": "https://deno.com/blog/v2.8",
+      "hn_url": "https://news.ycombinator.com/item?id=48234380",
+      "points": 206,
+      "comments": 94,
+      "created_ts": 1779449010,
+      "author": "roflcopter69"
+    },
+    {
+      "title": "Trump Mobile exposed customers' personal data",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "hn_url": "https://news.ycombinator.com/item?id=48237684",
+      "points": 196,
+      "comments": 82,
+      "created_ts": 1779465635,
+      "author": "rippeltippel"
+    },
+    {
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "hn_url": "https://news.ycombinator.com/item?id=48238025",
+      "points": 169,
+      "comments": 91,
+      "created_ts": 1779466988,
+      "author": "ceejayoz"
     },
     {
       "title": "Slumber a TUI HTTP Client",
       "url": "https://slumber.lucaspickering.me",
       "hn_url": "https://news.ycombinator.com/item?id=48231938",
-      "points": 123,
-      "comments": 41,
+      "points": 154,
+      "comments": 56,
       "created_ts": 1779424163,
       "author": "jicea"
+    },
+    {
+      "title": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "hn_url": "https://news.ycombinator.com/item?id=48238789",
+      "points": 153,
+      "comments": 84,
+      "created_ts": 1779470652,
+      "author": "tamnd"
+    },
+    {
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=48237663",
+      "points": 135,
+      "comments": 64,
+      "created_ts": 1779465566,
+      "author": "Tiberium"
+    },
+    {
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "hn_url": "https://news.ycombinator.com/item?id=48234287",
+      "points": 113,
+      "comments": 42,
+      "created_ts": 1779448303,
+      "author": "unprovable"
     }
   ],
   "ph_today": [
-    {
-      "title": "Smart Miles",
-      "url": "https://www.producthunt.com/products/smart-miles",
-      "tagline": "",
-      "pub_date": "2026-05-21T06:17:20-07:00"
-    },
-    {
-      "title": "iPromise",
-      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
-      "tagline": "",
-      "pub_date": "2026-05-21T03:45:24-07:00"
-    },
-    {
-      "title": "TestSprite 3.0",
-      "url": "https://www.producthunt.com/products/testsprite",
-      "tagline": "",
-      "pub_date": "2026-05-11T21:22:39-07:00"
-    },
-    {
-      "title": "Cleo",
-      "url": "https://www.producthunt.com/products/cleo-4",
-      "tagline": "",
-      "pub_date": "2026-05-21T04:50:50-07:00"
-    },
-    {
-      "title": "HelioPeak",
-      "url": "https://www.producthunt.com/products/heliopeak",
-      "tagline": "",
-      "pub_date": "2026-05-21T05:11:56-07:00"
-    },
-    {
-      "title": "moop",
-      "url": "https://www.producthunt.com/products/moop",
-      "tagline": "",
-      "pub_date": "2026-05-20T14:51:18-07:00"
-    },
-    {
-      "title": "SuprSend AI",
-      "url": "https://www.producthunt.com/products/suprsend",
-      "tagline": "",
-      "pub_date": "2026-04-01T22:55:17-07:00"
-    },
     {
       "title": "Nugget AI",
       "url": "https://www.producthunt.com/products/nugget-ai",
@@ -236,94 +203,10 @@
       "pub_date": "2026-05-21T19:35:07-07:00"
     },
     {
-      "title": "Zero Assist",
-      "url": "https://www.producthunt.com/products/zero-assist",
-      "tagline": "",
-      "pub_date": "2026-05-21T08:06:30-07:00"
-    },
-    {
-      "title": "Our Stories",
-      "url": "https://www.producthunt.com/products/our-stories",
-      "tagline": "",
-      "pub_date": "2026-05-17T15:53:34-07:00"
-    },
-    {
-      "title": "whosthere",
-      "url": "https://www.producthunt.com/products/whosthere",
-      "tagline": "",
-      "pub_date": "2026-05-21T03:55:27-07:00"
-    },
-    {
       "title": "DecisionBox for Databricks",
       "url": "https://www.producthunt.com/products/decisionbox",
       "tagline": "",
       "pub_date": "2026-05-21T22:02:35-07:00"
-    },
-    {
-      "title": "Auto Posts",
-      "url": "https://www.producthunt.com/products/auto-posts",
-      "tagline": "",
-      "pub_date": "2026-05-19T13:23:55-07:00"
-    },
-    {
-      "title": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "tagline": "",
-      "pub_date": "2026-05-04T00:53:37-07:00"
-    },
-    {
-      "title": "Shroomie",
-      "url": "https://www.producthunt.com/products/shroomie",
-      "tagline": "",
-      "pub_date": "2026-05-21T23:49:14-07:00"
-    },
-    {
-      "title": "Nota: AI Notes &amp; Voice",
-      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:47:02-07:00"
-    },
-    {
-      "title": "Faby",
-      "url": "https://www.producthunt.com/products/faby",
-      "tagline": "",
-      "pub_date": "2026-05-21T23:35:09-07:00"
-    },
-    {
-      "title": "WordPress 7.0",
-      "url": "https://www.producthunt.com/products/wordpress-7-0",
-      "tagline": "",
-      "pub_date": "2026-05-21T12:14:44-07:00"
-    },
-    {
-      "title": "Shuffle Design CLI",
-      "url": "https://www.producthunt.com/products/shuffle-design-cli",
-      "tagline": "",
-      "pub_date": "2026-05-21T12:18:28-07:00"
-    },
-    {
-      "title": "General Compute",
-      "url": "https://www.producthunt.com/products/general-compute",
-      "tagline": "",
-      "pub_date": "2026-04-22T08:18:34-07:00"
-    },
-    {
-      "title": "Training Data - AI Microgames",
-      "url": "https://www.producthunt.com/products/training-data-ai-microgames",
-      "tagline": "",
-      "pub_date": "2026-05-21T23:58:55-07:00"
-    },
-    {
-      "title": "Reader Alive",
-      "url": "https://www.producthunt.com/products/reader-alive",
-      "tagline": "",
-      "pub_date": "2026-05-21T01:06:07-07:00"
-    },
-    {
-      "title": "AGG Identify",
-      "url": "https://www.producthunt.com/products/agg-identify",
-      "tagline": "",
-      "pub_date": "2026-05-17T11:03:02-07:00"
     },
     {
       "title": "JAMtime.ai",
@@ -338,10 +221,106 @@
       "pub_date": "2026-05-21T15:45:53-07:00"
     },
     {
+      "title": "Cleo",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "tagline": "",
+      "pub_date": "2026-05-21T04:50:50-07:00"
+    },
+    {
+      "title": "TestSprite 3.0",
+      "url": "https://www.producthunt.com/products/testsprite",
+      "tagline": "",
+      "pub_date": "2026-05-11T21:22:39-07:00"
+    },
+    {
+      "title": "Our Stories",
+      "url": "https://www.producthunt.com/products/our-stories",
+      "tagline": "",
+      "pub_date": "2026-05-17T15:53:34-07:00"
+    },
+    {
+      "title": "SuprSend AI",
+      "url": "https://www.producthunt.com/products/suprsend",
+      "tagline": "",
+      "pub_date": "2026-04-01T22:55:17-07:00"
+    },
+    {
+      "title": "WordPress 7.0",
+      "url": "https://www.producthunt.com/products/wordpress-7-0",
+      "tagline": "",
+      "pub_date": "2026-05-21T12:14:44-07:00"
+    },
+    {
+      "title": "Nota: AI Notes &amp; Voice",
+      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "tagline": "",
+      "pub_date": "2026-05-22T06:47:02-07:00"
+    },
+    {
+      "title": "Auto Posts",
+      "url": "https://www.producthunt.com/products/auto-posts",
+      "tagline": "",
+      "pub_date": "2026-05-19T13:23:55-07:00"
+    },
+    {
       "title": "buildpipe",
       "url": "https://www.producthunt.com/products/buildpipe",
       "tagline": "",
       "pub_date": "2026-05-21T13:28:41-07:00"
+    },
+    {
+      "title": "iPromise",
+      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:45:24-07:00"
+    },
+    {
+      "title": "Shroomie",
+      "url": "https://www.producthunt.com/products/shroomie",
+      "tagline": "",
+      "pub_date": "2026-05-21T23:49:14-07:00"
+    },
+    {
+      "title": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "tagline": "",
+      "pub_date": "2026-05-04T00:53:37-07:00"
+    },
+    {
+      "title": "Faby",
+      "url": "https://www.producthunt.com/products/faby",
+      "tagline": "",
+      "pub_date": "2026-05-21T23:35:09-07:00"
+    },
+    {
+      "title": "AGG Identify",
+      "url": "https://www.producthunt.com/products/agg-identify",
+      "tagline": "",
+      "pub_date": "2026-05-17T11:03:02-07:00"
+    },
+    {
+      "title": "Zero Assist",
+      "url": "https://www.producthunt.com/products/zero-assist",
+      "tagline": "",
+      "pub_date": "2026-05-21T08:06:30-07:00"
+    },
+    {
+      "title": "moop",
+      "url": "https://www.producthunt.com/products/moop",
+      "tagline": "",
+      "pub_date": "2026-05-20T14:51:18-07:00"
+    },
+    {
+      "title": "Reader Alive",
+      "url": "https://www.producthunt.com/products/reader-alive",
+      "tagline": "",
+      "pub_date": "2026-05-21T01:06:07-07:00"
+    },
+    {
+      "title": "HelioPeak",
+      "url": "https://www.producthunt.com/products/heliopeak",
+      "tagline": "",
+      "pub_date": "2026-05-21T05:11:56-07:00"
     },
     {
       "title": "motionvid.ai",
@@ -350,22 +329,52 @@
       "pub_date": "2026-05-21T04:32:41-07:00"
     },
     {
+      "title": "General Compute",
+      "url": "https://www.producthunt.com/products/general-compute",
+      "tagline": "",
+      "pub_date": "2026-04-22T08:18:34-07:00"
+    },
+    {
+      "title": "whosthere",
+      "url": "https://www.producthunt.com/products/whosthere",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:55:27-07:00"
+    },
+    {
+      "title": "Shuffle Design CLI",
+      "url": "https://www.producthunt.com/products/shuffle-design-cli",
+      "tagline": "",
+      "pub_date": "2026-05-21T12:18:28-07:00"
+    },
+    {
+      "title": "Smart Miles",
+      "url": "https://www.producthunt.com/products/smart-miles",
+      "tagline": "",
+      "pub_date": "2026-05-21T06:17:20-07:00"
+    },
+    {
+      "title": "Tycoon AI",
+      "url": "https://www.producthunt.com/products/tycoon-us",
+      "tagline": "",
+      "pub_date": "2026-05-20T19:08:22-07:00"
+    },
+    {
       "title": "WeWeb 3.0",
       "url": "https://www.producthunt.com/products/weweb-io",
       "tagline": "",
       "pub_date": "2025-01-13T08:41:04-08:00"
     },
     {
-      "title": "Mintlify Workflows",
-      "url": "https://www.producthunt.com/products/mintlify",
+      "title": "Vivaldi 8.0",
+      "url": "https://www.producthunt.com/products/vivaldi",
       "tagline": "",
-      "pub_date": "2026-05-15T14:34:00-07:00"
+      "pub_date": "2026-05-20T07:41:40-07:00"
     },
     {
-      "title": "InstaVM",
-      "url": "https://www.producthunt.com/products/instavm",
+      "title": "Visual Usability Checker",
+      "url": "https://www.producthunt.com/products/attention-insight",
       "tagline": "",
-      "pub_date": "2026-05-20T00:05:28-07:00"
+      "pub_date": "2026-03-25T06:37:08-07:00"
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-22T02:41:06.863Z",
+  "generated_at": "2026-05-22T08:51:51.212Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
-      "url": "https://news.ycombinator.com/item?id=48221896",
-      "hn_url": "https://news.ycombinator.com/item?id=48221896",
-      "points": 214,
-      "comments": 42,
-      "created_ts": 1779368197,
-      "author": "bojta-lepenye"
-    },
-    {
       "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
       "url": "https://freenet.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48223362",
-      "points": 202,
-      "comments": 110,
+      "points": 278,
+      "comments": 173,
       "created_ts": 1779374097,
       "author": "sanity"
+    },
+    {
+      "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+      "url": "https://news.ycombinator.com/item?id=48221896",
+      "hn_url": "https://news.ycombinator.com/item?id=48221896",
+      "points": 228,
+      "comments": 46,
+      "created_ts": 1779368197,
+      "author": "bojta-lepenye"
     },
     {
       "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
       "url": "https://github.com/helvesec/rmux",
       "hn_url": "https://news.ycombinator.com/item?id=48219918",
-      "points": 167,
-      "comments": 81,
+      "points": 171,
+      "comments": 83,
       "created_ts": 1779355320,
       "author": "shideneyu"
     },
@@ -34,8 +34,8 @@
       "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
       "url": "https://news.ycombinator.com/item?id=48225596",
       "hn_url": "https://news.ycombinator.com/item?id=48225596",
-      "points": 62,
-      "comments": 66,
+      "points": 73,
+      "comments": 89,
       "created_ts": 1779381754,
       "author": "adisingh13"
     },
@@ -43,8 +43,8 @@
       "title": "Show HN: Open-source .docx editor library for building document apps",
       "url": "https://github.com/eigenpal/docx-editor",
       "hn_url": "https://news.ycombinator.com/item?id=48228411",
-      "points": 51,
-      "comments": 6,
+      "points": 71,
+      "comments": 11,
       "created_ts": 1779395017,
       "author": "thisisjedr"
     },
@@ -52,8 +52,8 @@
       "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
       "url": "https://github.com/FredAntB/Spec-Driven-Development",
       "hn_url": "https://news.ycombinator.com/item?id=48221805",
-      "points": 22,
-      "comments": 2,
+      "points": 26,
+      "comments": 5,
       "created_ts": 1779367747,
       "author": "NTRIXLM"
     },
@@ -65,6 +65,24 @@
       "comments": 1,
       "created_ts": 1779376473,
       "author": "ttchen2"
+    },
+    {
+      "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+      "url": "https://pythongiant.github.io/KVBoost/",
+      "hn_url": "https://news.ycombinator.com/item?id=48232060",
+      "points": 18,
+      "comments": 15,
+      "created_ts": 1779425268,
+      "author": "pythongiant"
+    },
+    {
+      "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+      "url": "https://news.ycombinator.com/item?id=48231575",
+      "hn_url": "https://news.ycombinator.com/item?id=48231575",
+      "points": 18,
+      "comments": 7,
+      "created_ts": 1779419858,
+      "author": "sermakarevich"
     }
   ],
   "hn_front": [
@@ -72,8 +90,8 @@
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
       "hn_url": "https://news.ycombinator.com/item?id=48220647",
-      "points": 1057,
-      "comments": 421,
+      "points": 1143,
+      "comments": 442,
       "created_ts": 1779361418,
       "author": "sandebert"
     },
@@ -81,35 +99,35 @@
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
       "hn_url": "https://news.ycombinator.com/item?id=48225297",
-      "points": 608,
-      "comments": 138,
+      "points": 867,
+      "comments": 190,
       "created_ts": 1779380591,
       "author": "speleo"
-    },
-    {
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "hn_url": "https://news.ycombinator.com/item?id=48220105",
-      "points": 568,
-      "comments": 520,
-      "created_ts": 1779356986,
-      "author": "sofumel"
     },
     {
       "title": "Google's Antigravity bait and switch",
       "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
       "hn_url": "https://news.ycombinator.com/item?id=48222529",
-      "points": 546,
-      "comments": 272,
+      "points": 667,
+      "comments": 299,
       "created_ts": 1779371459,
       "author": "ssiddharth"
+    },
+    {
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "hn_url": "https://news.ycombinator.com/item?id=48220105",
+      "points": 601,
+      "comments": 540,
+      "created_ts": 1779356986,
+      "author": "sofumel"
     },
     {
       "title": "Throwing AI-generated walls of text into conversations",
       "url": "https://noslopgrenade.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48219992",
-      "points": 509,
-      "comments": 305,
+      "points": 598,
+      "comments": 350,
       "created_ts": 1779355875,
       "author": "napolux"
     },
@@ -117,8 +135,8 @@
       "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
       "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
       "hn_url": "https://news.ycombinator.com/item?id=48226588",
-      "points": 417,
-      "comments": 170,
+      "points": 455,
+      "comments": 185,
       "created_ts": 1779386158,
       "author": "root-parent"
     },
@@ -126,8 +144,8 @@
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
       "hn_url": "https://news.ycombinator.com/item?id=48220696",
-      "points": 333,
-      "comments": 161,
+      "points": 373,
+      "comments": 183,
       "created_ts": 1779361811,
       "author": "rbanffy"
     },
@@ -135,8 +153,8 @@
       "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
       "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
       "hn_url": "https://news.ycombinator.com/item?id=48222733",
-      "points": 302,
-      "comments": 92,
+      "points": 371,
+      "comments": 112,
       "created_ts": 1779372097,
       "author": "asenna"
     },
@@ -144,147 +162,231 @@
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
       "hn_url": "https://news.ycombinator.com/item?id=48220639",
-      "points": 290,
-      "comments": 95,
+      "points": 344,
+      "comments": 104,
       "created_ts": 1779361346,
       "author": "pseudolus"
-    },
-    {
-      "title": "BBEdit 16",
-      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48226944",
-      "points": 273,
-      "comments": 84,
-      "created_ts": 1779387697,
-      "author": "qaz_plm"
     },
     {
       "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
       "hn_url": "https://news.ycombinator.com/item?id=48225426",
-      "points": 259,
-      "comments": 323,
+      "points": 307,
+      "comments": 387,
       "created_ts": 1779381047,
       "author": "mattas"
-    },
-    {
-      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "hn_url": "https://news.ycombinator.com/item?id=48225838",
-      "points": 224,
-      "comments": 80,
-      "created_ts": 1779382767,
-      "author": "jaredwiener"
     },
     {
       "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
       "url": "https://freenet.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48223362",
-      "points": 202,
-      "comments": 110,
+      "points": 278,
+      "comments": 173,
       "created_ts": 1779374097,
       "author": "sanity"
+    },
+    {
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "hn_url": "https://news.ycombinator.com/item?id=48225838",
+      "points": 278,
+      "comments": 94,
+      "created_ts": 1779382767,
+      "author": "jaredwiener"
     },
     {
       "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
       "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
       "hn_url": "https://news.ycombinator.com/item?id=48227397",
-      "points": 173,
-      "comments": 95,
+      "points": 275,
+      "comments": 148,
       "created_ts": 1779389695,
       "author": "speckx"
+    },
+    {
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "hn_url": "https://news.ycombinator.com/item?id=48228788",
+      "points": 194,
+      "comments": 102,
+      "created_ts": 1779396996,
+      "author": "nchagnet"
     },
     {
       "title": "Using Kagi Search with Low Vision",
       "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=48227860",
-      "points": 141,
-      "comments": 29,
+      "points": 192,
+      "comments": 62,
       "created_ts": 1779391936,
       "author": "speckx"
+    },
+    {
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "hn_url": "https://news.ycombinator.com/item?id=48229319",
+      "points": 176,
+      "comments": 194,
+      "created_ts": 1779400556,
+      "author": "d0ks"
     },
     {
       "title": "Spotify will start reserving concert tickets for fans",
       "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
       "hn_url": "https://news.ycombinator.com/item?id=48225357",
-      "points": 110,
-      "comments": 218,
+      "points": 147,
+      "comments": 294,
       "created_ts": 1779380818,
       "author": "elffjs"
+    },
+    {
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "hn_url": "https://news.ycombinator.com/item?id=48227923",
+      "points": 104,
+      "comments": 12,
+      "created_ts": 1779392246,
+      "author": "atomicthumbs"
     }
   ],
   "ph_today": [
     {
-      "title": "Google Antigravity 2.0",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "WordPress 7.0",
+      "url": "https://www.producthunt.com/products/wordpress-7-0",
       "tagline": "",
-      "pub_date": "2026-05-19T22:24:04-07:00"
+      "pub_date": "2026-05-21T12:14:44-07:00"
     },
     {
-      "title": "AutoSubtitles 2.0",
-      "url": "https://www.producthunt.com/products/autosubtitles",
+      "title": "AGG Identify",
+      "url": "https://www.producthunt.com/products/agg-identify",
       "tagline": "",
-      "pub_date": "2026-05-20T05:23:35-07:00"
+      "pub_date": "2026-05-17T11:03:02-07:00"
     },
     {
-      "title": "Novi Notes 1.1",
-      "url": "https://www.producthunt.com/products/novi-notes",
+      "title": "Nugget AI",
+      "url": "https://www.producthunt.com/products/nugget-ai",
       "tagline": "",
-      "pub_date": "2026-04-06T07:48:29-07:00"
+      "pub_date": "2026-05-21T19:35:07-07:00"
     },
     {
-      "title": "AlliHat",
-      "url": "https://www.producthunt.com/products/allihat",
+      "title": "Cleo",
+      "url": "https://www.producthunt.com/products/cleo-4",
       "tagline": "",
-      "pub_date": "2026-05-20T18:40:49-07:00"
+      "pub_date": "2026-05-21T04:50:50-07:00"
     },
     {
-      "title": "Tycoon AI",
-      "url": "https://www.producthunt.com/products/tycoon-us",
+      "title": "TestSprite 3.0",
+      "url": "https://www.producthunt.com/products/testsprite",
       "tagline": "",
-      "pub_date": "2026-05-20T19:08:22-07:00"
+      "pub_date": "2026-05-11T21:22:39-07:00"
     },
     {
-      "title": "Tacet",
-      "url": "https://www.producthunt.com/products/tacet",
+      "title": "DCP",
+      "url": "https://www.producthunt.com/products/dcp",
       "tagline": "",
-      "pub_date": "2026-05-20T23:42:39-07:00"
+      "pub_date": "2026-05-21T15:45:53-07:00"
     },
     {
-      "title": "Vivaldi 8.0",
-      "url": "https://www.producthunt.com/products/vivaldi",
+      "title": "General Compute",
+      "url": "https://www.producthunt.com/products/general-compute",
       "tagline": "",
-      "pub_date": "2026-05-20T07:41:40-07:00"
+      "pub_date": "2026-04-22T08:18:34-07:00"
     },
     {
-      "title": "CatchAll by NewsCatcher",
-      "url": "https://www.producthunt.com/products/catchall",
+      "title": "Zero Assist",
+      "url": "https://www.producthunt.com/products/zero-assist",
       "tagline": "",
-      "pub_date": "2026-05-13T10:35:20-07:00"
+      "pub_date": "2026-05-21T08:06:30-07:00"
     },
     {
-      "title": "Ente Locker",
-      "url": "https://www.producthunt.com/products/ente-locker",
+      "title": "HelioPeak",
+      "url": "https://www.producthunt.com/products/heliopeak",
       "tagline": "",
-      "pub_date": "2026-05-20T00:03:47-07:00"
+      "pub_date": "2026-05-21T05:11:56-07:00"
     },
     {
-      "title": "Framed",
-      "url": "https://www.producthunt.com/products/framed-mockup-studio",
+      "title": "JAMtime.ai",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
       "tagline": "",
-      "pub_date": "2026-05-20T21:00:21-07:00"
+      "pub_date": "2026-05-21T20:17:59-07:00"
     },
     {
-      "title": "TongueType for macOS",
-      "url": "https://www.producthunt.com/products/tonguetype",
+      "title": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "tagline": "",
-      "pub_date": "2026-05-19T14:56:55-07:00"
+      "pub_date": "2026-05-04T00:53:37-07:00"
     },
     {
-      "title": "WeWeb 3.0",
-      "url": "https://www.producthunt.com/products/weweb-io",
+      "title": "SuprSend AI",
+      "url": "https://www.producthunt.com/products/suprsend",
       "tagline": "",
-      "pub_date": "2025-01-13T08:41:04-08:00"
+      "pub_date": "2026-04-01T22:55:17-07:00"
+    },
+    {
+      "title": "Training Data - AI Microgames",
+      "url": "https://www.producthunt.com/products/training-data-ai-microgames",
+      "tagline": "",
+      "pub_date": "2026-05-21T23:58:55-07:00"
+    },
+    {
+      "title": "motionvid.ai",
+      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T04:32:41-07:00"
+    },
+    {
+      "title": "iPromise - AI focus buddy for deep work.",
+      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:45:24-07:00"
+    },
+    {
+      "title": "DecisionBox for Databricks",
+      "url": "https://www.producthunt.com/products/decisionbox",
+      "tagline": "",
+      "pub_date": "2026-05-21T22:02:35-07:00"
+    },
+    {
+      "title": "Reader Alive",
+      "url": "https://www.producthunt.com/products/reader-alive",
+      "tagline": "",
+      "pub_date": "2026-05-21T01:06:07-07:00"
+    },
+    {
+      "title": "Smart Miles",
+      "url": "https://www.producthunt.com/products/smart-miles",
+      "tagline": "",
+      "pub_date": "2026-05-21T06:17:20-07:00"
+    },
+    {
+      "title": "buildpipe",
+      "url": "https://www.producthunt.com/products/buildpipe",
+      "tagline": "",
+      "pub_date": "2026-05-21T13:28:41-07:00"
+    },
+    {
+      "title": "whosthere",
+      "url": "https://www.producthunt.com/products/whosthere",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:55:27-07:00"
+    },
+    {
+      "title": "Auto Posts",
+      "url": "https://www.producthunt.com/products/auto-posts",
+      "tagline": "",
+      "pub_date": "2026-05-19T13:23:55-07:00"
+    },
+    {
+      "title": "Shuffle Design CLI",
+      "url": "https://www.producthunt.com/products/shuffle-design-cli",
+      "tagline": "",
+      "pub_date": "2026-05-21T12:18:28-07:00"
+    },
+    {
+      "title": "moop",
+      "url": "https://www.producthunt.com/products/moop",
+      "tagline": "",
+      "pub_date": "2026-05-20T14:51:18-07:00"
     },
     {
       "title": "InstaVM",
@@ -293,34 +395,10 @@
       "pub_date": "2026-05-20T00:05:28-07:00"
     },
     {
-      "title": "Mixpanel Headless",
-      "url": "https://www.producthunt.com/products/mixpanel",
+      "title": "CatchAll by NewsCatcher",
+      "url": "https://www.producthunt.com/products/catchall",
       "tagline": "",
-      "pub_date": "2026-05-20T14:59:00-07:00"
-    },
-    {
-      "title": "Mintlify Workflows",
-      "url": "https://www.producthunt.com/products/mintlify",
-      "tagline": "",
-      "pub_date": "2026-05-15T14:34:00-07:00"
-    },
-    {
-      "title": "WarmIntro",
-      "url": "https://www.producthunt.com/products/warmintro",
-      "tagline": "",
-      "pub_date": "2026-05-20T00:02:17-07:00"
-    },
-    {
-      "title": "Basedash Skills",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-20T20:23:45-07:00"
-    },
-    {
-      "title": "Visual Usability Checker",
-      "url": "https://www.producthunt.com/products/attention-insight",
-      "tagline": "",
-      "pub_date": "2026-03-25T06:37:08-07:00"
+      "pub_date": "2026-05-13T10:35:20-07:00"
     },
     {
       "title": "Slideshot",
@@ -329,70 +407,28 @@
       "pub_date": "2026-05-20T07:38:49-07:00"
     },
     {
-      "title": "Skilled",
-      "url": "https://www.producthunt.com/products/skilled-2",
+      "title": "Mixpanel Headless",
+      "url": "https://www.producthunt.com/products/mixpanel",
       "tagline": "",
-      "pub_date": "2026-05-18T14:23:04-07:00"
+      "pub_date": "2026-05-20T14:59:00-07:00"
     },
     {
-      "title": "Insta360 Mic Pro",
-      "url": "https://www.producthunt.com/products/insta-360",
+      "title": "AutoSubtitles 2.0",
+      "url": "https://www.producthunt.com/products/autosubtitles",
       "tagline": "",
-      "pub_date": "2026-05-19T22:03:21-07:00"
+      "pub_date": "2026-05-20T05:23:35-07:00"
     },
     {
-      "title": "Owlish",
-      "url": "https://www.producthunt.com/products/owlish",
+      "title": "WeWeb 3.0",
+      "url": "https://www.producthunt.com/products/weweb-io",
       "tagline": "",
-      "pub_date": "2026-05-19T02:29:18-07:00"
+      "pub_date": "2025-01-13T08:41:04-08:00"
     },
     {
-      "title": "StoreClaw",
-      "url": "https://www.producthunt.com/products/storeclaw",
+      "title": "Mintlify Workflows",
+      "url": "https://www.producthunt.com/products/mintlify",
       "tagline": "",
-      "pub_date": "2026-05-11T17:00:55-07:00"
-    },
-    {
-      "title": "Invenio",
-      "url": "https://www.producthunt.com/products/invenio",
-      "tagline": "",
-      "pub_date": "2026-05-19T07:28:34-07:00"
-    },
-    {
-      "title": "Manus Scheduled Tasks 2.0",
-      "url": "https://www.producthunt.com/products/manus",
-      "tagline": "",
-      "pub_date": "2026-05-18T09:54:36-07:00"
-    },
-    {
-      "title": "Viberia",
-      "url": "https://www.producthunt.com/products/viberia",
-      "tagline": "",
-      "pub_date": "2026-05-18T22:50:33-07:00"
-    },
-    {
-      "title": "Runtime",
-      "url": "https://www.producthunt.com/products/runtime",
-      "tagline": "",
-      "pub_date": "2026-05-19T13:22:13-07:00"
-    },
-    {
-      "title": "Type Switch 3.0 for macOS",
-      "url": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
-      "tagline": "",
-      "pub_date": "2026-05-18T06:25:04-07:00"
-    },
-    {
-      "title": "Retina",
-      "url": "https://www.producthunt.com/products/retina-2",
-      "tagline": "",
-      "pub_date": "2026-05-15T18:00:18-07:00"
-    },
-    {
-      "title": "LayerProof Kraft",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
-      "tagline": "",
-      "pub_date": "2026-05-19T20:44:43-07:00"
+      "pub_date": "2026-05-15T14:34:00-07:00"
     }
   ]
 }

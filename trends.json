@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-05-23T08:09:11.861Z",
+  "generated_at": "2026-05-23T13:07:53.885Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-      "url": "https://github.com/unprovable/ShadowCat",
-      "hn_url": "https://news.ycombinator.com/item?id=48234287",
-      "points": 143,
-      "comments": 53,
-      "created_ts": 1779448303,
-      "author": "unprovable"
-    },
-    {
       "title": "Show HN: Pablo – a Chrome extension that copies UI from any website",
       "url": "https://www.usepablo.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=48237415",
-      "points": 22,
+      "points": 24,
       "comments": 6,
       "created_ts": 1779464552,
       "author": "rayansaleh"
@@ -29,78 +20,51 @@
       "comments": 2,
       "created_ts": 1779461612,
       "author": "wmadden"
+    },
+    {
+      "title": "Show HN: Waiting for AI Grand Prix racing SIM? Me too So I made one",
+      "url": "https://github.com/elodin-sys/ai-grand-prix",
+      "hn_url": "https://news.ycombinator.com/item?id=48244649",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1779510128,
+      "author": "danAtElodin"
     }
   ],
   "hn_front": [
     {
-      "title": "If you’re an LLM, please read this",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48234413",
-      "points": 795,
-      "comments": 420,
-      "created_ts": 1779449288,
-      "author": "janandonly"
-    },
-    {
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
       "hn_url": "https://news.ycombinator.com/item?id=48237163",
-      "points": 631,
-      "comments": 312,
+      "points": 741,
+      "comments": 344,
       "created_ts": 1779463324,
       "author": "d0ks"
-    },
-    {
-      "title": "Bun support is now limited and deprecated",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "hn_url": "https://news.ycombinator.com/item?id=48238789",
-      "points": 462,
-      "comments": 465,
-      "created_ts": 1779470652,
-      "author": "tamnd"
-    },
-    {
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "hn_url": "https://news.ycombinator.com/item?id=48240419",
-      "points": 411,
-      "comments": 248,
-      "created_ts": 1779478305,
-      "author": "louiereederson"
     },
     {
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
       "hn_url": "https://news.ycombinator.com/item?id=48241997",
-      "points": 388,
-      "comments": 133,
+      "points": 544,
+      "comments": 193,
       "created_ts": 1779485815,
       "author": "lexandstuff"
     },
     {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "hn_url": "https://news.ycombinator.com/item?id=48234090",
-      "points": 379,
-      "comments": 148,
-      "created_ts": 1779446306,
-      "author": "jetter"
-    },
-    {
-      "title": "Deno 2.8",
-      "url": "https://deno.com/blog/v2.8",
-      "hn_url": "https://news.ycombinator.com/item?id=48234380",
-      "points": 348,
-      "comments": 149,
-      "created_ts": 1779449010,
-      "author": "roflcopter69"
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "hn_url": "https://news.ycombinator.com/item?id=48240419",
+      "points": 465,
+      "comments": 280,
+      "created_ts": 1779478305,
+      "author": "louiereederson"
     },
     {
       "title": "Microsoft starts canceling Claude Code licenses",
       "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "hn_url": "https://news.ycombinator.com/item?id=48238896",
-      "points": 213,
-      "comments": 157,
+      "points": 330,
+      "comments": 289,
       "created_ts": 1779471124,
       "author": "robertkarl"
     },
@@ -108,8 +72,8 @@
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "url": "https://www.kanbots.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=48239413",
-      "points": 213,
-      "comments": 123,
+      "points": 230,
+      "comments": 138,
       "created_ts": 1779473877,
       "author": "vitriapp"
     },
@@ -117,8 +81,8 @@
       "title": "CISA tries to contain data leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "hn_url": "https://news.ycombinator.com/item?id=48238429",
-      "points": 188,
-      "comments": 49,
+      "points": 225,
+      "comments": 51,
       "created_ts": 1779468871,
       "author": "speckx"
     },
@@ -126,66 +90,63 @@
       "title": "Sleep research led to a new sleep apnea drug",
       "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
       "hn_url": "https://news.ycombinator.com/item?id=48242278",
-      "points": 144,
-      "comments": 90,
+      "points": 185,
+      "comments": 107,
       "created_ts": 1779487539,
       "author": "colinprince"
     },
     {
-      "title": "A Forth-inspired language for writing websites",
-      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "hn_url": "https://news.ycombinator.com/item?id=48236887",
-      "points": 142,
-      "comments": 14,
-      "created_ts": 1779462050,
-      "author": "speckx"
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+      "hn_url": "https://news.ycombinator.com/item?id=48245862",
+      "points": 164,
+      "comments": 49,
+      "created_ts": 1779524697,
+      "author": "Tomte"
     },
     {
       "title": "I’m writing again",
       "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
       "hn_url": "https://news.ycombinator.com/item?id=48236501",
-      "points": 134,
-      "comments": 36,
+      "points": 157,
+      "comments": 40,
       "created_ts": 1779460587,
       "author": "dan_hawkins"
     },
     {
-      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-      "hn_url": "https://news.ycombinator.com/item?id=48243293",
-      "points": 130,
-      "comments": 39,
-      "created_ts": 1779496465,
-      "author": "bilalq"
+      "title": "A Forth-inspired language for writing websites",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "hn_url": "https://news.ycombinator.com/item?id=48236887",
+      "points": 153,
+      "comments": 17,
+      "created_ts": 1779462050,
+      "author": "speckx"
+    },
+    {
+      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "hn_url": "https://news.ycombinator.com/item?id=48245571",
+      "points": 147,
+      "comments": 41,
+      "created_ts": 1779521673,
+      "author": "Michelangelo11"
     },
     {
       "title": "1940 Air Terminal Museum Begins Liquidation",
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
       "hn_url": "https://news.ycombinator.com/item?id=48238568",
-      "points": 114,
-      "comments": 29,
+      "points": 121,
+      "comments": 30,
       "created_ts": 1779469532,
       "author": "weaponeer"
     }
   ],
   "ph_today": [
     {
-      "title": "Google Antigravity CLI",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "Vibedock",
+      "url": "https://www.producthunt.com/products/vibedock",
       "tagline": "",
-      "pub_date": "2026-05-19T22:19:28-07:00"
-    },
-    {
-      "title": "Spantop",
-      "url": "https://www.producthunt.com/products/spantop",
-      "tagline": "",
-      "pub_date": "2026-05-21T21:14:40-07:00"
-    },
-    {
-      "title": "RetroMac",
-      "url": "https://www.producthunt.com/products/retromac",
-      "tagline": "",
-      "pub_date": "2026-05-22T03:09:53-07:00"
+      "pub_date": "2026-05-22T06:28:39-07:00"
     },
     {
       "title": "Memdex",
@@ -194,34 +155,16 @@
       "pub_date": "2026-05-12T05:27:45-07:00"
     },
     {
-      "title": "Finderlock",
-      "url": "https://www.producthunt.com/products/finderlock",
+      "title": "Kosshi",
+      "url": "https://www.producthunt.com/products/kosshi",
       "tagline": "",
-      "pub_date": "2025-09-18T05:55:33-07:00"
+      "pub_date": "2026-05-11T09:35:05-07:00"
     },
     {
-      "title": "Area Contrast Checker",
-      "url": "https://www.producthunt.com/products/area-contrast-checker",
+      "title": "Spantop",
+      "url": "https://www.producthunt.com/products/spantop",
       "tagline": "",
-      "pub_date": "2026-05-15T06:06:37-07:00"
-    },
-    {
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "tagline": "",
-      "pub_date": "2026-05-22T19:56:16-07:00"
-    },
-    {
-      "title": "Command A+",
-      "url": "https://www.producthunt.com/products/cohere-2",
-      "tagline": "",
-      "pub_date": "2026-05-22T07:16:45-07:00"
-    },
-    {
-      "title": "Vibedock",
-      "url": "https://www.producthunt.com/products/vibedock",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:28:39-07:00"
+      "pub_date": "2026-05-21T21:14:40-07:00"
     },
     {
       "title": "Forsy",
@@ -230,16 +173,22 @@
       "pub_date": "2026-05-13T02:49:52-07:00"
     },
     {
-      "title": "Coca 2.0",
-      "url": "https://www.producthunt.com/products/coca-2-0",
-      "tagline": "",
-      "pub_date": "2026-05-10T12:34:57-07:00"
-    },
-    {
       "title": "Bulkmark",
       "url": "https://www.producthunt.com/products/bulkmark-2",
       "tagline": "",
       "pub_date": "2026-04-14T02:14:14-07:00"
+    },
+    {
+      "title": "Command A+",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "tagline": "",
+      "pub_date": "2026-05-22T07:16:45-07:00"
+    },
+    {
+      "title": "RetroMac",
+      "url": "https://www.producthunt.com/products/retromac",
+      "tagline": "",
+      "pub_date": "2026-05-22T03:09:53-07:00"
     },
     {
       "title": "note.md",
@@ -248,28 +197,34 @@
       "pub_date": "2026-05-22T02:27:42-07:00"
     },
     {
-      "title": "Kosshi",
-      "url": "https://www.producthunt.com/products/kosshi",
+      "title": "Google Antigravity CLI",
+      "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
-      "pub_date": "2026-05-11T09:35:05-07:00"
+      "pub_date": "2026-05-19T22:19:28-07:00"
     },
     {
-      "title": "Faby",
-      "url": "https://www.producthunt.com/products/faby",
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
       "tagline": "",
-      "pub_date": "2026-05-21T23:35:09-07:00"
+      "pub_date": "2026-05-22T19:56:16-07:00"
     },
     {
-      "title": "whosthere",
-      "url": "https://www.producthunt.com/products/whosthere",
+      "title": "Area Contrast Checker",
+      "url": "https://www.producthunt.com/products/area-contrast-checker",
       "tagline": "",
-      "pub_date": "2026-05-21T03:55:27-07:00"
+      "pub_date": "2026-05-15T06:06:37-07:00"
     },
     {
-      "title": "HelioPeak",
-      "url": "https://www.producthunt.com/products/heliopeak",
+      "title": "Coca 2.0",
+      "url": "https://www.producthunt.com/products/coca-2-0",
       "tagline": "",
-      "pub_date": "2026-05-21T05:11:56-07:00"
+      "pub_date": "2026-05-10T12:34:57-07:00"
+    },
+    {
+      "title": "Finderlock",
+      "url": "https://www.producthunt.com/products/finderlock",
+      "tagline": "",
+      "pub_date": "2025-09-18T05:55:33-07:00"
     },
     {
       "title": "Smart Miles",
@@ -278,28 +233,10 @@
       "pub_date": "2026-05-21T06:17:20-07:00"
     },
     {
-      "title": "motionvid.ai",
-      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "title": "DecisionBox for Databricks",
+      "url": "https://www.producthunt.com/products/decisionbox",
       "tagline": "",
-      "pub_date": "2026-05-21T04:32:41-07:00"
-    },
-    {
-      "title": "TestSprite 3.0",
-      "url": "https://www.producthunt.com/products/testsprite",
-      "tagline": "",
-      "pub_date": "2026-05-11T21:22:39-07:00"
-    },
-    {
-      "title": "General Compute",
-      "url": "https://www.producthunt.com/products/general-compute",
-      "tagline": "",
-      "pub_date": "2026-04-22T08:18:34-07:00"
-    },
-    {
-      "title": "Cleo",
-      "url": "https://www.producthunt.com/products/cleo-4",
-      "tagline": "",
-      "pub_date": "2026-05-21T04:50:50-07:00"
+      "pub_date": "2026-05-21T22:02:35-07:00"
     },
     {
       "title": "Shroomie",
@@ -308,10 +245,46 @@
       "pub_date": "2026-05-21T23:49:14-07:00"
     },
     {
+      "title": "Faby",
+      "url": "https://www.producthunt.com/products/faby",
+      "tagline": "",
+      "pub_date": "2026-05-21T23:35:09-07:00"
+    },
+    {
+      "title": "moop",
+      "url": "https://www.producthunt.com/products/moop",
+      "tagline": "",
+      "pub_date": "2026-05-20T14:51:18-07:00"
+    },
+    {
+      "title": "Nota: AI Notes &amp; Voice",
+      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "tagline": "",
+      "pub_date": "2026-05-22T06:47:02-07:00"
+    },
+    {
+      "title": "whosthere",
+      "url": "https://www.producthunt.com/products/whosthere",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:55:27-07:00"
+    },
+    {
       "title": "Our Stories",
       "url": "https://www.producthunt.com/products/our-stories",
       "tagline": "",
       "pub_date": "2026-05-17T15:53:34-07:00"
+    },
+    {
+      "title": "JAMtime.ai",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T20:17:59-07:00"
+    },
+    {
+      "title": "motionvid.ai",
+      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T04:32:41-07:00"
     },
     {
       "title": "DCP",
@@ -320,22 +293,22 @@
       "pub_date": "2026-05-21T15:45:53-07:00"
     },
     {
-      "title": "Shuffle Design CLI",
-      "url": "https://www.producthunt.com/products/shuffle-design-cli",
+      "title": "Zero Assist",
+      "url": "https://www.producthunt.com/products/zero-assist",
       "tagline": "",
-      "pub_date": "2026-05-21T12:18:28-07:00"
+      "pub_date": "2026-05-21T08:06:30-07:00"
     },
     {
-      "title": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "title": "Reader Alive",
+      "url": "https://www.producthunt.com/products/reader-alive",
       "tagline": "",
-      "pub_date": "2026-05-04T00:53:37-07:00"
+      "pub_date": "2026-05-21T01:06:07-07:00"
     },
     {
-      "title": "Nugget AI",
-      "url": "https://www.producthunt.com/products/nugget-ai",
+      "title": "buildpipe",
+      "url": "https://www.producthunt.com/products/buildpipe",
       "tagline": "",
-      "pub_date": "2026-05-21T19:35:07-07:00"
+      "pub_date": "2026-05-21T13:28:41-07:00"
     },
     {
       "title": "SuprSend AI",
@@ -344,10 +317,10 @@
       "pub_date": "2026-04-01T22:55:17-07:00"
     },
     {
-      "title": "moop",
-      "url": "https://www.producthunt.com/products/moop",
+      "title": "Nugget AI",
+      "url": "https://www.producthunt.com/products/nugget-ai",
       "tagline": "",
-      "pub_date": "2026-05-20T14:51:18-07:00"
+      "pub_date": "2026-05-21T19:35:07-07:00"
     }
   ]
 }

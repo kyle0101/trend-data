@@ -1,51 +1,24 @@
 {
-  "generated_at": "2026-05-24T08:20:49.603Z",
+  "generated_at": "2026-05-24T13:07:18.604Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [],
   "hn_front": [
     {
-      "title": "On The <dl> (2021)",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "hn_url": "https://news.ycombinator.com/item?id=48247325",
-      "points": 387,
-      "comments": 110,
-      "created_ts": 1779541423,
-      "author": "ravenical"
-    },
-    {
       "title": "Time to talk about my writerdeck",
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
       "hn_url": "https://news.ycombinator.com/item?id=48250144",
-      "points": 364,
-      "comments": 210,
+      "points": 399,
+      "comments": 235,
       "created_ts": 1779561937,
       "author": "hggh"
-    },
-    {
-      "title": "The Art of Money Getting",
-      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "hn_url": "https://news.ycombinator.com/item?id=48247208",
-      "points": 274,
-      "comments": 149,
-      "created_ts": 1779540482,
-      "author": "dxs"
-    },
-    {
-      "title": "80386 microcode disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "hn_url": "https://news.ycombinator.com/item?id=48247004",
-      "points": 247,
-      "comments": 47,
-      "created_ts": 1779538303,
-      "author": "nand2mario"
     },
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "hn_url": "https://news.ycombinator.com/item?id=48253386",
-      "points": 213,
-      "comments": 50,
+      "points": 315,
+      "comments": 96,
       "created_ts": 1779585673,
       "author": "DamnInteresting"
     },
@@ -53,8 +26,8 @@
       "title": "Wake up! 16b",
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
       "hn_url": "https://news.ycombinator.com/item?id=48253060",
-      "points": 192,
-      "comments": 12,
+      "points": 290,
+      "comments": 20,
       "created_ts": 1779582650,
       "author": "MaximilianEmel"
     },
@@ -62,54 +35,36 @@
       "title": "Amazon Web Services – Four Years and Out",
       "url": "https://www.adventuresinoss.com/aws-four-years/",
       "hn_url": "https://news.ycombinator.com/item?id=48254475",
-      "points": 183,
-      "comments": 48,
+      "points": 248,
+      "comments": 90,
       "created_ts": 1779598282,
       "author": "RyeCombinator"
-    },
-    {
-      "title": "-​-dangerously-skip-reading-code",
-      "url": "https://olano.dev/blog/dangerously-skip/",
-      "hn_url": "https://news.ycombinator.com/item?id=48246232",
-      "points": 138,
-      "comments": 135,
-      "created_ts": 1779529036,
-      "author": "fagnerbrack"
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "hn_url": "https://news.ycombinator.com/item?id=48253186",
-      "points": 129,
-      "comments": 43,
-      "created_ts": 1779583892,
-      "author": "spike021"
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
       "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
       "hn_url": "https://news.ycombinator.com/item?id=48254309",
-      "points": 108,
-      "comments": 26,
+      "points": 221,
+      "comments": 101,
       "created_ts": 1779596092,
       "author": "zdw"
     },
     {
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48248954",
-      "points": 102,
-      "comments": 21,
-      "created_ts": 1779553490,
-      "author": "elpocko"
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "hn_url": "https://news.ycombinator.com/item?id=48253186",
+      "points": 181,
+      "comments": 89,
+      "created_ts": 1779583892,
+      "author": "spike021"
     }
   ],
   "ph_today": [
     {
-      "title": "DynamicNotch",
-      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "title": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
       "tagline": "",
-      "pub_date": "2026-05-23T12:24:38-07:00"
+      "pub_date": "2026-05-18T18:08:40-07:00"
     },
     {
       "title": "Stitch 3.0 by Google",
@@ -118,28 +73,10 @@
       "pub_date": "2026-05-19T22:55:36-07:00"
     },
     {
-      "title": "Runway Agent",
-      "url": "https://www.producthunt.com/products/runway-agent",
-      "tagline": "",
-      "pub_date": "2026-05-13T20:37:40-07:00"
-    },
-    {
-      "title": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli",
-      "tagline": "",
-      "pub_date": "2026-05-18T18:08:40-07:00"
-    },
-    {
       "title": "Edgee Fallback Models",
       "url": "https://www.producthunt.com/products/edgee",
       "tagline": "",
       "pub_date": "2026-05-21T14:20:06-07:00"
-    },
-    {
-      "title": "DockFlow",
-      "url": "https://www.producthunt.com/products/dockflow",
-      "tagline": "",
-      "pub_date": "2026-05-23T13:10:35-07:00"
     },
     {
       "title": "ModelHub",
@@ -148,16 +85,28 @@
       "pub_date": "2026-05-22T09:29:50-07:00"
     },
     {
+      "title": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "tagline": "",
+      "pub_date": "2026-05-23T12:24:38-07:00"
+    },
+    {
+      "title": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "tagline": "",
+      "pub_date": "2026-05-13T20:37:40-07:00"
+    },
+    {
+      "title": "DockFlow",
+      "url": "https://www.producthunt.com/products/dockflow",
+      "tagline": "",
+      "pub_date": "2026-05-23T13:10:35-07:00"
+    },
+    {
       "title": "WhatCable",
       "url": "https://www.producthunt.com/products/whatcable",
       "tagline": "",
       "pub_date": "2026-05-22T07:23:28-07:00"
-    },
-    {
-      "title": "Forsy",
-      "url": "https://www.producthunt.com/products/forsy",
-      "tagline": "",
-      "pub_date": "2026-05-13T02:49:52-07:00"
     },
     {
       "title": "Command A+",
@@ -166,40 +115,16 @@
       "pub_date": "2026-05-22T07:16:45-07:00"
     },
     {
+      "title": "Kosshi",
+      "url": "https://www.producthunt.com/products/kosshi",
+      "tagline": "",
+      "pub_date": "2026-05-11T09:35:05-07:00"
+    },
+    {
       "title": "Spantop",
       "url": "https://www.producthunt.com/products/spantop",
       "tagline": "",
       "pub_date": "2026-05-21T21:14:40-07:00"
-    },
-    {
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "tagline": "",
-      "pub_date": "2026-05-22T19:56:16-07:00"
-    },
-    {
-      "title": "Memdex",
-      "url": "https://www.producthunt.com/products/memdex",
-      "tagline": "",
-      "pub_date": "2026-05-12T05:27:45-07:00"
-    },
-    {
-      "title": "Area Contrast Checker",
-      "url": "https://www.producthunt.com/products/area-contrast-checker",
-      "tagline": "",
-      "pub_date": "2026-05-15T06:06:37-07:00"
-    },
-    {
-      "title": "RetroMac",
-      "url": "https://www.producthunt.com/products/retromac",
-      "tagline": "",
-      "pub_date": "2026-05-22T03:09:53-07:00"
-    },
-    {
-      "title": "Google Antigravity CLI",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:19:28-07:00"
     },
     {
       "title": "Vibedock",
@@ -208,16 +133,22 @@
       "pub_date": "2026-05-22T06:28:39-07:00"
     },
     {
+      "title": "Forsy",
+      "url": "https://www.producthunt.com/products/forsy",
+      "tagline": "",
+      "pub_date": "2026-05-13T02:49:52-07:00"
+    },
+    {
       "title": "Bulkmark",
       "url": "https://www.producthunt.com/products/bulkmark-2",
       "tagline": "",
       "pub_date": "2026-04-14T02:14:14-07:00"
     },
     {
-      "title": "Finderlock",
-      "url": "https://www.producthunt.com/products/finderlock",
+      "title": "Google Antigravity CLI",
+      "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
-      "pub_date": "2025-09-18T05:55:33-07:00"
+      "pub_date": "2026-05-19T22:19:28-07:00"
     },
     {
       "title": "note.md",
@@ -226,52 +157,58 @@
       "pub_date": "2026-05-22T02:27:42-07:00"
     },
     {
-      "title": "Kosshi",
-      "url": "https://www.producthunt.com/products/kosshi",
-      "tagline": "",
-      "pub_date": "2026-05-11T09:35:05-07:00"
-    },
-    {
       "title": "Coca 2.0",
       "url": "https://www.producthunt.com/products/coca-2-0",
       "tagline": "",
       "pub_date": "2026-05-10T12:34:57-07:00"
     },
     {
-      "title": "motionvid.ai",
-      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "title": "Area Contrast Checker",
+      "url": "https://www.producthunt.com/products/area-contrast-checker",
       "tagline": "",
-      "pub_date": "2026-05-21T04:32:41-07:00"
+      "pub_date": "2026-05-15T06:06:37-07:00"
     },
     {
-      "title": "Nota: AI Notes &amp; Voice",
-      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "title": "Finderlock",
+      "url": "https://www.producthunt.com/products/finderlock",
       "tagline": "",
-      "pub_date": "2026-05-22T06:47:02-07:00"
+      "pub_date": "2025-09-18T05:55:33-07:00"
     },
     {
-      "title": "Auto Posts",
-      "url": "https://www.producthunt.com/products/auto-posts",
+      "title": "Memdex",
+      "url": "https://www.producthunt.com/products/memdex",
       "tagline": "",
-      "pub_date": "2026-05-19T13:23:55-07:00"
+      "pub_date": "2026-05-12T05:27:45-07:00"
     },
     {
-      "title": "Faby",
-      "url": "https://www.producthunt.com/products/faby",
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
       "tagline": "",
-      "pub_date": "2026-05-21T23:35:09-07:00"
+      "pub_date": "2026-05-22T19:56:16-07:00"
     },
     {
-      "title": "Shuffle Design CLI",
-      "url": "https://www.producthunt.com/products/shuffle-design-cli",
+      "title": "RetroMac",
+      "url": "https://www.producthunt.com/products/retromac",
       "tagline": "",
-      "pub_date": "2026-05-21T12:18:28-07:00"
+      "pub_date": "2026-05-22T03:09:53-07:00"
     },
     {
-      "title": "Shroomie",
-      "url": "https://www.producthunt.com/products/shroomie",
+      "title": "AGG Identify",
+      "url": "https://www.producthunt.com/products/agg-identify",
       "tagline": "",
-      "pub_date": "2026-05-21T23:49:14-07:00"
+      "pub_date": "2026-05-17T11:03:02-07:00"
+    },
+    {
+      "title": "Smart Miles",
+      "url": "https://www.producthunt.com/products/smart-miles",
+      "tagline": "",
+      "pub_date": "2026-05-21T06:17:20-07:00"
+    },
+    {
+      "title": "iPromise",
+      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:45:24-07:00"
     },
     {
       "title": "DCP",
@@ -280,10 +217,28 @@
       "pub_date": "2026-05-21T15:45:53-07:00"
     },
     {
-      "title": "Reader Alive",
-      "url": "https://www.producthunt.com/products/reader-alive",
+      "title": "Shuffle Design CLI",
+      "url": "https://www.producthunt.com/products/shuffle-design-cli",
       "tagline": "",
-      "pub_date": "2026-05-21T01:06:07-07:00"
+      "pub_date": "2026-05-21T12:18:28-07:00"
+    },
+    {
+      "title": "JAMtime.ai",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T20:17:59-07:00"
+    },
+    {
+      "title": "motionvid.ai",
+      "url": "https://www.producthunt.com/products/motionvid-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T04:32:41-07:00"
+    },
+    {
+      "title": "Zero Assist",
+      "url": "https://www.producthunt.com/products/zero-assist",
+      "tagline": "",
+      "pub_date": "2026-05-21T08:06:30-07:00"
     }
   ]
 }

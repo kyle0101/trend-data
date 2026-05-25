@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T02:45:05.474Z",
+  "generated_at": "2026-05-25T09:53:31.945Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,28 @@
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
       "hn_url": "https://news.ycombinator.com/item?id=48258015",
-      "points": 190,
-      "comments": 46,
+      "points": 365,
+      "comments": 81,
       "created_ts": 1779636343,
       "author": "pantelisk"
+    },
+    {
+      "title": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+      "url": "https://codeberg.org/hydrafog/kanban",
+      "hn_url": "https://news.ycombinator.com/item?id=48256520",
+      "points": 12,
+      "comments": 8,
+      "created_ts": 1779623675,
+      "author": "hydra-f"
+    },
+    {
+      "title": "Show HN: The Front Page – Newspaper-style front page for Hacker News",
+      "url": "https://thefrontpage.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48257715",
+      "points": 12,
+      "comments": 4,
+      "created_ts": 1779634241,
+      "author": "stagas"
     }
   ],
   "hn_front": [
@@ -18,8 +36,8 @@
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "hn_url": "https://news.ycombinator.com/item?id=48256953",
-      "points": 454,
-      "comments": 199,
+      "points": 561,
+      "comments": 233,
       "created_ts": 1779627726,
       "author": "Alifatisk"
     },
@@ -27,153 +45,189 @@
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "hn_url": "https://news.ycombinator.com/item?id=48258684",
-      "points": 310,
-      "comments": 331,
+      "points": 387,
+      "comments": 396,
       "created_ts": 1779640289,
       "author": "intelkishan"
-    },
-    {
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "hn_url": "https://news.ycombinator.com/item?id=48254309",
-      "points": 303,
-      "comments": 182,
-      "created_ts": 1779596092,
-      "author": "zdw"
     },
     {
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
       "hn_url": "https://news.ycombinator.com/item?id=48258015",
-      "points": 190,
-      "comments": 46,
+      "points": 365,
+      "comments": 81,
       "created_ts": 1779636343,
       "author": "pantelisk"
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "hn_url": "https://news.ycombinator.com/item?id=48256912",
-      "points": 184,
-      "comments": 89,
-      "created_ts": 1779627353,
-      "author": "wek"
-    },
-    {
-      "title": "Greg Brockman interview [video]",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "hn_url": "https://news.ycombinator.com/item?id=48255593",
-      "points": 180,
-      "comments": 179,
-      "created_ts": 1779611378,
-      "author": "prakashqwerty"
-    },
-    {
-      "title": "Childhood Computing",
-      "url": "https://susam.net/childhood-computing.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48256597",
-      "points": 164,
-      "comments": 87,
-      "created_ts": 1779624454,
-      "author": "blenderob"
-    },
-    {
-      "title": "Usborne 1980s Computer Books",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "hn_url": "https://news.ycombinator.com/item?id=48258194",
-      "points": 160,
-      "comments": 48,
-      "created_ts": 1779637380,
-      "author": "ngram"
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48263238",
+      "points": 327,
+      "comments": 261,
+      "created_ts": 1779680844,
+      "author": "razin"
     },
     {
       "title": "Migrating from Go to Rust",
       "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
       "hn_url": "https://news.ycombinator.com/item?id=48259808",
-      "points": 141,
-      "comments": 139,
+      "points": 280,
+      "comments": 273,
       "created_ts": 1779647502,
       "author": "jabits"
     },
     {
-      "title": "The C64 Dead Test Font",
-      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "hn_url": "https://news.ycombinator.com/item?id=48254236",
-      "points": 128,
-      "comments": 25,
-      "created_ts": 1779595021,
-      "author": "masswerk"
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "hn_url": "https://news.ycombinator.com/item?id=48256912",
+      "points": 240,
+      "comments": 137,
+      "created_ts": 1779627353,
+      "author": "wek"
+    },
+    {
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256597",
+      "points": 211,
+      "comments": 99,
+      "created_ts": 1779624454,
+      "author": "blenderob"
+    },
+    {
+      "title": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48263253",
+      "points": 173,
+      "comments": 75,
+      "created_ts": 1779681254,
+      "author": "vinhnx"
+    },
+    {
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "hn_url": "https://news.ycombinator.com/item?id=48260117",
+      "points": 163,
+      "comments": 79,
+      "created_ts": 1779649826,
+      "author": "littlexsparkee"
     },
     {
       "title": "Mastering Dyalog APL",
       "url": "https://mastering.dyalog.com/README.html",
       "hn_url": "https://news.ycombinator.com/item?id=48256475",
-      "points": 127,
-      "comments": 36,
+      "points": 143,
+      "comments": 37,
       "created_ts": 1779622935,
       "author": "tosh"
-    },
-    {
-      "title": "Ruby for Good",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "hn_url": "https://news.ycombinator.com/item?id=48258254",
-      "points": 122,
-      "comments": 52,
-      "created_ts": 1779637759,
-      "author": "mooreds"
     },
     {
       "title": "Defeating Git Rigour Fatigue with Jujutsu",
       "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
       "hn_url": "https://news.ycombinator.com/item?id=48259861",
-      "points": 101,
-      "comments": 94,
+      "points": 121,
+      "comments": 128,
       "created_ts": 1779647950,
       "author": "ikesau"
     }
   ],
   "ph_today": [
     {
-      "title": "ModelHub",
-      "url": "https://www.producthunt.com/products/modelhub",
+      "title": "Forum",
+      "url": "https://www.producthunt.com/products/meta",
       "tagline": "",
-      "pub_date": "2026-05-22T09:29:50-07:00"
+      "pub_date": "2026-05-23T08:32:02-07:00"
     },
     {
-      "title": "DynamicNotch",
-      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "title": "own.page",
+      "url": "https://www.producthunt.com/products/own-page",
       "tagline": "",
-      "pub_date": "2026-05-23T12:24:38-07:00"
+      "pub_date": "2026-05-21T11:24:54-07:00"
     },
     {
-      "title": "Edgee Fallback Models",
-      "url": "https://www.producthunt.com/products/edgee",
+      "title": "tweet.md",
+      "url": "https://www.producthunt.com/products/tweet-md",
       "tagline": "",
-      "pub_date": "2026-05-21T14:20:06-07:00"
+      "pub_date": "2026-05-22T01:55:53-07:00"
     },
     {
-      "title": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli",
+      "title": "The Incident Challenge",
+      "url": "https://www.producthunt.com/products/the-incident-challenge",
       "tagline": "",
-      "pub_date": "2026-05-18T18:08:40-07:00"
+      "pub_date": "2026-05-24T01:08:15-07:00"
     },
     {
-      "title": "Runway Agent",
-      "url": "https://www.producthunt.com/products/runway-agent",
+      "title": "Databerry",
+      "url": "https://www.producthunt.com/products/databerry",
       "tagline": "",
-      "pub_date": "2026-05-13T20:37:40-07:00"
+      "pub_date": "2026-04-27T11:11:26-07:00"
     },
     {
-      "title": "DockFlow",
-      "url": "https://www.producthunt.com/products/dockflow",
+      "title": "Pi Coding Agent",
+      "url": "https://www.producthunt.com/products/pi-coding-agent-3",
       "tagline": "",
-      "pub_date": "2026-05-23T13:10:35-07:00"
+      "pub_date": "2026-05-24T20:24:52-07:00"
     },
     {
-      "title": "WhatCable",
-      "url": "https://www.producthunt.com/products/whatcable",
+      "title": "Orchestria",
+      "url": "https://www.producthunt.com/products/orchestria",
       "tagline": "",
-      "pub_date": "2026-05-22T07:23:28-07:00"
+      "pub_date": "2026-05-22T08:00:33-07:00"
+    },
+    {
+      "title": "Fred",
+      "url": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
+      "tagline": "",
+      "pub_date": "2026-05-19T03:30:23-07:00"
+    },
+    {
+      "title": "LLMTest",
+      "url": "https://www.producthunt.com/products/llmtest-2",
+      "tagline": "",
+      "pub_date": "2026-05-22T01:28:23-07:00"
+    },
+    {
+      "title": "Supaboard 3.0",
+      "url": "https://www.producthunt.com/products/supaboard-ai",
+      "tagline": "",
+      "pub_date": "2026-05-12T02:29:52-07:00"
+    },
+    {
+      "title": "Tiny CV",
+      "url": "https://www.producthunt.com/products/tiny-cv",
+      "tagline": "",
+      "pub_date": "2026-05-24T19:35:30-07:00"
+    },
+    {
+      "title": "tldx",
+      "url": "https://www.producthunt.com/products/tldx",
+      "tagline": "",
+      "pub_date": "2026-05-24T07:53:43-07:00"
+    },
+    {
+      "title": "Unabyss",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "tagline": "",
+      "pub_date": "2026-05-06T16:16:51-07:00"
+    },
+    {
+      "title": "Yansu",
+      "url": "https://www.producthunt.com/products/yansu",
+      "tagline": "",
+      "pub_date": "2026-05-23T18:28:56-07:00"
+    },
+    {
+      "title": "Rixx",
+      "url": "https://www.producthunt.com/products/rixx",
+      "tagline": "",
+      "pub_date": "2026-05-19T05:51:38-07:00"
+    },
+    {
+      "title": "MashuPack",
+      "url": "https://www.producthunt.com/products/mashupack",
+      "tagline": "",
+      "pub_date": "2026-05-24T23:30:11-07:00"
     },
     {
       "title": "Stitch 3.0 by Google",
@@ -182,34 +236,46 @@
       "pub_date": "2026-05-19T22:55:36-07:00"
     },
     {
-      "title": "Command A+",
-      "url": "https://www.producthunt.com/products/cohere-2",
+      "title": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
       "tagline": "",
-      "pub_date": "2026-05-22T07:16:45-07:00"
+      "pub_date": "2026-05-18T18:08:40-07:00"
     },
     {
-      "title": "Bulkmark",
-      "url": "https://www.producthunt.com/products/bulkmark-2",
+      "title": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
       "tagline": "",
-      "pub_date": "2026-04-14T02:14:14-07:00"
+      "pub_date": "2026-05-22T07:23:28-07:00"
     },
     {
-      "title": "Memdex",
-      "url": "https://www.producthunt.com/products/memdex",
+      "title": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
       "tagline": "",
-      "pub_date": "2026-05-12T05:27:45-07:00"
+      "pub_date": "2026-05-23T12:24:38-07:00"
     },
     {
-      "title": "Vibedock",
-      "url": "https://www.producthunt.com/products/vibedock",
+      "title": "ModelHub",
+      "url": "https://www.producthunt.com/products/modelhub",
       "tagline": "",
-      "pub_date": "2026-05-22T06:28:39-07:00"
+      "pub_date": "2026-05-22T09:29:50-07:00"
     },
     {
-      "title": "Coca 2.0",
-      "url": "https://www.producthunt.com/products/coca-2-0",
+      "title": "DockFlow",
+      "url": "https://www.producthunt.com/products/dockflow",
       "tagline": "",
-      "pub_date": "2026-05-10T12:34:57-07:00"
+      "pub_date": "2026-05-23T13:10:35-07:00"
+    },
+    {
+      "title": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "tagline": "",
+      "pub_date": "2026-05-13T20:37:40-07:00"
+    },
+    {
+      "title": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee",
+      "tagline": "",
+      "pub_date": "2026-05-21T14:20:06-07:00"
     },
     {
       "title": "RetroMac",
@@ -218,100 +284,34 @@
       "pub_date": "2026-05-22T03:09:53-07:00"
     },
     {
-      "title": "note.md",
-      "url": "https://www.producthunt.com/products/note-md",
-      "tagline": "",
-      "pub_date": "2026-05-22T02:27:42-07:00"
-    },
-    {
       "title": "Google Antigravity CLI",
       "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
       "pub_date": "2026-05-19T22:19:28-07:00"
     },
     {
-      "title": "Forsy",
-      "url": "https://www.producthunt.com/products/forsy",
+      "title": "note.md",
+      "url": "https://www.producthunt.com/products/note-md",
       "tagline": "",
-      "pub_date": "2026-05-13T02:49:52-07:00"
+      "pub_date": "2026-05-22T02:27:42-07:00"
     },
     {
-      "title": "Kosshi",
-      "url": "https://www.producthunt.com/products/kosshi",
+      "title": "Memdex",
+      "url": "https://www.producthunt.com/products/memdex",
       "tagline": "",
-      "pub_date": "2026-05-11T09:35:05-07:00"
+      "pub_date": "2026-05-12T05:27:45-07:00"
     },
     {
-      "title": "Finderlock",
-      "url": "https://www.producthunt.com/products/finderlock",
+      "title": "Bulkmark",
+      "url": "https://www.producthunt.com/products/bulkmark-2",
       "tagline": "",
-      "pub_date": "2025-09-18T05:55:33-07:00"
-    },
-    {
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "tagline": "",
-      "pub_date": "2026-05-22T19:56:16-07:00"
-    },
-    {
-      "title": "Area Contrast Checker",
-      "url": "https://www.producthunt.com/products/area-contrast-checker",
-      "tagline": "",
-      "pub_date": "2026-05-15T06:06:37-07:00"
+      "pub_date": "2026-04-14T02:14:14-07:00"
     },
     {
       "title": "Spantop",
       "url": "https://www.producthunt.com/products/spantop",
       "tagline": "",
       "pub_date": "2026-05-21T21:14:40-07:00"
-    },
-    {
-      "title": "AGG Identify",
-      "url": "https://www.producthunt.com/products/agg-identify",
-      "tagline": "",
-      "pub_date": "2026-05-17T11:03:02-07:00"
-    },
-    {
-      "title": "Smart Miles",
-      "url": "https://www.producthunt.com/products/smart-miles",
-      "tagline": "",
-      "pub_date": "2026-05-21T06:17:20-07:00"
-    },
-    {
-      "title": "HelioPeak",
-      "url": "https://www.producthunt.com/products/heliopeak",
-      "tagline": "",
-      "pub_date": "2026-05-21T05:11:56-07:00"
-    },
-    {
-      "title": "DecisionBox for Databricks",
-      "url": "https://www.producthunt.com/products/decisionbox",
-      "tagline": "",
-      "pub_date": "2026-05-21T22:02:35-07:00"
-    },
-    {
-      "title": "Shuffle Design CLI",
-      "url": "https://www.producthunt.com/products/shuffle-design-cli",
-      "tagline": "",
-      "pub_date": "2026-05-21T12:18:28-07:00"
-    },
-    {
-      "title": "SuprSend AI",
-      "url": "https://www.producthunt.com/products/suprsend",
-      "tagline": "",
-      "pub_date": "2026-04-01T22:55:17-07:00"
-    },
-    {
-      "title": "Auto Posts",
-      "url": "https://www.producthunt.com/products/auto-posts",
-      "tagline": "",
-      "pub_date": "2026-05-19T13:23:55-07:00"
-    },
-    {
-      "title": "Cleo",
-      "url": "https://www.producthunt.com/products/cleo-4",
-      "tagline": "",
-      "pub_date": "2026-05-21T04:50:50-07:00"
     }
   ]
 }

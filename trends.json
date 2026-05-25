@@ -1,173 +1,89 @@
 {
-  "generated_at": "2026-05-25T14:40:17.345Z",
+  "generated_at": "2026-05-25T19:18:24.684Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "hn_url": "https://news.ycombinator.com/item?id=48258015",
-      "points": 433,
-      "comments": 92,
-      "created_ts": 1779636343,
-      "author": "pantelisk"
-    },
-    {
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "title": "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
       "url": "https://www.tinyvolt.com/geomatic",
       "hn_url": "https://news.ycombinator.com/item?id=48264635",
-      "points": 38,
-      "comments": 9,
+      "points": 55,
+      "comments": 13,
       "created_ts": 1779697500,
       "author": "nivter"
-    },
-    {
-      "title": "Show HN: The Front Page – Newspaper-style front page for Hacker News",
-      "url": "https://thefrontpage.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=48257715",
-      "points": 18,
-      "comments": 6,
-      "created_ts": 1779634241,
-      "author": "stagas"
     }
   ],
   "hn_front": [
     {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "hn_url": "https://news.ycombinator.com/item?id=48258015",
-      "points": 433,
-      "comments": 92,
-      "created_ts": 1779636343,
-      "author": "pantelisk"
-    },
-    {
-      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
       "hn_url": "https://news.ycombinator.com/item?id=48265206",
-      "points": 383,
-      "comments": 142,
+      "points": 983,
+      "comments": 427,
       "created_ts": 1779703889,
       "author": "theletterf"
-    },
-    {
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "hn_url": "https://news.ycombinator.com/item?id=48259808",
-      "points": 362,
-      "comments": 352,
-      "created_ts": 1779647502,
-      "author": "jabits"
-    },
-    {
-      "title": "Search engines alternatives now that Google isn't Google anymore",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "hn_url": "https://news.ycombinator.com/item?id=48266051",
-      "points": 286,
-      "comments": 229,
-      "created_ts": 1779712031,
-      "author": "elorant"
     },
     {
       "title": "Jira Is Turing-Complete",
       "url": "https://seriot.ch/computation/jira.html",
       "hn_url": "https://news.ycombinator.com/item?id=48263253",
-      "points": 236,
-      "comments": 107,
+      "points": 283,
+      "comments": 132,
       "created_ts": 1779681254,
       "author": "vinhnx"
     },
     {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "hn_url": "https://news.ycombinator.com/item?id=48260117",
-      "points": 197,
-      "comments": 99,
-      "created_ts": 1779649826,
-      "author": "littlexsparkee"
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "hn_url": "https://news.ycombinator.com/item?id=48266906",
+      "points": 205,
+      "comments": 51,
+      "created_ts": 1779717399,
+      "author": "jruohonen"
     },
     {
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "hn_url": "https://news.ycombinator.com/item?id=48259861",
-      "points": 155,
-      "comments": 150,
-      "created_ts": 1779647950,
-      "author": "ikesau"
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+      "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "hn_url": "https://news.ycombinator.com/item?id=48266422",
+      "points": 134,
+      "comments": 108,
+      "created_ts": 1779714593,
+      "author": "cdrnsf"
     },
     {
-      "title": "Leave Me Behind",
-      "url": "http://androidessence.com/leave-me-behind/",
-      "hn_url": "https://news.ycombinator.com/item?id=48265876",
-      "points": 137,
-      "comments": 95,
-      "created_ts": 1779710634,
-      "author": "mooreds"
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "hn_url": "https://news.ycombinator.com/item?id=48265056",
+      "points": 110,
+      "comments": 37,
+      "created_ts": 1779702183,
+      "author": "rbanffy"
     },
     {
-      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-      "hn_url": "https://news.ycombinator.com/item?id=48266485",
-      "points": 114,
-      "comments": 40,
-      "created_ts": 1779715078,
-      "author": "benwerd"
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48267126",
+      "points": 103,
+      "comments": 28,
+      "created_ts": 1779718519,
+      "author": "xngbuilds"
+    },
+    {
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "hn_url": "https://news.ycombinator.com/item?id=48269961",
+      "points": 101,
+      "comments": 44,
+      "created_ts": 1779733198,
+      "author": "rbanffy"
     }
   ],
   "ph_today": [
     {
-      "title": "Pi Coding Agent",
-      "url": "https://www.producthunt.com/products/pi-coding-agent-3",
+      "title": "Forum",
+      "url": "https://www.producthunt.com/products/meta",
       "tagline": "",
-      "pub_date": "2026-05-24T20:24:52-07:00"
-    },
-    {
-      "title": "Tiny CV",
-      "url": "https://www.producthunt.com/products/tiny-cv",
-      "tagline": "",
-      "pub_date": "2026-05-24T19:35:30-07:00"
-    },
-    {
-      "title": "LLMTest",
-      "url": "https://www.producthunt.com/products/llmtest-2",
-      "tagline": "",
-      "pub_date": "2026-05-22T01:28:23-07:00"
-    },
-    {
-      "title": "Fred",
-      "url": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
-      "tagline": "",
-      "pub_date": "2026-05-19T03:30:23-07:00"
-    },
-    {
-      "title": "Unabyss",
-      "url": "https://www.producthunt.com/products/unabyss",
-      "tagline": "",
-      "pub_date": "2026-05-06T16:16:51-07:00"
-    },
-    {
-      "title": "Rixx",
-      "url": "https://www.producthunt.com/products/rixx",
-      "tagline": "",
-      "pub_date": "2026-05-19T05:51:38-07:00"
-    },
-    {
-      "title": "tldx",
-      "url": "https://www.producthunt.com/products/tldx",
-      "tagline": "",
-      "pub_date": "2026-05-24T07:53:43-07:00"
-    },
-    {
-      "title": "MashuPack",
-      "url": "https://www.producthunt.com/products/mashupack",
-      "tagline": "",
-      "pub_date": "2026-05-24T23:30:11-07:00"
-    },
-    {
-      "title": "own.page",
-      "url": "https://www.producthunt.com/products/own-page",
-      "tagline": "",
-      "pub_date": "2026-05-21T11:24:54-07:00"
+      "pub_date": "2026-05-23T08:32:02-07:00"
     },
     {
       "title": "The Incident Challenge",
@@ -176,10 +92,22 @@
       "pub_date": "2026-05-24T01:08:15-07:00"
     },
     {
-      "title": "Orchestria",
-      "url": "https://www.producthunt.com/products/orchestria",
+      "title": "Yansu",
+      "url": "https://www.producthunt.com/products/yansu",
       "tagline": "",
-      "pub_date": "2026-05-22T08:00:33-07:00"
+      "pub_date": "2026-05-23T18:28:56-07:00"
+    },
+    {
+      "title": "Unabyss",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "tagline": "",
+      "pub_date": "2026-05-06T16:16:51-07:00"
+    },
+    {
+      "title": "Tiny CV",
+      "url": "https://www.producthunt.com/products/tiny-cv",
+      "tagline": "",
+      "pub_date": "2026-05-24T19:35:30-07:00"
     },
     {
       "title": "tweet.md",
@@ -194,46 +122,58 @@
       "pub_date": "2026-05-12T02:29:52-07:00"
     },
     {
-      "title": "Forum",
-      "url": "https://www.producthunt.com/products/meta",
-      "tagline": "",
-      "pub_date": "2026-05-23T08:32:02-07:00"
-    },
-    {
       "title": "Databerry",
       "url": "https://www.producthunt.com/products/databerry",
       "tagline": "",
       "pub_date": "2026-04-27T11:11:26-07:00"
     },
     {
-      "title": "Yansu",
-      "url": "https://www.producthunt.com/products/yansu",
+      "title": "Rixx",
+      "url": "https://www.producthunt.com/products/rixx",
       "tagline": "",
-      "pub_date": "2026-05-23T18:28:56-07:00"
+      "pub_date": "2026-05-19T05:51:38-07:00"
     },
     {
-      "title": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli",
+      "title": "Pi Coding Agent",
+      "url": "https://www.producthunt.com/products/pi-coding-agent-3",
       "tagline": "",
-      "pub_date": "2026-05-18T18:08:40-07:00"
+      "pub_date": "2026-05-24T20:24:52-07:00"
     },
     {
-      "title": "Edgee Fallback Models",
-      "url": "https://www.producthunt.com/products/edgee",
+      "title": "own.page",
+      "url": "https://www.producthunt.com/products/own-page",
       "tagline": "",
-      "pub_date": "2026-05-21T14:20:06-07:00"
+      "pub_date": "2026-05-21T11:24:54-07:00"
     },
     {
-      "title": "WhatCable",
-      "url": "https://www.producthunt.com/products/whatcable",
+      "title": "Orchestria",
+      "url": "https://www.producthunt.com/products/orchestria",
       "tagline": "",
-      "pub_date": "2026-05-22T07:23:28-07:00"
+      "pub_date": "2026-05-22T08:00:33-07:00"
     },
     {
-      "title": "Stitch 3.0 by Google",
-      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "title": "MashuPack",
+      "url": "https://www.producthunt.com/products/mashupack",
       "tagline": "",
-      "pub_date": "2026-05-19T22:55:36-07:00"
+      "pub_date": "2026-05-24T23:30:11-07:00"
+    },
+    {
+      "title": "tldx",
+      "url": "https://www.producthunt.com/products/tldx",
+      "tagline": "",
+      "pub_date": "2026-05-24T07:53:43-07:00"
+    },
+    {
+      "title": "Fred",
+      "url": "https://www.producthunt.com/products/fred-the-uxr-shepherd",
+      "tagline": "",
+      "pub_date": "2026-05-19T03:30:23-07:00"
+    },
+    {
+      "title": "LLMTest",
+      "url": "https://www.producthunt.com/products/llmtest-2",
+      "tagline": "",
+      "pub_date": "2026-05-22T01:28:23-07:00"
     },
     {
       "title": "DockFlow",
@@ -242,10 +182,10 @@
       "pub_date": "2026-05-23T13:10:35-07:00"
     },
     {
-      "title": "Runway Agent",
-      "url": "https://www.producthunt.com/products/runway-agent",
+      "title": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
       "tagline": "",
-      "pub_date": "2026-05-13T20:37:40-07:00"
+      "pub_date": "2026-05-22T07:23:28-07:00"
     },
     {
       "title": "DynamicNotch",
@@ -254,10 +194,46 @@
       "pub_date": "2026-05-23T12:24:38-07:00"
     },
     {
+      "title": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "tagline": "",
+      "pub_date": "2026-05-13T20:37:40-07:00"
+    },
+    {
       "title": "ModelHub",
       "url": "https://www.producthunt.com/products/modelhub",
       "tagline": "",
       "pub_date": "2026-05-22T09:29:50-07:00"
+    },
+    {
+      "title": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "tagline": "",
+      "pub_date": "2026-05-18T18:08:40-07:00"
+    },
+    {
+      "title": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:55:36-07:00"
+    },
+    {
+      "title": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee",
+      "tagline": "",
+      "pub_date": "2026-05-21T14:20:06-07:00"
+    },
+    {
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+      "tagline": "",
+      "pub_date": "2026-05-22T19:56:16-07:00"
+    },
+    {
+      "title": "Finderlock",
+      "url": "https://www.producthunt.com/products/finderlock",
+      "tagline": "",
+      "pub_date": "2025-09-18T05:55:33-07:00"
     },
     {
       "title": "Google Antigravity CLI",
@@ -272,28 +248,16 @@
       "pub_date": "2026-05-22T02:27:42-07:00"
     },
     {
+      "title": "Forsy",
+      "url": "https://www.producthunt.com/products/forsy",
+      "tagline": "",
+      "pub_date": "2026-05-13T02:49:52-07:00"
+    },
+    {
       "title": "Bulkmark",
       "url": "https://www.producthunt.com/products/bulkmark-2",
       "tagline": "",
       "pub_date": "2026-04-14T02:14:14-07:00"
-    },
-    {
-      "title": "Vibedock",
-      "url": "https://www.producthunt.com/products/vibedock",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:28:39-07:00"
-    },
-    {
-      "title": "Memdex",
-      "url": "https://www.producthunt.com/products/memdex",
-      "tagline": "",
-      "pub_date": "2026-05-12T05:27:45-07:00"
-    },
-    {
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "tagline": "",
-      "pub_date": "2026-05-22T19:56:16-07:00"
     }
   ]
 }

@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-05-24T19:06:26.496Z",
+  "generated_at": "2026-05-25T02:45:05.474Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: A platform to find people to jam on side projects with",
-      "url": "https://www.letsjam.live/",
-      "hn_url": "https://news.ycombinator.com/item?id=48253048",
-      "points": 12,
-      "comments": 14,
-      "created_ts": 1779582493,
-      "author": "itsmechase"
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48258015",
+      "points": 190,
+      "comments": 46,
+      "created_ts": 1779636343,
+      "author": "pantelisk"
     }
   ],
   "hn_front": [
     {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "hn_url": "https://news.ycombinator.com/item?id=48253386",
-      "points": 380,
-      "comments": 124,
-      "created_ts": 1779585673,
-      "author": "DamnInteresting"
-    },
-    {
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48253060",
-      "points": 371,
-      "comments": 25,
-      "created_ts": 1779582650,
-      "author": "MaximilianEmel"
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "hn_url": "https://news.ycombinator.com/item?id=48253186",
-      "points": 235,
-      "comments": 135,
-      "created_ts": 1779583892,
-      "author": "spike021"
-    },
-    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "hn_url": "https://news.ycombinator.com/item?id=48256953",
-      "points": 229,
-      "comments": 125,
+      "points": 454,
+      "comments": 199,
       "created_ts": 1779627726,
       "author": "Alifatisk"
     },
@@ -54,67 +27,124 @@
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "hn_url": "https://news.ycombinator.com/item?id=48258684",
-      "points": 131,
-      "comments": 131,
+      "points": 310,
+      "comments": 331,
       "created_ts": 1779640289,
       "author": "intelkishan"
     },
     {
-      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-      "hn_url": "https://news.ycombinator.com/item?id=48257410",
-      "points": 127,
-      "comments": 123,
-      "created_ts": 1779631773,
-      "author": "moh_maya"
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "hn_url": "https://news.ycombinator.com/item?id=48254309",
+      "points": 303,
+      "comments": 182,
+      "created_ts": 1779596092,
+      "author": "zdw"
     },
     {
-      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "hn_url": "https://news.ycombinator.com/item?id=48254020",
-      "points": 119,
-      "comments": 24,
-      "created_ts": 1779592742,
-      "author": "anujbans"
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48258015",
+      "points": 190,
+      "comments": 46,
+      "created_ts": 1779636343,
+      "author": "pantelisk"
+    },
+    {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "hn_url": "https://news.ycombinator.com/item?id=48256912",
+      "points": 184,
+      "comments": 89,
+      "created_ts": 1779627353,
+      "author": "wek"
+    },
+    {
+      "title": "Greg Brockman interview [video]",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "hn_url": "https://news.ycombinator.com/item?id=48255593",
+      "points": 180,
+      "comments": 179,
+      "created_ts": 1779611378,
+      "author": "prakashqwerty"
     },
     {
       "title": "Childhood Computing",
       "url": "https://susam.net/childhood-computing.html",
       "hn_url": "https://news.ycombinator.com/item?id=48256597",
-      "points": 116,
-      "comments": 63,
+      "points": 164,
+      "comments": 87,
       "created_ts": 1779624454,
       "author": "blenderob"
-    },
-    {
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "hn_url": "https://news.ycombinator.com/item?id=48257980",
-      "points": 115,
-      "comments": 85,
-      "created_ts": 1779636088,
-      "author": "Brajeshwar"
-    },
-    {
-      "title": "The C64 Dead Test Font",
-      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "hn_url": "https://news.ycombinator.com/item?id=48254236",
-      "points": 111,
-      "comments": 19,
-      "created_ts": 1779595021,
-      "author": "masswerk"
     },
     {
       "title": "Usborne 1980s Computer Books",
       "url": "https://usborne.com/us/books/computer-and-coding-books",
       "hn_url": "https://news.ycombinator.com/item?id=48258194",
-      "points": 107,
-      "comments": 34,
+      "points": 160,
+      "comments": 48,
       "created_ts": 1779637380,
       "author": "ngram"
+    },
+    {
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "hn_url": "https://news.ycombinator.com/item?id=48259808",
+      "points": 141,
+      "comments": 139,
+      "created_ts": 1779647502,
+      "author": "jabits"
+    },
+    {
+      "title": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "hn_url": "https://news.ycombinator.com/item?id=48254236",
+      "points": 128,
+      "comments": 25,
+      "created_ts": 1779595021,
+      "author": "masswerk"
+    },
+    {
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48256475",
+      "points": 127,
+      "comments": 36,
+      "created_ts": 1779622935,
+      "author": "tosh"
+    },
+    {
+      "title": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "hn_url": "https://news.ycombinator.com/item?id=48258254",
+      "points": 122,
+      "comments": 52,
+      "created_ts": 1779637759,
+      "author": "mooreds"
+    },
+    {
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48259861",
+      "points": 101,
+      "comments": 94,
+      "created_ts": 1779647950,
+      "author": "ikesau"
     }
   ],
   "ph_today": [
+    {
+      "title": "ModelHub",
+      "url": "https://www.producthunt.com/products/modelhub",
+      "tagline": "",
+      "pub_date": "2026-05-22T09:29:50-07:00"
+    },
+    {
+      "title": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "tagline": "",
+      "pub_date": "2026-05-23T12:24:38-07:00"
+    },
     {
       "title": "Edgee Fallback Models",
       "url": "https://www.producthunt.com/products/edgee",
@@ -128,28 +158,10 @@
       "pub_date": "2026-05-18T18:08:40-07:00"
     },
     {
-      "title": "ModelHub",
-      "url": "https://www.producthunt.com/products/modelhub",
-      "tagline": "",
-      "pub_date": "2026-05-22T09:29:50-07:00"
-    },
-    {
       "title": "Runway Agent",
       "url": "https://www.producthunt.com/products/runway-agent",
       "tagline": "",
       "pub_date": "2026-05-13T20:37:40-07:00"
-    },
-    {
-      "title": "Stitch 3.0 by Google",
-      "url": "https://www.producthunt.com/products/stitch-by-google",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:55:36-07:00"
-    },
-    {
-      "title": "WhatCable",
-      "url": "https://www.producthunt.com/products/whatcable",
-      "tagline": "",
-      "pub_date": "2026-05-22T07:23:28-07:00"
     },
     {
       "title": "DockFlow",
@@ -158,16 +170,28 @@
       "pub_date": "2026-05-23T13:10:35-07:00"
     },
     {
-      "title": "DynamicNotch",
-      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "title": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
       "tagline": "",
-      "pub_date": "2026-05-23T12:24:38-07:00"
+      "pub_date": "2026-05-22T07:23:28-07:00"
+    },
+    {
+      "title": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:55:36-07:00"
     },
     {
       "title": "Command A+",
       "url": "https://www.producthunt.com/products/cohere-2",
       "tagline": "",
       "pub_date": "2026-05-22T07:16:45-07:00"
+    },
+    {
+      "title": "Bulkmark",
+      "url": "https://www.producthunt.com/products/bulkmark-2",
+      "tagline": "",
+      "pub_date": "2026-04-14T02:14:14-07:00"
     },
     {
       "title": "Memdex",
@@ -182,22 +206,10 @@
       "pub_date": "2026-05-22T06:28:39-07:00"
     },
     {
-      "title": "Google Antigravity CLI",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "Coca 2.0",
+      "url": "https://www.producthunt.com/products/coca-2-0",
       "tagline": "",
-      "pub_date": "2026-05-19T22:19:28-07:00"
-    },
-    {
-      "title": "note.md",
-      "url": "https://www.producthunt.com/products/note-md",
-      "tagline": "",
-      "pub_date": "2026-05-22T02:27:42-07:00"
-    },
-    {
-      "title": "Bulkmark",
-      "url": "https://www.producthunt.com/products/bulkmark-2",
-      "tagline": "",
-      "pub_date": "2026-04-14T02:14:14-07:00"
+      "pub_date": "2026-05-10T12:34:57-07:00"
     },
     {
       "title": "RetroMac",
@@ -206,22 +218,28 @@
       "pub_date": "2026-05-22T03:09:53-07:00"
     },
     {
+      "title": "note.md",
+      "url": "https://www.producthunt.com/products/note-md",
+      "tagline": "",
+      "pub_date": "2026-05-22T02:27:42-07:00"
+    },
+    {
+      "title": "Google Antigravity CLI",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:19:28-07:00"
+    },
+    {
       "title": "Forsy",
       "url": "https://www.producthunt.com/products/forsy",
       "tagline": "",
       "pub_date": "2026-05-13T02:49:52-07:00"
     },
     {
-      "title": "Spantop",
-      "url": "https://www.producthunt.com/products/spantop",
+      "title": "Kosshi",
+      "url": "https://www.producthunt.com/products/kosshi",
       "tagline": "",
-      "pub_date": "2026-05-21T21:14:40-07:00"
-    },
-    {
-      "title": "Area Contrast Checker",
-      "url": "https://www.producthunt.com/products/area-contrast-checker",
-      "tagline": "",
-      "pub_date": "2026-05-15T06:06:37-07:00"
+      "pub_date": "2026-05-11T09:35:05-07:00"
     },
     {
       "title": "Finderlock",
@@ -236,16 +254,16 @@
       "pub_date": "2026-05-22T19:56:16-07:00"
     },
     {
-      "title": "Coca 2.0",
-      "url": "https://www.producthunt.com/products/coca-2-0",
+      "title": "Area Contrast Checker",
+      "url": "https://www.producthunt.com/products/area-contrast-checker",
       "tagline": "",
-      "pub_date": "2026-05-10T12:34:57-07:00"
+      "pub_date": "2026-05-15T06:06:37-07:00"
     },
     {
-      "title": "Kosshi",
-      "url": "https://www.producthunt.com/products/kosshi",
+      "title": "Spantop",
+      "url": "https://www.producthunt.com/products/spantop",
       "tagline": "",
-      "pub_date": "2026-05-11T09:35:05-07:00"
+      "pub_date": "2026-05-21T21:14:40-07:00"
     },
     {
       "title": "AGG Identify",
@@ -260,28 +278,22 @@
       "pub_date": "2026-05-21T06:17:20-07:00"
     },
     {
-      "title": "iPromise",
-      "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "title": "HelioPeak",
+      "url": "https://www.producthunt.com/products/heliopeak",
       "tagline": "",
-      "pub_date": "2026-05-21T03:45:24-07:00"
+      "pub_date": "2026-05-21T05:11:56-07:00"
     },
     {
-      "title": "Cleo",
-      "url": "https://www.producthunt.com/products/cleo-4",
+      "title": "DecisionBox for Databricks",
+      "url": "https://www.producthunt.com/products/decisionbox",
       "tagline": "",
-      "pub_date": "2026-05-21T04:50:50-07:00"
+      "pub_date": "2026-05-21T22:02:35-07:00"
     },
     {
-      "title": "DCP",
-      "url": "https://www.producthunt.com/products/dcp",
+      "title": "Shuffle Design CLI",
+      "url": "https://www.producthunt.com/products/shuffle-design-cli",
       "tagline": "",
-      "pub_date": "2026-05-21T15:45:53-07:00"
-    },
-    {
-      "title": "buildpipe",
-      "url": "https://www.producthunt.com/products/buildpipe",
-      "tagline": "",
-      "pub_date": "2026-05-21T13:28:41-07:00"
+      "pub_date": "2026-05-21T12:18:28-07:00"
     },
     {
       "title": "SuprSend AI",
@@ -290,10 +302,16 @@
       "pub_date": "2026-04-01T22:55:17-07:00"
     },
     {
-      "title": "TestSprite 3.0",
-      "url": "https://www.producthunt.com/products/testsprite",
+      "title": "Auto Posts",
+      "url": "https://www.producthunt.com/products/auto-posts",
       "tagline": "",
-      "pub_date": "2026-05-11T21:22:39-07:00"
+      "pub_date": "2026-05-19T13:23:55-07:00"
+    },
+    {
+      "title": "Cleo",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "tagline": "",
+      "pub_date": "2026-05-21T04:50:50-07:00"
     }
   ]
 }

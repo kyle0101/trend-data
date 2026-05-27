@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-05-27T15:00:00.156Z",
+  "generated_at": "2026-05-27T20:04:59.018Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "title": "Show HN: Posthorn, self-hosted mail gateway",
       "url": "https://github.com/craigmccaskill/posthorn",
       "hn_url": "https://news.ycombinator.com/item?id=48289624",
-      "points": 63,
-      "comments": 43,
+      "points": 69,
+      "comments": 46,
       "created_ts": 1779855986,
       "author": "craigmccaskill"
     },
     {
-      "title": "Show HN: A website that tracks every stock trade Congress makes",
-      "url": "https://congress.kadoa.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48281983",
-      "points": 43,
-      "comments": 10,
-      "created_ts": 1779812936,
-      "author": "hubraumhugo"
+      "title": "Show HN: I made an emergency page for my family",
+      "url": "https://help.delduca.org",
+      "hn_url": "https://news.ycombinator.com/item?id=48294791",
+      "points": 56,
+      "comments": 67,
+      "created_ts": 1779891483,
+      "author": "delduca"
+    },
+    {
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "url": "https://tinycld.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48295071",
+      "points": 41,
+      "comments": 16,
+      "created_ts": 1779892601,
+      "author": "nathanstitt"
     },
     {
       "title": "Show HN: GoPeek – open links in live mini browser windows without new tabs",
@@ -31,149 +40,155 @@
       "author": "GeorgeWoff25"
     },
     {
-      "title": "Show HN: MCPs aren't enough, give Codex/Claude accurate memory of everything",
-      "url": "https://timeglass.ai",
-      "hn_url": "https://news.ycombinator.com/item?id=48281066",
-      "points": 16,
-      "comments": 2,
-      "created_ts": 1779809018,
-      "author": "midas"
-    },
-    {
       "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
       "url": "https://github.com/Alcray/SlopeAutoAcceptor",
       "hn_url": "https://news.ycombinator.com/item?id=48285727",
-      "points": 13,
-      "comments": 0,
+      "points": 15,
+      "comments": 2,
       "created_ts": 1779828337,
       "author": "alcray"
     },
     {
-      "title": "Show HN: Cross-agent messaging and shared memory over the local filesystem",
-      "url": "https://oacp.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48283108",
-      "points": 11,
-      "comments": 6,
-      "created_ts": 1779817488,
-      "author": "haoranchg"
+      "title": "Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness",
+      "url": "https://github.com/mrdanielcasper/CoreTex",
+      "hn_url": "https://news.ycombinator.com/item?id=48293253",
+      "points": 12,
+      "comments": 17,
+      "created_ts": 1779885020,
+      "author": "danielcasper"
     }
   ],
   "hn_front": [
     {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "hn_url": "https://news.ycombinator.com/item?id=48292224",
-      "points": 996,
-      "comments": 553,
-      "created_ts": 1779878605,
-      "author": "theorchid"
+      "title": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "hn_url": "https://news.ycombinator.com/item?id=48295892",
+      "points": 426,
+      "comments": 127,
+      "created_ts": 1779896169,
+      "author": "twistslider"
     },
     {
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "hn_url": "https://news.ycombinator.com/item?id=48285344",
-      "points": 479,
-      "comments": 357,
-      "created_ts": 1779826309,
-      "author": "oliverio"
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "hn_url": "https://news.ycombinator.com/item?id=48296649",
+      "points": 398,
+      "comments": 208,
+      "created_ts": 1779899321,
+      "author": "HelloUsername"
     },
     {
-      "title": "That Methyl Methacrylate Tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "hn_url": "https://news.ycombinator.com/item?id=48284712",
-      "points": 376,
-      "comments": 166,
-      "created_ts": 1779823516,
-      "author": "nooks"
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48295679",
+      "points": 375,
+      "comments": 184,
+      "created_ts": 1779895247,
+      "author": "IAmGraydon"
     },
     {
       "title": "Cloudflare Flagship",
       "url": "https://developers.cloudflare.com/flagship/",
       "hn_url": "https://news.ycombinator.com/item?id=48287468",
-      "points": 297,
-      "comments": 153,
+      "points": 334,
+      "comments": 165,
       "created_ts": 1779838566,
       "author": "tjek"
     },
     {
-      "title": "Private Equity Bought America's Essential Services",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "hn_url": "https://news.ycombinator.com/item?id=48292941",
-      "points": 215,
-      "comments": 243,
-      "created_ts": 1779883253,
-      "author": "NoRagrets"
-    },
-    {
-      "title": "The Melancholy of Slaying Monsters",
-      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "hn_url": "https://news.ycombinator.com/item?id=48284711",
-      "points": 196,
-      "comments": 81,
-      "created_ts": 1779823513,
-      "author": "prismatic"
-    },
-    {
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "hn_url": "https://news.ycombinator.com/item?id=48289950",
-      "points": 178,
-      "comments": 140,
-      "created_ts": 1779858819,
-      "author": "arps18"
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "hn_url": "https://news.ycombinator.com/item?id=48296794",
+      "points": 327,
+      "comments": 411,
+      "created_ts": 1779899953,
+      "author": "simonw"
     },
     {
       "title": "All of human cooking compressed into 2 megabytes",
       "url": "https://arxiv.org/abs/2605.22391",
       "hn_url": "https://news.ycombinator.com/item?id=48291225",
-      "points": 161,
-      "comments": 65,
+      "points": 309,
+      "comments": 124,
       "created_ts": 1779869680,
       "author": "josefchen"
-    },
-    {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "hn_url": "https://news.ycombinator.com/item?id=48293080",
-      "points": 140,
-      "comments": 123,
-      "created_ts": 1779884114,
-      "author": "maxnoe"
     },
     {
       "title": "Mini Micro Fantasy Computer",
       "url": "https://miniscript.org/MiniMicro/index.html#about",
       "hn_url": "https://news.ycombinator.com/item?id=48291947",
-      "points": 138,
-      "comments": 57,
+      "points": 211,
+      "comments": 78,
       "created_ts": 1779875762,
       "author": "nicoloren"
+    },
+    {
+      "title": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "hn_url": "https://news.ycombinator.com/item?id=48296359",
+      "points": 164,
+      "comments": 108,
+      "created_ts": 1779898122,
+      "author": "tartieret"
+    },
+    {
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48297645",
+      "points": 149,
+      "comments": 38,
+      "created_ts": 1779903389,
+      "author": "speckx"
+    },
+    {
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "hn_url": "https://news.ycombinator.com/item?id=48296994",
+      "points": 145,
+      "comments": 62,
+      "created_ts": 1779900805,
+      "author": "tosh"
+    },
+    {
+      "title": "Valve raises Steam Deck prices by more than $200",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "hn_url": "https://news.ycombinator.com/item?id=48297976",
+      "points": 137,
+      "comments": 96,
+      "created_ts": 1779904727,
+      "author": "droidjj"
     }
   ],
   "ph_today": [
     {
-      "title": "Local Panel",
-      "url": "https://www.producthunt.com/products/local-panel",
+      "title": "BobCA",
+      "url": "https://www.producthunt.com/products/bob-s-workshop",
       "tagline": "",
-      "pub_date": "2026-05-26T05:28:56-07:00"
+      "pub_date": "2026-05-25T21:17:14-07:00"
     },
     {
-      "title": "Oasis Browser for Mac",
-      "url": "https://www.producthunt.com/products/kahana",
+      "title": "Chunk sidecars",
+      "url": "https://www.producthunt.com/products/circleci",
       "tagline": "",
-      "pub_date": "2026-05-13T07:44:02-07:00"
+      "pub_date": "2026-05-26T06:49:27-07:00"
     },
     {
-      "title": "Netfox",
-      "url": "https://www.producthunt.com/products/netfox",
+      "title": "Harbor",
+      "url": "https://www.producthunt.com/products/habor",
       "tagline": "",
-      "pub_date": "2026-05-26T07:39:38-07:00"
+      "pub_date": "2026-05-26T09:29:14-07:00"
     },
     {
-      "title": "Krater",
-      "url": "https://www.producthunt.com/products/krater-ai",
+      "title": "Jott",
+      "url": "https://www.producthunt.com/products/jott-before-you-forget",
       "tagline": "",
-      "pub_date": "2026-05-10T11:45:11-07:00"
+      "pub_date": "2026-05-26T04:03:32-07:00"
+    },
+    {
+      "title": "Curlo",
+      "url": "https://www.producthunt.com/products/curlo",
+      "tagline": "",
+      "pub_date": "2026-05-24T23:25:21-07:00"
     },
     {
       "title": "Octolane",
@@ -182,52 +197,40 @@
       "pub_date": "2026-05-26T00:00:40-07:00"
     },
     {
+      "title": "Bluedot 2.1",
+      "url": "https://www.producthunt.com/products/bluedot-2",
+      "tagline": "",
+      "pub_date": "2026-05-24T04:15:12-07:00"
+    },
+    {
+      "title": "Oasis Browser for Mac",
+      "url": "https://www.producthunt.com/products/kahana",
+      "tagline": "",
+      "pub_date": "2026-05-13T07:44:02-07:00"
+    },
+    {
+      "title": "Coworker AI",
+      "url": "https://www.producthunt.com/products/coworker-ai",
+      "tagline": "",
+      "pub_date": "2026-05-14T11:16:40-07:00"
+    },
+    {
       "title": "zero.xyz",
       "url": "https://www.producthunt.com/products/zero-xyz",
       "tagline": "",
       "pub_date": "2026-05-26T11:33:09-07:00"
     },
     {
-      "title": "Calling Skills for AI Agents",
-      "url": "https://www.producthunt.com/products/cometchat-skills",
+      "title": "Powabase",
+      "url": "https://www.producthunt.com/products/powabase",
       "tagline": "",
-      "pub_date": "2026-05-26T02:59:31-07:00"
+      "pub_date": "2026-05-15T09:18:24-07:00"
     },
     {
-      "title": "Mojito",
-      "url": "https://www.producthunt.com/products/mojito-2",
+      "title": "Krater",
+      "url": "https://www.producthunt.com/products/krater-ai",
       "tagline": "",
-      "pub_date": "2026-05-25T09:41:44-07:00"
-    },
-    {
-      "title": "CircadiaOS",
-      "url": "https://www.producthunt.com/products/circadiaos",
-      "tagline": "",
-      "pub_date": "2026-05-26T16:54:09-07:00"
-    },
-    {
-      "title": "Archi-Flow",
-      "url": "https://www.producthunt.com/products/archi-flow",
-      "tagline": "",
-      "pub_date": "2026-05-26T07:14:01-07:00"
-    },
-    {
-      "title": "Phasr",
-      "url": "https://www.producthunt.com/products/phasr-2",
-      "tagline": "",
-      "pub_date": "2026-05-26T01:06:02-07:00"
-    },
-    {
-      "title": "Extend",
-      "url": "https://www.producthunt.com/products/extend-2",
-      "tagline": "",
-      "pub_date": "2026-05-26T08:41:04-07:00"
-    },
-    {
-      "title": "baz.studio",
-      "url": "https://www.producthunt.com/products/bazaar-2",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:37:44-07:00"
+      "pub_date": "2026-05-10T11:45:11-07:00"
     },
     {
       "title": "Layers",
@@ -242,76 +245,10 @@
       "pub_date": "2026-05-26T03:02:57-07:00"
     },
     {
-      "title": "Powabase",
-      "url": "https://www.producthunt.com/products/powabase",
+      "title": "Netfox",
+      "url": "https://www.producthunt.com/products/netfox",
       "tagline": "",
-      "pub_date": "2026-05-15T09:18:24-07:00"
-    },
-    {
-      "title": "QuickSheet v1.2",
-      "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
-      "tagline": "",
-      "pub_date": "2026-05-24T02:08:42-07:00"
-    },
-    {
-      "title": "BaseBuddy",
-      "url": "https://www.producthunt.com/products/basebuddy",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:43:25-07:00"
-    },
-    {
-      "title": "GenGo",
-      "url": "https://www.producthunt.com/products/gengo-2",
-      "tagline": "",
-      "pub_date": "2026-05-26T14:31:12-07:00"
-    },
-    {
-      "title": "Coworker AI",
-      "url": "https://www.producthunt.com/products/coworker-ai",
-      "tagline": "",
-      "pub_date": "2026-05-14T11:16:40-07:00"
-    },
-    {
-      "title": "Bluedot 2.1",
-      "url": "https://www.producthunt.com/products/bluedot-2",
-      "tagline": "",
-      "pub_date": "2026-05-24T04:15:12-07:00"
-    },
-    {
-      "title": "Curlo",
-      "url": "https://www.producthunt.com/products/curlo",
-      "tagline": "",
-      "pub_date": "2026-05-24T23:25:21-07:00"
-    },
-    {
-      "title": "BankStatementLab",
-      "url": "https://www.producthunt.com/products/bankstatementlab",
-      "tagline": "",
-      "pub_date": "2026-03-20T22:32:55-07:00"
-    },
-    {
-      "title": "Chunk sidecars",
-      "url": "https://www.producthunt.com/products/circleci",
-      "tagline": "",
-      "pub_date": "2026-05-26T06:49:27-07:00"
-    },
-    {
-      "title": "Studio Practice",
-      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
-      "tagline": "",
-      "pub_date": "2026-05-20T23:42:58-07:00"
-    },
-    {
-      "title": "Harbor",
-      "url": "https://www.producthunt.com/products/habor",
-      "tagline": "",
-      "pub_date": "2026-05-26T09:29:14-07:00"
-    },
-    {
-      "title": "Aviquill",
-      "url": "https://www.producthunt.com/products/aviquill",
-      "tagline": "",
-      "pub_date": "2026-05-25T00:57:37-07:00"
+      "pub_date": "2026-05-26T07:39:38-07:00"
     },
     {
       "title": "AgenticCalling AI",
@@ -320,16 +257,88 @@
       "pub_date": "2026-05-26T03:43:30-07:00"
     },
     {
-      "title": "BobCA",
-      "url": "https://www.producthunt.com/products/bob-s-workshop",
+      "title": "Aviquill",
+      "url": "https://www.producthunt.com/products/aviquill",
       "tagline": "",
-      "pub_date": "2026-05-25T21:17:14-07:00"
+      "pub_date": "2026-05-25T00:57:37-07:00"
     },
     {
-      "title": "Jott",
-      "url": "https://www.producthunt.com/products/jott-before-you-forget",
+      "title": "MacSIM by Studio Practice",
+      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
       "tagline": "",
-      "pub_date": "2026-05-26T04:03:32-07:00"
+      "pub_date": "2026-05-20T23:42:58-07:00"
+    },
+    {
+      "title": "BankStatementLab",
+      "url": "https://www.producthunt.com/products/bankstatementlab",
+      "tagline": "",
+      "pub_date": "2026-03-20T22:32:55-07:00"
+    },
+    {
+      "title": "Local Panel",
+      "url": "https://www.producthunt.com/products/local-panel",
+      "tagline": "",
+      "pub_date": "2026-05-26T05:28:56-07:00"
+    },
+    {
+      "title": "QuickSheet v1.2",
+      "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
+      "tagline": "",
+      "pub_date": "2026-05-24T02:08:42-07:00"
+    },
+    {
+      "title": "Extend",
+      "url": "https://www.producthunt.com/products/extend-2",
+      "tagline": "",
+      "pub_date": "2026-05-26T08:41:04-07:00"
+    },
+    {
+      "title": "baz.studio",
+      "url": "https://www.producthunt.com/products/bazaar-2",
+      "tagline": "",
+      "pub_date": "2026-05-22T06:37:44-07:00"
+    },
+    {
+      "title": "BaseBuddy",
+      "url": "https://www.producthunt.com/products/basebuddy",
+      "tagline": "",
+      "pub_date": "2026-05-22T06:43:25-07:00"
+    },
+    {
+      "title": "Archi-Flow",
+      "url": "https://www.producthunt.com/products/archi-flow",
+      "tagline": "",
+      "pub_date": "2026-05-26T07:14:01-07:00"
+    },
+    {
+      "title": "Phasr",
+      "url": "https://www.producthunt.com/products/phasr-2",
+      "tagline": "",
+      "pub_date": "2026-05-26T01:06:02-07:00"
+    },
+    {
+      "title": "CircadiaOS",
+      "url": "https://www.producthunt.com/products/circadiaos",
+      "tagline": "",
+      "pub_date": "2026-05-26T16:54:09-07:00"
+    },
+    {
+      "title": "Calling Skills for AI Agents",
+      "url": "https://www.producthunt.com/products/cometchat-skills",
+      "tagline": "",
+      "pub_date": "2026-05-26T02:59:31-07:00"
+    },
+    {
+      "title": "Mojito",
+      "url": "https://www.producthunt.com/products/mojito-2",
+      "tagline": "",
+      "pub_date": "2026-05-25T09:41:44-07:00"
+    },
+    {
+      "title": "GenGo",
+      "url": "https://www.producthunt.com/products/gengo-2",
+      "tagline": "",
+      "pub_date": "2026-05-26T14:31:12-07:00"
     }
   ]
 }

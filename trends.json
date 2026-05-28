@@ -1,204 +1,129 @@
 {
-  "generated_at": "2026-05-28T15:34:11.720Z",
+  "generated_at": "2026-05-28T20:09:38.881Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "hn_url": "https://news.ycombinator.com/item?id=48300280",
-      "points": 42,
-      "comments": 4,
-      "created_ts": 1779914262,
-      "author": "danAtElodin"
-    },
-    {
-      "title": "Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU",
-      "url": "https://daydreamlive.github.io/DEMON/",
-      "hn_url": "https://news.ycombinator.com/item?id=48296503",
-      "points": 17,
-      "comments": 13,
-      "created_ts": 1779898642,
-      "author": "ryanontheinside"
-    },
-    {
-      "title": "Show HN: Hm – a task runner with a Python DSL, growing into a CI/CD system",
-      "url": "https://github.com/harmont-dev/harmont-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=48296828",
-      "points": 11,
-      "comments": 1,
-      "created_ts": 1779900096,
-      "author": "suis_siva"
-    }
-  ],
-  "hn_front": [
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "hn_url": "https://news.ycombinator.com/item?id=48299753",
-      "points": 1124,
-      "comments": 670,
-      "created_ts": 1779912051,
-      "author": "nopg"
-    },
-    {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "hn_url": "https://news.ycombinator.com/item?id=48296794",
-      "points": 1008,
-      "comments": 1114,
-      "created_ts": 1779899953,
-      "author": "simonw"
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "hn_url": "https://news.ycombinator.com/item?id=48296649",
-      "points": 986,
-      "comments": 475,
-      "created_ts": 1779899321,
-      "author": "HelloUsername"
-    },
-    {
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48297645",
-      "points": 435,
-      "comments": 172,
-      "created_ts": 1779903389,
-      "author": "speckx"
-    },
-    {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "hn_url": "https://news.ycombinator.com/item?id=48307887",
-      "points": 364,
-      "comments": 248,
-      "created_ts": 1779970819,
-      "author": "kostaj"
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "hn_url": "https://news.ycombinator.com/item?id=48299220",
-      "points": 362,
-      "comments": 357,
-      "created_ts": 1779909850,
-      "author": "iamacyborg"
-    },
-    {
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
       "url": "https://hallucinate.site",
       "hn_url": "https://news.ycombinator.com/item?id=48304260",
-      "points": 319,
-      "comments": 140,
+      "points": 376,
+      "comments": 165,
       "created_ts": 1779940201,
       "author": "stagas"
     },
     {
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "hn_url": "https://news.ycombinator.com/item?id=48299638",
-      "points": 281,
-      "comments": 110,
-      "created_ts": 1779911569,
-      "author": "Panda_"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "points": 163,
+      "comments": 82,
+      "created_ts": 1779973320,
+      "author": "Wirbelwind"
     },
     {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "hn_url": "https://news.ycombinator.com/item?id=48307231",
-      "points": 269,
-      "comments": 115,
-      "created_ts": 1779965815,
-      "author": "teleforce"
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48300280",
+      "points": 55,
+      "comments": 6,
+      "created_ts": 1779914262,
+      "author": "danAtElodin"
     },
     {
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "hn_url": "https://news.ycombinator.com/item?id=48302220",
-      "points": 227,
-      "comments": 117,
-      "created_ts": 1779924673,
-      "author": "valzevul"
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "hn_url": "https://news.ycombinator.com/item?id=48309986",
+      "points": 30,
+      "comments": 3,
+      "created_ts": 1779980706,
+      "author": "lucamrtl"
+    }
+  ],
+  "hn_front": [
+    {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "hn_url": "https://news.ycombinator.com/item?id=48311647",
+      "points": 846,
+      "comments": 638,
+      "created_ts": 1779986954,
+      "author": "craigmart"
     },
     {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "hn_url": "https://news.ycombinator.com/item?id=48299623",
-      "points": 209,
-      "comments": 31,
-      "created_ts": 1779911507,
-      "author": "homarp"
+      "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "hn_url": "https://news.ycombinator.com/item?id=48304260",
+      "points": 376,
+      "comments": 165,
+      "created_ts": 1779940201,
+      "author": "stagas"
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "hn_url": "https://news.ycombinator.com/item?id=48309233",
-      "points": 181,
-      "comments": 191,
-      "created_ts": 1779977580,
-      "author": "brandonb"
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "hn_url": "https://news.ycombinator.com/item?id=48309302",
+      "points": 246,
+      "comments": 174,
+      "created_ts": 1779977898,
+      "author": "jjp"
     },
     {
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "hn_url": "https://news.ycombinator.com/item?id=48296622",
-      "points": 159,
-      "comments": 23,
-      "created_ts": 1779899191,
-      "author": "gmays"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "points": 163,
+      "comments": 82,
+      "created_ts": 1779973320,
+      "author": "Wirbelwind"
     },
     {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "hn_url": "https://news.ycombinator.com/item?id=48305446",
-      "points": 133,
-      "comments": 38,
-      "created_ts": 1779950431,
-      "author": "kunalsin9h"
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "hn_url": "https://news.ycombinator.com/item?id=48313048",
+      "points": 129,
+      "comments": 104,
+      "created_ts": 1779991784,
+      "author": "meetpateltech"
     },
     {
-      "title": "Warm up your MacBook (2019)",
-      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-      "hn_url": "https://news.ycombinator.com/item?id=48300342",
-      "points": 115,
-      "comments": 109,
-      "created_ts": 1779914521,
-      "author": "kristianp"
+      "title": "Bttf is a command line datetime Swiss army knife",
+      "url": "https://github.com/BurntSushi/bttf",
+      "hn_url": "https://news.ycombinator.com/item?id=48303881",
+      "points": 121,
+      "comments": 84,
+      "created_ts": 1779937124,
+      "author": "burntsushi"
+    },
+    {
+      "title": "Just Use Postgres for Durable Workflows",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "hn_url": "https://news.ycombinator.com/item?id=48313530",
+      "points": 111,
+      "comments": 42,
+      "created_ts": 1779993706,
+      "author": "KraftyOne"
+    },
+    {
+      "title": "Dynamic Workflows in Claude Code",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "hn_url": "https://news.ycombinator.com/item?id=48311705",
+      "points": 105,
+      "comments": 90,
+      "created_ts": 1779987141,
+      "author": "mil22"
+    },
+    {
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "hn_url": "https://news.ycombinator.com/item?id=48310280",
+      "points": 104,
+      "comments": 33,
+      "created_ts": 1779981784,
+      "author": "whiteblossom"
     }
   ],
   "ph_today": [
-    {
-      "title": "Pitch Agent",
-      "url": "https://www.producthunt.com/products/pitch",
-      "tagline": "",
-      "pub_date": "2026-05-25T04:04:57-07:00"
-    },
-    {
-      "title": "Revolte",
-      "url": "https://www.producthunt.com/products/revolte",
-      "tagline": "",
-      "pub_date": "2026-05-12T05:56:22-07:00"
-    },
-    {
-      "title": "AccountyCat",
-      "url": "https://www.producthunt.com/products/accountycat",
-      "tagline": "",
-      "pub_date": "2026-05-22T10:19:47-07:00"
-    },
-    {
-      "title": "NeuralAgent 2.5",
-      "url": "https://www.producthunt.com/products/neuralagent",
-      "tagline": "",
-      "pub_date": "2026-05-27T16:23:44-07:00"
-    },
-    {
-      "title": "KugelAudio",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "tagline": "",
-      "pub_date": "2026-05-27T13:30:22-07:00"
-    },
     {
       "title": "LaunchOS",
       "url": "https://www.producthunt.com/products/launchos",
@@ -206,16 +131,10 @@
       "pub_date": "2026-05-27T01:34:54-07:00"
     },
     {
-      "title": "Kim Personal Health Assistant",
-      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "title": "Buffer API",
+      "url": "https://www.producthunt.com/products/buffer-api",
       "tagline": "",
-      "pub_date": "2026-05-27T01:32:18-07:00"
-    },
-    {
-      "title": "Compartment",
-      "url": "https://www.producthunt.com/products/compartment",
-      "tagline": "",
-      "pub_date": "2026-05-27T09:01:54-07:00"
+      "pub_date": "2026-05-27T07:05:17-07:00"
     },
     {
       "title": "Stage",
@@ -224,40 +143,22 @@
       "pub_date": "2026-05-26T18:44:31-07:00"
     },
     {
-      "title": "SoMerch",
-      "url": "https://www.producthunt.com/products/somerch",
-      "tagline": "",
-      "pub_date": "2026-05-18T00:24:19-07:00"
-    },
-    {
       "title": "Memori",
       "url": "https://www.producthunt.com/products/memori-labs",
       "tagline": "",
       "pub_date": "2026-05-07T19:34:46-07:00"
     },
     {
-      "title": "Angel Match 4.0",
-      "url": "https://www.producthunt.com/products/angel-match",
+      "title": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
       "tagline": "",
-      "pub_date": "2026-05-27T19:18:30-07:00"
+      "pub_date": "2026-05-20T16:50:00-07:00"
     },
     {
-      "title": "Crew44",
-      "url": "https://www.producthunt.com/products/crew44",
+      "title": "SpotsNow",
+      "url": "https://www.producthunt.com/products/spotsnow",
       "tagline": "",
-      "pub_date": "2026-05-27T00:32:57-07:00"
-    },
-    {
-      "title": "Parastore",
-      "url": "https://www.producthunt.com/products/parastore",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:53:37-07:00"
-    },
-    {
-      "title": "Growati",
-      "url": "https://www.producthunt.com/products/growati",
-      "tagline": "",
-      "pub_date": "2026-05-27T06:18:56-07:00"
+      "pub_date": "2026-05-13T08:48:53-07:00"
     },
     {
       "title": "Sublern",
@@ -266,10 +167,40 @@
       "pub_date": "2026-05-27T05:47:02-07:00"
     },
     {
+      "title": "Compartment",
+      "url": "https://www.producthunt.com/products/compartment",
+      "tagline": "",
+      "pub_date": "2026-05-27T09:01:54-07:00"
+    },
+    {
+      "title": "Parastore",
+      "url": "https://www.producthunt.com/products/parastore",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:53:37-07:00"
+    },
+    {
+      "title": "KugelAudio",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "tagline": "",
+      "pub_date": "2026-05-27T13:30:22-07:00"
+    },
+    {
+      "title": "SoMerch",
+      "url": "https://www.producthunt.com/products/somerch",
+      "tagline": "",
+      "pub_date": "2026-05-18T00:24:19-07:00"
+    },
+    {
       "title": "Granite",
       "url": "https://www.producthunt.com/products/granite",
       "tagline": "",
       "pub_date": "2026-05-27T04:35:05-07:00"
+    },
+    {
+      "title": "Growati",
+      "url": "https://www.producthunt.com/products/growati",
+      "tagline": "",
+      "pub_date": "2026-05-27T06:18:56-07:00"
     },
     {
       "title": "Marked 3",
@@ -284,70 +215,94 @@
       "pub_date": "2026-05-27T22:21:51-07:00"
     },
     {
-      "title": "SpotsNow",
-      "url": "https://www.producthunt.com/products/spotsnow",
+      "title": "Angel Match 4.0",
+      "url": "https://www.producthunt.com/products/angel-match",
       "tagline": "",
-      "pub_date": "2026-05-13T08:48:53-07:00"
+      "pub_date": "2026-05-27T19:18:30-07:00"
     },
     {
-      "title": "Pancake",
-      "url": "https://www.producthunt.com/products/pancake-6",
+      "title": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
       "tagline": "",
-      "pub_date": "2026-05-20T16:50:00-07:00"
+      "pub_date": "2026-05-12T05:56:22-07:00"
     },
     {
-      "title": "Buffer API",
-      "url": "https://www.producthunt.com/products/buffer-api",
+      "title": "Pitch Agent",
+      "url": "https://www.producthunt.com/products/pitch",
       "tagline": "",
-      "pub_date": "2026-05-27T07:05:17-07:00"
+      "pub_date": "2026-05-25T04:04:57-07:00"
     },
     {
-      "title": "Oasis Browser for Mac",
-      "url": "https://www.producthunt.com/products/kahana",
+      "title": "AccountyCat",
+      "url": "https://www.producthunt.com/products/accountycat",
       "tagline": "",
-      "pub_date": "2026-05-13T07:44:02-07:00"
+      "pub_date": "2026-05-22T10:19:47-07:00"
     },
     {
-      "title": "Bluedot 2.1",
-      "url": "https://www.producthunt.com/products/bluedot-2",
+      "title": "Kim Personal Health Assistant",
+      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
       "tagline": "",
-      "pub_date": "2026-05-24T04:15:12-07:00"
+      "pub_date": "2026-05-27T01:32:18-07:00"
     },
     {
-      "title": "Archi-Flow",
-      "url": "https://www.producthunt.com/products/archi-flow",
+      "title": "Crew44",
+      "url": "https://www.producthunt.com/products/crew44",
       "tagline": "",
-      "pub_date": "2026-05-26T07:14:01-07:00"
+      "pub_date": "2026-05-27T00:32:57-07:00"
     },
     {
-      "title": "CircadiaOS",
-      "url": "https://www.producthunt.com/products/circadiaos",
+      "title": "NeuralAgent 2.5",
+      "url": "https://www.producthunt.com/products/neuralagent",
       "tagline": "",
-      "pub_date": "2026-05-26T16:54:09-07:00"
+      "pub_date": "2026-05-27T16:23:44-07:00"
     },
     {
-      "title": "Krater",
-      "url": "https://www.producthunt.com/products/krater-ai",
+      "title": "MacSIM by Studio Practice",
+      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
       "tagline": "",
-      "pub_date": "2026-05-10T11:45:11-07:00"
+      "pub_date": "2026-05-20T23:42:58-07:00"
     },
     {
-      "title": "BobCA",
-      "url": "https://www.producthunt.com/products/bob-s-workshop",
+      "title": "Phasr",
+      "url": "https://www.producthunt.com/products/phasr-2",
       "tagline": "",
-      "pub_date": "2026-05-25T21:17:14-07:00"
+      "pub_date": "2026-05-26T01:06:02-07:00"
     },
     {
-      "title": "Pawse.ai",
-      "url": "https://www.producthunt.com/products/pawse-ai",
+      "title": "Curlo",
+      "url": "https://www.producthunt.com/products/curlo",
       "tagline": "",
-      "pub_date": "2026-05-26T03:02:57-07:00"
+      "pub_date": "2026-05-24T23:25:21-07:00"
     },
     {
-      "title": "Layers",
-      "url": "https://www.producthunt.com/products/layers-8",
+      "title": "Aviquill",
+      "url": "https://www.producthunt.com/products/aviquill",
       "tagline": "",
-      "pub_date": "2026-05-23T17:47:34-07:00"
+      "pub_date": "2026-05-25T00:57:37-07:00"
+    },
+    {
+      "title": "BankStatementLab",
+      "url": "https://www.producthunt.com/products/bankstatementlab",
+      "tagline": "",
+      "pub_date": "2026-03-20T22:32:55-07:00"
+    },
+    {
+      "title": "Extend",
+      "url": "https://www.producthunt.com/products/extend-2",
+      "tagline": "",
+      "pub_date": "2026-05-26T08:41:04-07:00"
+    },
+    {
+      "title": "AgenticCalling AI",
+      "url": "https://www.producthunt.com/products/agenticcalling-ai",
+      "tagline": "",
+      "pub_date": "2026-05-26T03:43:30-07:00"
+    },
+    {
+      "title": "GenGo",
+      "url": "https://www.producthunt.com/products/gengo-2",
+      "tagline": "",
+      "pub_date": "2026-05-26T14:31:12-07:00"
     }
   ]
 }

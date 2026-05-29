@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-05-29T02:35:10.985Z",
+  "generated_at": "2026-05-29T09:40:25.363Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "hn_url": "https://news.ycombinator.com/item?id=48304260",
-      "points": 411,
-      "comments": 182,
-      "created_ts": 1779940201,
-      "author": "stagas"
-    },
-    {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
       "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 248,
-      "comments": 111,
+      "points": 321,
+      "comments": 130,
       "created_ts": 1779973320,
       "author": "Wirbelwind"
     },
@@ -25,10 +16,19 @@
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
       "hn_url": "https://news.ycombinator.com/item?id=48309986",
-      "points": 55,
-      "comments": 13,
+      "points": 73,
+      "comments": 17,
       "created_ts": 1779980706,
       "author": "lucamrtl"
+    },
+    {
+      "title": "Show HN: LiteParse v2, now in Rust 100x faster",
+      "url": "https://github.com/run-llama/liteparse/",
+      "hn_url": "https://news.ycombinator.com/item?id=48307849",
+      "points": 13,
+      "comments": 0,
+      "created_ts": 1779970542,
+      "author": "pierre"
     }
   ],
   "hn_front": [
@@ -36,8 +36,8 @@
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "hn_url": "https://news.ycombinator.com/item?id=48311647",
-      "points": 1256,
-      "comments": 1022,
+      "points": 1522,
+      "comments": 1187,
       "created_ts": 1779986954,
       "author": "craigmart"
     },
@@ -45,53 +45,17 @@
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
       "hn_url": "https://news.ycombinator.com/item?id=48314136",
-      "points": 646,
-      "comments": 352,
+      "points": 942,
+      "comments": 429,
       "created_ts": 1779996249,
       "author": "philips"
-    },
-    {
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "hn_url": "https://news.ycombinator.com/item?id=48313530",
-      "points": 276,
-      "comments": 115,
-      "created_ts": 1779993706,
-      "author": "KraftyOne"
-    },
-    {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "hn_url": "https://news.ycombinator.com/item?id=48313048",
-      "points": 263,
-      "comments": 272,
-      "created_ts": 1779991784,
-      "author": "meetpateltech"
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 248,
-      "comments": 111,
-      "created_ts": 1779973320,
-      "author": "Wirbelwind"
-    },
-    {
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "hn_url": "https://news.ycombinator.com/item?id=48313810",
-      "points": 239,
-      "comments": 173,
-      "created_ts": 1779994938,
-      "author": "speckx"
     },
     {
       "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
       "hn_url": "https://news.ycombinator.com/item?id=48314951",
-      "points": 209,
-      "comments": 29,
+      "points": 396,
+      "comments": 62,
       "created_ts": 1779999921,
       "author": "mattrighetti"
     },
@@ -99,40 +63,226 @@
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
       "hn_url": "https://news.ycombinator.com/item?id=48315968",
-      "points": 192,
-      "comments": 93,
+      "points": 391,
+      "comments": 168,
       "created_ts": 1780004754,
       "author": "possibilistic"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "hn_url": "https://news.ycombinator.com/item?id=48318481",
+      "points": 321,
+      "comments": 147,
+      "created_ts": 1780023660,
+      "author": "1vuio0pswjnm7"
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "points": 321,
+      "comments": 130,
+      "created_ts": 1779973320,
+      "author": "Wirbelwind"
+    },
+    {
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "hn_url": "https://news.ycombinator.com/item?id=48313530",
+      "points": 311,
+      "comments": 133,
+      "created_ts": 1779993706,
+      "author": "KraftyOne"
+    },
+    {
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "hn_url": "https://news.ycombinator.com/item?id=48313810",
+      "points": 306,
+      "comments": 241,
+      "created_ts": 1779994938,
+      "author": "speckx"
+    },
+    {
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "hn_url": "https://news.ycombinator.com/item?id=48317774",
+      "points": 283,
+      "comments": 282,
+      "created_ts": 1780017398,
+      "author": "enraged_camel"
     },
     {
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
       "hn_url": "https://news.ycombinator.com/item?id=48314002",
-      "points": 163,
-      "comments": 63,
+      "points": 247,
+      "comments": 82,
       "created_ts": 1779995754,
       "author": "speckx"
+    },
+    {
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "hn_url": "https://news.ycombinator.com/item?id=48317093",
+      "points": 206,
+      "comments": 99,
+      "created_ts": 1780011767,
+      "author": "drewda"
     },
     {
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
       "hn_url": "https://news.ycombinator.com/item?id=48310280",
-      "points": 152,
-      "comments": 63,
+      "points": 185,
+      "comments": 74,
       "created_ts": 1779981784,
       "author": "whiteblossom"
     },
     {
-      "title": "I hated writing until I learned there’s a science to it (2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "hn_url": "https://news.ycombinator.com/item?id=48312528",
-      "points": 151,
-      "comments": 64,
-      "created_ts": 1779989807,
-      "author": "o4c"
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "hn_url": "https://news.ycombinator.com/item?id=48319509",
+      "points": 152,
+      "comments": 76,
+      "created_ts": 1780033536,
+      "author": "Kwastie"
     }
   ],
   "ph_today": [
+    {
+      "title": "Linear Diffs",
+      "url": "https://www.producthunt.com/products/linear",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:09:28-07:00"
+    },
+    {
+      "title": "Integuru",
+      "url": "https://www.producthunt.com/products/integuru",
+      "tagline": "",
+      "pub_date": "2026-05-28T06:41:04-07:00"
+    },
+    {
+      "title": "TrackNotch",
+      "url": "https://www.producthunt.com/products/tracknotch",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:59:17-07:00"
+    },
+    {
+      "title": "Vibeocus Lens",
+      "url": "https://www.producthunt.com/products/vibeocus-lens",
+      "tagline": "",
+      "pub_date": "2026-05-28T02:24:39-07:00"
+    },
+    {
+      "title": "Screen Ruler",
+      "url": "https://www.producthunt.com/products/screen-ruler",
+      "tagline": "",
+      "pub_date": "2026-05-23T01:30:35-07:00"
+    },
+    {
+      "title": "Sinalytica",
+      "url": "https://www.producthunt.com/products/sinalytica",
+      "tagline": "",
+      "pub_date": "2026-05-23T13:37:22-07:00"
+    },
+    {
+      "title": "Ava 2.0",
+      "url": "https://www.producthunt.com/products/artisan-3",
+      "tagline": "",
+      "pub_date": "2026-05-27T15:10:18-07:00"
+    },
+    {
+      "title": "PromptLayer",
+      "url": "https://www.producthunt.com/products/promptlayer-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T23:41:50-07:00"
+    },
+    {
+      "title": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:05:48-07:00"
+    },
+    {
+      "title": "Basedash: Embedded Analytics",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:57:07-07:00"
+    },
+    {
+      "title": "NODUS HN Radar",
+      "url": "https://www.producthunt.com/products/nodus-hn-radar",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:16:09-07:00"
+    },
+    {
+      "title": "Notchy",
+      "url": "https://www.producthunt.com/products/notchy",
+      "tagline": "",
+      "pub_date": "2026-05-28T03:38:55-07:00"
+    },
+    {
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
+      "tagline": "",
+      "pub_date": "2026-05-13T12:05:26-07:00"
+    },
+    {
+      "title": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:00:52-07:00"
+    },
+    {
+      "title": "RabbitTravel",
+      "url": "https://www.producthunt.com/products/rabbittravel",
+      "tagline": "",
+      "pub_date": "2026-05-28T03:34:41-07:00"
+    },
+    {
+      "title": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "tagline": "",
+      "pub_date": "2026-05-28T15:56:59-07:00"
+    },
+    {
+      "title": "Ava Studio",
+      "url": "https://www.producthunt.com/products/ava-studio",
+      "tagline": "",
+      "pub_date": "2026-05-19T14:41:22-07:00"
+    },
+    {
+      "title": "MCP Bridge by Appfactor",
+      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
+      "tagline": "",
+      "pub_date": "2026-04-01T12:46:27-07:00"
+    },
+    {
+      "title": "Coffee Piano",
+      "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
+      "tagline": "",
+      "pub_date": "2026-05-28T14:45:11-07:00"
+    },
+    {
+      "title": "Clipline",
+      "url": "https://www.producthunt.com/products/clipline-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:56:30-07:00"
+    },
+    {
+      "title": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
+      "tagline": "",
+      "pub_date": "2026-05-25T01:13:13-07:00"
+    },
+    {
+      "title": "Kim Personal Health Assistant",
+      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:32:18-07:00"
+    },
     {
       "title": "Compartment",
       "url": "https://www.producthunt.com/products/compartment",
@@ -140,22 +290,16 @@
       "pub_date": "2026-05-27T09:01:54-07:00"
     },
     {
-      "title": "Robinhood Agentic Trading",
-      "url": "https://www.producthunt.com/products/robinhood",
+      "title": "NeuralAgent 2.5",
+      "url": "https://www.producthunt.com/products/neuralagent",
       "tagline": "",
-      "pub_date": "2026-05-27T22:21:51-07:00"
+      "pub_date": "2026-05-27T16:23:44-07:00"
     },
     {
-      "title": "Growati",
-      "url": "https://www.producthunt.com/products/growati",
+      "title": "Crew44",
+      "url": "https://www.producthunt.com/products/crew44",
       "tagline": "",
-      "pub_date": "2026-05-27T06:18:56-07:00"
-    },
-    {
-      "title": "Sublern",
-      "url": "https://www.producthunt.com/products/sublern",
-      "tagline": "",
-      "pub_date": "2026-05-27T05:47:02-07:00"
+      "pub_date": "2026-05-27T00:32:57-07:00"
     },
     {
       "title": "Angel Match 4.0",
@@ -170,148 +314,22 @@
       "pub_date": "2026-05-27T03:17:01-07:00"
     },
     {
-      "title": "Granite",
-      "url": "https://www.producthunt.com/products/granite",
-      "tagline": "",
-      "pub_date": "2026-05-27T04:35:05-07:00"
-    },
-    {
-      "title": "Crew44",
-      "url": "https://www.producthunt.com/products/crew44",
-      "tagline": "",
-      "pub_date": "2026-05-27T00:32:57-07:00"
-    },
-    {
-      "title": "Stage",
-      "url": "https://www.producthunt.com/products/stage-5",
-      "tagline": "",
-      "pub_date": "2026-05-26T18:44:31-07:00"
-    },
-    {
-      "title": "Parastore",
-      "url": "https://www.producthunt.com/products/parastore",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:53:37-07:00"
-    },
-    {
-      "title": "LaunchOS",
-      "url": "https://www.producthunt.com/products/launchos",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:34:54-07:00"
-    },
-    {
-      "title": "NeuralAgent 2.5",
-      "url": "https://www.producthunt.com/products/neuralagent",
-      "tagline": "",
-      "pub_date": "2026-05-27T16:23:44-07:00"
-    },
-    {
-      "title": "KugelAudio",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "tagline": "",
-      "pub_date": "2026-05-27T13:30:22-07:00"
-    },
-    {
-      "title": "AccountyCat",
-      "url": "https://www.producthunt.com/products/accountycat",
-      "tagline": "",
-      "pub_date": "2026-05-22T10:19:47-07:00"
-    },
-    {
-      "title": "SoMerch",
-      "url": "https://www.producthunt.com/products/somerch",
-      "tagline": "",
-      "pub_date": "2026-05-18T00:24:19-07:00"
-    },
-    {
-      "title": "Buffer API",
-      "url": "https://www.producthunt.com/products/buffer-api",
-      "tagline": "",
-      "pub_date": "2026-05-27T07:05:17-07:00"
-    },
-    {
       "title": "Pitch Agent",
       "url": "https://www.producthunt.com/products/pitch",
       "tagline": "",
       "pub_date": "2026-05-25T04:04:57-07:00"
     },
     {
-      "title": "Memori",
-      "url": "https://www.producthunt.com/products/memori-labs",
+      "title": "Sublern",
+      "url": "https://www.producthunt.com/products/sublern",
       "tagline": "",
-      "pub_date": "2026-05-07T19:34:46-07:00"
+      "pub_date": "2026-05-27T05:47:02-07:00"
     },
     {
-      "title": "Kim Personal Health Assistant",
-      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "title": "KugelAudio",
+      "url": "https://www.producthunt.com/products/kugelaudio",
       "tagline": "",
-      "pub_date": "2026-05-27T01:32:18-07:00"
-    },
-    {
-      "title": "SpotsNow",
-      "url": "https://www.producthunt.com/products/spotsnow",
-      "tagline": "",
-      "pub_date": "2026-05-13T08:48:53-07:00"
-    },
-    {
-      "title": "Revolte",
-      "url": "https://www.producthunt.com/products/revolte",
-      "tagline": "",
-      "pub_date": "2026-05-12T05:56:22-07:00"
-    },
-    {
-      "title": "Pancake",
-      "url": "https://www.producthunt.com/products/pancake-6",
-      "tagline": "",
-      "pub_date": "2026-05-20T16:50:00-07:00"
-    },
-    {
-      "title": "MacSIM by Studio Practice",
-      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
-      "tagline": "",
-      "pub_date": "2026-05-20T23:42:58-07:00"
-    },
-    {
-      "title": "Powabase",
-      "url": "https://www.producthunt.com/products/powabase",
-      "tagline": "",
-      "pub_date": "2026-05-15T09:18:24-07:00"
-    },
-    {
-      "title": "Bluedot 2.1",
-      "url": "https://www.producthunt.com/products/bluedot-2",
-      "tagline": "",
-      "pub_date": "2026-05-24T04:15:12-07:00"
-    },
-    {
-      "title": "Oasis Browser for Mac",
-      "url": "https://www.producthunt.com/products/kahana",
-      "tagline": "",
-      "pub_date": "2026-05-13T07:44:02-07:00"
-    },
-    {
-      "title": "baz.studio",
-      "url": "https://www.producthunt.com/products/bazaar-2",
-      "tagline": "",
-      "pub_date": "2026-05-22T06:37:44-07:00"
-    },
-    {
-      "title": "BobCA",
-      "url": "https://www.producthunt.com/products/bob-s-workshop",
-      "tagline": "",
-      "pub_date": "2026-05-25T21:17:14-07:00"
-    },
-    {
-      "title": "Chunk sidecars",
-      "url": "https://www.producthunt.com/products/circleci",
-      "tagline": "",
-      "pub_date": "2026-05-26T06:49:27-07:00"
-    },
-    {
-      "title": "zero.xyz",
-      "url": "https://www.producthunt.com/products/zero-xyz",
-      "tagline": "",
-      "pub_date": "2026-05-26T11:33:09-07:00"
+      "pub_date": "2026-05-27T13:30:22-07:00"
     }
   ]
 }

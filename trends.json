@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T20:09:38.881Z",
+  "generated_at": "2026-05-29T02:35:10.985Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
       "url": "https://hallucinate.site",
       "hn_url": "https://news.ycombinator.com/item?id=48304260",
-      "points": 376,
-      "comments": 165,
+      "points": 411,
+      "comments": 182,
       "created_ts": 1779940201,
       "author": "stagas"
     },
@@ -16,26 +16,17 @@
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
       "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 163,
-      "comments": 82,
+      "points": 248,
+      "comments": 111,
       "created_ts": 1779973320,
       "author": "Wirbelwind"
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "hn_url": "https://news.ycombinator.com/item?id=48300280",
-      "points": 55,
-      "comments": 6,
-      "created_ts": 1779914262,
-      "author": "danAtElodin"
     },
     {
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
       "hn_url": "https://news.ycombinator.com/item?id=48309986",
-      "points": 30,
-      "comments": 3,
+      "points": 55,
+      "comments": 13,
       "created_ts": 1779980706,
       "author": "lucamrtl"
     }
@@ -45,168 +36,108 @@
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "hn_url": "https://news.ycombinator.com/item?id=48311647",
-      "points": 846,
-      "comments": 638,
+      "points": 1256,
+      "comments": 1022,
       "created_ts": 1779986954,
       "author": "craigmart"
     },
     {
-      "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "hn_url": "https://news.ycombinator.com/item?id=48304260",
-      "points": 376,
-      "comments": 165,
-      "created_ts": 1779940201,
-      "author": "stagas"
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "hn_url": "https://news.ycombinator.com/item?id=48314136",
+      "points": 646,
+      "comments": 352,
+      "created_ts": 1779996249,
+      "author": "philips"
     },
     {
-      "title": "EU fines Temu €200M for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "hn_url": "https://news.ycombinator.com/item?id=48309302",
-      "points": 246,
-      "comments": 174,
-      "created_ts": 1779977898,
-      "author": "jjp"
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 163,
-      "comments": 82,
-      "created_ts": 1779973320,
-      "author": "Wirbelwind"
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "hn_url": "https://news.ycombinator.com/item?id=48313530",
+      "points": 276,
+      "comments": 115,
+      "created_ts": 1779993706,
+      "author": "KraftyOne"
     },
     {
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "url": "https://www.anthropic.com/news/series-h",
       "hn_url": "https://news.ycombinator.com/item?id=48313048",
-      "points": 129,
-      "comments": 104,
+      "points": 263,
+      "comments": 272,
       "created_ts": 1779991784,
       "author": "meetpateltech"
     },
     {
-      "title": "Bttf is a command line datetime Swiss army knife",
-      "url": "https://github.com/BurntSushi/bttf",
-      "hn_url": "https://news.ycombinator.com/item?id=48303881",
-      "points": 121,
-      "comments": 84,
-      "created_ts": 1779937124,
-      "author": "burntsushi"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48308376",
+      "points": 248,
+      "comments": 111,
+      "created_ts": 1779973320,
+      "author": "Wirbelwind"
     },
     {
-      "title": "Just Use Postgres for Durable Workflows",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "hn_url": "https://news.ycombinator.com/item?id=48313530",
-      "points": 111,
-      "comments": 42,
-      "created_ts": 1779993706,
-      "author": "KraftyOne"
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "hn_url": "https://news.ycombinator.com/item?id=48313810",
+      "points": 239,
+      "comments": 173,
+      "created_ts": 1779994938,
+      "author": "speckx"
     },
     {
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "hn_url": "https://news.ycombinator.com/item?id=48311705",
-      "points": 105,
-      "comments": 90,
-      "created_ts": 1779987141,
-      "author": "mil22"
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "hn_url": "https://news.ycombinator.com/item?id=48314951",
+      "points": 209,
+      "comments": 29,
+      "created_ts": 1779999921,
+      "author": "mattrighetti"
+    },
+    {
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "hn_url": "https://news.ycombinator.com/item?id=48315968",
+      "points": 192,
+      "comments": 93,
+      "created_ts": 1780004754,
+      "author": "possibilistic"
+    },
+    {
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48314002",
+      "points": 163,
+      "comments": 63,
+      "created_ts": 1779995754,
+      "author": "speckx"
     },
     {
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
       "hn_url": "https://news.ycombinator.com/item?id=48310280",
-      "points": 104,
-      "comments": 33,
+      "points": 152,
+      "comments": 63,
       "created_ts": 1779981784,
       "author": "whiteblossom"
+    },
+    {
+      "title": "I hated writing until I learned there’s a science to it (2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "hn_url": "https://news.ycombinator.com/item?id=48312528",
+      "points": 151,
+      "comments": 64,
+      "created_ts": 1779989807,
+      "author": "o4c"
     }
   ],
   "ph_today": [
-    {
-      "title": "LaunchOS",
-      "url": "https://www.producthunt.com/products/launchos",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:34:54-07:00"
-    },
-    {
-      "title": "Buffer API",
-      "url": "https://www.producthunt.com/products/buffer-api",
-      "tagline": "",
-      "pub_date": "2026-05-27T07:05:17-07:00"
-    },
-    {
-      "title": "Stage",
-      "url": "https://www.producthunt.com/products/stage-5",
-      "tagline": "",
-      "pub_date": "2026-05-26T18:44:31-07:00"
-    },
-    {
-      "title": "Memori",
-      "url": "https://www.producthunt.com/products/memori-labs",
-      "tagline": "",
-      "pub_date": "2026-05-07T19:34:46-07:00"
-    },
-    {
-      "title": "Pancake",
-      "url": "https://www.producthunt.com/products/pancake-6",
-      "tagline": "",
-      "pub_date": "2026-05-20T16:50:00-07:00"
-    },
-    {
-      "title": "SpotsNow",
-      "url": "https://www.producthunt.com/products/spotsnow",
-      "tagline": "",
-      "pub_date": "2026-05-13T08:48:53-07:00"
-    },
-    {
-      "title": "Sublern",
-      "url": "https://www.producthunt.com/products/sublern",
-      "tagline": "",
-      "pub_date": "2026-05-27T05:47:02-07:00"
-    },
     {
       "title": "Compartment",
       "url": "https://www.producthunt.com/products/compartment",
       "tagline": "",
       "pub_date": "2026-05-27T09:01:54-07:00"
-    },
-    {
-      "title": "Parastore",
-      "url": "https://www.producthunt.com/products/parastore",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:53:37-07:00"
-    },
-    {
-      "title": "KugelAudio",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "tagline": "",
-      "pub_date": "2026-05-27T13:30:22-07:00"
-    },
-    {
-      "title": "SoMerch",
-      "url": "https://www.producthunt.com/products/somerch",
-      "tagline": "",
-      "pub_date": "2026-05-18T00:24:19-07:00"
-    },
-    {
-      "title": "Granite",
-      "url": "https://www.producthunt.com/products/granite",
-      "tagline": "",
-      "pub_date": "2026-05-27T04:35:05-07:00"
-    },
-    {
-      "title": "Growati",
-      "url": "https://www.producthunt.com/products/growati",
-      "tagline": "",
-      "pub_date": "2026-05-27T06:18:56-07:00"
-    },
-    {
-      "title": "Marked 3",
-      "url": "https://www.producthunt.com/products/marked-2",
-      "tagline": "",
-      "pub_date": "2026-05-27T03:17:01-07:00"
     },
     {
       "title": "Robinhood Agentic Trading",
@@ -215,34 +146,34 @@
       "pub_date": "2026-05-27T22:21:51-07:00"
     },
     {
+      "title": "Growati",
+      "url": "https://www.producthunt.com/products/growati",
+      "tagline": "",
+      "pub_date": "2026-05-27T06:18:56-07:00"
+    },
+    {
+      "title": "Sublern",
+      "url": "https://www.producthunt.com/products/sublern",
+      "tagline": "",
+      "pub_date": "2026-05-27T05:47:02-07:00"
+    },
+    {
       "title": "Angel Match 4.0",
       "url": "https://www.producthunt.com/products/angel-match",
       "tagline": "",
       "pub_date": "2026-05-27T19:18:30-07:00"
     },
     {
-      "title": "Revolte",
-      "url": "https://www.producthunt.com/products/revolte",
+      "title": "Marked 3",
+      "url": "https://www.producthunt.com/products/marked-2",
       "tagline": "",
-      "pub_date": "2026-05-12T05:56:22-07:00"
+      "pub_date": "2026-05-27T03:17:01-07:00"
     },
     {
-      "title": "Pitch Agent",
-      "url": "https://www.producthunt.com/products/pitch",
+      "title": "Granite",
+      "url": "https://www.producthunt.com/products/granite",
       "tagline": "",
-      "pub_date": "2026-05-25T04:04:57-07:00"
-    },
-    {
-      "title": "AccountyCat",
-      "url": "https://www.producthunt.com/products/accountycat",
-      "tagline": "",
-      "pub_date": "2026-05-22T10:19:47-07:00"
-    },
-    {
-      "title": "Kim Personal Health Assistant",
-      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
-      "tagline": "",
-      "pub_date": "2026-05-27T01:32:18-07:00"
+      "pub_date": "2026-05-27T04:35:05-07:00"
     },
     {
       "title": "Crew44",
@@ -251,10 +182,88 @@
       "pub_date": "2026-05-27T00:32:57-07:00"
     },
     {
+      "title": "Stage",
+      "url": "https://www.producthunt.com/products/stage-5",
+      "tagline": "",
+      "pub_date": "2026-05-26T18:44:31-07:00"
+    },
+    {
+      "title": "Parastore",
+      "url": "https://www.producthunt.com/products/parastore",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:53:37-07:00"
+    },
+    {
+      "title": "LaunchOS",
+      "url": "https://www.producthunt.com/products/launchos",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:34:54-07:00"
+    },
+    {
       "title": "NeuralAgent 2.5",
       "url": "https://www.producthunt.com/products/neuralagent",
       "tagline": "",
       "pub_date": "2026-05-27T16:23:44-07:00"
+    },
+    {
+      "title": "KugelAudio",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "tagline": "",
+      "pub_date": "2026-05-27T13:30:22-07:00"
+    },
+    {
+      "title": "AccountyCat",
+      "url": "https://www.producthunt.com/products/accountycat",
+      "tagline": "",
+      "pub_date": "2026-05-22T10:19:47-07:00"
+    },
+    {
+      "title": "SoMerch",
+      "url": "https://www.producthunt.com/products/somerch",
+      "tagline": "",
+      "pub_date": "2026-05-18T00:24:19-07:00"
+    },
+    {
+      "title": "Buffer API",
+      "url": "https://www.producthunt.com/products/buffer-api",
+      "tagline": "",
+      "pub_date": "2026-05-27T07:05:17-07:00"
+    },
+    {
+      "title": "Pitch Agent",
+      "url": "https://www.producthunt.com/products/pitch",
+      "tagline": "",
+      "pub_date": "2026-05-25T04:04:57-07:00"
+    },
+    {
+      "title": "Memori",
+      "url": "https://www.producthunt.com/products/memori-labs",
+      "tagline": "",
+      "pub_date": "2026-05-07T19:34:46-07:00"
+    },
+    {
+      "title": "Kim Personal Health Assistant",
+      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:32:18-07:00"
+    },
+    {
+      "title": "SpotsNow",
+      "url": "https://www.producthunt.com/products/spotsnow",
+      "tagline": "",
+      "pub_date": "2026-05-13T08:48:53-07:00"
+    },
+    {
+      "title": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
+      "tagline": "",
+      "pub_date": "2026-05-12T05:56:22-07:00"
+    },
+    {
+      "title": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
+      "tagline": "",
+      "pub_date": "2026-05-20T16:50:00-07:00"
     },
     {
       "title": "MacSIM by Studio Practice",
@@ -263,46 +272,46 @@
       "pub_date": "2026-05-20T23:42:58-07:00"
     },
     {
-      "title": "Phasr",
-      "url": "https://www.producthunt.com/products/phasr-2",
+      "title": "Powabase",
+      "url": "https://www.producthunt.com/products/powabase",
       "tagline": "",
-      "pub_date": "2026-05-26T01:06:02-07:00"
+      "pub_date": "2026-05-15T09:18:24-07:00"
     },
     {
-      "title": "Curlo",
-      "url": "https://www.producthunt.com/products/curlo",
+      "title": "Bluedot 2.1",
+      "url": "https://www.producthunt.com/products/bluedot-2",
       "tagline": "",
-      "pub_date": "2026-05-24T23:25:21-07:00"
+      "pub_date": "2026-05-24T04:15:12-07:00"
     },
     {
-      "title": "Aviquill",
-      "url": "https://www.producthunt.com/products/aviquill",
+      "title": "Oasis Browser for Mac",
+      "url": "https://www.producthunt.com/products/kahana",
       "tagline": "",
-      "pub_date": "2026-05-25T00:57:37-07:00"
+      "pub_date": "2026-05-13T07:44:02-07:00"
     },
     {
-      "title": "BankStatementLab",
-      "url": "https://www.producthunt.com/products/bankstatementlab",
+      "title": "baz.studio",
+      "url": "https://www.producthunt.com/products/bazaar-2",
       "tagline": "",
-      "pub_date": "2026-03-20T22:32:55-07:00"
+      "pub_date": "2026-05-22T06:37:44-07:00"
     },
     {
-      "title": "Extend",
-      "url": "https://www.producthunt.com/products/extend-2",
+      "title": "BobCA",
+      "url": "https://www.producthunt.com/products/bob-s-workshop",
       "tagline": "",
-      "pub_date": "2026-05-26T08:41:04-07:00"
+      "pub_date": "2026-05-25T21:17:14-07:00"
     },
     {
-      "title": "AgenticCalling AI",
-      "url": "https://www.producthunt.com/products/agenticcalling-ai",
+      "title": "Chunk sidecars",
+      "url": "https://www.producthunt.com/products/circleci",
       "tagline": "",
-      "pub_date": "2026-05-26T03:43:30-07:00"
+      "pub_date": "2026-05-26T06:49:27-07:00"
     },
     {
-      "title": "GenGo",
-      "url": "https://www.producthunt.com/products/gengo-2",
+      "title": "zero.xyz",
+      "url": "https://www.producthunt.com/products/zero-xyz",
       "tagline": "",
-      "pub_date": "2026-05-26T14:31:12-07:00"
+      "pub_date": "2026-05-26T11:33:09-07:00"
     }
   ]
 }

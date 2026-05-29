@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-05-29T09:40:25.363Z",
+  "generated_at": "2026-05-29T14:46:30.869Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 321,
-      "comments": 130,
-      "created_ts": 1779973320,
-      "author": "Wirbelwind"
-    },
-    {
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
       "hn_url": "https://news.ycombinator.com/item?id=48309986",
-      "points": 73,
+      "points": 79,
       "comments": 17,
       "created_ts": 1779980706,
       "author": "lucamrtl"
     },
     {
-      "title": "Show HN: LiteParse v2, now in Rust 100x faster",
-      "url": "https://github.com/run-llama/liteparse/",
-      "hn_url": "https://news.ycombinator.com/item?id=48307849",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1779970542,
-      "author": "pierre"
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "url": "https://github.com/scanaislop/aislop",
+      "hn_url": "https://news.ycombinator.com/item?id=48322956",
+      "points": 52,
+      "comments": 39,
+      "created_ts": 1780061858,
+      "author": "Heavykenny"
     }
   ],
   "hn_front": [
@@ -36,8 +27,8 @@
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "hn_url": "https://news.ycombinator.com/item?id=48311647",
-      "points": 1522,
-      "comments": 1187,
+      "points": 1655,
+      "comments": 1289,
       "created_ts": 1779986954,
       "author": "craigmart"
     },
@@ -45,8 +36,8 @@
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
       "hn_url": "https://news.ycombinator.com/item?id=48314136",
-      "points": 942,
-      "comments": 429,
+      "points": 1160,
+      "comments": 511,
       "created_ts": 1779996249,
       "author": "philips"
     },
@@ -54,156 +45,90 @@
       "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
       "hn_url": "https://news.ycombinator.com/item?id=48314951",
-      "points": 396,
-      "comments": 62,
+      "points": 496,
+      "comments": 74,
       "created_ts": 1779999921,
       "author": "mattrighetti"
-    },
-    {
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "hn_url": "https://news.ycombinator.com/item?id=48315968",
-      "points": 391,
-      "comments": 168,
-      "created_ts": 1780004754,
-      "author": "possibilistic"
     },
     {
       "title": "Cars collect a startling amount of data about you",
       "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
       "hn_url": "https://news.ycombinator.com/item?id=48318481",
-      "points": 321,
-      "comments": 147,
+      "points": 444,
+      "comments": 232,
       "created_ts": 1780023660,
       "author": "1vuio0pswjnm7"
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48308376",
-      "points": 321,
-      "comments": 130,
-      "created_ts": 1779973320,
-      "author": "Wirbelwind"
-    },
-    {
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "hn_url": "https://news.ycombinator.com/item?id=48313530",
-      "points": 311,
-      "comments": 133,
-      "created_ts": 1779993706,
-      "author": "KraftyOne"
-    },
-    {
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "hn_url": "https://news.ycombinator.com/item?id=48313810",
-      "points": 306,
-      "comments": 241,
-      "created_ts": 1779994938,
-      "author": "speckx"
-    },
-    {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "hn_url": "https://news.ycombinator.com/item?id=48317774",
-      "points": 283,
-      "comments": 282,
-      "created_ts": 1780017398,
-      "author": "enraged_camel"
-    },
-    {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "hn_url": "https://news.ycombinator.com/item?id=48314002",
-      "points": 247,
-      "comments": 82,
-      "created_ts": 1779995754,
-      "author": "speckx"
-    },
-    {
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "hn_url": "https://news.ycombinator.com/item?id=48317093",
-      "points": 206,
-      "comments": 99,
-      "created_ts": 1780011767,
-      "author": "drewda"
-    },
-    {
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "hn_url": "https://news.ycombinator.com/item?id=48310280",
-      "points": 185,
-      "comments": 74,
-      "created_ts": 1779981784,
-      "author": "whiteblossom"
     },
     {
       "title": "Volkswagen blocks Home Assistant by requiring client assertion",
       "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
       "hn_url": "https://news.ycombinator.com/item?id=48319509",
-      "points": 152,
-      "comments": 76,
+      "points": 295,
+      "comments": 149,
       "created_ts": 1780033536,
       "author": "Kwastie"
+    },
+    {
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48314002",
+      "points": 291,
+      "comments": 100,
+      "created_ts": 1779995754,
+      "author": "speckx"
+    },
+    {
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "hn_url": "https://news.ycombinator.com/item?id=48318174",
+      "points": 248,
+      "comments": 51,
+      "created_ts": 1780020800,
+      "author": "ankitg12"
+    },
+    {
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48323101",
+      "points": 206,
+      "comments": 46,
+      "created_ts": 1780062625,
+      "author": "garycomtois"
+    },
+    {
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "hn_url": "https://news.ycombinator.com/item?id=48321631",
+      "points": 143,
+      "comments": 142,
+      "created_ts": 1780052972,
+      "author": "xyzal"
+    },
+    {
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "hn_url": "https://news.ycombinator.com/item?id=48318522",
+      "points": 116,
+      "comments": 42,
+      "created_ts": 1780024042,
+      "author": "goranmoomin"
+    },
+    {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "hn_url": "https://news.ycombinator.com/item?id=48321076",
+      "points": 104,
+      "comments": 52,
+      "created_ts": 1780048043,
+      "author": "NicoConstant"
     }
   ],
   "ph_today": [
     {
-      "title": "Linear Diffs",
-      "url": "https://www.producthunt.com/products/linear",
+      "title": "Ava Studio",
+      "url": "https://www.producthunt.com/products/ava-studio",
       "tagline": "",
-      "pub_date": "2026-05-28T11:09:28-07:00"
-    },
-    {
-      "title": "Integuru",
-      "url": "https://www.producthunt.com/products/integuru",
-      "tagline": "",
-      "pub_date": "2026-05-28T06:41:04-07:00"
-    },
-    {
-      "title": "TrackNotch",
-      "url": "https://www.producthunt.com/products/tracknotch",
-      "tagline": "",
-      "pub_date": "2026-05-28T07:59:17-07:00"
-    },
-    {
-      "title": "Vibeocus Lens",
-      "url": "https://www.producthunt.com/products/vibeocus-lens",
-      "tagline": "",
-      "pub_date": "2026-05-28T02:24:39-07:00"
-    },
-    {
-      "title": "Screen Ruler",
-      "url": "https://www.producthunt.com/products/screen-ruler",
-      "tagline": "",
-      "pub_date": "2026-05-23T01:30:35-07:00"
-    },
-    {
-      "title": "Sinalytica",
-      "url": "https://www.producthunt.com/products/sinalytica",
-      "tagline": "",
-      "pub_date": "2026-05-23T13:37:22-07:00"
-    },
-    {
-      "title": "Ava 2.0",
-      "url": "https://www.producthunt.com/products/artisan-3",
-      "tagline": "",
-      "pub_date": "2026-05-27T15:10:18-07:00"
-    },
-    {
-      "title": "PromptLayer",
-      "url": "https://www.producthunt.com/products/promptlayer-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T23:41:50-07:00"
-    },
-    {
-      "title": "GPS",
-      "url": "https://www.producthunt.com/products/gps-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T08:05:48-07:00"
+      "pub_date": "2026-05-19T14:41:22-07:00"
     },
     {
       "title": "Basedash: Embedded Analytics",
@@ -212,28 +137,16 @@
       "pub_date": "2026-05-28T11:57:07-07:00"
     },
     {
-      "title": "NODUS HN Radar",
-      "url": "https://www.producthunt.com/products/nodus-hn-radar",
+      "title": "Ava 2.0",
+      "url": "https://www.producthunt.com/products/artisan-3",
       "tagline": "",
-      "pub_date": "2026-05-28T08:16:09-07:00"
+      "pub_date": "2026-05-27T15:10:18-07:00"
     },
     {
-      "title": "Notchy",
-      "url": "https://www.producthunt.com/products/notchy",
+      "title": "Linear Diffs",
+      "url": "https://www.producthunt.com/products/linear",
       "tagline": "",
-      "pub_date": "2026-05-28T03:38:55-07:00"
-    },
-    {
-      "title": "MoDev",
-      "url": "https://www.producthunt.com/products/modev",
-      "tagline": "",
-      "pub_date": "2026-05-13T12:05:26-07:00"
-    },
-    {
-      "title": "Agent A by Ahrefs",
-      "url": "https://www.producthunt.com/products/ahrefs",
-      "tagline": "",
-      "pub_date": "2026-05-28T08:00:52-07:00"
+      "pub_date": "2026-05-28T11:09:28-07:00"
     },
     {
       "title": "RabbitTravel",
@@ -242,22 +155,22 @@
       "pub_date": "2026-05-28T03:34:41-07:00"
     },
     {
-      "title": "/monitor by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "title": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
       "tagline": "",
-      "pub_date": "2026-05-28T15:56:59-07:00"
+      "pub_date": "2026-05-28T08:05:48-07:00"
     },
     {
-      "title": "Ava Studio",
-      "url": "https://www.producthunt.com/products/ava-studio",
+      "title": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
       "tagline": "",
-      "pub_date": "2026-05-19T14:41:22-07:00"
+      "pub_date": "2026-05-25T01:13:13-07:00"
     },
     {
-      "title": "MCP Bridge by Appfactor",
-      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
       "tagline": "",
-      "pub_date": "2026-04-01T12:46:27-07:00"
+      "pub_date": "2026-05-13T12:05:26-07:00"
     },
     {
       "title": "Coffee Piano",
@@ -272,52 +185,94 @@
       "pub_date": "2026-05-28T07:56:30-07:00"
     },
     {
-      "title": "Firecoach AI",
-      "url": "https://www.producthunt.com/products/firecoach",
+      "title": "Integuru",
+      "url": "https://www.producthunt.com/products/integuru",
       "tagline": "",
-      "pub_date": "2026-05-25T01:13:13-07:00"
+      "pub_date": "2026-05-28T06:41:04-07:00"
     },
     {
-      "title": "Kim Personal Health Assistant",
-      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "title": "TrackNotch",
+      "url": "https://www.producthunt.com/products/tracknotch",
       "tagline": "",
-      "pub_date": "2026-05-27T01:32:18-07:00"
+      "pub_date": "2026-05-28T07:59:17-07:00"
     },
     {
-      "title": "Compartment",
-      "url": "https://www.producthunt.com/products/compartment",
+      "title": "Sinalytica",
+      "url": "https://www.producthunt.com/products/sinalytica",
       "tagline": "",
-      "pub_date": "2026-05-27T09:01:54-07:00"
+      "pub_date": "2026-05-23T13:37:22-07:00"
     },
     {
-      "title": "NeuralAgent 2.5",
-      "url": "https://www.producthunt.com/products/neuralagent",
+      "title": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-05-27T16:23:44-07:00"
+      "pub_date": "2026-05-28T15:56:59-07:00"
     },
     {
-      "title": "Crew44",
-      "url": "https://www.producthunt.com/products/crew44",
+      "title": "NODUS HN Radar",
+      "url": "https://www.producthunt.com/products/nodus-hn-radar",
       "tagline": "",
-      "pub_date": "2026-05-27T00:32:57-07:00"
+      "pub_date": "2026-05-28T08:16:09-07:00"
     },
     {
-      "title": "Angel Match 4.0",
-      "url": "https://www.producthunt.com/products/angel-match",
+      "title": "Notchy",
+      "url": "https://www.producthunt.com/products/notchy",
       "tagline": "",
-      "pub_date": "2026-05-27T19:18:30-07:00"
+      "pub_date": "2026-05-28T03:38:55-07:00"
     },
     {
-      "title": "Marked 3",
-      "url": "https://www.producthunt.com/products/marked-2",
+      "title": "Screen Ruler",
+      "url": "https://www.producthunt.com/products/screen-ruler",
       "tagline": "",
-      "pub_date": "2026-05-27T03:17:01-07:00"
+      "pub_date": "2026-05-23T01:30:35-07:00"
     },
     {
-      "title": "Pitch Agent",
-      "url": "https://www.producthunt.com/products/pitch",
+      "title": "PromptLayer",
+      "url": "https://www.producthunt.com/products/promptlayer-2",
       "tagline": "",
-      "pub_date": "2026-05-25T04:04:57-07:00"
+      "pub_date": "2026-05-28T23:41:50-07:00"
+    },
+    {
+      "title": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:00:52-07:00"
+    },
+    {
+      "title": "Vibeocus Lens",
+      "url": "https://www.producthunt.com/products/vibeocus-lens",
+      "tagline": "",
+      "pub_date": "2026-05-28T02:24:39-07:00"
+    },
+    {
+      "title": "MCP Bridge by Appfactor",
+      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
+      "tagline": "",
+      "pub_date": "2026-04-01T12:46:27-07:00"
+    },
+    {
+      "title": "Parastore",
+      "url": "https://www.producthunt.com/products/parastore",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:53:37-07:00"
+    },
+    {
+      "title": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
+      "tagline": "",
+      "pub_date": "2026-05-12T05:56:22-07:00"
+    },
+    {
+      "title": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
+      "tagline": "",
+      "pub_date": "2026-05-20T16:50:00-07:00"
+    },
+    {
+      "title": "Robinhood Agentic Trading",
+      "url": "https://www.producthunt.com/products/robinhood",
+      "tagline": "",
+      "pub_date": "2026-05-27T22:21:51-07:00"
     },
     {
       "title": "Sublern",
@@ -326,10 +281,28 @@
       "pub_date": "2026-05-27T05:47:02-07:00"
     },
     {
-      "title": "KugelAudio",
-      "url": "https://www.producthunt.com/products/kugelaudio",
+      "title": "Angel Match 4.0",
+      "url": "https://www.producthunt.com/products/angel-match",
       "tagline": "",
-      "pub_date": "2026-05-27T13:30:22-07:00"
+      "pub_date": "2026-05-27T19:18:30-07:00"
+    },
+    {
+      "title": "Compartment",
+      "url": "https://www.producthunt.com/products/compartment",
+      "tagline": "",
+      "pub_date": "2026-05-27T09:01:54-07:00"
+    },
+    {
+      "title": "AccountyCat",
+      "url": "https://www.producthunt.com/products/accountycat",
+      "tagline": "",
+      "pub_date": "2026-05-22T10:19:47-07:00"
+    },
+    {
+      "title": "Kim Personal Health Assistant",
+      "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+      "tagline": "",
+      "pub_date": "2026-05-27T01:32:18-07:00"
     }
   ]
 }

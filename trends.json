@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T13:10:50.727Z",
+  "generated_at": "2026-05-30T19:02:27.580Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,210 +7,120 @@
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
       "url": "https://github.com/jmaczan/tiny-vllm",
       "hn_url": "https://news.ycombinator.com/item?id=48328184",
-      "points": 158,
-      "comments": 13,
+      "points": 176,
+      "comments": 16,
       "created_ts": 1780083507,
       "author": "yu3zhou4"
-    },
-    {
-      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-      "url": "https://tvexplorer.live",
-      "hn_url": "https://news.ycombinator.com/item?id=48325624",
-      "points": 154,
-      "comments": 43,
-      "created_ts": 1780072749,
-      "author": "dtagames"
     },
     {
       "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
       "url": "https://github.com/secluso/core",
       "hn_url": "https://news.ycombinator.com/item?id=48330192",
-      "points": 86,
-      "comments": 19,
+      "points": 103,
+      "comments": 23,
       "created_ts": 1780093949,
       "author": "arrdalan"
-    },
-    {
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "url": "https://github.com/scanaislop/aislop",
-      "hn_url": "https://news.ycombinator.com/item?id=48322956",
-      "points": 72,
-      "comments": 60,
-      "created_ts": 1780061858,
-      "author": "Heavykenny"
     },
     {
       "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
       "url": "https://helios.southlondonscientific.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48334949",
-      "points": 22,
-      "comments": 4,
+      "points": 86,
+      "comments": 30,
       "created_ts": 1780139317,
       "author": "ruaraidh"
-    },
-    {
-      "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
-      "url": "https://github.com/vinhnx/VTCode",
-      "hn_url": "https://news.ycombinator.com/item?id=48332098",
-      "points": 12,
-      "comments": 4,
-      "created_ts": 1780110445,
-      "author": "vinhnx"
-    },
-    {
-      "title": "Show HN: Promptloop – create, run, and improve prompt evals from the terminal",
-      "url": "https://github.com/Bella3202019/promptloop",
-      "hn_url": "https://news.ycombinator.com/item?id=48325073",
-      "points": 11,
-      "comments": 2,
-      "created_ts": 1780070806,
-      "author": "velapod"
     },
     {
       "title": "Show HN: I built an Android OS in the browser",
       "url": "https://mobilegym.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=48332983",
-      "points": 11,
+      "points": 15,
       "comments": 0,
       "created_ts": 1780119624,
       "author": "haozaz"
+    },
+    {
+      "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+      "url": "https://github.com/vinhnx/VTCode",
+      "hn_url": "https://news.ycombinator.com/item?id=48332098",
+      "points": 14,
+      "comments": 4,
+      "created_ts": 1780110445,
+      "author": "vinhnx"
     }
   ],
   "hn_front": [
     {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "hn_url": "https://news.ycombinator.com/item?id=48324712",
-      "points": 1085,
-      "comments": 1219,
-      "created_ts": 1780069584,
-      "author": "WillDaSilva"
-    },
-    {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "hn_url": "https://news.ycombinator.com/item?id=48326802",
-      "points": 589,
-      "comments": 299,
-      "created_ts": 1780077290,
-      "author": "tomasol"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "hn_url": "https://news.ycombinator.com/item?id=48325340",
-      "points": 399,
-      "comments": 175,
-      "created_ts": 1780071721,
-      "author": "vnglst"
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "hn_url": "https://news.ycombinator.com/item?id=48323869",
-      "points": 326,
-      "comments": 524,
-      "created_ts": 1780066531,
-      "author": "watermelon0"
-    },
-    {
       "title": "MCP is dead?",
       "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
       "hn_url": "https://news.ycombinator.com/item?id=48330436",
-      "points": 284,
-      "comments": 267,
+      "points": 361,
+      "comments": 344,
       "created_ts": 1780095409,
       "author": "nadis"
-    },
-    {
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "hn_url": "https://news.ycombinator.com/item?id=48333820",
-      "points": 277,
-      "comments": 205,
-      "created_ts": 1780128020,
-      "author": "vrganj"
-    },
-    {
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "hn_url": "https://news.ycombinator.com/item?id=48323992",
-      "points": 237,
-      "comments": 82,
-      "created_ts": 1780067012,
-      "author": "justinweiss"
-    },
-    {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "hn_url": "https://news.ycombinator.com/item?id=48325306",
-      "points": 203,
-      "comments": 78,
-      "created_ts": 1780071594,
-      "author": "simjnd"
-    },
-    {
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "hn_url": "https://news.ycombinator.com/item?id=48334048",
-      "points": 160,
-      "comments": 50,
-      "created_ts": 1780130308,
-      "author": "tosh"
-    },
-    {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "hn_url": "https://news.ycombinator.com/item?id=48328184",
-      "points": 158,
-      "comments": 13,
-      "created_ts": 1780083507,
-      "author": "yu3zhou4"
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "hn_url": "https://news.ycombinator.com/item?id=48327962",
-      "points": 152,
-      "comments": 212,
-      "created_ts": 1780082192,
-      "author": "evilsimon"
     },
     {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48334515",
-      "points": 148,
-      "comments": 11,
+      "points": 299,
+      "comments": 43,
       "created_ts": 1780135002,
       "author": "ankitg12"
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "hn_url": "https://news.ycombinator.com/item?id=48334048",
+      "points": 288,
+      "comments": 181,
+      "created_ts": 1780130308,
+      "author": "tosh"
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "hn_url": "https://news.ycombinator.com/item?id=48334854",
+      "points": 237,
+      "comments": 106,
+      "created_ts": 1780138308,
+      "author": "sph"
     },
     {
       "title": "The Last Technical Interview",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
       "hn_url": "https://news.ycombinator.com/item?id=48328405",
-      "points": 142,
-      "comments": 111,
+      "points": 212,
+      "comments": 205,
       "created_ts": 1780084736,
       "author": "headalgorithm"
     },
     {
-      "title": "Naphtha shortages in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "hn_url": "https://news.ycombinator.com/item?id=48331786",
-      "points": 132,
-      "comments": 93,
-      "created_ts": 1780107640,
-      "author": "takakaze"
+      "title": "Voxel Space",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "hn_url": "https://news.ycombinator.com/item?id=48336564",
+      "points": 178,
+      "comments": 37,
+      "created_ts": 1780151150,
+      "author": "davikr"
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "hn_url": "https://news.ycombinator.com/item?id=48335135",
-      "points": 102,
-      "comments": 43,
-      "created_ts": 1780141289,
-      "author": "mhalle"
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "hn_url": "https://news.ycombinator.com/item?id=48338660",
+      "points": 138,
+      "comments": 58,
+      "created_ts": 1780162048,
+      "author": "freeCandy"
+    },
+    {
+      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+      "hn_url": "https://news.ycombinator.com/item?id=48336312",
+      "points": 107,
+      "comments": 48,
+      "created_ts": 1780149811,
+      "author": "gmays"
     }
   ],
   "ph_today": [
@@ -219,6 +129,12 @@
       "url": "https://www.producthunt.com/products/wandesk-ai",
       "tagline": "",
       "pub_date": "2025-12-05T19:15:50-08:00"
+    },
+    {
+      "title": "Exstats",
+      "url": "https://www.producthunt.com/products/exstats",
+      "tagline": "",
+      "pub_date": "2026-05-18T01:45:37-07:00"
     },
     {
       "title": "Openstatus MCP Health Checker",
@@ -239,130 +155,10 @@
       "pub_date": "2026-05-11T12:20:03-07:00"
     },
     {
-      "title": "Exstats",
-      "url": "https://www.producthunt.com/products/exstats",
-      "tagline": "",
-      "pub_date": "2026-05-18T01:45:37-07:00"
-    },
-    {
-      "title": "Ava Studio",
-      "url": "https://www.producthunt.com/products/ava-studio",
-      "tagline": "",
-      "pub_date": "2026-05-19T14:41:22-07:00"
-    },
-    {
-      "title": "Firecoach AI",
-      "url": "https://www.producthunt.com/products/firecoach",
-      "tagline": "",
-      "pub_date": "2026-05-25T01:13:13-07:00"
-    },
-    {
-      "title": "Agent A by Ahrefs",
-      "url": "https://www.producthunt.com/products/ahrefs",
-      "tagline": "",
-      "pub_date": "2026-05-28T08:00:52-07:00"
-    },
-    {
-      "title": "/monitor by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-05-28T15:56:59-07:00"
-    },
-    {
-      "title": "Screen Ruler",
-      "url": "https://www.producthunt.com/products/screen-ruler",
-      "tagline": "",
-      "pub_date": "2026-05-23T01:30:35-07:00"
-    },
-    {
-      "title": "Ava 2.0",
-      "url": "https://www.producthunt.com/products/artisan-3",
-      "tagline": "",
-      "pub_date": "2026-05-27T15:10:18-07:00"
-    },
-    {
       "title": "MCP Bridge by Appfactor",
       "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
       "tagline": "",
       "pub_date": "2026-04-01T12:46:27-07:00"
-    },
-    {
-      "title": "Basedash: Embedded Analytics",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-28T11:57:07-07:00"
-    },
-    {
-      "title": "Hyper: Self-driving Company Brain",
-      "url": "https://www.producthunt.com/products/hyper-11",
-      "tagline": "",
-      "pub_date": "2026-05-27T13:25:45-07:00"
-    },
-    {
-      "title": "Integuru",
-      "url": "https://www.producthunt.com/products/integuru",
-      "tagline": "",
-      "pub_date": "2026-05-28T06:41:04-07:00"
-    },
-    {
-      "title": "Sinalytica",
-      "url": "https://www.producthunt.com/products/sinalytica",
-      "tagline": "",
-      "pub_date": "2026-05-23T13:37:22-07:00"
-    },
-    {
-      "title": "RabbitTravel",
-      "url": "https://www.producthunt.com/products/rabbittravel",
-      "tagline": "",
-      "pub_date": "2026-05-28T03:34:41-07:00"
-    },
-    {
-      "title": "Vibeocus Lens",
-      "url": "https://www.producthunt.com/products/vibeocus-lens",
-      "tagline": "",
-      "pub_date": "2026-05-28T02:24:39-07:00"
-    },
-    {
-      "title": "Drafted",
-      "url": "https://www.producthunt.com/products/drafted-4",
-      "tagline": "",
-      "pub_date": "2026-05-28T22:25:33-07:00"
-    },
-    {
-      "title": "NODUS HN Radar",
-      "url": "https://www.producthunt.com/products/nodus-hn-radar",
-      "tagline": "",
-      "pub_date": "2026-05-28T08:16:09-07:00"
-    },
-    {
-      "title": "MoDev",
-      "url": "https://www.producthunt.com/products/modev",
-      "tagline": "",
-      "pub_date": "2026-05-13T12:05:26-07:00"
-    },
-    {
-      "title": "TrackNotch",
-      "url": "https://www.producthunt.com/products/tracknotch",
-      "tagline": "",
-      "pub_date": "2026-05-28T07:59:17-07:00"
-    },
-    {
-      "title": "GPS",
-      "url": "https://www.producthunt.com/products/gps-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T08:05:48-07:00"
-    },
-    {
-      "title": "Clipline",
-      "url": "https://www.producthunt.com/products/clipline-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T07:56:30-07:00"
-    },
-    {
-      "title": "Notchy",
-      "url": "https://www.producthunt.com/products/notchy",
-      "tagline": "",
-      "pub_date": "2026-05-28T03:38:55-07:00"
     },
     {
       "title": "Coffee Piano",
@@ -371,10 +167,22 @@
       "pub_date": "2026-05-28T14:45:11-07:00"
     },
     {
-      "title": "Linear Diffs",
-      "url": "https://www.producthunt.com/products/linear",
+      "title": "Clipline",
+      "url": "https://www.producthunt.com/products/clipline-2",
       "tagline": "",
-      "pub_date": "2026-05-28T11:09:28-07:00"
+      "pub_date": "2026-05-28T07:56:30-07:00"
+    },
+    {
+      "title": "Vibeocus Lens",
+      "url": "https://www.producthunt.com/products/vibeocus-lens",
+      "tagline": "",
+      "pub_date": "2026-05-28T02:24:39-07:00"
+    },
+    {
+      "title": "Integuru",
+      "url": "https://www.producthunt.com/products/integuru",
+      "tagline": "",
+      "pub_date": "2026-05-28T06:41:04-07:00"
     },
     {
       "title": "PromptLayer",
@@ -383,16 +191,118 @@
       "pub_date": "2026-05-28T23:41:50-07:00"
     },
     {
+      "title": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:05:48-07:00"
+    },
+    {
+      "title": "RabbitTravel",
+      "url": "https://www.producthunt.com/products/rabbittravel",
+      "tagline": "",
+      "pub_date": "2026-05-28T03:34:41-07:00"
+    },
+    {
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
+      "tagline": "",
+      "pub_date": "2026-05-13T12:05:26-07:00"
+    },
+    {
+      "title": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "tagline": "",
+      "pub_date": "2026-05-28T15:56:59-07:00"
+    },
+    {
+      "title": "Hyper: Self-driving Company Brain",
+      "url": "https://www.producthunt.com/products/hyper-11",
+      "tagline": "",
+      "pub_date": "2026-05-27T13:25:45-07:00"
+    },
+    {
+      "title": "Basedash: Embedded Analytics",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:57:07-07:00"
+    },
+    {
+      "title": "Screen Ruler",
+      "url": "https://www.producthunt.com/products/screen-ruler",
+      "tagline": "",
+      "pub_date": "2026-05-23T01:30:35-07:00"
+    },
+    {
+      "title": "Linear Diffs",
+      "url": "https://www.producthunt.com/products/linear",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:09:28-07:00"
+    },
+    {
+      "title": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
+      "tagline": "",
+      "pub_date": "2026-05-25T01:13:13-07:00"
+    },
+    {
+      "title": "Drafted",
+      "url": "https://www.producthunt.com/products/drafted-4",
+      "tagline": "",
+      "pub_date": "2026-05-28T22:25:33-07:00"
+    },
+    {
+      "title": "Ava Studio",
+      "url": "https://www.producthunt.com/products/ava-studio",
+      "tagline": "",
+      "pub_date": "2026-05-19T14:41:22-07:00"
+    },
+    {
+      "title": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:00:52-07:00"
+    },
+    {
+      "title": "TrackNotch",
+      "url": "https://www.producthunt.com/products/tracknotch",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:59:17-07:00"
+    },
+    {
+      "title": "Sinalytica",
+      "url": "https://www.producthunt.com/products/sinalytica",
+      "tagline": "",
+      "pub_date": "2026-05-23T13:37:22-07:00"
+    },
+    {
+      "title": "Notchy",
+      "url": "https://www.producthunt.com/products/notchy",
+      "tagline": "",
+      "pub_date": "2026-05-28T03:38:55-07:00"
+    },
+    {
+      "title": "Ava 2.0",
+      "url": "https://www.producthunt.com/products/artisan-3",
+      "tagline": "",
+      "pub_date": "2026-05-27T15:10:18-07:00"
+    },
+    {
+      "title": "NODUS HN Radar",
+      "url": "https://www.producthunt.com/products/nodus-hn-radar",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:16:09-07:00"
+    },
+    {
       "title": "Marked 3",
       "url": "https://www.producthunt.com/products/marked-2",
       "tagline": "",
       "pub_date": "2026-05-27T03:17:01-07:00"
     },
     {
-      "title": "Pancake",
-      "url": "https://www.producthunt.com/products/pancake-6",
+      "title": "Stage",
+      "url": "https://www.producthunt.com/products/stage-5",
       "tagline": "",
-      "pub_date": "2026-05-20T16:50:00-07:00"
+      "pub_date": "2026-05-26T18:44:31-07:00"
     }
   ]
 }

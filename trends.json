@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-05-31T19:05:39.016Z",
+  "generated_at": "2026-06-01T02:54:47.760Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "hn_url": "https://news.ycombinator.com/item?id=48339753",
-      "points": 130,
-      "comments": 23,
-      "created_ts": 1780169016,
-      "author": "poppypetalmask"
-    },
-    {
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=48340315",
-      "points": 104,
-      "comments": 16,
-      "created_ts": 1780173053,
-      "author": "marekkowalczyk"
+      "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "url": "https://github.com/viggy28/streambed",
+      "hn_url": "https://news.ycombinator.com/item?id=48348429",
+      "points": 70,
+      "comments": 13,
+      "created_ts": 1780252985,
+      "author": "vira28"
     },
     {
       "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
       "url": "https://kenforthewin.github.io/atomic-editor/",
       "hn_url": "https://news.ycombinator.com/item?id=48345201",
-      "points": 34,
-      "comments": 9,
+      "points": 56,
+      "comments": 13,
       "created_ts": 1780230774,
       "author": "kenforthewin"
     },
@@ -34,91 +25,73 @@
       "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
       "url": "https://github.com/kurikomi-labs/komi-learn",
       "hn_url": "https://news.ycombinator.com/item?id=48343216",
-      "points": 18,
-      "comments": 2,
+      "points": 21,
+      "comments": 3,
       "created_ts": 1780204300,
       "author": "rainxchzed"
+    },
+    {
+      "title": "Show HN: xxUTF – SIMD Unicode Normalization",
+      "url": "https://github.com/dzfrias/xxUTF",
+      "hn_url": "https://news.ycombinator.com/item?id=48346829",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1780243575,
+      "author": "dzfrias"
     }
   ],
   "hn_front": [
     {
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "hn_url": "https://news.ycombinator.com/item?id=48341062",
-      "points": 371,
-      "comments": 43,
-      "created_ts": 1780178798,
-      "author": "aleda145"
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "hn_url": "https://news.ycombinator.com/item?id=48345840",
+      "points": 537,
+      "comments": 301,
+      "created_ts": 1780236800,
+      "author": "HypnoticOcelot"
+    },
+    {
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "hn_url": "https://news.ycombinator.com/item?id=48346947",
+      "points": 497,
+      "comments": 325,
+      "created_ts": 1780244374,
+      "author": "MrJagil"
     },
     {
       "title": "The Website Specification",
       "url": "https://specification.website/",
       "hn_url": "https://news.ycombinator.com/item?id=48343683",
-      "points": 367,
-      "comments": 154,
+      "points": 444,
+      "comments": 184,
       "created_ts": 1780211390,
       "author": "k1m"
-    },
-    {
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "hn_url": "https://news.ycombinator.com/item?id=48340910",
-      "points": 326,
-      "comments": 142,
-      "created_ts": 1780177578,
-      "author": "ksec"
     },
     {
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
       "hn_url": "https://news.ycombinator.com/item?id=48344961",
-      "points": 326,
-      "comments": 108,
+      "points": 403,
+      "comments": 148,
       "created_ts": 1780227885,
       "author": "captain_bender"
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "hn_url": "https://news.ycombinator.com/item?id=48345840",
-      "points": 282,
-      "comments": 157,
-      "created_ts": 1780236800,
-      "author": "HypnoticOcelot"
-    },
-    {
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "hn_url": "https://news.ycombinator.com/item?id=48346947",
-      "points": 237,
-      "comments": 169,
-      "created_ts": 1780244374,
-      "author": "MrJagil"
-    },
-    {
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48343714",
-      "points": 221,
-      "comments": 119,
-      "created_ts": 1780211778,
-      "author": "zeristor"
-    },
-    {
-      "title": "I put a datacenter GPU in my gaming PC",
-      "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "hn_url": "https://news.ycombinator.com/item?id=48345694",
-      "points": 190,
-      "comments": 126,
-      "created_ts": 1780235596,
-      "author": "birdculture"
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "hn_url": "https://news.ycombinator.com/item?id=48348578",
+      "points": 393,
+      "comments": 192,
+      "created_ts": 1780253868,
+      "author": "thunderbong"
     },
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
       "hn_url": "https://news.ycombinator.com/item?id=48346257",
-      "points": 140,
-      "comments": 51,
+      "points": 302,
+      "comments": 103,
       "created_ts": 1780239892,
       "author": "modinfo"
     },
@@ -126,48 +99,99 @@
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "hn_url": "https://news.ycombinator.com/item?id=48345248",
-      "points": 125,
-      "comments": 158,
+      "points": 284,
+      "comments": 443,
       "created_ts": 1780231279,
       "author": "Eridanus2"
+    },
+    {
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48343714",
+      "points": 272,
+      "comments": 132,
+      "created_ts": 1780211778,
+      "author": "zeristor"
     },
     {
       "title": "Restartable Sequences",
       "url": "https://justine.lol/rseq/",
       "hn_url": "https://news.ycombinator.com/item?id=48346019",
-      "points": 106,
-      "comments": 21,
+      "points": 182,
+      "comments": 51,
       "created_ts": 1780238328,
       "author": "grappler"
     },
     {
-      "title": "Avian Visitors",
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "hn_url": "https://news.ycombinator.com/item?id=48343424",
-      "points": 105,
-      "comments": 11,
-      "created_ts": 1780208039,
-      "author": "fdb"
+      "title": "'Backrooms' Stuns with $81M Debut",
+      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
+      "hn_url": "https://news.ycombinator.com/item?id=48348864",
+      "points": 165,
+      "comments": 85,
+      "created_ts": 1780255664,
+      "author": "mindcrime"
+    },
+    {
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "hn_url": "https://news.ycombinator.com/item?id=48345090",
+      "points": 154,
+      "comments": 87,
+      "created_ts": 1780229487,
+      "author": "lucasfcosta"
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "hn_url": "https://news.ycombinator.com/item?id=48347354",
+      "points": 132,
+      "comments": 210,
+      "created_ts": 1780246943,
+      "author": "tambourine_man"
+    },
+    {
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "hn_url": "https://news.ycombinator.com/item?id=48346693",
+      "points": 122,
+      "comments": 62,
+      "created_ts": 1780242634,
+      "author": "Dzheky"
+    },
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=48347153",
+      "points": 119,
+      "comments": 63,
+      "created_ts": 1780245454,
+      "author": "mooreds"
+    },
+    {
+      "title": "It's Not Just X. It's Y",
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "hn_url": "https://news.ycombinator.com/item?id=48350149",
+      "points": 115,
+      "comments": 89,
+      "created_ts": 1780264668,
+      "author": "mooreds"
+    },
+    {
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "hn_url": "https://news.ycombinator.com/item?id=48350598",
+      "points": 106,
+      "comments": 90,
+      "created_ts": 1780268390,
+      "author": "thcipriani"
     }
   ],
   "ph_today": [
-    {
-      "title": "TabTasker",
-      "url": "https://www.producthunt.com/products/tabtasker",
-      "tagline": "",
-      "pub_date": "2026-05-29T16:00:20-07:00"
-    },
     {
       "title": "Clipto",
       "url": "https://www.producthunt.com/products/clipto-ai",
       "tagline": "",
       "pub_date": "2026-04-27T03:29:24-07:00"
-    },
-    {
-      "title": "Oura Ring 5",
-      "url": "https://www.producthunt.com/products/oura",
-      "tagline": "",
-      "pub_date": "2026-05-30T11:05:21-07:00"
     },
     {
       "title": "Web Clipper for NotebookLM",
@@ -182,22 +206,34 @@
       "pub_date": "2026-05-30T02:30:11-07:00"
     },
     {
+      "title": "TabTasker",
+      "url": "https://www.producthunt.com/products/tabtasker",
+      "tagline": "",
+      "pub_date": "2026-05-29T16:00:20-07:00"
+    },
+    {
       "title": "Second Brain for AI",
       "url": "https://www.producthunt.com/products/second-brain-cloudflare",
       "tagline": "",
       "pub_date": "2026-05-19T23:21:04-07:00"
     },
     {
-      "title": "Openstatus MCP Health Checker",
-      "url": "https://www.producthunt.com/products/openstatus-2",
+      "title": "Oura Ring 5",
+      "url": "https://www.producthunt.com/products/oura",
       "tagline": "",
-      "pub_date": "2026-05-28T07:14:25-07:00"
+      "pub_date": "2026-05-30T11:05:21-07:00"
     },
     {
       "title": "Wingbits AI",
       "url": "https://www.producthunt.com/products/wingbits-ai",
       "tagline": "",
       "pub_date": "2026-05-11T12:20:03-07:00"
+    },
+    {
+      "title": "Openstatus MCP Health Checker",
+      "url": "https://www.producthunt.com/products/openstatus-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:14:25-07:00"
     },
     {
       "title": "Wandesk",
@@ -218,70 +254,10 @@
       "pub_date": "2026-05-29T05:47:02-07:00"
     },
     {
-      "title": "Integuru",
-      "url": "https://www.producthunt.com/products/integuru",
-      "tagline": "",
-      "pub_date": "2026-05-28T06:41:04-07:00"
-    },
-    {
-      "title": "Firecoach AI",
-      "url": "https://www.producthunt.com/products/firecoach",
-      "tagline": "",
-      "pub_date": "2026-05-25T01:13:13-07:00"
-    },
-    {
-      "title": "Ava Studio",
-      "url": "https://www.producthunt.com/products/ava-studio",
-      "tagline": "",
-      "pub_date": "2026-05-19T14:41:22-07:00"
-    },
-    {
-      "title": "Ava 2.0",
-      "url": "https://www.producthunt.com/products/artisan-3",
-      "tagline": "",
-      "pub_date": "2026-05-27T15:10:18-07:00"
-    },
-    {
-      "title": "Drafted",
-      "url": "https://www.producthunt.com/products/drafted-4",
-      "tagline": "",
-      "pub_date": "2026-05-28T22:25:33-07:00"
-    },
-    {
-      "title": "Coffee Piano",
-      "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
-      "tagline": "",
-      "pub_date": "2026-05-28T14:45:11-07:00"
-    },
-    {
-      "title": "MoDev",
-      "url": "https://www.producthunt.com/products/modev",
-      "tagline": "",
-      "pub_date": "2026-05-13T12:05:26-07:00"
-    },
-    {
-      "title": "Basedash: Embedded Analytics",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-05-28T11:57:07-07:00"
-    },
-    {
       "title": "Hyper: Self-driving Company Brain",
       "url": "https://www.producthunt.com/products/hyper-11",
       "tagline": "",
       "pub_date": "2026-05-27T13:25:45-07:00"
-    },
-    {
-      "title": "Clipline",
-      "url": "https://www.producthunt.com/products/clipline-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T07:56:30-07:00"
-    },
-    {
-      "title": "RabbitTravel",
-      "url": "https://www.producthunt.com/products/rabbittravel",
-      "tagline": "",
-      "pub_date": "2026-05-28T03:34:41-07:00"
     },
     {
       "title": "GPS",
@@ -290,28 +266,58 @@
       "pub_date": "2026-05-28T08:05:48-07:00"
     },
     {
+      "title": "Integuru",
+      "url": "https://www.producthunt.com/products/integuru",
+      "tagline": "",
+      "pub_date": "2026-05-28T06:41:04-07:00"
+    },
+    {
+      "title": "Basedash: Embedded Analytics",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:57:07-07:00"
+    },
+    {
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
+      "tagline": "",
+      "pub_date": "2026-05-13T12:05:26-07:00"
+    },
+    {
+      "title": "Clipline",
+      "url": "https://www.producthunt.com/products/clipline-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:56:30-07:00"
+    },
+    {
       "title": "PromptLayer",
       "url": "https://www.producthunt.com/products/promptlayer-2",
       "tagline": "",
       "pub_date": "2026-05-28T23:41:50-07:00"
     },
     {
-      "title": "/monitor by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "title": "Drafted",
+      "url": "https://www.producthunt.com/products/drafted-4",
       "tagline": "",
-      "pub_date": "2026-05-28T15:56:59-07:00"
+      "pub_date": "2026-05-28T22:25:33-07:00"
     },
     {
-      "title": "Linear Diffs",
-      "url": "https://www.producthunt.com/products/linear",
+      "title": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
       "tagline": "",
-      "pub_date": "2026-05-28T11:09:28-07:00"
+      "pub_date": "2026-05-25T01:13:13-07:00"
     },
     {
-      "title": "TrackNotch",
-      "url": "https://www.producthunt.com/products/tracknotch",
+      "title": "Sinalytica",
+      "url": "https://www.producthunt.com/products/sinalytica",
       "tagline": "",
-      "pub_date": "2026-05-28T07:59:17-07:00"
+      "pub_date": "2026-05-23T13:37:22-07:00"
+    },
+    {
+      "title": "Coffee Piano",
+      "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
+      "tagline": "",
+      "pub_date": "2026-05-28T14:45:11-07:00"
     },
     {
       "title": "MCP Bridge by Appfactor",
@@ -326,10 +332,40 @@
       "pub_date": "2026-05-28T03:38:55-07:00"
     },
     {
-      "title": "Screen Ruler",
-      "url": "https://www.producthunt.com/products/screen-ruler",
+      "title": "Ava Studio",
+      "url": "https://www.producthunt.com/products/ava-studio",
       "tagline": "",
-      "pub_date": "2026-05-23T01:30:35-07:00"
+      "pub_date": "2026-05-19T14:41:22-07:00"
+    },
+    {
+      "title": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "tagline": "",
+      "pub_date": "2026-05-28T15:56:59-07:00"
+    },
+    {
+      "title": "Linear Diffs",
+      "url": "https://www.producthunt.com/products/linear",
+      "tagline": "",
+      "pub_date": "2026-05-28T11:09:28-07:00"
+    },
+    {
+      "title": "NODUS HN Radar",
+      "url": "https://www.producthunt.com/products/nodus-hn-radar",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:16:09-07:00"
+    },
+    {
+      "title": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "tagline": "",
+      "pub_date": "2026-05-28T08:00:52-07:00"
+    },
+    {
+      "title": "RabbitTravel",
+      "url": "https://www.producthunt.com/products/rabbittravel",
+      "tagline": "",
+      "pub_date": "2026-05-28T03:34:41-07:00"
     }
   ]
 }

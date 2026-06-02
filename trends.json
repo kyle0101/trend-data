@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T21:23:08.078Z",
+  "generated_at": "2026-06-02T02:51:54.875Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,19 @@
       "title": "Show HN: A CSS 3D Engine (no WebGL)",
       "url": "https://github.com/LayoutitStudio/polycss",
       "hn_url": "https://news.ycombinator.com/item?id=48356946",
-      "points": 50,
-      "comments": 21,
+      "points": 59,
+      "comments": 23,
       "created_ts": 1780322284,
       "author": "rofko"
+    },
+    {
+      "title": "Show HN: Textile – A desktop app for weaving together bits of text",
+      "url": "https://www.gettextile.app",
+      "hn_url": "https://news.ycombinator.com/item?id=48361054",
+      "points": 26,
+      "comments": 13,
+      "created_ts": 1780340052,
+      "author": "stack_framer"
     },
     {
       "title": "Show HN: Data Leak Prevention inside the n8n execution graph.",
@@ -22,13 +31,13 @@
       "author": "methreeves"
     },
     {
-      "title": "Show HN: Textile – A desktop app for weaving together bits of text",
-      "url": "https://www.gettextile.app",
-      "hn_url": "https://news.ycombinator.com/item?id=48361054",
-      "points": 12,
-      "comments": 3,
-      "created_ts": 1780340052,
-      "author": "stack_framer"
+      "title": "Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs",
+      "url": "https://github.com/arnica/depsguard",
+      "hn_url": "https://news.ycombinator.com/item?id=48359478",
+      "points": 16,
+      "comments": 0,
+      "created_ts": 1780333132,
+      "author": "eranation"
     },
     {
       "title": "Show HN: Postbase – 100% open source Alternative to Firebase and Supabase [video]",
@@ -45,53 +54,17 @@
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
       "hn_url": "https://news.ycombinator.com/item?id=48359102",
-      "points": 936,
-      "comments": 226,
+      "points": 1393,
+      "comments": 332,
       "created_ts": 1780331502,
       "author": "ssiddharth"
-    },
-    {
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "hn_url": "https://news.ycombinator.com/item?id=48356625",
-      "points": 693,
-      "comments": 379,
-      "created_ts": 1780320621,
-      "author": "kurmiashish"
-    },
-    {
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "hn_url": "https://news.ycombinator.com/item?id=48353348",
-      "points": 637,
-      "comments": 259,
-      "created_ts": 1780295922,
-      "author": "cafkafk"
-    },
-    {
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "hn_url": "https://news.ycombinator.com/item?id=48357154",
-      "points": 417,
-      "comments": 212,
-      "created_ts": 1780323401,
-      "author": "speckx"
-    },
-    {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "hn_url": "https://news.ycombinator.com/item?id=48358646",
-      "points": 354,
-      "comments": 282,
-      "created_ts": 1780329640,
-      "author": "surprisetalk"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
       "hn_url": "https://news.ycombinator.com/item?id=48357075",
-      "points": 266,
-      "comments": 35,
+      "points": 371,
+      "comments": 43,
       "created_ts": 1780323032,
       "author": "kristianpaul"
     },
@@ -99,8 +72,8 @@
       "title": "Nvidia RTX Spark",
       "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
       "hn_url": "https://news.ycombinator.com/item?id=48352939",
-      "points": 244,
-      "comments": 206,
+      "points": 340,
+      "comments": 337,
       "created_ts": 1780291480,
       "author": "shenli3514"
     },
@@ -108,126 +81,108 @@
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "hn_url": "https://news.ycombinator.com/item?id=48359232",
-      "points": 222,
-      "comments": 93,
+      "points": 334,
+      "comments": 118,
       "created_ts": 1780332109,
       "author": "prakashqwerty"
-    },
-    {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "hn_url": "https://news.ycombinator.com/item?id=48357905",
-      "points": 149,
-      "comments": 39,
-      "created_ts": 1780326695,
-      "author": "speckx"
-    },
-    {
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48361064",
-      "points": 134,
-      "comments": 48,
-      "created_ts": 1780340095,
-      "author": "pplanu"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (June 2026)",
-      "url": "https://news.ycombinator.com/item?id=48357725",
-      "hn_url": "https://news.ycombinator.com/item?id=48357725",
-      "points": 122,
-      "comments": 183,
-      "created_ts": 1780326048,
-      "author": "whoishiring"
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "url": "https://30fps.net/pages/255-vs-256-division/",
       "hn_url": "https://news.ycombinator.com/item?id=48360054",
-      "points": 114,
-      "comments": 45,
+      "points": 200,
+      "comments": 85,
       "created_ts": 1780335440,
       "author": "pplanu"
     },
     {
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "hn_url": "https://news.ycombinator.com/item?id=48356603",
-      "points": 113,
-      "comments": 68,
-      "created_ts": 1780320533,
-      "author": "f055"
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "hn_url": "https://news.ycombinator.com/item?id=48357905",
+      "points": 197,
+      "comments": 65,
+      "created_ts": 1780326695,
+      "author": "speckx"
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
       "hn_url": "https://news.ycombinator.com/item?id=48358667",
-      "points": 112,
-      "comments": 72,
+      "points": 184,
+      "comments": 162,
       "created_ts": 1780329724,
       "author": "cyunker"
     },
     {
-      "title": "Flipper Zero Zig Template",
-      "url": "https://github.com/NishantJoshi00/flipper-template",
-      "hn_url": "https://news.ycombinator.com/item?id=48356490",
-      "points": 110,
-      "comments": 7,
-      "created_ts": 1780320054,
-      "author": "Nars088"
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "hn_url": "https://news.ycombinator.com/item?id=48357725",
+      "points": 165,
+      "comments": 237,
+      "created_ts": 1780326048,
+      "author": "whoishiring"
     },
     {
-      "title": "Linux Basics for Hackers (2019)",
-      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
-      "hn_url": "https://news.ycombinator.com/item?id=48356468",
-      "points": 102,
-      "comments": 21,
-      "created_ts": 1780319941,
-      "author": "ibobev"
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48362347",
+      "points": 158,
+      "comments": 72,
+      "created_ts": 1780346413,
+      "author": "Eridanus2"
+    },
+    {
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "hn_url": "https://news.ycombinator.com/item?id=48355720",
+      "points": 156,
+      "comments": 360,
+      "created_ts": 1780315469,
+      "author": "jbk"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "hn_url": "https://news.ycombinator.com/item?id=48363132",
+      "points": 152,
+      "comments": 53,
+      "created_ts": 1780350602,
+      "author": "typpo"
+    },
+    {
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "hn_url": "https://news.ycombinator.com/item?id=48362515",
+      "points": 115,
+      "comments": 116,
+      "created_ts": 1780347315,
+      "author": "gregschlom"
+    },
+    {
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "hn_url": "https://news.ycombinator.com/item?id=48363882",
+      "points": 109,
+      "comments": 57,
+      "created_ts": 1780356148,
+      "author": "StrLght"
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "hn_url": "https://news.ycombinator.com/item?id=48364055",
+      "points": 104,
+      "comments": 214,
+      "created_ts": 1780357546,
+      "author": "1vuio0pswjnm7"
     }
   ],
   "ph_today": [
     {
-      "title": "Typeahead",
-      "url": "https://www.producthunt.com/products/typeahead",
+      "title": "NetworkSpy",
+      "url": "https://www.producthunt.com/products/networkspy",
       "tagline": "",
-      "pub_date": "2026-05-30T16:47:44-07:00"
-    },
-    {
-      "title": "R0Y OMNI 1.0",
-      "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
-      "tagline": "",
-      "pub_date": "2026-05-31T12:03:57-07:00"
-    },
-    {
-      "title": "Trippple Club",
-      "url": "https://www.producthunt.com/products/trippple-club",
-      "tagline": "",
-      "pub_date": "2026-05-26T12:17:42-07:00"
-    },
-    {
-      "title": "Joanium",
-      "url": "https://www.producthunt.com/products/joanium-2",
-      "tagline": "",
-      "pub_date": "2026-05-21T03:19:14-07:00"
-    },
-    {
-      "title": "Emily by Co-Desk",
-      "url": "https://www.producthunt.com/products/co-desk",
-      "tagline": "",
-      "pub_date": "2026-05-29T03:21:55-07:00"
-    },
-    {
-      "title": "Paint By JSON | Figma API Client",
-      "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
-      "tagline": "",
-      "pub_date": "2026-05-31T14:45:07-07:00"
-    },
-    {
-      "title": "Sentinel",
-      "url": "https://www.producthunt.com/products/sentinel-10",
-      "tagline": "",
-      "pub_date": "2026-05-29T08:04:29-07:00"
+      "pub_date": "2026-05-29T18:55:12-07:00"
     },
     {
       "title": "Stella",
@@ -236,10 +191,16 @@
       "pub_date": "2026-05-31T14:46:27-07:00"
     },
     {
-      "title": "Skylive",
-      "url": "https://www.producthunt.com/products/skylive",
+      "title": "Trippple Club",
+      "url": "https://www.producthunt.com/products/trippple-club",
       "tagline": "",
-      "pub_date": "2026-05-31T16:30:09-07:00"
+      "pub_date": "2026-05-26T12:17:42-07:00"
+    },
+    {
+      "title": "Mistral Vibe",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "tagline": "",
+      "pub_date": "2026-05-31T20:25:48-07:00"
     },
     {
       "title": "Tabstack Web Research",
@@ -254,22 +215,10 @@
       "pub_date": "2026-05-19T04:05:48-07:00"
     },
     {
-      "title": "Mistral Vibe",
-      "url": "https://www.producthunt.com/products/mistral-7b",
+      "title": "Tokenwise",
+      "url": "https://www.producthunt.com/products/tokenwise",
       "tagline": "",
-      "pub_date": "2026-05-31T20:25:48-07:00"
-    },
-    {
-      "title": "Open Caffeine",
-      "url": "https://www.producthunt.com/products/open-caffeine",
-      "tagline": "",
-      "pub_date": "2026-05-31T20:48:12-07:00"
-    },
-    {
-      "title": "folk",
-      "url": "https://www.producthunt.com/products/folk-3",
-      "tagline": "",
-      "pub_date": "2026-05-25T14:24:24-07:00"
+      "pub_date": "2026-05-31T07:36:39-07:00"
     },
     {
       "title": "SocialEcho 2.0",
@@ -278,16 +227,16 @@
       "pub_date": "2026-05-27T09:57:27-07:00"
     },
     {
-      "title": "Presentify",
-      "url": "https://www.producthunt.com/products/presentify",
+      "title": "folk",
+      "url": "https://www.producthunt.com/products/folk-3",
       "tagline": "",
-      "pub_date": "2026-05-18T01:28:43-07:00"
+      "pub_date": "2026-05-25T14:24:24-07:00"
     },
     {
-      "title": "NetworkSpy",
-      "url": "https://www.producthunt.com/products/networkspy",
+      "title": "Emily by Co-Desk",
+      "url": "https://www.producthunt.com/products/co-desk",
       "tagline": "",
-      "pub_date": "2026-05-29T18:55:12-07:00"
+      "pub_date": "2026-05-29T03:21:55-07:00"
     },
     {
       "title": "Mina Meeting Assistant",
@@ -296,22 +245,70 @@
       "pub_date": "2026-05-26T11:29:06-07:00"
     },
     {
-      "title": "Tokenwise",
-      "url": "https://www.producthunt.com/products/tokenwise",
-      "tagline": "",
-      "pub_date": "2026-05-31T07:36:39-07:00"
-    },
-    {
       "title": "Dune Keypad",
       "url": "https://www.producthunt.com/products/dune-4",
       "tagline": "",
       "pub_date": "2026-05-21T06:04:56-07:00"
     },
     {
+      "title": "Open Caffeine",
+      "url": "https://www.producthunt.com/products/open-caffeine",
+      "tagline": "",
+      "pub_date": "2026-05-31T20:48:12-07:00"
+    },
+    {
+      "title": "Joanium",
+      "url": "https://www.producthunt.com/products/joanium-2",
+      "tagline": "",
+      "pub_date": "2026-05-21T03:19:14-07:00"
+    },
+    {
+      "title": "R0Y OMNI 1.0",
+      "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
+      "tagline": "",
+      "pub_date": "2026-05-31T12:03:57-07:00"
+    },
+    {
+      "title": "Presentify",
+      "url": "https://www.producthunt.com/products/presentify",
+      "tagline": "",
+      "pub_date": "2026-05-18T01:28:43-07:00"
+    },
+    {
+      "title": "Typeahead",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "tagline": "",
+      "pub_date": "2026-05-30T16:47:44-07:00"
+    },
+    {
+      "title": "Skylive",
+      "url": "https://www.producthunt.com/products/skylive",
+      "tagline": "",
+      "pub_date": "2026-05-31T16:30:09-07:00"
+    },
+    {
+      "title": "Paint By JSON | Figma API Client",
+      "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+      "tagline": "",
+      "pub_date": "2026-05-31T14:45:07-07:00"
+    },
+    {
+      "title": "Sentinel",
+      "url": "https://www.producthunt.com/products/sentinel-10",
+      "tagline": "",
+      "pub_date": "2026-05-29T08:04:29-07:00"
+    },
+    {
       "title": "TabTasker",
       "url": "https://www.producthunt.com/products/tabtasker",
       "tagline": "",
       "pub_date": "2026-05-29T16:00:20-07:00"
+    },
+    {
+      "title": "Second Brain for AI",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "tagline": "",
+      "pub_date": "2026-05-19T23:21:04-07:00"
     },
     {
       "title": "Clipto",
@@ -332,12 +329,6 @@
       "pub_date": "2026-05-30T02:30:11-07:00"
     },
     {
-      "title": "Second Brain for AI",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "tagline": "",
-      "pub_date": "2026-05-19T23:21:04-07:00"
-    },
-    {
       "title": "Oura Ring 5",
       "url": "https://www.producthunt.com/products/oura",
       "tagline": "",
@@ -350,6 +341,12 @@
       "pub_date": "2025-12-05T19:15:50-08:00"
     },
     {
+      "title": "Openstatus MCP Health Checker",
+      "url": "https://www.producthunt.com/products/openstatus-2",
+      "tagline": "",
+      "pub_date": "2026-05-28T07:14:25-07:00"
+    },
+    {
       "title": "Exstats",
       "url": "https://www.producthunt.com/products/exstats",
       "tagline": "",
@@ -360,12 +357,6 @@
       "url": "https://www.producthunt.com/products/wingbits-ai",
       "tagline": "",
       "pub_date": "2026-05-11T12:20:03-07:00"
-    },
-    {
-      "title": "Openstatus MCP Health Checker",
-      "url": "https://www.producthunt.com/products/openstatus-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T07:14:25-07:00"
     }
   ]
 }

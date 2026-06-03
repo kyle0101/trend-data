@@ -1,233 +1,179 @@
 {
-  "generated_at": "2026-06-03T16:22:10.400Z",
+  "generated_at": "2026-06-03T20:49:03.098Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
-    {
-      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48374552",
-      "points": 180,
-      "comments": 26,
-      "created_ts": 1780426372,
-      "author": "nathell"
-    },
     {
       "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
       "url": "https://github.com/getpaseo/paseo",
       "hn_url": "https://news.ycombinator.com/item?id=48377250",
       "points": 80,
-      "comments": 46,
+      "comments": 47,
       "created_ts": 1780439682,
       "author": "timhigins"
     },
     {
-      "title": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
-      "url": "https://github.com/s2-streamstore/replaya",
-      "hn_url": "https://news.ycombinator.com/item?id=48373482",
-      "points": 43,
-      "comments": 7,
-      "created_ts": 1780422015,
-      "author": "shikhar"
+      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "url": "https://nutrepedia.com/en-us/",
+      "hn_url": "https://news.ycombinator.com/item?id=48386129",
+      "points": 59,
+      "comments": 17,
+      "created_ts": 1780503886,
+      "author": "llovan"
+    },
+    {
+      "title": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
+      "url": "https://github.com/ideogram-oss/ideogram4",
+      "hn_url": "https://news.ycombinator.com/item?id=48385829",
+      "points": 24,
+      "comments": 5,
+      "created_ts": 1780502409,
+      "author": "pigcat"
+    },
+    {
+      "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+      "url": "https://github.com/loadingalias/rscrypto",
+      "hn_url": "https://news.ycombinator.com/item?id=48386343",
+      "points": 19,
+      "comments": 6,
+      "created_ts": 1780504874,
+      "author": "LoadingALIAS"
     },
     {
       "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
       "url": "https://github.com/yaodub/cast",
       "hn_url": "https://news.ycombinator.com/item?id=48383471",
-      "points": 11,
-      "comments": 14,
+      "points": 17,
+      "comments": 17,
       "created_ts": 1780491877,
       "author": "zwigglers"
     }
   ],
   "hn_front": [
     {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "hn_url": "https://news.ycombinator.com/item?id=48374466",
-      "points": 513,
-      "comments": 242,
-      "created_ts": 1780426027,
-      "author": "EvanZhouDev"
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "hn_url": "https://news.ycombinator.com/item?id=48383220",
+      "points": 593,
+      "comments": 551,
+      "created_ts": 1780490527,
+      "author": "reconnecting"
     },
     {
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
       "hn_url": "https://news.ycombinator.com/item?id=48382310",
-      "points": 435,
-      "comments": 75,
+      "points": 576,
+      "comments": 95,
       "created_ts": 1780483980,
       "author": "xx_ns"
     },
     {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "hn_url": "https://news.ycombinator.com/item?id=48377404",
-      "points": 411,
-      "comments": 107,
-      "created_ts": 1780440933,
-      "author": "tanelpoder"
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "hn_url": "https://news.ycombinator.com/item?id=48385906",
+      "points": 513,
+      "comments": 186,
+      "created_ts": 1780502682,
+      "author": "rvz"
     },
     {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "hn_url": "https://news.ycombinator.com/item?id=48383220",
-      "points": 375,
-      "comments": 335,
-      "created_ts": 1780490527,
-      "author": "reconnecting"
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "hn_url": "https://news.ycombinator.com/item?id=48377761",
-      "points": 364,
-      "comments": 307,
-      "created_ts": 1780443792,
-      "author": "berlianta"
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "hn_url": "https://news.ycombinator.com/item?id=48375393",
-      "points": 294,
-      "comments": 154,
-      "created_ts": 1780430206,
-      "author": "speckx"
-    },
-    {
-      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
-      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-      "hn_url": "https://news.ycombinator.com/item?id=48377496",
-      "points": 198,
-      "comments": 31,
-      "created_ts": 1780441749,
-      "author": "fons-p"
-    },
-    {
-      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "hn_url": "https://news.ycombinator.com/item?id=48383241",
-      "points": 187,
-      "comments": 200,
-      "created_ts": 1780490623,
-      "author": "papersail"
-    },
-    {
-      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48374552",
-      "points": 180,
-      "comments": 26,
-      "created_ts": 1780426372,
-      "author": "nathell"
-    },
-    {
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "hn_url": "https://news.ycombinator.com/item?id=48382382",
-      "points": 167,
-      "comments": 77,
-      "created_ts": 1780484644,
-      "author": "ingve"
-    },
-    {
-      "title": "PlayStation Architecture",
-      "url": "https://www.copetti.org/writings/consoles/playstation/",
-      "hn_url": "https://news.ycombinator.com/item?id=48382142",
-      "points": 148,
-      "comments": 25,
-      "created_ts": 1780482265,
-      "author": "gregsadetsky"
-    },
-    {
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "hn_url": "https://news.ycombinator.com/item?id=48379669",
-      "points": 141,
-      "comments": 45,
-      "created_ts": 1780458476,
-      "author": "ray__"
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48384355",
+      "points": 309,
+      "comments": 80,
+      "created_ts": 1780495806,
+      "author": "Tomte"
     },
     {
       "title": "DaVinci Resolve 21",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
       "hn_url": "https://news.ycombinator.com/item?id=48384482",
-      "points": 132,
-      "comments": 61,
+      "points": 305,
+      "comments": 142,
       "created_ts": 1780496319,
       "author": "pentagrama"
     },
     {
-      "title": "I built a ceiling projection mapping of the planes flying over my house",
-      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
-      "hn_url": "https://news.ycombinator.com/item?id=48383823",
-      "points": 127,
-      "comments": 18,
-      "created_ts": 1780493580,
-      "author": "frereubu"
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "hn_url": "https://news.ycombinator.com/item?id=48388324",
+      "points": 239,
+      "comments": 66,
+      "created_ts": 1780513346,
+      "author": "cloud8421"
     },
     {
-      "title": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
-      "hn_url": "https://news.ycombinator.com/item?id=48378495",
-      "points": 109,
-      "comments": 50,
-      "created_ts": 1780449218,
-      "author": "dpmdpm"
+      "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48386238",
+      "points": 215,
+      "comments": 209,
+      "created_ts": 1780504397,
+      "author": "tosh"
     },
     {
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "hn_url": "https://news.ycombinator.com/item?id=48379664",
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382142",
+      "points": 214,
+      "comments": 43,
+      "created_ts": 1780482265,
+      "author": "gregsadetsky"
+    },
+    {
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "hn_url": "https://news.ycombinator.com/item?id=48382382",
+      "points": 213,
+      "comments": 102,
+      "created_ts": 1780484644,
+      "author": "ingve"
+    },
+    {
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "hn_url": "https://news.ycombinator.com/item?id=48383056",
+      "points": 211,
+      "comments": 265,
+      "created_ts": 1780489514,
+      "author": "pdyc"
+    },
+    {
+      "title": "ESP32-S31",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "hn_url": "https://news.ycombinator.com/item?id=48385965",
+      "points": 202,
+      "comments": 103,
+      "created_ts": 1780503025,
+      "author": "volemo"
+    },
+    {
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "hn_url": "https://news.ycombinator.com/item?id=48385114",
+      "points": 169,
+      "comments": 94,
+      "created_ts": 1780499169,
+      "author": "SGran"
+    },
+    {
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "hn_url": "https://news.ycombinator.com/item?id=48382052",
       "points": 109,
-      "comments": 33,
-      "created_ts": 1780458441,
-      "author": "shscs911"
+      "comments": 140,
+      "created_ts": 1780481148,
+      "author": "pseudolus"
     }
   ],
   "ph_today": [
-    {
-      "title": "Forward",
-      "url": "https://www.producthunt.com/products/forward-10",
-      "tagline": "",
-      "pub_date": "2026-06-02T05:40:11-07:00"
-    },
     {
       "title": "Franz 6",
       "url": "https://www.producthunt.com/products/franz-messenger",
       "tagline": "",
       "pub_date": "2026-06-01T12:56:42-07:00"
-    },
-    {
-      "title": "InsForge Backend Branching",
-      "url": "https://www.producthunt.com/products/insforge-alpha",
-      "tagline": "",
-      "pub_date": "2026-05-31T00:40:43-07:00"
-    },
-    {
-      "title": "Town",
-      "url": "https://www.producthunt.com/products/town",
-      "tagline": "",
-      "pub_date": "2026-06-02T15:26:11-07:00"
-    },
-    {
-      "title": "Uselink",
-      "url": "https://www.producthunt.com/products/uselink",
-      "tagline": "",
-      "pub_date": "2026-06-01T03:35:49-07:00"
-    },
-    {
-      "title": "Walkable",
-      "url": "https://www.producthunt.com/products/walkable-2",
-      "tagline": "",
-      "pub_date": "2026-05-28T15:35:07-07:00"
-    },
-    {
-      "title": "superlog",
-      "url": "https://www.producthunt.com/products/superlog",
-      "tagline": "",
-      "pub_date": "2026-06-01T16:39:18-07:00"
     },
     {
       "title": "Elentaria",
@@ -236,22 +182,16 @@
       "pub_date": "2026-05-18T03:10:10-07:00"
     },
     {
-      "title": "Wallie V2",
-      "url": "https://www.producthunt.com/products/wallie-v2",
+      "title": "Uselink",
+      "url": "https://www.producthunt.com/products/uselink",
       "tagline": "",
-      "pub_date": "2026-05-29T05:16:07-07:00"
+      "pub_date": "2026-06-01T03:35:49-07:00"
     },
     {
-      "title": "Barflare",
-      "url": "https://www.producthunt.com/products/barflare",
+      "title": "superlog",
+      "url": "https://www.producthunt.com/products/superlog",
       "tagline": "",
-      "pub_date": "2026-06-02T03:51:35-07:00"
-    },
-    {
-      "title": "Linkeezy",
-      "url": "https://www.producthunt.com/products/linkeezy",
-      "tagline": "",
-      "pub_date": "2026-06-02T11:10:54-07:00"
+      "pub_date": "2026-06-01T16:39:18-07:00"
     },
     {
       "title": "Spectron",
@@ -260,10 +200,16 @@
       "pub_date": "2026-04-09T00:16:19-07:00"
     },
     {
-      "title": "Composer",
-      "url": "https://www.producthunt.com/products/composer-3",
+      "title": "Brand Context API",
+      "url": "https://www.producthunt.com/products/brandfetch",
       "tagline": "",
-      "pub_date": "2026-06-02T23:41:12-07:00"
+      "pub_date": "2026-06-02T02:33:35-07:00"
+    },
+    {
+      "title": "Hermes Desktop",
+      "url": "https://www.producthunt.com/products/hermes-4",
+      "tagline": "",
+      "pub_date": "2026-06-02T15:20:36-07:00"
     },
     {
       "title": "Replicas",
@@ -272,52 +218,28 @@
       "pub_date": "2026-06-02T19:10:40-07:00"
     },
     {
-      "title": "Dispatch",
-      "url": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
-      "tagline": "",
-      "pub_date": "2026-05-30T22:36:31-07:00"
-    },
-    {
-      "title": "BoxBox",
-      "url": "https://www.producthunt.com/products/boxbox",
-      "tagline": "",
-      "pub_date": "2026-06-02T02:49:52-07:00"
-    },
-    {
       "title": "StampCam",
       "url": "https://www.producthunt.com/products/stampcam",
       "tagline": "",
       "pub_date": "2026-05-27T07:47:21-07:00"
     },
     {
-      "title": "FolderPlus",
-      "url": "https://www.producthunt.com/products/folderplus",
+      "title": "Town",
+      "url": "https://www.producthunt.com/products/town",
       "tagline": "",
-      "pub_date": "2026-06-02T12:16:55-07:00"
+      "pub_date": "2026-06-02T15:26:11-07:00"
     },
     {
-      "title": "Dropstone 1.5",
-      "url": "https://www.producthunt.com/products/dropstone-2",
+      "title": "Walkable",
+      "url": "https://www.producthunt.com/products/walkable-2",
       "tagline": "",
-      "pub_date": "2026-06-02T20:59:22-07:00"
+      "pub_date": "2026-05-28T15:35:07-07:00"
     },
     {
-      "title": "Handler",
-      "url": "https://www.producthunt.com/products/handler",
+      "title": "InsForge Backend Branching",
+      "url": "https://www.producthunt.com/products/insforge-alpha",
       "tagline": "",
-      "pub_date": "2026-06-02T05:37:56-07:00"
-    },
-    {
-      "title": "audien.to",
-      "url": "https://www.producthunt.com/products/audien-to",
-      "tagline": "",
-      "pub_date": "2026-05-30T20:49:00-07:00"
-    },
-    {
-      "title": "RadianceKit",
-      "url": "https://www.producthunt.com/products/radiancekit",
-      "tagline": "",
-      "pub_date": "2026-06-02T05:39:28-07:00"
+      "pub_date": "2026-05-31T00:40:43-07:00"
     },
     {
       "title": "Carbone Skill for AI",
@@ -326,10 +248,88 @@
       "pub_date": "2026-06-02T02:39:46-07:00"
     },
     {
-      "title": "Hermes Desktop",
-      "url": "https://www.producthunt.com/products/hermes-4",
+      "title": "Forward",
+      "url": "https://www.producthunt.com/products/forward-10",
       "tagline": "",
-      "pub_date": "2026-06-02T15:20:36-07:00"
+      "pub_date": "2026-06-02T05:40:11-07:00"
+    },
+    {
+      "title": "Linkeezy",
+      "url": "https://www.producthunt.com/products/linkeezy",
+      "tagline": "",
+      "pub_date": "2026-06-02T11:10:54-07:00"
+    },
+    {
+      "title": "FolderPlus",
+      "url": "https://www.producthunt.com/products/folderplus",
+      "tagline": "",
+      "pub_date": "2026-06-02T12:16:55-07:00"
+    },
+    {
+      "title": "Handler",
+      "url": "https://www.producthunt.com/products/handler",
+      "tagline": "",
+      "pub_date": "2026-06-02T05:37:56-07:00"
+    },
+    {
+      "title": "Composer",
+      "url": "https://www.producthunt.com/products/composer-3",
+      "tagline": "",
+      "pub_date": "2026-06-02T23:41:12-07:00"
+    },
+    {
+      "title": "Barflare",
+      "url": "https://www.producthunt.com/products/barflare",
+      "tagline": "",
+      "pub_date": "2026-06-02T03:51:35-07:00"
+    },
+    {
+      "title": "BoxBox",
+      "url": "https://www.producthunt.com/products/boxbox",
+      "tagline": "",
+      "pub_date": "2026-06-02T02:49:52-07:00"
+    },
+    {
+      "title": "Wallie V2",
+      "url": "https://www.producthunt.com/products/wallie-v2",
+      "tagline": "",
+      "pub_date": "2026-05-29T05:16:07-07:00"
+    },
+    {
+      "title": "audien.to",
+      "url": "https://www.producthunt.com/products/audien-to",
+      "tagline": "",
+      "pub_date": "2026-05-30T20:49:00-07:00"
+    },
+    {
+      "title": "Dropstone 1.5",
+      "url": "https://www.producthunt.com/products/dropstone-2",
+      "tagline": "",
+      "pub_date": "2026-06-02T20:59:22-07:00"
+    },
+    {
+      "title": "RadianceKit",
+      "url": "https://www.producthunt.com/products/radiancekit",
+      "tagline": "",
+      "pub_date": "2026-06-02T05:39:28-07:00"
+    },
+    {
+      "title": "BeerShot",
+      "url": "https://www.producthunt.com/products/beershot",
+      "tagline": "",
+      "pub_date": "2026-06-02T02:05:24-07:00"
+    },
+    {
+      "title": "Dispatch",
+      "url": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
+      "tagline": "",
+      "pub_date": "2026-05-30T22:36:31-07:00"
+    },
+    {
+      "title": "TaskGPT",
+      "url": "https://www.producthunt.com/products/taskgpt-2",
+      "tagline": "",
+      "pub_date": "2026-06-02T08:24:37-07:00"
     },
     {
       "title": "EchoFlow",
@@ -344,28 +344,10 @@
       "pub_date": "2026-06-02T13:00:47-07:00"
     },
     {
-      "title": "Brand Context API",
-      "url": "https://www.producthunt.com/products/brandfetch",
+      "title": "findloc.ai",
+      "url": "https://www.producthunt.com/products/findloc-ai-business-location-research",
       "tagline": "",
-      "pub_date": "2026-06-02T02:33:35-07:00"
-    },
-    {
-      "title": "TaskGPT",
-      "url": "https://www.producthunt.com/products/taskgpt-2",
-      "tagline": "",
-      "pub_date": "2026-06-02T08:24:37-07:00"
-    },
-    {
-      "title": "BeerShot",
-      "url": "https://www.producthunt.com/products/beershot",
-      "tagline": "",
-      "pub_date": "2026-06-02T02:05:24-07:00"
-    },
-    {
-      "title": "Co-Invest",
-      "url": "https://www.producthunt.com/products/liquid-5",
-      "tagline": "",
-      "pub_date": "2026-05-13T18:50:29-07:00"
+      "pub_date": "2026-05-19T17:48:23-07:00"
     }
   ]
 }

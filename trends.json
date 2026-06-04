@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T02:55:48.827Z",
+  "generated_at": "2026-06-04T09:46:03.428Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,35 +7,35 @@
       "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
       "url": "https://nutrepedia.com/en-us/",
       "hn_url": "https://news.ycombinator.com/item?id=48386129",
-      "points": 117,
-      "comments": 23,
+      "points": 121,
+      "comments": 27,
       "created_ts": 1780503886,
       "author": "llovan"
-    },
-    {
-      "title": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
-      "url": "https://github.com/ideogram-oss/ideogram4",
-      "hn_url": "https://news.ycombinator.com/item?id=48385829",
-      "points": 38,
-      "comments": 7,
-      "created_ts": 1780502409,
-      "author": "pigcat"
     },
     {
       "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
       "url": "https://github.com/zaydmulani09/mnemo",
       "hn_url": "https://news.ycombinator.com/item?id=48389586",
-      "points": 30,
-      "comments": 16,
+      "points": 43,
+      "comments": 17,
       "created_ts": 1780518730,
       "author": "zaydmulani"
+    },
+    {
+      "title": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
+      "url": "https://github.com/ideogram-oss/ideogram4",
+      "hn_url": "https://news.ycombinator.com/item?id=48385829",
+      "points": 42,
+      "comments": 9,
+      "created_ts": 1780502409,
+      "author": "pigcat"
     },
     {
       "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
       "url": "https://github.com/loadingalias/rscrypto",
       "hn_url": "https://news.ycombinator.com/item?id=48386343",
-      "points": 26,
-      "comments": 10,
+      "points": 30,
+      "comments": 12,
       "created_ts": 1780504874,
       "author": "LoadingALIAS"
     },
@@ -49,10 +49,19 @@
       "author": "zwigglers"
     },
     {
+      "title": "Show HN: Bio Glyph – Turn Your Face into a One-Line Drawing",
+      "url": "https://bio.bairui.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48392012",
+      "points": 13,
+      "comments": 6,
+      "created_ts": 1780532318,
+      "author": "subairui"
+    },
+    {
       "title": "Show HN: Solving complex optimization problems with Google OR-Tools in browser",
       "url": "https://github.com/Axelwickm/or-tools-wasm",
       "hn_url": "https://news.ycombinator.com/item?id=48385275",
-      "points": 11,
+      "points": 12,
       "comments": 5,
       "created_ts": 1780499930,
       "author": "AxelWickman"
@@ -61,8 +70,8 @@
       "title": "Show HN: Lint Your Markdown with ESLint",
       "url": "https://github.com/lumirlumir/npm-eslint-markdown",
       "hn_url": "https://news.ycombinator.com/item?id=48384046",
-      "points": 11,
-      "comments": 0,
+      "points": 12,
+      "comments": 1,
       "created_ts": 1780494461,
       "author": "beenzinozino"
     }
@@ -72,8 +81,8 @@
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "hn_url": "https://news.ycombinator.com/item?id=48385906",
-      "points": 717,
-      "comments": 293,
+      "points": 833,
+      "comments": 324,
       "created_ts": 1780502682,
       "author": "rvz"
     },
@@ -81,44 +90,53 @@
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "hn_url": "https://news.ycombinator.com/item?id=48388324",
-      "points": 582,
-      "comments": 218,
+      "points": 766,
+      "comments": 279,
       "created_ts": 1780513346,
       "author": "cloud8421"
+    },
+    {
+      "title": "They’re made out of weights",
+      "url": "https://maxleiter.com/blog/weights",
+      "hn_url": "https://news.ycombinator.com/item?id=48391611",
+      "points": 679,
+      "comments": 251,
+      "created_ts": 1780529838,
+      "author": "MaxLeiter"
     },
     {
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "url": "https://burntsushi.net/encephalitis/",
       "hn_url": "https://news.ycombinator.com/item?id=48384355",
-      "points": 518,
-      "comments": 160,
+      "points": 614,
+      "comments": 187,
       "created_ts": 1780495806,
       "author": "Tomte"
-    },
-    {
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "hn_url": "https://news.ycombinator.com/item?id=48384482",
-      "points": 400,
-      "comments": 188,
-      "created_ts": 1780496319,
-      "author": "pentagrama"
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
       "hn_url": "https://news.ycombinator.com/item?id=48383056",
-      "points": 380,
-      "comments": 491,
+      "points": 484,
+      "comments": 604,
       "created_ts": 1780489514,
       "author": "pdyc"
+    },
+    {
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "hn_url": "https://news.ycombinator.com/item?id=48384482",
+      "points": 457,
+      "comments": 204,
+      "created_ts": 1780496319,
+      "author": "pentagrama"
     },
     {
       "title": "Artificial intelligence is not conscious – Ted Chiang",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "hn_url": "https://news.ycombinator.com/item?id=48387270",
-      "points": 264,
-      "comments": 476,
+      "points": 433,
+      "comments": 759,
       "created_ts": 1780509097,
       "author": "lordleft"
     },
@@ -126,8 +144,8 @@
       "title": "PlayStation Architecture",
       "url": "https://www.copetti.org/writings/consoles/playstation/",
       "hn_url": "https://news.ycombinator.com/item?id=48382142",
-      "points": 264,
-      "comments": 50,
+      "points": 304,
+      "comments": 60,
       "created_ts": 1780482265,
       "author": "gregsadetsky"
     },
@@ -135,26 +153,26 @@
       "title": "ESP32-S31",
       "url": "https://www.espressif.com/en/products/socs/esp32-s31",
       "hn_url": "https://news.ycombinator.com/item?id=48385965",
-      "points": 256,
-      "comments": 144,
+      "points": 299,
+      "comments": 163,
       "created_ts": 1780503025,
       "author": "volemo"
     },
     {
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "hn_url": "https://news.ycombinator.com/item?id=48382382",
-      "points": 231,
-      "comments": 114,
-      "created_ts": 1780484644,
-      "author": "ingve"
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48392004",
+      "points": 288,
+      "comments": 221,
+      "created_ts": 1780532282,
+      "author": "littlexsparkee"
     },
     {
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
       "hn_url": "https://news.ycombinator.com/item?id=48385114",
-      "points": 223,
-      "comments": 133,
+      "points": 264,
+      "comments": 144,
       "created_ts": 1780499169,
       "author": "SGran"
     },
@@ -162,201 +180,237 @@
       "title": "Mathematicians issue warning as AI rapidly gains ground",
       "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
       "hn_url": "https://news.ycombinator.com/item?id=48382052",
-      "points": 182,
-      "comments": 230,
+      "points": 238,
+      "comments": 271,
       "created_ts": 1780481148,
       "author": "pseudolus"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48392343",
+      "points": 217,
+      "comments": 86,
+      "created_ts": 1780534592,
+      "author": "jc4p"
     },
     {
       "title": "Gooey: A GPU-accelerated UI framework for Zig",
       "url": "https://github.com/duanebester/gooey",
       "hn_url": "https://news.ycombinator.com/item?id=48386725",
-      "points": 141,
-      "comments": 49,
+      "points": 178,
+      "comments": 69,
       "created_ts": 1780506747,
       "author": "ksec"
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "hn_url": "https://news.ycombinator.com/item?id=48392082",
+      "points": 126,
+      "comments": 56,
+      "created_ts": 1780532872,
+      "author": "jbredeche"
+    },
+    {
+      "title": "Ableton Extensions SDK",
+      "url": "https://www.ableton.com/en/live/extensions/",
+      "hn_url": "https://news.ycombinator.com/item?id=48389681",
+      "points": 120,
+      "comments": 46,
+      "created_ts": 1780519174,
+      "author": "bennett_dev"
+    },
+    {
+      "title": "A Man Who Reads Books for a Living",
+      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+      "hn_url": "https://news.ycombinator.com/item?id=48389284",
+      "points": 117,
+      "comments": 89,
+      "created_ts": 1780517313,
+      "author": "gmays"
     }
   ],
   "ph_today": [
     {
-      "title": "Uselink",
-      "url": "https://www.producthunt.com/products/uselink",
+      "title": "Chloe by Close",
+      "url": "https://www.producthunt.com/products/close",
       "tagline": "",
-      "pub_date": "2026-06-01T03:35:49-07:00"
+      "pub_date": "2026-06-02T14:02:10-07:00"
     },
     {
-      "title": "Forward",
-      "url": "https://www.producthunt.com/products/forward-10",
+      "title": "Build Club Campus",
+      "url": "https://www.producthunt.com/products/build-club",
       "tagline": "",
-      "pub_date": "2026-06-02T05:40:11-07:00"
+      "pub_date": "2026-06-01T10:30:21-07:00"
     },
     {
-      "title": "Composer",
-      "url": "https://www.producthunt.com/products/composer-3",
+      "title": "Keen Code",
+      "url": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
       "tagline": "",
-      "pub_date": "2026-06-02T23:41:12-07:00"
+      "pub_date": "2026-06-03T07:44:19-07:00"
     },
     {
-      "title": "audien.to",
-      "url": "https://www.producthunt.com/products/audien-to",
+      "title": "Intelligent Terminal",
+      "url": "https://www.producthunt.com/products/microsoft-terminal",
       "tagline": "",
-      "pub_date": "2026-05-30T20:49:00-07:00"
+      "pub_date": "2026-06-03T21:39:14-07:00"
     },
     {
-      "title": "Carbone Skill for AI",
-      "url": "https://www.producthunt.com/products/carbone",
+      "title": "Extella.AI",
+      "url": "https://www.producthunt.com/products/extella-ai",
       "tagline": "",
-      "pub_date": "2026-06-02T02:39:46-07:00"
+      "pub_date": "2026-04-07T04:12:18-07:00"
     },
     {
-      "title": "Dropstone 1.5",
-      "url": "https://www.producthunt.com/products/dropstone-2",
+      "title": "Cignara",
+      "url": "https://www.producthunt.com/products/cignara",
       "tagline": "",
-      "pub_date": "2026-06-02T20:59:22-07:00"
+      "pub_date": "2026-06-03T10:38:03-07:00"
     },
     {
-      "title": "Replicas",
-      "url": "https://www.producthunt.com/products/replicas",
+      "title": "Perplexity Personal Computer for Windows",
+      "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
       "tagline": "",
-      "pub_date": "2026-06-02T19:10:40-07:00"
+      "pub_date": "2026-06-03T09:32:40-07:00"
     },
     {
-      "title": "Spectron",
-      "url": "https://www.producthunt.com/products/surrealdb",
+      "title": "Deliveryman.ai",
+      "url": "https://www.producthunt.com/products/deliveryman-ai",
       "tagline": "",
-      "pub_date": "2026-04-09T00:16:19-07:00"
+      "pub_date": "2026-06-01T06:24:10-07:00"
     },
     {
-      "title": "Town",
-      "url": "https://www.producthunt.com/products/town",
+      "title": "Curata",
+      "url": "https://www.producthunt.com/products/curata-3",
       "tagline": "",
-      "pub_date": "2026-06-02T15:26:11-07:00"
+      "pub_date": "2026-06-03T08:27:22-07:00"
     },
     {
-      "title": "Walkable",
-      "url": "https://www.producthunt.com/products/walkable-2",
+      "title": "Kai for Chrome",
+      "url": "https://www.producthunt.com/products/kai-for-chrome",
       "tagline": "",
-      "pub_date": "2026-05-28T15:35:07-07:00"
+      "pub_date": "2026-05-26T11:16:18-07:00"
     },
     {
-      "title": "Franz 6",
-      "url": "https://www.producthunt.com/products/franz-messenger",
+      "title": "Carbon Voice Speed Dial",
+      "url": "https://www.producthunt.com/products/carbon-voice",
       "tagline": "",
-      "pub_date": "2026-06-01T12:56:42-07:00"
+      "pub_date": "2026-06-03T11:29:41-07:00"
     },
     {
-      "title": "superlog",
-      "url": "https://www.producthunt.com/products/superlog",
+      "title": "Novus",
+      "url": "https://www.producthunt.com/products/novus-4",
       "tagline": "",
-      "pub_date": "2026-06-01T16:39:18-07:00"
+      "pub_date": "2026-06-01T20:16:42-07:00"
     },
     {
-      "title": "InsForge Backend Branching",
-      "url": "https://www.producthunt.com/products/insforge-alpha",
+      "title": "Empromptu AI",
+      "url": "https://www.producthunt.com/products/empromptu",
       "tagline": "",
-      "pub_date": "2026-05-31T00:40:43-07:00"
+      "pub_date": "2026-06-01T10:12:04-07:00"
     },
     {
-      "title": "Barflare",
-      "url": "https://www.producthunt.com/products/barflare",
+      "title": "Smart Runner",
+      "url": "https://www.producthunt.com/products/smart-runner",
       "tagline": "",
-      "pub_date": "2026-06-02T03:51:35-07:00"
+      "pub_date": "2026-06-03T12:38:03-07:00"
     },
     {
-      "title": "FolderPlus",
-      "url": "https://www.producthunt.com/products/folderplus",
+      "title": "AppWizzy",
+      "url": "https://www.producthunt.com/products/appwizzy",
       "tagline": "",
-      "pub_date": "2026-06-02T12:16:55-07:00"
+      "pub_date": "2026-05-25T08:29:47-07:00"
     },
     {
-      "title": "StampCam",
-      "url": "https://www.producthunt.com/products/stampcam",
+      "title": "Astra Autonomous Pentest",
+      "url": "https://www.producthunt.com/products/astra-security",
       "tagline": "",
-      "pub_date": "2026-05-27T07:47:21-07:00"
+      "pub_date": "2026-06-01T01:52:42-07:00"
     },
     {
-      "title": "Dispatch",
-      "url": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
+      "title": "ChatPilot",
+      "url": "https://www.producthunt.com/products/chatpilot-2",
       "tagline": "",
-      "pub_date": "2026-05-30T22:36:31-07:00"
+      "pub_date": "2026-06-03T13:47:05-07:00"
     },
     {
-      "title": "Hermes Desktop",
-      "url": "https://www.producthunt.com/products/hermes-4",
+      "title": "DotBGE",
+      "url": "https://www.producthunt.com/products/dotbge",
       "tagline": "",
-      "pub_date": "2026-06-02T15:20:36-07:00"
+      "pub_date": "2026-06-03T23:40:04-07:00"
     },
     {
-      "title": "Linkeezy",
-      "url": "https://www.producthunt.com/products/linkeezy",
+      "title": "Split Ninja",
+      "url": "https://www.producthunt.com/products/split-ninja",
       "tagline": "",
-      "pub_date": "2026-06-02T11:10:54-07:00"
+      "pub_date": "2026-06-03T09:02:54-07:00"
     },
     {
-      "title": "BoxBox",
-      "url": "https://www.producthunt.com/products/boxbox",
+      "title": "PlugTalk",
+      "url": "https://www.producthunt.com/products/plugtalk",
       "tagline": "",
-      "pub_date": "2026-06-02T02:49:52-07:00"
+      "pub_date": "2026-06-03T07:05:03-07:00"
     },
     {
-      "title": "RadianceKit",
-      "url": "https://www.producthunt.com/products/radiancekit",
+      "title": "Boxes.dev",
+      "url": "https://www.producthunt.com/products/boxes-dev",
       "tagline": "",
-      "pub_date": "2026-06-02T05:39:28-07:00"
+      "pub_date": "2026-06-03T18:25:01-07:00"
     },
     {
-      "title": "BeerShot",
-      "url": "https://www.producthunt.com/products/beershot",
+      "title": "Sun",
+      "url": "https://www.producthunt.com/products/sun-4",
       "tagline": "",
-      "pub_date": "2026-06-02T02:05:24-07:00"
+      "pub_date": "2026-06-03T05:14:08-07:00"
     },
     {
-      "title": "TaskGPT",
-      "url": "https://www.producthunt.com/products/taskgpt-2",
+      "title": "Google Gemma 4 12B",
+      "url": "https://www.producthunt.com/products/gemma-4-12b",
       "tagline": "",
-      "pub_date": "2026-06-02T08:24:37-07:00"
+      "pub_date": "2026-06-03T09:15:55-07:00"
     },
     {
-      "title": "EchoFlow",
-      "url": "https://www.producthunt.com/products/echoflow-2",
+      "title": "Walrus Memory",
+      "url": "https://www.producthunt.com/products/walrus-memory",
       "tagline": "",
-      "pub_date": "2026-06-02T10:18:19-07:00"
+      "pub_date": "2026-06-03T08:40:08-07:00"
     },
     {
-      "title": "Brand Context API",
-      "url": "https://www.producthunt.com/products/brandfetch",
+      "title": "Gather",
+      "url": "https://www.producthunt.com/products/gather-14",
       "tagline": "",
-      "pub_date": "2026-06-02T02:33:35-07:00"
+      "pub_date": "2026-06-01T11:42:16-07:00"
     },
     {
-      "title": "Handler",
-      "url": "https://www.producthunt.com/products/handler",
+      "title": "Mailwarm 2.0 (YC S20)",
+      "url": "https://www.producthunt.com/products/mailwarm",
       "tagline": "",
-      "pub_date": "2026-06-02T05:37:56-07:00"
+      "pub_date": "2026-05-11T01:28:25-07:00"
     },
     {
-      "title": "Elentaria",
-      "url": "https://www.producthunt.com/products/elentaria",
+      "title": "Basedash Semantic Layer",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-05-18T03:10:10-07:00"
+      "pub_date": "2026-06-03T11:53:04-07:00"
     },
     {
-      "title": "Wallie V2",
-      "url": "https://www.producthunt.com/products/wallie-v2",
+      "title": "TimeTuna.com",
+      "url": "https://www.producthunt.com/products/bookva-ai",
       "tagline": "",
-      "pub_date": "2026-05-29T05:16:07-07:00"
+      "pub_date": "2026-06-03T02:23:41-07:00"
     },
     {
-      "title": "Devin Desktop",
-      "url": "https://www.producthunt.com/products/devin-by-cognition",
+      "title": "Brilliant's Personal Tutor, Koji",
+      "url": "https://www.producthunt.com/products/brilliant",
       "tagline": "",
-      "pub_date": "2026-06-02T13:00:47-07:00"
+      "pub_date": "2026-05-29T14:10:25-07:00"
     },
     {
-      "title": "MartinLoop",
-      "url": "https://www.producthunt.com/products/martinloop",
+      "title": "Audex Trace",
+      "url": "https://www.producthunt.com/products/audex-trace",
       "tagline": "",
-      "pub_date": "2026-05-20T09:47:44-07:00"
+      "pub_date": "2026-06-03T00:12:46-07:00"
     }
   ]
 }

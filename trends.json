@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-06-05T02:43:40.361Z",
+  "generated_at": "2026-06-05T09:35:01.334Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "url": "https://uruky.com/?il=en",
-      "hn_url": "https://news.ycombinator.com/item?id=48396004",
-      "points": 210,
-      "comments": 194,
-      "created_ts": 1780563370,
-      "author": "BrunoBernardino"
-    },
-    {
       "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
       "url": "https://boxes.dev",
       "hn_url": "https://news.ycombinator.com/item?id=48399358",
-      "points": 85,
-      "comments": 63,
+      "points": 90,
+      "comments": 65,
       "created_ts": 1780583915,
       "author": "nab"
     },
@@ -25,17 +16,26 @@
       "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
       "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
       "hn_url": "https://news.ycombinator.com/item?id=48404224",
-      "points": 74,
-      "comments": 23,
+      "points": 77,
+      "comments": 24,
       "created_ts": 1780605138,
       "author": "tejaswigowda"
+    },
+    {
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48404732",
+      "points": 56,
+      "comments": 20,
+      "created_ts": 1780607716,
+      "author": "utibeumanah"
     },
     {
       "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
       "url": "https://github.com/schildep/verified-polygon-intersection",
       "hn_url": "https://news.ycombinator.com/item?id=48405264",
-      "points": 35,
-      "comments": 5,
+      "points": 45,
+      "comments": 11,
       "created_ts": 1780610778,
       "author": "permute"
     },
@@ -43,19 +43,19 @@
       "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
       "url": "https://cost.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=48397148",
-      "points": 29,
-      "comments": 13,
+      "points": 31,
+      "comments": 17,
       "created_ts": 1780572613,
       "author": "akh"
     },
     {
-      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=48404732",
-      "points": 29,
-      "comments": 7,
-      "created_ts": 1780607716,
-      "author": "utibeumanah"
+      "title": "Show HN: Hitoku Draft – Context aware local assistant",
+      "url": "https://hitoku.me/draft/",
+      "hn_url": "https://news.ycombinator.com/item?id=48402082",
+      "points": 16,
+      "comments": 4,
+      "created_ts": 1780595338,
+      "author": "lostathome"
     },
     {
       "title": "Show HN: ssh late.sh - a cozy command-line Clubhouse for computer people",
@@ -67,22 +67,22 @@
       "author": "bl4ckbe4r"
     },
     {
-      "title": "Show HN: Hitoku Draft – Context aware local assistant",
-      "url": "https://hitoku.me/draft/",
-      "hn_url": "https://news.ycombinator.com/item?id=48402082",
-      "points": 15,
-      "comments": 2,
-      "created_ts": 1780595338,
-      "author": "lostathome"
-    },
-    {
       "title": "Show HN: OpenHack – OSS security scanner, 40x cheaper, on par with Opus 4.6",
       "url": "https://github.com/openhackai/openhack",
       "hn_url": "https://news.ycombinator.com/item?id=48404357",
-      "points": 11,
+      "points": 12,
       "comments": 0,
       "created_ts": 1780605753,
       "author": "ananayarora"
+    },
+    {
+      "title": "Show HN: Black-box API bug detection across 7 AI systems",
+      "url": "https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection",
+      "hn_url": "https://news.ycombinator.com/item?id=48399429",
+      "points": 11,
+      "comments": 4,
+      "created_ts": 1780584160,
+      "author": "riyajoshi"
     }
   ],
   "hn_front": [
@@ -90,35 +90,26 @@
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "hn_url": "https://news.ycombinator.com/item?id=48398055",
-      "points": 579,
-      "comments": 259,
+      "points": 637,
+      "comments": 277,
       "created_ts": 1780578051,
       "author": "coloneltcb"
     },
     {
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "hn_url": "https://news.ycombinator.com/item?id=48397028",
-      "points": 517,
-      "comments": 199,
-      "created_ts": 1780571854,
-      "author": "mooreds"
-    },
-    {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "hn_url": "https://news.ycombinator.com/item?id=48400842",
-      "points": 345,
-      "comments": 462,
-      "created_ts": 1780590017,
-      "author": "meetpateltech"
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "hn_url": "https://news.ycombinator.com/item?id=48405718",
+      "points": 552,
+      "comments": 267,
+      "created_ts": 1780613299,
+      "author": "tristanj"
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "hn_url": "https://news.ycombinator.com/item?id=48403980",
-      "points": 283,
-      "comments": 96,
+      "points": 415,
+      "comments": 119,
       "created_ts": 1780603880,
       "author": "binyu"
     },
@@ -126,156 +117,186 @@
       "title": "Retro-Tech Parenting",
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
       "hn_url": "https://news.ycombinator.com/item?id=48400588",
-      "points": 257,
-      "comments": 173,
+      "points": 298,
+      "comments": 205,
       "created_ts": 1780588955,
       "author": "mawise"
     },
     {
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "hn_url": "https://news.ycombinator.com/item?id=48403588",
-      "points": 238,
-      "comments": 208,
-      "created_ts": 1780601808,
-      "author": "buchodi"
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "hn_url": "https://news.ycombinator.com/item?id=48406640",
+      "points": 222,
+      "comments": 81,
+      "created_ts": 1780620278,
+      "author": "jenders"
     },
     {
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "url": "https://uruky.com/?il=en",
-      "hn_url": "https://news.ycombinator.com/item?id=48396004",
-      "points": 210,
-      "comments": 194,
-      "created_ts": 1780563370,
-      "author": "BrunoBernardino"
-    },
-    {
-      "title": "Gaussian Point Splatting",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48396792",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "hn_url": "https://news.ycombinator.com/item?id=48406358",
       "points": 178,
-      "comments": 66,
-      "created_ts": 1780570093,
-      "author": "ibobev"
-    },
-    {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "hn_url": "https://news.ycombinator.com/item?id=48399974",
-      "points": 116,
-      "comments": 12,
-      "created_ts": 1780586280,
-      "author": "theanonymousone"
+      "comments": 48,
+      "created_ts": 1780617869,
+      "author": "geoffbp"
     },
     {
       "title": "Do transformers need three projections? Systematic study of QKV variants",
       "url": "https://arxiv.org/abs/2606.04032",
       "hn_url": "https://news.ycombinator.com/item?id=48405931",
-      "points": 104,
-      "comments": 17,
+      "points": 165,
+      "comments": 34,
       "created_ts": 1780614716,
       "author": "Anon84"
     },
     {
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "hn_url": "https://news.ycombinator.com/item?id=48405718",
-      "points": 103,
-      "comments": 38,
-      "created_ts": 1780613299,
-      "author": "tristanj"
+      "title": "Changing How We Develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "hn_url": "https://news.ycombinator.com/item?id=48409191",
+      "points": 149,
+      "comments": 82,
+      "created_ts": 1780644393,
+      "author": "EdwinHoksberg"
+    },
+    {
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408016",
+      "points": 145,
+      "comments": 74,
+      "created_ts": 1780634221,
+      "author": "ingve"
+    },
+    {
+      "title": "WSL 2 is getting faster Windows file system access",
+      "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48403377",
+      "points": 142,
+      "comments": 105,
+      "created_ts": 1780600878,
+      "author": "haydenbarnes"
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "hn_url": "https://news.ycombinator.com/item?id=48399974",
+      "points": 133,
+      "comments": 13,
+      "created_ts": 1780586280,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "hn_url": "https://news.ycombinator.com/item?id=48407499",
+      "points": 110,
+      "comments": 91,
+      "created_ts": 1780629268,
+      "author": "haydenbarnes"
     }
   ],
   "ph_today": [
     {
-      "title": "Split Ninja",
-      "url": "https://www.producthunt.com/products/split-ninja",
+      "title": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
       "tagline": "",
-      "pub_date": "2026-06-03T09:02:54-07:00"
+      "pub_date": "2026-05-21T01:17:52-07:00"
     },
     {
-      "title": "Keen Code",
-      "url": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
+      "title": "Agent Browser Shield",
+      "url": "https://www.producthunt.com/products/agent-browser-shield",
       "tagline": "",
-      "pub_date": "2026-06-03T07:44:19-07:00"
+      "pub_date": "2026-06-04T13:50:10-07:00"
     },
     {
-      "title": "TimeTuna.com",
-      "url": "https://www.producthunt.com/products/bookva-ai",
+      "title": "Minimi",
+      "url": "https://www.producthunt.com/products/shram",
       "tagline": "",
-      "pub_date": "2026-06-03T02:23:41-07:00"
+      "pub_date": "2026-06-04T01:29:10-07:00"
     },
     {
-      "title": "Novus",
-      "url": "https://www.producthunt.com/products/novus-4",
+      "title": "Recursi",
+      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
       "tagline": "",
-      "pub_date": "2026-06-01T20:16:42-07:00"
+      "pub_date": "2026-06-04T10:18:43-07:00"
     },
     {
-      "title": "Deliveryman.ai",
-      "url": "https://www.producthunt.com/products/deliveryman-ai",
+      "title": "Ideogram 4.0",
+      "url": "https://www.producthunt.com/products/ideogram-4-0",
       "tagline": "",
-      "pub_date": "2026-06-01T06:24:10-07:00"
+      "pub_date": "2026-06-03T19:58:53-07:00"
     },
     {
-      "title": "AppWizzy",
-      "url": "https://www.producthunt.com/products/appwizzy",
+      "title": "Treadmill Pro",
+      "url": "https://www.producthunt.com/products/treadmill-pro",
       "tagline": "",
-      "pub_date": "2026-05-25T08:29:47-07:00"
+      "pub_date": "2026-06-04T09:59:38-07:00"
     },
     {
-      "title": "Build Club Campus",
-      "url": "https://www.producthunt.com/products/build-club",
+      "title": "Nemotron 3 Ultra by NVIDIA",
+      "url": "https://www.producthunt.com/products/nvidia",
       "tagline": "",
-      "pub_date": "2026-06-01T10:30:21-07:00"
+      "pub_date": "2026-06-04T13:02:11-07:00"
     },
     {
-      "title": "Empromptu AI",
-      "url": "https://www.producthunt.com/products/empromptu",
+      "title": "Moodloom",
+      "url": "https://www.producthunt.com/products/moodloom",
       "tagline": "",
-      "pub_date": "2026-06-01T10:12:04-07:00"
+      "pub_date": "2026-03-16T12:14:59-07:00"
     },
     {
-      "title": "Astra Autonomous Pentest",
-      "url": "https://www.producthunt.com/products/astra-security",
+      "title": "Lumo Studios",
+      "url": "https://www.producthunt.com/products/lumo-studios",
       "tagline": "",
-      "pub_date": "2026-06-01T01:52:42-07:00"
+      "pub_date": "2026-04-25T12:22:27-07:00"
     },
     {
-      "title": "Mailwarm 2.0",
-      "url": "https://www.producthunt.com/products/mailwarm",
+      "title": "LocalClicky",
+      "url": "https://www.producthunt.com/products/localclicky",
       "tagline": "",
-      "pub_date": "2026-05-11T01:28:25-07:00"
+      "pub_date": "2026-06-04T23:26:21-07:00"
     },
     {
-      "title": "Intelligent Terminal",
-      "url": "https://www.producthunt.com/products/microsoft-terminal",
+      "title": "VisionSync",
+      "url": "https://www.producthunt.com/products/visionsync",
       "tagline": "",
-      "pub_date": "2026-06-03T21:39:14-07:00"
+      "pub_date": "2026-06-04T09:57:47-07:00"
     },
     {
-      "title": "Carbon Voice Speed Dial",
-      "url": "https://www.producthunt.com/products/carbon-voice",
+      "title": "Arena Agent Mode",
+      "url": "https://www.producthunt.com/products/arena-5",
       "tagline": "",
-      "pub_date": "2026-06-03T11:29:41-07:00"
+      "pub_date": "2026-06-01T11:22:20-07:00"
     },
     {
-      "title": "Koji by Brilliant",
-      "url": "https://www.producthunt.com/products/brilliant",
+      "title": "SellerClaw",
+      "url": "https://www.producthunt.com/products/sellerclaw",
       "tagline": "",
-      "pub_date": "2026-05-29T14:10:25-07:00"
+      "pub_date": "2026-05-25T14:03:03-07:00"
     },
     {
-      "title": "Smart Runner",
-      "url": "https://www.producthunt.com/products/smart-runner",
+      "title": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
       "tagline": "",
-      "pub_date": "2026-06-03T12:38:03-07:00"
+      "pub_date": "2026-06-04T04:54:13-07:00"
     },
     {
-      "title": "Walrus Memory",
-      "url": "https://www.producthunt.com/products/walrus-memory",
+      "title": "Clarafy",
+      "url": "https://www.producthunt.com/products/clarafy",
       "tagline": "",
-      "pub_date": "2026-06-03T08:40:08-07:00"
+      "pub_date": "2026-06-04T10:33:12-07:00"
+    },
+    {
+      "title": "FloatPic",
+      "url": "https://www.producthunt.com/products/floatpic",
+      "tagline": "",
+      "pub_date": "2026-06-03T21:45:58-07:00"
+    },
+    {
+      "title": "Microsoft MAI-Voice-2",
+      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "tagline": "",
+      "pub_date": "2026-06-04T14:38:54-07:00"
     },
     {
       "title": "Curata",
@@ -284,52 +305,16 @@
       "pub_date": "2026-06-03T08:27:22-07:00"
     },
     {
-      "title": "Audex Trace",
-      "url": "https://www.producthunt.com/products/audex-trace",
+      "title": "Keen Code",
+      "url": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
       "tagline": "",
-      "pub_date": "2026-06-03T00:12:46-07:00"
+      "pub_date": "2026-06-03T07:44:19-07:00"
     },
     {
-      "title": "Extella.AI",
-      "url": "https://www.producthunt.com/products/extella-ai",
+      "title": "Carbon Voice Speed Dial",
+      "url": "https://www.producthunt.com/products/carbon-voice",
       "tagline": "",
-      "pub_date": "2026-04-07T04:12:18-07:00"
-    },
-    {
-      "title": "Gather",
-      "url": "https://www.producthunt.com/products/gather-14",
-      "tagline": "",
-      "pub_date": "2026-06-01T11:42:16-07:00"
-    },
-    {
-      "title": "Basedash Semantic Layer",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-06-03T11:53:04-07:00"
-    },
-    {
-      "title": "Google Gemma 4 12B",
-      "url": "https://www.producthunt.com/products/gemma-4-12b",
-      "tagline": "",
-      "pub_date": "2026-06-03T09:15:55-07:00"
-    },
-    {
-      "title": "Boxes.dev",
-      "url": "https://www.producthunt.com/products/boxes-dev",
-      "tagline": "",
-      "pub_date": "2026-06-03T18:25:01-07:00"
-    },
-    {
-      "title": "Perplexity Personal Computer for Windows",
-      "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
-      "tagline": "",
-      "pub_date": "2026-06-03T09:32:40-07:00"
-    },
-    {
-      "title": "Chloe by Close",
-      "url": "https://www.producthunt.com/products/close",
-      "tagline": "",
-      "pub_date": "2026-06-02T14:02:10-07:00"
+      "pub_date": "2026-06-03T11:29:41-07:00"
     },
     {
       "title": "Sun",
@@ -338,22 +323,16 @@
       "pub_date": "2026-06-03T05:14:08-07:00"
     },
     {
+      "title": "Extella.AI",
+      "url": "https://www.producthunt.com/products/extella-ai",
+      "tagline": "",
+      "pub_date": "2026-04-07T04:12:18-07:00"
+    },
+    {
       "title": "ChatPilot",
       "url": "https://www.producthunt.com/products/chatpilot-2",
       "tagline": "",
       "pub_date": "2026-06-03T13:47:05-07:00"
-    },
-    {
-      "title": "DotBGE",
-      "url": "https://www.producthunt.com/products/dotbge",
-      "tagline": "",
-      "pub_date": "2026-06-03T23:40:04-07:00"
-    },
-    {
-      "title": "Cignara",
-      "url": "https://www.producthunt.com/products/cignara",
-      "tagline": "",
-      "pub_date": "2026-06-03T10:38:03-07:00"
     },
     {
       "title": "Kai for Chrome",
@@ -362,10 +341,40 @@
       "pub_date": "2026-05-26T11:16:18-07:00"
     },
     {
-      "title": "PlugTalk",
-      "url": "https://www.producthunt.com/products/plugtalk",
+      "title": "Build Club Campus",
+      "url": "https://www.producthunt.com/products/build-club",
       "tagline": "",
-      "pub_date": "2026-06-03T07:05:03-07:00"
+      "pub_date": "2026-06-01T10:30:21-07:00"
+    },
+    {
+      "title": "Google Gemma 4 12B",
+      "url": "https://www.producthunt.com/products/gemma-4-12b",
+      "tagline": "",
+      "pub_date": "2026-06-03T09:15:55-07:00"
+    },
+    {
+      "title": "Perplexity Personal Computer for Windows",
+      "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+      "tagline": "",
+      "pub_date": "2026-06-03T09:32:40-07:00"
+    },
+    {
+      "title": "DotBGE",
+      "url": "https://www.producthunt.com/products/dotbge",
+      "tagline": "",
+      "pub_date": "2026-06-03T23:40:04-07:00"
+    },
+    {
+      "title": "Audex Trace",
+      "url": "https://www.producthunt.com/products/audex-trace",
+      "tagline": "",
+      "pub_date": "2026-06-03T00:12:46-07:00"
+    },
+    {
+      "title": "Boxes.dev",
+      "url": "https://www.producthunt.com/products/boxes-dev",
+      "tagline": "",
+      "pub_date": "2026-06-03T18:25:01-07:00"
     }
   ]
 }

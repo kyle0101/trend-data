@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-06-05T19:44:43.168Z",
+  "generated_at": "2026-06-06T02:31:04.271Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "hn_url": "https://news.ycombinator.com/item?id=48404224",
-      "points": 83,
-      "comments": 37,
-      "created_ts": 1780605138,
-      "author": "tejaswigowda"
-    },
-    {
       "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
       "hn_url": "https://news.ycombinator.com/item?id=48409955",
-      "points": 69,
-      "comments": 45,
+      "points": 119,
+      "comments": 58,
       "created_ts": 1780650642,
       "author": "zdkaster"
     },
     {
-      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=48404732",
-      "points": 61,
-      "comments": 27,
-      "created_ts": 1780607716,
-      "author": "utibeumanah"
+      "title": "Show HN: I nerfed our coding agents on purpose",
+      "url": "https://news.ycombinator.com/item?id=48419614",
+      "hn_url": "https://news.ycombinator.com/item?id=48419614",
+      "points": 21,
+      "comments": 10,
+      "created_ts": 1780701554,
+      "author": "noahfradin"
     },
     {
-      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-      "url": "https://github.com/schildep/verified-polygon-intersection",
-      "hn_url": "https://news.ycombinator.com/item?id=48405264",
-      "points": 45,
-      "comments": 14,
-      "created_ts": 1780610778,
-      "author": "permute"
-    },
-    {
-      "title": "Show HN: OpenHack – OSS security scanner, 40x cheaper, on par with Opus 4.6",
-      "url": "https://github.com/openhackai/openhack",
-      "hn_url": "https://news.ycombinator.com/item?id=48404357",
-      "points": 12,
-      "comments": 0,
-      "created_ts": 1780605753,
-      "author": "ananayarora"
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48420494",
+      "points": 15,
+      "comments": 9,
+      "created_ts": 1780709529,
+      "author": "gotski"
     },
     {
       "title": "Show HN: Local-first fast CPU image to text for screenshots, PDFs, webpages",
       "url": "https://github.com/kouhxp/textsnap",
       "hn_url": "https://news.ycombinator.com/item?id=48410841",
-      "points": 11,
-      "comments": 12,
+      "points": 13,
+      "comments": 15,
       "created_ts": 1780658170,
       "author": "mrkn1"
     },
@@ -61,28 +43,10 @@
       "title": "Show HN: Altersend – File sharing without cloud",
       "url": "https://github.com/denislupookov/altersend",
       "hn_url": "https://news.ycombinator.com/item?id=48408647",
-      "points": 11,
+      "points": 12,
       "comments": 4,
       "created_ts": 1780640022,
       "author": "denisdev1"
-    },
-    {
-      "title": "Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable",
-      "url": "https://github.com/marcj/papernews",
-      "hn_url": "https://news.ycombinator.com/item?id=48406065",
-      "points": 11,
-      "comments": 3,
-      "created_ts": 1780615706,
-      "author": "bourbonproof"
-    },
-    {
-      "title": "Show HN: Using Haskell to play music on 3D printer motors (2020)",
-      "url": "https://lucasoshiro.github.io/software-en/2020-07-31-music_gcode/",
-      "hn_url": "https://news.ycombinator.com/item?id=48403937",
-      "points": 11,
-      "comments": 2,
-      "created_ts": 1780603652,
-      "author": "lucasoshiro"
     }
   ],
   "hn_front": [
@@ -90,8 +54,8 @@
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
       "hn_url": "https://news.ycombinator.com/item?id=48408016",
-      "points": 329,
-      "comments": 239,
+      "points": 379,
+      "comments": 272,
       "created_ts": 1780634221,
       "author": "ingve"
     },
@@ -99,8 +63,8 @@
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
       "hn_url": "https://news.ycombinator.com/item?id=48409664",
-      "points": 321,
-      "comments": 172,
+      "points": 364,
+      "comments": 198,
       "created_ts": 1780648336,
       "author": "mimorigasaka"
     },
@@ -108,117 +72,99 @@
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "hn_url": "https://news.ycombinator.com/item?id=48413464",
-      "points": 279,
-      "comments": 182,
+      "points": 361,
+      "comments": 238,
       "created_ts": 1780671631,
       "author": "janpot"
-    },
-    {
-      "title": "Dutch gov't will only allow European company to operate DigiD platform",
-      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "hn_url": "https://news.ycombinator.com/item?id=48413295",
-      "points": 191,
-      "comments": 63,
-      "created_ts": 1780670924,
-      "author": "TechTechTech"
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "hn_url": "https://news.ycombinator.com/item?id=48414367",
-      "points": 189,
-      "comments": 42,
-      "created_ts": 1780675197,
-      "author": "coffeemug"
-    },
-    {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "hn_url": "https://news.ycombinator.com/item?id=48414027",
-      "points": 180,
-      "comments": 133,
-      "created_ts": 1780673978,
-      "author": "jsve"
-    },
-    {
-      "title": "I tested every IP KVM in my Homelab",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "hn_url": "https://news.ycombinator.com/item?id=48413072",
-      "points": 160,
-      "comments": 47,
-      "created_ts": 1780669850,
-      "author": "vquemener"
-    },
-    {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "hn_url": "https://news.ycombinator.com/item?id=48409675",
-      "points": 145,
-      "comments": 143,
-      "created_ts": 1780648417,
-      "author": "rbanffy"
     },
     {
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
       "hn_url": "https://news.ycombinator.com/item?id=48415217",
-      "points": 143,
-      "comments": 34,
+      "points": 361,
+      "comments": 129,
       "created_ts": 1780678530,
       "author": "toomuchtodo"
     },
     {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "hn_url": "https://news.ycombinator.com/item?id=48414653",
-      "points": 143,
-      "comments": 28,
-      "created_ts": 1780676328,
-      "author": "theanonymousone"
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "hn_url": "https://news.ycombinator.com/item?id=48414367",
+      "points": 334,
+      "comments": 78,
+      "created_ts": 1780675197,
+      "author": "coffeemug"
     },
     {
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
       "hn_url": "https://news.ycombinator.com/item?id=48411635",
-      "points": 131,
-      "comments": 130,
+      "points": 317,
+      "comments": 328,
       "created_ts": 1780663413,
       "author": "logicprog"
     },
     {
-      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
-      "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-      "hn_url": "https://news.ycombinator.com/item?id=48415987",
-      "points": 130,
-      "comments": 76,
-      "created_ts": 1780682179,
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414653",
+      "points": 278,
+      "comments": 88,
+      "created_ts": 1780676328,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414027",
+      "points": 270,
+      "comments": 209,
+      "created_ts": 1780673978,
+      "author": "jsve"
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413500",
+      "points": 266,
+      "comments": 118,
+      "created_ts": 1780671843,
       "author": "speckx"
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413072",
+      "points": 245,
+      "comments": 66,
+      "created_ts": 1780669850,
+      "author": "vquemener"
+    },
+    {
+      "title": "India's surprise baby bust",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+      "hn_url": "https://news.ycombinator.com/item?id=48413254",
+      "points": 136,
+      "comments": 605,
+      "created_ts": 1780670684,
+      "author": "hakonbogen"
+    },
+    {
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "hn_url": "https://news.ycombinator.com/item?id=48409955",
+      "points": 119,
+      "comments": 58,
+      "created_ts": 1780650642,
+      "author": "zdkaster"
     }
   ],
   "ph_today": [
     {
-      "title": "Minimi",
-      "url": "https://www.producthunt.com/products/shram",
+      "title": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
       "tagline": "",
-      "pub_date": "2026-06-04T01:29:10-07:00"
-    },
-    {
-      "title": "SellerClaw",
-      "url": "https://www.producthunt.com/products/sellerclaw",
-      "tagline": "",
-      "pub_date": "2026-05-25T14:03:03-07:00"
-    },
-    {
-      "title": "Veltrix AI",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
-      "tagline": "",
-      "pub_date": "2026-05-21T01:17:52-07:00"
-    },
-    {
-      "title": "Ideogram 4.0",
-      "url": "https://www.producthunt.com/products/ideogram-4-0",
-      "tagline": "",
-      "pub_date": "2026-06-03T19:58:53-07:00"
+      "pub_date": "2026-06-04T04:54:13-07:00"
     },
     {
       "title": "Agent Mode on Arena",
@@ -227,22 +173,22 @@
       "pub_date": "2026-06-01T11:22:20-07:00"
     },
     {
-      "title": "Moodloom",
-      "url": "https://www.producthunt.com/products/moodloom",
+      "title": "SellerClaw",
+      "url": "https://www.producthunt.com/products/sellerclaw",
       "tagline": "",
-      "pub_date": "2026-03-16T12:14:59-07:00"
+      "pub_date": "2026-05-25T14:03:03-07:00"
+    },
+    {
+      "title": "FloatPic",
+      "url": "https://www.producthunt.com/products/floatpic",
+      "tagline": "",
+      "pub_date": "2026-06-03T21:45:58-07:00"
     },
     {
       "title": "LocalClicky",
       "url": "https://www.producthunt.com/products/localclicky",
       "tagline": "",
       "pub_date": "2026-06-04T23:26:21-07:00"
-    },
-    {
-      "title": "Recursi",
-      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
-      "tagline": "",
-      "pub_date": "2026-06-04T10:18:43-07:00"
     },
     {
       "title": "Clarafy",
@@ -263,6 +209,12 @@
       "pub_date": "2026-06-04T09:57:47-07:00"
     },
     {
+      "title": "Agent Browser Shield",
+      "url": "https://www.producthunt.com/products/agent-browser-shield",
+      "tagline": "",
+      "pub_date": "2026-06-04T13:50:10-07:00"
+    },
+    {
       "title": "Nemotron 3 Ultra by NVIDIA",
       "url": "https://www.producthunt.com/products/nvidia",
       "tagline": "",
@@ -275,10 +227,34 @@
       "pub_date": "2026-04-25T12:22:27-07:00"
     },
     {
-      "title": "FloatPic",
-      "url": "https://www.producthunt.com/products/floatpic",
+      "title": "Ideogram 4.0",
+      "url": "https://www.producthunt.com/products/ideogram-4-0",
       "tagline": "",
-      "pub_date": "2026-06-03T21:45:58-07:00"
+      "pub_date": "2026-06-03T19:58:53-07:00"
+    },
+    {
+      "title": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
+      "tagline": "",
+      "pub_date": "2026-05-21T01:17:52-07:00"
+    },
+    {
+      "title": "Minimi",
+      "url": "https://www.producthunt.com/products/shram",
+      "tagline": "",
+      "pub_date": "2026-06-04T01:29:10-07:00"
+    },
+    {
+      "title": "Moodloom",
+      "url": "https://www.producthunt.com/products/moodloom",
+      "tagline": "",
+      "pub_date": "2026-03-16T12:14:59-07:00"
+    },
+    {
+      "title": "Recursi",
+      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+      "tagline": "",
+      "pub_date": "2026-06-04T10:18:43-07:00"
     },
     {
       "title": "Treadmill Pro",
@@ -287,58 +263,10 @@
       "pub_date": "2026-06-04T09:59:38-07:00"
     },
     {
-      "title": "Leni",
-      "url": "https://www.producthunt.com/products/leni",
-      "tagline": "",
-      "pub_date": "2026-06-04T04:54:13-07:00"
-    },
-    {
-      "title": "Agent Browser Shield",
-      "url": "https://www.producthunt.com/products/agent-browser-shield",
-      "tagline": "",
-      "pub_date": "2026-06-04T13:50:10-07:00"
-    },
-    {
       "title": "Split Ninja",
       "url": "https://www.producthunt.com/products/split-ninja",
       "tagline": "",
       "pub_date": "2026-06-03T09:02:54-07:00"
-    },
-    {
-      "title": "Cignara",
-      "url": "https://www.producthunt.com/products/cignara",
-      "tagline": "",
-      "pub_date": "2026-06-03T10:38:03-07:00"
-    },
-    {
-      "title": "DotBGE",
-      "url": "https://www.producthunt.com/products/dotbge",
-      "tagline": "",
-      "pub_date": "2026-06-03T23:40:04-07:00"
-    },
-    {
-      "title": "Intelligent Terminal",
-      "url": "https://www.producthunt.com/products/microsoft-terminal",
-      "tagline": "",
-      "pub_date": "2026-06-03T21:39:14-07:00"
-    },
-    {
-      "title": "PlugTalk",
-      "url": "https://www.producthunt.com/products/plugtalk",
-      "tagline": "",
-      "pub_date": "2026-06-03T07:05:03-07:00"
-    },
-    {
-      "title": "Mailwarm 2.0",
-      "url": "https://www.producthunt.com/products/mailwarm",
-      "tagline": "",
-      "pub_date": "2026-05-11T01:28:25-07:00"
-    },
-    {
-      "title": "Build Club Campus",
-      "url": "https://www.producthunt.com/products/build-club",
-      "tagline": "",
-      "pub_date": "2026-06-01T10:30:21-07:00"
     },
     {
       "title": "Empromptu AI",
@@ -353,28 +281,64 @@
       "pub_date": "2026-06-01T01:52:42-07:00"
     },
     {
-      "title": "Koji by Brilliant",
-      "url": "https://www.producthunt.com/products/brilliant",
+      "title": "Mailwarm 2.0",
+      "url": "https://www.producthunt.com/products/mailwarm",
       "tagline": "",
-      "pub_date": "2026-05-29T14:10:25-07:00"
+      "pub_date": "2026-05-11T01:28:25-07:00"
     },
     {
-      "title": "Boxes.dev",
-      "url": "https://www.producthunt.com/products/boxes-dev",
+      "title": "ChatPilot",
+      "url": "https://www.producthunt.com/products/chatpilot-2",
       "tagline": "",
-      "pub_date": "2026-06-03T18:25:01-07:00"
+      "pub_date": "2026-06-03T13:47:05-07:00"
     },
     {
-      "title": "Google Gemma 4 12B",
-      "url": "https://www.producthunt.com/products/gemma-4-12b",
+      "title": "Build Club Campus",
+      "url": "https://www.producthunt.com/products/build-club",
       "tagline": "",
-      "pub_date": "2026-06-03T09:15:55-07:00"
+      "pub_date": "2026-06-01T10:30:21-07:00"
+    },
+    {
+      "title": "Perplexity Personal Computer for Windows",
+      "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+      "tagline": "",
+      "pub_date": "2026-06-03T09:32:40-07:00"
     },
     {
       "title": "Chloe by Close",
       "url": "https://www.producthunt.com/products/close",
       "tagline": "",
       "pub_date": "2026-06-02T14:02:10-07:00"
+    },
+    {
+      "title": "Curata",
+      "url": "https://www.producthunt.com/products/curata-3",
+      "tagline": "",
+      "pub_date": "2026-06-03T08:27:22-07:00"
+    },
+    {
+      "title": "Smart Runner",
+      "url": "https://www.producthunt.com/products/smart-runner",
+      "tagline": "",
+      "pub_date": "2026-06-03T12:38:03-07:00"
+    },
+    {
+      "title": "TimeTuna.com",
+      "url": "https://www.producthunt.com/products/bookva-ai",
+      "tagline": "",
+      "pub_date": "2026-06-03T02:23:41-07:00"
+    },
+    {
+      "title": "Carbon Voice Speed Dial",
+      "url": "https://www.producthunt.com/products/carbon-voice",
+      "tagline": "",
+      "pub_date": "2026-06-03T11:29:41-07:00"
+    },
+    {
+      "title": "Cignara",
+      "url": "https://www.producthunt.com/products/cignara",
+      "tagline": "",
+      "pub_date": "2026-06-03T10:38:03-07:00"
     }
   ]
 }

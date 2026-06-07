@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-06-07T02:50:00.496Z",
+  "generated_at": "2026-06-07T08:47:13.663Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-      "url": "https://news.ycombinator.com/item?id=48430077",
-      "hn_url": "https://news.ycombinator.com/item?id=48430077",
-      "points": 14,
-      "comments": 11,
-      "created_ts": 1780788080,
-      "author": "bOZbfU4YdRnJQ"
+      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+      "url": "https://github.com/sauravrao637/oproxy",
+      "hn_url": "https://news.ycombinator.com/item?id=48431079",
+      "points": 44,
+      "comments": 6,
+      "created_ts": 1780798289,
+      "author": "sauravrao637"
+    },
+    {
+      "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+      "url": "https://github.com/las7/TakoVM",
+      "hn_url": "https://news.ycombinator.com/item?id=48431257",
+      "points": 19,
+      "comments": 7,
+      "created_ts": 1780800144,
+      "author": "sakuraiben"
     },
     {
       "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
       "url": "https://domaintasker.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48430693",
-      "points": 13,
-      "comments": 6,
+      "points": 17,
+      "comments": 14,
       "created_ts": 1780793413,
       "author": "si_164"
     },
     {
-      "title": "Show HN: Sidekick – The zot coding agent, one click away on macOS",
-      "url": "https://github.com/patriceckhart/zot-sidekick",
-      "hn_url": "https://news.ycombinator.com/item?id=48422333",
+      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+      "url": "https://news.ycombinator.com/item?id=48430077",
+      "hn_url": "https://news.ycombinator.com/item?id=48430077",
+      "points": 14,
+      "comments": 12,
+      "created_ts": 1780788080,
+      "author": "bOZbfU4YdRnJQ"
+    },
+    {
+      "title": "Show HN: I ported Xonotic (arena FPS) to WebAssembly with full P2P multiplayer",
+      "url": "https://dpgame.xonotic.workers.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428133",
+      "points": 12,
+      "comments": 4,
+      "created_ts": 1780774159,
+      "author": "astlouis44"
+    },
+    {
+      "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+      "url": "https://github.com/guycipher/keybench",
+      "hn_url": "https://news.ycombinator.com/item?id=48429957",
       "points": 12,
       "comments": 0,
-      "created_ts": 1780730629,
-      "author": "patriceckhart"
+      "created_ts": 1780787166,
+      "author": "alexpadula"
     }
   ],
   "hn_front": [
@@ -36,44 +63,35 @@
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "hn_url": "https://news.ycombinator.com/item?id=48427643",
-      "points": 452,
-      "comments": 163,
+      "points": 569,
+      "comments": 206,
       "created_ts": 1780770927,
       "author": "speckx"
-    },
-    {
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "hn_url": "https://news.ycombinator.com/item?id=48427523",
-      "points": 430,
-      "comments": 327,
-      "created_ts": 1780770066,
-      "author": "MilnerRoute"
-    },
-    {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "url": "https://pokeemerald.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48423762",
-      "points": 281,
-      "comments": 81,
-      "created_ts": 1780744378,
-      "author": "tripplyons"
     },
     {
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "url": "https://ntsc.rs/",
       "hn_url": "https://news.ycombinator.com/item?id=48428025",
-      "points": 280,
-      "comments": 67,
+      "points": 335,
+      "comments": 88,
       "created_ts": 1780773466,
       "author": "gregsadetsky"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48423762",
+      "points": 315,
+      "comments": 90,
+      "created_ts": 1780744378,
+      "author": "tripplyons"
     },
     {
       "title": "Moving beyond fork() + exec()",
       "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
       "hn_url": "https://news.ycombinator.com/item?id=48425528",
-      "points": 263,
-      "comments": 264,
+      "points": 294,
+      "comments": 292,
       "created_ts": 1780756460,
       "author": "jwilk"
     },
@@ -81,8 +99,8 @@
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
       "hn_url": "https://news.ycombinator.com/item?id=48424605",
-      "points": 238,
-      "comments": 437,
+      "points": 276,
+      "comments": 467,
       "created_ts": 1780750338,
       "author": "tosh"
     },
@@ -90,78 +108,96 @@
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
       "hn_url": "https://news.ycombinator.com/item?id=48425723",
-      "points": 197,
-      "comments": 52,
+      "points": 228,
+      "comments": 55,
       "created_ts": 1780757983,
       "author": "losfair"
     },
     {
-      "title": "New U.S. college grads now have higher unemployment than the average worker",
-      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
-      "hn_url": "https://news.ycombinator.com/item?id=48428763",
-      "points": 168,
-      "comments": 172,
-      "created_ts": 1780778140,
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "hn_url": "https://news.ycombinator.com/item?id=48431461",
+      "points": 139,
+      "comments": 65,
+      "created_ts": 1780802512,
+      "author": "babuskov"
+    },
+    {
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "hn_url": "https://news.ycombinator.com/item?id=48425611",
+      "points": 137,
+      "comments": 65,
+      "created_ts": 1780757033,
+      "author": "thisislife2"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "hn_url": "https://news.ycombinator.com/item?id=48431981",
+      "points": 122,
+      "comments": 84,
+      "created_ts": 1780808664,
+      "author": "MrBuddyCasino"
+    },
+    {
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "hn_url": "https://news.ycombinator.com/item?id=48432199",
+      "points": 118,
+      "comments": 19,
+      "created_ts": 1780811274,
+      "author": "matt_d"
+    },
+    {
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428475",
+      "points": 114,
+      "comments": 47,
+      "created_ts": 1780776235,
+      "author": "rohanucla"
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48430539",
+      "points": 103,
+      "comments": 16,
+      "created_ts": 1780791771,
       "author": "davidbarker"
-    },
-    {
-      "title": "Home alone: Remote work, isolation, and mental health",
-      "url": "https://www.science.org/doi/10.1126/science.aec7671",
-      "hn_url": "https://news.ycombinator.com/item?id=48428356",
-      "points": 131,
-      "comments": 123,
-      "created_ts": 1780775470,
-      "author": "speckx"
-    },
-    {
-      "title": "Benchmarks in Leipzig",
-      "url": "https://arxiv.org/abs/2606.05818",
-      "hn_url": "https://news.ycombinator.com/item?id=48425247",
-      "points": 124,
-      "comments": 44,
-      "created_ts": 1780754452,
-      "author": "root-parent"
-    },
-    {
-      "title": "You Can Run",
-      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "hn_url": "https://news.ycombinator.com/item?id=48426202",
-      "points": 107,
-      "comments": 59,
-      "created_ts": 1780761346,
-      "author": "bryanrasmussen"
     }
   ],
   "ph_today": [
     {
-      "title": "QWERTYS",
-      "url": "https://www.producthunt.com/products/qwertys",
+      "title": "CabinLink",
+      "url": "https://www.producthunt.com/products/cabinlink",
       "tagline": "",
-      "pub_date": "2026-06-05T12:12:55-07:00"
+      "pub_date": "2026-06-04T14:23:43-07:00"
     },
     {
-      "title": "Gaming services by IFTTT",
-      "url": "https://www.producthunt.com/products/ifttt",
+      "title": "Wave",
+      "url": "https://www.producthunt.com/products/wave-16",
       "tagline": "",
-      "pub_date": "2026-06-04T12:54:09-07:00"
+      "pub_date": "2026-04-19T01:50:31-07:00"
     },
     {
-      "title": "Google Search Profiles",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Smmall Cloud for iOS",
+      "url": "https://www.producthunt.com/products/smmall-cloud",
       "tagline": "",
-      "pub_date": "2026-06-04T12:56:28-07:00"
+      "pub_date": "2026-06-04T09:26:25-07:00"
     },
     {
-      "title": "Navi+ Menu Builder",
-      "url": "https://www.producthunt.com/products/navi-menu-builder",
+      "title": "Job Postings API",
+      "url": "https://www.producthunt.com/products/free-job-postings-api",
       "tagline": "",
-      "pub_date": "2026-06-05T03:40:09-07:00"
+      "pub_date": "2026-06-06T13:32:22-07:00"
     },
     {
-      "title": "Fox Issue Tracker 4",
-      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
+      "title": "Dreambeans by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
       "tagline": "",
-      "pub_date": "2026-05-28T19:22:42-07:00"
+      "pub_date": "2026-06-03T09:29:48-07:00"
     },
     {
       "title": "MAI-Image-2.5",
@@ -170,22 +206,40 @@
       "pub_date": "2026-06-03T20:20:01-07:00"
     },
     {
+      "title": "Navi+ Menu Builder",
+      "url": "https://www.producthunt.com/products/navi-menu-builder",
+      "tagline": "",
+      "pub_date": "2026-06-05T03:40:09-07:00"
+    },
+    {
+      "title": "Gaming services by IFTTT",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "tagline": "",
+      "pub_date": "2026-06-04T12:54:09-07:00"
+    },
+    {
+      "title": "Fox Issue Tracker 4",
+      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
+      "tagline": "",
+      "pub_date": "2026-05-28T19:22:42-07:00"
+    },
+    {
+      "title": "QWERTYS",
+      "url": "https://www.producthunt.com/products/qwertys",
+      "tagline": "",
+      "pub_date": "2026-06-05T12:12:55-07:00"
+    },
+    {
       "title": "Manus Shopify Connector",
       "url": "https://www.producthunt.com/products/manus-shopify-connector",
       "tagline": "",
       "pub_date": "2026-06-04T08:34:33-07:00"
     },
     {
-      "title": "Veltrix AI",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
+      "title": "Google Search Profiles",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-05-21T01:17:52-07:00"
-    },
-    {
-      "title": "Leni",
-      "url": "https://www.producthunt.com/products/leni",
-      "tagline": "",
-      "pub_date": "2026-06-04T04:54:13-07:00"
+      "pub_date": "2026-06-04T12:56:28-07:00"
     },
     {
       "title": "Minimi",
@@ -194,16 +248,10 @@
       "pub_date": "2026-06-04T01:29:10-07:00"
     },
     {
-      "title": "SellerClaw",
-      "url": "https://www.producthunt.com/products/sellerclaw",
+      "title": "Nemotron 3 Ultra by NVIDIA",
+      "url": "https://www.producthunt.com/products/nvidia",
       "tagline": "",
-      "pub_date": "2026-05-25T14:03:03-07:00"
-    },
-    {
-      "title": "Agent Mode on Arena",
-      "url": "https://www.producthunt.com/products/arena-5",
-      "tagline": "",
-      "pub_date": "2026-06-01T11:22:20-07:00"
+      "pub_date": "2026-06-04T13:02:11-07:00"
     },
     {
       "title": "Ideogram 4.0",
@@ -212,22 +260,10 @@
       "pub_date": "2026-06-03T19:58:53-07:00"
     },
     {
-      "title": "LocalClicky",
-      "url": "https://www.producthunt.com/products/localclicky",
+      "title": "Treadmill Pro",
+      "url": "https://www.producthunt.com/products/treadmill-pro",
       "tagline": "",
-      "pub_date": "2026-06-04T23:26:21-07:00"
-    },
-    {
-      "title": "Moodloom",
-      "url": "https://www.producthunt.com/products/moodloom",
-      "tagline": "",
-      "pub_date": "2026-03-16T12:14:59-07:00"
-    },
-    {
-      "title": "Nemotron 3 Ultra by NVIDIA",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "tagline": "",
-      "pub_date": "2026-06-04T13:02:11-07:00"
+      "pub_date": "2026-06-04T09:59:38-07:00"
     },
     {
       "title": "Clarafy",
@@ -236,16 +272,28 @@
       "pub_date": "2026-06-04T10:33:12-07:00"
     },
     {
+      "title": "Agent Mode on Arena",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "tagline": "",
+      "pub_date": "2026-06-01T11:22:20-07:00"
+    },
+    {
+      "title": "Moodloom",
+      "url": "https://www.producthunt.com/products/moodloom",
+      "tagline": "",
+      "pub_date": "2026-03-16T12:14:59-07:00"
+    },
+    {
+      "title": "SellerClaw",
+      "url": "https://www.producthunt.com/products/sellerclaw",
+      "tagline": "",
+      "pub_date": "2026-05-25T14:03:03-07:00"
+    },
+    {
       "title": "Microsoft MAI-Voice-2",
       "url": "https://www.producthunt.com/products/mai-image-2-3",
       "tagline": "",
       "pub_date": "2026-06-04T14:38:54-07:00"
-    },
-    {
-      "title": "FloatPic",
-      "url": "https://www.producthunt.com/products/floatpic",
-      "tagline": "",
-      "pub_date": "2026-06-03T21:45:58-07:00"
     },
     {
       "title": "Recursi",
@@ -254,16 +302,16 @@
       "pub_date": "2026-06-04T10:18:43-07:00"
     },
     {
-      "title": "Lumo Studios",
-      "url": "https://www.producthunt.com/products/lumo-studios",
-      "tagline": "",
-      "pub_date": "2026-04-25T12:22:27-07:00"
-    },
-    {
       "title": "VisionSync",
       "url": "https://www.producthunt.com/products/visionsync",
       "tagline": "",
       "pub_date": "2026-06-04T09:57:47-07:00"
+    },
+    {
+      "title": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
+      "tagline": "",
+      "pub_date": "2026-06-04T04:54:13-07:00"
     },
     {
       "title": "Agent Browser Shield",
@@ -272,46 +320,34 @@
       "pub_date": "2026-06-04T13:50:10-07:00"
     },
     {
-      "title": "Treadmill Pro",
-      "url": "https://www.producthunt.com/products/treadmill-pro",
+      "title": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
       "tagline": "",
-      "pub_date": "2026-06-04T09:59:38-07:00"
+      "pub_date": "2026-05-21T01:17:52-07:00"
     },
     {
-      "title": "Mailwarm 2.0",
-      "url": "https://www.producthunt.com/products/mailwarm",
+      "title": "Lumo Studios",
+      "url": "https://www.producthunt.com/products/lumo-studios",
       "tagline": "",
-      "pub_date": "2026-05-11T01:28:25-07:00"
+      "pub_date": "2026-04-25T12:22:27-07:00"
     },
     {
-      "title": "Koji by Brilliant",
-      "url": "https://www.producthunt.com/products/brilliant",
+      "title": "LocalClicky",
+      "url": "https://www.producthunt.com/products/localclicky",
       "tagline": "",
-      "pub_date": "2026-05-29T14:10:25-07:00"
+      "pub_date": "2026-06-04T23:26:21-07:00"
     },
     {
-      "title": "Keen Code",
-      "url": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
+      "title": "FloatPic",
+      "url": "https://www.producthunt.com/products/floatpic",
       "tagline": "",
-      "pub_date": "2026-06-03T07:44:19-07:00"
+      "pub_date": "2026-06-03T21:45:58-07:00"
     },
     {
-      "title": "Gather",
-      "url": "https://www.producthunt.com/products/gather-14",
+      "title": "Basedash Semantic Layer",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-06-01T11:42:16-07:00"
-    },
-    {
-      "title": "Build Club Campus",
-      "url": "https://www.producthunt.com/products/build-club",
-      "tagline": "",
-      "pub_date": "2026-06-01T10:30:21-07:00"
-    },
-    {
-      "title": "TimeTuna.com",
-      "url": "https://www.producthunt.com/products/bookva-ai",
-      "tagline": "",
-      "pub_date": "2026-06-03T02:23:41-07:00"
+      "pub_date": "2026-06-03T11:53:04-07:00"
     }
   ]
 }

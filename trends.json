@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:29:56.433Z",
+  "generated_at": "2026-06-09T09:28:24.261Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,17 +7,17 @@
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
       "hn_url": "https://news.ycombinator.com/item?id=48445554",
-      "points": 800,
-      "comments": 156,
+      "points": 972,
+      "comments": 178,
       "created_ts": 1780927516,
       "author": "lizhang"
     },
     {
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
       "url": "https://gitdot.io/",
       "hn_url": "https://news.ycombinator.com/item?id=48447806",
-      "points": 158,
-      "comments": 127,
+      "points": 255,
+      "comments": 222,
       "created_ts": 1780937531,
       "author": "baepaul"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: Command Center, the AI coding env for people who care about quality",
       "url": "https://www.cc.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=48453002",
-      "points": 38,
-      "comments": 11,
+      "points": 49,
+      "comments": 21,
       "created_ts": 1780956618,
       "author": "Darmani"
     },
@@ -34,7 +34,7 @@
       "title": "Show HN: AI Pair Programmer for Emacs",
       "url": "https://github.com/jaketothepast/codetutor",
       "hn_url": "https://news.ycombinator.com/item?id=48449430",
-      "points": 30,
+      "points": 32,
       "comments": 0,
       "created_ts": 1780943661,
       "author": "jakewindle47"
@@ -43,8 +43,8 @@
       "title": "Show HN: Mach – A compiled systems language looking for contributions",
       "url": "https://github.com/octalide/mach",
       "hn_url": "https://news.ycombinator.com/item?id=48453666",
-      "points": 17,
-      "comments": 5,
+      "points": 25,
+      "comments": 13,
       "created_ts": 1780959920,
       "author": "octalide"
     },
@@ -52,8 +52,8 @@
       "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
       "url": "https://www.blockchainednovel.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48447484",
-      "points": 17,
-      "comments": 4,
+      "points": 18,
+      "comments": 5,
       "created_ts": 1780936178,
       "author": "mck-"
     },
@@ -61,10 +61,28 @@
       "title": "Show HN: HTTP/3 and raw QUIC client/server APIs for Node.js",
       "url": "https://github.com/currentspace/http3",
       "hn_url": "https://news.ycombinator.com/item?id=48449498",
-      "points": 12,
+      "points": 13,
       "comments": 0,
       "created_ts": 1780943918,
       "author": "brian_meek"
+    },
+    {
+      "title": "Show HN: Quick games disguised as boring spreadsheets",
+      "url": "https://boredspreadsheet.com/workbook",
+      "hn_url": "https://news.ycombinator.com/item?id=48447238",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1780935205,
+      "author": "kevinclelland"
+    },
+    {
+      "title": "Show HN: Rayline routes Claude Code subagents to on-device and cheaper models",
+      "url": "https://rayline.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48448372",
+      "points": 11,
+      "comments": 8,
+      "created_ts": 1780939962,
+      "author": "davidvgilmore"
     }
   ],
   "hn_front": [
@@ -72,26 +90,35 @@
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
       "hn_url": "https://news.ycombinator.com/item?id=48445554",
-      "points": 800,
-      "comments": 156,
+      "points": 972,
+      "comments": 178,
       "created_ts": 1780927516,
       "author": "lizhang"
     },
     {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "hn_url": "https://news.ycombinator.com/item?id=48444228",
-      "points": 557,
-      "comments": 413,
-      "created_ts": 1780919882,
-      "author": "1vuio0pswjnm7"
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "hn_url": "https://news.ycombinator.com/item?id=48450142",
+      "points": 587,
+      "comments": 448,
+      "created_ts": 1780946087,
+      "author": "unclefuzzy"
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "hn_url": "https://news.ycombinator.com/item?id=48449084",
+      "points": 571,
+      "comments": 527,
+      "created_ts": 1780942673,
+      "author": "0xedb"
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "hn_url": "https://news.ycombinator.com/item?id=48446639",
-      "points": 503,
-      "comments": 350,
+      "points": 567,
+      "comments": 418,
       "created_ts": 1780932453,
       "author": "gainsurier"
     },
@@ -99,135 +126,306 @@
       "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
       "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=48450646",
-      "points": 434,
-      "comments": 160,
+      "points": 564,
+      "comments": 207,
       "created_ts": 1780947748,
       "author": "g0xA52A2A"
-    },
-    {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=48449084",
-      "points": 425,
-      "comments": 374,
-      "created_ts": 1780942673,
-      "author": "0xedb"
-    },
-    {
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "hn_url": "https://news.ycombinator.com/item?id=48446893",
-      "points": 413,
-      "comments": 437,
-      "created_ts": 1780933597,
-      "author": "crescit_eundo"
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "hn_url": "https://news.ycombinator.com/item?id=48446428",
-      "points": 407,
-      "comments": 323,
+      "points": 556,
+      "comments": 435,
       "created_ts": 1780931623,
       "author": "martinald"
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "hn_url": "https://news.ycombinator.com/item?id=48450142",
-      "points": 358,
-      "comments": 323,
-      "created_ts": 1780946087,
-      "author": "unclefuzzy"
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "hn_url": "https://news.ycombinator.com/item?id=48452317",
-      "points": 302,
-      "comments": 219,
-      "created_ts": 1780953763,
-      "author": "hackerBanana"
-    },
-    {
-      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
-      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "hn_url": "https://news.ycombinator.com/item?id=48448012",
-      "points": 290,
-      "comments": 49,
-      "created_ts": 1780938453,
-      "author": "01-_-"
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "hn_url": "https://news.ycombinator.com/item?id=48446893",
+      "points": 547,
+      "comments": 566,
+      "created_ts": 1780933597,
+      "author": "crescit_eundo"
     },
     {
       "title": "EU-banned pesticides found in rice, tea and spices",
       "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
       "hn_url": "https://news.ycombinator.com/item?id=48447062",
-      "points": 248,
-      "comments": 90,
+      "points": 408,
+      "comments": 181,
       "created_ts": 1780934344,
       "author": "john-titor"
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48449665",
-      "points": 206,
-      "comments": 44,
-      "created_ts": 1780944458,
-      "author": "hmokiguess"
-    },
-    {
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=48447806",
-      "points": 158,
-      "comments": 127,
-      "created_ts": 1780937531,
-      "author": "baepaul"
     },
     {
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
       "url": "https://news.ycombinator.com/item?id=48449187",
       "hn_url": "https://news.ycombinator.com/item?id=48449187",
-      "points": 156,
-      "comments": 287,
+      "points": 299,
+      "comments": 488,
       "created_ts": 1780942959,
       "author": "aryamaan"
     },
     {
-      "title": "Why are cells small?",
-      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "hn_url": "https://news.ycombinator.com/item?id=48450065",
-      "points": 110,
-      "comments": 52,
-      "created_ts": 1780945827,
-      "author": "mailyk"
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48449665",
+      "points": 295,
+      "comments": 75,
+      "created_ts": 1780944458,
+      "author": "hmokiguess"
+    },
+    {
+      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447806",
+      "points": 255,
+      "comments": 222,
+      "created_ts": 1780937531,
+      "author": "baepaul"
     },
     {
       "title": "FrontierCode",
       "url": "https://cognition.ai/blog/frontier-code",
       "hn_url": "https://news.ycombinator.com/item?id=48451723",
-      "points": 106,
-      "comments": 19,
+      "points": 189,
+      "comments": 33,
       "created_ts": 1780951503,
       "author": "streamer45"
+    },
+    {
+      "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+      "url": "https://news.ycombinator.com/item?id=48448313",
+      "hn_url": "https://news.ycombinator.com/item?id=48448313",
+      "points": 167,
+      "comments": 140,
+      "created_ts": 1780939709,
+      "author": "mdni007"
+    },
+    {
+      "title": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "hn_url": "https://news.ycombinator.com/item?id=48455928",
+      "points": 157,
+      "comments": 124,
+      "created_ts": 1780975240,
+      "author": "mooreds"
+    },
+    {
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "hn_url": "https://news.ycombinator.com/item?id=48450065",
+      "points": 148,
+      "comments": 68,
+      "created_ts": 1780945827,
+      "author": "mailyk"
+    },
+    {
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "hn_url": "https://news.ycombinator.com/item?id=48457181",
+      "points": 111,
+      "comments": 35,
+      "created_ts": 1780985660,
+      "author": "vrganj"
+    },
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48457830",
+      "points": 110,
+      "comments": 38,
+      "created_ts": 1780990396,
+      "author": "raffael_de"
     },
     {
       "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
       "url": "https://intunedhq.com",
       "hn_url": "https://news.ycombinator.com/item?id=48445171",
-      "points": 102,
-      "comments": 44,
+      "points": 106,
+      "comments": 48,
       "created_ts": 1780925727,
       "author": "fkilaiwi"
+    },
+    {
+      "title": "Old'aVista – The most powerful guide to the old Internet",
+      "url": "https://oldavista.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48447111",
+      "points": 103,
+      "comments": 21,
+      "created_ts": 1780934530,
+      "author": "abnercoimbre"
     }
   ],
   "ph_today": [
     {
-      "title": "Browse.sh",
-      "url": "https://www.producthunt.com/products/browserbase",
+      "title": "prostir zvuku",
+      "url": "https://www.producthunt.com/products/prostir-zvuku",
       "tagline": "",
-      "pub_date": "2026-05-21T07:03:19-07:00"
+      "pub_date": "2026-05-19T09:08:24-07:00"
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "tagline": "",
+      "pub_date": "2026-06-08T20:15:05-07:00"
+    },
+    {
+      "title": "hora Calendar",
+      "url": "https://www.producthunt.com/products/hora-calendar",
+      "tagline": "",
+      "pub_date": "2026-04-14T06:28:47-07:00"
+    },
+    {
+      "title": "TrakMac",
+      "url": "https://www.producthunt.com/products/trakmac",
+      "tagline": "",
+      "pub_date": "2026-06-05T17:12:50-07:00"
+    },
+    {
+      "title": "TravelMind",
+      "url": "https://www.producthunt.com/products/travelmind-city-discovery-reimagined",
+      "tagline": "",
+      "pub_date": "2025-12-29T02:18:31-08:00"
+    },
+    {
+      "title": "Uiverse Design",
+      "url": "https://www.producthunt.com/products/uiverse-io",
+      "tagline": "",
+      "pub_date": "2026-06-08T13:01:02-07:00"
+    },
+    {
+      "title": "Log Cam",
+      "url": "https://www.producthunt.com/products/log-cam-open-gate-by-raw-cam",
+      "tagline": "",
+      "pub_date": "2026-06-03T06:41:14-07:00"
+    },
+    {
+      "title": "Solarch",
+      "url": "https://www.producthunt.com/products/solarch",
+      "tagline": "",
+      "pub_date": "2026-06-07T18:48:48-07:00"
+    },
+    {
+      "title": "Krisp Voice Translation API",
+      "url": "https://www.producthunt.com/products/krisp",
+      "tagline": "",
+      "pub_date": "2026-06-05T02:00:00-07:00"
+    },
+    {
+      "title": "Nodrix",
+      "url": "https://www.producthunt.com/products/nodrix",
+      "tagline": "",
+      "pub_date": "2026-05-27T03:50:51-07:00"
+    },
+    {
+      "title": "Pixel Snapper",
+      "url": "https://www.producthunt.com/products/pixel-snapper",
+      "tagline": "",
+      "pub_date": "2026-06-08T00:58:59-07:00"
+    },
+    {
+      "title": "NudgeFile",
+      "url": "https://www.producthunt.com/products/nudgefile",
+      "tagline": "",
+      "pub_date": "2026-06-08T08:31:56-07:00"
+    },
+    {
+      "title": "ChocolateBar",
+      "url": "https://www.producthunt.com/products/chocolatebar",
+      "tagline": "",
+      "pub_date": "2026-06-03T02:07:06-07:00"
+    },
+    {
+      "title": "Signal Recorder SR-7",
+      "url": "https://www.producthunt.com/products/signal-recorder-sr-7",
+      "tagline": "",
+      "pub_date": "2026-06-06T17:20:50-07:00"
+    },
+    {
+      "title": "agmsg",
+      "url": "https://www.producthunt.com/products/agmsg",
+      "tagline": "",
+      "pub_date": "2026-06-06T20:17:24-07:00"
+    },
+    {
+      "title": "Mic Drop 3.0",
+      "url": "https://www.producthunt.com/products/mic-drop",
+      "tagline": "",
+      "pub_date": "2026-06-01T10:18:18-07:00"
+    },
+    {
+      "title": "agentcad",
+      "url": "https://www.producthunt.com/products/agentcad",
+      "tagline": "",
+      "pub_date": "2026-06-07T03:53:08-07:00"
+    },
+    {
+      "title": "Whistle",
+      "url": "https://www.producthunt.com/products/whistle-ai-workout-planner",
+      "tagline": "",
+      "pub_date": "2026-05-27T06:41:30-07:00"
+    },
+    {
+      "title": "Overly",
+      "url": "https://www.producthunt.com/products/overly-smart-study-layer",
+      "tagline": "",
+      "pub_date": "2026-05-15T05:47:57-07:00"
+    },
+    {
+      "title": "VC Boom",
+      "url": "https://www.producthunt.com/products/vcboom",
+      "tagline": "",
+      "pub_date": "2026-06-04T08:28:52-07:00"
+    },
+    {
+      "title": "ZeroGPU",
+      "url": "https://www.producthunt.com/products/zerogpu",
+      "tagline": "",
+      "pub_date": "2026-06-05T12:45:18-07:00"
+    },
+    {
+      "title": "Cove for Mac",
+      "url": "https://www.producthunt.com/products/cove-for-mac",
+      "tagline": "",
+      "pub_date": "2026-06-08T12:37:43-07:00"
+    },
+    {
+      "title": "BooBar",
+      "url": "https://www.producthunt.com/products/boobar",
+      "tagline": "",
+      "pub_date": "2026-06-05T02:36:52-07:00"
+    },
+    {
+      "title": "Reve 2.0",
+      "url": "https://www.producthunt.com/products/reve-2-0",
+      "tagline": "",
+      "pub_date": "2026-06-05T08:43:07-07:00"
+    },
+    {
+      "title": "OrchestraML",
+      "url": "https://www.producthunt.com/products/orchestraml",
+      "tagline": "",
+      "pub_date": "2026-06-08T06:12:55-07:00"
+    },
+    {
+      "title": "AgentOS",
+      "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+      "tagline": "",
+      "pub_date": "2026-06-08T14:45:38-07:00"
+    },
+    {
+      "title": "Fluido",
+      "url": "https://www.producthunt.com/products/fluido",
+      "tagline": "",
+      "pub_date": "2026-06-08T23:20:18-07:00"
+    },
+    {
+      "title": "Limelight",
+      "url": "https://www.producthunt.com/products/limelight-4",
+      "tagline": "",
+      "pub_date": "2026-06-08T05:52:49-07:00"
     },
     {
       "title": "Sigma File Manager",
@@ -236,172 +434,10 @@
       "pub_date": "2026-06-02T07:46:57-07:00"
     },
     {
-      "title": "Tamadoggo",
-      "url": "https://www.producthunt.com/products/tamadoggo",
-      "tagline": "",
-      "pub_date": "2026-06-07T09:39:30-07:00"
-    },
-    {
-      "title": "Vaani",
-      "url": "https://www.producthunt.com/products/vaani-2",
-      "tagline": "",
-      "pub_date": "2026-06-06T23:15:39-07:00"
-    },
-    {
-      "title": "Honen",
-      "url": "https://www.producthunt.com/products/honen",
-      "tagline": "",
-      "pub_date": "2026-05-29T07:42:43-07:00"
-    },
-    {
       "title": "NTSC-RS",
       "url": "https://www.producthunt.com/products/ntsc-rs",
       "tagline": "",
       "pub_date": "2026-06-07T22:18:36-07:00"
-    },
-    {
-      "title": "Supaste",
-      "url": "https://www.producthunt.com/products/supaste",
-      "tagline": "",
-      "pub_date": "2026-06-02T12:41:46-07:00"
-    },
-    {
-      "title": "The Virtual OS Museum",
-      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
-      "tagline": "",
-      "pub_date": "2026-06-07T21:41:15-07:00"
-    },
-    {
-      "title": "CabinLink",
-      "url": "https://www.producthunt.com/products/cabinlink",
-      "tagline": "",
-      "pub_date": "2026-06-04T14:23:43-07:00"
-    },
-    {
-      "title": "Wave",
-      "url": "https://www.producthunt.com/products/wave-16",
-      "tagline": "",
-      "pub_date": "2026-04-19T01:50:31-07:00"
-    },
-    {
-      "title": "Smmall Cloud for iOS",
-      "url": "https://www.producthunt.com/products/smmall-cloud",
-      "tagline": "",
-      "pub_date": "2026-06-04T09:26:25-07:00"
-    },
-    {
-      "title": "Dreambeans by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "tagline": "",
-      "pub_date": "2026-06-03T09:29:48-07:00"
-    },
-    {
-      "title": "Job Postings API",
-      "url": "https://www.producthunt.com/products/free-job-postings-api",
-      "tagline": "",
-      "pub_date": "2026-06-06T13:32:22-07:00"
-    },
-    {
-      "title": "Navi+ Menu Builder",
-      "url": "https://www.producthunt.com/products/navi-menu-builder",
-      "tagline": "",
-      "pub_date": "2026-06-05T03:40:09-07:00"
-    },
-    {
-      "title": "Gaming services by IFTTT",
-      "url": "https://www.producthunt.com/products/ifttt",
-      "tagline": "",
-      "pub_date": "2026-06-04T12:54:09-07:00"
-    },
-    {
-      "title": "QWERTYS by Smart Keys",
-      "url": "https://www.producthunt.com/products/qwertys",
-      "tagline": "",
-      "pub_date": "2026-06-05T12:12:55-07:00"
-    },
-    {
-      "title": "Manus Shopify Connector",
-      "url": "https://www.producthunt.com/products/manus-shopify-connector",
-      "tagline": "",
-      "pub_date": "2026-06-04T08:34:33-07:00"
-    },
-    {
-      "title": "Fox Issue Tracker 4",
-      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
-      "tagline": "",
-      "pub_date": "2026-05-28T19:22:42-07:00"
-    },
-    {
-      "title": "MAI-Image-2.5",
-      "url": "https://www.producthunt.com/products/mai-image-2-5",
-      "tagline": "",
-      "pub_date": "2026-06-03T20:20:01-07:00"
-    },
-    {
-      "title": "Google Search Profiles",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-06-04T12:56:28-07:00"
-    },
-    {
-      "title": "Lumo Studios",
-      "url": "https://www.producthunt.com/products/lumo-studios",
-      "tagline": "",
-      "pub_date": "2026-04-25T12:22:27-07:00"
-    },
-    {
-      "title": "LocalClicky",
-      "url": "https://www.producthunt.com/products/localclicky",
-      "tagline": "",
-      "pub_date": "2026-06-04T23:26:21-07:00"
-    },
-    {
-      "title": "VisionSync",
-      "url": "https://www.producthunt.com/products/visionsync",
-      "tagline": "",
-      "pub_date": "2026-06-04T09:57:47-07:00"
-    },
-    {
-      "title": "SellerClaw",
-      "url": "https://www.producthunt.com/products/sellerclaw",
-      "tagline": "",
-      "pub_date": "2026-05-25T14:03:03-07:00"
-    },
-    {
-      "title": "Agent Mode on Arena",
-      "url": "https://www.producthunt.com/products/arena-5",
-      "tagline": "",
-      "pub_date": "2026-06-01T11:22:20-07:00"
-    },
-    {
-      "title": "Veltrix AI",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
-      "tagline": "",
-      "pub_date": "2026-05-21T01:17:52-07:00"
-    },
-    {
-      "title": "Leni",
-      "url": "https://www.producthunt.com/products/leni",
-      "tagline": "",
-      "pub_date": "2026-06-04T04:54:13-07:00"
-    },
-    {
-      "title": "Clarafy",
-      "url": "https://www.producthunt.com/products/clarafy",
-      "tagline": "",
-      "pub_date": "2026-06-04T10:33:12-07:00"
-    },
-    {
-      "title": "Recursi",
-      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
-      "tagline": "",
-      "pub_date": "2026-06-04T10:18:43-07:00"
-    },
-    {
-      "title": "Agent Browser Shield",
-      "url": "https://www.producthunt.com/products/agent-browser-shield",
-      "tagline": "",
-      "pub_date": "2026-06-04T13:50:10-07:00"
     }
   ]
 }

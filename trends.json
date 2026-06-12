@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T02:49:52.099Z",
+  "generated_at": "2026-06-12T09:59:30.147Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "hn_url": "https://news.ycombinator.com/item?id=48490024",
-      "points": 1017,
-      "comments": 241,
+      "points": 1230,
+      "comments": 285,
       "created_ts": 1781184269,
       "author": "mikemcquaid"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
       "url": "https://fablepool.com",
       "hn_url": "https://news.ycombinator.com/item?id=48496539",
-      "points": 267,
-      "comments": 154,
+      "points": 397,
+      "comments": 215,
       "created_ts": 1781212650,
       "author": "matthewbarras"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
       "url": "https://github.com/coder/boo",
       "hn_url": "https://news.ycombinator.com/item?id=48496250",
-      "points": 52,
-      "comments": 20,
+      "points": 76,
+      "comments": 25,
       "created_ts": 1781211146,
       "author": "kylecarbs"
     },
@@ -38,15 +38,6 @@
       "comments": 3,
       "created_ts": 1781190582,
       "author": "leetvibecoder"
-    },
-    {
-      "title": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
-      "url": "https://redflag-check.info",
-      "hn_url": "https://news.ycombinator.com/item?id=48486484",
-      "points": 12,
-      "comments": 3,
-      "created_ts": 1781154972,
-      "author": "vedant28t"
     }
   ],
   "hn_front": [
@@ -54,71 +45,98 @@
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "hn_url": "https://news.ycombinator.com/item?id=48490024",
-      "points": 1017,
-      "comments": 241,
+      "points": 1230,
+      "comments": 285,
       "created_ts": 1781184269,
       "author": "mikemcquaid"
-    },
-    {
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "hn_url": "https://news.ycombinator.com/item?id=48490826",
-      "points": 432,
-      "comments": 248,
-      "created_ts": 1781188039,
-      "author": "apeters"
-    },
-    {
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "hn_url": "https://news.ycombinator.com/item?id=48491830",
-      "points": 374,
-      "comments": 127,
-      "created_ts": 1781192243,
-      "author": "hmokiguess"
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "hn_url": "https://news.ycombinator.com/item?id=48489402",
-      "points": 365,
-      "comments": 248,
-      "created_ts": 1781180802,
-      "author": "RyeCombinator"
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "hn_url": "https://news.ycombinator.com/item?id=48489229",
-      "points": 328,
-      "comments": 325,
-      "created_ts": 1781179502,
-      "author": "rarisma"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
       "hn_url": "https://news.ycombinator.com/item?id=48497609",
-      "points": 309,
-      "comments": 86,
+      "points": 739,
+      "comments": 242,
       "created_ts": 1781218915,
       "author": "jjfoooo4"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "hn_url": "https://news.ycombinator.com/item?id=48500012",
+      "points": 558,
+      "comments": 207,
+      "created_ts": 1781239373,
+      "author": "xiaoyu2006"
+    },
+    {
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "hn_url": "https://news.ycombinator.com/item?id=48490826",
+      "points": 496,
+      "comments": 273,
+      "created_ts": 1781188039,
+      "author": "apeters"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48498385",
+      "points": 460,
+      "comments": 153,
+      "created_ts": 1781224691,
+      "author": "sam_bristow"
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "hn_url": "https://news.ycombinator.com/item?id=48498573",
+      "points": 439,
+      "comments": 342,
+      "created_ts": 1781226411,
+      "author": "lumpa"
+    },
+    {
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "hn_url": "https://news.ycombinator.com/item?id=48491830",
+      "points": 437,
+      "comments": 144,
+      "created_ts": 1781192243,
+      "author": "hmokiguess"
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "hn_url": "https://news.ycombinator.com/item?id=48489229",
+      "points": 421,
+      "comments": 385,
+      "created_ts": 1781179502,
+      "author": "rarisma"
     },
     {
       "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
       "url": "https://fablepool.com",
       "hn_url": "https://news.ycombinator.com/item?id=48496539",
-      "points": 267,
-      "comments": 154,
+      "points": 397,
+      "comments": 215,
       "created_ts": 1781212650,
       "author": "matthewbarras"
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "hn_url": "https://news.ycombinator.com/item?id=48489402",
+      "points": 393,
+      "comments": 275,
+      "created_ts": 1781180802,
+      "author": "RyeCombinator"
     },
     {
       "title": "Claude Fable 5: mid-tier results on coding tasks",
       "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
       "hn_url": "https://news.ycombinator.com/item?id=48492210",
-      "points": 247,
-      "comments": 111,
+      "points": 320,
+      "comments": 151,
       "created_ts": 1781193801,
       "author": "bugvader"
     },
@@ -126,8 +144,8 @@
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",
       "hn_url": "https://news.ycombinator.com/item?id=48492215",
-      "points": 230,
-      "comments": 100,
+      "points": 271,
+      "comments": 116,
       "created_ts": 1781193820,
       "author": "MrBruh"
     },
@@ -135,72 +153,156 @@
       "title": "Software is made between commits",
       "url": "https://zed.dev/blog/introducing-deltadb",
       "hn_url": "https://news.ycombinator.com/item?id=48492533",
-      "points": 211,
-      "comments": 162,
+      "points": 260,
+      "comments": 189,
       "created_ts": 1781195304,
       "author": "jeremy_k"
-    },
-    {
-      "title": "Open Reproduction of DeepSeek-R1",
-      "url": "https://github.com/huggingface/open-r1",
-      "hn_url": "https://news.ycombinator.com/item?id=48489917",
-      "points": 205,
-      "comments": 17,
-      "created_ts": 1781183671,
-      "author": "yogthos"
     },
     {
       "title": "Waymo Premier",
       "url": "https://waymo.com/blog/2026/06/waymo-premier/",
       "hn_url": "https://news.ycombinator.com/item?id=48492304",
-      "points": 157,
-      "comments": 409,
+      "points": 190,
+      "comments": 461,
       "created_ts": 1781194202,
       "author": "boulos"
     },
     {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=48498385",
-      "points": 121,
-      "comments": 38,
-      "created_ts": 1781224691,
-      "author": "sam_bristow"
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48493564",
+      "points": 133,
+      "comments": 18,
+      "created_ts": 1781199319,
+      "author": "geerlingguy"
     },
     {
-      "title": "FPS.cob: A first person shooter in COBOL",
-      "url": "https://github.com/icitry/FPS.cob",
-      "hn_url": "https://news.ycombinator.com/item?id=48491486",
-      "points": 107,
-      "comments": 63,
-      "created_ts": 1781190837,
-      "author": "MBCook"
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "hn_url": "https://news.ycombinator.com/item?id=48500404",
+      "points": 116,
+      "comments": 103,
+      "created_ts": 1781243599,
+      "author": "dotcoma"
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "hn_url": "https://news.ycombinator.com/item?id=48497576",
+      "points": 108,
+      "comments": 68,
+      "created_ts": 1781218762,
+      "author": "ilreb"
     }
   ],
   "ph_today": [
     {
-      "title": "Asmi AI",
-      "url": "https://www.producthunt.com/products/asmi-ai",
+      "title": "Medicyn",
+      "url": "https://www.producthunt.com/products/medicyn",
       "tagline": "",
-      "pub_date": "2026-06-09T07:42:15-07:00"
+      "pub_date": "2026-06-11T23:47:32-07:00"
     },
     {
-      "title": "Respan Gateway",
-      "url": "https://www.producthunt.com/products/keywords-ai",
+      "title": "Insta360 Luna Ultra",
+      "url": "https://www.producthunt.com/products/insta-360",
       "tagline": "",
-      "pub_date": "2026-06-06T13:52:00-07:00"
+      "pub_date": "2026-06-11T01:01:45-07:00"
     },
     {
-      "title": "Riven",
-      "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+      "title": "pleNx — Plex client for Nintendo Switch",
+      "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
       "tagline": "",
-      "pub_date": "2026-06-10T11:22:31-07:00"
+      "pub_date": "2026-06-11T03:44:23-07:00"
     },
     {
-      "title": "heyly.io",
-      "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
+      "title": "ShellMate",
+      "url": "https://www.producthunt.com/products/shellmate-2",
       "tagline": "",
-      "pub_date": "2026-06-10T06:42:09-07:00"
+      "pub_date": "2026-06-11T11:43:32-07:00"
+    },
+    {
+      "title": "Tide",
+      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "tagline": "",
+      "pub_date": "2026-06-11T11:08:04-07:00"
+    },
+    {
+      "title": "Bob's CLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "tagline": "",
+      "pub_date": "2026-06-11T20:34:56-07:00"
+    },
+    {
+      "title": "Slack AI Data Analyst",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-06-11T21:35:06-07:00"
+    },
+    {
+      "title": "HyperSleep",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "tagline": "",
+      "pub_date": "2026-06-11T00:30:37-07:00"
+    },
+    {
+      "title": "CueBuddy",
+      "url": "https://www.producthunt.com/products/cuebuddy",
+      "tagline": "",
+      "pub_date": "2026-06-11T20:34:08-07:00"
+    },
+    {
+      "title": "Clutch Alarm",
+      "url": "https://www.producthunt.com/products/clutch-alarm",
+      "tagline": "",
+      "pub_date": "2026-06-11T11:39:38-07:00"
+    },
+    {
+      "title": "Qursor",
+      "url": "https://www.producthunt.com/products/qursor",
+      "tagline": "",
+      "pub_date": "2026-06-11T23:12:20-07:00"
+    },
+    {
+      "title": "Meet Warren 3.0",
+      "url": "https://www.producthunt.com/products/underpay",
+      "tagline": "",
+      "pub_date": "2026-06-11T04:04:31-07:00"
+    },
+    {
+      "title": "LocIn AI",
+      "url": "https://www.producthunt.com/products/locin-ai",
+      "tagline": "",
+      "pub_date": "2026-06-11T13:04:57-07:00"
+    },
+    {
+      "title": "Pond",
+      "url": "https://www.producthunt.com/products/pond-5",
+      "tagline": "",
+      "pub_date": "2026-06-07T17:28:00-07:00"
+    },
+    {
+      "title": "Keep",
+      "url": "https://www.producthunt.com/products/keep-8",
+      "tagline": "",
+      "pub_date": "2026-06-11T23:45:17-07:00"
+    },
+    {
+      "title": "Firma.dev",
+      "url": "https://www.producthunt.com/products/firma-dev",
+      "tagline": "",
+      "pub_date": "2026-06-08T08:48:32-07:00"
+    },
+    {
+      "title": "KOSH Money",
+      "url": "https://www.producthunt.com/products/kosh-money",
+      "tagline": "",
+      "pub_date": "2026-06-11T02:01:13-07:00"
+    },
+    {
+      "title": "NODUS PH Radar for Product Hunt",
+      "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "tagline": "",
+      "pub_date": "2026-06-08T14:47:33-07:00"
     },
     {
       "title": "Patchrooms",
@@ -209,22 +311,10 @@
       "pub_date": "2026-06-10T05:59:38-07:00"
     },
     {
-      "title": "Onpilot",
-      "url": "https://www.producthunt.com/products/onpilot-ai",
+      "title": "heyly.io",
+      "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
       "tagline": "",
-      "pub_date": "2026-06-10T10:12:13-07:00"
-    },
-    {
-      "title": "DockLog",
-      "url": "https://www.producthunt.com/products/docklog",
-      "tagline": "",
-      "pub_date": "2026-06-10T18:14:09-07:00"
-    },
-    {
-      "title": "Bugpilot",
-      "url": "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown",
-      "tagline": "",
-      "pub_date": "2026-06-10T03:43:55-07:00"
+      "pub_date": "2026-06-10T06:42:09-07:00"
     },
     {
       "title": "Juno",
@@ -233,106 +323,10 @@
       "pub_date": "2026-06-08T09:19:04-07:00"
     },
     {
-      "title": "Journey Now",
-      "url": "https://www.producthunt.com/products/journey-now",
-      "tagline": "",
-      "pub_date": "2026-05-27T04:43:16-07:00"
-    },
-    {
-      "title": "Nodey",
-      "url": "https://www.producthunt.com/products/nodey-n8n-in-your-pocket",
-      "tagline": "",
-      "pub_date": "2026-05-13T13:56:09-07:00"
-    },
-    {
-      "title": "SlimSnap",
-      "url": "https://www.producthunt.com/products/slimsnap",
-      "tagline": "",
-      "pub_date": "2026-06-10T01:43:39-07:00"
-    },
-    {
-      "title": "Cloudskill",
-      "url": "https://www.producthunt.com/products/cloudskill",
-      "tagline": "",
-      "pub_date": "2026-06-10T21:32:54-07:00"
-    },
-    {
-      "title": "EndpointMe",
-      "url": "https://www.producthunt.com/products/endpointme",
-      "tagline": "",
-      "pub_date": "2026-06-10T02:22:20-07:00"
-    },
-    {
-      "title": "CrustRecruiter",
-      "url": "https://www.producthunt.com/products/crustdata-2",
-      "tagline": "",
-      "pub_date": "2026-06-10T04:49:14-07:00"
-    },
-    {
       "title": "Easybilling",
       "url": "https://www.producthunt.com/products/easybilling",
       "tagline": "",
       "pub_date": "2026-06-10T00:48:40-07:00"
-    },
-    {
-      "title": "SpatialChat",
-      "url": "https://www.producthunt.com/products/spatialchat",
-      "tagline": "",
-      "pub_date": "2026-06-10T11:13:58-07:00"
-    },
-    {
-      "title": "Terminal Mode by Even Realities",
-      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
-      "tagline": "",
-      "pub_date": "2026-06-10T06:18:51-07:00"
-    },
-    {
-      "title": "INVO Ride",
-      "url": "https://www.producthunt.com/products/invo-ride",
-      "tagline": "",
-      "pub_date": "2026-06-09T23:21:29-07:00"
-    },
-    {
-      "title": "Proxee",
-      "url": "https://www.producthunt.com/products/proxee",
-      "tagline": "",
-      "pub_date": "2026-06-09T01:53:28-07:00"
-    },
-    {
-      "title": "Bond",
-      "url": "https://www.producthunt.com/products/bond-12",
-      "tagline": "",
-      "pub_date": "2026-06-10T11:43:49-07:00"
-    },
-    {
-      "title": "Tabstack Structured Extraction",
-      "url": "https://www.producthunt.com/products/tabstack",
-      "tagline": "",
-      "pub_date": "2026-06-09T23:04:01-07:00"
-    },
-    {
-      "title": "OwnClip",
-      "url": "https://www.producthunt.com/products/ownclip",
-      "tagline": "",
-      "pub_date": "2026-06-10T02:17:56-07:00"
-    },
-    {
-      "title": "Airbrush Studio",
-      "url": "https://www.producthunt.com/products/airbrush-studio",
-      "tagline": "",
-      "pub_date": "2026-06-10T02:15:09-07:00"
-    },
-    {
-      "title": "PixelForge",
-      "url": "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game",
-      "tagline": "",
-      "pub_date": "2026-06-10T13:27:49-07:00"
-    },
-    {
-      "title": "Lium AI",
-      "url": "https://www.producthunt.com/products/lium",
-      "tagline": "",
-      "pub_date": "2026-06-07T09:06:24-07:00"
     },
     {
       "title": "Mute",
@@ -341,22 +335,46 @@
       "pub_date": "2026-06-10T16:11:47-07:00"
     },
     {
-      "title": "Slashspace AI",
-      "url": "https://www.producthunt.com/products/slashspace-ai",
+      "title": "DockLog",
+      "url": "https://www.producthunt.com/products/docklog",
       "tagline": "",
-      "pub_date": "2026-05-31T19:35:17-07:00"
+      "pub_date": "2026-06-10T18:14:09-07:00"
     },
     {
-      "title": "Axol",
-      "url": "https://www.producthunt.com/products/axol",
+      "title": "SpatialChat",
+      "url": "https://www.producthunt.com/products/spatialchat",
       "tagline": "",
-      "pub_date": "2026-06-09T13:52:17-07:00"
+      "pub_date": "2026-06-10T11:13:58-07:00"
     },
     {
-      "title": "Gemini 3.5 Live Translate",
-      "url": "https://www.producthunt.com/products/gemini-3-5-live-translate",
+      "title": "Respan Gateway",
+      "url": "https://www.producthunt.com/products/keywords-ai",
       "tagline": "",
-      "pub_date": "2026-06-09T11:59:25-07:00"
+      "pub_date": "2026-06-06T13:52:00-07:00"
+    },
+    {
+      "title": "Airbrush Studio",
+      "url": "https://www.producthunt.com/products/airbrush-studio",
+      "tagline": "",
+      "pub_date": "2026-06-10T02:15:09-07:00"
+    },
+    {
+      "title": "Journey Now",
+      "url": "https://www.producthunt.com/products/journey-now",
+      "tagline": "",
+      "pub_date": "2026-05-27T04:43:16-07:00"
+    },
+    {
+      "title": "Cloudskill",
+      "url": "https://www.producthunt.com/products/cloudskill",
+      "tagline": "",
+      "pub_date": "2026-06-10T21:32:54-07:00"
+    },
+    {
+      "title": "Bugpilot",
+      "url": "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown",
+      "tagline": "",
+      "pub_date": "2026-06-10T03:43:55-07:00"
     }
   ]
 }

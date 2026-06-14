@@ -1,31 +1,40 @@
 {
-  "generated_at": "2026-06-14T13:45:48.557Z",
+  "generated_at": "2026-06-14T19:14:04.755Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "hn_url": "https://news.ycombinator.com/item?id=48529990",
+      "points": 89,
+      "comments": 27,
+      "created_ts": 1781457938,
+      "author": "tamnd"
+    },
+    {
       "title": "Show HN: I built 80 mini-games using Fable before it was shut down",
       "url": "https://minigames.world/en",
       "hn_url": "https://news.ycombinator.com/item?id=48522555",
-      "points": 51,
-      "comments": 65,
+      "points": 53,
+      "comments": 75,
       "created_ts": 1781393740,
       "author": "legocoder"
     },
     {
-      "title": "Show HN: Verso – A $14.99 Mac word processor with no subscription",
-      "url": "https://www.versowriter.app",
-      "hn_url": "https://news.ycombinator.com/item?id=48519567",
-      "points": 35,
-      "comments": 23,
-      "created_ts": 1781372632,
-      "author": "tammis08"
+      "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "hn_url": "https://news.ycombinator.com/item?id=48527623",
+      "points": 41,
+      "comments": 7,
+      "created_ts": 1781447871,
+      "author": "alebal123bal"
     },
     {
       "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
       "url": "https://github.com/ayushh0110/ScreenMind",
       "hn_url": "https://news.ycombinator.com/item?id=48522417",
-      "points": 26,
+      "points": 32,
       "comments": 4,
       "created_ts": 1781392374,
       "author": "skye0110"
@@ -34,55 +43,19 @@
       "title": "Show HN: Bastion – isolated Linux VMs for background coding agents",
       "url": "https://bastion.computer/",
       "hn_url": "https://news.ycombinator.com/item?id=48523664",
-      "points": 21,
+      "points": 24,
       "comments": 2,
       "created_ts": 1781404718,
       "author": "almostlit"
-    },
-    {
-      "title": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
-      "url": "https://brightdeck.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48518648",
-      "points": 11,
-      "comments": 2,
-      "created_ts": 1781367298,
-      "author": "mfn-throw"
     }
   ],
   "hn_front": [
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48517377",
-      "points": 851,
-      "comments": 536,
-      "created_ts": 1781358896,
-      "author": "nl"
-    },
-    {
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "hn_url": "https://news.ycombinator.com/item?id=48519092",
-      "points": 735,
-      "comments": 545,
-      "created_ts": 1781369869,
-      "author": "ls612"
-    },
-    {
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "hn_url": "https://news.ycombinator.com/item?id=48518684",
-      "points": 669,
-      "comments": 393,
-      "created_ts": 1781367511,
-      "author": "aloknnikhil"
-    },
-    {
       "title": "Honda Civics and the Evil Valet",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
       "hn_url": "https://news.ycombinator.com/item?id=48523080",
-      "points": 329,
-      "comments": 71,
+      "points": 369,
+      "comments": 89,
       "created_ts": 1781398186,
       "author": "librick"
     },
@@ -90,58 +63,136 @@
       "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
       "url": "https://sqltoerdiagram.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48523992",
-      "points": 258,
-      "comments": 49,
+      "points": 316,
+      "comments": 63,
       "created_ts": 1781408610,
       "author": "robhati"
     },
     {
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "hn_url": "https://news.ycombinator.com/item?id=48519552",
-      "points": 200,
-      "comments": 72,
-      "created_ts": 1781372582,
-      "author": "tosh"
+      "title": "No, everyone is not using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "hn_url": "https://news.ycombinator.com/item?id=48527700",
+      "points": 304,
+      "comments": 312,
+      "created_ts": 1781448269,
+      "author": "yegg"
     },
     {
-      "title": "Don't trust large context windows",
-      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-      "hn_url": "https://news.ycombinator.com/item?id=48524620",
-      "points": 166,
-      "comments": 116,
-      "created_ts": 1781417229,
-      "author": "computersuck"
+      "title": "How to Earn a Billion Dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48526360",
+      "points": 287,
+      "comments": 803,
+      "created_ts": 1781437848,
+      "author": "kingstoned"
     },
     {
-      "title": "Phoenix LiveView 1.2",
-      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-      "hn_url": "https://news.ycombinator.com/item?id=48524293",
-      "points": 152,
-      "comments": 41,
-      "created_ts": 1781412831,
-      "author": "ksec"
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "hn_url": "https://news.ycombinator.com/item?id=48526661",
+      "points": 177,
+      "comments": 100,
+      "created_ts": 1781440711,
+      "author": "subset"
     },
     {
-      "title": "Pac-Man, but you're the ghost",
-      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "hn_url": "https://news.ycombinator.com/item?id=48524135",
-      "points": 141,
-      "comments": 61,
-      "created_ts": 1781410725,
-      "author": "mindracer"
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "hn_url": "https://news.ycombinator.com/item?id=48528371",
+      "points": 163,
+      "comments": 89,
+      "created_ts": 1781451451,
+      "author": "unrvl22"
     },
     {
-      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "hn_url": "https://news.ycombinator.com/item?id=48520080",
-      "points": 104,
-      "comments": 24,
-      "created_ts": 1781375542,
-      "author": "rasz"
+      "title": "Swiss voters reject proposal to cap population at ten million",
+      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+      "hn_url": "https://news.ycombinator.com/item?id=48529149",
+      "points": 154,
+      "comments": 140,
+      "created_ts": 1781454534,
+      "author": "FabCH"
+    },
+    {
+      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
+      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+      "hn_url": "https://news.ycombinator.com/item?id=48527658",
+      "points": 136,
+      "comments": 178,
+      "created_ts": 1781448033,
+      "author": "tambourine_man"
+    },
+    {
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "hn_url": "https://news.ycombinator.com/item?id=48528029",
+      "points": 129,
+      "comments": 31,
+      "created_ts": 1781450037,
+      "author": "iliashad"
+    },
+    {
+      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
+      "hn_url": "https://news.ycombinator.com/item?id=48527634",
+      "points": 120,
+      "comments": 30,
+      "created_ts": 1781447917,
+      "author": "lucasfcosta"
+    },
+    {
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "hn_url": "https://news.ycombinator.com/item?id=48528729",
+      "points": 113,
+      "comments": 18,
+      "created_ts": 1781452890,
+      "author": "berlianta"
     }
   ],
   "ph_today": [
+    {
+      "title": "Cloudback for Linear",
+      "url": "https://www.producthunt.com/products/cloudback",
+      "tagline": "",
+      "pub_date": "2026-06-13T12:00:47-07:00"
+    },
+    {
+      "title": "Memoriq",
+      "url": "https://www.producthunt.com/products/memoriq",
+      "tagline": "",
+      "pub_date": "2026-06-13T10:06:54-07:00"
+    },
+    {
+      "title": "Momentra",
+      "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
+      "tagline": "",
+      "pub_date": "2026-06-13T22:17:09-07:00"
+    },
+    {
+      "title": "Slashy",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "tagline": "",
+      "pub_date": "2026-06-13T21:38:45-07:00"
+    },
+    {
+      "title": "Pool",
+      "url": "https://www.producthunt.com/products/pool-4",
+      "tagline": "",
+      "pub_date": "2026-06-10T17:44:37-07:00"
+    },
+    {
+      "title": "Conan",
+      "url": "https://www.producthunt.com/products/conan",
+      "tagline": "",
+      "pub_date": "2026-06-07T12:24:13-07:00"
+    },
+    {
+      "title": "Permute 4.0",
+      "url": "https://www.producthunt.com/products/permute",
+      "tagline": "",
+      "pub_date": "2026-06-10T16:57:58-07:00"
+    },
     {
       "title": "Allergo",
       "url": "https://www.producthunt.com/products/allergo-allergy-translation-cards",
@@ -155,40 +206,16 @@
       "pub_date": "2026-06-13T05:50:54-07:00"
     },
     {
-      "title": "Slashy",
-      "url": "https://www.producthunt.com/products/slashy-3",
-      "tagline": "",
-      "pub_date": "2026-06-13T21:38:45-07:00"
-    },
-    {
-      "title": "Cloudback for Linear",
-      "url": "https://www.producthunt.com/products/cloudback",
-      "tagline": "",
-      "pub_date": "2026-06-13T12:00:47-07:00"
-    },
-    {
-      "title": "Permute 4.0",
-      "url": "https://www.producthunt.com/products/permute",
-      "tagline": "",
-      "pub_date": "2026-06-10T16:57:58-07:00"
-    },
-    {
-      "title": "Folio",
-      "url": "https://www.producthunt.com/products/folio-ai",
-      "tagline": "",
-      "pub_date": "2026-05-20T14:22:23-07:00"
-    },
-    {
-      "title": "Conan",
-      "url": "https://www.producthunt.com/products/conan",
-      "tagline": "",
-      "pub_date": "2026-06-07T12:24:13-07:00"
-    },
-    {
       "title": "Athenic 2.0",
       "url": "https://www.producthunt.com/products/athenic-ai",
       "tagline": "",
       "pub_date": "2026-06-02T17:35:30-07:00"
+    },
+    {
+      "title": "Tinfoil Pigeons",
+      "url": "https://www.producthunt.com/products/tinfoil-pigeons",
+      "tagline": "",
+      "pub_date": "2026-06-12T12:51:31-07:00"
     },
     {
       "title": "Taste Lab",
@@ -197,22 +224,10 @@
       "pub_date": "2026-06-13T10:49:00-07:00"
     },
     {
-      "title": "Memoriq",
-      "url": "https://www.producthunt.com/products/memoriq",
-      "tagline": "",
-      "pub_date": "2026-06-13T10:06:54-07:00"
-    },
-    {
       "title": "Avatars in ElevenCreative",
       "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
       "tagline": "",
       "pub_date": "2026-06-12T03:07:28-07:00"
-    },
-    {
-      "title": "NomNak",
-      "url": "https://www.producthunt.com/products/nomnak",
-      "tagline": "",
-      "pub_date": "2026-06-12T12:35:34-07:00"
     },
     {
       "title": "Vercel Drop",
@@ -221,10 +236,10 @@
       "pub_date": "2026-06-12T14:49:02-07:00"
     },
     {
-      "title": "Kimi K2.7 Code",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "title": "Prometheus by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-06-12T05:27:54-07:00"
+      "pub_date": "2026-06-12T15:29:57-07:00"
     },
     {
       "title": "CakewordAI",
@@ -233,34 +248,22 @@
       "pub_date": "2026-06-12T14:14:13-07:00"
     },
     {
-      "title": "Prometheus by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "title": "NomNak",
+      "url": "https://www.producthunt.com/products/nomnak",
       "tagline": "",
-      "pub_date": "2026-06-12T15:29:57-07:00"
+      "pub_date": "2026-06-12T12:35:34-07:00"
     },
     {
-      "title": "Bob's CLI",
-      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "title": "Kimi K2.7 Code",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
       "tagline": "",
-      "pub_date": "2026-06-11T20:34:56-07:00"
-    },
-    {
-      "title": "KOSH Money",
-      "url": "https://www.producthunt.com/products/kosh-money",
-      "tagline": "",
-      "pub_date": "2026-06-11T02:01:13-07:00"
+      "pub_date": "2026-06-12T05:27:54-07:00"
     },
     {
       "title": "NODUS PH Radar for Product Hunt",
       "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
       "tagline": "",
       "pub_date": "2026-06-08T14:47:33-07:00"
-    },
-    {
-      "title": "Tide",
-      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-      "tagline": "",
-      "pub_date": "2026-06-11T11:08:04-07:00"
     },
     {
       "title": "HyperSleep",
@@ -275,16 +278,10 @@
       "pub_date": "2026-06-11T11:43:32-07:00"
     },
     {
-      "title": "pleNx — Plex client for Nintendo Switch",
-      "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
+      "title": "Medicyn",
+      "url": "https://www.producthunt.com/products/medicyn",
       "tagline": "",
-      "pub_date": "2026-06-11T03:44:23-07:00"
-    },
-    {
-      "title": "Slack Data Agent",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-06-11T21:35:06-07:00"
+      "pub_date": "2026-06-11T23:47:32-07:00"
     },
     {
       "title": "Clutch Alarm",
@@ -293,10 +290,28 @@
       "pub_date": "2026-06-11T11:39:38-07:00"
     },
     {
-      "title": "Keep",
-      "url": "https://www.producthunt.com/products/keep-8",
+      "title": "CueBuddy",
+      "url": "https://www.producthunt.com/products/cuebuddy",
       "tagline": "",
-      "pub_date": "2026-06-11T23:45:17-07:00"
+      "pub_date": "2026-06-11T20:34:08-07:00"
+    },
+    {
+      "title": "Slack Data Agent",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-06-11T21:35:06-07:00"
+    },
+    {
+      "title": "Meet Warren 3.0",
+      "url": "https://www.producthunt.com/products/underpay",
+      "tagline": "",
+      "pub_date": "2026-06-11T04:04:31-07:00"
+    },
+    {
+      "title": "Bob's CLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "tagline": "",
+      "pub_date": "2026-06-11T20:34:56-07:00"
     },
     {
       "title": "Pond",
@@ -305,22 +320,16 @@
       "pub_date": "2026-06-07T17:28:00-07:00"
     },
     {
-      "title": "Qursor",
-      "url": "https://www.producthunt.com/products/qursor",
-      "tagline": "",
-      "pub_date": "2026-06-11T23:12:20-07:00"
-    },
-    {
       "title": "Firma.dev",
       "url": "https://www.producthunt.com/products/firma-dev",
       "tagline": "",
       "pub_date": "2026-06-08T08:48:32-07:00"
     },
     {
-      "title": "LocIn AI",
-      "url": "https://www.producthunt.com/products/locin-ai",
+      "title": "Keep",
+      "url": "https://www.producthunt.com/products/keep-8",
       "tagline": "",
-      "pub_date": "2026-06-11T13:04:57-07:00"
+      "pub_date": "2026-06-11T23:45:17-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T02:53:56.244Z",
+  "generated_at": "2026-06-14T09:21:37.064Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "url": "https://github.com/Paca-AI/paca",
       "hn_url": "https://news.ycombinator.com/item?id=48515385",
-      "points": 137,
-      "comments": 53,
+      "points": 150,
+      "comments": 55,
       "created_ts": 1781343865,
       "author": "pikann22"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
       "url": "https://hallucinate.site/gallery",
       "hn_url": "https://news.ycombinator.com/item?id=48516510",
-      "points": 66,
+      "points": 69,
       "comments": 24,
       "created_ts": 1781352695,
       "author": "stagas"
@@ -25,8 +25,8 @@
       "title": "Show HN: I built 80 mini-games using Fable before it was shut down",
       "url": "https://minigames.world/en",
       "hn_url": "https://news.ycombinator.com/item?id=48522555",
-      "points": 45,
-      "comments": 51,
+      "points": 50,
+      "comments": 64,
       "created_ts": 1781393740,
       "author": "legocoder"
     },
@@ -35,27 +35,36 @@
       "url": "https://www.versowriter.app",
       "hn_url": "https://news.ycombinator.com/item?id=48519567",
       "points": 35,
-      "comments": 22,
+      "comments": 23,
       "created_ts": 1781372632,
       "author": "tammis08"
     },
     {
-      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "url": "https://github.com/vladignatyev/brain-map-skill",
-      "hn_url": "https://news.ycombinator.com/item?id=48514124",
-      "points": 19,
-      "comments": 15,
-      "created_ts": 1781333022,
-      "author": "v_ignatyev"
+      "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
+      "url": "https://github.com/ayushh0110/ScreenMind",
+      "hn_url": "https://news.ycombinator.com/item?id=48522417",
+      "points": 20,
+      "comments": 1,
+      "created_ts": 1781392374,
+      "author": "skye0110"
     },
     {
       "title": "Show HN: Quant Picker – which GGUF file fits your model and machine",
       "url": "https://vettedconsumer.com/quant-picker/",
       "hn_url": "https://news.ycombinator.com/item?id=48516202",
-      "points": 14,
+      "points": 16,
       "comments": 0,
       "created_ts": 1781350469,
       "author": "ermantrout"
+    },
+    {
+      "title": "Show HN: Bastion – isolated Linux VMs for background coding agents",
+      "url": "https://bastion.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48523664",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1781404718,
+      "author": "almostlit"
     },
     {
       "title": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
@@ -65,15 +74,6 @@
       "comments": 2,
       "created_ts": 1781367298,
       "author": "mfn-throw"
-    },
-    {
-      "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
-      "url": "https://github.com/ayushh0110/ScreenMind",
-      "hn_url": "https://news.ycombinator.com/item?id=48522417",
-      "points": 11,
-      "comments": 1,
-      "created_ts": 1781392374,
-      "author": "skye0110"
     }
   ],
   "hn_front": [
@@ -81,8 +81,8 @@
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
       "hn_url": "https://news.ycombinator.com/item?id=48517377",
-      "points": 753,
-      "comments": 475,
+      "points": 820,
+      "comments": 509,
       "created_ts": 1781358896,
       "author": "nl"
     },
@@ -90,26 +90,17 @@
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "hn_url": "https://news.ycombinator.com/item?id=48516251",
-      "points": 589,
-      "comments": 192,
+      "points": 699,
+      "comments": 226,
       "created_ts": 1781350820,
       "author": "ravenical"
-    },
-    {
-      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-      "hn_url": "https://news.ycombinator.com/item?id=48514560",
-      "points": 579,
-      "comments": 336,
-      "created_ts": 1781336739,
-      "author": "pera"
     },
     {
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "hn_url": "https://news.ycombinator.com/item?id=48519092",
-      "points": 569,
-      "comments": 412,
+      "points": 681,
+      "comments": 501,
       "created_ts": 1781369869,
       "author": "ls612"
     },
@@ -117,8 +108,8 @@
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
       "hn_url": "https://news.ycombinator.com/item?id=48518684",
-      "points": 388,
-      "comments": 214,
+      "points": 567,
+      "comments": 305,
       "created_ts": 1781367511,
       "author": "aloknnikhil"
     },
@@ -126,8 +117,8 @@
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "hn_url": "https://news.ycombinator.com/item?id=48517199",
-      "points": 312,
-      "comments": 111,
+      "points": 358,
+      "comments": 129,
       "created_ts": 1781357640,
       "author": "andsoitis"
     },
@@ -135,87 +126,117 @@
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
       "hn_url": "https://news.ycombinator.com/item?id=48515336",
-      "points": 253,
-      "comments": 136,
+      "points": 288,
+      "comments": 152,
       "created_ts": 1781343512,
       "author": "vikas-sharma"
     },
     {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "hn_url": "https://news.ycombinator.com/item?id=48520807",
-      "points": 245,
-      "comments": 111,
-      "created_ts": 1781380495,
-      "author": "austinallegro"
-    },
-    {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "hn_url": "https://news.ycombinator.com/item?id=48516504",
-      "points": 244,
-      "comments": 162,
-      "created_ts": 1781352647,
-      "author": "hek2sch"
-    },
-    {
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "hn_url": "https://news.ycombinator.com/item?id=48518969",
-      "points": 242,
-      "comments": 215,
-      "created_ts": 1781369103,
-      "author": "sbochins"
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "hn_url": "https://news.ycombinator.com/item?id=48523080",
+      "points": 263,
+      "comments": 43,
+      "created_ts": 1781398186,
+      "author": "librick"
     },
     {
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
       "hn_url": "https://news.ycombinator.com/item?id=48515454",
-      "points": 198,
-      "comments": 68,
+      "points": 246,
+      "comments": 85,
       "created_ts": 1781344532,
       "author": "iMil"
-    },
-    {
-      "title": "The experience of rendering Arabic typography and its technical debt",
-      "url": "https://lr0.org/blog/p/arabic/",
-      "hn_url": "https://news.ycombinator.com/item?id=48516710",
-      "points": 198,
-      "comments": 46,
-      "created_ts": 1781354416,
-      "author": "bookofjoe"
-    },
-    {
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "hn_url": "https://news.ycombinator.com/item?id=48519552",
-      "points": 166,
-      "comments": 55,
-      "created_ts": 1781372582,
-      "author": "tosh"
     },
     {
       "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
       "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
       "hn_url": "https://news.ycombinator.com/item?id=48522486",
-      "points": 109,
-      "comments": 15,
+      "points": 217,
+      "comments": 30,
       "created_ts": 1781392925,
       "author": "jeditobe"
+    },
+    {
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "hn_url": "https://news.ycombinator.com/item?id=48519552",
+      "points": 186,
+      "comments": 65,
+      "created_ts": 1781372582,
+      "author": "tosh"
+    },
+    {
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48523992",
+      "points": 105,
+      "comments": 20,
+      "created_ts": 1781408610,
+      "author": "robhati"
     }
   ],
   "ph_today": [
     {
-      "title": "NomNak",
-      "url": "https://www.producthunt.com/products/nomnak",
+      "title": "Cloudback for Linear",
+      "url": "https://www.producthunt.com/products/cloudback",
       "tagline": "",
-      "pub_date": "2026-06-12T12:35:34-07:00"
+      "pub_date": "2026-06-13T12:00:47-07:00"
     },
     {
-      "title": "Kimi K2.7 Code",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "title": "Taste Lab",
+      "url": "https://www.producthunt.com/products/taste-lab",
       "tagline": "",
-      "pub_date": "2026-06-12T05:27:54-07:00"
+      "pub_date": "2026-06-13T10:49:00-07:00"
+    },
+    {
+      "title": "Slashy",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "tagline": "",
+      "pub_date": "2026-06-13T21:38:45-07:00"
+    },
+    {
+      "title": "Folio",
+      "url": "https://www.producthunt.com/products/folio-ai",
+      "tagline": "",
+      "pub_date": "2026-05-20T14:22:23-07:00"
+    },
+    {
+      "title": "Athenic 2.0",
+      "url": "https://www.producthunt.com/products/athenic-ai",
+      "tagline": "",
+      "pub_date": "2026-06-02T17:35:30-07:00"
+    },
+    {
+      "title": "Allergo",
+      "url": "https://www.producthunt.com/products/allergo-allergy-translation-cards",
+      "tagline": "",
+      "pub_date": "2026-05-05T04:45:45-07:00"
+    },
+    {
+      "title": "Conan",
+      "url": "https://www.producthunt.com/products/conan",
+      "tagline": "",
+      "pub_date": "2026-06-07T12:24:13-07:00"
+    },
+    {
+      "title": "Memoriq",
+      "url": "https://www.producthunt.com/products/memoriq",
+      "tagline": "",
+      "pub_date": "2026-06-13T10:06:54-07:00"
+    },
+    {
+      "title": "Reverie.fm",
+      "url": "https://www.producthunt.com/products/reverie-fm",
+      "tagline": "",
+      "pub_date": "2026-06-13T05:50:54-07:00"
+    },
+    {
+      "title": "Permute 4.0",
+      "url": "https://www.producthunt.com/products/permute",
+      "tagline": "",
+      "pub_date": "2026-06-10T16:57:58-07:00"
     },
     {
       "title": "Vercel Drop",
@@ -224,10 +245,10 @@
       "pub_date": "2026-06-12T14:49:02-07:00"
     },
     {
-      "title": "CakewordAI",
-      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+      "title": "Kimi K2.7 Code",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
       "tagline": "",
-      "pub_date": "2026-06-12T14:14:13-07:00"
+      "pub_date": "2026-06-12T05:27:54-07:00"
     },
     {
       "title": "Prometheus by Firecrawl",
@@ -236,22 +257,34 @@
       "pub_date": "2026-06-12T15:29:57-07:00"
     },
     {
+      "title": "CakewordAI",
+      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+      "tagline": "",
+      "pub_date": "2026-06-12T14:14:13-07:00"
+    },
+    {
+      "title": "NomNak",
+      "url": "https://www.producthunt.com/products/nomnak",
+      "tagline": "",
+      "pub_date": "2026-06-12T12:35:34-07:00"
+    },
+    {
       "title": "Avatars in ElevenCreative",
       "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
       "tagline": "",
       "pub_date": "2026-06-12T03:07:28-07:00"
     },
     {
+      "title": "Keep",
+      "url": "https://www.producthunt.com/products/keep-8",
+      "tagline": "",
+      "pub_date": "2026-06-11T23:45:17-07:00"
+    },
+    {
       "title": "pleNx — Plex client for Nintendo Switch",
       "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
       "tagline": "",
       "pub_date": "2026-06-11T03:44:23-07:00"
-    },
-    {
-      "title": "ShellMate",
-      "url": "https://www.producthunt.com/products/shellmate-2",
-      "tagline": "",
-      "pub_date": "2026-06-11T11:43:32-07:00"
     },
     {
       "title": "Clutch Alarm",
@@ -266,46 +299,16 @@
       "pub_date": "2026-06-11T11:08:04-07:00"
     },
     {
-      "title": "LocIn AI",
-      "url": "https://www.producthunt.com/products/locin-ai",
+      "title": "NODUS PH Radar for Product Hunt",
+      "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
       "tagline": "",
-      "pub_date": "2026-06-11T13:04:57-07:00"
+      "pub_date": "2026-06-08T14:47:33-07:00"
     },
     {
-      "title": "Pond",
-      "url": "https://www.producthunt.com/products/pond-5",
+      "title": "ShellMate",
+      "url": "https://www.producthunt.com/products/shellmate-2",
       "tagline": "",
-      "pub_date": "2026-06-07T17:28:00-07:00"
-    },
-    {
-      "title": "Qursor",
-      "url": "https://www.producthunt.com/products/qursor",
-      "tagline": "",
-      "pub_date": "2026-06-11T23:12:20-07:00"
-    },
-    {
-      "title": "HyperSleep",
-      "url": "https://www.producthunt.com/products/hypersleep",
-      "tagline": "",
-      "pub_date": "2026-06-11T00:30:37-07:00"
-    },
-    {
-      "title": "Firma.dev",
-      "url": "https://www.producthunt.com/products/firma-dev",
-      "tagline": "",
-      "pub_date": "2026-06-08T08:48:32-07:00"
-    },
-    {
-      "title": "KOSH Money",
-      "url": "https://www.producthunt.com/products/kosh-money",
-      "tagline": "",
-      "pub_date": "2026-06-11T02:01:13-07:00"
-    },
-    {
-      "title": "Keep",
-      "url": "https://www.producthunt.com/products/keep-8",
-      "tagline": "",
-      "pub_date": "2026-06-11T23:45:17-07:00"
+      "pub_date": "2026-06-11T11:43:32-07:00"
     },
     {
       "title": "Medicyn",
@@ -314,10 +317,22 @@
       "pub_date": "2026-06-11T23:47:32-07:00"
     },
     {
+      "title": "LocIn AI",
+      "url": "https://www.producthunt.com/products/locin-ai",
+      "tagline": "",
+      "pub_date": "2026-06-11T13:04:57-07:00"
+    },
+    {
       "title": "CueBuddy",
       "url": "https://www.producthunt.com/products/cuebuddy",
       "tagline": "",
       "pub_date": "2026-06-11T20:34:08-07:00"
+    },
+    {
+      "title": "HyperSleep",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "tagline": "",
+      "pub_date": "2026-06-11T00:30:37-07:00"
     },
     {
       "title": "Meet Warren 3.0",
@@ -326,16 +341,10 @@
       "pub_date": "2026-06-11T04:04:31-07:00"
     },
     {
-      "title": "Insta360 Luna Ultra",
-      "url": "https://www.producthunt.com/products/insta-360",
+      "title": "Firma.dev",
+      "url": "https://www.producthunt.com/products/firma-dev",
       "tagline": "",
-      "pub_date": "2026-06-11T01:01:45-07:00"
-    },
-    {
-      "title": "Slack Data Agent",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-06-11T21:35:06-07:00"
+      "pub_date": "2026-06-08T08:48:32-07:00"
     },
     {
       "title": "Bob's CLI",
@@ -344,46 +353,10 @@
       "pub_date": "2026-06-11T20:34:56-07:00"
     },
     {
-      "title": "NODUS PH Radar for Product Hunt",
-      "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "title": "KOSH Money",
+      "url": "https://www.producthunt.com/products/kosh-money",
       "tagline": "",
-      "pub_date": "2026-06-08T14:47:33-07:00"
-    },
-    {
-      "title": "PixelForge",
-      "url": "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game",
-      "tagline": "",
-      "pub_date": "2026-06-10T13:27:49-07:00"
-    },
-    {
-      "title": "Juno",
-      "url": "https://www.producthunt.com/products/juno-13",
-      "tagline": "",
-      "pub_date": "2026-06-08T09:19:04-07:00"
-    },
-    {
-      "title": "Mute",
-      "url": "https://www.producthunt.com/products/mute-3",
-      "tagline": "",
-      "pub_date": "2026-06-10T16:11:47-07:00"
-    },
-    {
-      "title": "INVO Ride",
-      "url": "https://www.producthunt.com/products/invo-ride",
-      "tagline": "",
-      "pub_date": "2026-06-09T23:21:29-07:00"
-    },
-    {
-      "title": "Terminal Mode by Even Realities",
-      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
-      "tagline": "",
-      "pub_date": "2026-06-10T06:18:51-07:00"
-    },
-    {
-      "title": "Asmi AI",
-      "url": "https://www.producthunt.com/products/asmi-ai",
-      "tagline": "",
-      "pub_date": "2026-06-09T07:42:15-07:00"
+      "pub_date": "2026-06-11T02:01:13-07:00"
     }
   ]
 }

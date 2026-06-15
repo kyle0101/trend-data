@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T02:58:59.871Z",
+  "generated_at": "2026-06-15T11:50:18.529Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,191 +7,185 @@
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
       "hn_url": "https://news.ycombinator.com/item?id=48529990",
-      "points": 423,
-      "comments": 94,
+      "points": 583,
+      "comments": 116,
       "created_ts": 1781457938,
       "author": "tamnd"
-    },
-    {
-      "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
-      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-      "hn_url": "https://news.ycombinator.com/item?id=48527623",
-      "points": 65,
-      "comments": 9,
-      "created_ts": 1781447871,
-      "author": "alebal123bal"
     },
     {
       "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
       "url": "https://www.orangecrumbs.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48530382",
-      "points": 61,
-      "comments": 18,
+      "points": 123,
+      "comments": 27,
       "created_ts": 1781459657,
       "author": "octopus143"
+    },
+    {
+      "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "hn_url": "https://news.ycombinator.com/item?id=48527623",
+      "points": 69,
+      "comments": 9,
+      "created_ts": 1781447871,
+      "author": "alebal123bal"
+    },
+    {
+      "title": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
+      "url": "https://rep-detect.lambda-combine.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=48532845",
+      "points": 34,
+      "comments": 1,
+      "created_ts": 1781471900,
+      "author": "fsmunoz"
+    },
+    {
+      "title": "Show HN: Philosophy for Kids",
+      "url": "https://philosophy.ocaho.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48530657",
+      "points": 12,
+      "comments": 7,
+      "created_ts": 1781460935,
+      "author": "rahimnathwani"
+    },
+    {
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
+      "hn_url": "https://news.ycombinator.com/item?id=48538833",
+      "points": 12,
+      "comments": 3,
+      "created_ts": 1781516050,
+      "author": "martiano"
     }
   ],
   "hn_front": [
     {
-      "title": "How to earn a billion dollars",
-      "url": "https://paulgraham.com/earn.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48526360",
-      "points": 475,
-      "comments": 1443,
-      "created_ts": 1781437848,
-      "author": "kingstoned"
-    },
-    {
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "hn_url": "https://news.ycombinator.com/item?id=48527700",
-      "points": 432,
-      "comments": 472,
-      "created_ts": 1781448269,
-      "author": "yegg"
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "hn_url": "https://news.ycombinator.com/item?id=48533848",
+      "points": 672,
+      "comments": 221,
+      "created_ts": 1781477695,
+      "author": "sohkamyung"
     },
     {
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
       "hn_url": "https://news.ycombinator.com/item?id=48529990",
-      "points": 423,
-      "comments": 94,
+      "points": 582,
+      "comments": 116,
       "created_ts": 1781457938,
       "author": "tamnd"
     },
     {
-      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "url": "https://news.ycombinator.com/item?id=48528029",
-      "hn_url": "https://news.ycombinator.com/item?id=48528029",
-      "points": 296,
-      "comments": 71,
-      "created_ts": 1781450037,
-      "author": "iliashad"
-    },
-    {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "hn_url": "https://news.ycombinator.com/item?id=48528371",
-      "points": 294,
-      "comments": 156,
-      "created_ts": 1781451451,
-      "author": "unrvl22"
-    },
-    {
-      "title": "Linux 7.1",
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "hn_url": "https://news.ycombinator.com/item?id=48528729",
-      "points": 251,
-      "comments": 98,
-      "created_ts": 1781452890,
-      "author": "berlianta"
-    },
-    {
-      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "hn_url": "https://news.ycombinator.com/item?id=48533848",
-      "points": 223,
-      "comments": 90,
-      "created_ts": 1781477695,
-      "author": "sohkamyung"
-    },
-    {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "hn_url": "https://news.ycombinator.com/item?id=48526661",
-      "points": 215,
-      "comments": 123,
-      "created_ts": 1781440711,
-      "author": "subset"
-    },
-    {
-      "title": "Formal methods and the future of programming",
-      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "hn_url": "https://news.ycombinator.com/item?id=48526633",
-      "points": 205,
-      "comments": 74,
-      "created_ts": 1781440527,
-      "author": "eatonphil"
-    },
-    {
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "url": "https://news.ycombinator.com/item?id=48528779",
-      "hn_url": "https://news.ycombinator.com/item?id=48528779",
-      "points": 165,
-      "comments": 616,
-      "created_ts": 1781453128,
-      "author": "david927"
-    },
-    {
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "hn_url": "https://news.ycombinator.com/item?id=48527145",
-      "points": 159,
-      "comments": 49,
-      "created_ts": 1781444588,
-      "author": "losfair"
-    },
-    {
-      "title": "FarOutCompany",
-      "url": "https://faroutcompany.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48527360",
-      "points": 106,
-      "comments": 16,
-      "created_ts": 1781446169,
-      "author": "bookofjoe"
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "hn_url": "https://news.ycombinator.com/item?id=48537165",
+      "points": 480,
+      "comments": 194,
+      "created_ts": 1781503377,
+      "author": "secret-noun"
     },
     {
       "title": "Windows 11 users are tired of MS account requirements creeping into everything",
       "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
       "hn_url": "https://news.ycombinator.com/item?id=48533101",
-      "points": 105,
-      "comments": 36,
+      "points": 391,
+      "comments": 263,
       "created_ts": 1781473332,
       "author": "josephcsible"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "hn_url": "https://news.ycombinator.com/item?id=48528371",
+      "points": 360,
+      "comments": 193,
+      "created_ts": 1781451451,
+      "author": "unrvl22"
+    },
+    {
+      "title": "Formal methods and the future of programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "hn_url": "https://news.ycombinator.com/item?id=48526633",
+      "points": 285,
+      "comments": 95,
+      "created_ts": 1781440527,
+      "author": "eatonphil"
+    },
+    {
+      "title": "What the Fuck Happened to Nerds",
+      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+      "hn_url": "https://news.ycombinator.com/item?id=48538229",
+      "points": 271,
+      "comments": 183,
+      "created_ts": 1781511832,
+      "author": "vrnvu"
+    },
+    {
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "hn_url": "https://news.ycombinator.com/item?id=48528779",
+      "points": 251,
+      "comments": 910,
+      "created_ts": 1781453128,
+      "author": "david927"
+    },
+    {
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48535886",
+      "points": 234,
+      "comments": 54,
+      "created_ts": 1781490625,
+      "author": "signa11"
+    },
+    {
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "hn_url": "https://news.ycombinator.com/item?id=48536776",
+      "points": 210,
+      "comments": 80,
+      "created_ts": 1781499334,
+      "author": "MehrdadKhnzd"
+    },
+    {
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "hn_url": "https://news.ycombinator.com/item?id=48527145",
+      "points": 193,
+      "comments": 57,
+      "created_ts": 1781444588,
+      "author": "losfair"
+    },
+    {
+      "title": "Perlisisms (1982)",
+      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48527820",
+      "points": 124,
+      "comments": 59,
+      "created_ts": 1781449016,
+      "author": "tosh"
     }
   ],
   "ph_today": [
     {
-      "title": "Cloudback for Linear",
-      "url": "https://www.producthunt.com/products/cloudback",
+      "title": "AEVS",
+      "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
       "tagline": "",
-      "pub_date": "2026-06-13T12:00:47-07:00"
+      "pub_date": "2026-06-10T23:55:08-07:00"
     },
     {
-      "title": "Slashy",
-      "url": "https://www.producthunt.com/products/slashy-3",
+      "title": "EmailFlow.AI",
+      "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
       "tagline": "",
-      "pub_date": "2026-06-13T21:38:45-07:00"
+      "pub_date": "2026-06-14T01:41:55-07:00"
     },
     {
-      "title": "Allergo",
-      "url": "https://www.producthunt.com/products/allergo-allergy-translation-cards",
+      "title": "Dropmatico",
+      "url": "https://www.producthunt.com/products/dropmatico",
       "tagline": "",
-      "pub_date": "2026-05-05T04:45:45-07:00"
-    },
-    {
-      "title": "Pool",
-      "url": "https://www.producthunt.com/products/pool-4",
-      "tagline": "",
-      "pub_date": "2026-06-10T17:44:37-07:00"
-    },
-    {
-      "title": "Reverie.fm",
-      "url": "https://www.producthunt.com/products/reverie-fm",
-      "tagline": "",
-      "pub_date": "2026-06-13T05:50:54-07:00"
-    },
-    {
-      "title": "Permute 4.0",
-      "url": "https://www.producthunt.com/products/permute",
-      "tagline": "",
-      "pub_date": "2026-06-10T16:57:58-07:00"
-    },
-    {
-      "title": "Memoriq",
-      "url": "https://www.producthunt.com/products/memoriq",
-      "tagline": "",
-      "pub_date": "2026-06-13T10:06:54-07:00"
+      "pub_date": "2026-06-14T04:30:31-07:00"
     },
     {
       "title": "Momentra",
@@ -200,136 +194,160 @@
       "pub_date": "2026-06-13T22:17:09-07:00"
     },
     {
+      "title": "Sulsaly",
+      "url": "https://www.producthunt.com/products/sulsaly",
+      "tagline": "",
+      "pub_date": "2026-05-28T14:09:49-07:00"
+    },
+    {
+      "title": "Wobo 2.0",
+      "url": "https://www.producthunt.com/products/wobo-ai",
+      "tagline": "",
+      "pub_date": "2026-06-08T14:49:56-07:00"
+    },
+    {
+      "title": "Novu Connect",
+      "url": "https://www.producthunt.com/products/novu",
+      "tagline": "",
+      "pub_date": "2026-06-11T13:23:01-07:00"
+    },
+    {
+      "title": "MockPilot",
+      "url": "https://www.producthunt.com/products/mockpilot",
+      "tagline": "",
+      "pub_date": "2026-06-10T02:54:12-07:00"
+    },
+    {
+      "title": "Kickbacks.ai",
+      "url": "https://www.producthunt.com/products/kickbacks-ai",
+      "tagline": "",
+      "pub_date": "2026-06-14T23:04:58-07:00"
+    },
+    {
+      "title": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
+      "tagline": "",
+      "pub_date": "2026-06-14T16:37:43-07:00"
+    },
+    {
+      "title": "Notchcode",
+      "url": "https://www.producthunt.com/products/notchcode",
+      "tagline": "",
+      "pub_date": "2026-06-14T14:09:41-07:00"
+    },
+    {
+      "title": "IdleDev",
+      "url": "https://www.producthunt.com/products/idledev",
+      "tagline": "",
+      "pub_date": "2026-06-13T17:30:41-07:00"
+    },
+    {
+      "title": "Ultramemory",
+      "url": "https://www.producthunt.com/products/ultramemory-remembers-everything",
+      "tagline": "",
+      "pub_date": "2026-06-11T15:16:23-07:00"
+    },
+    {
+      "title": "AgentBrush",
+      "url": "https://www.producthunt.com/products/agentbrush",
+      "tagline": "",
+      "pub_date": "2026-06-14T22:21:36-07:00"
+    },
+    {
+      "title": "ColibotAI",
+      "url": "https://www.producthunt.com/products/colibotai",
+      "tagline": "",
+      "pub_date": "2026-06-09T08:18:51-07:00"
+    },
+    {
+      "title": "Fonda",
+      "url": "https://www.producthunt.com/products/fonda",
+      "tagline": "",
+      "pub_date": "2026-06-14T06:55:52-07:00"
+    },
+    {
+      "title": "Relay",
+      "url": "https://www.producthunt.com/products/relay-20",
+      "tagline": "",
+      "pub_date": "2026-06-11T12:53:03-07:00"
+    },
+    {
+      "title": "Pass Quick Access",
+      "url": "https://www.producthunt.com/products/pass-quick-access",
+      "tagline": "",
+      "pub_date": "2026-06-13T18:38:58-07:00"
+    },
+    {
+      "title": "termique",
+      "url": "https://www.producthunt.com/products/termique",
+      "tagline": "",
+      "pub_date": "2026-05-20T01:11:57-07:00"
+    },
+    {
+      "title": "VEXI",
+      "url": "https://www.producthunt.com/products/vexi",
+      "tagline": "",
+      "pub_date": "2026-06-12T21:11:07-07:00"
+    },
+    {
+      "title": "MiMo Code",
+      "url": "https://www.producthunt.com/products/mimo-3",
+      "tagline": "",
+      "pub_date": "2026-06-14T21:00:10-07:00"
+    },
+    {
       "title": "Tinfoil Pigeons",
       "url": "https://www.producthunt.com/products/tinfoil-pigeons",
       "tagline": "",
       "pub_date": "2026-06-12T12:51:31-07:00"
     },
     {
-      "title": "Taste Lab",
-      "url": "https://www.producthunt.com/products/taste-lab",
+      "title": "Capecho",
+      "url": "https://www.producthunt.com/products/capecho",
       "tagline": "",
-      "pub_date": "2026-06-13T10:49:00-07:00"
+      "pub_date": "2026-06-04T21:30:30-07:00"
     },
     {
-      "title": "Athenic 2.0",
-      "url": "https://www.producthunt.com/products/athenic-ai",
+      "title": "stackd.cc",
+      "url": "https://www.producthunt.com/products/stackd-cc",
       "tagline": "",
-      "pub_date": "2026-06-02T17:35:30-07:00"
+      "pub_date": "2026-06-13T09:41:59-07:00"
+    },
+    {
+      "title": "Verol",
+      "url": "https://www.producthunt.com/products/verol",
+      "tagline": "",
+      "pub_date": "2026-06-08T04:37:29-07:00"
+    },
+    {
+      "title": "PandaProbe Cloud",
+      "url": "https://www.producthunt.com/products/pandaprobe-cloud",
+      "tagline": "",
+      "pub_date": "2026-06-07T18:39:21-07:00"
+    },
+    {
+      "title": "Notra Image Generation",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "tagline": "",
+      "pub_date": "2026-06-09T04:44:34-07:00"
+    },
+    {
+      "title": "Synopsule",
+      "url": "https://www.producthunt.com/products/synopsule",
+      "tagline": "",
+      "pub_date": "2026-06-11T00:12:07-07:00"
+    },
+    {
+      "title": "AutoEdit",
+      "url": "https://www.producthunt.com/products/autoedit",
+      "tagline": "",
+      "pub_date": "2026-06-04T04:01:38-07:00"
     },
     {
       "title": "Conan",
       "url": "https://www.producthunt.com/products/conan",
       "tagline": "",
       "pub_date": "2026-06-07T12:24:13-07:00"
-    },
-    {
-      "title": "Vercel Drop",
-      "url": "https://www.producthunt.com/products/vercel",
-      "tagline": "",
-      "pub_date": "2026-06-12T14:49:02-07:00"
-    },
-    {
-      "title": "Kimi K2.7 Code",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "tagline": "",
-      "pub_date": "2026-06-12T05:27:54-07:00"
-    },
-    {
-      "title": "Prometheus by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-06-12T15:29:57-07:00"
-    },
-    {
-      "title": "CakewordAI",
-      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
-      "tagline": "",
-      "pub_date": "2026-06-12T14:14:13-07:00"
-    },
-    {
-      "title": "Avatars in ElevenCreative",
-      "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
-      "tagline": "",
-      "pub_date": "2026-06-12T03:07:28-07:00"
-    },
-    {
-      "title": "NomNak",
-      "url": "https://www.producthunt.com/products/nomnak",
-      "tagline": "",
-      "pub_date": "2026-06-12T12:35:34-07:00"
-    },
-    {
-      "title": "NODUS PH Radar for Product Hunt",
-      "url": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
-      "tagline": "",
-      "pub_date": "2026-06-08T14:47:33-07:00"
-    },
-    {
-      "title": "ShellMate",
-      "url": "https://www.producthunt.com/products/shellmate-2",
-      "tagline": "",
-      "pub_date": "2026-06-11T11:43:32-07:00"
-    },
-    {
-      "title": "Clutch Alarm",
-      "url": "https://www.producthunt.com/products/clutch-alarm",
-      "tagline": "",
-      "pub_date": "2026-06-11T11:39:38-07:00"
-    },
-    {
-      "title": "Slack Data Agent",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-06-11T21:35:06-07:00"
-    },
-    {
-      "title": "Keep",
-      "url": "https://www.producthunt.com/products/keep-8",
-      "tagline": "",
-      "pub_date": "2026-06-11T23:45:17-07:00"
-    },
-    {
-      "title": "LocIn AI",
-      "url": "https://www.producthunt.com/products/locin-ai",
-      "tagline": "",
-      "pub_date": "2026-06-11T13:04:57-07:00"
-    },
-    {
-      "title": "Tide",
-      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-      "tagline": "",
-      "pub_date": "2026-06-11T11:08:04-07:00"
-    },
-    {
-      "title": "Insta360 Luna Ultra",
-      "url": "https://www.producthunt.com/products/insta-360",
-      "tagline": "",
-      "pub_date": "2026-06-11T01:01:45-07:00"
-    },
-    {
-      "title": "KOSH Money",
-      "url": "https://www.producthunt.com/products/kosh-money",
-      "tagline": "",
-      "pub_date": "2026-06-11T02:01:13-07:00"
-    },
-    {
-      "title": "pleNx — Plex client for Nintendo Switch",
-      "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
-      "tagline": "",
-      "pub_date": "2026-06-11T03:44:23-07:00"
-    },
-    {
-      "title": "Pond",
-      "url": "https://www.producthunt.com/products/pond-5",
-      "tagline": "",
-      "pub_date": "2026-06-07T17:28:00-07:00"
-    },
-    {
-      "title": "Firma.dev",
-      "url": "https://www.producthunt.com/products/firma-dev",
-      "tagline": "",
-      "pub_date": "2026-06-08T08:48:32-07:00"
     }
   ]
 }

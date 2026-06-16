@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:48:25.017Z",
+  "generated_at": "2026-06-16T02:59:21.698Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
       "url": "https://github.com/themartiano/luz",
       "hn_url": "https://news.ycombinator.com/item?id=48538833",
-      "points": 136,
-      "comments": 59,
+      "points": 145,
+      "comments": 60,
       "created_ts": 1781516050,
       "author": "martiano"
     },
@@ -16,25 +16,25 @@
       "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
       "url": "https://machine0.io",
       "hn_url": "https://news.ycombinator.com/item?id=48543245",
-      "points": 53,
-      "comments": 23,
+      "points": 76,
+      "comments": 32,
       "created_ts": 1781539303,
       "author": "bwm"
     },
     {
-      "title": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
-      "url": "https://rep-detect.lambda-combine.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=48532845",
-      "points": 34,
-      "comments": 1,
-      "created_ts": 1781471900,
-      "author": "fsmunoz"
+      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48544823",
+      "points": 42,
+      "comments": 43,
+      "created_ts": 1781546160,
+      "author": "andrewbr"
     },
     {
       "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
       "url": "https://v1c.rocks/log/exploiting-slack-video/",
       "hn_url": "https://news.ycombinator.com/item?id=48542970",
-      "points": 23,
+      "points": 28,
       "comments": 3,
       "created_ts": 1781538197,
       "author": "victorio"
@@ -43,10 +43,28 @@
       "title": "Show HN: We put voice agent on our website, learned retrieval isn't bottleneck",
       "url": "https://www.moss.dev/blog/founding-agent",
       "hn_url": "https://news.ycombinator.com/item?id=48543105",
-      "points": 17,
-      "comments": 5,
+      "points": 20,
+      "comments": 8,
       "created_ts": 1781538755,
       "author": "srimalireddi"
+    },
+    {
+      "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+      "url": "https://github.com/firish/claude_code_vs",
+      "hn_url": "https://news.ycombinator.com/item?id=48548381",
+      "points": 13,
+      "comments": 3,
+      "created_ts": 1781565356,
+      "author": "firish"
+    },
+    {
+      "title": "Show HN: Nxui – Copy-paste animated UI components for Vue",
+      "url": "https://nxui.geoql.in/docs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48540936",
+      "points": 11,
+      "comments": 3,
+      "created_ts": 1781529933,
+      "author": "vinayakkulkarni"
     }
   ],
   "hn_front": [
@@ -54,117 +72,204 @@
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
       "hn_url": "https://news.ycombinator.com/item?id=48542480",
-      "points": 751,
-      "comments": 245,
+      "points": 978,
+      "comments": 291,
       "created_ts": 1781536386,
       "author": "chadfowler"
     },
     {
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48540854",
-      "points": 507,
-      "comments": 208,
-      "created_ts": 1781529613,
-      "author": "rishikeshs"
-    },
-    {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "hn_url": "https://news.ycombinator.com/item?id=48536776",
-      "points": 443,
-      "comments": 205,
-      "created_ts": 1781499334,
-      "author": "MehrdadKhnzd"
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "hn_url": "https://news.ycombinator.com/item?id=48543475",
-      "points": 415,
-      "comments": 85,
-      "created_ts": 1781540153,
-      "author": "tinywind"
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "hn_url": "https://news.ycombinator.com/item?id=48546294",
+      "points": 785,
+      "comments": 153,
+      "created_ts": 1781553657,
+      "author": "lwhsiao"
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
       "hn_url": "https://news.ycombinator.com/item?id=48542100",
-      "points": 407,
-      "comments": 228,
+      "points": 733,
+      "comments": 349,
       "created_ts": 1781534813,
       "author": "cloudking"
     },
     {
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "hn_url": "https://news.ycombinator.com/item?id=48535886",
-      "points": 333,
-      "comments": 120,
-      "created_ts": 1781490625,
-      "author": "signa11"
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "hn_url": "https://news.ycombinator.com/item?id=48543475",
+      "points": 635,
+      "comments": 132,
+      "created_ts": 1781540153,
+      "author": "tinywind"
     },
     {
       "title": "Hetzner Price Adjustment",
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
       "hn_url": "https://news.ycombinator.com/item?id=48540844",
-      "points": 219,
-      "comments": 342,
+      "points": 349,
+      "comments": 504,
       "created_ts": 1781529579,
       "author": "tuhtah"
+    },
+    {
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "hn_url": "https://news.ycombinator.com/item?id=48540126",
+      "points": 284,
+      "comments": 211,
+      "created_ts": 1781525339,
+      "author": "colesantiago"
     },
     {
       "title": "Fox to buy Roku",
       "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
       "hn_url": "https://news.ycombinator.com/item?id=48540499",
-      "points": 210,
-      "comments": 297,
+      "points": 282,
+      "comments": 374,
       "created_ts": 1781527803,
       "author": "thm"
-    },
-    {
-      "title": "Typst 0.15.0",
-      "url": "https://typst.app/docs/changelog/0.15.0/",
-      "hn_url": "https://news.ycombinator.com/item?id=48544396",
-      "points": 192,
-      "comments": 43,
-      "created_ts": 1781544257,
-      "author": "schu"
     },
     {
       "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
       "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
       "hn_url": "https://news.ycombinator.com/item?id=48542132",
-      "points": 191,
-      "comments": 69,
+      "points": 261,
+      "comments": 99,
       "created_ts": 1781534927,
       "author": "bookofjoe"
-    },
-    {
-      "title": "Openrouter Fusion API",
-      "url": "https://openrouter.ai/openrouter/fusion",
-      "hn_url": "https://news.ycombinator.com/item?id=48537641",
-      "points": 183,
-      "comments": 70,
-      "created_ts": 1781507457,
-      "author": "tdchaitanya"
     },
     {
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "hn_url": "https://news.ycombinator.com/item?id=48542433",
-      "points": 167,
-      "comments": 34,
+      "points": 254,
+      "comments": 50,
       "created_ts": 1781536180,
       "author": "rsgm"
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "hn_url": "https://news.ycombinator.com/item?id=48547985",
+      "points": 191,
+      "comments": 77,
+      "created_ts": 1781563075,
+      "author": "sohkamyung"
+    },
+    {
+      "title": "US battery manufacturing output continues to break records",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "hn_url": "https://news.ycombinator.com/item?id=48546616",
+      "points": 172,
+      "comments": 142,
+      "created_ts": 1781555304,
+      "author": "epistasis"
+    },
+    {
+      "title": "Game Engine White Papers Commander Keen",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48544781",
+      "points": 166,
+      "comments": 53,
+      "created_ts": 1781545959,
+      "author": "mfiguiere"
+    },
+    {
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=48546441",
+      "points": 156,
+      "comments": 93,
+      "created_ts": 1781554455,
+      "author": "speckx"
+    },
+    {
+      "title": "How TimescaleDB compresses time-series data",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "hn_url": "https://news.ycombinator.com/item?id=48544451",
+      "points": 124,
+      "comments": 15,
+      "created_ts": 1781544557,
+      "author": "lkanwoqwp"
+    },
+    {
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48543392",
+      "points": 113,
+      "comments": 117,
+      "created_ts": 1781539862,
+      "author": "nicoburns"
+    },
+    {
+      "title": "What job interviews taught me about Kubernetes",
+      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+      "hn_url": "https://news.ycombinator.com/item?id=48546428",
+      "points": 104,
+      "comments": 89,
+      "created_ts": 1781554357,
+      "author": "chmaynard"
+    },
+    {
+      "title": "Peopleless economy? Not technically impossible",
+      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48547062",
+      "points": 102,
+      "comments": 201,
+      "created_ts": 1781557836,
+      "author": "l0new0lf-G"
     }
   ],
   "ph_today": [
+    {
+      "title": "Fonda",
+      "url": "https://www.producthunt.com/products/fonda",
+      "tagline": "",
+      "pub_date": "2026-06-14T06:55:52-07:00"
+    },
     {
       "title": "Sulsaly",
       "url": "https://www.producthunt.com/products/sulsaly",
       "tagline": "",
       "pub_date": "2026-05-28T14:09:49-07:00"
+    },
+    {
+      "title": "MockPilot",
+      "url": "https://www.producthunt.com/products/mockpilot",
+      "tagline": "",
+      "pub_date": "2026-06-10T02:54:12-07:00"
+    },
+    {
+      "title": "AutoEdit",
+      "url": "https://www.producthunt.com/products/autoedit",
+      "tagline": "",
+      "pub_date": "2026-06-04T04:01:38-07:00"
+    },
+    {
+      "title": "Wobo 2.0",
+      "url": "https://www.producthunt.com/products/wobo-ai",
+      "tagline": "",
+      "pub_date": "2026-06-08T14:49:56-07:00"
+    },
+    {
+      "title": "Ultramemory",
+      "url": "https://www.producthunt.com/products/ultramemory-remembers-everything",
+      "tagline": "",
+      "pub_date": "2026-06-11T15:16:23-07:00"
+    },
+    {
+      "title": "Novu Connect",
+      "url": "https://www.producthunt.com/products/novu",
+      "tagline": "",
+      "pub_date": "2026-06-11T13:23:01-07:00"
+    },
+    {
+      "title": "AEVS",
+      "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
+      "tagline": "",
+      "pub_date": "2026-06-10T23:55:08-07:00"
     },
     {
       "title": "VEXI",
@@ -173,16 +278,22 @@
       "pub_date": "2026-06-12T21:11:07-07:00"
     },
     {
-      "title": "Dropmatico",
-      "url": "https://www.producthunt.com/products/dropmatico",
+      "title": "EmailFlow.AI",
+      "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
       "tagline": "",
-      "pub_date": "2026-06-14T04:30:31-07:00"
+      "pub_date": "2026-06-14T01:41:55-07:00"
     },
     {
-      "title": "Novu Connect",
-      "url": "https://www.producthunt.com/products/novu",
+      "title": "Relay",
+      "url": "https://www.producthunt.com/products/relay-20",
       "tagline": "",
-      "pub_date": "2026-06-11T13:23:01-07:00"
+      "pub_date": "2026-06-11T12:53:03-07:00"
+    },
+    {
+      "title": "ColibotAI",
+      "url": "https://www.producthunt.com/products/colibotai",
+      "tagline": "",
+      "pub_date": "2026-06-09T08:18:51-07:00"
     },
     {
       "title": "IdleDev",
@@ -197,34 +308,40 @@
       "pub_date": "2026-06-14T21:00:10-07:00"
     },
     {
-      "title": "MockPilot",
-      "url": "https://www.producthunt.com/products/mockpilot",
+      "title": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
       "tagline": "",
-      "pub_date": "2026-06-10T02:54:12-07:00"
+      "pub_date": "2026-06-14T16:37:43-07:00"
     },
     {
-      "title": "Wobo 2.0",
-      "url": "https://www.producthunt.com/products/wobo-ai",
+      "title": "Notchcode",
+      "url": "https://www.producthunt.com/products/notchcode",
       "tagline": "",
-      "pub_date": "2026-06-08T14:49:56-07:00"
+      "pub_date": "2026-06-14T14:09:41-07:00"
     },
     {
-      "title": "Relay",
-      "url": "https://www.producthunt.com/products/relay-20",
+      "title": "Dropmatico",
+      "url": "https://www.producthunt.com/products/dropmatico",
       "tagline": "",
-      "pub_date": "2026-06-11T12:53:03-07:00"
+      "pub_date": "2026-06-14T04:30:31-07:00"
     },
     {
-      "title": "EmailFlow.AI",
-      "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
+      "title": "Momentra",
+      "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
       "tagline": "",
-      "pub_date": "2026-06-14T01:41:55-07:00"
+      "pub_date": "2026-06-13T22:17:09-07:00"
     },
     {
-      "title": "Verol",
-      "url": "https://www.producthunt.com/products/verol",
+      "title": "Tinfoil Pigeons",
+      "url": "https://www.producthunt.com/products/tinfoil-pigeons",
       "tagline": "",
-      "pub_date": "2026-06-08T04:37:29-07:00"
+      "pub_date": "2026-06-12T12:51:31-07:00"
+    },
+    {
+      "title": "AgentBrush",
+      "url": "https://www.producthunt.com/products/agentbrush",
+      "tagline": "",
+      "pub_date": "2026-06-14T22:21:36-07:00"
     },
     {
       "title": "PandaProbe Cloud",
@@ -233,34 +350,10 @@
       "pub_date": "2026-06-07T18:39:21-07:00"
     },
     {
-      "title": "AutoEdit",
-      "url": "https://www.producthunt.com/products/autoedit",
+      "title": "Kickbacks.ai",
+      "url": "https://www.producthunt.com/products/kickbacks-ai",
       "tagline": "",
-      "pub_date": "2026-06-04T04:01:38-07:00"
-    },
-    {
-      "title": "Capecho",
-      "url": "https://www.producthunt.com/products/capecho",
-      "tagline": "",
-      "pub_date": "2026-06-04T21:30:30-07:00"
-    },
-    {
-      "title": "Fonda",
-      "url": "https://www.producthunt.com/products/fonda",
-      "tagline": "",
-      "pub_date": "2026-06-14T06:55:52-07:00"
-    },
-    {
-      "title": "Notra Image Generation",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "tagline": "",
-      "pub_date": "2026-06-09T04:44:34-07:00"
-    },
-    {
-      "title": "Reignat",
-      "url": "https://www.producthunt.com/products/reignat",
-      "tagline": "",
-      "pub_date": "2026-06-14T16:37:43-07:00"
+      "pub_date": "2026-06-14T23:04:58-07:00"
     },
     {
       "title": "stackd.cc",
@@ -275,58 +368,22 @@
       "pub_date": "2026-06-11T00:12:07-07:00"
     },
     {
-      "title": "Notchcode",
-      "url": "https://www.producthunt.com/products/notchcode",
+      "title": "Notra Image Generation",
+      "url": "https://www.producthunt.com/products/notra-3",
       "tagline": "",
-      "pub_date": "2026-06-14T14:09:41-07:00"
+      "pub_date": "2026-06-09T04:44:34-07:00"
     },
     {
-      "title": "Kickbacks.ai",
-      "url": "https://www.producthunt.com/products/kickbacks-ai",
+      "title": "Verol",
+      "url": "https://www.producthunt.com/products/verol",
       "tagline": "",
-      "pub_date": "2026-06-14T23:04:58-07:00"
+      "pub_date": "2026-06-08T04:37:29-07:00"
     },
     {
-      "title": "ColibotAI",
-      "url": "https://www.producthunt.com/products/colibotai",
+      "title": "Capecho",
+      "url": "https://www.producthunt.com/products/capecho",
       "tagline": "",
-      "pub_date": "2026-06-09T08:18:51-07:00"
-    },
-    {
-      "title": "AgentBrush",
-      "url": "https://www.producthunt.com/products/agentbrush",
-      "tagline": "",
-      "pub_date": "2026-06-14T22:21:36-07:00"
-    },
-    {
-      "title": "AEVS",
-      "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
-      "tagline": "",
-      "pub_date": "2026-06-10T23:55:08-07:00"
-    },
-    {
-      "title": "Momentra",
-      "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
-      "tagline": "",
-      "pub_date": "2026-06-13T22:17:09-07:00"
-    },
-    {
-      "title": "Pass Quick Access",
-      "url": "https://www.producthunt.com/products/pass-quick-access",
-      "tagline": "",
-      "pub_date": "2026-06-13T18:38:58-07:00"
-    },
-    {
-      "title": "Tinfoil Pigeons",
-      "url": "https://www.producthunt.com/products/tinfoil-pigeons",
-      "tagline": "",
-      "pub_date": "2026-06-12T12:51:31-07:00"
-    },
-    {
-      "title": "Ultramemory",
-      "url": "https://www.producthunt.com/products/ultramemory-remembers-everything",
-      "tagline": "",
-      "pub_date": "2026-06-11T15:16:23-07:00"
+      "pub_date": "2026-06-04T21:30:30-07:00"
     },
     {
       "title": "termique",
@@ -335,10 +392,16 @@
       "pub_date": "2026-05-20T01:11:57-07:00"
     },
     {
-      "title": "Reverie.fm",
-      "url": "https://www.producthunt.com/products/reverie-fm",
+      "title": "Pass Quick Access",
+      "url": "https://www.producthunt.com/products/pass-quick-access",
       "tagline": "",
-      "pub_date": "2026-06-13T05:50:54-07:00"
+      "pub_date": "2026-06-13T18:38:58-07:00"
+    },
+    {
+      "title": "Permute 4.0",
+      "url": "https://www.producthunt.com/products/permute",
+      "tagline": "",
+      "pub_date": "2026-06-10T16:57:58-07:00"
     }
   ]
 }

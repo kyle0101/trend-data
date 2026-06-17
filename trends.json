@@ -1,227 +1,55 @@
 {
-  "generated_at": "2026-06-16T20:41:47.482Z",
+  "generated_at": "2026-06-17T02:56:27.958Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
-  "hn_show": [
-    {
-      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48550569",
-      "points": 140,
-      "comments": 24,
-      "created_ts": 1781583957,
-      "author": "california-og"
-    },
-    {
-      "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
-      "url": "https://github.com/firish/claude_code_vs",
-      "hn_url": "https://news.ycombinator.com/item?id=48548381",
-      "points": 19,
-      "comments": 7,
-      "created_ts": 1781565356,
-      "author": "firish"
-    },
-    {
-      "title": "Show HN: Pen and paper resource development game with an emergent world",
-      "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48559108",
-      "points": 12,
-      "comments": 1,
-      "created_ts": 1781632194,
-      "author": "jhylands"
-    },
-    {
-      "title": "Show HN: Zero Browser",
-      "url": "https://github.com/nz366/zero_browser",
-      "hn_url": "https://news.ycombinator.com/item?id=48548406",
-      "points": 11,
-      "comments": 7,
-      "created_ts": 1781565555,
-      "author": "zeron0a"
-    },
-    {
-      "title": "Show HN: AltiVerse: What If SIM, see different decisions affect an environment",
-      "url": "https://github.com/LeoTheAIDev/Altiverse",
-      "hn_url": "https://news.ycombinator.com/item?id=48547666",
-      "points": 11,
-      "comments": 2,
-      "created_ts": 1781561201,
-      "author": "leoTheCoderrr"
-    }
-  ],
-  "hn_front": [
-    {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "hn_url": "https://news.ycombinator.com/item?id=48550779",
-      "points": 814,
-      "comments": 381,
-      "created_ts": 1781585895,
-      "author": "apitman"
-    },
-    {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "hn_url": "https://news.ycombinator.com/item?id=48555993",
-      "points": 753,
-      "comments": 343,
-      "created_ts": 1781620617,
-      "author": "jfb"
-    },
-    {
-      "title": "SpaceX to buy Cursor for $60B",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "hn_url": "https://news.ycombinator.com/item?id=48553224",
-      "points": 677,
-      "comments": 1088,
-      "created_ts": 1781606664,
-      "author": "itsmarcelg"
-    },
-    {
-      "title": "Mechanical Watch (2022)",
-      "url": "https://ciechanow.ski/mechanical-watch/",
-      "hn_url": "https://news.ycombinator.com/item?id=48553550",
-      "points": 568,
-      "comments": 107,
-      "created_ts": 1781609187,
-      "author": "razin"
-    },
-    {
-      "title": "Apple's weird anti-nausea dots cured my car sickness",
-      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "hn_url": "https://news.ycombinator.com/item?id=48557530",
-      "points": 372,
-      "comments": 115,
-      "created_ts": 1781626326,
-      "author": "neilfrndes"
-    },
-    {
-      "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
-      "url": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
-      "hn_url": "https://news.ycombinator.com/item?id=48560847",
-      "points": 250,
-      "comments": 98,
-      "created_ts": 1781638925,
-      "author": "ResearchAtPlay"
-    },
-    {
-      "title": "Correlated randomness in Slay the Spire 2",
-      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-      "hn_url": "https://news.ycombinator.com/item?id=48552844",
-      "points": 239,
-      "comments": 78,
-      "created_ts": 1781603209,
-      "author": "rdmuser"
-    },
-    {
-      "title": "Claude: Elevated errors across many models",
-      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-      "hn_url": "https://news.ycombinator.com/item?id=48558766",
-      "points": 163,
-      "comments": 142,
-      "created_ts": 1781631030,
-      "author": "forks"
-    },
-    {
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "hn_url": "https://news.ycombinator.com/item?id=48558018",
-      "points": 152,
-      "comments": 86,
-      "created_ts": 1781628058,
-      "author": "mrshu"
-    },
-    {
-      "title": "But yak shaving is fun",
-      "url": "https://parksb.github.io/en/article/32.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48555838",
-      "points": 151,
-      "comments": 42,
-      "created_ts": 1781619986,
-      "author": "parksb"
-    },
-    {
-      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48550569",
-      "points": 140,
-      "comments": 24,
-      "created_ts": 1781583957,
-      "author": "california-og"
-    },
-    {
-      "title": "Apple is about to make Hide My Email useless",
-      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "hn_url": "https://news.ycombinator.com/item?id=48559935",
-      "points": 138,
-      "comments": 54,
-      "created_ts": 1781635041,
-      "author": "SXX"
-    },
-    {
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "hn_url": "https://news.ycombinator.com/item?id=48557079",
-      "points": 113,
-      "comments": 37,
-      "created_ts": 1781624684,
-      "author": "pseudolus"
-    },
-    {
-      "title": "'Ghost jobs' could soon be illegal in New York",
-      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
-      "hn_url": "https://news.ycombinator.com/item?id=48558338",
-      "points": 108,
-      "comments": 54,
-      "created_ts": 1781629272,
-      "author": "toomuchtodo"
-    },
-    {
-      "title": "Stop Using JWTs",
-      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "hn_url": "https://news.ycombinator.com/item?id=48558147",
-      "points": 106,
-      "comments": 68,
-      "created_ts": 1781628586,
-      "author": "dzonga"
-    }
-  ],
+  "hn_show": {
+    "error": "HTTP 400: {\"code\":400,\"message\":\"invalid numeric attribute(points), attribute not specified in numericAttributesForFiltering setting\"}\n"
+  },
+  "hn_front": {
+    "error": "HTTP 400: {\"code\":400,\"message\":\"invalid numeric attribute(points), attribute not specified in numericAttributesForFiltering setting\"}\n"
+  },
   "ph_today": [
     {
-      "title": "Stride",
-      "url": "https://www.producthunt.com/products/stride-10",
+      "title": "looquee",
+      "url": "https://www.producthunt.com/products/looquee",
       "tagline": "",
-      "pub_date": "2026-06-06T04:14:10-07:00"
+      "pub_date": "2026-06-04T10:16:55-07:00"
     },
     {
-      "title": "TimedSubs",
-      "url": "https://www.producthunt.com/products/timedsubs",
+      "title": "Ledgerly",
+      "url": "https://www.producthunt.com/products/github-224",
       "tagline": "",
-      "pub_date": "2026-06-14T03:02:36-07:00"
+      "pub_date": "2026-06-13T07:17:20-07:00"
     },
     {
-      "title": "Edgee Turbo Models",
-      "url": "https://www.producthunt.com/products/edgee",
+      "title": "Fluxmail",
+      "url": "https://www.producthunt.com/products/fluxmail",
       "tagline": "",
-      "pub_date": "2026-06-15T08:24:35-07:00"
+      "pub_date": "2026-06-15T11:49:36-07:00"
     },
     {
-      "title": "Sklm",
-      "url": "https://www.producthunt.com/products/sklm",
+      "title": "Botme",
+      "url": "https://www.producthunt.com/products/botme-io",
       "tagline": "",
-      "pub_date": "2026-06-15T02:44:04-07:00"
+      "pub_date": "2026-06-15T07:09:14-07:00"
     },
     {
-      "title": "Bitli.st",
-      "url": "https://www.producthunt.com/products/bitli-st",
+      "title": "Athena Desktop",
+      "url": "https://www.producthunt.com/products/athena-desktop",
       "tagline": "",
-      "pub_date": "2026-06-13T03:08:35-07:00"
+      "pub_date": "2026-06-15T13:46:51-07:00"
     },
     {
-      "title": "DevCleaner",
-      "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools",
+      "title": "Obotiq",
+      "url": "https://www.producthunt.com/products/obotiq",
       "tagline": "",
-      "pub_date": "2026-06-11T12:25:05-07:00"
+      "pub_date": "2026-06-15T13:41:02-07:00"
+    },
+    {
+      "title": "Getusefeed",
+      "url": "https://www.producthunt.com/products/getusefeed-voting-public-roadmap",
+      "tagline": "",
+      "pub_date": "2026-06-12T06:03:55-07:00"
     },
     {
       "title": "Tadka",
@@ -230,130 +58,22 @@
       "pub_date": "2026-06-12T04:08:51-07:00"
     },
     {
-      "title": "MindReader v1",
-      "url": "https://www.producthunt.com/products/mindreader-v1",
+      "title": "Fonty Menu Bar",
+      "url": "https://www.producthunt.com/products/fonty-menu-bar",
       "tagline": "",
-      "pub_date": "2026-06-12T04:56:32-07:00"
+      "pub_date": "2026-06-13T11:31:14-07:00"
     },
     {
-      "title": "HTML Deployer",
-      "url": "https://www.producthunt.com/products/html-deployer-2",
+      "title": "Agata",
+      "url": "https://www.producthunt.com/products/agata",
       "tagline": "",
-      "pub_date": "2026-06-15T22:00:14-07:00"
+      "pub_date": "2026-06-05T07:35:49-07:00"
     },
     {
-      "title": "FableWatch",
-      "url": "https://www.producthunt.com/products/fablewatch",
+      "title": "Publia",
+      "url": "https://www.producthunt.com/products/publia",
       "tagline": "",
-      "pub_date": "2026-06-15T13:25:22-07:00"
-    },
-    {
-      "title": "ZenVeil",
-      "url": "https://www.producthunt.com/products/zenveil",
-      "tagline": "",
-      "pub_date": "2026-06-13T22:58:01-07:00"
-    },
-    {
-      "title": "LYQN AI",
-      "url": "https://www.producthunt.com/products/lyqn-ai",
-      "tagline": "",
-      "pub_date": "2026-06-10T20:08:03-07:00"
-    },
-    {
-      "title": "Container Desktop",
-      "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
-      "tagline": "",
-      "pub_date": "2026-06-12T00:48:45-07:00"
-    },
-    {
-      "title": "Subotiz",
-      "url": "https://www.producthunt.com/products/subotiz",
-      "tagline": "",
-      "pub_date": "2026-05-27T23:34:30-07:00"
-    },
-    {
-      "title": "Revi",
-      "url": "https://www.producthunt.com/products/revi-2",
-      "tagline": "",
-      "pub_date": "2026-06-11T18:20:07-07:00"
-    },
-    {
-      "title": "Eidentic",
-      "url": "https://www.producthunt.com/products/eidentic",
-      "tagline": "",
-      "pub_date": "2026-06-11T12:15:23-07:00"
-    },
-    {
-      "title": "Tendlet",
-      "url": "https://www.producthunt.com/products/tendlet",
-      "tagline": "",
-      "pub_date": "2026-05-30T14:46:04-07:00"
-    },
-    {
-      "title": "DualCam AI",
-      "url": "https://www.producthunt.com/products/dualcam-ai",
-      "tagline": "",
-      "pub_date": "2026-05-19T07:14:39-07:00"
-    },
-    {
-      "title": "SocialKit",
-      "url": "https://www.producthunt.com/products/socialkit-2",
-      "tagline": "",
-      "pub_date": "2026-06-11T03:54:34-07:00"
-    },
-    {
-      "title": "Flows · Time Tracker",
-      "url": "https://www.producthunt.com/products/flows-time-tracker",
-      "tagline": "",
-      "pub_date": "2026-06-13T12:43:42-07:00"
-    },
-    {
-      "title": "Annota",
-      "url": "https://www.producthunt.com/products/annota",
-      "tagline": "",
-      "pub_date": "2026-06-15T23:29:45-07:00"
-    },
-    {
-      "title": "PicOne",
-      "url": "https://www.producthunt.com/products/picone-2",
-      "tagline": "",
-      "pub_date": "2026-06-15T04:14:53-07:00"
-    },
-    {
-      "title": "Tychi AI",
-      "url": "https://www.producthunt.com/products/tychi-ai",
-      "tagline": "",
-      "pub_date": "2026-06-15T11:05:00-07:00"
-    },
-    {
-      "title": "Writulos",
-      "url": "https://www.producthunt.com/products/writulos",
-      "tagline": "",
-      "pub_date": "2026-06-12T21:33:27-07:00"
-    },
-    {
-      "title": "Human in the Love",
-      "url": "https://www.producthunt.com/products/human-in-the-love",
-      "tagline": "",
-      "pub_date": "2026-06-11T18:36:59-07:00"
-    },
-    {
-      "title": "Fantasma",
-      "url": "https://www.producthunt.com/products/fantasma",
-      "tagline": "",
-      "pub_date": "2026-06-13T06:23:50-07:00"
-    },
-    {
-      "title": "Mood",
-      "url": "https://www.producthunt.com/products/mood-5",
-      "tagline": "",
-      "pub_date": "2026-06-14T15:35:49-07:00"
-    },
-    {
-      "title": "yousaidthat.org",
-      "url": "https://www.producthunt.com/products/yousaidthat-org",
-      "tagline": "",
-      "pub_date": "2026-06-15T10:23:50-07:00"
+      "pub_date": "2026-06-14T23:27:16-07:00"
     },
     {
       "title": "1000Yen Eats",
@@ -362,10 +82,112 @@
       "pub_date": "2026-06-15T12:23:30-07:00"
     },
     {
+      "title": "Human in the Love",
+      "url": "https://www.producthunt.com/products/human-in-the-love",
+      "tagline": "",
+      "pub_date": "2026-06-11T18:36:59-07:00"
+    },
+    {
+      "title": "Stash",
+      "url": "https://www.producthunt.com/products/stash-18",
+      "tagline": "",
+      "pub_date": "2026-06-15T20:52:22-07:00"
+    },
+    {
+      "title": "LLM Gateway Chat",
+      "url": "https://www.producthunt.com/products/llm-gateway",
+      "tagline": "",
+      "pub_date": "2026-06-14T19:43:16-07:00"
+    },
+    {
+      "title": "Dinamo Notebook",
+      "url": "https://www.producthunt.com/products/dinamo-notebook",
+      "tagline": "",
+      "pub_date": "2026-06-14T14:08:23-07:00"
+    },
+    {
+      "title": "Vidrunner",
+      "url": "https://www.producthunt.com/products/lasso-5",
+      "tagline": "",
+      "pub_date": "2026-06-12T08:54:18-07:00"
+    },
+    {
+      "title": "Mood",
+      "url": "https://www.producthunt.com/products/mood-5",
+      "tagline": "",
+      "pub_date": "2026-06-14T15:35:49-07:00"
+    },
+    {
+      "title": "Goldfish",
+      "url": "https://www.producthunt.com/products/goldfish-early-access",
+      "tagline": "",
+      "pub_date": "2026-05-22T21:46:19-07:00"
+    },
+    {
+      "title": "Flows · Time Tracker",
+      "url": "https://www.producthunt.com/products/flows-time-tracker",
+      "tagline": "",
+      "pub_date": "2026-06-13T12:43:42-07:00"
+    },
+    {
+      "title": "Writulos",
+      "url": "https://www.producthunt.com/products/writulos",
+      "tagline": "",
+      "pub_date": "2026-06-12T21:33:27-07:00"
+    },
+    {
+      "title": "Sklm",
+      "url": "https://www.producthunt.com/products/sklm",
+      "tagline": "",
+      "pub_date": "2026-06-15T02:44:04-07:00"
+    },
+    {
+      "title": "LYQN AI",
+      "url": "https://www.producthunt.com/products/lyqn-ai",
+      "tagline": "",
+      "pub_date": "2026-06-10T20:08:03-07:00"
+    },
+    {
       "title": "grnlght",
       "url": "https://www.producthunt.com/products/grnlght",
       "tagline": "",
       "pub_date": "2026-06-11T15:06:46-07:00"
+    },
+    {
+      "title": "Bodhiorchard",
+      "url": "https://www.producthunt.com/products/bodhiorchard",
+      "tagline": "",
+      "pub_date": "2026-06-11T05:33:55-07:00"
+    },
+    {
+      "title": "Fantasma",
+      "url": "https://www.producthunt.com/products/fantasma",
+      "tagline": "",
+      "pub_date": "2026-06-13T06:23:50-07:00"
+    },
+    {
+      "title": "ClientJam",
+      "url": "https://www.producthunt.com/products/clientjam",
+      "tagline": "",
+      "pub_date": "2026-06-15T10:54:57-07:00"
+    },
+    {
+      "title": "YoAmigo Studio",
+      "url": "https://www.producthunt.com/products/yoamigo-studio",
+      "tagline": "",
+      "pub_date": "2026-06-15T13:00:21-07:00"
+    },
+    {
+      "title": "Dirac",
+      "url": "https://www.producthunt.com/products/dirac-3",
+      "tagline": "",
+      "pub_date": "2026-06-09T02:14:17-07:00"
+    },
+    {
+      "title": "Glint",
+      "url": "https://www.producthunt.com/products/glint-9",
+      "tagline": "",
+      "pub_date": "2026-06-14T10:27:34-07:00"
     }
   ]
 }

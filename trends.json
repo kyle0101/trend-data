@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:19:31.536Z",
+  "generated_at": "2026-06-22T03:27:44.777Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": {
@@ -9,6 +9,18 @@
     "error": "HTTP 400: {\"code\":400,\"message\":\"invalid numeric attribute(points), attribute not specified in numericAttributesForFiltering setting\"}\n"
   },
   "ph_today": [
+    {
+      "title": "Atomic Mail Agentic",
+      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "tagline": "",
+      "pub_date": "2026-06-18T12:36:02-07:00"
+    },
+    {
+      "title": "Cloudback MCP Server",
+      "url": "https://www.producthunt.com/products/cloudback",
+      "tagline": "",
+      "pub_date": "2026-06-20T13:46:39-07:00"
+    },
     {
       "title": "Backgrind",
       "url": "https://www.producthunt.com/products/backgrind",
@@ -20,18 +32,6 @@
       "url": "https://www.producthunt.com/products/plansera-ai",
       "tagline": "",
       "pub_date": "2026-06-18T22:33:37-07:00"
-    },
-    {
-      "title": "Notchkin",
-      "url": "https://www.producthunt.com/products/notchkin",
-      "tagline": "",
-      "pub_date": "2026-06-20T16:28:02-07:00"
-    },
-    {
-      "title": "Cloudback MCP Server",
-      "url": "https://www.producthunt.com/products/cloudback",
-      "tagline": "",
-      "pub_date": "2026-06-20T13:46:39-07:00"
     },
     {
       "title": "Grok by SpaceXAI for Word",
@@ -46,10 +46,10 @@
       "pub_date": "2026-06-20T12:03:23-07:00"
     },
     {
-      "title": "Atomic Mail Agentic",
-      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "title": "oioi",
+      "url": "https://www.producthunt.com/products/oioi",
       "tagline": "",
-      "pub_date": "2026-06-18T12:36:02-07:00"
+      "pub_date": "2026-06-20T08:05:27-07:00"
     },
     {
       "title": "Laguna by Poolside",
@@ -58,16 +58,10 @@
       "pub_date": "2026-06-20T08:00:44-07:00"
     },
     {
-      "title": "oioi",
-      "url": "https://www.producthunt.com/products/oioi",
+      "title": "Notchkin",
+      "url": "https://www.producthunt.com/products/notchkin",
       "tagline": "",
-      "pub_date": "2026-06-20T08:05:27-07:00"
-    },
-    {
-      "title": "pumaDB",
-      "url": "https://www.producthunt.com/products/pumadb",
-      "tagline": "",
-      "pub_date": "2026-06-18T19:39:34-07:00"
+      "pub_date": "2026-06-20T16:28:02-07:00"
     },
     {
       "title": "Pixlie",
@@ -82,40 +76,10 @@
       "pub_date": "2026-05-28T07:08:40-07:00"
     },
     {
-      "title": "Foyer",
-      "url": "https://www.producthunt.com/products/foyer-4",
-      "tagline": "",
-      "pub_date": "2026-06-12T02:17:40-07:00"
-    },
-    {
-      "title": "Slackbot’s MCP Client",
-      "url": "https://www.producthunt.com/products/slack",
-      "tagline": "",
-      "pub_date": "2026-06-18T12:14:40-07:00"
-    },
-    {
       "title": "ReleaseDock",
       "url": "https://www.producthunt.com/products/releasedock",
       "tagline": "",
       "pub_date": "2026-06-16T08:15:07-07:00"
-    },
-    {
-      "title": "Reframe",
-      "url": "https://www.producthunt.com/products/reframe-7",
-      "tagline": "",
-      "pub_date": "2026-06-18T19:16:03-07:00"
-    },
-    {
-      "title": "Are you in the Weights?",
-      "url": "https://www.producthunt.com/products/are-you-in-the-weights",
-      "tagline": "",
-      "pub_date": "2026-06-19T17:56:01-07:00"
-    },
-    {
-      "title": "GitSync for macOS",
-      "url": "https://www.producthunt.com/products/gitsync-for-macos",
-      "tagline": "",
-      "pub_date": "2026-06-19T14:52:21-07:00"
     },
     {
       "title": "Basedash Access Controls",
@@ -124,10 +88,46 @@
       "pub_date": "2026-06-19T09:05:30-07:00"
     },
     {
+      "title": "Reframe",
+      "url": "https://www.producthunt.com/products/reframe-7",
+      "tagline": "",
+      "pub_date": "2026-06-18T19:16:03-07:00"
+    },
+    {
+      "title": "GitSync for macOS",
+      "url": "https://www.producthunt.com/products/gitsync-for-macos",
+      "tagline": "",
+      "pub_date": "2026-06-19T14:52:21-07:00"
+    },
+    {
+      "title": "Foyer",
+      "url": "https://www.producthunt.com/products/foyer-4",
+      "tagline": "",
+      "pub_date": "2026-06-12T02:17:40-07:00"
+    },
+    {
       "title": "Mellum by JetBrains",
       "url": "https://www.producthunt.com/products/jetbrains",
       "tagline": "",
       "pub_date": "2026-06-11T03:37:46-07:00"
+    },
+    {
+      "title": "pumaDB",
+      "url": "https://www.producthunt.com/products/pumadb",
+      "tagline": "",
+      "pub_date": "2026-06-18T19:39:34-07:00"
+    },
+    {
+      "title": "Slackbot’s MCP Client",
+      "url": "https://www.producthunt.com/products/slack",
+      "tagline": "",
+      "pub_date": "2026-06-18T12:14:40-07:00"
+    },
+    {
+      "title": "Are you in the Weights?",
+      "url": "https://www.producthunt.com/products/are-you-in-the-weights",
+      "tagline": "",
+      "pub_date": "2026-06-19T17:56:01-07:00"
     },
     {
       "title": "Firecrawl Research Index",
@@ -136,10 +136,22 @@
       "pub_date": "2026-06-18T13:29:16-07:00"
     },
     {
-      "title": "frontpage.sh",
-      "url": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
+      "title": "Mutter AI Dictation",
+      "url": "https://www.producthunt.com/products/mutter-ai-dictation",
       "tagline": "",
-      "pub_date": "2026-06-15T21:32:35-07:00"
+      "pub_date": "2026-06-18T22:41:54-07:00"
+    },
+    {
+      "title": "Claude Code Artifacts",
+      "url": "https://www.producthunt.com/products/claude-redesigned",
+      "tagline": "",
+      "pub_date": "2026-06-18T11:14:11-07:00"
+    },
+    {
+      "title": "API to MCP",
+      "url": "https://www.producthunt.com/products/api-to-mcp",
+      "tagline": "",
+      "pub_date": "2026-06-08T01:21:02-07:00"
     },
     {
       "title": "Prism",
@@ -154,40 +166,28 @@
       "pub_date": "2026-06-18T06:13:30-07:00"
     },
     {
-      "title": "API to MCP",
-      "url": "https://www.producthunt.com/products/api-to-mcp",
+      "title": "Narration Room",
+      "url": "https://www.producthunt.com/products/narration-room",
       "tagline": "",
-      "pub_date": "2026-06-08T01:21:02-07:00"
+      "pub_date": "2026-05-03T14:16:00-07:00"
     },
     {
-      "title": "Mutter AI Dictation",
-      "url": "https://www.producthunt.com/products/mutter-ai-dictation",
+      "title": "Darkmoon",
+      "url": "https://www.producthunt.com/products/darkmoon",
       "tagline": "",
-      "pub_date": "2026-06-18T22:41:54-07:00"
+      "pub_date": "2026-06-18T05:12:33-07:00"
     },
     {
-      "title": "Midjourney Scanner",
-      "url": "https://www.producthunt.com/products/midjourney",
+      "title": "MeshPilot",
+      "url": "https://www.producthunt.com/products/meshpilot",
       "tagline": "",
-      "pub_date": "2026-06-18T20:18:43-07:00"
+      "pub_date": "2026-06-17T13:45:40-07:00"
     },
     {
-      "title": "Zernio WhatsApp API",
-      "url": "https://www.producthunt.com/products/zernio",
+      "title": "Blazly Backlinker",
+      "url": "https://www.producthunt.com/products/blazly-backlinker",
       "tagline": "",
-      "pub_date": "2026-06-11T07:18:43-07:00"
-    },
-    {
-      "title": "Snap Deck HQ",
-      "url": "https://www.producthunt.com/products/snap-deck-hq",
-      "tagline": "",
-      "pub_date": "2026-06-18T05:40:23-07:00"
-    },
-    {
-      "title": "just f***ing send it",
-      "url": "https://www.producthunt.com/products/just-f-ing-send-it",
-      "tagline": "",
-      "pub_date": "2026-06-18T12:11:49-07:00"
+      "pub_date": "2026-06-18T07:58:24-07:00"
     }
   ]
 }

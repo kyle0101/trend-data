@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:26:58.876Z",
+  "generated_at": "2026-07-04T13:06:23.522Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": {
@@ -9,24 +9,6 @@
     "error": "HTTP 400: {\"code\":400,\"message\":\"invalid numeric attribute(points), attribute not specified in numericAttributesForFiltering setting\"}\n"
   },
   "ph_today": [
-    {
-      "title": "Mentic",
-      "url": "https://www.producthunt.com/products/mentic",
-      "tagline": "",
-      "pub_date": "2026-05-21T00:11:00-07:00"
-    },
-    {
-      "title": "PhoneDeck",
-      "url": "https://www.producthunt.com/products/phonedeck",
-      "tagline": "",
-      "pub_date": "2026-06-03T03:23:56-07:00"
-    },
-    {
-      "title": "Vida",
-      "url": "https://www.producthunt.com/products/vida-5",
-      "tagline": "",
-      "pub_date": "2026-06-17T13:02:52-07:00"
-    },
     {
       "title": "CentryAI",
       "url": "https://www.producthunt.com/products/centryai",
@@ -40,34 +22,34 @@
       "pub_date": "2026-07-03T14:14:15-07:00"
     },
     {
+      "title": "Vida",
+      "url": "https://www.producthunt.com/products/vida-5",
+      "tagline": "",
+      "pub_date": "2026-06-17T13:02:52-07:00"
+    },
+    {
       "title": "ChecklistFox",
       "url": "https://www.producthunt.com/products/checklistfox",
       "tagline": "",
       "pub_date": "2026-07-03T13:40:09-07:00"
     },
     {
-      "title": "Tamamon",
-      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "title": "PhoneDeck",
+      "url": "https://www.producthunt.com/products/phonedeck",
       "tagline": "",
-      "pub_date": "2026-07-02T06:57:06-07:00"
-    },
-    {
-      "title": "nxt",
-      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
-      "tagline": "",
-      "pub_date": "2026-07-01T03:43:09-07:00"
-    },
-    {
-      "title": "Goals from Loops",
-      "url": "https://www.producthunt.com/products/loops",
-      "tagline": "",
-      "pub_date": "2026-07-02T03:03:16-07:00"
+      "pub_date": "2026-06-03T03:23:56-07:00"
     },
     {
       "title": "Vox",
       "url": "https://www.producthunt.com/products/vox-5",
       "tagline": "",
       "pub_date": "2026-07-02T17:08:51-07:00"
+    },
+    {
+      "title": "nxt",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+      "tagline": "",
+      "pub_date": "2026-07-01T03:43:09-07:00"
     },
     {
       "title": "Archify",
@@ -82,58 +64,16 @@
       "pub_date": "2026-07-02T08:57:02-07:00"
     },
     {
-      "title": "Macuse",
-      "url": "https://www.producthunt.com/products/macuse",
+      "title": "Goals from Loops",
+      "url": "https://www.producthunt.com/products/loops",
       "tagline": "",
-      "pub_date": "2026-07-01T02:26:16-07:00"
+      "pub_date": "2026-07-02T03:03:16-07:00"
     },
     {
-      "title": "Fypro",
-      "url": "https://www.producthunt.com/products/fypro",
+      "title": "Tamamon",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
       "tagline": "",
-      "pub_date": "2026-06-15T18:50:12-07:00"
-    },
-    {
-      "title": "Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "tagline": "",
-      "pub_date": "2026-06-30T20:33:28-07:00"
-    },
-    {
-      "title": "Macro",
-      "url": "https://www.producthunt.com/products/macro-workspace",
-      "tagline": "",
-      "pub_date": "2026-06-26T12:41:09-07:00"
-    },
-    {
-      "title": "Flowly",
-      "url": "https://www.producthunt.com/products/flowly-6",
-      "tagline": "",
-      "pub_date": "2026-06-29T19:35:56-07:00"
-    },
-    {
-      "title": "Quick Sub 2: Video Subtitling",
-      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
-      "tagline": "",
-      "pub_date": "2026-07-01T16:54:47-07:00"
-    },
-    {
-      "title": "Banger Mail",
-      "url": "https://www.producthunt.com/products/banger-mail",
-      "tagline": "",
-      "pub_date": "2026-07-01T18:00:26-07:00"
-    },
-    {
-      "title": "Gaming Chat SDK by CometChat",
-      "url": "https://www.producthunt.com/products/cometchat",
-      "tagline": "",
-      "pub_date": "2026-07-01T22:02:58-07:00"
-    },
-    {
-      "title": "Solaris",
-      "url": "https://www.producthunt.com/products/build-club",
-      "tagline": "",
-      "pub_date": "2026-06-30T13:58:22-07:00"
+      "pub_date": "2026-07-02T06:57:06-07:00"
     },
     {
       "title": "Sidedoor",
@@ -142,34 +82,22 @@
       "pub_date": "2026-07-01T22:09:33-07:00"
     },
     {
-      "title": "Basedash Actions",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "Gaming Chat SDK by CometChat",
+      "url": "https://www.producthunt.com/products/cometchat",
       "tagline": "",
-      "pub_date": "2026-07-01T21:14:53-07:00"
+      "pub_date": "2026-07-01T22:02:58-07:00"
     },
     {
-      "title": "html.contact",
-      "url": "https://www.producthunt.com/products/html-contact",
+      "title": "Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "tagline": "",
-      "pub_date": "2026-07-01T14:35:21-07:00"
-    },
-    {
-      "title": "Needle",
-      "url": "https://www.producthunt.com/products/needle-3",
-      "tagline": "",
-      "pub_date": "2026-06-30T06:17:55-07:00"
+      "pub_date": "2026-06-30T20:33:28-07:00"
     },
     {
       "title": "scritty",
       "url": "https://www.producthunt.com/products/scritty",
       "tagline": "",
       "pub_date": "2026-07-01T17:21:44-07:00"
-    },
-    {
-      "title": "PieterPost MCP",
-      "url": "https://www.producthunt.com/products/pieter-post",
-      "tagline": "",
-      "pub_date": "2026-07-01T13:19:19-07:00"
     },
     {
       "title": "PixFit",
@@ -184,10 +112,82 @@
       "pub_date": "2026-07-01T09:12:07-07:00"
     },
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.producthunt.com/products/claude",
+      "title": "Fypro",
+      "url": "https://www.producthunt.com/products/fypro",
       "tagline": "",
-      "pub_date": "2026-06-30T11:30:12-07:00"
+      "pub_date": "2026-06-15T18:50:12-07:00"
+    },
+    {
+      "title": "Quick Sub 2: Video Subtitling",
+      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+      "tagline": "",
+      "pub_date": "2026-07-01T16:54:47-07:00"
+    },
+    {
+      "title": "PieterPost MCP",
+      "url": "https://www.producthunt.com/products/pieter-post",
+      "tagline": "",
+      "pub_date": "2026-07-01T13:19:19-07:00"
+    },
+    {
+      "title": "Solaris",
+      "url": "https://www.producthunt.com/products/build-club",
+      "tagline": "",
+      "pub_date": "2026-06-30T13:58:22-07:00"
+    },
+    {
+      "title": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3",
+      "tagline": "",
+      "pub_date": "2026-06-30T06:17:55-07:00"
+    },
+    {
+      "title": "Macro",
+      "url": "https://www.producthunt.com/products/macro-workspace",
+      "tagline": "",
+      "pub_date": "2026-06-26T12:41:09-07:00"
+    },
+    {
+      "title": "html.contact",
+      "url": "https://www.producthunt.com/products/html-contact",
+      "tagline": "",
+      "pub_date": "2026-07-01T14:35:21-07:00"
+    },
+    {
+      "title": "Banger Mail",
+      "url": "https://www.producthunt.com/products/banger-mail",
+      "tagline": "",
+      "pub_date": "2026-07-01T18:00:26-07:00"
+    },
+    {
+      "title": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "tagline": "",
+      "pub_date": "2026-07-01T02:26:16-07:00"
+    },
+    {
+      "title": "Basedash Actions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-07-01T21:14:53-07:00"
+    },
+    {
+      "title": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "tagline": "",
+      "pub_date": "2026-06-29T19:35:56-07:00"
+    },
+    {
+      "title": "Fuser Apps",
+      "url": "https://www.producthunt.com/products/fuser",
+      "tagline": "",
+      "pub_date": "2026-06-22T23:44:07-07:00"
+    },
+    {
+      "title": "Mark by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "tagline": "",
+      "pub_date": "2026-06-26T12:21:13-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:16:10.322Z",
+  "generated_at": "2026-07-06T19:45:25.437Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": {
@@ -9,42 +9,6 @@
     "error": "HTTP 400: {\"code\":400,\"message\":\"invalid numeric attribute(points), attribute not specified in numericAttributesForFiltering setting\"}\n"
   },
   "ph_today": [
-    {
-      "title": "Octolens",
-      "url": "https://www.producthunt.com/products/octolens-ai",
-      "tagline": "",
-      "pub_date": "2026-06-29T09:11:04-07:00"
-    },
-    {
-      "title": "Typeahead 2.0",
-      "url": "https://www.producthunt.com/products/typeahead",
-      "tagline": "",
-      "pub_date": "2026-07-02T14:39:18-07:00"
-    },
-    {
-      "title": "AnySearch",
-      "url": "https://www.producthunt.com/products/anysearch",
-      "tagline": "",
-      "pub_date": "2026-07-01T01:58:38-07:00"
-    },
-    {
-      "title": "CodeMote",
-      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
-      "tagline": "",
-      "pub_date": "2026-07-05T06:39:06-07:00"
-    },
-    {
-      "title": "Edgee Claude Code Compressor V2",
-      "url": "https://www.producthunt.com/products/edgee",
-      "tagline": "",
-      "pub_date": "2026-07-02T21:38:17-07:00"
-    },
-    {
-      "title": "Nixmac",
-      "url": "https://www.producthunt.com/products/nixmac",
-      "tagline": "",
-      "pub_date": "2026-07-05T06:33:34-07:00"
-    },
     {
       "title": "AirKaren",
       "url": "https://www.producthunt.com/products/airkaren",
@@ -58,10 +22,22 @@
       "pub_date": "2026-07-05T20:37:29-07:00"
     },
     {
-      "title": "Sunrise",
-      "url": "https://www.producthunt.com/products/sunrise-5",
+      "title": "Octolens",
+      "url": "https://www.producthunt.com/products/octolens-ai",
       "tagline": "",
-      "pub_date": "2026-06-25T11:39:17-07:00"
+      "pub_date": "2026-06-29T09:11:04-07:00"
+    },
+    {
+      "title": "AnySearch",
+      "url": "https://www.producthunt.com/products/anysearch",
+      "tagline": "",
+      "pub_date": "2026-07-01T01:58:38-07:00"
+    },
+    {
+      "title": "Typeahead 2.0",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "tagline": "",
+      "pub_date": "2026-07-02T14:39:18-07:00"
     },
     {
       "title": "Mozaik",
@@ -70,10 +46,10 @@
       "pub_date": "2026-07-05T05:31:38-07:00"
     },
     {
-      "title": "Cadence",
-      "url": "https://www.producthunt.com/products/cadence-13",
+      "title": "Edgee Claude Code Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
       "tagline": "",
-      "pub_date": "2026-07-03T06:20:27-07:00"
+      "pub_date": "2026-07-02T21:38:17-07:00"
     },
     {
       "title": "Astryx",
@@ -82,16 +58,28 @@
       "pub_date": "2026-07-05T20:52:49-07:00"
     },
     {
-      "title": "WorkBuddy",
-      "url": "https://www.producthunt.com/products/workbuddy-2",
+      "title": "Cadence",
+      "url": "https://www.producthunt.com/products/cadence-13",
       "tagline": "",
-      "pub_date": "2026-06-29T19:39:48-07:00"
+      "pub_date": "2026-07-03T06:20:27-07:00"
     },
     {
-      "title": "DocsAlot",
-      "url": "https://www.producthunt.com/products/docsalot-2",
+      "title": "Nixmac",
+      "url": "https://www.producthunt.com/products/nixmac",
       "tagline": "",
-      "pub_date": "2026-07-01T16:09:51-07:00"
+      "pub_date": "2026-07-05T06:33:34-07:00"
+    },
+    {
+      "title": "Sunrise",
+      "url": "https://www.producthunt.com/products/sunrise-5",
+      "tagline": "",
+      "pub_date": "2026-06-25T11:39:17-07:00"
+    },
+    {
+      "title": "CodeMote",
+      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+      "tagline": "",
+      "pub_date": "2026-07-05T06:39:06-07:00"
     },
     {
       "title": "CircleChat",
@@ -100,16 +88,28 @@
       "pub_date": "2026-07-04T09:05:42-07:00"
     },
     {
+      "title": "WorkBuddy",
+      "url": "https://www.producthunt.com/products/workbuddy-2",
+      "tagline": "",
+      "pub_date": "2026-06-29T19:39:48-07:00"
+    },
+    {
+      "title": "MentionDrop MCP",
+      "url": "https://www.producthunt.com/products/mentiondrop",
+      "tagline": "",
+      "pub_date": "2026-06-19T00:54:26-07:00"
+    },
+    {
       "title": "Endl",
       "url": "https://www.producthunt.com/products/endl",
       "tagline": "",
       "pub_date": "2026-07-03T12:10:29-07:00"
     },
     {
-      "title": "Toku Reader",
-      "url": "https://www.producthunt.com/products/toku-reader",
+      "title": "DocsAlot",
+      "url": "https://www.producthunt.com/products/docsalot-2",
       "tagline": "",
-      "pub_date": "2026-06-18T12:03:42-07:00"
+      "pub_date": "2026-07-01T16:09:51-07:00"
     },
     {
       "title": "Pennen",
@@ -118,10 +118,10 @@
       "pub_date": "2026-07-03T14:30:43-07:00"
     },
     {
-      "title": "MentionDrop MCP",
-      "url": "https://www.producthunt.com/products/mentiondrop",
+      "title": "Toku Reader",
+      "url": "https://www.producthunt.com/products/toku-reader",
       "tagline": "",
-      "pub_date": "2026-06-19T00:54:26-07:00"
+      "pub_date": "2026-06-18T12:03:42-07:00"
     },
     {
       "title": "TryCase",
@@ -136,22 +136,16 @@
       "pub_date": "2026-06-17T13:02:52-07:00"
     },
     {
-      "title": "ChecklistFox",
-      "url": "https://www.producthunt.com/products/checklistfox",
-      "tagline": "",
-      "pub_date": "2026-07-03T13:40:09-07:00"
-    },
-    {
-      "title": "PhoneDeck",
-      "url": "https://www.producthunt.com/products/phonedeck",
-      "tagline": "",
-      "pub_date": "2026-06-03T03:23:56-07:00"
-    },
-    {
       "title": "Termi Protocol",
       "url": "https://www.producthunt.com/products/termi-protocol",
       "tagline": "",
       "pub_date": "2026-07-03T14:14:15-07:00"
+    },
+    {
+      "title": "ChecklistFox",
+      "url": "https://www.producthunt.com/products/checklistfox",
+      "tagline": "",
+      "pub_date": "2026-07-03T13:40:09-07:00"
     },
     {
       "title": "CentryAI",
@@ -160,22 +154,22 @@
       "pub_date": "2026-06-04T07:40:47-07:00"
     },
     {
+      "title": "PhoneDeck",
+      "url": "https://www.producthunt.com/products/phonedeck",
+      "tagline": "",
+      "pub_date": "2026-06-03T03:23:56-07:00"
+    },
+    {
       "title": "Glaze by Raycast",
       "url": "https://www.producthunt.com/products/glaze-4",
       "tagline": "",
       "pub_date": "2026-07-02T08:57:02-07:00"
     },
     {
-      "title": "Tamamon",
-      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "title": "nxt",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
       "tagline": "",
-      "pub_date": "2026-07-02T06:57:06-07:00"
-    },
-    {
-      "title": "Archify",
-      "url": "https://www.producthunt.com/products/archify",
-      "tagline": "",
-      "pub_date": "2026-06-22T09:11:11-07:00"
+      "pub_date": "2026-07-01T03:43:09-07:00"
     },
     {
       "title": "Vox",
@@ -184,10 +178,16 @@
       "pub_date": "2026-07-02T17:08:51-07:00"
     },
     {
-      "title": "Goals from Loops",
-      "url": "https://www.producthunt.com/products/loops",
+      "title": "Archify",
+      "url": "https://www.producthunt.com/products/archify",
       "tagline": "",
-      "pub_date": "2026-07-02T03:03:16-07:00"
+      "pub_date": "2026-06-22T09:11:11-07:00"
+    },
+    {
+      "title": "Tamamon",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "tagline": "",
+      "pub_date": "2026-07-02T06:57:06-07:00"
     }
   ]
 }

@@ -1,94 +1,58 @@
 {
-  "generated_at": "2026-07-10T09:21:50.528Z",
+  "generated_at": "2026-07-10T14:04:55.827Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48845049",
-      "points": 984,
-      "comments": 316,
-      "created_ts": 1783601332,
-      "author": "pompomsheep"
-    },
-    {
       "title": "Show HN: Analog Watch",
       "url": "https://analog.watch",
       "hn_url": "https://news.ycombinator.com/item?id=48846510",
-      "points": 92,
-      "comments": 88,
+      "points": 95,
+      "comments": 91,
       "created_ts": 1783607454,
       "author": "ezekg"
-    },
-    {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "hn_url": "https://news.ycombinator.com/item?id=48845422",
-      "points": 91,
-      "comments": 58,
-      "created_ts": 1783603390,
-      "author": "ronak_parmar"
     },
     {
       "title": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
       "url": "https://www.lastshelf.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=48847298",
-      "points": 45,
-      "comments": 29,
+      "points": 46,
+      "comments": 31,
       "created_ts": 1783609991,
       "author": "sbrown12"
-    },
-    {
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "url": "https://news.ycombinator.com/item?id=48847834",
-      "hn_url": "https://news.ycombinator.com/item?id=48847834",
-      "points": 33,
-      "comments": 12,
-      "created_ts": 1783611917,
-      "author": "pancomplex"
     },
     {
       "title": "Show HN: Devthropology – Better Insights for GitHub Repos",
       "url": "https://devthropology.com/demo",
       "hn_url": "https://news.ycombinator.com/item?id=48848819",
-      "points": 32,
-      "comments": 9,
+      "points": 35,
+      "comments": 10,
       "created_ts": 1783615673,
       "author": "dpc94"
+    },
+    {
+      "title": "Show HN: Reverse-engineering web apps into agent tools",
+      "url": "https://news.ycombinator.com/item?id=48847834",
+      "hn_url": "https://news.ycombinator.com/item?id=48847834",
+      "points": 34,
+      "comments": 15,
+      "created_ts": 1783611917,
+      "author": "pancomplex"
     },
     {
       "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
       "url": "https://lucid.earthpilot.ai",
       "hn_url": "https://news.ycombinator.com/item?id=48849618",
-      "points": 29,
-      "comments": 5,
+      "points": 31,
+      "comments": 6,
       "created_ts": 1783618590,
       "author": "ada1981"
-    },
-    {
-      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-      "url": "https://arcaide.foo",
-      "hn_url": "https://news.ycombinator.com/item?id=48845142",
-      "points": 25,
-      "comments": 12,
-      "created_ts": 1783601984,
-      "author": "aqula"
-    },
-    {
-      "title": "Show HN: 92% of US city websites fail ADA accessibility",
-      "url": "https://accesslumens.com/research/state-of-us-local-government-accessibility-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=48844956",
-      "points": 21,
-      "comments": 8,
-      "created_ts": 1783600803,
-      "author": "a11ymaster"
     },
     {
       "title": "Show HN: RandoFont – A browser for Google Fonts",
       "url": "https://randofont.alesh.com",
       "hn_url": "https://news.ycombinator.com/item?id=48852144",
-      "points": 20,
+      "points": 23,
       "comments": 3,
       "created_ts": 1783629998,
       "author": "aleshh"
@@ -97,8 +61,8 @@
       "title": "Show HN: Rubiks Cube Solver",
       "url": "https://speedcube.com.br/",
       "hn_url": "https://news.ycombinator.com/item?id=48852403",
-      "points": 19,
-      "comments": 8,
+      "points": 21,
+      "comments": 9,
       "created_ts": 1783631345,
       "author": "wozzp"
     },
@@ -106,19 +70,10 @@
       "title": "Show HN: Sighthound - open-source vulnerability scanner for source code",
       "url": "https://github.com/Corgea/Sighthound",
       "hn_url": "https://news.ycombinator.com/item?id=48847577",
-      "points": 14,
+      "points": 16,
       "comments": 0,
       "created_ts": 1783611015,
       "author": "asadeddin"
-    },
-    {
-      "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
-      "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
-      "hn_url": "https://news.ycombinator.com/item?id=48845367",
-      "points": 14,
-      "comments": 0,
-      "created_ts": 1783603152,
-      "author": "Realman78"
     },
     {
       "title": "Show HN: I built a free app for New Yorkers to save money on groceries",
@@ -150,74 +105,29 @@
   ],
   "hn_front": [
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "hn_url": "https://news.ycombinator.com/item?id=48843923",
-      "points": 1368,
-      "comments": 648,
-      "created_ts": 1783595034,
-      "author": "rapnie"
-    },
-    {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
       "hn_url": "https://news.ycombinator.com/item?id=48849066",
-      "points": 1249,
-      "comments": 896,
+      "points": 1407,
+      "comments": 981,
       "created_ts": 1783616654,
       "author": "logickkk1"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48845049",
-      "points": 984,
-      "comments": 316,
-      "created_ts": 1783601332,
-      "author": "pompomsheep"
     },
     {
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
       "hn_url": "https://news.ycombinator.com/item?id=48847552",
-      "points": 473,
-      "comments": 95,
+      "points": 520,
+      "comments": 106,
       "created_ts": 1783610868,
       "author": "andai"
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "hn_url": "https://news.ycombinator.com/item?id=48846184",
-      "points": 373,
-      "comments": 187,
-      "created_ts": 1783606222,
-      "author": "ot"
-    },
-    {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "hn_url": "https://news.ycombinator.com/item?id=48845442",
-      "points": 371,
-      "comments": 452,
-      "created_ts": 1783603483,
-      "author": "baud147258"
-    },
-    {
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "hn_url": "https://news.ycombinator.com/item?id=48847511",
-      "points": 281,
-      "comments": 37,
-      "created_ts": 1783610725,
-      "author": "mzur"
     },
     {
       "title": "No leap second will be introduced at the end of December 2026",
       "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
       "hn_url": "https://news.ycombinator.com/item?id=48846281",
-      "points": 277,
-      "comments": 217,
+      "points": 301,
+      "comments": 231,
       "created_ts": 1783606594,
       "author": "ChrisArchitect"
     },
@@ -225,45 +135,45 @@
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
       "hn_url": "https://news.ycombinator.com/item?id=48849292",
-      "points": 239,
-      "comments": 109,
+      "points": 299,
+      "comments": 152,
       "created_ts": 1783617436,
       "author": "veqq"
     },
     {
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "hn_url": "https://news.ycombinator.com/item?id=48845209",
-      "points": 227,
-      "comments": 175,
-      "created_ts": 1783602364,
-      "author": "silcoon"
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "hn_url": "https://news.ycombinator.com/item?id=48856904",
+      "points": 144,
+      "comments": 149,
+      "created_ts": 1783669151,
+      "author": "smusamashah"
     },
     {
-      "title": "Why American ambulance rides are so expensive",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "hn_url": "https://news.ycombinator.com/item?id=48853091",
-      "points": 205,
-      "comments": 273,
-      "created_ts": 1783635356,
-      "author": "jyunwai"
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "hn_url": "https://news.ycombinator.com/item?id=48852199",
+      "points": 112,
+      "comments": 223,
+      "created_ts": 1783630266,
+      "author": "catalinvoss"
     },
     {
-      "title": "Opinionated and easy Pi.dev configuration",
-      "url": "https://lazypi.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=48847407",
-      "points": 130,
-      "comments": 69,
-      "created_ts": 1783610373,
-      "author": "lwhsiao"
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "hn_url": "https://news.ycombinator.com/item?id=48858292",
+      "points": 109,
+      "comments": 79,
+      "created_ts": 1783681215,
+      "author": "jeroenhd"
     }
   ],
   "ph_today": [
     {
-      "title": "PlugThis",
-      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+      "title": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
       "tagline": "",
-      "pub_date": "2026-07-06T05:06:48-07:00"
+      "pub_date": "2026-07-08T23:50:16-07:00"
     },
     {
       "title": "GPT-5.6",
@@ -272,58 +182,10 @@
       "pub_date": "2026-07-09T10:08:01-07:00"
     },
     {
-      "title": "RepStandard",
-      "url": "https://www.producthunt.com/products/repstandard",
+      "title": "PlugThis",
+      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
       "tagline": "",
-      "pub_date": "2026-07-09T21:31:51-07:00"
-    },
-    {
-      "title": "Mispher",
-      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
-      "tagline": "",
-      "pub_date": "2026-07-09T02:36:54-07:00"
-    },
-    {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "tagline": "",
-      "pub_date": "2026-07-09T08:01:28-07:00"
-    },
-    {
-      "title": "StoryChief Connect",
-      "url": "https://www.producthunt.com/products/storychief-io",
-      "tagline": "",
-      "pub_date": "2026-07-09T03:43:58-07:00"
-    },
-    {
-      "title": "Ship OS by Notion",
-      "url": "https://www.producthunt.com/products/notion",
-      "tagline": "",
-      "pub_date": "2026-07-09T11:19:56-07:00"
-    },
-    {
-      "title": "Sim",
-      "url": "https://www.producthunt.com/products/sim-studio",
-      "tagline": "",
-      "pub_date": "2026-07-08T11:55:06-07:00"
-    },
-    {
-      "title": "ChatCut",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "tagline": "",
-      "pub_date": "2026-07-08T23:50:16-07:00"
-    },
-    {
-      "title": "Yasmine Works",
-      "url": "https://www.producthunt.com/products/yasmine-works",
-      "tagline": "",
-      "pub_date": "2026-07-06T06:29:46-07:00"
-    },
-    {
-      "title": "Scarlett.",
-      "url": "https://www.producthunt.com/products/tryscarlett",
-      "tagline": "",
-      "pub_date": "2026-07-04T07:17:47-07:00"
+      "pub_date": "2026-07-06T05:06:48-07:00"
     },
     {
       "title": "ConnectMachine 2.0",
@@ -332,10 +194,40 @@
       "pub_date": "2026-06-25T00:07:34-07:00"
     },
     {
+      "title": "RepStandard",
+      "url": "https://www.producthunt.com/products/repstandard",
+      "tagline": "",
+      "pub_date": "2026-07-09T21:31:51-07:00"
+    },
+    {
       "title": "Juicy",
       "url": "https://www.producthunt.com/products/juicy-battery-app",
       "tagline": "",
       "pub_date": "2026-07-07T08:30:20-07:00"
+    },
+    {
+      "title": "Mispher",
+      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "tagline": "",
+      "pub_date": "2026-07-09T02:36:54-07:00"
+    },
+    {
+      "title": "StoryChief Connect",
+      "url": "https://www.producthunt.com/products/storychief-io",
+      "tagline": "",
+      "pub_date": "2026-07-09T03:43:58-07:00"
+    },
+    {
+      "title": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio",
+      "tagline": "",
+      "pub_date": "2026-07-08T11:55:06-07:00"
+    },
+    {
+      "title": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
+      "tagline": "",
+      "pub_date": "2026-07-09T11:19:56-07:00"
     },
     {
       "title": "Native SDK",
@@ -344,10 +236,22 @@
       "pub_date": "2026-07-09T11:17:11-07:00"
     },
     {
-      "title": "Coasty",
-      "url": "https://www.producthunt.com/products/coasty",
+      "title": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
       "tagline": "",
-      "pub_date": "2026-07-08T11:52:30-07:00"
+      "pub_date": "2026-07-06T06:29:46-07:00"
+    },
+    {
+      "title": "Muse Spark 1.1 by Meta AI",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "tagline": "",
+      "pub_date": "2026-07-09T08:01:28-07:00"
+    },
+    {
+      "title": "Scarlett.",
+      "url": "https://www.producthunt.com/products/tryscarlett",
+      "tagline": "",
+      "pub_date": "2026-07-04T07:17:47-07:00"
     },
     {
       "title": "Glimpse",
@@ -356,16 +260,10 @@
       "pub_date": "2026-07-07T11:57:55-07:00"
     },
     {
-      "title": "ARKAD Wallet",
-      "url": "https://www.producthunt.com/products/arkad-wallet",
+      "title": "Coasty",
+      "url": "https://www.producthunt.com/products/coasty",
       "tagline": "",
-      "pub_date": "2026-07-06T11:17:21-07:00"
-    },
-    {
-      "title": "Just Ask by SEORCE",
-      "url": "https://www.producthunt.com/products/seorce",
-      "tagline": "",
-      "pub_date": "2026-07-08T02:13:36-07:00"
+      "pub_date": "2026-07-08T11:52:30-07:00"
     },
     {
       "title": "Constellation Gate AI",
@@ -374,40 +272,16 @@
       "pub_date": "2026-07-08T09:11:45-07:00"
     },
     {
-      "title": "Tasks.txt",
-      "url": "https://www.producthunt.com/products/tasks-txt",
+      "title": "Just Ask by SEORCE",
+      "url": "https://www.producthunt.com/products/seorce",
       "tagline": "",
-      "pub_date": "2026-07-08T11:22:00-07:00"
+      "pub_date": "2026-07-08T02:13:36-07:00"
     },
     {
       "title": "Monogram AI",
       "url": "https://www.producthunt.com/products/monogram-ai",
       "tagline": "",
       "pub_date": "2026-07-08T10:24:21-07:00"
-    },
-    {
-      "title": "Aura: Agents + Git + Intent Open Source",
-      "url": "https://www.producthunt.com/products/aura-28",
-      "tagline": "",
-      "pub_date": "2026-07-07T12:23:07-07:00"
-    },
-    {
-      "title": "GPT-Live",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-07-08T20:32:35-07:00"
-    },
-    {
-      "title": "Opper AI",
-      "url": "https://www.producthunt.com/products/opper-ai",
-      "tagline": "",
-      "pub_date": "2026-07-06T09:51:59-07:00"
-    },
-    {
-      "title": "Lispr",
-      "url": "https://www.producthunt.com/products/lispr",
-      "tagline": "",
-      "pub_date": "2026-07-07T14:02:15-07:00"
     },
     {
       "title": "Toyo",
@@ -422,16 +296,52 @@
       "pub_date": "2026-06-11T19:42:31-07:00"
     },
     {
-      "title": "Timbal AI",
-      "url": "https://www.producthunt.com/products/timbal-ai",
+      "title": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
       "tagline": "",
-      "pub_date": "2026-06-22T02:20:29-07:00"
+      "pub_date": "2026-07-06T09:51:59-07:00"
     },
     {
       "title": "Auriko",
       "url": "https://www.producthunt.com/products/auriko",
       "tagline": "",
       "pub_date": "2026-07-05T16:00:28-07:00"
+    },
+    {
+      "title": "Timbal AI",
+      "url": "https://www.producthunt.com/products/timbal-ai",
+      "tagline": "",
+      "pub_date": "2026-06-22T02:20:29-07:00"
+    },
+    {
+      "title": "Lispr",
+      "url": "https://www.producthunt.com/products/lispr",
+      "tagline": "",
+      "pub_date": "2026-07-07T14:02:15-07:00"
+    },
+    {
+      "title": "ARKAD Wallet",
+      "url": "https://www.producthunt.com/products/arkad-wallet",
+      "tagline": "",
+      "pub_date": "2026-07-06T11:17:21-07:00"
+    },
+    {
+      "title": "GPT-Live",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-07-08T20:32:35-07:00"
+    },
+    {
+      "title": "Tasks.txt",
+      "url": "https://www.producthunt.com/products/tasks-txt",
+      "tagline": "",
+      "pub_date": "2026-07-08T11:22:00-07:00"
+    },
+    {
+      "title": "Aura: Agents + Git + Intent Open Source",
+      "url": "https://www.producthunt.com/products/aura-28",
+      "tagline": "",
+      "pub_date": "2026-07-07T12:23:07-07:00"
     },
     {
       "title": "Knowledge Atlas by Fini",

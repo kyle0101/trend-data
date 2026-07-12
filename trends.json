@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:01:59.648Z",
+  "generated_at": "2026-07-12T18:54:37.235Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,170 +7,170 @@
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
       "hn_url": "https://news.ycombinator.com/item?id=48875377",
-      "points": 290,
-      "comments": 131,
+      "points": 312,
+      "comments": 144,
       "created_ts": 1783800438,
       "author": "theMackabu"
-    },
-    {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48871973",
-      "points": 182,
-      "comments": 56,
-      "created_ts": 1783777227,
-      "author": "acley"
     },
     {
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
       "url": "https://github.com/cosmtrek/mindwalk",
       "hn_url": "https://news.ycombinator.com/item?id=48878682",
-      "points": 97,
-      "comments": 44,
+      "points": 137,
+      "comments": 61,
       "created_ts": 1783835492,
       "author": "cosmtrek"
     },
     {
-      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "url": "https://nagylukas.github.io/orbit.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48873501",
-      "points": 82,
-      "comments": 19,
-      "created_ts": 1783787942,
-      "author": "lukas9"
-    },
-    {
-      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
-      "url": "https://github.com/swellweb/reame",
-      "hn_url": "https://news.ycombinator.com/item?id=48873417",
-      "points": 53,
-      "comments": 15,
-      "created_ts": 1783787264,
-      "author": "targetbridge"
-    },
-    {
-      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-      "url": "https://github.com/skorotkiewicz/earth-game",
-      "hn_url": "https://news.ycombinator.com/item?id=48873486",
-      "points": 46,
-      "comments": 10,
-      "created_ts": 1783787822,
-      "author": "modinfo"
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "url": "https://github.com/hasenj/go-shirei/",
+      "hn_url": "https://news.ycombinator.com/item?id=48882562",
+      "points": 41,
+      "comments": 22,
+      "created_ts": 1783875342,
+      "author": "hsn915"
     },
     {
       "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
       "url": "https://github.com/sqlsure/sqlsure",
       "hn_url": "https://news.ycombinator.com/item?id=48875342",
-      "points": 35,
-      "comments": 6,
+      "points": 37,
+      "comments": 7,
       "created_ts": 1783800222,
       "author": "tejusarora"
+    },
+    {
+      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+      "hn_url": "https://news.ycombinator.com/item?id=48881009",
+      "points": 20,
+      "comments": 8,
+      "created_ts": 1783862461,
+      "author": "roee_tsur"
+    },
+    {
+      "title": "Show HN: Website is served from a 200KB binary",
+      "url": "https://200kb.freelang.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48882601",
+      "points": 19,
+      "comments": 5,
+      "created_ts": 1783875577,
+      "author": "keepamovin"
+    },
+    {
+      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "url": "https://github.com/sshwarts/skillscript",
+      "hn_url": "https://news.ycombinator.com/item?id=48881112",
+      "points": 11,
+      "comments": 9,
+      "created_ts": 1783863240,
+      "author": "sshwarts"
+    },
+    {
+      "title": "Show HN: We beat Anubis with our stealth MCP",
+      "url": "https://tilion.dev/blog/anubis-proof-of-work",
+      "hn_url": "https://news.ycombinator.com/item?id=48877686",
+      "points": 11,
+      "comments": 4,
+      "created_ts": 1783822695,
+      "author": "armanluthra_"
     }
   ],
   "hn_front": [
     {
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "hn_url": "https://news.ycombinator.com/item?id=48873940",
-      "points": 310,
-      "comments": 160,
-      "created_ts": 1783791235,
-      "author": "ingve"
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "hn_url": "https://news.ycombinator.com/item?id=48880170",
+      "points": 339,
+      "comments": 96,
+      "created_ts": 1783854582,
+      "author": "subset"
     },
     {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "hn_url": "https://news.ycombinator.com/item?id=48873836",
-      "points": 297,
-      "comments": 117,
-      "created_ts": 1783790509,
-      "author": "adletbalzhanov"
-    },
-    {
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "hn_url": "https://news.ycombinator.com/item?id=48875377",
-      "points": 290,
-      "comments": 131,
-      "created_ts": 1783800438,
-      "author": "theMackabu"
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "hn_url": "https://news.ycombinator.com/item?id=48877371",
+      "points": 333,
+      "comments": 146,
+      "created_ts": 1783818590,
+      "author": "jhoho"
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "hn_url": "https://news.ycombinator.com/item?id=48876505",
-      "points": 279,
-      "comments": 65,
+      "points": 325,
+      "comments": 75,
       "created_ts": 1783809537,
       "author": "tionis"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "hn_url": "https://news.ycombinator.com/item?id=48872874",
-      "points": 223,
-      "comments": 53,
-      "created_ts": 1783783682,
-      "author": "saisrirampur"
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "hn_url": "https://news.ycombinator.com/item?id=48879504",
+      "points": 209,
+      "comments": 35,
+      "created_ts": 1783846379,
+      "author": "signa11"
     },
     {
-      "title": "Modern decor may be straining people's brains",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "hn_url": "https://news.ycombinator.com/item?id=48873424",
-      "points": 215,
-      "comments": 220,
-      "created_ts": 1783787328,
-      "author": "downwithdisease"
+      "title": "How to Read More Books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "hn_url": "https://news.ycombinator.com/item?id=48882056",
+      "points": 153,
+      "comments": 85,
+      "created_ts": 1783871236,
+      "author": "silcoon"
     },
     {
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "hn_url": "https://news.ycombinator.com/item?id=48873457",
-      "points": 210,
-      "comments": 92,
-      "created_ts": 1783787622,
-      "author": "prtk25"
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "hn_url": "https://news.ycombinator.com/item?id=48878682",
+      "points": 137,
+      "comments": 61,
+      "created_ts": 1783835492,
+      "author": "cosmtrek"
     },
     {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "hn_url": "https://news.ycombinator.com/item?id=48876245",
-      "points": 164,
-      "comments": 21,
-      "created_ts": 1783807080,
-      "author": "mariuz"
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48880499",
+      "points": 118,
+      "comments": 58,
+      "created_ts": 1783858087,
+      "author": "AlexeyBrin"
     },
     {
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=48872858",
-      "points": 129,
-      "comments": 68,
-      "created_ts": 1783783572,
-      "author": "wolfi1"
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "hn_url": "https://news.ycombinator.com/item?id=48881043",
+      "points": 107,
+      "comments": 85,
+      "created_ts": 1783862773,
+      "author": "zaikunzhang"
     },
     {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "hn_url": "https://news.ycombinator.com/item?id=48878126",
-      "points": 122,
-      "comments": 264,
-      "created_ts": 1783828814,
-      "author": "nradov"
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48881830",
+      "points": 106,
+      "comments": 46,
+      "created_ts": 1783869440,
+      "author": "zdw"
     }
   ],
   "ph_today": [
+    {
+      "title": "JustVibe",
+      "url": "https://www.producthunt.com/products/justvibe",
+      "tagline": "",
+      "pub_date": "2026-07-06T10:33:19-07:00"
+    },
     {
       "title": "FetchSandbox",
       "url": "https://www.producthunt.com/products/fetchsandbox",
       "tagline": "",
       "pub_date": "2026-06-18T21:12:56-07:00"
-    },
-    {
-      "title": "ServiceBeard",
-      "url": "https://www.producthunt.com/products/servicebeard",
-      "tagline": "",
-      "pub_date": "2026-07-05T14:47:41-07:00"
     },
     {
       "title": "Second Brain for AI v2",
@@ -179,16 +179,28 @@
       "pub_date": "2026-06-24T20:43:33-07:00"
     },
     {
-      "title": "JustVibe",
-      "url": "https://www.producthunt.com/products/justvibe",
+      "title": "ServiceBeard",
+      "url": "https://www.producthunt.com/products/servicebeard",
       "tagline": "",
-      "pub_date": "2026-07-06T10:33:19-07:00"
+      "pub_date": "2026-07-05T14:47:41-07:00"
     },
     {
       "title": "Miora",
       "url": "https://www.producthunt.com/products/miora-2",
       "tagline": "",
       "pub_date": "2026-07-07T08:48:10-07:00"
+    },
+    {
+      "title": "Basedash SCIM",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-07-10T19:40:25-07:00"
+    },
+    {
+      "title": "Breathing In Labour",
+      "url": "https://www.producthunt.com/products/breathing-in-labour",
+      "tagline": "",
+      "pub_date": "2026-06-24T10:18:24-07:00"
     },
     {
       "title": "Kickbacks CLI",
@@ -215,46 +227,40 @@
       "pub_date": "2026-06-22T23:17:54-07:00"
     },
     {
-      "title": "ChatGPT Work",
-      "url": "https://www.producthunt.com/products/chatgpt-work",
-      "tagline": "",
-      "pub_date": "2026-07-09T10:16:44-07:00"
-    },
-    {
-      "title": "Basedash SCIM",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-07-10T19:40:25-07:00"
-    },
-    {
       "title": "SoundPipe",
       "url": "https://www.producthunt.com/products/soundpipe",
       "tagline": "",
       "pub_date": "2026-07-10T15:27:30-07:00"
     },
     {
-      "title": "Breathing In Labour",
-      "url": "https://www.producthunt.com/products/breathing-in-labour",
+      "title": "ChatGPT Work",
+      "url": "https://www.producthunt.com/products/chatgpt-work",
       "tagline": "",
-      "pub_date": "2026-06-24T10:18:24-07:00"
+      "pub_date": "2026-07-09T10:16:44-07:00"
     },
     {
-      "title": "ConnectMachine 2.0",
-      "url": "https://www.producthunt.com/products/connectmachine-2",
+      "title": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
       "tagline": "",
-      "pub_date": "2026-06-25T00:07:34-07:00"
-    },
-    {
-      "title": "Native SDK",
-      "url": "https://www.producthunt.com/products/vercel",
-      "tagline": "",
-      "pub_date": "2026-07-09T11:17:11-07:00"
+      "pub_date": "2026-07-08T23:50:16-07:00"
     },
     {
       "title": "Juicy - Mac Battery App",
       "url": "https://www.producthunt.com/products/juicy-battery-app",
       "tagline": "",
       "pub_date": "2026-07-07T08:30:20-07:00"
+    },
+    {
+      "title": "Mispher",
+      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "tagline": "",
+      "pub_date": "2026-07-09T02:36:54-07:00"
+    },
+    {
+      "title": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio",
+      "tagline": "",
+      "pub_date": "2026-07-08T11:55:06-07:00"
     },
     {
       "title": "GPT-5.6",
@@ -269,16 +275,16 @@
       "pub_date": "2026-07-06T05:06:48-07:00"
     },
     {
-      "title": "ChatCut",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "tagline": "",
-      "pub_date": "2026-07-08T23:50:16-07:00"
-    },
-    {
       "title": "RepStandard",
       "url": "https://www.producthunt.com/products/repstandard",
       "tagline": "",
       "pub_date": "2026-07-09T21:31:51-07:00"
+    },
+    {
+      "title": "ConnectMachine 2.0",
+      "url": "https://www.producthunt.com/products/connectmachine-2",
+      "tagline": "",
+      "pub_date": "2026-06-25T00:07:34-07:00"
     },
     {
       "title": "StoryChief Connect",
@@ -287,22 +293,16 @@
       "pub_date": "2026-07-09T03:43:58-07:00"
     },
     {
-      "title": "Sim",
-      "url": "https://www.producthunt.com/products/sim-studio",
+      "title": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
       "tagline": "",
-      "pub_date": "2026-07-08T11:55:06-07:00"
+      "pub_date": "2026-07-09T11:19:56-07:00"
     },
     {
-      "title": "Yasmine Works",
-      "url": "https://www.producthunt.com/products/yasmine-works",
+      "title": "Native SDK",
+      "url": "https://www.producthunt.com/products/vercel",
       "tagline": "",
-      "pub_date": "2026-07-06T06:29:46-07:00"
-    },
-    {
-      "title": "Mispher",
-      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
-      "tagline": "",
-      "pub_date": "2026-07-09T02:36:54-07:00"
+      "pub_date": "2026-07-09T11:17:11-07:00"
     },
     {
       "title": "Muse Spark 1.1 by Meta AI",
@@ -311,10 +311,10 @@
       "pub_date": "2026-07-09T08:01:28-07:00"
     },
     {
-      "title": "Ship OS by Notion",
-      "url": "https://www.producthunt.com/products/notion",
+      "title": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
       "tagline": "",
-      "pub_date": "2026-07-09T11:19:56-07:00"
+      "pub_date": "2026-07-06T06:29:46-07:00"
     },
     {
       "title": "Scarlett.",
@@ -323,22 +323,22 @@
       "pub_date": "2026-07-04T07:17:47-07:00"
     },
     {
-      "title": "Just Ask by SEORCE",
-      "url": "https://www.producthunt.com/products/seorce",
+      "title": "Timbal AI",
+      "url": "https://www.producthunt.com/products/timbal-ai",
       "tagline": "",
-      "pub_date": "2026-07-08T02:13:36-07:00"
+      "pub_date": "2026-06-22T02:20:29-07:00"
     },
     {
-      "title": "Tasks.txt",
-      "url": "https://www.producthunt.com/products/tasks-txt",
+      "title": "Auriko",
+      "url": "https://www.producthunt.com/products/auriko",
       "tagline": "",
-      "pub_date": "2026-07-08T11:22:00-07:00"
+      "pub_date": "2026-07-05T16:00:28-07:00"
     },
     {
-      "title": "Monogram AI",
-      "url": "https://www.producthunt.com/products/monogram-ai",
+      "title": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
       "tagline": "",
-      "pub_date": "2026-07-08T10:24:21-07:00"
+      "pub_date": "2026-07-06T09:51:59-07:00"
     }
   ]
 }

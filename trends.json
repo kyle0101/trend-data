@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:59:23.943Z",
+  "generated_at": "2026-07-16T13:26:16.949Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Firefox in WebAssembly",
       "url": "https://developer.puter.com/labs/firefox-wasm/",
       "hn_url": "https://news.ycombinator.com/item?id=48926939",
-      "points": 186,
-      "comments": 97,
+      "points": 222,
+      "comments": 109,
       "created_ts": 1784149217,
       "author": "coolelectronics"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
       "url": "https://github.com/welcome-to-the-sunny-side/misa77",
       "hn_url": "https://news.ycombinator.com/item?id=48922838",
-      "points": 143,
-      "comments": 41,
+      "points": 149,
+      "comments": 46,
       "created_ts": 1784131139,
       "author": "nonadhocproblem"
     },
@@ -25,28 +25,10 @@
       "title": "Show HN: One More Letter",
       "url": "https://playonemoreletter.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48928402",
-      "points": 70,
-      "comments": 43,
+      "points": 78,
+      "comments": 51,
       "created_ts": 1784157010,
       "author": "hmate9"
-    },
-    {
-      "title": "Show HN: Make senders work to get into your inbox",
-      "url": "https://www.captchainbox.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48919489",
-      "points": 41,
-      "comments": 67,
-      "created_ts": 1784116734,
-      "author": "felixdoerp"
-    },
-    {
-      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-      "hn_url": "https://news.ycombinator.com/item?id=48919191",
-      "points": 36,
-      "comments": 50,
-      "created_ts": 1784114793,
-      "author": "fabioricardo7"
     },
     {
       "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
@@ -80,7 +62,7 @@
       "url": "https://github.com/evansjp/grepathy",
       "hn_url": "https://news.ycombinator.com/item?id=48920537",
       "points": 18,
-      "comments": 39,
+      "comments": 43,
       "created_ts": 1784121984,
       "author": "evansjp"
     },
@@ -107,18 +89,9 @@
       "url": "https://github.com/sirixdb/sirix",
       "hn_url": "https://news.ycombinator.com/item?id=48922631",
       "points": 12,
-      "comments": 4,
+      "comments": 6,
       "created_ts": 1784130410,
       "author": "lichtenberger"
-    },
-    {
-      "title": "Show HN: Leet Robotics: Learn robotics and ROS2 with hands-on courses",
-      "url": "https://www.leetrobotics.com",
-      "hn_url": "https://news.ycombinator.com/item?id=48919638",
-      "points": 11,
-      "comments": 0,
-      "created_ts": 1784117683,
-      "author": "deepresearch"
     }
   ],
   "hn_front": [
@@ -126,8 +99,8 @@
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "hn_url": "https://news.ycombinator.com/item?id=48924912",
-      "points": 926,
-      "comments": 226,
+      "points": 1073,
+      "comments": 263,
       "created_ts": 1784139165,
       "author": "vimarsh6739"
     },
@@ -135,114 +108,117 @@
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
       "hn_url": "https://news.ycombinator.com/item?id=48926590",
-      "points": 414,
-      "comments": 433,
+      "points": 504,
+      "comments": 548,
       "created_ts": 1784147098,
       "author": "skp1995"
-    },
-    {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "hn_url": "https://news.ycombinator.com/item?id=48922434",
-      "points": 275,
-      "comments": 180,
-      "created_ts": 1784129645,
-      "author": "neomindryan"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "hn_url": "https://news.ycombinator.com/item?id=48928135",
-      "points": 241,
-      "comments": 92,
-      "created_ts": 1784155378,
-      "author": "gnyeki"
-    },
-    {
-      "title": "Collection of Digital Clock Designs",
-      "url": "https://clocks.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48923380",
-      "points": 231,
-      "comments": 41,
-      "created_ts": 1784133195,
-      "author": "levmiseri"
     },
     {
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
       "hn_url": "https://news.ycombinator.com/item?id=48930454",
-      "points": 191,
-      "comments": 94,
+      "points": 487,
+      "comments": 305,
       "created_ts": 1784177181,
       "author": "mcgin"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "hn_url": "https://news.ycombinator.com/item?id=48928135",
+      "points": 308,
+      "comments": 140,
+      "created_ts": 1784155378,
+      "author": "gnyeki"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48922434",
+      "points": 300,
+      "comments": 196,
+      "created_ts": 1784129645,
+      "author": "neomindryan"
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=48927095",
-      "points": 167,
-      "comments": 59,
+      "points": 239,
+      "comments": 83,
       "created_ts": 1784150196,
       "author": "bilsbie"
     },
     {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "hn_url": "https://news.ycombinator.com/item?id=48925888",
-      "points": 120,
-      "comments": 36,
-      "created_ts": 1784143679,
-      "author": "spacemarine1"
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "hn_url": "https://news.ycombinator.com/item?id=48932539",
+      "points": 193,
+      "comments": 105,
+      "created_ts": 1784196844,
+      "author": "pilililo2"
+    },
+    {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "hn_url": "https://news.ycombinator.com/item?id=48930136",
+      "points": 183,
+      "comments": 86,
+      "created_ts": 1784173723,
+      "author": "treve"
+    },
+    {
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48929945",
+      "points": 149,
+      "comments": 26,
+      "created_ts": 1784171567,
+      "author": "gslin"
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "hn_url": "https://news.ycombinator.com/item?id=48931588",
+      "points": 134,
+      "comments": 55,
+      "created_ts": 1784189015,
+      "author": "ohong"
+    },
+    {
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "hn_url": "https://news.ycombinator.com/item?id=48929351",
+      "points": 132,
+      "comments": 83,
+      "created_ts": 1784164864,
+      "author": "chaosharmonic"
+    },
+    {
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "hn_url": "https://news.ycombinator.com/item?id=48933344",
+      "points": 131,
+      "comments": 61,
+      "created_ts": 1784203331,
+      "author": "1vuio0pswjnm7"
+    },
+    {
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48930075",
+      "points": 111,
+      "comments": 37,
+      "created_ts": 1784173002,
+      "author": "hisamafahri"
     }
   ],
   "ph_today": [
     {
-      "title": "BrickSolvr",
-      "url": "https://www.producthunt.com/products/bricksolvr",
+      "title": "ChikitAI",
+      "url": "https://www.producthunt.com/products/chikitai",
       "tagline": "",
-      "pub_date": "2026-07-15T01:30:49-07:00"
-    },
-    {
-      "title": "Verse",
-      "url": "https://www.producthunt.com/products/verse-6",
-      "tagline": "",
-      "pub_date": "2026-07-15T06:30:43-07:00"
-    },
-    {
-      "title": "Amami",
-      "url": "https://www.producthunt.com/products/amami",
-      "tagline": "",
-      "pub_date": "2026-07-14T21:17:53-07:00"
-    },
-    {
-      "title": "The Wello",
-      "url": "https://www.producthunt.com/products/the-wello",
-      "tagline": "",
-      "pub_date": "2026-07-15T04:19:29-07:00"
-    },
-    {
-      "title": "Social Media Content Pack",
-      "url": "https://www.producthunt.com/products/stripe",
-      "tagline": "",
-      "pub_date": "2026-07-11T22:43:54-07:00"
-    },
-    {
-      "title": "Nuvio",
-      "url": "https://www.producthunt.com/products/nuvio-2",
-      "tagline": "",
-      "pub_date": "2026-07-14T09:35:02-07:00"
-    },
-    {
-      "title": "The Eureka Database",
-      "url": "https://www.producthunt.com/products/the-eureka-database",
-      "tagline": "",
-      "pub_date": "2026-07-15T17:20:11-07:00"
-    },
-    {
-      "title": "SIMPLI",
-      "url": "https://www.producthunt.com/products/simpli-3",
-      "tagline": "",
-      "pub_date": "2026-07-13T01:39:23-07:00"
+      "pub_date": "2026-07-14T13:54:35-07:00"
     },
     {
       "title": "River",
@@ -251,64 +227,10 @@
       "pub_date": "2026-07-15T17:40:17-07:00"
     },
     {
-      "title": "Kit For AI",
-      "url": "https://www.producthunt.com/products/kit-for-ai",
-      "tagline": "",
-      "pub_date": "2026-07-15T03:39:04-07:00"
-    },
-    {
-      "title": "Cito",
-      "url": "https://www.producthunt.com/products/cito",
-      "tagline": "",
-      "pub_date": "2026-07-13T13:26:53-07:00"
-    },
-    {
-      "title": "WorkflowMaps",
-      "url": "https://www.producthunt.com/products/workflowmaps",
-      "tagline": "",
-      "pub_date": "2026-07-13T04:50:10-07:00"
-    },
-    {
-      "title": "ChikitAI",
-      "url": "https://www.producthunt.com/products/chikitai",
-      "tagline": "",
-      "pub_date": "2026-07-14T13:54:35-07:00"
-    },
-    {
-      "title": "Graft AI",
-      "url": "https://www.producthunt.com/products/graft-ai",
-      "tagline": "",
-      "pub_date": "2026-07-15T10:24:23-07:00"
-    },
-    {
-      "title": "Node Health",
-      "url": "https://www.producthunt.com/products/node-health",
-      "tagline": "",
-      "pub_date": "2026-07-15T00:08:33-07:00"
-    },
-    {
       "title": "Albato AI",
       "url": "https://www.producthunt.com/products/albato",
       "tagline": "",
       "pub_date": "2025-11-10T09:10:46-08:00"
-    },
-    {
-      "title": "Nitrosend",
-      "url": "https://www.producthunt.com/products/nitrosend",
-      "tagline": "",
-      "pub_date": "2026-07-14T18:41:49-07:00"
-    },
-    {
-      "title": "Paradigm",
-      "url": "https://www.producthunt.com/products/paradigm-3",
-      "tagline": "",
-      "pub_date": "2026-06-17T19:09:41-07:00"
-    },
-    {
-      "title": "Cloud Halo",
-      "url": "https://www.producthunt.com/products/cloud-halo",
-      "tagline": "",
-      "pub_date": "2026-07-10T05:04:10-07:00"
     },
     {
       "title": "Weave",
@@ -317,16 +239,16 @@
       "pub_date": "2026-07-15T16:37:50-07:00"
     },
     {
-      "title": "Codex Micro",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Nitrosend",
+      "url": "https://www.producthunt.com/products/nitrosend",
       "tagline": "",
-      "pub_date": "2026-07-15T20:23:59-07:00"
+      "pub_date": "2026-07-14T18:41:49-07:00"
     },
     {
-      "title": "Inbix",
-      "url": "https://www.producthunt.com/products/inbix",
+      "title": "Node Health",
+      "url": "https://www.producthunt.com/products/node-health",
       "tagline": "",
-      "pub_date": "2026-07-15T08:17:54-07:00"
+      "pub_date": "2026-07-15T00:08:33-07:00"
     },
     {
       "title": "Manta AI",
@@ -335,22 +257,64 @@
       "pub_date": "2026-07-13T05:00:36-07:00"
     },
     {
-      "title": "Breadcromb",
-      "url": "https://www.producthunt.com/products/breadcromb",
+      "title": "Paradigm",
+      "url": "https://www.producthunt.com/products/paradigm-3",
       "tagline": "",
-      "pub_date": "2026-07-14T14:17:28-07:00"
+      "pub_date": "2026-06-17T19:09:41-07:00"
     },
     {
-      "title": "Zro",
-      "url": "https://www.producthunt.com/products/zro",
+      "title": "Graft AI",
+      "url": "https://www.producthunt.com/products/graft-ai",
       "tagline": "",
-      "pub_date": "2026-07-15T08:45:09-07:00"
+      "pub_date": "2026-07-15T10:24:23-07:00"
     },
     {
-      "title": "In Parallel MCP",
-      "url": "https://www.producthunt.com/products/in-parallel",
+      "title": "The Eureka Database",
+      "url": "https://www.producthunt.com/products/the-eureka-database",
       "tagline": "",
-      "pub_date": "2026-07-14T05:55:10-07:00"
+      "pub_date": "2026-07-15T17:20:11-07:00"
+    },
+    {
+      "title": "Verse",
+      "url": "https://www.producthunt.com/products/verse-6",
+      "tagline": "",
+      "pub_date": "2026-07-15T06:30:43-07:00"
+    },
+    {
+      "title": "BrickSolvr",
+      "url": "https://www.producthunt.com/products/bricksolvr",
+      "tagline": "",
+      "pub_date": "2026-07-15T01:30:49-07:00"
+    },
+    {
+      "title": "SIMPLI",
+      "url": "https://www.producthunt.com/products/simpli-3",
+      "tagline": "",
+      "pub_date": "2026-07-13T01:39:23-07:00"
+    },
+    {
+      "title": "Microflow",
+      "url": "https://www.producthunt.com/products/microflow",
+      "tagline": "",
+      "pub_date": "2026-07-13T02:56:27-07:00"
+    },
+    {
+      "title": "DevSwat",
+      "url": "https://www.producthunt.com/products/resonantgenesis",
+      "tagline": "",
+      "pub_date": "2026-07-15T10:33:34-07:00"
+    },
+    {
+      "title": "Cito",
+      "url": "https://www.producthunt.com/products/cito",
+      "tagline": "",
+      "pub_date": "2026-07-13T13:26:53-07:00"
+    },
+    {
+      "title": "Ventorah",
+      "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
+      "tagline": "",
+      "pub_date": "2026-07-15T23:37:09-07:00"
     },
     {
       "title": "SonOf",
@@ -359,10 +323,52 @@
       "pub_date": "2026-07-15T07:09:29-07:00"
     },
     {
-      "title": "ClipMatch",
-      "url": "https://www.producthunt.com/products/clipmatch",
+      "title": "Nuvio",
+      "url": "https://www.producthunt.com/products/nuvio-2",
       "tagline": "",
-      "pub_date": "2026-07-15T22:16:07-07:00"
+      "pub_date": "2026-07-14T09:35:02-07:00"
+    },
+    {
+      "title": "Amami",
+      "url": "https://www.producthunt.com/products/amami",
+      "tagline": "",
+      "pub_date": "2026-07-14T21:17:53-07:00"
+    },
+    {
+      "title": "Cloud Halo",
+      "url": "https://www.producthunt.com/products/cloud-halo",
+      "tagline": "",
+      "pub_date": "2026-07-10T05:04:10-07:00"
+    },
+    {
+      "title": "Codex Micro",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-07-15T20:23:59-07:00"
+    },
+    {
+      "title": "FlightGlitch",
+      "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+      "tagline": "",
+      "pub_date": "2026-07-15T10:36:23-07:00"
+    },
+    {
+      "title": "dot.",
+      "url": "https://www.producthunt.com/products/dot-7",
+      "tagline": "",
+      "pub_date": "2026-07-06T11:22:12-07:00"
+    },
+    {
+      "title": "In Parallel MCP",
+      "url": "https://www.producthunt.com/products/in-parallel",
+      "tagline": "",
+      "pub_date": "2026-07-14T05:55:10-07:00"
+    },
+    {
+      "title": "Kit For AI",
+      "url": "https://www.producthunt.com/products/kit-for-ai",
+      "tagline": "",
+      "pub_date": "2026-07-15T03:39:04-07:00"
     },
     {
       "title": "Alert Grouping by DrDroid",
@@ -371,10 +377,22 @@
       "pub_date": "2026-07-14T23:55:52-07:00"
     },
     {
-      "title": "Ventorah",
-      "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
+      "title": "Breadcromb",
+      "url": "https://www.producthunt.com/products/breadcromb",
       "tagline": "",
-      "pub_date": "2026-07-15T23:37:09-07:00"
+      "pub_date": "2026-07-14T14:17:28-07:00"
+    },
+    {
+      "title": "Inbix",
+      "url": "https://www.producthunt.com/products/inbix",
+      "tagline": "",
+      "pub_date": "2026-07-15T08:17:54-07:00"
+    },
+    {
+      "title": "Zro",
+      "url": "https://www.producthunt.com/products/zro",
+      "tagline": "",
+      "pub_date": "2026-07-15T08:45:09-07:00"
     }
   ]
 }

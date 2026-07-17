@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T07:56:25.973Z",
+  "generated_at": "2026-07-17T13:11:17.686Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,7 +7,7 @@
       "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
       "url": "https://github.com/patonw/leaves",
       "hn_url": "https://news.ycombinator.com/item?id=48936389",
-      "points": 73,
+      "points": 81,
       "comments": 25,
       "created_ts": 1784217823,
       "author": "patonw"
@@ -16,8 +16,8 @@
       "title": "Show HN: Mojibake – A low-level Unicode library written in C",
       "url": "https://mojibake.zaerl.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48941123",
-      "points": 57,
-      "comments": 14,
+      "points": 65,
+      "comments": 20,
       "created_ts": 1784240961,
       "author": "program"
     },
@@ -26,34 +26,34 @@
       "url": "https://hilogame.cc/",
       "hn_url": "https://news.ycombinator.com/item?id=48934092",
       "points": 47,
-      "comments": 56,
+      "comments": 59,
       "created_ts": 1784207749,
       "author": "ludovicianul"
-    },
-    {
-      "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
-      "url": "https://news.ycombinator.com/item?id=48936554",
-      "hn_url": "https://news.ycombinator.com/item?id=48936554",
-      "points": 40,
-      "comments": 10,
-      "created_ts": 1784218555,
-      "author": "tmzt"
     },
     {
       "title": "Show HN: Be the ChatBOT",
       "url": "https://bethechatbot.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48938524",
-      "points": 34,
-      "comments": 17,
+      "points": 44,
+      "comments": 19,
       "created_ts": 1784227491,
       "author": "keito"
+    },
+    {
+      "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+      "url": "https://news.ycombinator.com/item?id=48936554",
+      "hn_url": "https://news.ycombinator.com/item?id=48936554",
+      "points": 41,
+      "comments": 12,
+      "created_ts": 1784218555,
+      "author": "tmzt"
     },
     {
       "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
       "url": "https://bamboo.kickstage.com",
       "hn_url": "https://news.ycombinator.com/item?id=48936271",
-      "points": 27,
-      "comments": 10,
+      "points": 30,
+      "comments": 11,
       "created_ts": 1784217347,
       "author": "soaringmonchi"
     },
@@ -61,7 +61,7 @@
       "title": "Show HN: Galois connections for composable numeric casts in Rust",
       "url": "https://github.com/cmk/connections",
       "hn_url": "https://news.ycombinator.com/item?id=48936803",
-      "points": 27,
+      "points": 29,
       "comments": 3,
       "created_ts": 1784219777,
       "author": "partialsolve"
@@ -71,7 +71,7 @@
       "url": "https://gameswithtony.com/gorillas/",
       "hn_url": "https://news.ycombinator.com/item?id=48935176",
       "points": 25,
-      "comments": 21,
+      "comments": 25,
       "created_ts": 1784212480,
       "author": "TonyAlicea10"
     },
@@ -97,7 +97,7 @@
       "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
       "url": "https://libretto.sh/debug-agents",
       "hn_url": "https://news.ycombinator.com/item?id=48939710",
-      "points": 18,
+      "points": 19,
       "comments": 3,
       "created_ts": 1784233287,
       "author": "muchael"
@@ -106,7 +106,7 @@
       "title": "Show HN: Trying to fix the web scraping industry's benchmark problem",
       "url": "https://github.com/usestring/web-data-frontier-benchmark",
       "hn_url": "https://news.ycombinator.com/item?id=48935383",
-      "points": 16,
+      "points": 17,
       "comments": 0,
       "created_ts": 1784213362,
       "author": "rohitshenoy"
@@ -135,8 +135,8 @@
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "hn_url": "https://news.ycombinator.com/item?id=48935342",
-      "points": 1521,
-      "comments": 911,
+      "points": 1781,
+      "comments": 1043,
       "created_ts": 1784213165,
       "author": "vincent_s"
     },
@@ -144,8 +144,8 @@
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "hn_url": "https://news.ycombinator.com/item?id=48936426",
-      "points": 650,
-      "comments": 144,
+      "points": 724,
+      "comments": 159,
       "created_ts": 1784217987,
       "author": "jervant"
     },
@@ -153,8 +153,8 @@
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "hn_url": "https://news.ycombinator.com/item?id=48936584",
-      "points": 524,
-      "comments": 122,
+      "points": 604,
+      "comments": 140,
       "created_ts": 1784218701,
       "author": "ray__"
     },
@@ -162,8 +162,8 @@
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
       "hn_url": "https://news.ycombinator.com/item?id=48936451",
-      "points": 298,
-      "comments": 151,
+      "points": 332,
+      "comments": 161,
       "created_ts": 1784218093,
       "author": "xnx"
     },
@@ -171,8 +171,8 @@
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "hn_url": "https://news.ycombinator.com/item?id=48939524",
-      "points": 232,
-      "comments": 288,
+      "points": 310,
+      "comments": 411,
       "created_ts": 1784232203,
       "author": "hershyb_"
     },
@@ -180,111 +180,117 @@
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "hn_url": "https://news.ycombinator.com/item?id=48939662",
-      "points": 230,
-      "comments": 77,
+      "points": 283,
+      "comments": 102,
       "created_ts": 1784233095,
       "author": "minimaxir"
-    },
-    {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "hn_url": "https://news.ycombinator.com/item?id=48933310",
-      "points": 215,
-      "comments": 223,
-      "created_ts": 1784203141,
-      "author": "JeremyTheo"
     },
     {
       "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
       "url": "https://immersivemath.com/ila/",
       "hn_url": "https://news.ycombinator.com/item?id=48935951",
-      "points": 207,
-      "comments": 26,
+      "points": 250,
+      "comments": 28,
       "created_ts": 1784215943,
       "author": "srean"
+    },
+    {
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "hn_url": "https://news.ycombinator.com/item?id=48946010",
+      "points": 225,
+      "comments": 117,
+      "created_ts": 1784287800,
+      "author": "twerkmeister"
     },
     {
       "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "hn_url": "https://news.ycombinator.com/item?id=48936880",
-      "points": 189,
-      "comments": 129,
+      "points": 214,
+      "comments": 156,
       "created_ts": 1784220097,
       "author": "uneven9434"
-    },
-    {
-      "title": "The human-in-the-loop is tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "hn_url": "https://news.ycombinator.com/item?id=48942000",
-      "points": 168,
-      "comments": 89,
-      "created_ts": 1784247669,
-      "author": "haritha1313"
-    },
-    {
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "hn_url": "https://news.ycombinator.com/item?id=48934286",
-      "points": 165,
-      "comments": 84,
-      "created_ts": 1784208600,
-      "author": "yabones"
     },
     {
       "title": "Mathematics of Data Science",
       "url": "https://arxiv.org/abs/2607.11938",
       "hn_url": "https://news.ycombinator.com/item?id=48939896",
-      "points": 143,
-      "comments": 5,
+      "points": 180,
+      "comments": 11,
       "created_ts": 1784234328,
       "author": "Anon84"
     },
     {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "hn_url": "https://news.ycombinator.com/item?id=48935687",
-      "points": 122,
-      "comments": 60,
-      "created_ts": 1784214780,
-      "author": "zhinit"
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "hn_url": "https://news.ycombinator.com/item?id=48943142",
+      "points": 175,
+      "comments": 133,
+      "created_ts": 1784260106,
+      "author": "divbzero"
     },
     {
       "title": "The Little Book of Reinforcement Learning",
       "url": "https://github.com/alxndrTL/little-book-rl/",
       "hn_url": "https://news.ycombinator.com/item?id=48941104",
-      "points": 115,
-      "comments": 14,
+      "points": 169,
+      "comments": 19,
       "created_ts": 1784240842,
       "author": "mustaphah"
     },
     {
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "hn_url": "https://news.ycombinator.com/item?id=48942454",
-      "points": 112,
-      "comments": 83,
-      "created_ts": 1784252212,
-      "author": "aussieguy1234"
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=48943174",
+      "points": 166,
+      "comments": 76,
+      "created_ts": 1784260418,
+      "author": "crazysaem"
+    },
+    {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "hn_url": "https://news.ycombinator.com/item?id=48943745",
+      "points": 160,
+      "comments": 93,
+      "created_ts": 1784267470,
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "hn_url": "https://news.ycombinator.com/item?id=48935687",
+      "points": 148,
+      "comments": 71,
+      "created_ts": 1784214780,
+      "author": "zhinit"
+    },
+    {
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "hn_url": "https://news.ycombinator.com/item?id=48937398",
+      "points": 136,
+      "comments": 150,
+      "created_ts": 1784222356,
+      "author": "speckx"
+    },
+    {
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "hn_url": "https://news.ycombinator.com/item?id=48939742",
+      "points": 122,
+      "comments": 42,
+      "created_ts": 1784233442,
+      "author": "anyonecancode"
     }
   ],
   "ph_today": [
     {
-      "title": "Pocket Screen",
-      "url": "https://www.producthunt.com/products/toybird-labs",
+      "title": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
       "tagline": "",
-      "pub_date": "2026-07-13T23:58:59-07:00"
-    },
-    {
-      "title": "PixyCAD",
-      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
-      "tagline": "",
-      "pub_date": "2026-07-16T00:15:45-07:00"
-    },
-    {
-      "title": "Aye",
-      "url": "https://www.producthunt.com/products/aye-browser",
-      "tagline": "",
-      "pub_date": "2026-07-15T22:07:19-07:00"
+      "pub_date": "2026-07-16T19:39:47-07:00"
     },
     {
       "title": "Timely",
@@ -293,22 +299,16 @@
       "pub_date": "2026-07-16T13:38:51-07:00"
     },
     {
+      "title": "Aye",
+      "url": "https://www.producthunt.com/products/aye-browser",
+      "tagline": "",
+      "pub_date": "2026-07-15T22:07:19-07:00"
+    },
+    {
       "title": "Unabyss for Claude",
       "url": "https://www.producthunt.com/products/unabyss",
       "tagline": "",
       "pub_date": "2026-07-10T12:19:45-07:00"
-    },
-    {
-      "title": "Pebbles Ai",
-      "url": "https://www.producthunt.com/products/pebbles-ai",
-      "tagline": "",
-      "pub_date": "2026-07-13T21:03:42-07:00"
-    },
-    {
-      "title": "Yapper Leaderboard",
-      "url": "https://www.producthunt.com/products/yapper-leaderboard",
-      "tagline": "",
-      "pub_date": "2026-07-15T23:58:13-07:00"
     },
     {
       "title": "Scribble Party",
@@ -323,46 +323,34 @@
       "pub_date": "2026-07-16T07:57:03-07:00"
     },
     {
-      "title": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "title": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
       "tagline": "",
-      "pub_date": "2026-07-16T19:39:47-07:00"
+      "pub_date": "2026-07-13T21:03:42-07:00"
     },
     {
-      "title": "ClipMatch",
-      "url": "https://www.producthunt.com/products/clipmatch",
+      "title": "PixyCAD",
+      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
       "tagline": "",
-      "pub_date": "2026-07-15T22:16:07-07:00"
+      "pub_date": "2026-07-16T00:15:45-07:00"
     },
     {
-      "title": "BrickSolvr",
-      "url": "https://www.producthunt.com/products/bricksolvr",
+      "title": "Pocket Screen",
+      "url": "https://www.producthunt.com/products/toybird-labs",
       "tagline": "",
-      "pub_date": "2026-07-15T01:30:49-07:00"
+      "pub_date": "2026-07-13T23:58:59-07:00"
     },
     {
-      "title": "Inbix",
-      "url": "https://www.producthunt.com/products/inbix",
+      "title": "Yapper Leaderboard",
+      "url": "https://www.producthunt.com/products/yapper-leaderboard",
       "tagline": "",
-      "pub_date": "2026-07-15T08:17:54-07:00"
-    },
-    {
-      "title": "SIMPLI",
-      "url": "https://www.producthunt.com/products/simpli-3",
-      "tagline": "",
-      "pub_date": "2026-07-13T01:39:23-07:00"
+      "pub_date": "2026-07-15T23:58:13-07:00"
     },
     {
       "title": "Ventorah",
       "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
       "tagline": "",
       "pub_date": "2026-07-15T23:37:09-07:00"
-    },
-    {
-      "title": "FlightGlitch",
-      "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
-      "tagline": "",
-      "pub_date": "2026-07-15T10:36:23-07:00"
     },
     {
       "title": "Microflow",
@@ -377,10 +365,16 @@
       "pub_date": "2026-07-10T05:04:10-07:00"
     },
     {
-      "title": "Alert Grouping by DrDroid",
-      "url": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+      "title": "The Eureka Database",
+      "url": "https://www.producthunt.com/products/the-eureka-database",
       "tagline": "",
-      "pub_date": "2026-07-14T23:55:52-07:00"
+      "pub_date": "2026-07-15T17:20:11-07:00"
+    },
+    {
+      "title": "Paradigm",
+      "url": "https://www.producthunt.com/products/paradigm-3",
+      "tagline": "",
+      "pub_date": "2026-06-17T19:09:41-07:00"
     },
     {
       "title": "Albato AI",
@@ -389,22 +383,16 @@
       "pub_date": "2025-11-10T09:10:46-08:00"
     },
     {
-      "title": "Nuvio",
-      "url": "https://www.producthunt.com/products/nuvio-2",
+      "title": "Zro",
+      "url": "https://www.producthunt.com/products/zro",
       "tagline": "",
-      "pub_date": "2026-07-14T09:35:02-07:00"
+      "pub_date": "2026-07-15T08:45:09-07:00"
     },
     {
-      "title": "Nitrosend",
-      "url": "https://www.producthunt.com/products/nitrosend",
+      "title": "Node Health",
+      "url": "https://www.producthunt.com/products/node-health",
       "tagline": "",
-      "pub_date": "2026-07-14T18:41:49-07:00"
-    },
-    {
-      "title": "Breadcromb",
-      "url": "https://www.producthunt.com/products/breadcromb",
-      "tagline": "",
-      "pub_date": "2026-07-14T14:17:28-07:00"
+      "pub_date": "2026-07-15T00:08:33-07:00"
     },
     {
       "title": "ChikitAI",
@@ -413,10 +401,46 @@
       "pub_date": "2026-07-14T13:54:35-07:00"
     },
     {
+      "title": "Graft AI",
+      "url": "https://www.producthunt.com/products/graft-ai",
+      "tagline": "",
+      "pub_date": "2026-07-15T10:24:23-07:00"
+    },
+    {
+      "title": "Manta AI",
+      "url": "https://www.producthunt.com/products/manta-ai",
+      "tagline": "",
+      "pub_date": "2026-07-13T05:00:36-07:00"
+    },
+    {
+      "title": "Breadcromb",
+      "url": "https://www.producthunt.com/products/breadcromb",
+      "tagline": "",
+      "pub_date": "2026-07-14T14:17:28-07:00"
+    },
+    {
       "title": "SonOf",
       "url": "https://www.producthunt.com/products/sonof",
       "tagline": "",
       "pub_date": "2026-07-15T07:09:29-07:00"
+    },
+    {
+      "title": "Amami",
+      "url": "https://www.producthunt.com/products/amami",
+      "tagline": "",
+      "pub_date": "2026-07-14T21:17:53-07:00"
+    },
+    {
+      "title": "Weave",
+      "url": "https://www.producthunt.com/products/weave-9",
+      "tagline": "",
+      "pub_date": "2026-07-15T16:37:50-07:00"
+    },
+    {
+      "title": "Cito",
+      "url": "https://www.producthunt.com/products/cito",
+      "tagline": "",
+      "pub_date": "2026-07-13T13:26:53-07:00"
     },
     {
       "title": "dot.",
@@ -425,28 +449,22 @@
       "pub_date": "2026-07-06T11:22:12-07:00"
     },
     {
-      "title": "Verse",
-      "url": "https://www.producthunt.com/products/verse-6",
+      "title": "Nitrosend",
+      "url": "https://www.producthunt.com/products/nitrosend",
       "tagline": "",
-      "pub_date": "2026-07-15T06:30:43-07:00"
+      "pub_date": "2026-07-14T18:41:49-07:00"
     },
     {
-      "title": "Kit For AI",
-      "url": "https://www.producthunt.com/products/kit-for-ai",
+      "title": "DevSwat AST- visualizer with analyzer",
+      "url": "https://www.producthunt.com/products/resonantgenesis",
       "tagline": "",
-      "pub_date": "2026-07-15T03:39:04-07:00"
+      "pub_date": "2026-07-15T10:33:34-07:00"
     },
     {
-      "title": "Zro",
-      "url": "https://www.producthunt.com/products/zro",
+      "title": "ClipMatch",
+      "url": "https://www.producthunt.com/products/clipmatch",
       "tagline": "",
-      "pub_date": "2026-07-15T08:45:09-07:00"
-    },
-    {
-      "title": "Cito",
-      "url": "https://www.producthunt.com/products/cito",
-      "tagline": "",
-      "pub_date": "2026-07-13T13:26:53-07:00"
+      "pub_date": "2026-07-15T22:16:07-07:00"
     }
   ]
 }

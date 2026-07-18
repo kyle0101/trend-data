@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:56:43.022Z",
+  "generated_at": "2026-07-18T01:48:47.112Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,44 +7,26 @@
       "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
       "url": "https://honeypotlive.cc/",
       "hn_url": "https://news.ycombinator.com/item?id=48947548",
-      "points": 98,
-      "comments": 37,
+      "points": 139,
+      "comments": 50,
       "created_ts": 1784297115,
       "author": "tusksm"
     },
     {
-      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
-      "url": "https://mojibake.zaerl.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48941123",
-      "points": 72,
-      "comments": 22,
-      "created_ts": 1784240961,
-      "author": "program"
-    },
-    {
-      "title": "Show HN: Explore the Workspaces of Modern Creators",
-      "url": "https://workspaces.xyz/",
-      "hn_url": "https://news.ycombinator.com/item?id=48948693",
-      "points": 35,
-      "comments": 28,
-      "created_ts": 1784302865,
-      "author": "ryangilbert"
-    },
-    {
-      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-      "url": "https://libretto.sh/debug-agents",
-      "hn_url": "https://news.ycombinator.com/item?id=48939710",
-      "points": 21,
-      "comments": 4,
-      "created_ts": 1784233287,
-      "author": "muchael"
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=48950774",
+      "points": 59,
+      "comments": 23,
+      "created_ts": 1784313453,
+      "author": "lortex"
     },
     {
       "title": "Show HN: On-chain bond market where the issuers are AI agents",
       "url": "https://selbonds.now",
       "hn_url": "https://news.ycombinator.com/item?id=48947754",
-      "points": 13,
-      "comments": 15,
+      "points": 14,
+      "comments": 16,
       "created_ts": 1784298320,
       "author": "griffinfoster7"
     }
@@ -54,82 +36,118 @@
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
       "hn_url": "https://news.ycombinator.com/item?id=48945241",
-      "points": 750,
-      "comments": 417,
+      "points": 1049,
+      "comments": 641,
       "created_ts": 1784281325,
       "author": "nprateem"
     },
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "hn_url": "https://news.ycombinator.com/item?id=48946303",
-      "points": 295,
-      "comments": 233,
-      "created_ts": 1784289759,
-      "author": "merksittich"
-    },
-    {
-      "title": "Mozilla: The state of open source AI",
+      "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=48947825",
-      "points": 249,
-      "comments": 173,
+      "points": 371,
+      "comments": 270,
       "created_ts": 1784298670,
       "author": "rellem"
-    },
-    {
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=48943174",
-      "points": 236,
-      "comments": 152,
-      "created_ts": 1784260418,
-      "author": "crazysaem"
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "hn_url": "https://news.ycombinator.com/item?id=48943745",
-      "points": 227,
-      "comments": 148,
-      "created_ts": 1784267470,
-      "author": "giuliomagnifico"
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
       "hn_url": "https://news.ycombinator.com/item?id=48947560",
-      "points": 213,
-      "comments": 150,
+      "points": 367,
+      "comments": 232,
       "created_ts": 1784297173,
       "author": "neversaydie"
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "hn_url": "https://news.ycombinator.com/item?id=48949551",
+      "points": 323,
+      "comments": 29,
+      "created_ts": 1784307447,
+      "author": "nicholasjbs"
     },
     {
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
       "hn_url": "https://news.ycombinator.com/item?id=48947717",
-      "points": 127,
-      "comments": 74,
+      "points": 276,
+      "comments": 146,
       "created_ts": 1784298111,
       "author": "droidjj"
     },
     {
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "hn_url": "https://news.ycombinator.com/item?id=48947455",
-      "points": 112,
-      "comments": 74,
-      "created_ts": 1784296564,
-      "author": "silcoon"
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "hn_url": "https://news.ycombinator.com/item?id=48952880",
+      "points": 269,
+      "comments": 167,
+      "created_ts": 1784327190,
+      "author": "gnabgib"
     },
     {
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
       "hn_url": "https://news.ycombinator.com/item?id=48947490",
-      "points": 111,
-      "comments": 51,
+      "points": 194,
+      "comments": 113,
       "created_ts": 1784296804,
       "author": "surprisetalk"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48951461",
+      "points": 166,
+      "comments": 49,
+      "created_ts": 1784317262,
+      "author": "st_goliath"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48950122",
+      "points": 164,
+      "comments": 40,
+      "created_ts": 1784310341,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "hn_url": "https://news.ycombinator.com/item?id=48947548",
+      "points": 139,
+      "comments": 50,
+      "created_ts": 1784297115,
+      "author": "tusksm"
+    },
+    {
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "hn_url": "https://news.ycombinator.com/item?id=48952939",
+      "points": 118,
+      "comments": 135,
+      "created_ts": 1784327755,
+      "author": "letmevoteplease"
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48952439",
+      "points": 113,
+      "comments": 68,
+      "created_ts": 1784323373,
+      "author": "hmm37"
+    },
+    {
+      "title": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "hn_url": "https://news.ycombinator.com/item?id=48947201",
+      "points": 111,
+      "comments": 45,
+      "created_ts": 1784295131,
+      "author": "pavel_lishin"
     }
   ],
   "ph_today": [
@@ -140,46 +158,16 @@
       "pub_date": "2026-07-15T22:07:19-07:00"
     },
     {
-      "title": "Basedash Suggestions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-07-16T07:57:03-07:00"
-    },
-    {
-      "title": "Unabyss for Claude",
-      "url": "https://www.producthunt.com/products/unabyss",
-      "tagline": "",
-      "pub_date": "2026-07-10T12:19:45-07:00"
-    },
-    {
       "title": "Scribble Party",
       "url": "https://www.producthunt.com/products/scribble-party",
       "tagline": "",
       "pub_date": "2026-07-16T19:55:51-07:00"
     },
     {
-      "title": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "title": "Basedash Suggestions",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-07-16T19:39:47-07:00"
-    },
-    {
-      "title": "Timely",
-      "url": "https://www.producthunt.com/products/timely-9",
-      "tagline": "",
-      "pub_date": "2026-07-16T13:38:51-07:00"
-    },
-    {
-      "title": "PixyCAD",
-      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
-      "tagline": "",
-      "pub_date": "2026-07-16T00:15:45-07:00"
-    },
-    {
-      "title": "Pebbles Ai",
-      "url": "https://www.producthunt.com/products/pebbles-ai",
-      "tagline": "",
-      "pub_date": "2026-07-13T21:03:42-07:00"
+      "pub_date": "2026-07-16T07:57:03-07:00"
     },
     {
       "title": "Pocket Screen",
@@ -188,58 +176,40 @@
       "pub_date": "2026-07-13T23:58:59-07:00"
     },
     {
+      "title": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
+      "tagline": "",
+      "pub_date": "2026-07-13T21:03:42-07:00"
+    },
+    {
+      "title": "Unabyss for Claude",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "tagline": "",
+      "pub_date": "2026-07-10T12:19:45-07:00"
+    },
+    {
+      "title": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "tagline": "",
+      "pub_date": "2026-07-16T19:39:47-07:00"
+    },
+    {
+      "title": "PixyCAD",
+      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "tagline": "",
+      "pub_date": "2026-07-16T00:15:45-07:00"
+    },
+    {
+      "title": "Timely",
+      "url": "https://www.producthunt.com/products/timely-9",
+      "tagline": "",
+      "pub_date": "2026-07-16T13:38:51-07:00"
+    },
+    {
       "title": "Yapper Leaderboard",
       "url": "https://www.producthunt.com/products/yapper-leaderboard",
       "tagline": "",
       "pub_date": "2026-07-15T23:58:13-07:00"
-    },
-    {
-      "title": "ClipMatch",
-      "url": "https://www.producthunt.com/products/clipmatch",
-      "tagline": "",
-      "pub_date": "2026-07-15T22:16:07-07:00"
-    },
-    {
-      "title": "Kit For AI",
-      "url": "https://www.producthunt.com/products/kit-for-ai",
-      "tagline": "",
-      "pub_date": "2026-07-15T03:39:04-07:00"
-    },
-    {
-      "title": "Weave",
-      "url": "https://www.producthunt.com/products/weave-9",
-      "tagline": "",
-      "pub_date": "2026-07-15T16:37:50-07:00"
-    },
-    {
-      "title": "Ventorah",
-      "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
-      "tagline": "",
-      "pub_date": "2026-07-15T23:37:09-07:00"
-    },
-    {
-      "title": "Zro",
-      "url": "https://www.producthunt.com/products/zro",
-      "tagline": "",
-      "pub_date": "2026-07-15T08:45:09-07:00"
-    },
-    {
-      "title": "Alert Grouping by DrDroid",
-      "url": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
-      "tagline": "",
-      "pub_date": "2026-07-14T23:55:52-07:00"
-    },
-    {
-      "title": "In Parallel MCP",
-      "url": "https://www.producthunt.com/products/in-parallel",
-      "tagline": "",
-      "pub_date": "2026-07-14T05:55:10-07:00"
-    },
-    {
-      "title": "Verse",
-      "url": "https://www.producthunt.com/products/verse-6",
-      "tagline": "",
-      "pub_date": "2026-07-15T06:30:43-07:00"
     },
     {
       "title": "Paradigm",
@@ -248,16 +218,16 @@
       "pub_date": "2026-06-17T19:09:41-07:00"
     },
     {
-      "title": "Node Health",
-      "url": "https://www.producthunt.com/products/node-health",
-      "tagline": "",
-      "pub_date": "2026-07-15T00:08:33-07:00"
-    },
-    {
       "title": "The Eureka Database",
       "url": "https://www.producthunt.com/products/the-eureka-database",
       "tagline": "",
       "pub_date": "2026-07-15T17:20:11-07:00"
+    },
+    {
+      "title": "Nuvio",
+      "url": "https://www.producthunt.com/products/nuvio-2",
+      "tagline": "",
+      "pub_date": "2026-07-14T09:35:02-07:00"
     },
     {
       "title": "Nitrosend",
@@ -266,22 +236,16 @@
       "pub_date": "2026-07-14T18:41:49-07:00"
     },
     {
-      "title": "DevSwat AST- visualizer with analyzer",
-      "url": "https://www.producthunt.com/products/resonantgenesis",
+      "title": "Node Health",
+      "url": "https://www.producthunt.com/products/node-health",
       "tagline": "",
-      "pub_date": "2026-07-15T10:33:34-07:00"
+      "pub_date": "2026-07-15T00:08:33-07:00"
     },
     {
-      "title": "Inbix",
-      "url": "https://www.producthunt.com/products/inbix",
+      "title": "In Parallel MCP",
+      "url": "https://www.producthunt.com/products/in-parallel",
       "tagline": "",
-      "pub_date": "2026-07-15T08:17:54-07:00"
-    },
-    {
-      "title": "Amami",
-      "url": "https://www.producthunt.com/products/amami",
-      "tagline": "",
-      "pub_date": "2026-07-14T21:17:53-07:00"
+      "pub_date": "2026-07-14T05:55:10-07:00"
     },
     {
       "title": "Codex Micro",
@@ -302,16 +266,70 @@
       "pub_date": "2026-07-13T13:26:53-07:00"
     },
     {
-      "title": "River",
-      "url": "https://www.producthunt.com/products/river-9",
+      "title": "Inbix",
+      "url": "https://www.producthunt.com/products/inbix",
       "tagline": "",
-      "pub_date": "2026-07-15T17:40:17-07:00"
+      "pub_date": "2026-07-15T08:17:54-07:00"
+    },
+    {
+      "title": "Cloud Halo",
+      "url": "https://www.producthunt.com/products/cloud-halo",
+      "tagline": "",
+      "pub_date": "2026-07-10T05:04:10-07:00"
+    },
+    {
+      "title": "Verse",
+      "url": "https://www.producthunt.com/products/verse-6",
+      "tagline": "",
+      "pub_date": "2026-07-15T06:30:43-07:00"
+    },
+    {
+      "title": "Amami",
+      "url": "https://www.producthunt.com/products/amami",
+      "tagline": "",
+      "pub_date": "2026-07-14T21:17:53-07:00"
     },
     {
       "title": "Manta AI",
       "url": "https://www.producthunt.com/products/manta-ai",
       "tagline": "",
       "pub_date": "2026-07-13T05:00:36-07:00"
+    },
+    {
+      "title": "Graft AI",
+      "url": "https://www.producthunt.com/products/graft-ai",
+      "tagline": "",
+      "pub_date": "2026-07-15T10:24:23-07:00"
+    },
+    {
+      "title": "SIMPLI",
+      "url": "https://www.producthunt.com/products/simpli-3",
+      "tagline": "",
+      "pub_date": "2026-07-13T01:39:23-07:00"
+    },
+    {
+      "title": "River",
+      "url": "https://www.producthunt.com/products/river-9",
+      "tagline": "",
+      "pub_date": "2026-07-15T17:40:17-07:00"
+    },
+    {
+      "title": "Albato AI",
+      "url": "https://www.producthunt.com/products/albato",
+      "tagline": "",
+      "pub_date": "2025-11-10T09:10:46-08:00"
+    },
+    {
+      "title": "BrickSolvr",
+      "url": "https://www.producthunt.com/products/bricksolvr",
+      "tagline": "",
+      "pub_date": "2026-07-15T01:30:49-07:00"
+    },
+    {
+      "title": "Weave",
+      "url": "https://www.producthunt.com/products/weave-9",
+      "tagline": "",
+      "pub_date": "2026-07-15T16:37:50-07:00"
     }
   ]
 }

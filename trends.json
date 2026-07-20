@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:30:21.215Z",
+  "generated_at": "2026-07-20T08:44:51.686Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": "https://news.ycombinator.com/item?id=48968606",
       "hn_url": "https://news.ycombinator.com/item?id=48968606",
-      "points": 1690,
-      "comments": 180,
+      "points": 2215,
+      "comments": 236,
       "created_ts": 1784472076,
       "author": "section33"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: A canvas-based note taking and organizer app",
       "url": "https://www.passinote.app/",
       "hn_url": "https://news.ycombinator.com/item?id=48971847",
-      "points": 44,
-      "comments": 12,
+      "points": 53,
+      "comments": 25,
       "created_ts": 1784496708,
       "author": "passiflora96"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: Bribes.fyi – Built something to report bribes",
       "url": "https://bribes.fyi/",
       "hn_url": "https://news.ycombinator.com/item?id=48969051",
-      "points": 21,
-      "comments": 17,
+      "points": 30,
+      "comments": 22,
       "created_ts": 1784475106,
       "author": "neverenderr"
     },
@@ -35,18 +35,9 @@
       "url": "https://yourfairshare.info",
       "hn_url": "https://news.ycombinator.com/item?id=48970684",
       "points": 14,
-      "comments": 26,
+      "comments": 27,
       "created_ts": 1784486849,
       "author": "IESAI_ski"
-    },
-    {
-      "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
-      "url": "https://offlinetts.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48965983",
-      "points": 11,
-      "comments": 9,
-      "created_ts": 1784449288,
-      "author": "twainyoung"
     },
     {
       "title": "Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
@@ -63,8 +54,8 @@
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": "https://news.ycombinator.com/item?id=48968606",
       "hn_url": "https://news.ycombinator.com/item?id=48968606",
-      "points": 1690,
-      "comments": 180,
+      "points": 2215,
+      "comments": 236,
       "created_ts": 1784472076,
       "author": "section33"
     },
@@ -72,94 +63,250 @@
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "hn_url": "https://news.ycombinator.com/item?id=48966120",
-      "points": 808,
-      "comments": 564,
+      "points": 873,
+      "comments": 595,
       "created_ts": 1784450697,
       "author": "nh43215rgb"
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "hn_url": "https://news.ycombinator.com/item?id=48966713",
-      "points": 424,
-      "comments": 197,
-      "created_ts": 1784457298,
-      "author": "chipweinberger"
     },
     {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "hn_url": "https://news.ycombinator.com/item?id=48966569",
-      "points": 413,
-      "comments": 576,
+      "points": 505,
+      "comments": 669,
       "created_ts": 1784455403,
       "author": "tosh"
     },
     {
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "hn_url": "https://news.ycombinator.com/item?id=48971738",
-      "points": 294,
-      "comments": 163,
-      "created_ts": 1784495890,
-      "author": "rbanffy"
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "hn_url": "https://news.ycombinator.com/item?id=48966713",
+      "points": 482,
+      "comments": 218,
+      "created_ts": 1784457298,
+      "author": "chipweinberger"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "hn_url": "https://news.ycombinator.com/item?id=48973869",
+      "points": 357,
+      "comments": 207,
+      "created_ts": 1784515876,
+      "author": "loubbrad"
     },
     {
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
       "hn_url": "https://news.ycombinator.com/item?id=48967256",
-      "points": 279,
-      "comments": 187,
+      "points": 307,
+      "comments": 202,
       "created_ts": 1784461698,
       "author": "ObviouslyFlamer"
-    },
-    {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "hn_url": "https://news.ycombinator.com/item?id=48969291",
-      "points": 237,
-      "comments": 97,
-      "created_ts": 1784476945,
-      "author": "serialx"
     },
     {
       "title": "I joined the IndieWeb, here's what I learned",
       "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
       "hn_url": "https://news.ycombinator.com/item?id=48966984",
-      "points": 158,
-      "comments": 86,
+      "points": 198,
+      "comments": 96,
       "created_ts": 1784459678,
       "author": "andros"
     },
     {
-      "title": "We want Texans to know their rights",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-      "hn_url": "https://news.ycombinator.com/item?id=48972062",
-      "points": 152,
-      "comments": 47,
-      "created_ts": 1784498591,
-      "author": "amarcheschi"
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48970894",
+      "points": 189,
+      "comments": 124,
+      "created_ts": 1784488409,
+      "author": "sebjones"
+    },
+    {
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48974454",
+      "points": 171,
+      "comments": 111,
+      "created_ts": 1784522715,
+      "author": "ilreb"
     },
     {
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
       "hn_url": "https://news.ycombinator.com/item?id=48968063",
-      "points": 132,
-      "comments": 97,
+      "points": 154,
+      "comments": 115,
       "created_ts": 1784467769,
       "author": "teleforce"
     },
     {
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "hn_url": "https://news.ycombinator.com/item?id=48965880",
-      "points": 116,
-      "comments": 48,
-      "created_ts": 1784447984,
-      "author": "inferhaven"
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "hn_url": "https://news.ycombinator.com/item?id=48972970",
+      "points": 154,
+      "comments": 70,
+      "created_ts": 1784506610,
+      "author": "wertyk"
+    },
+    {
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "hn_url": "https://news.ycombinator.com/item?id=48967355",
+      "points": 130,
+      "comments": 166,
+      "created_ts": 1784462513,
+      "author": "bkotrys"
+    },
+    {
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "hn_url": "https://news.ycombinator.com/item?id=48970772",
+      "points": 112,
+      "comments": 94,
+      "created_ts": 1784487421,
+      "author": "rafal_opilowski"
     }
   ],
   "ph_today": [
+    {
+      "title": "Nautis",
+      "url": "https://www.producthunt.com/products/nautis",
+      "tagline": "",
+      "pub_date": "2026-07-13T00:03:58-07:00"
+    },
+    {
+      "title": "Autoplot",
+      "url": "https://www.producthunt.com/products/autoplot",
+      "tagline": "",
+      "pub_date": "2026-07-19T15:29:54-07:00"
+    },
+    {
+      "title": "NeuroVidz",
+      "url": "https://www.producthunt.com/products/neurovidz",
+      "tagline": "",
+      "pub_date": "2026-07-15T06:13:39-07:00"
+    },
+    {
+      "title": "Fuzzy AI",
+      "url": "https://www.producthunt.com/products/fuzzy-ai-2",
+      "tagline": "",
+      "pub_date": "2026-06-22T23:13:24-07:00"
+    },
+    {
+      "title": "Lunen.ai",
+      "url": "https://www.producthunt.com/products/lunen-ai",
+      "tagline": "",
+      "pub_date": "2026-07-17T07:26:11-07:00"
+    },
+    {
+      "title": "Scriptyard",
+      "url": "https://www.producthunt.com/products/scriptyard",
+      "tagline": "",
+      "pub_date": "2026-07-18T08:44:43-07:00"
+    },
+    {
+      "title": "Inkling",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "tagline": "",
+      "pub_date": "2026-07-19T21:25:48-07:00"
+    },
+    {
+      "title": "LnkFlow",
+      "url": "https://www.producthunt.com/products/lnkflow",
+      "tagline": "",
+      "pub_date": "2026-07-17T14:45:06-07:00"
+    },
+    {
+      "title": "LayerProof Mylar",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "tagline": "",
+      "pub_date": "2026-07-16T00:38:35-07:00"
+    },
+    {
+      "title": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
+      "tagline": "",
+      "pub_date": "2026-07-19T17:40:17-07:00"
+    },
+    {
+      "title": "Kogvio",
+      "url": "https://www.producthunt.com/products/kogvio",
+      "tagline": "",
+      "pub_date": "2026-07-19T14:45:08-07:00"
+    },
+    {
+      "title": "Rex",
+      "url": "https://www.producthunt.com/products/rex-7",
+      "tagline": "",
+      "pub_date": "2026-07-19T16:08:58-07:00"
+    },
+    {
+      "title": "Free AI Tools",
+      "url": "https://www.producthunt.com/products/free-ai-tools-4",
+      "tagline": "",
+      "pub_date": "2026-07-19T09:14:15-07:00"
+    },
+    {
+      "title": "Loova Ads Studio",
+      "url": "https://www.producthunt.com/products/loova-agents",
+      "tagline": "",
+      "pub_date": "2026-07-13T04:40:24-07:00"
+    },
+    {
+      "title": "Backbeat Forge",
+      "url": "https://www.producthunt.com/products/backbeat-forge",
+      "tagline": "",
+      "pub_date": "2026-07-19T11:42:18-07:00"
+    },
+    {
+      "title": "CaptureKit",
+      "url": "https://www.producthunt.com/products/capturekit-2",
+      "tagline": "",
+      "pub_date": "2026-07-19T00:15:24-07:00"
+    },
+    {
+      "title": "Creed",
+      "url": "https://www.producthunt.com/products/creed-2",
+      "tagline": "",
+      "pub_date": "2026-07-19T10:01:44-07:00"
+    },
+    {
+      "title": "Deck",
+      "url": "https://www.producthunt.com/products/deck-9",
+      "tagline": "",
+      "pub_date": "2026-07-17T09:41:13-07:00"
+    },
+    {
+      "title": "Replay QA",
+      "url": "https://www.producthunt.com/products/replayio",
+      "tagline": "",
+      "pub_date": "2026-07-02T04:26:09-07:00"
+    },
+    {
+      "title": "Skippr AI",
+      "url": "https://www.producthunt.com/products/skippr-3",
+      "tagline": "",
+      "pub_date": "2026-07-13T21:37:11-07:00"
+    },
+    {
+      "title": "Backdrop",
+      "url": "https://www.producthunt.com/products/backdrop",
+      "tagline": "",
+      "pub_date": "2026-07-15T12:15:35-07:00"
+    },
+    {
+      "title": "BlockscopeChat",
+      "url": "https://www.producthunt.com/products/blockscopechat",
+      "tagline": "",
+      "pub_date": "2026-07-17T11:19:38-07:00"
+    },
+    {
+      "title": "Kobbe",
+      "url": "https://www.producthunt.com/products/kobbe",
+      "tagline": "",
+      "pub_date": "2026-07-16T00:41:42-07:00"
+    },
     {
       "title": "BaseRT",
       "url": "https://www.producthunt.com/products/basert",
@@ -167,10 +314,10 @@
       "pub_date": "2026-07-18T01:15:22-07:00"
     },
     {
-      "title": "Rewisp",
-      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+      "title": "Detourmap",
+      "url": "https://www.producthunt.com/products/detourmap",
       "tagline": "",
-      "pub_date": "2026-07-18T04:45:09-07:00"
+      "pub_date": "2026-07-18T02:27:10-07:00"
     },
     {
       "title": "OpenSEO",
@@ -185,52 +332,10 @@
       "pub_date": "2026-06-26T02:13:16-07:00"
     },
     {
-      "title": "Detourmap",
-      "url": "https://www.producthunt.com/products/detourmap",
+      "title": "Rewisp",
+      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
       "tagline": "",
-      "pub_date": "2026-07-18T02:27:10-07:00"
-    },
-    {
-      "title": "Kobbe",
-      "url": "https://www.producthunt.com/products/kobbe",
-      "tagline": "",
-      "pub_date": "2026-07-16T00:41:42-07:00"
-    },
-    {
-      "title": "WX",
-      "url": "https://www.producthunt.com/products/wx",
-      "tagline": "",
-      "pub_date": "2026-07-14T07:38:29-07:00"
-    },
-    {
-      "title": "OpenMarkdown",
-      "url": "https://www.producthunt.com/products/openmarkdown",
-      "tagline": "",
-      "pub_date": "2026-07-14T21:32:04-07:00"
-    },
-    {
-      "title": "LiveDemo",
-      "url": "https://www.producthunt.com/products/livedemo",
-      "tagline": "",
-      "pub_date": "2026-07-05T22:59:02-07:00"
-    },
-    {
-      "title": "ZooData",
-      "url": "https://www.producthunt.com/products/zoodata",
-      "tagline": "",
-      "pub_date": "2026-07-07T02:57:18-07:00"
-    },
-    {
-      "title": "Mirage",
-      "url": "https://www.producthunt.com/products/mirage-15",
-      "tagline": "",
-      "pub_date": "2026-07-11T00:48:47-07:00"
-    },
-    {
-      "title": "Mainichi",
-      "url": "https://www.producthunt.com/products/mainichi-2",
-      "tagline": "",
-      "pub_date": "2026-07-13T12:26:12-07:00"
+      "pub_date": "2026-07-18T04:45:09-07:00"
     },
     {
       "title": "DocuSmart AI",
@@ -239,106 +344,10 @@
       "pub_date": "2026-03-12T10:37:12-07:00"
     },
     {
-      "title": "Acebuilder",
-      "url": "https://www.producthunt.com/products/acebuilder",
+      "title": "ZooData",
+      "url": "https://www.producthunt.com/products/zoodata",
       "tagline": "",
-      "pub_date": "2026-07-14T04:05:00-07:00"
-    },
-    {
-      "title": "Clark",
-      "url": "https://www.producthunt.com/products/clark-agent",
-      "tagline": "",
-      "pub_date": "2026-05-27T02:38:52-07:00"
-    },
-    {
-      "title": "Scribble Party",
-      "url": "https://www.producthunt.com/products/scribble-party",
-      "tagline": "",
-      "pub_date": "2026-07-16T19:55:51-07:00"
-    },
-    {
-      "title": "Pebbles Ai",
-      "url": "https://www.producthunt.com/products/pebbles-ai",
-      "tagline": "",
-      "pub_date": "2026-07-13T21:03:42-07:00"
-    },
-    {
-      "title": "Pocket Screen",
-      "url": "https://www.producthunt.com/products/toybird-labs",
-      "tagline": "",
-      "pub_date": "2026-07-13T23:58:59-07:00"
-    },
-    {
-      "title": "Timely",
-      "url": "https://www.producthunt.com/products/timely-9",
-      "tagline": "",
-      "pub_date": "2026-07-16T13:38:51-07:00"
-    },
-    {
-      "title": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "tagline": "",
-      "pub_date": "2026-07-16T19:39:47-07:00"
-    },
-    {
-      "title": "Yapper Leaderboard",
-      "url": "https://www.producthunt.com/products/yapper-leaderboard",
-      "tagline": "",
-      "pub_date": "2026-07-15T23:58:13-07:00"
-    },
-    {
-      "title": "Unabyss for Claude",
-      "url": "https://www.producthunt.com/products/unabyss",
-      "tagline": "",
-      "pub_date": "2026-07-10T12:19:45-07:00"
-    },
-    {
-      "title": "Basedash Suggestions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-07-16T07:57:03-07:00"
-    },
-    {
-      "title": "Aye",
-      "url": "https://www.producthunt.com/products/aye-browser",
-      "tagline": "",
-      "pub_date": "2026-07-15T22:07:19-07:00"
-    },
-    {
-      "title": "PixyCAD",
-      "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
-      "tagline": "",
-      "pub_date": "2026-07-16T00:15:45-07:00"
-    },
-    {
-      "title": "SIMPLI",
-      "url": "https://www.producthunt.com/products/simpli-3",
-      "tagline": "",
-      "pub_date": "2026-07-13T01:39:23-07:00"
-    },
-    {
-      "title": "Graft AI",
-      "url": "https://www.producthunt.com/products/graft-ai",
-      "tagline": "",
-      "pub_date": "2026-07-15T10:24:23-07:00"
-    },
-    {
-      "title": "Amami",
-      "url": "https://www.producthunt.com/products/amami",
-      "tagline": "",
-      "pub_date": "2026-07-14T21:17:53-07:00"
-    },
-    {
-      "title": "Kit For AI",
-      "url": "https://www.producthunt.com/products/kit-for-ai",
-      "tagline": "",
-      "pub_date": "2026-07-15T03:39:04-07:00"
-    },
-    {
-      "title": "Manta AI",
-      "url": "https://www.producthunt.com/products/manta-ai",
-      "tagline": "",
-      "pub_date": "2026-07-13T05:00:36-07:00"
+      "pub_date": "2026-07-07T02:57:18-07:00"
     }
   ]
 }

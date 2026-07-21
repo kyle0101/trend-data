@@ -1,34 +1,43 @@
 {
-  "generated_at": "2026-07-20T19:28:38.204Z",
+  "generated_at": "2026-07-21T01:57:39.641Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "url": "https://www.passinote.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=48971847",
-      "points": 60,
-      "comments": 32,
-      "created_ts": 1784496708,
-      "author": "passiflora96"
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "hn_url": "https://news.ycombinator.com/item?id=48984254",
+      "points": 76,
+      "comments": 14,
+      "created_ts": 1784578244,
+      "author": "akanet"
     },
     {
       "title": "Show HN: Wheesper – Start an anonymous discussion with a link",
       "url": "https://wheesper.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48980167",
-      "points": 21,
-      "comments": 21,
+      "points": 31,
+      "comments": 22,
       "created_ts": 1784561030,
       "author": "whatdoyouthink2"
+    },
+    {
+      "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+      "url": "https://github.com/dawndrain/movie-gen",
+      "hn_url": "https://news.ycombinator.com/item?id=48978961",
+      "points": 15,
+      "comments": 4,
+      "created_ts": 1784555864,
+      "author": "dawndrain"
     }
   ],
   "hn_front": [
     {
-      "title": "China's open-weights AI strategy is winning",
+      "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "hn_url": "https://news.ycombinator.com/item?id=48979269",
-      "points": 538,
-      "comments": 456,
+      "points": 984,
+      "comments": 783,
       "created_ts": 1784557307,
       "author": "benwerd"
     },
@@ -36,150 +45,153 @@
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48976846",
-      "points": 508,
-      "comments": 110,
+      "points": 708,
+      "comments": 142,
       "created_ts": 1784543440,
       "author": "apunen"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "hn_url": "https://news.ycombinator.com/item?id=48973869",
+      "points": 676,
+      "comments": 436,
+      "created_ts": 1784515876,
+      "author": "loubbrad"
     },
     {
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "hn_url": "https://news.ycombinator.com/item?id=48978605",
-      "points": 448,
-      "comments": 241,
+      "points": 573,
+      "comments": 325,
       "created_ts": 1784554113,
       "author": "speckx"
     },
     {
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "hn_url": "https://news.ycombinator.com/item?id=48977711",
-      "points": 416,
-      "comments": 233,
-      "created_ts": 1784549648,
-      "author": "rapnie"
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "hn_url": "https://news.ycombinator.com/item?id=48975665",
-      "points": 345,
-      "comments": 196,
-      "created_ts": 1784535216,
-      "author": "infosecau"
-    },
-    {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "hn_url": "https://news.ycombinator.com/item?id=48980019",
-      "points": 190,
-      "comments": 193,
-      "created_ts": 1784560422,
-      "author": "cl42"
-    },
-    {
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "url": "https://github.com/search",
-      "hn_url": "https://news.ycombinator.com/item?id=48978835",
-      "points": 180,
-      "comments": 41,
-      "created_ts": 1784555233,
-      "author": "DemiGuru"
-    },
-    {
-      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "hn_url": "https://news.ycombinator.com/item?id=48978350",
-      "points": 163,
-      "comments": 114,
-      "created_ts": 1784552831,
-      "author": "defrost"
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "hn_url": "https://news.ycombinator.com/item?id=48981206",
-      "points": 143,
-      "comments": 101,
-      "created_ts": 1784565396,
-      "author": "dopamine_daddy"
-    },
-    {
-      "title": "Perfection Is Not Over-Engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48979120",
-      "points": 132,
-      "comments": 59,
-      "created_ts": 1784556630,
-      "author": "var0xyz"
-    },
-    {
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "url": "https://nothings.org/gamedev/ssao/",
-      "hn_url": "https://news.ycombinator.com/item?id=48979931",
-      "points": 115,
-      "comments": 43,
-      "created_ts": 1784560051,
-      "author": "firephox"
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "hn_url": "https://news.ycombinator.com/item?id=48981703",
+      "points": 404,
+      "comments": 185,
+      "created_ts": 1784567603,
+      "author": "ms7892"
     },
     {
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48981620",
-      "points": 105,
-      "comments": 38,
+      "points": 348,
+      "comments": 136,
       "created_ts": 1784567259,
       "author": "baldvinmar"
+    },
+    {
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "hn_url": "https://news.ycombinator.com/item?id=48980019",
+      "points": 291,
+      "comments": 295,
+      "created_ts": 1784560422,
+      "author": "cl42"
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=48977128",
+      "points": 274,
+      "comments": 175,
+      "created_ts": 1784545558,
+      "author": "mfiguiere"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "hn_url": "https://news.ycombinator.com/item?id=48983382",
+      "points": 212,
+      "comments": 76,
+      "created_ts": 1784574217,
+      "author": "artninja1988"
+    },
+    {
+      "title": "LEDs’ potential to save our night skies",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "hn_url": "https://news.ycombinator.com/item?id=48978350",
+      "points": 210,
+      "comments": 161,
+      "created_ts": 1784552831,
+      "author": "defrost"
+    },
+    {
+      "title": "Perfection is not over-engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48979120",
+      "points": 196,
+      "comments": 89,
+      "created_ts": 1784556630,
+      "author": "var0xyz"
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "hn_url": "https://news.ycombinator.com/item?id=48981206",
+      "points": 194,
+      "comments": 141,
+      "created_ts": 1784565396,
+      "author": "dopamine_daddy"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "hn_url": "https://news.ycombinator.com/item?id=48982681",
+      "points": 183,
+      "comments": 71,
+      "created_ts": 1784571368,
+      "author": "aratahikaru5"
+    },
+    {
+      "title": "The Voice of Google",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+      "hn_url": "https://news.ycombinator.com/item?id=48980053",
+      "points": 175,
+      "comments": 90,
+      "created_ts": 1784560536,
+      "author": "littlexsparkee"
+    },
+    {
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48978792",
+      "points": 153,
+      "comments": 29,
+      "created_ts": 1784554990,
+      "author": "Gecko4072"
+    },
+    {
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "hn_url": "https://news.ycombinator.com/item?id=48979931",
+      "points": 149,
+      "comments": 65,
+      "created_ts": 1784560051,
+      "author": "firephox"
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "hn_url": "https://news.ycombinator.com/item?id=48982535",
+      "points": 124,
+      "comments": 51,
+      "created_ts": 1784570773,
+      "author": "jlaneve"
     }
   ],
   "ph_today": [
     {
-      "title": "Inkling",
-      "url": "https://www.producthunt.com/products/tinker-2",
+      "title": "Autoplot",
+      "url": "https://www.producthunt.com/products/autoplot",
       "tagline": "",
-      "pub_date": "2026-07-19T21:25:48-07:00"
-    },
-    {
-      "title": "BlockscopeChat",
-      "url": "https://www.producthunt.com/products/blockscopechat",
-      "tagline": "",
-      "pub_date": "2026-07-17T11:19:38-07:00"
-    },
-    {
-      "title": "Fuzzy AI",
-      "url": "https://www.producthunt.com/products/fuzzy-ai-2",
-      "tagline": "",
-      "pub_date": "2026-06-22T23:13:24-07:00"
-    },
-    {
-      "title": "Skippr AI",
-      "url": "https://www.producthunt.com/products/skippr-3",
-      "tagline": "",
-      "pub_date": "2026-07-13T21:37:11-07:00"
-    },
-    {
-      "title": "Scriptyard",
-      "url": "https://www.producthunt.com/products/scriptyard",
-      "tagline": "",
-      "pub_date": "2026-07-18T08:44:43-07:00"
-    },
-    {
-      "title": "Creed",
-      "url": "https://www.producthunt.com/products/creed-2",
-      "tagline": "",
-      "pub_date": "2026-07-19T10:01:44-07:00"
-    },
-    {
-      "title": "Nautis",
-      "url": "https://www.producthunt.com/products/nautis",
-      "tagline": "",
-      "pub_date": "2026-07-13T00:03:58-07:00"
-    },
-    {
-      "title": "Loova Ads Studio",
-      "url": "https://www.producthunt.com/products/loova-agents",
-      "tagline": "",
-      "pub_date": "2026-07-13T04:40:24-07:00"
+      "pub_date": "2026-07-19T15:29:54-07:00"
     },
     {
       "title": "Replay QA",
@@ -188,10 +200,40 @@
       "pub_date": "2026-07-02T04:26:09-07:00"
     },
     {
-      "title": "Reignat",
-      "url": "https://www.producthunt.com/products/reignat",
+      "title": "CaptureKit",
+      "url": "https://www.producthunt.com/products/capturekit-2",
       "tagline": "",
-      "pub_date": "2026-07-19T17:40:17-07:00"
+      "pub_date": "2026-07-19T00:15:24-07:00"
+    },
+    {
+      "title": "BlockscopeChat",
+      "url": "https://www.producthunt.com/products/blockscopechat",
+      "tagline": "",
+      "pub_date": "2026-07-17T11:19:38-07:00"
+    },
+    {
+      "title": "LnkFlow",
+      "url": "https://www.producthunt.com/products/lnkflow",
+      "tagline": "",
+      "pub_date": "2026-07-17T14:45:06-07:00"
+    },
+    {
+      "title": "Backbeat Forge",
+      "url": "https://www.producthunt.com/products/backbeat-forge",
+      "tagline": "",
+      "pub_date": "2026-07-19T11:42:18-07:00"
+    },
+    {
+      "title": "Creed",
+      "url": "https://www.producthunt.com/products/creed-2",
+      "tagline": "",
+      "pub_date": "2026-07-19T10:01:44-07:00"
+    },
+    {
+      "title": "LayerProof Mylar",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "tagline": "",
+      "pub_date": "2026-07-16T00:38:35-07:00"
     },
     {
       "title": "Rex",
@@ -206,22 +248,22 @@
       "pub_date": "2026-07-17T09:41:13-07:00"
     },
     {
-      "title": "NeuroVidz",
-      "url": "https://www.producthunt.com/products/neurovidz",
+      "title": "Free AI Tools",
+      "url": "https://www.producthunt.com/products/free-ai-tools-4",
       "tagline": "",
-      "pub_date": "2026-07-15T06:13:39-07:00"
+      "pub_date": "2026-07-19T09:14:15-07:00"
     },
     {
-      "title": "Lunen.ai",
-      "url": "https://www.producthunt.com/products/lunen-ai",
+      "title": "Scriptyard",
+      "url": "https://www.producthunt.com/products/scriptyard",
       "tagline": "",
-      "pub_date": "2026-07-17T07:26:11-07:00"
+      "pub_date": "2026-07-18T08:44:43-07:00"
     },
     {
-      "title": "Kogvio",
-      "url": "https://www.producthunt.com/products/kogvio",
+      "title": "Nautis",
+      "url": "https://www.producthunt.com/products/nautis",
       "tagline": "",
-      "pub_date": "2026-07-19T14:45:08-07:00"
+      "pub_date": "2026-07-13T00:03:58-07:00"
     },
     {
       "title": "Backdrop",
@@ -230,58 +272,52 @@
       "pub_date": "2026-07-15T12:15:35-07:00"
     },
     {
-      "title": "Free AI Tools",
-      "url": "https://www.producthunt.com/products/free-ai-tools-4",
+      "title": "Fuzzy AI",
+      "url": "https://www.producthunt.com/products/fuzzy-ai-2",
       "tagline": "",
-      "pub_date": "2026-07-19T09:14:15-07:00"
+      "pub_date": "2026-06-22T23:13:24-07:00"
     },
     {
-      "title": "Backbeat Forge",
-      "url": "https://www.producthunt.com/products/backbeat-forge",
+      "title": "Kogvio",
+      "url": "https://www.producthunt.com/products/kogvio",
       "tagline": "",
-      "pub_date": "2026-07-19T11:42:18-07:00"
+      "pub_date": "2026-07-19T14:45:08-07:00"
     },
     {
-      "title": "LayerProof Mylar",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "title": "Reignat",
+      "url": "https://www.producthunt.com/products/reignat",
       "tagline": "",
-      "pub_date": "2026-07-16T00:38:35-07:00"
+      "pub_date": "2026-07-19T17:40:17-07:00"
     },
     {
-      "title": "LnkFlow",
-      "url": "https://www.producthunt.com/products/lnkflow",
+      "title": "Lunen.ai",
+      "url": "https://www.producthunt.com/products/lunen-ai",
       "tagline": "",
-      "pub_date": "2026-07-17T14:45:06-07:00"
+      "pub_date": "2026-07-17T07:26:11-07:00"
     },
     {
-      "title": "CaptureKit",
-      "url": "https://www.producthunt.com/products/capturekit-2",
+      "title": "Loova Ads Studio",
+      "url": "https://www.producthunt.com/products/loova-agents",
       "tagline": "",
-      "pub_date": "2026-07-19T00:15:24-07:00"
+      "pub_date": "2026-07-13T04:40:24-07:00"
     },
     {
-      "title": "Autoplot",
-      "url": "https://www.producthunt.com/products/autoplot",
+      "title": "Skippr AI",
+      "url": "https://www.producthunt.com/products/skippr-3",
       "tagline": "",
-      "pub_date": "2026-07-19T15:29:54-07:00"
+      "pub_date": "2026-07-13T21:37:11-07:00"
     },
     {
-      "title": "Detourmap",
-      "url": "https://www.producthunt.com/products/detourmap",
+      "title": "NeuroVidz",
+      "url": "https://www.producthunt.com/products/neurovidz",
       "tagline": "",
-      "pub_date": "2026-07-18T02:27:10-07:00"
+      "pub_date": "2026-07-15T06:13:39-07:00"
     },
     {
-      "title": "Rewisp",
-      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+      "title": "Inkling",
+      "url": "https://www.producthunt.com/products/tinker-2",
       "tagline": "",
-      "pub_date": "2026-07-18T04:45:09-07:00"
-    },
-    {
-      "title": "Kobbe",
-      "url": "https://www.producthunt.com/products/kobbe",
-      "tagline": "",
-      "pub_date": "2026-07-16T00:41:42-07:00"
+      "pub_date": "2026-07-19T21:25:48-07:00"
     },
     {
       "title": "BaseRT",
@@ -290,10 +326,10 @@
       "pub_date": "2026-07-18T01:15:22-07:00"
     },
     {
-      "title": "Spycost",
-      "url": "https://www.producthunt.com/products/spycost",
+      "title": "Kobbe",
+      "url": "https://www.producthunt.com/products/kobbe",
       "tagline": "",
-      "pub_date": "2026-06-26T02:13:16-07:00"
+      "pub_date": "2026-07-16T00:41:42-07:00"
     },
     {
       "title": "OpenSEO",
@@ -302,16 +338,34 @@
       "pub_date": "2026-07-17T06:34:52-07:00"
     },
     {
-      "title": "Clark",
-      "url": "https://www.producthunt.com/products/clark-agent",
+      "title": "Rewisp",
+      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
       "tagline": "",
-      "pub_date": "2026-05-27T02:38:52-07:00"
+      "pub_date": "2026-07-18T04:45:09-07:00"
     },
     {
-      "title": "DocuSmart AI",
-      "url": "https://www.producthunt.com/products/docusmart-ai",
+      "title": "Detourmap",
+      "url": "https://www.producthunt.com/products/detourmap",
       "tagline": "",
-      "pub_date": "2026-03-12T10:37:12-07:00"
+      "pub_date": "2026-07-18T02:27:10-07:00"
+    },
+    {
+      "title": "Spycost",
+      "url": "https://www.producthunt.com/products/spycost",
+      "tagline": "",
+      "pub_date": "2026-06-26T02:13:16-07:00"
+    },
+    {
+      "title": "Acebuilder",
+      "url": "https://www.producthunt.com/products/acebuilder",
+      "tagline": "",
+      "pub_date": "2026-07-14T04:05:00-07:00"
+    },
+    {
+      "title": "OpenMarkdown",
+      "url": "https://www.producthunt.com/products/openmarkdown",
+      "tagline": "",
+      "pub_date": "2026-07-14T21:32:04-07:00"
     }
   ]
 }

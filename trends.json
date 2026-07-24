@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:59:38.939Z",
+  "generated_at": "2026-07-24T08:12:00.250Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
       "hn_url": "https://news.ycombinator.com/item?id=49026810",
-      "points": 234,
-      "comments": 116,
+      "points": 368,
+      "comments": 173,
       "created_ts": 1784834761,
       "author": "adam_rida"
     },
@@ -16,44 +16,44 @@
       "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "hn_url": "https://news.ycombinator.com/item?id=49022911",
-      "points": 120,
-      "comments": 18,
+      "points": 146,
+      "comments": 24,
       "created_ts": 1784819497,
       "author": "harrisontin"
-    },
-    {
-      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
-      "url": "https://github.com/h3nock/remux",
-      "hn_url": "https://news.ycombinator.com/item?id=49022284",
-      "points": 87,
-      "comments": 31,
-      "created_ts": 1784817086,
-      "author": "bitwise42"
-    },
-    {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "hn_url": "https://news.ycombinator.com/item?id=49023427",
-      "points": 80,
-      "comments": 27,
-      "created_ts": 1784821360,
-      "author": "Jonathanfishner"
     },
     {
       "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
       "url": "https://github.com/izeigerman/claude-thermos",
       "hn_url": "https://news.ycombinator.com/item?id=49024882",
-      "points": 70,
-      "comments": 60,
+      "points": 97,
+      "comments": 81,
       "created_ts": 1784826382,
       "author": "s0ck_r4w"
+    },
+    {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "hn_url": "https://news.ycombinator.com/item?id=49023427",
+      "points": 94,
+      "comments": 30,
+      "created_ts": 1784821360,
+      "author": "Jonathanfishner"
+    },
+    {
+      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux",
+      "hn_url": "https://news.ycombinator.com/item?id=49022284",
+      "points": 92,
+      "comments": 31,
+      "created_ts": 1784817086,
+      "author": "bitwise42"
     },
     {
       "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
       "url": "https://yamafaktory.github.io/whetuu/",
       "hn_url": "https://news.ycombinator.com/item?id=49022371",
       "points": 46,
-      "comments": 27,
+      "comments": 36,
       "created_ts": 1784817474,
       "author": "yamafaktory"
     },
@@ -61,8 +61,8 @@
       "title": "Show HN: macOS menu-bar manager for SSH port forwards",
       "url": "https://github.com/lx2026/RelayBar",
       "hn_url": "https://news.ycombinator.com/item?id=49022302",
-      "points": 38,
-      "comments": 5,
+      "points": 42,
+      "comments": 8,
       "created_ts": 1784817173,
       "author": "linxy97"
     },
@@ -70,7 +70,7 @@
       "title": "Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript",
       "url": "https://omnideck.cc/",
       "hn_url": "https://news.ycombinator.com/item?id=49021961",
-      "points": 18,
+      "points": 20,
       "comments": 10,
       "created_ts": 1784815994,
       "author": "AAPD_Studio"
@@ -79,7 +79,7 @@
       "title": "Show HN: Dally – A little every day adds up",
       "url": "https://mctools.site",
       "hn_url": "https://news.ycombinator.com/item?id=49021575",
-      "points": 17,
+      "points": 18,
       "comments": 2,
       "created_ts": 1784814587,
       "author": "totaldude87"
@@ -92,6 +92,15 @@
       "comments": 2,
       "created_ts": 1784835216,
       "author": "vatsalaggarwal"
+    },
+    {
+      "title": "Show HN: A factory simulator game built on Spreadsheets",
+      "url": "https://www.logisheets.com/?craft=factory-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=49030100",
+      "points": 13,
+      "comments": 2,
+      "created_ts": 1784854774,
+      "author": "JeremyHe"
     }
   ],
   "hn_front": [
@@ -99,8 +108,8 @@
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "hn_url": "https://news.ycombinator.com/item?id=49022152",
-      "points": 980,
-      "comments": 481,
+      "points": 1258,
+      "comments": 565,
       "created_ts": 1784816683,
       "author": "dwwoelfel"
     },
@@ -108,80 +117,80 @@
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "hn_url": "https://news.ycombinator.com/item?id=49023016",
-      "points": 727,
-      "comments": 651,
+      "points": 894,
+      "comments": 747,
       "created_ts": 1784819920,
       "author": "theanonymousone"
-    },
-    {
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "hn_url": "https://news.ycombinator.com/item?id=49020999",
-      "points": 595,
-      "comments": 296,
-      "created_ts": 1784812150,
-      "author": "technewssss"
-    },
-    {
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "hn_url": "https://news.ycombinator.com/item?id=49024691",
-      "points": 294,
-      "comments": 126,
-      "created_ts": 1784825613,
-      "author": "nickthegreek"
-    },
-    {
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49022038",
-      "points": 242,
-      "comments": 47,
-      "created_ts": 1784816260,
-      "author": "mpweiher"
-    },
-    {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "hn_url": "https://news.ycombinator.com/item?id=49026810",
-      "points": 234,
-      "comments": 116,
-      "created_ts": 1784834761,
-      "author": "adam_rida"
     },
     {
       "title": "98.css",
       "url": "https://jdan.github.io/98.css/#status-bar",
       "hn_url": "https://news.ycombinator.com/item?id=49028927",
-      "points": 220,
-      "comments": 42,
+      "points": 445,
+      "comments": 105,
       "created_ts": 1784845829,
       "author": "lopespm"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "hn_url": "https://news.ycombinator.com/item?id=49026810",
+      "points": 368,
+      "comments": 173,
+      "created_ts": 1784834761,
+      "author": "adam_rida"
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "hn_url": "https://news.ycombinator.com/item?id=49024691",
+      "points": 360,
+      "comments": 165,
+      "created_ts": 1784825613,
+      "author": "nickthegreek"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49023019",
+      "points": 298,
+      "comments": 216,
+      "created_ts": 1784819928,
+      "author": "dhorthy"
+    },
+    {
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49022038",
+      "points": 276,
+      "comments": 61,
+      "created_ts": 1784816260,
+      "author": "mpweiher"
     },
     {
       "title": "The arguments against open source AI are bad",
       "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
       "hn_url": "https://news.ycombinator.com/item?id=49024643",
-      "points": 203,
-      "comments": 146,
+      "points": 264,
+      "comments": 183,
       "created_ts": 1784825397,
       "author": "jjfoooo4"
     },
     {
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "hn_url": "https://news.ycombinator.com/item?id=49021783",
-      "points": 192,
-      "comments": 76,
-      "created_ts": 1784815344,
-      "author": "MarcoDewey"
+      "title": "I regret migrating to Codeberg",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "hn_url": "https://news.ycombinator.com/item?id=49021856",
+      "points": 252,
+      "comments": 152,
+      "created_ts": 1784815607,
+      "author": "boramalper"
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
       "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
       "hn_url": "https://news.ycombinator.com/item?id=49021597",
-      "points": 181,
-      "comments": 206,
+      "points": 234,
+      "comments": 252,
       "created_ts": 1784814696,
       "author": "r2sk5t"
     },
@@ -189,111 +198,147 @@
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
       "url": "https://learnopengl.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49022634",
-      "points": 177,
-      "comments": 99,
+      "points": 231,
+      "comments": 118,
       "created_ts": 1784818414,
       "author": "ibobev"
     },
     {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "hn_url": "https://news.ycombinator.com/item?id=49023019",
-      "points": 176,
-      "comments": 146,
-      "created_ts": 1784819928,
-      "author": "dhorthy"
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "hn_url": "https://news.ycombinator.com/item?id=49021783",
+      "points": 215,
+      "comments": 81,
+      "created_ts": 1784815344,
+      "author": "MarcoDewey"
+    },
+    {
+      "title": "Fields Medals 2026",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=49022137",
+      "points": 167,
+      "comments": 87,
+      "created_ts": 1784816631,
+      "author": "nill0"
     },
     {
       "title": "Building on ATProto",
       "url": "https://lukekanies.com/writing/building-on-atproto/",
       "hn_url": "https://news.ycombinator.com/item?id=49025984",
-      "points": 130,
-      "comments": 59,
+      "points": 153,
+      "comments": 77,
       "created_ts": 1784831030,
       "author": "speckx"
+    },
+    {
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "hn_url": "https://news.ycombinator.com/item?id=49031796",
+      "points": 149,
+      "comments": 31,
+      "created_ts": 1784873828,
+      "author": "ThouYS"
     },
     {
       "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "hn_url": "https://news.ycombinator.com/item?id=49022911",
-      "points": 120,
-      "comments": 18,
+      "points": 146,
+      "comments": 24,
       "created_ts": 1784819497,
       "author": "harrisontin"
     }
   ],
   "ph_today": [
     {
-      "title": "PromptQL",
-      "url": "https://www.producthunt.com/products/promptql",
+      "title": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary",
       "tagline": "",
-      "pub_date": "2026-07-17T20:23:57-07:00"
+      "pub_date": "2026-07-10T10:51:31-07:00"
     },
     {
-      "title": "OpenCode Superapp",
-      "url": "https://www.producthunt.com/products/opencode-superapp",
+      "title": "Liso",
+      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
       "tagline": "",
-      "pub_date": "2026-07-22T22:29:02-07:00"
+      "pub_date": "2026-07-22T22:19:03-07:00"
     },
     {
-      "title": "AskCodi",
-      "url": "https://www.producthunt.com/products/askcodi",
+      "title": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "tagline": "",
-      "pub_date": "2026-07-21T04:35:04-07:00"
+      "pub_date": "2026-07-18T18:23:23-07:00"
     },
     {
-      "title": "RunEvr",
-      "url": "https://www.producthunt.com/products/runevr",
+      "title": "Fluree AI",
+      "url": "https://www.producthunt.com/products/fluree",
       "tagline": "",
-      "pub_date": "2026-06-27T05:38:17-07:00"
+      "pub_date": "2026-07-15T07:49:34-07:00"
     },
     {
-      "title": "AgentLoop",
-      "url": "https://www.producthunt.com/products/agentloop-2",
+      "title": "MinkNote",
+      "url": "https://www.producthunt.com/products/minknote",
       "tagline": "",
-      "pub_date": "2026-07-22T06:17:11-07:00"
+      "pub_date": "2026-07-10T04:11:18-07:00"
     },
     {
-      "title": "Basedash AI Kit",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "The new Firecrawl /search",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-07-22T20:16:23-07:00"
+      "pub_date": "2026-07-22T10:18:35-07:00"
     },
     {
-      "title": "Chimlo",
-      "url": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
+      "title": "Hotspot Meter",
+      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
       "tagline": "",
-      "pub_date": "2026-07-22T23:52:46-07:00"
+      "pub_date": "2026-07-23T00:51:51-07:00"
     },
     {
-      "title": "ReExplain",
-      "url": "https://www.producthunt.com/products/reexplain",
+      "title": "HarnessRouter",
+      "url": "https://www.producthunt.com/products/epsilla",
       "tagline": "",
-      "pub_date": "2026-07-22T09:25:32-07:00"
+      "pub_date": "2026-07-21T23:15:36-07:00"
     },
     {
-      "title": "Swenest",
-      "url": "https://www.producthunt.com/products/swenest",
+      "title": "HealthyNotch",
+      "url": "https://www.producthunt.com/products/healthynotch",
       "tagline": "",
-      "pub_date": "2026-07-22T10:25:47-07:00"
+      "pub_date": "2026-07-16T07:38:59-07:00"
     },
     {
-      "title": "AI Eyes",
-      "url": "https://www.producthunt.com/products/ai-eyes-2",
+      "title": "Freesolo Flash",
+      "url": "https://www.producthunt.com/products/freesolo-flash",
       "tagline": "",
-      "pub_date": "2026-07-23T01:25:47-07:00"
+      "pub_date": "2026-07-22T16:50:08-07:00"
     },
     {
-      "title": "Pulse",
-      "url": "https://www.producthunt.com/products/pulse-47",
+      "title": "Matthew Slack Perth Executive Leadership",
+      "url": "https://www.producthunt.com/products/matthew-slack-perth-executive-leadership",
       "tagline": "",
-      "pub_date": "2026-06-24T05:22:30-07:00"
+      "pub_date": "2026-07-23T04:31:19-07:00"
     },
     {
-      "title": "Moxie Docs: Knowledgebases",
-      "url": "https://www.producthunt.com/products/moxie-docs",
+      "title": "YC has it",
+      "url": "https://www.producthunt.com/products/yc-has-it",
       "tagline": "",
-      "pub_date": "2026-07-19T13:49:02-07:00"
+      "pub_date": "2026-07-22T15:13:47-07:00"
+    },
+    {
+      "title": "Fedica 2.0",
+      "url": "https://www.producthunt.com/products/fedica",
+      "tagline": "",
+      "pub_date": "2026-07-15T06:54:19-07:00"
+    },
+    {
+      "title": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
+      "tagline": "",
+      "pub_date": "2026-07-23T16:34:59-07:00"
+    },
+    {
+      "title": "Mnemcore",
+      "url": "https://www.producthunt.com/products/mnemcore",
+      "tagline": "",
+      "pub_date": "2026-07-22T12:00:19-07:00"
     },
     {
       "title": "HOL Guard",
@@ -302,46 +347,10 @@
       "pub_date": "2026-07-22T19:26:09-07:00"
     },
     {
-      "title": "Rechroma",
-      "url": "https://www.producthunt.com/products/rechroma",
+      "title": "Caw",
+      "url": "https://www.producthunt.com/products/caw",
       "tagline": "",
-      "pub_date": "2026-07-22T14:49:35-07:00"
-    },
-    {
-      "title": "Megaphone",
-      "url": "https://www.producthunt.com/products/megaphone-3",
-      "tagline": "",
-      "pub_date": "2026-07-15T23:46:42-07:00"
-    },
-    {
-      "title": "PodcastorAI",
-      "url": "https://www.producthunt.com/products/podcastorai",
-      "tagline": "",
-      "pub_date": "2026-07-01T20:45:10-07:00"
-    },
-    {
-      "title": "El Niño",
-      "url": "https://www.producthunt.com/products/el-nino",
-      "tagline": "",
-      "pub_date": "2026-07-21T14:59:01-07:00"
-    },
-    {
-      "title": "CrawlRaven",
-      "url": "https://www.producthunt.com/products/crawlraven",
-      "tagline": "",
-      "pub_date": "2026-07-22T22:41:03-07:00"
-    },
-    {
-      "title": "xPitch",
-      "url": "https://www.producthunt.com/products/xpitch-football-match-analytics",
-      "tagline": "",
-      "pub_date": "2026-07-23T01:52:23-07:00"
-    },
-    {
-      "title": "NotifyBridge",
-      "url": "https://www.producthunt.com/products/notifybridge",
-      "tagline": "",
-      "pub_date": "2026-07-22T22:26:31-07:00"
+      "pub_date": "2026-07-21T16:28:58-07:00"
     },
     {
       "title": "Squishy",
@@ -350,10 +359,16 @@
       "pub_date": "2026-06-16T07:02:46-07:00"
     },
     {
-      "title": "Cubby Clipboard",
-      "url": "https://www.producthunt.com/products/cubby-clipboard",
+      "title": "CrawlRaven",
+      "url": "https://www.producthunt.com/products/crawlraven",
       "tagline": "",
-      "pub_date": "2026-07-18T10:07:36-07:00"
+      "pub_date": "2026-07-22T22:41:03-07:00"
+    },
+    {
+      "title": "Blaxel Agent Drive",
+      "url": "https://www.producthunt.com/products/blaxel",
+      "tagline": "",
+      "pub_date": "2026-07-21T15:27:52-07:00"
     },
     {
       "title": "Teable 3.0",
@@ -362,46 +377,58 @@
       "pub_date": "2026-07-14T02:07:59-07:00"
     },
     {
-      "title": "SMASH Voice to Invoice",
-      "url": "https://www.producthunt.com/products/smash-voice-to-invoice",
+      "title": "HonorBox",
+      "url": "https://www.producthunt.com/products/honorbox",
       "tagline": "",
-      "pub_date": "2026-07-22T00:49:35-07:00"
+      "pub_date": "2026-07-21T09:04:06-07:00"
     },
     {
-      "title": "Basement",
-      "url": "https://www.producthunt.com/products/basement-browser",
+      "title": "canitbebuilt",
+      "url": "https://www.producthunt.com/products/canitbebuilt",
       "tagline": "",
-      "pub_date": "2026-07-16T10:43:06-07:00"
+      "pub_date": "2026-07-21T18:52:18-07:00"
     },
     {
-      "title": "Fathom",
-      "url": "https://www.producthunt.com/products/fathom-6",
+      "title": "RunEvr",
+      "url": "https://www.producthunt.com/products/runevr",
       "tagline": "",
-      "pub_date": "2026-07-23T02:49:48-07:00"
+      "pub_date": "2026-06-27T05:38:17-07:00"
     },
     {
-      "title": "PromptScout",
-      "url": "https://www.producthunt.com/products/promptscout",
+      "title": "Drawsy",
+      "url": "https://www.producthunt.com/products/drawsy",
       "tagline": "",
-      "pub_date": "2026-07-23T01:50:11-07:00"
+      "pub_date": "2026-07-22T01:16:42-07:00"
     },
     {
-      "title": "AVE",
-      "url": "https://www.producthunt.com/products/ave-ai-video-editor",
+      "title": "Motionly",
+      "url": "https://www.producthunt.com/products/motionly",
       "tagline": "",
-      "pub_date": "2026-07-13T01:56:00-07:00"
+      "pub_date": "2026-07-21T09:24:14-07:00"
     },
     {
-      "title": "Plow Mac App",
-      "url": "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents",
+      "title": "GTA DataCity",
+      "url": "https://www.producthunt.com/products/gta-datacity-san-francisco",
       "tagline": "",
-      "pub_date": "2026-07-22T18:35:39-07:00"
+      "pub_date": "2026-07-22T12:59:04-07:00"
     },
     {
-      "title": "PenguinHarness",
-      "url": "https://www.producthunt.com/products/penguinharness",
+      "title": "Rechroma",
+      "url": "https://www.producthunt.com/products/rechroma",
       "tagline": "",
-      "pub_date": "2026-07-21T07:41:33-07:00"
+      "pub_date": "2026-07-22T14:49:35-07:00"
+    },
+    {
+      "title": "AuraSpeak",
+      "url": "https://www.producthunt.com/products/auraspeak",
+      "tagline": "",
+      "pub_date": "2026-07-22T05:31:52-07:00"
+    },
+    {
+      "title": "SwiftScale Software",
+      "url": "https://www.producthunt.com/products/swiftscale-software",
+      "tagline": "",
+      "pub_date": "2026-07-22T07:25:31-07:00"
     }
   ]
 }

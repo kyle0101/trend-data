@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:53:51.398Z",
+  "generated_at": "2026-07-25T13:06:44.268Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,19 +7,10 @@
       "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
       "url": "https://github.com/apresta/max-studio-tools",
       "hn_url": "https://news.ycombinator.com/item?id=49041546",
-      "points": 28,
+      "points": 32,
       "comments": 0,
       "created_ts": 1784926990,
       "author": "apresta"
-    },
-    {
-      "title": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
-      "url": "https://github.com/henrygabriels/binaural-studio",
-      "hn_url": "https://news.ycombinator.com/item?id=49033302",
-      "points": 19,
-      "comments": 5,
-      "created_ts": 1784887299,
-      "author": "gabriel666smith"
     },
     {
       "title": "Show HN: Twigg – open-source big-tech-like version control and software forge",
@@ -31,22 +22,22 @@
       "author": "andrebianchessi"
     },
     {
-      "title": "Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC",
-      "url": "https://x402vps.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49034474",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1784895344,
-      "author": "z1z2z3"
-    },
-    {
       "title": "Show HN: How well do you use Claude Code?",
       "url": "https://news.ycombinator.com/item?id=49042653",
       "hn_url": "https://news.ycombinator.com/item?id=49042653",
-      "points": 12,
-      "comments": 7,
+      "points": 15,
+      "comments": 13,
       "created_ts": 1784934038,
       "author": "Paarthmj"
+    },
+    {
+      "title": "Show HN: Open-weight OCR got so cheap I had to share it",
+      "url": "https://www.openparser.dev/cheapest-ocr",
+      "hn_url": "https://news.ycombinator.com/item?id=49041317",
+      "points": 11,
+      "comments": 5,
+      "created_ts": 1784925669,
+      "author": "TimurKramar"
     }
   ],
   "hn_front": [
@@ -54,129 +45,78 @@
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "hn_url": "https://news.ycombinator.com/item?id=49038433",
-      "points": 1506,
-      "comments": 837,
+      "points": 1642,
+      "comments": 1003,
       "created_ts": 1784912261,
       "author": "alvis"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49035303",
-      "points": 586,
-      "comments": 260,
-      "created_ts": 1784899950,
-      "author": "louiereederson"
-    },
-    {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "hn_url": "https://news.ycombinator.com/item?id=49034292",
-      "points": 573,
-      "comments": 188,
-      "created_ts": 1784894081,
-      "author": "hhh"
-    },
-    {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "hn_url": "https://news.ycombinator.com/item?id=49034868",
-      "points": 295,
-      "comments": 54,
-      "created_ts": 1784897639,
-      "author": "m0do1"
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "hn_url": "https://news.ycombinator.com/item?id=49040296",
-      "points": 290,
-      "comments": 52,
-      "created_ts": 1784919953,
-      "author": "KraftyOne"
-    },
-    {
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "hn_url": "https://news.ycombinator.com/item?id=49033240",
-      "points": 283,
-      "comments": 343,
-      "created_ts": 1784886778,
-      "author": "thisislife2"
-    },
-    {
-      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-      "hn_url": "https://news.ycombinator.com/item?id=49033099",
-      "points": 267,
-      "comments": 172,
-      "created_ts": 1784885200,
-      "author": "kristoff_it"
-    },
-    {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "hn_url": "https://news.ycombinator.com/item?id=49040741",
-      "points": 263,
-      "comments": 147,
-      "created_ts": 1784922310,
-      "author": "aarondong"
-    },
-    {
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "hn_url": "https://news.ycombinator.com/item?id=49044074",
-      "points": 197,
-      "comments": 79,
-      "created_ts": 1784948076,
-      "author": "JumpCrisscross"
-    },
-    {
-      "title": "Future euro banknote design proposals",
-      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49033110",
-      "points": 172,
-      "comments": 150,
-      "created_ts": 1784885384,
-      "author": "robin_reala"
-    },
-    {
-      "title": "Don't Take the Black Pill [video]",
-      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "hn_url": "https://news.ycombinator.com/item?id=49038298",
-      "points": 171,
-      "comments": 148,
-      "created_ts": 1784911737,
-      "author": "signa11"
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "hn_url": "https://news.ycombinator.com/item?id=49045159",
+      "points": 409,
+      "comments": 179,
+      "created_ts": 1784962634,
+      "author": "shscs911"
     },
     {
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
       "hn_url": "https://news.ycombinator.com/item?id=49043724",
-      "points": 123,
-      "comments": 21,
+      "points": 338,
+      "comments": 56,
       "created_ts": 1784943852,
       "author": "agnishom"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "hn_url": "https://news.ycombinator.com/item?id=49040296",
+      "points": 334,
+      "comments": 63,
+      "created_ts": 1784919953,
+      "author": "KraftyOne"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "hn_url": "https://news.ycombinator.com/item?id=49040741",
+      "points": 322,
+      "comments": 187,
+      "created_ts": 1784922310,
+      "author": "aarondong"
+    },
+    {
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "hn_url": "https://news.ycombinator.com/item?id=49045040",
+      "points": 115,
+      "comments": 92,
+      "created_ts": 1784961100,
+      "author": "rzk"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "hn_url": "https://news.ycombinator.com/item?id=49042751",
+      "points": 106,
+      "comments": 24,
+      "created_ts": 1784934798,
+      "author": "hhs"
     }
   ],
   "ph_today": [
+    {
+      "title": "ADE",
+      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:28:41-07:00"
+    },
     {
       "title": "Heard",
       "url": "https://www.producthunt.com/products/heard-2",
       "tagline": "",
       "pub_date": "2026-07-24T08:26:43-07:00"
-    },
-    {
-      "title": "Second Brain for Mac and Windows",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "tagline": "",
-      "pub_date": "2026-07-16T19:02:11-07:00"
-    },
-    {
-      "title": "Velane",
-      "url": "https://www.producthunt.com/products/velane",
-      "tagline": "",
-      "pub_date": "2026-07-23T13:34:12-07:00"
     },
     {
       "title": "OpenComputer",
@@ -185,58 +125,16 @@
       "pub_date": "2026-07-24T18:43:15-07:00"
     },
     {
-      "title": "ADE",
-      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:28:41-07:00"
-    },
-    {
-      "title": "FluentDB",
-      "url": "https://www.producthunt.com/products/fluentdb-2",
-      "tagline": "",
-      "pub_date": "2026-07-22T01:36:28-07:00"
-    },
-    {
-      "title": "Islet",
-      "url": "https://www.producthunt.com/products/islet-2",
-      "tagline": "",
-      "pub_date": "2026-07-21T17:40:22-07:00"
-    },
-    {
-      "title": "Speechius",
-      "url": "https://www.producthunt.com/products/speechius",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:33:41-07:00"
-    },
-    {
       "title": "Wisprkey",
       "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
       "tagline": "",
       "pub_date": "2026-07-22T06:59:51-07:00"
     },
     {
-      "title": "Seller by Facebook",
-      "url": "https://www.producthunt.com/products/seller-by-facebook",
+      "title": "Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-07-24T17:53:34-07:00"
-    },
-    {
-      "title": "Speech To Markdown",
-      "url": "https://www.producthunt.com/products/speech-to-markdown",
-      "tagline": "",
-      "pub_date": "2026-07-19T07:30:46-07:00"
-    },
-    {
-      "title": "Capsomnia",
-      "url": "https://www.producthunt.com/products/capsomnia",
-      "tagline": "",
-      "pub_date": "2026-07-18T21:29:11-07:00"
-    },
-    {
-      "title": "Browser FX:",
-      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
-      "tagline": "",
-      "pub_date": "2026-07-19T18:31:54-07:00"
+      "pub_date": "2026-07-24T17:38:36-07:00"
     },
     {
       "title": "ShellMate",
@@ -245,10 +143,70 @@
       "pub_date": "2026-07-20T00:15:54-07:00"
     },
     {
-      "title": "Liso",
-      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
+      "title": "Speech To Markdown",
+      "url": "https://www.producthunt.com/products/speech-to-markdown",
       "tagline": "",
-      "pub_date": "2026-07-22T22:19:03-07:00"
+      "pub_date": "2026-07-19T07:30:46-07:00"
+    },
+    {
+      "title": "Velane",
+      "url": "https://www.producthunt.com/products/velane",
+      "tagline": "",
+      "pub_date": "2026-07-23T13:34:12-07:00"
+    },
+    {
+      "title": "Seller by Facebook",
+      "url": "https://www.producthunt.com/products/seller-by-facebook",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:53:34-07:00"
+    },
+    {
+      "title": "FluentDB",
+      "url": "https://www.producthunt.com/products/fluentdb-2",
+      "tagline": "",
+      "pub_date": "2026-07-22T01:36:28-07:00"
+    },
+    {
+      "title": "Second Brain for Mac and Windows",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "tagline": "",
+      "pub_date": "2026-07-16T19:02:11-07:00"
+    },
+    {
+      "title": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "tagline": "",
+      "pub_date": "2026-07-24T19:41:56-07:00"
+    },
+    {
+      "title": "Capsomnia",
+      "url": "https://www.producthunt.com/products/capsomnia",
+      "tagline": "",
+      "pub_date": "2026-07-18T21:29:11-07:00"
+    },
+    {
+      "title": "Speechius",
+      "url": "https://www.producthunt.com/products/speechius",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:33:41-07:00"
+    },
+    {
+      "title": "Browser FX:",
+      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
+      "tagline": "",
+      "pub_date": "2026-07-19T18:31:54-07:00"
+    },
+    {
+      "title": "Islet",
+      "url": "https://www.producthunt.com/products/islet-2",
+      "tagline": "",
+      "pub_date": "2026-07-21T17:40:22-07:00"
+    },
+    {
+      "title": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary",
+      "tagline": "",
+      "pub_date": "2026-07-10T10:51:31-07:00"
     },
     {
       "title": "Fedica 2.0",
@@ -257,16 +215,16 @@
       "pub_date": "2026-07-15T06:54:19-07:00"
     },
     {
+      "title": "Liso",
+      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
+      "tagline": "",
+      "pub_date": "2026-07-22T22:19:03-07:00"
+    },
+    {
       "title": "Hotspot Meter",
       "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
       "tagline": "",
       "pub_date": "2026-07-23T00:51:51-07:00"
-    },
-    {
-      "title": "The new Firecrawl /search",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-07-22T10:18:35-07:00"
     },
     {
       "title": "Prosed",
@@ -281,28 +239,10 @@
       "pub_date": "2026-07-22T16:50:08-07:00"
     },
     {
-      "title": "Fluree AI",
-      "url": "https://www.producthunt.com/products/fluree",
+      "title": "HealthyNotch",
+      "url": "https://www.producthunt.com/products/healthynotch",
       "tagline": "",
-      "pub_date": "2026-07-15T07:49:34-07:00"
-    },
-    {
-      "title": "MinkNote",
-      "url": "https://www.producthunt.com/products/minknote",
-      "tagline": "",
-      "pub_date": "2026-07-10T04:11:18-07:00"
-    },
-    {
-      "title": "Buzz",
-      "url": "https://www.producthunt.com/products/buzz-3",
-      "tagline": "",
-      "pub_date": "2026-07-23T16:34:59-07:00"
-    },
-    {
-      "title": "Pushary",
-      "url": "https://www.producthunt.com/products/pushary",
-      "tagline": "",
-      "pub_date": "2026-07-10T10:51:31-07:00"
+      "pub_date": "2026-07-16T07:38:59-07:00"
     },
     {
       "title": "HarnessRouter",
@@ -311,34 +251,40 @@
       "pub_date": "2026-07-21T23:15:36-07:00"
     },
     {
-      "title": "HealthyNotch",
-      "url": "https://www.producthunt.com/products/healthynotch",
-      "tagline": "",
-      "pub_date": "2026-07-16T07:38:59-07:00"
-    },
-    {
       "title": "YC has it",
       "url": "https://www.producthunt.com/products/yc-has-it",
       "tagline": "",
       "pub_date": "2026-07-22T15:13:47-07:00"
     },
     {
-      "title": "PodcastorAI",
-      "url": "https://www.producthunt.com/products/podcastorai",
+      "title": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
       "tagline": "",
-      "pub_date": "2026-07-01T20:45:10-07:00"
+      "pub_date": "2026-07-23T16:34:59-07:00"
+    },
+    {
+      "title": "MinkNote",
+      "url": "https://www.producthunt.com/products/minknote",
+      "tagline": "",
+      "pub_date": "2026-07-10T04:11:18-07:00"
+    },
+    {
+      "title": "The new Firecrawl /search",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "tagline": "",
+      "pub_date": "2026-07-22T10:18:35-07:00"
+    },
+    {
+      "title": "Fluree AI",
+      "url": "https://www.producthunt.com/products/fluree",
+      "tagline": "",
+      "pub_date": "2026-07-15T07:49:34-07:00"
     },
     {
       "title": "Chimlo",
       "url": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
       "tagline": "",
       "pub_date": "2026-07-22T23:52:46-07:00"
-    },
-    {
-      "title": "Speakworld",
-      "url": "https://www.producthunt.com/products/speakworld",
-      "tagline": "",
-      "pub_date": "2026-07-22T02:12:12-07:00"
     }
   ]
 }

@@ -1,43 +1,34 @@
 {
-  "generated_at": "2026-07-24T19:15:21.495Z",
+  "generated_at": "2026-07-25T01:58:39.854Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "hn_url": "https://news.ycombinator.com/item?id=49026810",
-      "points": 444,
-      "comments": 213,
-      "created_ts": 1784834761,
-      "author": "adam_rida"
+      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+      "url": "https://github.com/apresta/max-studio-tools",
+      "hn_url": "https://news.ycombinator.com/item?id=49041546",
+      "points": 20,
+      "comments": 0,
+      "created_ts": 1784926990,
+      "author": "apresta"
+    },
+    {
+      "title": "Show HN: Twigg – open-source big-tech-like version control and software forge",
+      "url": "https://github.com/twigg-vc/monorepo",
+      "hn_url": "https://news.ycombinator.com/item?id=49040345",
+      "points": 17,
+      "comments": 12,
+      "created_ts": 1784920222,
+      "author": "andrebianchessi"
     },
     {
       "title": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
       "url": "https://github.com/henrygabriels/binaural-studio",
       "hn_url": "https://news.ycombinator.com/item?id=49033302",
-      "points": 16,
+      "points": 17,
       "comments": 4,
       "created_ts": 1784887299,
       "author": "gabriel666smith"
-    },
-    {
-      "title": "Show HN: A factory simulator game built on Spreadsheets",
-      "url": "https://www.logisheets.com/?craft=factory-simulator",
-      "hn_url": "https://news.ycombinator.com/item?id=49030100",
-      "points": 16,
-      "comments": 2,
-      "created_ts": 1784854774,
-      "author": "JeremyHe"
-    },
-    {
-      "title": "Show HN: Production duplex speech model for revenue calls",
-      "url": "https://metavoice.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=49026899",
-      "points": 14,
-      "comments": 2,
-      "created_ts": 1784835216,
-      "author": "vatsalaggarwal"
     },
     {
       "title": "Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC",
@@ -47,15 +38,6 @@
       "comments": 0,
       "created_ts": 1784895344,
       "author": "z1z2z3"
-    },
-    {
-      "title": "Show HN: Connecting my dumb garage and car's homelink buttons to Home Assistant",
-      "url": "https://dsauerbrun.com/writing/dumb-garage",
-      "hn_url": "https://news.ycombinator.com/item?id=49028306",
-      "points": 11,
-      "comments": 0,
-      "created_ts": 1784842136,
-      "author": "dsauerbrun"
     }
   ],
   "hn_front": [
@@ -63,120 +45,117 @@
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "hn_url": "https://news.ycombinator.com/item?id=49038433",
-      "points": 719,
-      "comments": 401,
+      "points": 1311,
+      "comments": 710,
       "created_ts": 1784912261,
       "author": "alvis"
     },
     {
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "hn_url": "https://news.ycombinator.com/item?id=49032660",
-      "points": 612,
-      "comments": 349,
-      "created_ts": 1784881110,
-      "author": "peykar"
-    },
-    {
-      "title": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "hn_url": "https://news.ycombinator.com/item?id=49031796",
-      "points": 522,
-      "comments": 125,
-      "created_ts": 1784873828,
-      "author": "ThouYS"
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "hn_url": "https://news.ycombinator.com/item?id=49033004",
+      "points": 529,
+      "comments": 416,
+      "created_ts": 1784884097,
+      "author": "pchm"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
       "hn_url": "https://news.ycombinator.com/item?id=49034292",
-      "points": 396,
-      "comments": 148,
+      "points": 512,
+      "comments": 177,
       "created_ts": 1784894081,
       "author": "hhh"
-    },
-    {
-      "title": "Em dashes are amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "hn_url": "https://news.ycombinator.com/item?id=49034747",
-      "points": 287,
-      "comments": 250,
-      "created_ts": 1784896827,
-      "author": "surprisetalk"
-    },
-    {
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "hn_url": "https://news.ycombinator.com/item?id=49033127",
-      "points": 285,
-      "comments": 45,
-      "created_ts": 1784885508,
-      "author": "kensai"
-    },
-    {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "hn_url": "https://news.ycombinator.com/item?id=49038060",
-      "points": 225,
-      "comments": 84,
-      "created_ts": 1784910811,
-      "author": "rwmj"
-    },
-    {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "hn_url": "https://news.ycombinator.com/item?id=49034868",
-      "points": 194,
-      "comments": 29,
-      "created_ts": 1784897639,
-      "author": "m0do1"
     },
     {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "hn_url": "https://news.ycombinator.com/item?id=49035303",
-      "points": 157,
-      "comments": 111,
+      "points": 502,
+      "comments": 231,
       "created_ts": 1784899950,
       "author": "louiereederson"
+    },
+    {
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "hn_url": "https://news.ycombinator.com/item?id=49038060",
+      "points": 423,
+      "comments": 231,
+      "created_ts": 1784910811,
+      "author": "rwmj"
+    },
+    {
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "hn_url": "https://news.ycombinator.com/item?id=49036433",
+      "points": 377,
+      "comments": 277,
+      "created_ts": 1784904119,
+      "author": "rootkea"
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "hn_url": "https://news.ycombinator.com/item?id=49034868",
+      "points": 273,
+      "comments": 51,
+      "created_ts": 1784897639,
+      "author": "m0do1"
+    },
+    {
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "hn_url": "https://news.ycombinator.com/item?id=49033240",
+      "points": 243,
+      "comments": 308,
+      "created_ts": 1784886778,
+      "author": "thisislife2"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "hn_url": "https://news.ycombinator.com/item?id=49040296",
+      "points": 204,
+      "comments": 37,
+      "created_ts": 1784919953,
+      "author": "KraftyOne"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "hn_url": "https://news.ycombinator.com/item?id=49040741",
+      "points": 141,
+      "comments": 84,
+      "created_ts": 1784922310,
+      "author": "aarondong"
+    },
+    {
+      "title": "Future euro banknote design proposals",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49033110",
+      "points": 129,
+      "comments": 121,
+      "created_ts": 1784885384,
+      "author": "robin_reala"
+    },
+    {
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "hn_url": "https://news.ycombinator.com/item?id=49038298",
+      "points": 125,
+      "comments": 87,
+      "created_ts": 1784911737,
+      "author": "signa11"
     }
   ],
   "ph_today": [
     {
-      "title": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "title": "Freesolo Flash",
+      "url": "https://www.producthunt.com/products/freesolo-flash",
       "tagline": "",
-      "pub_date": "2026-07-18T18:23:23-07:00"
-    },
-    {
-      "title": "Fluree AI",
-      "url": "https://www.producthunt.com/products/fluree",
-      "tagline": "",
-      "pub_date": "2026-07-15T07:49:34-07:00"
-    },
-    {
-      "title": "Hotspot Meter",
-      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
-      "tagline": "",
-      "pub_date": "2026-07-23T00:51:51-07:00"
-    },
-    {
-      "title": "MinkNote",
-      "url": "https://www.producthunt.com/products/minknote",
-      "tagline": "",
-      "pub_date": "2026-07-10T04:11:18-07:00"
-    },
-    {
-      "title": "Pushary",
-      "url": "https://www.producthunt.com/products/pushary",
-      "tagline": "",
-      "pub_date": "2026-07-10T10:51:31-07:00"
-    },
-    {
-      "title": "Fedica 2.0",
-      "url": "https://www.producthunt.com/products/fedica",
-      "tagline": "",
-      "pub_date": "2026-07-15T06:54:19-07:00"
+      "pub_date": "2026-07-22T16:50:08-07:00"
     },
     {
       "title": "The new Firecrawl /search",
@@ -185,10 +164,28 @@
       "pub_date": "2026-07-22T10:18:35-07:00"
     },
     {
-      "title": "Freesolo Flash",
-      "url": "https://www.producthunt.com/products/freesolo-flash",
+      "title": "Fedica 2.0",
+      "url": "https://www.producthunt.com/products/fedica",
       "tagline": "",
-      "pub_date": "2026-07-22T16:50:08-07:00"
+      "pub_date": "2026-07-15T06:54:19-07:00"
+    },
+    {
+      "title": "Fluree AI",
+      "url": "https://www.producthunt.com/products/fluree",
+      "tagline": "",
+      "pub_date": "2026-07-15T07:49:34-07:00"
+    },
+    {
+      "title": "YC has it",
+      "url": "https://www.producthunt.com/products/yc-has-it",
+      "tagline": "",
+      "pub_date": "2026-07-22T15:13:47-07:00"
+    },
+    {
+      "title": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "tagline": "",
+      "pub_date": "2026-07-18T18:23:23-07:00"
     },
     {
       "title": "HarnessRouter",
@@ -197,10 +194,16 @@
       "pub_date": "2026-07-21T23:15:36-07:00"
     },
     {
-      "title": "Buzz",
-      "url": "https://www.producthunt.com/products/buzz-3",
+      "title": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary",
       "tagline": "",
-      "pub_date": "2026-07-23T16:34:59-07:00"
+      "pub_date": "2026-07-10T10:51:31-07:00"
+    },
+    {
+      "title": "Hotspot Meter",
+      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
+      "tagline": "",
+      "pub_date": "2026-07-23T00:51:51-07:00"
     },
     {
       "title": "Liso",
@@ -215,64 +218,22 @@
       "pub_date": "2026-07-16T07:38:59-07:00"
     },
     {
-      "title": "YC has it",
-      "url": "https://www.producthunt.com/products/yc-has-it",
+      "title": "MinkNote",
+      "url": "https://www.producthunt.com/products/minknote",
       "tagline": "",
-      "pub_date": "2026-07-22T15:13:47-07:00"
+      "pub_date": "2026-07-10T04:11:18-07:00"
     },
     {
-      "title": "Basedash AI Kit",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
       "tagline": "",
-      "pub_date": "2026-07-22T20:16:23-07:00"
-    },
-    {
-      "title": "Pulse",
-      "url": "https://www.producthunt.com/products/pulse-47",
-      "tagline": "",
-      "pub_date": "2026-06-24T05:22:30-07:00"
-    },
-    {
-      "title": "Fable Flight",
-      "url": "https://www.producthunt.com/products/fable-flight",
-      "tagline": "",
-      "pub_date": "2026-07-22T00:24:12-07:00"
-    },
-    {
-      "title": "Moxie Docs: Knowledgebases",
-      "url": "https://www.producthunt.com/products/moxie-docs",
-      "tagline": "",
-      "pub_date": "2026-07-19T13:49:02-07:00"
-    },
-    {
-      "title": "Caw",
-      "url": "https://www.producthunt.com/products/caw",
-      "tagline": "",
-      "pub_date": "2026-07-21T16:28:58-07:00"
-    },
-    {
-      "title": "Swenest",
-      "url": "https://www.producthunt.com/products/swenest",
-      "tagline": "",
-      "pub_date": "2026-07-22T10:25:47-07:00"
+      "pub_date": "2026-07-23T16:34:59-07:00"
     },
     {
       "title": "Teable 3.0",
       "url": "https://www.producthunt.com/products/teable-4",
       "tagline": "",
       "pub_date": "2026-07-14T02:07:59-07:00"
-    },
-    {
-      "title": "AgentLoop",
-      "url": "https://www.producthunt.com/products/agentloop-2",
-      "tagline": "",
-      "pub_date": "2026-07-22T06:17:11-07:00"
-    },
-    {
-      "title": "Chimlo",
-      "url": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
-      "tagline": "",
-      "pub_date": "2026-07-22T23:52:46-07:00"
     },
     {
       "title": "Drawsy",
@@ -287,10 +248,10 @@
       "pub_date": "2026-07-22T02:12:12-07:00"
     },
     {
-      "title": "valv",
-      "url": "https://www.producthunt.com/products/valv-2",
+      "title": "Mnemcore",
+      "url": "https://www.producthunt.com/products/mnemcore",
       "tagline": "",
-      "pub_date": "2026-07-21T13:22:37-07:00"
+      "pub_date": "2026-07-22T12:00:19-07:00"
     },
     {
       "title": "Findborg",
@@ -305,10 +266,34 @@
       "pub_date": "2026-07-22T12:46:28-07:00"
     },
     {
-      "title": "Ombrelle",
-      "url": "https://www.producthunt.com/products/ombrelle",
+      "title": "Rechroma",
+      "url": "https://www.producthunt.com/products/rechroma",
       "tagline": "",
-      "pub_date": "2026-07-15T13:10:14-07:00"
+      "pub_date": "2026-07-22T14:49:35-07:00"
+    },
+    {
+      "title": "PromptQL",
+      "url": "https://www.producthunt.com/products/promptql",
+      "tagline": "",
+      "pub_date": "2026-07-17T20:23:57-07:00"
+    },
+    {
+      "title": "HonorBox",
+      "url": "https://www.producthunt.com/products/honorbox",
+      "tagline": "",
+      "pub_date": "2026-07-21T09:04:06-07:00"
+    },
+    {
+      "title": "Squishy",
+      "url": "https://www.producthunt.com/products/squishy",
+      "tagline": "",
+      "pub_date": "2026-06-16T07:02:46-07:00"
+    },
+    {
+      "title": "AI Eyes",
+      "url": "https://www.producthunt.com/products/ai-eyes-2",
+      "tagline": "",
+      "pub_date": "2026-07-23T01:25:47-07:00"
     },
     {
       "title": "Nugget",
@@ -317,10 +302,34 @@
       "pub_date": "2026-07-22T04:41:23-07:00"
     },
     {
-      "title": "AskCodi",
-      "url": "https://www.producthunt.com/products/askcodi",
+      "title": "Basement",
+      "url": "https://www.producthunt.com/products/basement-browser",
       "tagline": "",
-      "pub_date": "2026-07-21T04:35:04-07:00"
+      "pub_date": "2026-07-16T10:43:06-07:00"
+    },
+    {
+      "title": "HOL Guard",
+      "url": "https://www.producthunt.com/products/hol-guard",
+      "tagline": "",
+      "pub_date": "2026-07-22T19:26:09-07:00"
+    },
+    {
+      "title": "AuraSpeak",
+      "url": "https://www.producthunt.com/products/auraspeak",
+      "tagline": "",
+      "pub_date": "2026-07-22T05:31:52-07:00"
+    },
+    {
+      "title": "Quaso",
+      "url": "https://www.producthunt.com/products/notte",
+      "tagline": "",
+      "pub_date": "2026-07-06T08:38:29-07:00"
+    },
+    {
+      "title": "SwiftScale Software",
+      "url": "https://www.producthunt.com/products/swiftscale-software",
+      "tagline": "",
+      "pub_date": "2026-07-22T07:25:31-07:00"
     }
   ]
 }

@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-07-25T18:56:09.780Z",
+  "generated_at": "2026-07-26T02:03:23.098Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-      "url": "https://github.com/apresta/max-studio-tools",
-      "hn_url": "https://news.ycombinator.com/item?id=49041546",
-      "points": 32,
-      "comments": 0,
-      "created_ts": 1784926990,
-      "author": "apresta"
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "hn_url": "https://news.ycombinator.com/item?id=49049693",
+      "points": 133,
+      "comments": 43,
+      "created_ts": 1785000874,
+      "author": "jsax"
     },
     {
-      "title": "Show HN: How well do you use Claude Code?",
-      "url": "https://news.ycombinator.com/item?id=49042653",
-      "hn_url": "https://news.ycombinator.com/item?id=49042653",
-      "points": 20,
-      "comments": 16,
-      "created_ts": 1784934038,
-      "author": "Paarthmj"
+      "title": "Show HN: Bribes.fyi – Know before you go. New feature added",
+      "url": "https://bribes.fyi/before-you-go",
+      "hn_url": "https://news.ycombinator.com/item?id=49050566",
+      "points": 68,
+      "comments": 47,
+      "created_ts": 1785006405,
+      "author": "neverenderr"
     },
     {
-      "title": "Show HN: Twigg – open-source big-tech-like version control and software forge",
-      "url": "https://github.com/twigg-vc/monorepo",
-      "hn_url": "https://news.ycombinator.com/item?id=49040345",
-      "points": 17,
-      "comments": 9,
-      "created_ts": 1784920222,
-      "author": "andrebianchessi"
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "hn_url": "https://news.ycombinator.com/item?id=49051130",
+      "points": 33,
+      "comments": 11,
+      "created_ts": 1785010734,
+      "author": "_boffin_"
     },
     {
-      "title": "Show HN: Open-weight OCR got so cheap I had to share it",
-      "url": "https://www.openparser.dev/cheapest-ocr",
-      "hn_url": "https://news.ycombinator.com/item?id=49041317",
-      "points": 13,
+      "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+      "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+      "hn_url": "https://news.ycombinator.com/item?id=49050824",
+      "points": 26,
+      "comments": 12,
+      "created_ts": 1785008467,
+      "author": "wmehanna"
+    },
+    {
+      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+      "url": "https://github.com/alokdhir/spinwin",
+      "hn_url": "https://news.ycombinator.com/item?id=49049638",
+      "points": 18,
       "comments": 5,
-      "created_ts": 1784925669,
-      "author": "TimurKramar"
+      "created_ts": 1785000595,
+      "author": "dbm5"
+    },
+    {
+      "title": "Show HN: Minesweeper Raycasted",
+      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "hn_url": "https://news.ycombinator.com/item?id=49050803",
+      "points": 16,
+      "comments": 10,
+      "created_ts": 1785008352,
+      "author": "franze"
     }
   ],
   "hn_front": [
@@ -45,114 +63,81 @@
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "hn_url": "https://news.ycombinator.com/item?id=49045159",
-      "points": 733,
-      "comments": 328,
+      "points": 878,
+      "comments": 416,
       "created_ts": 1784962634,
       "author": "shscs911"
-    },
-    {
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "hn_url": "https://news.ycombinator.com/item?id=49043724",
-      "points": 533,
-      "comments": 87,
-      "created_ts": 1784943852,
-      "author": "agnishom"
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "hn_url": "https://news.ycombinator.com/item?id=49048034",
-      "points": 145,
-      "comments": 100,
+      "points": 312,
+      "comments": 254,
       "created_ts": 1784990989,
       "author": "tknaup"
     },
     {
-      "title": "MouthPad: A Tongue-Controlled Touchpad",
-      "url": "https://www.augmental.tech/",
-      "hn_url": "https://news.ycombinator.com/item?id=49045446",
-      "points": 126,
-      "comments": 26,
-      "created_ts": 1784965879,
-      "author": "ZaninAndrea"
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49051120",
+      "points": 296,
+      "comments": 130,
+      "created_ts": 1785010683,
+      "author": "mooreds"
     },
     {
       "title": "Bitchat is now on Radicle",
       "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
       "hn_url": "https://news.ycombinator.com/item?id=49047365",
-      "points": 125,
-      "comments": 80,
+      "points": 209,
+      "comments": 127,
       "created_ts": 1784985529,
       "author": "h1watt"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "hn_url": "https://news.ycombinator.com/item?id=49051361",
+      "points": 166,
+      "comments": 108,
+      "created_ts": 1785012155,
+      "author": "mellosouls"
+    },
+    {
+      "title": "Turn And Face The Strange",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "hn_url": "https://news.ycombinator.com/item?id=49051369",
+      "points": 141,
+      "comments": 112,
+      "created_ts": 1785012191,
+      "author": "subarctic"
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "hn_url": "https://news.ycombinator.com/item?id=49049693",
+      "points": 133,
+      "comments": 43,
+      "created_ts": 1785000874,
+      "author": "jsax"
+    },
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "hn_url": "https://news.ycombinator.com/item?id=49051947",
+      "points": 126,
+      "comments": 41,
+      "created_ts": 1785016102,
+      "author": "rbanffy"
     }
   ],
   "ph_today": [
-    {
-      "title": "ShellMate",
-      "url": "https://www.producthunt.com/products/shellmate-2",
-      "tagline": "",
-      "pub_date": "2026-07-20T00:15:54-07:00"
-    },
-    {
-      "title": "Speech To Markdown",
-      "url": "https://www.producthunt.com/products/speech-to-markdown",
-      "tagline": "",
-      "pub_date": "2026-07-19T07:30:46-07:00"
-    },
-    {
-      "title": "Banquish — Make the web your workspace",
-      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
-      "tagline": "",
-      "pub_date": "2026-07-24T19:41:56-07:00"
-    },
-    {
-      "title": "Velane",
-      "url": "https://www.producthunt.com/products/velane",
-      "tagline": "",
-      "pub_date": "2026-07-23T13:34:12-07:00"
-    },
-    {
-      "title": "Wisprkey",
-      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
-      "tagline": "",
-      "pub_date": "2026-07-22T06:59:51-07:00"
-    },
-    {
-      "title": "Heard",
-      "url": "https://www.producthunt.com/products/heard-2",
-      "tagline": "",
-      "pub_date": "2026-07-24T08:26:43-07:00"
-    },
     {
       "title": "Second Brain for Mac and Windows",
       "url": "https://www.producthunt.com/products/second-brain-cloudflare",
       "tagline": "",
       "pub_date": "2026-07-16T19:02:11-07:00"
-    },
-    {
-      "title": "ADE",
-      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:28:41-07:00"
-    },
-    {
-      "title": "Seller by Facebook",
-      "url": "https://www.producthunt.com/products/seller-by-facebook",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:53:34-07:00"
-    },
-    {
-      "title": "Speechius",
-      "url": "https://www.producthunt.com/products/speechius",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:33:41-07:00"
-    },
-    {
-      "title": "Health in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:38:36-07:00"
     },
     {
       "title": "FluentDB",
@@ -161,16 +146,34 @@
       "pub_date": "2026-07-22T01:36:28-07:00"
     },
     {
+      "title": "Heard",
+      "url": "https://www.producthunt.com/products/heard-2",
+      "tagline": "",
+      "pub_date": "2026-07-24T08:26:43-07:00"
+    },
+    {
+      "title": "ADE",
+      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:28:41-07:00"
+    },
+    {
+      "title": "Speechius",
+      "url": "https://www.producthunt.com/products/speechius",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:33:41-07:00"
+    },
+    {
       "title": "OpenComputer",
       "url": "https://www.producthunt.com/products/opencomputer",
       "tagline": "",
       "pub_date": "2026-07-24T18:43:15-07:00"
     },
     {
-      "title": "Capsomnia",
-      "url": "https://www.producthunt.com/products/capsomnia",
+      "title": "ShellMate",
+      "url": "https://www.producthunt.com/products/shellmate-2",
       "tagline": "",
-      "pub_date": "2026-07-18T21:29:11-07:00"
+      "pub_date": "2026-07-20T00:15:54-07:00"
     },
     {
       "title": "Islet",
@@ -179,34 +182,58 @@
       "pub_date": "2026-07-21T17:40:22-07:00"
     },
     {
+      "title": "Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:38:36-07:00"
+    },
+    {
+      "title": "Capsomnia",
+      "url": "https://www.producthunt.com/products/capsomnia",
+      "tagline": "",
+      "pub_date": "2026-07-18T21:29:11-07:00"
+    },
+    {
+      "title": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "tagline": "",
+      "pub_date": "2026-07-24T19:41:56-07:00"
+    },
+    {
+      "title": "Speech To Markdown",
+      "url": "https://www.producthunt.com/products/speech-to-markdown",
+      "tagline": "",
+      "pub_date": "2026-07-19T07:30:46-07:00"
+    },
+    {
+      "title": "Seller by Facebook",
+      "url": "https://www.producthunt.com/products/seller-by-facebook",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:53:34-07:00"
+    },
+    {
+      "title": "Velane",
+      "url": "https://www.producthunt.com/products/velane",
+      "tagline": "",
+      "pub_date": "2026-07-23T13:34:12-07:00"
+    },
+    {
       "title": "Browser FX:",
       "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
       "tagline": "",
       "pub_date": "2026-07-19T18:31:54-07:00"
     },
     {
-      "title": "Prosed",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "title": "Wisprkey",
+      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
       "tagline": "",
-      "pub_date": "2026-07-18T18:23:23-07:00"
+      "pub_date": "2026-07-22T06:59:51-07:00"
     },
     {
       "title": "Hotspot Meter",
       "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
       "tagline": "",
       "pub_date": "2026-07-23T00:51:51-07:00"
-    },
-    {
-      "title": "The new Firecrawl /search",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-07-22T10:18:35-07:00"
-    },
-    {
-      "title": "YC has it",
-      "url": "https://www.producthunt.com/products/yc-has-it",
-      "tagline": "",
-      "pub_date": "2026-07-22T15:13:47-07:00"
     },
     {
       "title": "Liso",
@@ -221,22 +248,10 @@
       "pub_date": "2026-07-10T04:11:18-07:00"
     },
     {
-      "title": "Pushary",
-      "url": "https://www.producthunt.com/products/pushary",
+      "title": "The new Firecrawl /search",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-07-10T10:51:31-07:00"
-    },
-    {
-      "title": "Freesolo Flash",
-      "url": "https://www.producthunt.com/products/freesolo-flash",
-      "tagline": "",
-      "pub_date": "2026-07-22T16:50:08-07:00"
-    },
-    {
-      "title": "Buzz",
-      "url": "https://www.producthunt.com/products/buzz-3",
-      "tagline": "",
-      "pub_date": "2026-07-23T16:34:59-07:00"
+      "pub_date": "2026-07-22T10:18:35-07:00"
     },
     {
       "title": "Fluree AI",
@@ -245,16 +260,22 @@
       "pub_date": "2026-07-15T07:49:34-07:00"
     },
     {
+      "title": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary",
+      "tagline": "",
+      "pub_date": "2026-07-10T10:51:31-07:00"
+    },
+    {
       "title": "Fedica 2.0",
       "url": "https://www.producthunt.com/products/fedica",
       "tagline": "",
       "pub_date": "2026-07-15T06:54:19-07:00"
     },
     {
-      "title": "HarnessRouter",
-      "url": "https://www.producthunt.com/products/epsilla",
+      "title": "Prosed",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "tagline": "",
-      "pub_date": "2026-07-21T23:15:36-07:00"
+      "pub_date": "2026-07-18T18:23:23-07:00"
     },
     {
       "title": "HealthyNotch",
@@ -263,10 +284,34 @@
       "pub_date": "2026-07-16T07:38:59-07:00"
     },
     {
-      "title": "PenguinHarness",
-      "url": "https://www.producthunt.com/products/penguinharness",
+      "title": "HarnessRouter",
+      "url": "https://www.producthunt.com/products/epsilla",
       "tagline": "",
-      "pub_date": "2026-07-21T07:41:33-07:00"
+      "pub_date": "2026-07-21T23:15:36-07:00"
+    },
+    {
+      "title": "Freesolo Flash",
+      "url": "https://www.producthunt.com/products/freesolo-flash",
+      "tagline": "",
+      "pub_date": "2026-07-22T16:50:08-07:00"
+    },
+    {
+      "title": "YC has it",
+      "url": "https://www.producthunt.com/products/yc-has-it",
+      "tagline": "",
+      "pub_date": "2026-07-22T15:13:47-07:00"
+    },
+    {
+      "title": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
+      "tagline": "",
+      "pub_date": "2026-07-23T16:34:59-07:00"
+    },
+    {
+      "title": "Basedash AI Kit",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-07-22T20:16:23-07:00"
     }
   ]
 }

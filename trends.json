@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:12:05.226Z",
+  "generated_at": "2026-07-26T13:03:30.084Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Brolly, a plain-text weather forecast site",
       "url": "https://brolly.sh/forecast/RWFP2qW8",
       "hn_url": "https://news.ycombinator.com/item?id=49049693",
-      "points": 180,
-      "comments": 54,
+      "points": 204,
+      "comments": 72,
       "created_ts": 1785000874,
       "author": "jsax"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: I mapped every US golf course",
       "url": "https://golfcoursebrowser.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49054010",
-      "points": 109,
-      "comments": 57,
+      "points": 157,
+      "comments": 96,
       "created_ts": 1785032546,
       "author": "rickmf"
     },
@@ -26,7 +26,7 @@
       "url": "https://bribes.fyi/before-you-go",
       "hn_url": "https://news.ycombinator.com/item?id=49050566",
       "points": 74,
-      "comments": 47,
+      "comments": 48,
       "created_ts": 1785006405,
       "author": "neverenderr"
     },
@@ -34,8 +34,8 @@
       "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
       "url": "https://news.ycombinator.com/item?id=49051130",
       "hn_url": "https://news.ycombinator.com/item?id=49051130",
-      "points": 41,
-      "comments": 15,
+      "points": 43,
+      "comments": 16,
       "created_ts": 1785010734,
       "author": "_boffin_"
     },
@@ -44,7 +44,7 @@
       "url": "https://github.com/alokdhir/spinwin",
       "hn_url": "https://news.ycombinator.com/item?id=49049638",
       "points": 35,
-      "comments": 8,
+      "comments": 9,
       "created_ts": 1785000595,
       "author": "dbm5"
     },
@@ -58,10 +58,19 @@
       "author": "wmehanna"
     },
     {
+      "title": "Show HN: OpenSlides – Open-source desktop app for animated code presentations",
+      "url": "https://github.com/codewiththiha/OpenSlides",
+      "hn_url": "https://news.ycombinator.com/item?id=49055586",
+      "points": 20,
+      "comments": 0,
+      "created_ts": 1785050517,
+      "author": "codewiththiha"
+    },
+    {
       "title": "Show HN: Minesweeper Raycasted",
       "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
       "hn_url": "https://news.ycombinator.com/item?id=49050803",
-      "points": 16,
+      "points": 18,
       "comments": 12,
       "created_ts": 1785008352,
       "author": "franze"
@@ -70,7 +79,7 @@
       "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
       "url": "https://synaptale.com/graph?ch=100",
       "hn_url": "https://news.ycombinator.com/item?id=49053986",
-      "points": 15,
+      "points": 17,
       "comments": 9,
       "created_ts": 1785032311,
       "author": "ald0r"
@@ -79,8 +88,8 @@
       "title": "Show HN: Rudoc – a 4.5MB Rust document converter",
       "url": "https://github.com/asong56/rudoc",
       "hn_url": "https://news.ycombinator.com/item?id=49052181",
-      "points": 13,
-      "comments": 0,
+      "points": 16,
+      "comments": 2,
       "created_ts": 1785017519,
       "author": "sideras56"
     }
@@ -90,127 +99,127 @@
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "hn_url": "https://news.ycombinator.com/item?id=49051361",
-      "points": 301,
-      "comments": 187,
+      "points": 370,
+      "comments": 262,
       "created_ts": 1785012155,
       "author": "mellosouls"
-    },
-    {
-      "title": "Turn And Face The Strange",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "hn_url": "https://news.ycombinator.com/item?id=49051369",
-      "points": 192,
-      "comments": 127,
-      "created_ts": 1785012191,
-      "author": "subarctic"
-    },
-    {
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
-      "hn_url": "https://news.ycombinator.com/item?id=49054224",
-      "points": 183,
-      "comments": 143,
-      "created_ts": 1785034550,
-      "author": "lisper"
-    },
-    {
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "hn_url": "https://news.ycombinator.com/item?id=49049693",
-      "points": 180,
-      "comments": 54,
-      "created_ts": 1785000874,
-      "author": "jsax"
-    },
-    {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "hn_url": "https://news.ycombinator.com/item?id=49051947",
-      "points": 171,
-      "comments": 72,
-      "created_ts": 1785016102,
-      "author": "rbanffy"
-    },
-    {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=49050512",
-      "points": 166,
-      "comments": 37,
-      "created_ts": 1785005990,
-      "author": "boveyking"
-    },
-    {
-      "title": "LLM Usage in Debian: Three Proposals",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "hn_url": "https://news.ycombinator.com/item?id=49050859",
-      "points": 141,
-      "comments": 120,
-      "created_ts": 1785008679,
-      "author": "zdw"
-    },
-    {
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49052912",
-      "points": 127,
-      "comments": 92,
-      "created_ts": 1785022370,
-      "author": "oliculipolicula"
     },
     {
       "title": "A shell colon does nothing. Use it anyway",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
       "hn_url": "https://news.ycombinator.com/item?id=49047453",
-      "points": 120,
-      "comments": 37,
+      "points": 268,
+      "comments": 109,
       "created_ts": 1784986429,
       "author": "olexsmir"
     },
     {
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "hn_url": "https://news.ycombinator.com/item?id=49050735",
-      "points": 118,
-      "comments": 85,
-      "created_ts": 1785007824,
-      "author": "gritzko"
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49050512",
+      "points": 223,
+      "comments": 53,
+      "created_ts": 1785005990,
+      "author": "boveyking"
+    },
+    {
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "hn_url": "https://news.ycombinator.com/item?id=49054224",
+      "points": 213,
+      "comments": 198,
+      "created_ts": 1785034550,
+      "author": "lisper"
+    },
+    {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49052912",
+      "points": 190,
+      "comments": 141,
+      "created_ts": 1785022370,
+      "author": "oliculipolicula"
     },
     {
       "title": "An ESP32 based plane radar for my desk",
       "url": "https://blog.ktz.me/esp32-plane-radar/",
       "hn_url": "https://news.ycombinator.com/item?id=49054107",
-      "points": 118,
-      "comments": 21,
+      "points": 187,
+      "comments": 37,
       "created_ts": 1785033343,
       "author": "alexktz"
     },
     {
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49054010",
-      "points": 109,
-      "comments": 57,
-      "created_ts": 1785032546,
-      "author": "rickmf"
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "hn_url": "https://news.ycombinator.com/item?id=49050859",
+      "points": 179,
+      "comments": 160,
+      "created_ts": 1785008679,
+      "author": "zdw"
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "hn_url": "https://news.ycombinator.com/item?id=49055169",
+      "points": 158,
+      "comments": 81,
+      "created_ts": 1785045442,
+      "author": "Cider9986"
     },
     {
       "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
       "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
       "hn_url": "https://news.ycombinator.com/item?id=49053375",
-      "points": 109,
-      "comments": 9,
+      "points": 158,
+      "comments": 12,
       "created_ts": 1785026190,
       "author": "nateb2022"
+    },
+    {
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49054010",
+      "points": 157,
+      "comments": 96,
+      "created_ts": 1785032546,
+      "author": "rickmf"
+    },
+    {
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "hn_url": "https://news.ycombinator.com/item?id=49056112",
+      "points": 150,
+      "comments": 88,
+      "created_ts": 1785056499,
+      "author": "vismit2000"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
       "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "hn_url": "https://news.ycombinator.com/item?id=49052564",
-      "points": 103,
-      "comments": 74,
+      "points": 142,
+      "comments": 123,
       "created_ts": 1785019849,
       "author": "alphabetatango"
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "hn_url": "https://news.ycombinator.com/item?id=49052570",
+      "points": 134,
+      "comments": 173,
+      "created_ts": 1785019870,
+      "author": "pod_krad"
+    },
+    {
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "hn_url": "https://news.ycombinator.com/item?id=49052628",
+      "points": 112,
+      "comments": 94,
+      "created_ts": 1785020237,
+      "author": "EA-3167"
     }
   ],
   "ph_today": [
@@ -221,40 +230,10 @@
       "pub_date": "2026-07-25T03:16:14-07:00"
     },
     {
-      "title": "BrainFeed",
-      "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+      "title": "SF Apartment Finder",
+      "url": "https://www.producthunt.com/products/sf-apartment-finder",
       "tagline": "",
-      "pub_date": "2026-07-24T17:01:05-07:00"
-    },
-    {
-      "title": "Forgeon",
-      "url": "https://www.producthunt.com/products/forgeon-2",
-      "tagline": "",
-      "pub_date": "2026-07-03T04:07:49-07:00"
-    },
-    {
-      "title": "&gt;=PlayingFild",
-      "url": "https://www.producthunt.com/products/playingfild",
-      "tagline": "",
-      "pub_date": "2026-07-16T23:01:35-07:00"
-    },
-    {
-      "title": "Openbase",
-      "url": "https://www.producthunt.com/products/openbase-2",
-      "tagline": "",
-      "pub_date": "2026-07-19T09:15:50-07:00"
-    },
-    {
-      "title": "PureBox.ai",
-      "url": "https://www.producthunt.com/products/purebox-ai",
-      "tagline": "",
-      "pub_date": "2026-07-25T12:23:04-07:00"
-    },
-    {
-      "title": "CodexBar Lite",
-      "url": "https://www.producthunt.com/products/codexbar-lite",
-      "tagline": "",
-      "pub_date": "2026-07-24T08:33:48-07:00"
+      "pub_date": "2026-07-25T13:23:55-07:00"
     },
     {
       "title": "TouchGrass",
@@ -263,10 +242,40 @@
       "pub_date": "2026-07-24T13:49:12-07:00"
     },
     {
+      "title": "AppUFO",
+      "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
+      "tagline": "",
+      "pub_date": "2026-07-25T02:00:29-07:00"
+    },
+    {
+      "title": "yatta!",
+      "url": "https://www.producthunt.com/products/yatta",
+      "tagline": "",
+      "pub_date": "2026-07-20T02:10:29-07:00"
+    },
+    {
+      "title": "Forgeon",
+      "url": "https://www.producthunt.com/products/forgeon-2",
+      "tagline": "",
+      "pub_date": "2026-07-03T04:07:49-07:00"
+    },
+    {
+      "title": "CodexBar Lite",
+      "url": "https://www.producthunt.com/products/codexbar-lite",
+      "tagline": "",
+      "pub_date": "2026-07-24T08:33:48-07:00"
+    },
+    {
       "title": "KeyOpera 2.0",
       "url": "https://www.producthunt.com/products/keyopera",
       "tagline": "",
       "pub_date": "2026-07-25T11:49:56-07:00"
+    },
+    {
+      "title": "BrainFeed",
+      "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:01:05-07:00"
     },
     {
       "title": "Athena by Shoplazza",
@@ -275,16 +284,34 @@
       "pub_date": "2026-07-16T23:09:29-07:00"
     },
     {
-      "title": "SF Apartment Finder",
-      "url": "https://www.producthunt.com/products/sf-apartment-finder",
+      "title": "&gt;=PlayingFild",
+      "url": "https://www.producthunt.com/products/playingfild",
       "tagline": "",
-      "pub_date": "2026-07-25T13:23:55-07:00"
+      "pub_date": "2026-07-16T23:01:35-07:00"
+    },
+    {
+      "title": "PureBox.ai",
+      "url": "https://www.producthunt.com/products/purebox-ai",
+      "tagline": "",
+      "pub_date": "2026-07-25T12:23:04-07:00"
     },
     {
       "title": "Pulse Island",
       "url": "https://www.producthunt.com/products/pulse-island",
       "tagline": "",
       "pub_date": "2026-07-25T11:13:51-07:00"
+    },
+    {
+      "title": "Aymo AI",
+      "url": "https://www.producthunt.com/products/aymo-ai",
+      "tagline": "",
+      "pub_date": "2026-07-21T00:01:08-07:00"
+    },
+    {
+      "title": "Openbase",
+      "url": "https://www.producthunt.com/products/openbase-2",
+      "tagline": "",
+      "pub_date": "2026-07-19T09:15:50-07:00"
     },
     {
       "title": "Browser FX:",
@@ -299,22 +326,10 @@
       "pub_date": "2026-07-22T06:59:51-07:00"
     },
     {
-      "title": "Seller by Facebook",
-      "url": "https://www.producthunt.com/products/seller-by-facebook",
+      "title": "ADE",
+      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
       "tagline": "",
-      "pub_date": "2026-07-24T17:53:34-07:00"
-    },
-    {
-      "title": "OpenComputer",
-      "url": "https://www.producthunt.com/products/opencomputer",
-      "tagline": "",
-      "pub_date": "2026-07-24T18:43:15-07:00"
-    },
-    {
-      "title": "Banquish — Make the web your workspace",
-      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
-      "tagline": "",
-      "pub_date": "2026-07-24T19:41:56-07:00"
+      "pub_date": "2026-07-24T01:28:41-07:00"
     },
     {
       "title": "Speech To Markdown",
@@ -323,58 +338,22 @@
       "pub_date": "2026-07-19T07:30:46-07:00"
     },
     {
-      "title": "Speechius",
-      "url": "https://www.producthunt.com/products/speechius",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:33:41-07:00"
-    },
-    {
       "title": "Velane",
       "url": "https://www.producthunt.com/products/velane",
       "tagline": "",
       "pub_date": "2026-07-23T13:34:12-07:00"
     },
     {
-      "title": "Islet",
-      "url": "https://www.producthunt.com/products/islet-2",
+      "title": "Seller by Facebook",
+      "url": "https://www.producthunt.com/products/seller-by-facebook",
       "tagline": "",
-      "pub_date": "2026-07-21T17:40:22-07:00"
+      "pub_date": "2026-07-24T17:53:34-07:00"
     },
     {
-      "title": "FluentDB",
-      "url": "https://www.producthunt.com/products/fluentdb-2",
+      "title": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
       "tagline": "",
-      "pub_date": "2026-07-22T01:36:28-07:00"
-    },
-    {
-      "title": "Health in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:38:36-07:00"
-    },
-    {
-      "title": "Heard",
-      "url": "https://www.producthunt.com/products/heard-2",
-      "tagline": "",
-      "pub_date": "2026-07-24T08:26:43-07:00"
-    },
-    {
-      "title": "ADE",
-      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:28:41-07:00"
-    },
-    {
-      "title": "Capsomnia",
-      "url": "https://www.producthunt.com/products/capsomnia",
-      "tagline": "",
-      "pub_date": "2026-07-18T21:29:11-07:00"
-    },
-    {
-      "title": "Second Brain for Mac and Windows",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "tagline": "",
-      "pub_date": "2026-07-16T19:02:11-07:00"
+      "pub_date": "2026-07-24T19:41:56-07:00"
     },
     {
       "title": "ShellMate",
@@ -383,16 +362,46 @@
       "pub_date": "2026-07-20T00:15:54-07:00"
     },
     {
-      "title": "MinkNote",
-      "url": "https://www.producthunt.com/products/minknote",
+      "title": "Islet",
+      "url": "https://www.producthunt.com/products/islet-2",
       "tagline": "",
-      "pub_date": "2026-07-10T04:11:18-07:00"
+      "pub_date": "2026-07-21T17:40:22-07:00"
     },
     {
-      "title": "Liso",
-      "url": "https://www.producthunt.com/products/liso-listen-to-highlights",
+      "title": "Speechius",
+      "url": "https://www.producthunt.com/products/speechius",
       "tagline": "",
-      "pub_date": "2026-07-22T22:19:03-07:00"
+      "pub_date": "2026-07-24T01:33:41-07:00"
+    },
+    {
+      "title": "Heard",
+      "url": "https://www.producthunt.com/products/heard-2",
+      "tagline": "",
+      "pub_date": "2026-07-24T08:26:43-07:00"
+    },
+    {
+      "title": "Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:38:36-07:00"
+    },
+    {
+      "title": "FluentDB",
+      "url": "https://www.producthunt.com/products/fluentdb-2",
+      "tagline": "",
+      "pub_date": "2026-07-22T01:36:28-07:00"
+    },
+    {
+      "title": "Second Brain for Mac and Windows",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "tagline": "",
+      "pub_date": "2026-07-16T19:02:11-07:00"
+    },
+    {
+      "title": "Capsomnia",
+      "url": "https://www.producthunt.com/products/capsomnia",
+      "tagline": "",
+      "pub_date": "2026-07-18T21:29:11-07:00"
     }
   ]
 }

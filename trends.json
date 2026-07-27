@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:00:07.153Z",
+  "generated_at": "2026-07-27T02:10:50.379Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,55 +7,37 @@
       "title": "Show HN: I mapped every US golf course",
       "url": "https://golfcoursebrowser.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49054010",
-      "points": 195,
-      "comments": 120,
+      "points": 200,
+      "comments": 148,
       "created_ts": 1785032546,
       "author": "rickmf"
-    },
-    {
-      "title": "Show HN: Bribes.fyi – Know before you go. New feature added",
-      "url": "https://bribes.fyi/before-you-go",
-      "hn_url": "https://news.ycombinator.com/item?id=49050566",
-      "points": 74,
-      "comments": 48,
-      "created_ts": 1785006405,
-      "author": "neverenderr"
     },
     {
       "title": "Show HN: Reverse Minesweeper",
       "url": "https://sunflowersgame.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49057666",
-      "points": 64,
-      "comments": 22,
+      "points": 151,
+      "comments": 51,
       "created_ts": 1785070263,
       "author": "pompomsheep"
-    },
-    {
-      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-      "url": "https://news.ycombinator.com/item?id=49051130",
-      "hn_url": "https://news.ycombinator.com/item?id=49051130",
-      "points": 49,
-      "comments": 20,
-      "created_ts": 1785010734,
-      "author": "_boffin_"
     },
     {
       "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
       "url": "https://github.com/gmrandazzo/CheapSecurity",
       "hn_url": "https://news.ycombinator.com/item?id=49059398",
-      "points": 38,
-      "comments": 9,
+      "points": 107,
+      "comments": 22,
       "created_ts": 1785081235,
       "author": "zeldone"
     },
     {
-      "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-      "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
-      "hn_url": "https://news.ycombinator.com/item?id=49050824",
-      "points": 27,
-      "comments": 14,
-      "created_ts": 1785008467,
-      "author": "wmehanna"
+      "title": "Show HN: Distill and serve models with frontier quality for half the cost",
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
+      "hn_url": "https://news.ycombinator.com/item?id=49063454",
+      "points": 41,
+      "comments": 21,
+      "created_ts": 1785108915,
+      "author": "SilenN"
     },
     {
       "title": "Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload",
@@ -80,54 +62,72 @@
       "url": "https://synaptale.com/graph?ch=100",
       "hn_url": "https://news.ycombinator.com/item?id=49053986",
       "points": 20,
-      "comments": 9,
+      "comments": 11,
       "created_ts": 1785032311,
       "author": "ald0r"
     },
     {
-      "title": "Show HN: Minesweeper Raycasted",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "hn_url": "https://news.ycombinator.com/item?id=49050803",
+      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://github.com/hertz-ai/HARTOS",
+      "hn_url": "https://news.ycombinator.com/item?id=49061015",
       "points": 18,
-      "comments": 12,
-      "created_ts": 1785008352,
-      "author": "franze"
+      "comments": 20,
+      "created_ts": 1785091208,
+      "author": "hevolveai"
     },
     {
-      "title": "Show HN: Rudoc – a 4.5MB Rust document converter",
-      "url": "https://github.com/asong56/rudoc",
-      "hn_url": "https://news.ycombinator.com/item?id=49052181",
-      "points": 16,
-      "comments": 2,
-      "created_ts": 1785017519,
-      "author": "sideras56"
+      "title": "Show HN: Infinite Jigsaw Game",
+      "url": "https://infinitejigsaw.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49061879",
+      "points": 18,
+      "comments": 18,
+      "created_ts": 1785096087,
+      "author": "impostervt"
     },
     {
       "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
       "url": "https://github.com/MicSm/boffin",
       "hn_url": "https://news.ycombinator.com/item?id=49060279",
-      "points": 15,
-      "comments": 4,
+      "points": 18,
+      "comments": 6,
       "created_ts": 1785086883,
       "author": "mic_sm"
+    },
+    {
+      "title": "Show HN: The Occult Gatsby",
+      "url": "https://occultgatsby.work",
+      "hn_url": "https://news.ycombinator.com/item?id=49060998",
+      "points": 18,
+      "comments": 4,
+      "created_ts": 1785091091,
+      "author": "morganw"
     },
     {
       "title": "Show HN: Managing on-premise servers without Kubernetes",
       "url": "https://github.com/ricardoborges/Nautilus",
       "hn_url": "https://news.ycombinator.com/item?id=49057985",
-      "points": 14,
-      "comments": 7,
+      "points": 16,
+      "comments": 11,
       "created_ts": 1785072317,
       "author": "r2ob"
     },
     {
-      "title": "Show HN: Hubo – two agents that implement and review code until they agree",
-      "url": "https://github.com/h0ngcha0/hubo",
-      "hn_url": "https://news.ycombinator.com/item?id=49052552",
+      "title": "Show HN: A browser-based video editor that renders videos directly with FFmpeg",
+      "url": "https://github.com/thiagoalbrecht/weave",
+      "hn_url": "https://news.ycombinator.com/item?id=49058396",
+      "points": 15,
+      "comments": 3,
+      "created_ts": 1785074876,
+      "author": "thiagoas"
+    },
+    {
+      "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+      "url": "https://github.com/openwong2kim/wmux",
+      "hn_url": "https://news.ycombinator.com/item?id=49056854",
       "points": 11,
-      "comments": 1,
-      "created_ts": 1785019783,
-      "author": "hongchao"
+      "comments": 0,
+      "created_ts": 1785063976,
+      "author": "wong2kim"
     },
     {
       "title": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
@@ -144,64 +144,109 @@
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
       "hn_url": "https://news.ycombinator.com/item?id=49057175",
-      "points": 444,
-      "comments": 240,
+      "points": 835,
+      "comments": 407,
       "created_ts": 1785066797,
       "author": "rapnie"
-    },
-    {
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "hn_url": "https://news.ycombinator.com/item?id=49056112",
-      "points": 313,
-      "comments": 190,
-      "created_ts": 1785056499,
-      "author": "vismit2000"
-    },
-    {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "hn_url": "https://news.ycombinator.com/item?id=49055169",
-      "points": 309,
-      "comments": 194,
-      "created_ts": 1785045442,
-      "author": "Cider9986"
-    },
-    {
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "hn_url": "https://news.ycombinator.com/item?id=49057574",
-      "points": 250,
-      "comments": 198,
-      "created_ts": 1785069801,
-      "author": "1vuio0pswjnm7"
-    },
-    {
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "hn_url": "https://news.ycombinator.com/item?id=49058669",
-      "points": 211,
-      "comments": 146,
-      "created_ts": 1785076827,
-      "author": "agotterer"
     },
     {
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
       "hn_url": "https://news.ycombinator.com/item?id=49057241",
-      "points": 178,
-      "comments": 56,
+      "points": 363,
+      "comments": 113,
       "created_ts": 1785067211,
       "author": "rcy"
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "hn_url": "https://news.ycombinator.com/item?id=49060856",
+      "points": 227,
+      "comments": 55,
+      "created_ts": 1785090186,
+      "author": "tosh"
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "hn_url": "https://news.ycombinator.com/item?id=49059367",
+      "points": 197,
+      "comments": 74,
+      "created_ts": 1785081072,
+      "author": "ankitg12"
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "hn_url": "https://news.ycombinator.com/item?id=49060495",
+      "points": 189,
+      "comments": 96,
+      "created_ts": 1785088184,
+      "author": "saaaaaam"
     },
     {
       "title": "Go Analysis Framework: modular static analysis by go team",
       "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
       "hn_url": "https://news.ycombinator.com/item?id=49057398",
-      "points": 139,
-      "comments": 19,
+      "points": 180,
+      "comments": 39,
       "created_ts": 1785068486,
       "author": "AbuAssar"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49063022",
+      "points": 173,
+      "comments": 106,
+      "created_ts": 1785104501,
+      "author": "eecc"
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "hn_url": "https://news.ycombinator.com/item?id=49058993",
+      "points": 155,
+      "comments": 93,
+      "created_ts": 1785079026,
+      "author": "mlenhard"
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49057666",
+      "points": 151,
+      "comments": 51,
+      "created_ts": 1785070263,
+      "author": "pompomsheep"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "hn_url": "https://news.ycombinator.com/item?id=49057877",
+      "points": 145,
+      "comments": 45,
+      "created_ts": 1785071583,
+      "author": "mooreds"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49060724",
+      "points": 112,
+      "comments": 36,
+      "created_ts": 1785089476,
+      "author": "tosh"
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "hn_url": "https://news.ycombinator.com/item?id=49059398",
+      "points": 107,
+      "comments": 22,
+      "created_ts": 1785081235,
+      "author": "zeldone"
     }
   ],
   "ph_today": [
@@ -212,10 +257,10 @@
       "pub_date": "2026-07-24T17:01:05-07:00"
     },
     {
-      "title": "PureBox.ai",
-      "url": "https://www.producthunt.com/products/purebox-ai",
+      "title": "Athena by Shoplazza",
+      "url": "https://www.producthunt.com/products/athena-by-shoplazza",
       "tagline": "",
-      "pub_date": "2026-07-25T12:23:04-07:00"
+      "pub_date": "2026-07-16T23:09:29-07:00"
     },
     {
       "title": "Openbase",
@@ -224,34 +269,16 @@
       "pub_date": "2026-07-19T09:15:50-07:00"
     },
     {
-      "title": "&gt;=PlayingFild",
-      "url": "https://www.producthunt.com/products/playingfild",
-      "tagline": "",
-      "pub_date": "2026-07-16T23:01:35-07:00"
-    },
-    {
       "title": "TouchGrass",
       "url": "https://www.producthunt.com/products/touchgrass-2",
       "tagline": "",
       "pub_date": "2026-07-24T13:49:12-07:00"
     },
     {
-      "title": "Forgeon",
-      "url": "https://www.producthunt.com/products/forgeon-2",
+      "title": "PureBox.ai",
+      "url": "https://www.producthunt.com/products/purebox-ai",
       "tagline": "",
-      "pub_date": "2026-07-03T04:07:49-07:00"
-    },
-    {
-      "title": "Athena by Shoplazza",
-      "url": "https://www.producthunt.com/products/athena-by-shoplazza",
-      "tagline": "",
-      "pub_date": "2026-07-16T23:09:29-07:00"
-    },
-    {
-      "title": "yatta!",
-      "url": "https://www.producthunt.com/products/yatta",
-      "tagline": "",
-      "pub_date": "2026-07-20T02:10:29-07:00"
+      "pub_date": "2026-07-25T12:23:04-07:00"
     },
     {
       "title": "CodexBar Lite",
@@ -260,16 +287,16 @@
       "pub_date": "2026-07-24T08:33:48-07:00"
     },
     {
-      "title": "Aymo AI",
-      "url": "https://www.producthunt.com/products/aymo-ai",
+      "title": "AppUFO",
+      "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
       "tagline": "",
-      "pub_date": "2026-07-21T00:01:08-07:00"
+      "pub_date": "2026-07-25T02:00:29-07:00"
     },
     {
-      "title": "Pulse Island",
-      "url": "https://www.producthunt.com/products/pulse-island",
+      "title": "Forgeon",
+      "url": "https://www.producthunt.com/products/forgeon-2",
       "tagline": "",
-      "pub_date": "2026-07-25T11:13:51-07:00"
+      "pub_date": "2026-07-03T04:07:49-07:00"
     },
     {
       "title": "KeyOpera 2.0",
@@ -278,16 +305,16 @@
       "pub_date": "2026-07-25T11:49:56-07:00"
     },
     {
+      "title": "Aymo AI",
+      "url": "https://www.producthunt.com/products/aymo-ai",
+      "tagline": "",
+      "pub_date": "2026-07-21T00:01:08-07:00"
+    },
+    {
       "title": "Yoggi",
       "url": "https://www.producthunt.com/products/yoggi",
       "tagline": "",
       "pub_date": "2026-07-25T03:16:14-07:00"
-    },
-    {
-      "title": "AppUFO",
-      "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
-      "tagline": "",
-      "pub_date": "2026-07-25T02:00:29-07:00"
     },
     {
       "title": "SF Apartment Finder",
@@ -296,40 +323,22 @@
       "pub_date": "2026-07-25T13:23:55-07:00"
     },
     {
-      "title": "Wisprkey",
-      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
+      "title": "&gt;=PlayingFild",
+      "url": "https://www.producthunt.com/products/playingfild",
       "tagline": "",
-      "pub_date": "2026-07-22T06:59:51-07:00"
+      "pub_date": "2026-07-16T23:01:35-07:00"
     },
     {
-      "title": "Banquish — Make the web your workspace",
-      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "title": "Pulse Island",
+      "url": "https://www.producthunt.com/products/pulse-island",
       "tagline": "",
-      "pub_date": "2026-07-24T19:41:56-07:00"
+      "pub_date": "2026-07-25T11:13:51-07:00"
     },
     {
-      "title": "OpenComputer",
-      "url": "https://www.producthunt.com/products/opencomputer",
+      "title": "yatta!",
+      "url": "https://www.producthunt.com/products/yatta",
       "tagline": "",
-      "pub_date": "2026-07-24T18:43:15-07:00"
-    },
-    {
-      "title": "Second Brain for Mac and Windows",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "tagline": "",
-      "pub_date": "2026-07-16T19:02:11-07:00"
-    },
-    {
-      "title": "Islet",
-      "url": "https://www.producthunt.com/products/islet-2",
-      "tagline": "",
-      "pub_date": "2026-07-21T17:40:22-07:00"
-    },
-    {
-      "title": "FluentDB",
-      "url": "https://www.producthunt.com/products/fluentdb-2",
-      "tagline": "",
-      "pub_date": "2026-07-22T01:36:28-07:00"
+      "pub_date": "2026-07-20T02:10:29-07:00"
     },
     {
       "title": "Heard",
@@ -338,40 +347,22 @@
       "pub_date": "2026-07-24T08:26:43-07:00"
     },
     {
+      "title": "Wisprkey",
+      "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
+      "tagline": "",
+      "pub_date": "2026-07-22T06:59:51-07:00"
+    },
+    {
+      "title": "ADE",
+      "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:28:41-07:00"
+    },
+    {
       "title": "Capsomnia",
       "url": "https://www.producthunt.com/products/capsomnia",
       "tagline": "",
       "pub_date": "2026-07-18T21:29:11-07:00"
-    },
-    {
-      "title": "Health in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:38:36-07:00"
-    },
-    {
-      "title": "Speech To Markdown",
-      "url": "https://www.producthunt.com/products/speech-to-markdown",
-      "tagline": "",
-      "pub_date": "2026-07-19T07:30:46-07:00"
-    },
-    {
-      "title": "Seller by Facebook",
-      "url": "https://www.producthunt.com/products/seller-by-facebook",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:53:34-07:00"
-    },
-    {
-      "title": "Browser FX:",
-      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
-      "tagline": "",
-      "pub_date": "2026-07-19T18:31:54-07:00"
-    },
-    {
-      "title": "Velane",
-      "url": "https://www.producthunt.com/products/velane",
-      "tagline": "",
-      "pub_date": "2026-07-23T13:34:12-07:00"
     },
     {
       "title": "Speechius",
@@ -380,10 +371,64 @@
       "pub_date": "2026-07-24T01:33:41-07:00"
     },
     {
+      "title": "FluentDB",
+      "url": "https://www.producthunt.com/products/fluentdb-2",
+      "tagline": "",
+      "pub_date": "2026-07-22T01:36:28-07:00"
+    },
+    {
+      "title": "Islet",
+      "url": "https://www.producthunt.com/products/islet-2",
+      "tagline": "",
+      "pub_date": "2026-07-21T17:40:22-07:00"
+    },
+    {
+      "title": "Second Brain for Mac and Windows",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "tagline": "",
+      "pub_date": "2026-07-16T19:02:11-07:00"
+    },
+    {
       "title": "ShellMate",
       "url": "https://www.producthunt.com/products/shellmate-2",
       "tagline": "",
       "pub_date": "2026-07-20T00:15:54-07:00"
+    },
+    {
+      "title": "Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-07-24T17:38:36-07:00"
+    },
+    {
+      "title": "Banquish — Make the web your workspace",
+      "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+      "tagline": "",
+      "pub_date": "2026-07-24T19:41:56-07:00"
+    },
+    {
+      "title": "Speech To Markdown",
+      "url": "https://www.producthunt.com/products/speech-to-markdown",
+      "tagline": "",
+      "pub_date": "2026-07-19T07:30:46-07:00"
+    },
+    {
+      "title": "Velane",
+      "url": "https://www.producthunt.com/products/velane",
+      "tagline": "",
+      "pub_date": "2026-07-23T13:34:12-07:00"
+    },
+    {
+      "title": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer",
+      "tagline": "",
+      "pub_date": "2026-07-24T18:43:15-07:00"
+    },
+    {
+      "title": "Browser FX:",
+      "url": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
+      "tagline": "",
+      "pub_date": "2026-07-19T18:31:54-07:00"
     }
   ]
 }

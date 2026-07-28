@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:20:47.399Z",
+  "generated_at": "2026-07-28T13:46:14.765Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
       "url": "https://usefeyn.com/blog/feynobg/",
       "hn_url": "https://news.ycombinator.com/item?id=49072462",
-      "points": 103,
-      "comments": 25,
+      "points": 114,
+      "comments": 28,
       "created_ts": 1785171548,
       "author": "snyy"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
       "url": "https://github.com/letsseal/letsseal",
       "hn_url": "https://news.ycombinator.com/item?id=49071365",
-      "points": 85,
-      "comments": 30,
+      "points": 88,
+      "comments": 31,
       "created_ts": 1785167533,
       "author": "nsokin"
     },
@@ -25,10 +25,28 @@
       "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
       "url": "https://github.com/FrigadeHQ/yap",
       "hn_url": "https://news.ycombinator.com/item?id=49073834",
-      "points": 63,
-      "comments": 18,
+      "points": 87,
+      "comments": 29,
       "created_ts": 1785177362,
       "author": "pancomplex"
+    },
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "hn_url": "https://news.ycombinator.com/item?id=49083239",
+      "points": 25,
+      "comments": 8,
+      "created_ts": 1785244034,
+      "author": "permute"
+    },
+    {
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "hn_url": "https://news.ycombinator.com/item?id=49083336",
+      "points": 22,
+      "comments": 3,
+      "created_ts": 1785244415,
+      "author": "ruhani_grover"
     },
     {
       "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
@@ -49,22 +67,31 @@
       "author": "astrid__"
     },
     {
-      "title": "Show HN: Dozenal – A Game of Spatial Arithmetic",
-      "url": "https://dozenal.game",
-      "hn_url": "https://news.ycombinator.com/item?id=49067632",
-      "points": 15,
-      "comments": 8,
-      "created_ts": 1785149057,
-      "author": "sarreph"
-    },
-    {
       "title": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
       "url": "https://trylle.com/home",
       "hn_url": "https://news.ycombinator.com/item?id=49076978",
-      "points": 12,
-      "comments": 7,
+      "points": 16,
+      "comments": 10,
       "created_ts": 1785194775,
       "author": "Xlab"
+    },
+    {
+      "title": "Show HN: tale.fyi, we deserve a home for fiction",
+      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+      "hn_url": "https://news.ycombinator.com/item?id=49083389",
+      "points": 16,
+      "comments": 2,
+      "created_ts": 1785244612,
+      "author": "samuelcole"
+    },
+    {
+      "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+      "url": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+      "hn_url": "https://news.ycombinator.com/item?id=49083244",
+      "points": 14,
+      "comments": 13,
+      "created_ts": 1785244060,
+      "author": "BrianneLee011"
     }
   ],
   "hn_front": [
@@ -72,120 +99,129 @@
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "hn_url": "https://news.ycombinator.com/item?id=49076057",
-      "points": 845,
-      "comments": 1224,
+      "points": 1027,
+      "comments": 1509,
       "created_ts": 1785189829,
       "author": "surprisetalk"
     },
     {
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "hn_url": "https://news.ycombinator.com/item?id=49076923",
-      "points": 288,
-      "comments": 245,
-      "created_ts": 1785194497,
-      "author": "softwaredoug"
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "hn_url": "https://news.ycombinator.com/item?id=49080664",
+      "points": 451,
+      "comments": 81,
+      "created_ts": 1785224664,
+      "author": "krembo"
     },
     {
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
       "hn_url": "https://news.ycombinator.com/item?id=49076391",
-      "points": 264,
-      "comments": 59,
+      "points": 341,
+      "comments": 86,
       "created_ts": 1785191872,
       "author": "dhorthy"
-    },
-    {
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "hn_url": "https://news.ycombinator.com/item?id=49078583",
-      "points": 258,
-      "comments": 82,
-      "created_ts": 1785206234,
-      "author": "msaltz"
-    },
-    {
-      "title": "Paged Out #9 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49070138",
-      "points": 225,
-      "comments": 25,
-      "created_ts": 1785162154,
-      "author": "laurensr"
     },
     {
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
       "hn_url": "https://news.ycombinator.com/item?id=49078454",
-      "points": 151,
-      "comments": 43,
+      "points": 250,
+      "comments": 77,
       "created_ts": 1785205133,
       "author": "ilreb"
     },
     {
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "hn_url": "https://news.ycombinator.com/item?id=49073942",
-      "points": 141,
-      "comments": 31,
-      "created_ts": 1785177811,
-      "author": "jcbhmr"
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "hn_url": "https://news.ycombinator.com/item?id=49077999",
+      "points": 155,
+      "comments": 78,
+      "created_ts": 1785201206,
+      "author": "Austin_Conlon"
+    },
+    {
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "hn_url": "https://news.ycombinator.com/item?id=49081555",
+      "points": 126,
+      "comments": 73,
+      "created_ts": 1785231943,
+      "author": "andor"
+    },
+    {
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=49076505",
+      "points": 114,
+      "comments": 66,
+      "created_ts": 1785192388,
+      "author": "fionaattelnyx"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49076840",
+      "points": 109,
+      "comments": 47,
+      "created_ts": 1785194059,
+      "author": "teleforce"
     }
   ],
   "ph_today": [
     {
-      "title": "Cardzen",
-      "url": "https://www.producthunt.com/products/cardzen",
+      "title": "Prefactor",
+      "url": "https://www.producthunt.com/products/prefactor",
       "tagline": "",
-      "pub_date": "2026-07-23T09:46:46-07:00"
-    },
-    {
-      "title": "Growth Opt Playbook",
-      "url": "https://www.producthunt.com/products/growth-opt-playbook",
-      "tagline": "",
-      "pub_date": "2026-07-27T06:18:23-07:00"
-    },
-    {
-      "title": "RecipeBook by Shofo",
-      "url": "https://www.producthunt.com/products/recipebook-by-shofo",
-      "tagline": "",
-      "pub_date": "2026-07-24T22:14:43-07:00"
-    },
-    {
-      "title": "Pinery Prose",
-      "url": "https://www.producthunt.com/products/pinery",
-      "tagline": "",
-      "pub_date": "2026-07-27T09:04:39-07:00"
-    },
-    {
-      "title": "EasyCircuit",
-      "url": "https://www.producthunt.com/products/easycircuit",
-      "tagline": "",
-      "pub_date": "2026-07-27T16:44:55-07:00"
-    },
-    {
-      "title": "G.I.A.ac",
-      "url": "https://www.producthunt.com/products/g-i-a-ac",
-      "tagline": "",
-      "pub_date": "2026-07-27T19:03:30-07:00"
-    },
-    {
-      "title": "Phantom",
-      "url": "https://www.producthunt.com/products/phantom-6",
-      "tagline": "",
-      "pub_date": "2026-07-25T05:43:24-07:00"
-    },
-    {
-      "title": "Ycode AI Agents",
-      "url": "https://www.producthunt.com/products/ycode",
-      "tagline": "",
-      "pub_date": "2026-07-24T01:32:37-07:00"
+      "pub_date": "2026-07-07T23:03:58-07:00"
     },
     {
       "title": "MCP-Billing",
       "url": "https://www.producthunt.com/products/mcp-billing",
       "tagline": "",
       "pub_date": "2026-07-27T16:12:02-07:00"
+    },
+    {
+      "title": "Liminal",
+      "url": "https://www.producthunt.com/products/liminal-4",
+      "tagline": "",
+      "pub_date": "2026-07-27T06:10:57-07:00"
+    },
+    {
+      "title": "Jotform Website Widgets",
+      "url": "https://www.producthunt.com/products/jotform",
+      "tagline": "",
+      "pub_date": "2026-07-01T04:32:44-07:00"
+    },
+    {
+      "title": "SUB/WAVE",
+      "url": "https://www.producthunt.com/products/sub-wave",
+      "tagline": "",
+      "pub_date": "2026-07-27T02:16:25-07:00"
+    },
+    {
+      "title": "Snapr",
+      "url": "https://www.producthunt.com/products/snapr-3",
+      "tagline": "",
+      "pub_date": "2025-11-28T12:11:29-08:00"
+    },
+    {
+      "title": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-ai",
+      "tagline": "",
+      "pub_date": "2026-07-24T15:44:40-07:00"
+    },
+    {
+      "title": "Cercle",
+      "url": "https://www.producthunt.com/products/cercle",
+      "tagline": "",
+      "pub_date": "2026-07-27T16:03:46-07:00"
+    },
+    {
+      "title": "Leaping AI",
+      "url": "https://www.producthunt.com/products/leaping-ai",
+      "tagline": "",
+      "pub_date": "2026-05-18T17:44:30-07:00"
     },
     {
       "title": "ChatBeacon AIX",
@@ -200,64 +236,10 @@
       "pub_date": "2026-07-27T12:45:27-07:00"
     },
     {
-      "title": "Leaping AI",
-      "url": "https://www.producthunt.com/products/leaping-ai",
+      "title": "Cardzen",
+      "url": "https://www.producthunt.com/products/cardzen",
       "tagline": "",
-      "pub_date": "2026-05-18T17:44:30-07:00"
-    },
-    {
-      "title": "Conduit",
-      "url": "https://www.producthunt.com/products/conduit-ai",
-      "tagline": "",
-      "pub_date": "2026-07-24T15:44:40-07:00"
-    },
-    {
-      "title": "Liminal",
-      "url": "https://www.producthunt.com/products/liminal-4",
-      "tagline": "",
-      "pub_date": "2026-07-27T06:10:57-07:00"
-    },
-    {
-      "title": "ZenithBar",
-      "url": "https://www.producthunt.com/products/zenithbar",
-      "tagline": "",
-      "pub_date": "2026-07-27T10:44:07-07:00"
-    },
-    {
-      "title": "qsa.sh",
-      "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
-      "tagline": "",
-      "pub_date": "2026-07-26T07:49:30-07:00"
-    },
-    {
-      "title": "Superunit",
-      "url": "https://www.producthunt.com/products/superunit",
-      "tagline": "",
-      "pub_date": "2026-07-09T17:35:09-07:00"
-    },
-    {
-      "title": "Cercle",
-      "url": "https://www.producthunt.com/products/cercle",
-      "tagline": "",
-      "pub_date": "2026-07-27T16:03:46-07:00"
-    },
-    {
-      "title": "Hardbook",
-      "url": "https://www.producthunt.com/products/hardbook",
-      "tagline": "",
-      "pub_date": "2026-05-06T07:02:36-07:00"
-    },
-    {
-      "title": "Lottie Creator 2.0",
-      "url": "https://www.producthunt.com/products/lottiefiles",
-      "tagline": "",
-      "pub_date": "2026-07-24T00:13:39-07:00"
-    },
-    {
-      "title": "Cekura",
-      "url": "https://www.producthunt.com/products/vocera",
-      "tagline": "",
-      "pub_date": "2026-07-13T07:52:23-07:00"
+      "pub_date": "2026-07-23T09:46:46-07:00"
     },
     {
       "title": "FlowTask 2.0",
@@ -266,16 +248,16 @@
       "pub_date": "2026-07-18T23:51:56-07:00"
     },
     {
-      "title": "Prefactor",
-      "url": "https://www.producthunt.com/products/prefactor",
+      "title": "RecipeBook by Shofo",
+      "url": "https://www.producthunt.com/products/recipebook-by-shofo",
       "tagline": "",
-      "pub_date": "2026-07-07T23:03:58-07:00"
+      "pub_date": "2026-07-24T22:14:43-07:00"
     },
     {
-      "title": "SUB/WAVE",
-      "url": "https://www.producthunt.com/products/sub-wave",
+      "title": "Hardbook",
+      "url": "https://www.producthunt.com/products/hardbook",
       "tagline": "",
-      "pub_date": "2026-07-27T02:16:25-07:00"
+      "pub_date": "2026-05-06T07:02:36-07:00"
     },
     {
       "title": "Firstpass",
@@ -284,34 +266,88 @@
       "pub_date": "2026-07-27T00:00:19-07:00"
     },
     {
-      "title": "TinyBridge",
-      "url": "https://www.producthunt.com/products/tinybridge",
+      "title": "Growth Opt Playbook",
+      "url": "https://www.producthunt.com/products/growth-opt-playbook",
       "tagline": "",
-      "pub_date": "2026-07-27T08:27:13-07:00"
+      "pub_date": "2026-07-27T06:18:23-07:00"
     },
     {
-      "title": "Grok 4.5",
-      "url": "https://www.producthunt.com/products/grok",
+      "title": "Phantom",
+      "url": "https://www.producthunt.com/products/phantom-6",
       "tagline": "",
-      "pub_date": "2026-07-26T14:24:53-07:00"
+      "pub_date": "2026-07-25T05:43:24-07:00"
     },
     {
-      "title": "superfile",
-      "url": "https://www.producthunt.com/products/superfile",
+      "title": "Lottie Creator 2.0",
+      "url": "https://www.producthunt.com/products/lottiefiles",
       "tagline": "",
-      "pub_date": "2026-07-26T21:34:39-07:00"
+      "pub_date": "2026-07-24T00:13:39-07:00"
     },
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.producthunt.com/products/claude",
+      "title": "EasyCircuit",
+      "url": "https://www.producthunt.com/products/easycircuit",
       "tagline": "",
-      "pub_date": "2026-07-24T10:17:21-07:00"
+      "pub_date": "2026-07-27T16:44:55-07:00"
     },
     {
-      "title": "Repaint Socials",
-      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "title": "qsa.sh",
+      "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
       "tagline": "",
-      "pub_date": "2026-07-22T15:08:02-07:00"
+      "pub_date": "2026-07-26T07:49:30-07:00"
+    },
+    {
+      "title": "Pinery Prose",
+      "url": "https://www.producthunt.com/products/pinery",
+      "tagline": "",
+      "pub_date": "2026-07-27T09:04:39-07:00"
+    },
+    {
+      "title": "Lamoom",
+      "url": "https://www.producthunt.com/products/lamoom",
+      "tagline": "",
+      "pub_date": "2026-07-27T22:45:04-07:00"
+    },
+    {
+      "title": "Space-Bin",
+      "url": "https://www.producthunt.com/products/space-bin",
+      "tagline": "",
+      "pub_date": "2026-07-27T23:58:56-07:00"
+    },
+    {
+      "title": "G.I.A.ac",
+      "url": "https://www.producthunt.com/products/g-i-a-ac",
+      "tagline": "",
+      "pub_date": "2026-07-27T19:03:30-07:00"
+    },
+    {
+      "title": "ZenithBar",
+      "url": "https://www.producthunt.com/products/zenithbar",
+      "tagline": "",
+      "pub_date": "2026-07-27T10:44:07-07:00"
+    },
+    {
+      "title": "Cekura",
+      "url": "https://www.producthunt.com/products/vocera",
+      "tagline": "",
+      "pub_date": "2026-07-13T07:52:23-07:00"
+    },
+    {
+      "title": "Superunit",
+      "url": "https://www.producthunt.com/products/superunit",
+      "tagline": "",
+      "pub_date": "2026-07-09T17:35:09-07:00"
+    },
+    {
+      "title": "Ycode AI Agents",
+      "url": "https://www.producthunt.com/products/ycode",
+      "tagline": "",
+      "pub_date": "2026-07-24T01:32:37-07:00"
+    },
+    {
+      "title": "Robynn AI",
+      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "tagline": "",
+      "pub_date": "2026-07-13T10:21:13-07:00"
     }
   ]
 }

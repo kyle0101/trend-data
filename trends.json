@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-07-27T19:15:54.892Z",
+  "generated_at": "2026-07-28T01:51:42.775Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Distill and serve models with frontier quality for half the cost",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "hn_url": "https://news.ycombinator.com/item?id=49063454",
-      "points": 43,
-      "comments": 21,
-      "created_ts": 1785108915,
-      "author": "SilenN"
-    },
-    {
       "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
       "url": "https://usefeyn.com/blog/feynobg/",
       "hn_url": "https://news.ycombinator.com/item?id=49072462",
-      "points": 36,
-      "comments": 12,
+      "points": 91,
+      "comments": 21,
       "created_ts": 1785171548,
       "author": "snyy"
+    },
+    {
+      "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+      "url": "https://github.com/letsseal/letsseal",
+      "hn_url": "https://news.ycombinator.com/item?id=49071365",
+      "points": 65,
+      "comments": 28,
+      "created_ts": 1785167533,
+      "author": "nsokin"
     },
     {
       "title": "Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend",
       "url": "https://github.com/wassgha/rescript",
       "hn_url": "https://news.ycombinator.com/item?id=49065779",
-      "points": 35,
-      "comments": 30,
+      "points": 36,
+      "comments": 32,
       "created_ts": 1785133376,
       "author": "wassimgr"
-    },
-    {
-      "title": "Show HN: Infinite Jigsaw Game",
-      "url": "https://infinitejigsaw.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49061879",
-      "points": 26,
-      "comments": 21,
-      "created_ts": 1785096087,
-      "author": "impostervt"
     },
     {
       "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
       "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
       "hn_url": "https://news.ycombinator.com/item?id=49066083",
-      "points": 20,
-      "comments": 4,
+      "points": 22,
+      "comments": 7,
       "created_ts": 1785136515,
       "author": "purple-leafy"
     },
     {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "url": "https://portzero.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=49063648",
-      "points": 15,
-      "comments": 11,
-      "created_ts": 1785110628,
-      "author": "octopoc"
+      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+      "url": "https://www.dowe.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49076975",
+      "points": 20,
+      "comments": 23,
+      "created_ts": 1785194765,
+      "author": "victorriba"
+    },
+    {
+      "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
+      "url": "https://infrawrench.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49071915",
+      "points": 19,
+      "comments": 0,
+      "created_ts": 1785169545,
+      "author": "astrid__"
     },
     {
       "title": "Show HN: Watch random code typed out on an MS-DOS IDE",
       "url": "https://hackerman.specr.net/",
       "hn_url": "https://news.ycombinator.com/item?id=49065153",
-      "points": 14,
-      "comments": 6,
+      "points": 15,
+      "comments": 8,
       "created_ts": 1785125903,
       "author": "vunderba"
     },
@@ -70,161 +70,128 @@
       "title": "Show HN: Dozenal – A Game of Spatial Arithmetic",
       "url": "https://dozenal.game",
       "hn_url": "https://news.ycombinator.com/item?id=49067632",
-      "points": 13,
+      "points": 14,
       "comments": 8,
       "created_ts": 1785149057,
       "author": "sarreph"
-    },
-    {
-      "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
-      "url": "https://infrawrench.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49071915",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1785169545,
-      "author": "astrid__"
-    },
-    {
-      "title": "Show HN: Discrete6502 – one thing led to another",
-      "url": "https://epatel.github.io/discrete6502/",
-      "hn_url": "https://news.ycombinator.com/item?id=49062863",
-      "points": 12,
-      "comments": 6,
-      "created_ts": 1785103110,
-      "author": "epatel99"
     }
   ],
   "hn_front": [
     {
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "hn_url": "https://news.ycombinator.com/item?id=49065752",
-      "points": 1128,
-      "comments": 453,
-      "created_ts": 1785133090,
-      "author": "nateb2022"
-    },
-    {
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49067854",
-      "points": 364,
-      "comments": 280,
-      "created_ts": 1785150746,
-      "author": "tomlockwood"
-    },
-    {
-      "title": "Kimi-K3 Technical Report [pdf]",
-      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49070985",
-      "points": 325,
-      "comments": 129,
-      "created_ts": 1785165825,
-      "author": "vinhnx"
-    },
-    {
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "hn_url": "https://news.ycombinator.com/item?id=49069939",
-      "points": 223,
-      "comments": 116,
-      "created_ts": 1785161268,
-      "author": "1vuio0pswjnm7"
-    },
-    {
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49069132",
-      "points": 177,
-      "comments": 155,
-      "created_ts": 1785157451,
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "hn_url": "https://news.ycombinator.com/item?id=49076057",
+      "points": 452,
+      "comments": 622,
+      "created_ts": 1785189829,
       "author": "surprisetalk"
+    },
+    {
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "hn_url": "https://news.ycombinator.com/item?id=49073513",
+      "points": 260,
+      "comments": 102,
+      "created_ts": 1785176135,
+      "author": "cdrnsf"
     },
     {
       "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
       "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
       "hn_url": "https://news.ycombinator.com/item?id=49067301",
-      "points": 173,
-      "comments": 124,
+      "points": 229,
+      "comments": 157,
       "created_ts": 1785146330,
       "author": "Ralfp"
     },
     {
-      "title": "MAI-Cyber 1",
+      "title": "MAI-Cyber-1-Flash inside MDASH",
       "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
       "hn_url": "https://news.ycombinator.com/item?id=49072361",
-      "points": 160,
-      "comments": 66,
+      "points": 218,
+      "comments": 108,
       "created_ts": 1785171142,
       "author": "migmartri"
-    },
-    {
-      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-      "hn_url": "https://news.ycombinator.com/item?id=49072310",
-      "points": 142,
-      "comments": 112,
-      "created_ts": 1785170948,
-      "author": "doener"
     },
     {
       "title": "Libsm64: Mario 64 as a library for use in external game engines",
       "url": "https://github.com/libsm64/libsm64",
       "hn_url": "https://news.ycombinator.com/item?id=49067352",
-      "points": 134,
-      "comments": 16,
+      "points": 186,
+      "comments": 21,
       "created_ts": 1785146688,
       "author": "klaussilveira"
     },
     {
-      "title": "Modern email can be built from borrowed parts",
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-      "hn_url": "https://news.ycombinator.com/item?id=49066639",
-      "points": 130,
-      "comments": 63,
-      "created_ts": 1785140841,
-      "author": "andros"
+      "title": "Paged Out #9 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49070138",
+      "points": 178,
+      "comments": 22,
+      "created_ts": 1785162154,
+      "author": "laurensr"
     },
     {
-      "title": "VLC for Unity now supported on Linux",
-      "url": "https://code.videolan.org/videolan/vlc-unity",
-      "hn_url": "https://news.ycombinator.com/item?id=49066928",
-      "points": 118,
-      "comments": 36,
-      "created_ts": 1785143194,
-      "author": "martz"
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "hn_url": "https://news.ycombinator.com/item?id=49076923",
+      "points": 153,
+      "comments": 91,
+      "created_ts": 1785194497,
+      "author": "softwaredoug"
+    },
+    {
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "hn_url": "https://news.ycombinator.com/item?id=49076116",
+      "points": 138,
+      "comments": 71,
+      "created_ts": 1785190215,
+      "author": "quantified"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "hn_url": "https://news.ycombinator.com/item?id=49070756",
+      "points": 135,
+      "comments": 44,
+      "created_ts": 1785164896,
+      "author": "EatonZ"
+    },
+    {
+      "title": "Forth",
+      "url": "https://xkcd.com/3277/",
+      "hn_url": "https://news.ycombinator.com/item?id=49074991",
+      "points": 116,
+      "comments": 25,
+      "created_ts": 1785183350,
+      "author": "beardyw"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49076391",
+      "points": 114,
+      "comments": 28,
+      "created_ts": 1785191872,
+      "author": "dhorthy"
+    },
+    {
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "hn_url": "https://news.ycombinator.com/item?id=49073942",
+      "points": 113,
+      "comments": 22,
+      "created_ts": 1785177811,
+      "author": "jcbhmr"
     }
   ],
   "ph_today": [
     {
-      "title": "Comms",
-      "url": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
+      "title": "FindDiskKiller",
+      "url": "https://www.producthunt.com/products/finddiskkiller",
       "tagline": "",
-      "pub_date": "2026-07-26T19:06:56-07:00"
-    },
-    {
-      "title": "Adomate",
-      "url": "https://www.producthunt.com/products/adomate",
-      "tagline": "",
-      "pub_date": "2026-03-31T01:24:47-07:00"
-    },
-    {
-      "title": "Tackly",
-      "url": "https://www.producthunt.com/products/tackly",
-      "tagline": "",
-      "pub_date": "2026-07-26T09:39:30-07:00"
-    },
-    {
-      "title": "Cynative Security Research Agent",
-      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
-      "tagline": "",
-      "pub_date": "2026-07-23T03:24:18-07:00"
-    },
-    {
-      "title": "Notate",
-      "url": "https://www.producthunt.com/products/notate-2",
-      "tagline": "",
-      "pub_date": "2026-07-26T16:09:40-07:00"
+      "pub_date": "2026-07-26T10:27:58-07:00"
     },
     {
       "title": "superfile",
@@ -239,22 +206,10 @@
       "pub_date": "2026-07-14T12:21:08-07:00"
     },
     {
-      "title": "Webhound",
-      "url": "https://www.producthunt.com/products/webhound",
+      "title": "Adomate",
+      "url": "https://www.producthunt.com/products/adomate",
       "tagline": "",
-      "pub_date": "2026-07-22T15:09:16-07:00"
-    },
-    {
-      "title": "Illume Labs",
-      "url": "https://www.producthunt.com/products/illume-labs",
-      "tagline": "",
-      "pub_date": "2026-07-21T12:16:06-07:00"
-    },
-    {
-      "title": "Estera",
-      "url": "https://www.producthunt.com/products/estera",
-      "tagline": "",
-      "pub_date": "2026-07-24T00:56:30-07:00"
+      "pub_date": "2026-03-31T01:24:47-07:00"
     },
     {
       "title": "Robynn AI",
@@ -263,52 +218,16 @@
       "pub_date": "2026-07-13T10:21:13-07:00"
     },
     {
-      "title": "Rivault",
-      "url": "https://www.producthunt.com/products/rivault",
+      "title": "Webhound",
+      "url": "https://www.producthunt.com/products/webhound",
       "tagline": "",
-      "pub_date": "2026-07-26T13:24:52-07:00"
+      "pub_date": "2026-07-22T15:09:16-07:00"
     },
     {
-      "title": "FindDiskKiller",
-      "url": "https://www.producthunt.com/products/finddiskkiller",
+      "title": "Cynative Security Research Agent",
+      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
       "tagline": "",
-      "pub_date": "2026-07-26T10:27:58-07:00"
-    },
-    {
-      "title": "Artifacts by Databox",
-      "url": "https://www.producthunt.com/products/databox",
-      "tagline": "",
-      "pub_date": "2026-07-16T07:27:11-07:00"
-    },
-    {
-      "title": "Repaint Socials",
-      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
-      "tagline": "",
-      "pub_date": "2026-07-22T15:08:02-07:00"
-    },
-    {
-      "title": "Tunio",
-      "url": "https://www.producthunt.com/products/tunio",
-      "tagline": "",
-      "pub_date": "2026-07-26T13:29:09-07:00"
-    },
-    {
-      "title": "AI YC interview with Gstack agents",
-      "url": "https://www.producthunt.com/products/gstack-joins-your-meeting",
-      "tagline": "",
-      "pub_date": "2026-07-25T08:43:46-07:00"
-    },
-    {
-      "title": "Rescript",
-      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-      "tagline": "",
-      "pub_date": "2026-07-26T22:29:41-07:00"
-    },
-    {
-      "title": "Claude Opus 5",
-      "url": "https://www.producthunt.com/products/claude",
-      "tagline": "",
-      "pub_date": "2026-07-24T10:17:21-07:00"
+      "pub_date": "2026-07-23T03:24:18-07:00"
     },
     {
       "title": "Grok 4.5",
@@ -317,16 +236,52 @@
       "pub_date": "2026-07-26T14:24:53-07:00"
     },
     {
-      "title": "Edit Mind × Strava",
-      "url": "https://www.producthunt.com/products/edit-mind-3",
+      "title": "Illume Labs",
+      "url": "https://www.producthunt.com/products/illume-labs",
       "tagline": "",
-      "pub_date": "2026-07-26T01:02:33-07:00"
+      "pub_date": "2026-07-21T12:16:06-07:00"
     },
     {
-      "title": "Audos Summer Camp",
-      "url": "https://www.producthunt.com/products/socap",
+      "title": "Tunio",
+      "url": "https://www.producthunt.com/products/tunio",
       "tagline": "",
-      "pub_date": "2026-07-24T08:22:06-07:00"
+      "pub_date": "2026-07-26T13:29:09-07:00"
+    },
+    {
+      "title": "Repaint Socials",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "tagline": "",
+      "pub_date": "2026-07-22T15:08:02-07:00"
+    },
+    {
+      "title": "Tackly",
+      "url": "https://www.producthunt.com/products/tackly",
+      "tagline": "",
+      "pub_date": "2026-07-26T09:39:30-07:00"
+    },
+    {
+      "title": "Rivault",
+      "url": "https://www.producthunt.com/products/rivault",
+      "tagline": "",
+      "pub_date": "2026-07-26T13:24:52-07:00"
+    },
+    {
+      "title": "Notate",
+      "url": "https://www.producthunt.com/products/notate-2",
+      "tagline": "",
+      "pub_date": "2026-07-26T16:09:40-07:00"
+    },
+    {
+      "title": "Comms",
+      "url": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
+      "tagline": "",
+      "pub_date": "2026-07-26T19:06:56-07:00"
+    },
+    {
+      "title": "Estera",
+      "url": "https://www.producthunt.com/products/estera",
+      "tagline": "",
+      "pub_date": "2026-07-24T00:56:30-07:00"
     },
     {
       "title": "HeyZoku",
@@ -335,22 +290,52 @@
       "pub_date": "2026-07-26T23:25:42-07:00"
     },
     {
+      "title": "AI YC interview with Gstack agents",
+      "url": "https://www.producthunt.com/products/gstack-joins-your-meeting",
+      "tagline": "",
+      "pub_date": "2026-07-25T08:43:46-07:00"
+    },
+    {
+      "title": "Artifacts by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "tagline": "",
+      "pub_date": "2026-07-16T07:27:11-07:00"
+    },
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.producthunt.com/products/claude",
+      "tagline": "",
+      "pub_date": "2026-07-24T10:17:21-07:00"
+    },
+    {
+      "title": "Audos Summer Camp",
+      "url": "https://www.producthunt.com/products/socap",
+      "tagline": "",
+      "pub_date": "2026-07-24T08:22:06-07:00"
+    },
+    {
+      "title": "Edit Mind × Strava",
+      "url": "https://www.producthunt.com/products/edit-mind-3",
+      "tagline": "",
+      "pub_date": "2026-07-26T01:02:33-07:00"
+    },
+    {
+      "title": "Rescript",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "tagline": "",
+      "pub_date": "2026-07-26T22:29:41-07:00"
+    },
+    {
       "title": "localskills.sh",
       "url": "https://www.producthunt.com/products/localskills-sh",
       "tagline": "",
       "pub_date": "2026-07-25T01:56:27-07:00"
     },
     {
-      "title": "yatta!",
-      "url": "https://www.producthunt.com/products/yatta",
+      "title": "Openbase",
+      "url": "https://www.producthunt.com/products/openbase-2",
       "tagline": "",
-      "pub_date": "2026-07-20T02:10:29-07:00"
-    },
-    {
-      "title": "BrainFeed",
-      "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
-      "tagline": "",
-      "pub_date": "2026-07-24T17:01:05-07:00"
+      "pub_date": "2026-07-19T09:15:50-07:00"
     },
     {
       "title": "AppUFO",
@@ -359,16 +344,22 @@
       "pub_date": "2026-07-25T02:00:29-07:00"
     },
     {
-      "title": "&gt;=PlayingFild",
-      "url": "https://www.producthunt.com/products/playingfild",
+      "title": "TouchGrass",
+      "url": "https://www.producthunt.com/products/touchgrass-2",
       "tagline": "",
-      "pub_date": "2026-07-16T23:01:35-07:00"
+      "pub_date": "2026-07-24T13:49:12-07:00"
     },
     {
-      "title": "Forgeon",
-      "url": "https://www.producthunt.com/products/forgeon-2",
+      "title": "yatta!",
+      "url": "https://www.producthunt.com/products/yatta",
       "tagline": "",
-      "pub_date": "2026-07-03T04:07:49-07:00"
+      "pub_date": "2026-07-20T02:10:29-07:00"
+    },
+    {
+      "title": "KeyOpera 2.0",
+      "url": "https://www.producthunt.com/products/keyopera",
+      "tagline": "",
+      "pub_date": "2026-07-25T11:49:56-07:00"
     },
     {
       "title": "Pulse Island",

@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-08-02T02:02:27.617Z",
+  "generated_at": "2026-08-02T08:09:20.578Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "hn_url": "https://news.ycombinator.com/item?id=49140396",
+      "points": 124,
+      "comments": 23,
+      "created_ts": 1785636429,
+      "author": "tomilan"
+    },
+    {
       "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
       "url": "https://github.com/pochenai/nano-llm-posttraining",
       "hn_url": "https://news.ycombinator.com/item?id=49133851",
-      "points": 20,
+      "points": 21,
       "comments": 0,
       "created_ts": 1785587432,
       "author": "popopanda"
+    },
+    {
+      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49140340",
+      "points": 18,
+      "comments": 7,
+      "created_ts": 1785635804,
+      "author": "ahmed_hassan7"
     }
   ],
   "hn_front": [
@@ -18,141 +36,153 @@
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
       "hn_url": "https://news.ycombinator.com/item?id=49136821",
-      "points": 404,
-      "comments": 142,
+      "points": 509,
+      "comments": 176,
       "created_ts": 1785607627,
       "author": "pudgywalsh"
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "hn_url": "https://news.ycombinator.com/item?id=49133889",
-      "points": 251,
-      "comments": 167,
-      "created_ts": 1785587665,
-      "author": "throwaway2037"
-    },
-    {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "hn_url": "https://news.ycombinator.com/item?id=49136736",
-      "points": 218,
-      "comments": 94,
-      "created_ts": 1785607001,
-      "author": "jaypatelani"
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "hn_url": "https://news.ycombinator.com/item?id=49138188",
-      "points": 195,
-      "comments": 29,
-      "created_ts": 1785616407,
-      "author": "ryanseys"
-    },
-    {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "hn_url": "https://news.ycombinator.com/item?id=49134599",
-      "points": 188,
-      "comments": 86,
-      "created_ts": 1785593340,
-      "author": "0x54MUR41"
     },
     {
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "hn_url": "https://news.ycombinator.com/item?id=49138302",
-      "points": 178,
-      "comments": 78,
+      "points": 313,
+      "comments": 160,
       "created_ts": 1785617112,
       "author": "njaremko"
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "hn_url": "https://news.ycombinator.com/item?id=49138188",
+      "points": 312,
+      "comments": 39,
+      "created_ts": 1785616407,
+      "author": "ryanseys"
     },
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "hn_url": "https://news.ycombinator.com/item?id=49139102",
-      "points": 161,
-      "comments": 115,
+      "points": 290,
+      "comments": 256,
       "created_ts": 1785623112,
       "author": "foxtrot8672"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "hn_url": "https://news.ycombinator.com/item?id=49136736",
+      "points": 270,
+      "comments": 121,
+      "created_ts": 1785607001,
+      "author": "jaypatelani"
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49140218",
+      "points": 183,
+      "comments": 54,
+      "created_ts": 1785634551,
+      "author": "Hixon10"
     },
     {
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
       "hn_url": "https://news.ycombinator.com/item?id=49137060",
-      "points": 116,
-      "comments": 41,
+      "points": 143,
+      "comments": 53,
       "created_ts": 1785609140,
       "author": "juhopitk"
+    },
+    {
+      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "hn_url": "https://news.ycombinator.com/item?id=49135426",
+      "points": 139,
+      "comments": 79,
+      "created_ts": 1785599214,
+      "author": "stasomatic"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "hn_url": "https://news.ycombinator.com/item?id=49140396",
+      "points": 124,
+      "comments": 23,
+      "created_ts": 1785636429,
+      "author": "tomilan"
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "hn_url": "https://news.ycombinator.com/item?id=49141073",
+      "points": 112,
+      "comments": 21,
+      "created_ts": 1785644474,
+      "author": "ilreb"
     }
   ],
   "ph_today": [
     {
-      "title": "Tandem",
-      "url": "https://www.producthunt.com/products/tandem-11",
+      "title": "Capptivo",
+      "url": "https://www.producthunt.com/products/capptivo",
       "tagline": "",
-      "pub_date": "2026-07-27T22:25:36-07:00"
+      "pub_date": "2026-07-31T21:40:38-07:00"
     },
     {
-      "title": "Kopai",
-      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "title": "Finamie",
+      "url": "https://www.producthunt.com/products/finamie-know-your-money-for-real",
       "tagline": "",
-      "pub_date": "2026-07-31T05:24:21-07:00"
+      "pub_date": "2026-08-01T13:35:39-07:00"
     },
     {
-      "title": "AgentMicro",
-      "url": "https://www.producthunt.com/products/agentmicro",
+      "title": "Bolcho AI",
+      "url": "https://www.producthunt.com/products/bolcho-ai",
       "tagline": "",
-      "pub_date": "2026-07-31T01:27:23-07:00"
+      "pub_date": "2026-08-01T15:44:45-07:00"
     },
     {
-      "title": "SyncStaq",
-      "url": "https://www.producthunt.com/products/syncstaq",
+      "title": "Termexo",
+      "url": "https://www.producthunt.com/products/termexo",
       "tagline": "",
-      "pub_date": "2026-07-29T19:46:22-07:00"
+      "pub_date": "2026-08-01T23:05:43-07:00"
     },
     {
-      "title": "Yamanote 3D",
-      "url": "https://www.producthunt.com/products/yamanote-3d",
+      "title": "YourSitee",
+      "url": "https://www.producthunt.com/products/yoursitee",
       "tagline": "",
-      "pub_date": "2026-07-31T01:42:08-07:00"
+      "pub_date": "2025-01-05T03:02:42-08:00"
     },
     {
-      "title": "DeepSeek-V4-Flash-0731",
-      "url": "https://www.producthunt.com/products/deepseek",
+      "title": "Zinley",
+      "url": "https://www.producthunt.com/products/zinley",
       "tagline": "",
-      "pub_date": "2026-07-31T06:38:23-07:00"
+      "pub_date": "2026-05-03T00:49:53-07:00"
     },
     {
-      "title": "Terminal Candy",
-      "url": "https://www.producthunt.com/products/terminal-candy",
+      "title": "Lumichats(Free)",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
       "tagline": "",
-      "pub_date": "2026-07-19T15:21:18-07:00"
+      "pub_date": "2026-08-01T07:10:42-07:00"
     },
     {
-      "title": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
+      "title": "Zen Whisper",
+      "url": "https://www.producthunt.com/products/zen-whisper",
       "tagline": "",
-      "pub_date": "2026-07-29T13:50:08-07:00"
+      "pub_date": "2026-07-31T07:55:35-07:00"
     },
     {
-      "title": "Basedash Audit Logs",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "UniwebPay Skill",
+      "url": "https://www.producthunt.com/products/uniwebpay",
       "tagline": "",
-      "pub_date": "2026-07-31T15:29:36-07:00"
+      "pub_date": "2026-07-14T14:27:49-07:00"
     },
     {
-      "title": "EssayKraft",
-      "url": "https://www.producthunt.com/products/essaykraft",
+      "title": "FreqWave EQ",
+      "url": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
       "tagline": "",
-      "pub_date": "2026-07-31T11:27:31-07:00"
-    },
-    {
-      "title": "NudgeForMe",
-      "url": "https://www.producthunt.com/products/nudgeforme",
-      "tagline": "",
-      "pub_date": "2026-07-31T03:42:14-07:00"
+      "pub_date": "2026-07-28T06:53:12-07:00"
     },
     {
       "title": "TerminalWidget",
@@ -161,64 +191,76 @@
       "pub_date": "2026-07-30T16:30:48-07:00"
     },
     {
-      "title": "Mubert API",
-      "url": "https://www.producthunt.com/products/mubert",
+      "title": "Yamanote 3D",
+      "url": "https://www.producthunt.com/products/yamanote-3d",
       "tagline": "",
-      "pub_date": "2026-07-30T00:18:31-07:00"
+      "pub_date": "2026-07-31T01:42:08-07:00"
     },
     {
-      "title": "Cleanlist AI",
-      "url": "https://www.producthunt.com/products/cleanlist-ai",
+      "title": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
       "tagline": "",
-      "pub_date": "2026-07-27T08:47:32-07:00"
+      "pub_date": "2026-07-29T13:50:08-07:00"
     },
     {
-      "title": "Poth Labs",
-      "url": "https://www.producthunt.com/products/poth-labs",
+      "title": "Terminal Candy",
+      "url": "https://www.producthunt.com/products/terminal-candy",
       "tagline": "",
-      "pub_date": "2026-07-28T21:59:40-07:00"
+      "pub_date": "2026-07-19T15:21:18-07:00"
     },
     {
-      "title": "Halo by Scam AI",
-      "url": "https://www.producthunt.com/products/scam-ai",
+      "title": "SyncStaq",
+      "url": "https://www.producthunt.com/products/syncstaq",
       "tagline": "",
-      "pub_date": "2026-07-20T09:18:59-07:00"
+      "pub_date": "2026-07-29T19:46:22-07:00"
+    },
+    {
+      "title": "Basedash Audit Logs",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-07-31T15:29:36-07:00"
+    },
+    {
+      "title": "Kopai",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "tagline": "",
+      "pub_date": "2026-07-31T05:24:21-07:00"
+    },
+    {
+      "title": "NudgeForMe",
+      "url": "https://www.producthunt.com/products/nudgeforme",
+      "tagline": "",
+      "pub_date": "2026-07-31T03:42:14-07:00"
+    },
+    {
+      "title": "DeepSeek-V4-Flash-0731",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "tagline": "",
+      "pub_date": "2026-07-31T06:38:23-07:00"
+    },
+    {
+      "title": "Tandem",
+      "url": "https://www.producthunt.com/products/tandem-11",
+      "tagline": "",
+      "pub_date": "2026-07-27T22:25:36-07:00"
+    },
+    {
+      "title": "EssayKraft",
+      "url": "https://www.producthunt.com/products/essaykraft",
+      "tagline": "",
+      "pub_date": "2026-07-31T11:27:31-07:00"
+    },
+    {
+      "title": "AgentMicro",
+      "url": "https://www.producthunt.com/products/agentmicro",
+      "tagline": "",
+      "pub_date": "2026-07-31T01:27:23-07:00"
     },
     {
       "title": "Customer.io Summer Release",
       "url": "https://www.producthunt.com/products/customer-io",
       "tagline": "",
       "pub_date": "2026-07-23T14:00:18-07:00"
-    },
-    {
-      "title": "witr",
-      "url": "https://www.producthunt.com/products/witr",
-      "tagline": "",
-      "pub_date": "2026-07-30T23:39:43-07:00"
-    },
-    {
-      "title": "TraceLLM",
-      "url": "https://www.producthunt.com/products/tracellm",
-      "tagline": "",
-      "pub_date": "2026-07-29T07:43:16-07:00"
-    },
-    {
-      "title": "Screencap",
-      "url": "https://www.producthunt.com/products/screencap",
-      "tagline": "",
-      "pub_date": "2026-07-27T11:58:18-07:00"
-    },
-    {
-      "title": "Gemini Robotics 2",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2",
-      "tagline": "",
-      "pub_date": "2026-07-30T08:56:55-07:00"
-    },
-    {
-      "title": "DepthData",
-      "url": "https://www.producthunt.com/products/depthdata",
-      "tagline": "",
-      "pub_date": "2026-07-30T13:00:35-07:00"
     },
     {
       "title": "mectrics",
@@ -233,40 +275,34 @@
       "pub_date": "2026-07-30T20:17:18-07:00"
     },
     {
-      "title": "NINA",
-      "url": "https://www.producthunt.com/products/agenq-nina-ai-product-assistant",
+      "title": "Gemini Robotics 2",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2",
       "tagline": "",
-      "pub_date": "2025-12-19T02:28:19-08:00"
+      "pub_date": "2026-07-30T08:56:55-07:00"
     },
     {
-      "title": "Laxis",
-      "url": "https://www.producthunt.com/products/laxis-2",
+      "title": "Mubert API",
+      "url": "https://www.producthunt.com/products/mubert",
       "tagline": "",
-      "pub_date": "2026-07-20T14:02:40-07:00"
+      "pub_date": "2026-07-30T00:18:31-07:00"
     },
     {
-      "title": "Sorinai",
-      "url": "https://www.producthunt.com/products/sorinai",
+      "title": "DepthData",
+      "url": "https://www.producthunt.com/products/depthdata",
       "tagline": "",
-      "pub_date": "2026-07-29T22:29:16-07:00"
+      "pub_date": "2026-07-30T13:00:35-07:00"
     },
     {
-      "title": "Memmy Agent",
-      "url": "https://www.producthunt.com/products/memmy",
+      "title": "Halo by Scam AI",
+      "url": "https://www.producthunt.com/products/scam-ai",
       "tagline": "",
-      "pub_date": "2026-07-22T05:22:23-07:00"
+      "pub_date": "2026-07-20T09:18:59-07:00"
     },
     {
-      "title": "Phantom Voice",
-      "url": "https://www.producthunt.com/products/phantom-voice",
+      "title": "Screencap",
+      "url": "https://www.producthunt.com/products/screencap",
       "tagline": "",
-      "pub_date": "2026-07-29T02:55:36-07:00"
-    },
-    {
-      "title": "Expert Chase for iOS &amp; Android",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "tagline": "",
-      "pub_date": "2026-07-08T15:09:29-07:00"
+      "pub_date": "2026-07-27T11:58:18-07:00"
     }
   ]
 }

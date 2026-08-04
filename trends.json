@@ -1,50 +1,41 @@
 {
-  "generated_at": "2026-08-04T13:52:30.907Z",
+  "generated_at": "2026-08-04T19:21:07.636Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "hn_url": "https://news.ycombinator.com/item?id=49158333",
-      "points": 240,
-      "comments": 109,
-      "created_ts": 1785776055,
-      "author": "leonickson"
-    },
-    {
-      "title": "Show HN: Hacker News with AI stories filtered out",
-      "url": "https://hcker.news/?view=frontpage&ai=exclude",
-      "hn_url": "https://news.ycombinator.com/item?id=49159018",
-      "points": 49,
-      "comments": 10,
-      "created_ts": 1785778796,
-      "author": "postalcoder"
-    },
-    {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "url": "https://armature.tech/",
-      "hn_url": "https://news.ycombinator.com/item?id=49157807",
-      "points": 41,
-      "comments": 2,
-      "created_ts": 1785773879,
-      "author": "screm"
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "hn_url": "https://news.ycombinator.com/item?id=49170165",
+      "points": 289,
+      "comments": 68,
+      "created_ts": 1785856582,
+      "author": "automatoney"
     },
     {
       "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
       "url": "https://github.com/MakazhanAlpamys/Soup",
       "hn_url": "https://news.ycombinator.com/item?id=49166984",
-      "points": 36,
-      "comments": 6,
+      "points": 105,
+      "comments": 18,
       "created_ts": 1785842277,
       "author": "MakazhanAlpamys"
+    },
+    {
+      "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+      "url": "https://github.com/Chiaro-HQ/methodology",
+      "hn_url": "https://news.ycombinator.com/item?id=49171140",
+      "points": 29,
+      "comments": 14,
+      "created_ts": 1785860823,
+      "author": "yylyyl"
     },
     {
       "title": "Show HN: I made a private self-destructing image hosting site in Golang",
       "url": "https://picburn.xyz/",
       "hn_url": "https://news.ycombinator.com/item?id=49165845",
       "points": 15,
-      "comments": 25,
+      "comments": 35,
       "created_ts": 1785832752,
       "author": "shelldweller"
     },
@@ -53,175 +44,118 @@
       "url": "https://larpin.io",
       "hn_url": "https://news.ycombinator.com/item?id=49162898",
       "points": 12,
-      "comments": 5,
+      "comments": 6,
       "created_ts": 1785801645,
       "author": "joeamroo"
     },
     {
-      "title": "Show HN: Mstat a temperature and stat tracker for macOS in Zig and SwiftUI",
-      "url": "https://git.cafe/versecafe/mstat",
-      "hn_url": "https://news.ycombinator.com/item?id=49158573",
-      "points": 11,
+      "title": "Show HN: Implement-spec – a harness-agnostic spec-to-verified-PR agent skill",
+      "url": "https://github.com/SteveVitali/agent-skills",
+      "hn_url": "https://news.ycombinator.com/item?id=49168675",
+      "points": 12,
       "comments": 0,
-      "created_ts": 1785776905,
-      "author": "versecafe"
-    },
-    {
-      "title": "Show HN: FutureSearch, AI forecasting you can verify",
-      "url": "https://futuresearch.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49157941",
-      "points": 11,
-      "comments": 0,
-      "created_ts": 1785774479,
-      "author": "ddp26"
+      "created_ts": 1785850004,
+      "author": "SteveVitali"
     }
   ],
   "hn_front": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "hn_url": "https://news.ycombinator.com/item?id=49161518",
-      "points": 1116,
-      "comments": 468,
-      "created_ts": 1785791633,
-      "author": "MaxMussio"
-    },
-    {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "hn_url": "https://news.ycombinator.com/item?id=49156111",
-      "points": 654,
-      "comments": 213,
-      "created_ts": 1785766547,
-      "author": "bryanmikaelian"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "hn_url": "https://news.ycombinator.com/item?id=49157930",
-      "points": 575,
-      "comments": 859,
-      "created_ts": 1785774432,
-      "author": "milkshakes"
-    },
-    {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "hn_url": "https://news.ycombinator.com/item?id=49167113",
-      "points": 389,
-      "comments": 233,
-      "created_ts": 1785843017,
-      "author": "meysamazad"
-    },
-    {
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49156750",
-      "points": 328,
-      "comments": 38,
-      "created_ts": 1785769493,
-      "author": "fiddlosopher"
-    },
-    {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "hn_url": "https://news.ycombinator.com/item?id=49166202",
-      "points": 310,
-      "comments": 55,
-      "created_ts": 1785835833,
-      "author": "gyan"
-    },
-    {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "hn_url": "https://news.ycombinator.com/item?id=49158333",
-      "points": 240,
-      "comments": 109,
-      "created_ts": 1785776055,
-      "author": "leonickson"
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "hn_url": "https://news.ycombinator.com/item?id=49158581",
-      "points": 237,
-      "comments": 60,
-      "created_ts": 1785776926,
-      "author": "ascorbic"
-    },
-    {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49162653",
-      "points": 231,
-      "comments": 79,
-      "created_ts": 1785799493,
-      "author": "pmg101"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "hn_url": "https://news.ycombinator.com/item?id=49156683",
-      "points": 200,
-      "comments": 183,
-      "created_ts": 1785769254,
-      "author": "whoishiring"
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49167448",
+      "points": 455,
+      "comments": 514,
+      "created_ts": 1785844862,
+      "author": "surprisetalk"
     },
     {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "hn_url": "https://news.ycombinator.com/item?id=49166386",
-      "points": 155,
-      "comments": 38,
+      "points": 317,
+      "comments": 73,
       "created_ts": 1785837655,
       "author": "zhoutong"
     },
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "hn_url": "https://news.ycombinator.com/item?id=49167448",
-      "points": 152,
-      "comments": 149,
-      "created_ts": 1785844862,
-      "author": "surprisetalk"
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49162653",
+      "points": 298,
+      "comments": 335,
+      "created_ts": 1785799493,
+      "author": "pmg101"
     },
     {
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "hn_url": "https://news.ycombinator.com/item?id=49166491",
-      "points": 140,
-      "comments": 28,
-      "created_ts": 1785838393,
-      "author": "askvictor"
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "hn_url": "https://news.ycombinator.com/item?id=49170165",
+      "points": 289,
+      "comments": 68,
+      "created_ts": 1785856582,
+      "author": "automatoney"
     },
     {
-      "title": "Harness Engineering for Self-Improvement",
+      "title": "Harness engineering for self-improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
       "hn_url": "https://news.ycombinator.com/item?id=49164896",
-      "points": 138,
-      "comments": 25,
+      "points": 255,
+      "comments": 55,
       "created_ts": 1785824274,
       "author": "tosh"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49170479",
+      "points": 212,
+      "comments": 154,
+      "created_ts": 1785857862,
+      "author": "thewebguyd"
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "hn_url": "https://news.ycombinator.com/item?id=49166874",
+      "points": 192,
+      "comments": 98,
+      "created_ts": 1785841297,
+      "author": "cimi_"
+    },
+    {
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49166860",
+      "points": 166,
+      "comments": 243,
+      "created_ts": 1785841148,
+      "author": "tcp_handshaker"
+    },
+    {
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "hn_url": "https://news.ycombinator.com/item?id=49170001",
+      "points": 157,
+      "comments": 51,
+      "created_ts": 1785855933,
+      "author": "speckx"
+    },
+    {
+      "title": "Everything I Know (1975)",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "hn_url": "https://news.ycombinator.com/item?id=49167147",
+      "points": 107,
+      "comments": 31,
+      "created_ts": 1785843212,
+      "author": "simonebrunozzi"
     }
   ],
   "ph_today": [
     {
-      "title": "ZapDigits MCP",
-      "url": "https://www.producthunt.com/products/zapdigits",
+      "title": "Atlaso",
+      "url": "https://www.producthunt.com/products/atlaso",
       "tagline": "",
-      "pub_date": "2026-08-02T11:39:13-07:00"
-    },
-    {
-      "title": "Vibe Buddy",
-      "url": "https://www.producthunt.com/products/vibe-buddy",
-      "tagline": "",
-      "pub_date": "2026-08-03T01:36:13-07:00"
-    },
-    {
-      "title": "Dashi Metrics",
-      "url": "https://www.producthunt.com/products/dashi-metrics",
-      "tagline": "",
-      "pub_date": "2026-07-30T01:30:05-07:00"
+      "pub_date": "2026-07-18T15:04:00-07:00"
     },
     {
       "title": "Hey Noah",
@@ -230,10 +164,10 @@
       "pub_date": "2026-03-05T08:16:39-08:00"
     },
     {
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
+      "title": "ArtDeck",
+      "url": "https://www.producthunt.com/products/artdeck",
       "tagline": "",
-      "pub_date": "2026-08-03T12:35:56-07:00"
+      "pub_date": "2026-07-05T12:50:43-07:00"
     },
     {
       "title": "Wondering",
@@ -242,106 +176,10 @@
       "pub_date": "2026-07-30T00:14:31-07:00"
     },
     {
-      "title": "Stynar",
-      "url": "https://www.producthunt.com/products/stynar",
-      "tagline": "",
-      "pub_date": "2026-08-03T21:49:37-07:00"
-    },
-    {
-      "title": "space ocr",
-      "url": "https://www.producthunt.com/products/space-ocr",
-      "tagline": "",
-      "pub_date": "2026-07-30T23:50:04-07:00"
-    },
-    {
-      "title": "Atlaso",
-      "url": "https://www.producthunt.com/products/atlaso",
-      "tagline": "",
-      "pub_date": "2026-07-18T15:04:00-07:00"
-    },
-    {
-      "title": "Driven",
-      "url": "https://www.producthunt.com/products/driven-ai",
-      "tagline": "",
-      "pub_date": "2026-07-21T19:16:19-07:00"
-    },
-    {
-      "title": "GrowthBook 5.0",
-      "url": "https://www.producthunt.com/products/growthbook",
-      "tagline": "",
-      "pub_date": "2026-07-29T08:58:55-07:00"
-    },
-    {
-      "title": "Glasp MCP Connector",
-      "url": "https://www.producthunt.com/products/glasp-mcp-connector",
-      "tagline": "",
-      "pub_date": "2026-08-03T11:39:20-07:00"
-    },
-    {
-      "title": "Snipplet",
-      "url": "https://www.producthunt.com/products/snipplet",
-      "tagline": "",
-      "pub_date": "2026-08-03T23:15:21-07:00"
-    },
-    {
-      "title": "ArtDeck",
-      "url": "https://www.producthunt.com/products/artdeck",
-      "tagline": "",
-      "pub_date": "2026-07-05T12:50:43-07:00"
-    },
-    {
-      "title": "Vinyl for Mac",
-      "url": "https://www.producthunt.com/products/vinyl-for-mac",
-      "tagline": "",
-      "pub_date": "2026-08-02T22:19:33-07:00"
-    },
-    {
-      "title": "Crodo AI",
-      "url": "https://www.producthunt.com/products/crodo-ai",
-      "tagline": "",
-      "pub_date": "2026-07-27T07:28:16-07:00"
-    },
-    {
-      "title": "AirProof AI",
-      "url": "https://www.producthunt.com/products/airproof-ai",
-      "tagline": "",
-      "pub_date": "2026-07-31T12:11:12-07:00"
-    },
-    {
       "title": "FileFlippers",
       "url": "https://www.producthunt.com/products/fileflippers",
       "tagline": "",
       "pub_date": "2026-07-20T08:33:31-07:00"
-    },
-    {
-      "title": "Domo",
-      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
-      "tagline": "",
-      "pub_date": "2026-07-24T12:13:39-07:00"
-    },
-    {
-      "title": "Tixio 3.0",
-      "url": "https://www.producthunt.com/products/tixio-io",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:32:18-07:00"
-    },
-    {
-      "title": "MOTHER",
-      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
-      "tagline": "",
-      "pub_date": "2026-08-03T12:21:35-07:00"
-    },
-    {
-      "title": "Finyuus",
-      "url": "https://www.producthunt.com/products/finyuus",
-      "tagline": "",
-      "pub_date": "2026-08-03T11:14:47-07:00"
-    },
-    {
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
-      "tagline": "",
-      "pub_date": "2026-08-03T01:34:16-07:00"
     },
     {
       "title": "Screen Awesome",
@@ -350,10 +188,100 @@
       "pub_date": "2026-08-03T01:00:36-07:00"
     },
     {
+      "title": "Tixio 3.0",
+      "url": "https://www.producthunt.com/products/tixio-io",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:32:18-07:00"
+    },
+    {
+      "title": "Driven",
+      "url": "https://www.producthunt.com/products/driven-ai",
+      "tagline": "",
+      "pub_date": "2026-07-21T19:16:19-07:00"
+    },
+    {
+      "title": "Snipplet",
+      "url": "https://www.producthunt.com/products/snipplet",
+      "tagline": "",
+      "pub_date": "2026-08-03T23:15:21-07:00"
+    },
+    {
+      "title": "SpeakoFlow",
+      "url": "https://www.producthunt.com/products/speakoflow",
+      "tagline": "",
+      "pub_date": "2026-08-03T01:34:16-07:00"
+    },
+    {
+      "title": "AirProof AI",
+      "url": "https://www.producthunt.com/products/airproof-ai",
+      "tagline": "",
+      "pub_date": "2026-07-31T12:11:12-07:00"
+    },
+    {
+      "title": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
+      "tagline": "",
+      "pub_date": "2026-08-03T12:35:56-07:00"
+    },
+    {
+      "title": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
+      "tagline": "",
+      "pub_date": "2026-08-03T11:14:47-07:00"
+    },
+    {
+      "title": "Domo",
+      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
+      "tagline": "",
+      "pub_date": "2026-07-24T12:13:39-07:00"
+    },
+    {
+      "title": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "tagline": "",
+      "pub_date": "2026-07-30T01:30:05-07:00"
+    },
+    {
+      "title": "Vibe Buddy",
+      "url": "https://www.producthunt.com/products/vibe-buddy",
+      "tagline": "",
+      "pub_date": "2026-08-03T01:36:13-07:00"
+    },
+    {
       "title": "Karve",
       "url": "https://www.producthunt.com/products/karve",
       "tagline": "",
       "pub_date": "2026-06-14T14:11:39-07:00"
+    },
+    {
+      "title": "space ocr",
+      "url": "https://www.producthunt.com/products/space-ocr",
+      "tagline": "",
+      "pub_date": "2026-07-30T23:50:04-07:00"
+    },
+    {
+      "title": "Glasp MCP Connector",
+      "url": "https://www.producthunt.com/products/glasp-mcp-connector",
+      "tagline": "",
+      "pub_date": "2026-08-03T11:39:20-07:00"
+    },
+    {
+      "title": "GrowthBook 5.0",
+      "url": "https://www.producthunt.com/products/growthbook",
+      "tagline": "",
+      "pub_date": "2026-07-29T08:58:55-07:00"
+    },
+    {
+      "title": "ZapDigits MCP",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "tagline": "",
+      "pub_date": "2026-08-02T11:39:13-07:00"
+    },
+    {
+      "title": "Stynar",
+      "url": "https://www.producthunt.com/products/stynar",
+      "tagline": "",
+      "pub_date": "2026-08-03T21:49:37-07:00"
     },
     {
       "title": "Yokoso",
@@ -362,28 +290,46 @@
       "pub_date": "2026-07-25T00:39:23-07:00"
     },
     {
+      "title": "Vinyl for Mac",
+      "url": "https://www.producthunt.com/products/vinyl-for-mac",
+      "tagline": "",
+      "pub_date": "2026-08-02T22:19:33-07:00"
+    },
+    {
       "title": "ScrollToll",
       "url": "https://www.producthunt.com/products/scrolltoll-2",
       "tagline": "",
       "pub_date": "2026-07-25T01:22:01-07:00"
     },
     {
-      "title": "Airtop for Google Ads Automation",
-      "url": "https://www.producthunt.com/products/airtop",
+      "title": "MOTHER",
+      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
       "tagline": "",
-      "pub_date": "2026-07-21T14:35:15-07:00"
+      "pub_date": "2026-08-03T12:21:35-07:00"
     },
     {
-      "title": "mpai",
-      "url": "https://www.producthunt.com/products/mpai",
+      "title": "Crodo AI",
+      "url": "https://www.producthunt.com/products/crodo-ai",
       "tagline": "",
-      "pub_date": "2026-08-02T13:12:27-07:00"
+      "pub_date": "2026-07-27T07:28:16-07:00"
     },
     {
       "title": "Murmell",
       "url": "https://www.producthunt.com/products/murmell",
       "tagline": "",
       "pub_date": "2026-08-02T19:46:50-07:00"
+    },
+    {
+      "title": "AgentSky",
+      "url": "https://www.producthunt.com/products/agentsky",
+      "tagline": "",
+      "pub_date": "2026-07-30T21:59:22-07:00"
+    },
+    {
+      "title": "Appllama",
+      "url": "https://www.producthunt.com/products/appllama",
+      "tagline": "",
+      "pub_date": "2026-08-02T09:38:54-07:00"
     }
   ]
 }

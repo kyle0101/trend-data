@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-04T01:50:09.473Z",
+  "generated_at": "2026-08-04T08:24:44.307Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "hn_url": "https://news.ycombinator.com/item?id=49158333",
+      "points": 152,
+      "comments": 61,
+      "created_ts": 1785776055,
+      "author": "leonickson"
+    },
+    {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
       "url": "https://github.com/garagehq/nightcrawler/",
       "hn_url": "https://news.ycombinator.com/item?id=49154127",
-      "points": 103,
-      "comments": 30,
+      "points": 110,
+      "comments": 32,
       "created_ts": 1785755175,
       "author": "NickySlicks"
     },
@@ -16,8 +25,8 @@
       "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
       "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
       "hn_url": "https://news.ycombinator.com/item?id=49152871",
-      "points": 68,
-      "comments": 34,
+      "points": 70,
+      "comments": 35,
       "created_ts": 1785746064,
       "author": "uneven9434"
     },
@@ -25,7 +34,7 @@
       "title": "Show HN: Hacker News with AI stories filtered out",
       "url": "https://hcker.news/?view=frontpage&ai=exclude",
       "hn_url": "https://news.ycombinator.com/item?id=49159018",
-      "points": 43,
+      "points": 47,
       "comments": 9,
       "created_ts": 1785778796,
       "author": "postalcoder"
@@ -34,19 +43,10 @@
       "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
       "url": "https://armature.tech/",
       "hn_url": "https://news.ycombinator.com/item?id=49157807",
-      "points": 37,
+      "points": 40,
       "comments": 2,
       "created_ts": 1785773879,
       "author": "screm"
-    },
-    {
-      "title": "Show HN: New Parts for Old Computers",
-      "url": "https://newold.computer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49151220",
-      "points": 15,
-      "comments": 1,
-      "created_ts": 1785731306,
-      "author": "joshu"
     },
     {
       "title": "Show HN: Mstat a temperature and stat tracker for macOS in Zig and SwiftUI",
@@ -69,29 +69,29 @@
   ],
   "hn_front": [
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "hn_url": "https://news.ycombinator.com/item?id=49156111",
-      "points": 502,
-      "comments": 178,
-      "created_ts": 1785766547,
-      "author": "bryanmikaelian"
-    },
-    {
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "hn_url": "https://news.ycombinator.com/item?id=49161518",
-      "points": 441,
-      "comments": 192,
+      "points": 862,
+      "comments": 354,
       "created_ts": 1785791633,
       "author": "MaxMussio"
+    },
+    {
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "hn_url": "https://news.ycombinator.com/item?id=49156111",
+      "points": 588,
+      "comments": 199,
+      "created_ts": 1785766547,
+      "author": "bryanmikaelian"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "hn_url": "https://news.ycombinator.com/item?id=49157930",
-      "points": 430,
-      "comments": 715,
+      "points": 525,
+      "comments": 804,
       "created_ts": 1785774432,
       "author": "milkshakes"
     },
@@ -99,8 +99,8 @@
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "hn_url": "https://news.ycombinator.com/item?id=49153374",
-      "points": 384,
-      "comments": 329,
+      "points": 471,
+      "comments": 381,
       "created_ts": 1785749527,
       "author": "mpweiher"
     },
@@ -108,8 +108,8 @@
       "title": "Bonsai: Janestreet's UI Library",
       "url": "https://github.com/janestreet/bonsai",
       "hn_url": "https://news.ycombinator.com/item?id=49152842",
-      "points": 304,
-      "comments": 126,
+      "points": 345,
+      "comments": 144,
       "created_ts": 1785745797,
       "author": "KolmogorovComp"
     },
@@ -117,8 +117,8 @@
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "hn_url": "https://news.ycombinator.com/item?id=49156011",
-      "points": 272,
-      "comments": 56,
+      "points": 307,
+      "comments": 63,
       "created_ts": 1785766140,
       "author": "nikolay_sivko"
     },
@@ -126,186 +126,222 @@
       "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
       "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
       "hn_url": "https://news.ycombinator.com/item?id=49155629",
-      "points": 254,
-      "comments": 79,
+      "points": 293,
+      "comments": 85,
       "created_ts": 1785764083,
       "author": "vblanco"
-    },
-    {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "hn_url": "https://news.ycombinator.com/item?id=49154228",
-      "points": 188,
-      "comments": 76,
-      "created_ts": 1785755748,
-      "author": "Anon84"
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "hn_url": "https://news.ycombinator.com/item?id=49158581",
-      "points": 144,
-      "comments": 39,
-      "created_ts": 1785776926,
-      "author": "ascorbic"
-    },
-    {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "hn_url": "https://news.ycombinator.com/item?id=49158474",
-      "points": 126,
-      "comments": 35,
-      "created_ts": 1785776530,
-      "author": "roryirvine"
-    },
-    {
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-      "hn_url": "https://news.ycombinator.com/item?id=49160437",
-      "points": 123,
-      "comments": 129,
-      "created_ts": 1785785974,
-      "author": "audreyfei"
     },
     {
       "title": "Twenty Years of Pandoc",
       "url": "https://pandoc.org/twenty-years-of-pandoc.html",
       "hn_url": "https://news.ycombinator.com/item?id=49156750",
-      "points": 109,
-      "comments": 15,
+      "points": 228,
+      "comments": 29,
       "created_ts": 1785769493,
       "author": "fiddlosopher"
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=49158581",
+      "points": 209,
+      "comments": 50,
+      "created_ts": 1785776926,
+      "author": "ascorbic"
     },
     {
       "title": "Ask HN: Who is hiring? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49156683",
       "hn_url": "https://news.ycombinator.com/item?id=49156683",
-      "points": 104,
-      "comments": 103,
+      "points": 166,
+      "comments": 149,
+      "created_ts": 1785769254,
+      "author": "whoishiring"
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "hn_url": "https://news.ycombinator.com/item?id=49158474",
+      "points": 157,
+      "comments": 40,
+      "created_ts": 1785776530,
+      "author": "roryirvine"
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "hn_url": "https://news.ycombinator.com/item?id=49164649",
+      "points": 153,
+      "comments": 148,
+      "created_ts": 1785821533,
+      "author": "meetpateltech"
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "hn_url": "https://news.ycombinator.com/item?id=49158333",
+      "points": 152,
+      "comments": 61,
+      "created_ts": 1785776055,
+      "author": "leonickson"
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49162653",
+      "points": 139,
+      "comments": 53,
+      "created_ts": 1785799493,
+      "author": "pmg101"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156682",
+      "hn_url": "https://news.ycombinator.com/item?id=49156682",
+      "points": 109,
+      "comments": 260,
       "created_ts": 1785769254,
       "author": "whoishiring"
     }
   ],
   "ph_today": [
     {
-      "title": "claudemon",
-      "url": "https://www.producthunt.com/products/claudemon",
+      "title": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
       "tagline": "",
-      "pub_date": "2026-08-02T10:23:42-07:00"
+      "pub_date": "2026-07-30T01:30:05-07:00"
     },
     {
-      "title": "MascotAI",
-      "url": "https://www.producthunt.com/products/mascotai",
+      "title": "MOTHER",
+      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
       "tagline": "",
-      "pub_date": "2026-08-02T23:19:32-07:00"
+      "pub_date": "2026-08-03T12:21:35-07:00"
     },
     {
-      "title": "Plethora",
-      "url": "https://www.producthunt.com/products/plethora-3",
+      "title": "space ocr",
+      "url": "https://www.producthunt.com/products/space-ocr",
       "tagline": "",
-      "pub_date": "2026-08-02T01:49:09-07:00"
+      "pub_date": "2026-07-30T23:50:04-07:00"
     },
     {
-      "title": "yapyap",
-      "url": "https://www.producthunt.com/products/yapyap-3",
+      "title": "ArtDeck",
+      "url": "https://www.producthunt.com/products/artdeck",
       "tagline": "",
-      "pub_date": "2026-07-07T12:30:17-07:00"
+      "pub_date": "2026-07-05T12:50:43-07:00"
     },
     {
-      "title": "Hand Wave",
-      "url": "https://www.producthunt.com/products/hand-wave",
+      "title": "Driven",
+      "url": "https://www.producthunt.com/products/driven-ai",
       "tagline": "",
-      "pub_date": "2026-07-17T23:13:43-07:00"
+      "pub_date": "2026-07-21T19:16:19-07:00"
     },
     {
-      "title": "Appllama",
-      "url": "https://www.producthunt.com/products/appllama",
+      "title": "Karve",
+      "url": "https://www.producthunt.com/products/karve",
       "tagline": "",
-      "pub_date": "2026-08-02T09:38:54-07:00"
+      "pub_date": "2026-06-14T14:11:39-07:00"
     },
     {
-      "title": "Qwen3.8-Max",
-      "url": "https://www.producthunt.com/products/qwen3",
+      "title": "AirProof AI",
+      "url": "https://www.producthunt.com/products/airproof-ai",
       "tagline": "",
-      "pub_date": "2026-08-02T20:55:30-07:00"
+      "pub_date": "2026-07-31T12:11:12-07:00"
     },
     {
-      "title": "Airtop for Google Ads Automation",
-      "url": "https://www.producthunt.com/products/airtop",
+      "title": "Vibe Buddy",
+      "url": "https://www.producthunt.com/products/vibe-buddy",
       "tagline": "",
-      "pub_date": "2026-07-21T14:35:15-07:00"
+      "pub_date": "2026-08-03T01:36:13-07:00"
     },
     {
-      "title": "AgentSky",
-      "url": "https://www.producthunt.com/products/agentsky",
+      "title": "Hey Noah",
+      "url": "https://www.producthunt.com/products/hey-noah",
       "tagline": "",
-      "pub_date": "2026-07-30T21:59:22-07:00"
+      "pub_date": "2026-03-05T08:16:39-08:00"
     },
     {
-      "title": "Open Minis",
-      "url": "https://www.producthunt.com/products/open-minis",
+      "title": "Atlaso",
+      "url": "https://www.producthunt.com/products/atlaso",
       "tagline": "",
-      "pub_date": "2026-08-02T07:34:55-07:00"
+      "pub_date": "2026-07-18T15:04:00-07:00"
     },
     {
-      "title": "The Garden of Mind",
-      "url": "https://www.producthunt.com/products/the-garden-of-mind",
+      "title": "GrowthBook 5.0",
+      "url": "https://www.producthunt.com/products/growthbook",
       "tagline": "",
-      "pub_date": "2026-08-02T13:19:35-07:00"
+      "pub_date": "2026-07-29T08:58:55-07:00"
     },
     {
-      "title": "Murmell",
-      "url": "https://www.producthunt.com/products/murmell",
+      "title": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
       "tagline": "",
-      "pub_date": "2026-08-02T19:46:50-07:00"
+      "pub_date": "2026-08-03T11:14:47-07:00"
     },
     {
-      "title": "CoachAI",
-      "url": "https://www.producthunt.com/products/coachai-fitness-coach",
+      "title": "Domo",
+      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
       "tagline": "",
-      "pub_date": "2026-08-01T16:15:00-07:00"
+      "pub_date": "2026-07-24T12:13:39-07:00"
     },
     {
-      "title": "Ctruh Studio",
-      "url": "https://www.producthunt.com/products/ctruh-studio",
+      "title": "Screen Awesome",
+      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
       "tagline": "",
-      "pub_date": "2026-07-31T06:09:11-07:00"
+      "pub_date": "2026-08-03T01:00:36-07:00"
     },
     {
-      "title": "Inventory",
-      "url": "https://www.producthunt.com/products/inventory",
+      "title": "Crodo AI",
+      "url": "https://www.producthunt.com/products/crodo-ai",
       "tagline": "",
-      "pub_date": "2026-08-02T03:51:43-07:00"
+      "pub_date": "2026-07-27T07:28:16-07:00"
     },
     {
-      "title": "gesture.live",
-      "url": "https://www.producthunt.com/products/gesture-live",
+      "title": "FileFlippers",
+      "url": "https://www.producthunt.com/products/fileflippers",
       "tagline": "",
-      "pub_date": "2026-08-02T01:50:04-07:00"
+      "pub_date": "2026-07-20T08:33:31-07:00"
     },
     {
-      "title": "MacDupl",
-      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "title": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
       "tagline": "",
-      "pub_date": "2026-08-02T08:30:50-07:00"
+      "pub_date": "2026-08-03T12:35:56-07:00"
     },
     {
-      "title": "Snapdown",
-      "url": "https://www.producthunt.com/products/snapdown-2",
+      "title": "Tixio 3.0",
+      "url": "https://www.producthunt.com/products/tixio-io",
       "tagline": "",
-      "pub_date": "2026-08-02T00:44:35-07:00"
+      "pub_date": "2026-05-19T22:32:18-07:00"
     },
     {
-      "title": "mpai",
-      "url": "https://www.producthunt.com/products/mpai",
+      "title": "Glasp MCP Connector",
+      "url": "https://www.producthunt.com/products/glasp-mcp-connector",
       "tagline": "",
-      "pub_date": "2026-08-02T13:12:27-07:00"
+      "pub_date": "2026-08-03T11:39:20-07:00"
     },
     {
-      "title": "Doxy",
-      "url": "https://www.producthunt.com/products/doxy-2",
+      "title": "ZapDigits MCP",
+      "url": "https://www.producthunt.com/products/zapdigits",
       "tagline": "",
-      "pub_date": "2026-08-02T12:55:08-07:00"
+      "pub_date": "2026-08-02T11:39:13-07:00"
+    },
+    {
+      "title": "ScrollToll",
+      "url": "https://www.producthunt.com/products/scrolltoll-2",
+      "tagline": "",
+      "pub_date": "2026-07-25T01:22:01-07:00"
+    },
+    {
+      "title": "Wondering",
+      "url": "https://www.producthunt.com/products/wondering-2",
+      "tagline": "",
+      "pub_date": "2026-07-30T00:14:31-07:00"
+    },
+    {
+      "title": "SpeakoFlow",
+      "url": "https://www.producthunt.com/products/speakoflow",
+      "tagline": "",
+      "pub_date": "2026-08-03T01:34:16-07:00"
     },
     {
       "title": "PassiveShorts",
@@ -314,58 +350,40 @@
       "pub_date": "2026-07-24T09:35:01-07:00"
     },
     {
-      "title": "Zen Whisper",
-      "url": "https://www.producthunt.com/products/zen-whisper",
+      "title": "MacDupl",
+      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
       "tagline": "",
-      "pub_date": "2026-07-31T07:55:35-07:00"
+      "pub_date": "2026-08-02T08:30:50-07:00"
     },
     {
-      "title": "YourSitee",
-      "url": "https://www.producthunt.com/products/yoursitee",
+      "title": "Doxy",
+      "url": "https://www.producthunt.com/products/doxy-2",
       "tagline": "",
-      "pub_date": "2025-01-05T03:02:42-08:00"
+      "pub_date": "2026-08-02T12:55:08-07:00"
     },
     {
-      "title": "UniwebPay Skill",
-      "url": "https://www.producthunt.com/products/uniwebpay",
+      "title": "gesture.live",
+      "url": "https://www.producthunt.com/products/gesture-live",
       "tagline": "",
-      "pub_date": "2026-07-14T14:27:49-07:00"
+      "pub_date": "2026-08-02T01:50:04-07:00"
     },
     {
-      "title": "Bolcho AI",
-      "url": "https://www.producthunt.com/products/bolcho-ai",
+      "title": "CoachAI",
+      "url": "https://www.producthunt.com/products/coachai-fitness-coach",
       "tagline": "",
-      "pub_date": "2026-08-01T15:44:45-07:00"
+      "pub_date": "2026-08-01T16:15:00-07:00"
     },
     {
-      "title": "Termexo",
-      "url": "https://www.producthunt.com/products/termexo",
+      "title": "Plethora",
+      "url": "https://www.producthunt.com/products/plethora-3",
       "tagline": "",
-      "pub_date": "2026-08-01T23:05:43-07:00"
+      "pub_date": "2026-08-02T01:49:09-07:00"
     },
     {
-      "title": "Lumichats",
-      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "title": "Snapdown",
+      "url": "https://www.producthunt.com/products/snapdown-2",
       "tagline": "",
-      "pub_date": "2026-08-01T07:10:42-07:00"
-    },
-    {
-      "title": "TimeOS 2.0",
-      "url": "https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro",
-      "tagline": "",
-      "pub_date": "2026-07-31T15:17:20-07:00"
-    },
-    {
-      "title": "Capptivo",
-      "url": "https://www.producthunt.com/products/capptivo",
-      "tagline": "",
-      "pub_date": "2026-07-31T21:40:38-07:00"
-    },
-    {
-      "title": "FreqWave EQ",
-      "url": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
-      "tagline": "",
-      "pub_date": "2026-07-28T06:53:12-07:00"
+      "pub_date": "2026-08-02T00:44:35-07:00"
     }
   ]
 }

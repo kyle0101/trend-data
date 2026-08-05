@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:50:49.813Z",
+  "generated_at": "2026-08-05T08:23:05.397Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "hn_url": "https://news.ycombinator.com/item?id=49170165",
-      "points": 466,
-      "comments": 88,
+      "points": 516,
+      "comments": 92,
       "created_ts": 1785856582,
       "author": "automatoney"
     },
@@ -16,44 +16,44 @@
       "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
       "url": "https://github.com/MakazhanAlpamys/Soup",
       "hn_url": "https://news.ycombinator.com/item?id=49166984",
-      "points": 119,
-      "comments": 23,
+      "points": 127,
+      "comments": 26,
       "created_ts": 1785842277,
       "author": "MakazhanAlpamys"
     },
     {
-      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
       "hn_url": "https://news.ycombinator.com/item?id=49173984",
-      "points": 46,
-      "comments": 11,
+      "points": 105,
+      "comments": 30,
       "created_ts": 1785872695,
       "author": "edwardbzhang"
-    },
-    {
-      "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
-      "url": "https://github.com/Chiaro-HQ/methodology",
-      "hn_url": "https://news.ycombinator.com/item?id=49171140",
-      "points": 32,
-      "comments": 14,
-      "created_ts": 1785860823,
-      "author": "yylyyl"
     },
     {
       "title": "Show HN: SIMD Viterbi Decoder in Rust",
       "url": "https://github.com/brian-armstrong/fec",
       "hn_url": "https://news.ycombinator.com/item?id=49176212",
-      "points": 21,
-      "comments": 1,
+      "points": 43,
+      "comments": 3,
       "created_ts": 1785883025,
       "author": "brian-armstrong"
+    },
+    {
+      "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+      "url": "https://github.com/Chiaro-HQ/methodology",
+      "hn_url": "https://news.ycombinator.com/item?id=49171140",
+      "points": 34,
+      "comments": 14,
+      "created_ts": 1785860823,
+      "author": "yylyyl"
     },
     {
       "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
       "url": "https://jido.run/blog/jido-assembly-slack-clone",
       "hn_url": "https://news.ycombinator.com/item?id=49170704",
-      "points": 17,
-      "comments": 0,
+      "points": 20,
+      "comments": 1,
       "created_ts": 1785858977,
       "author": "mikehostetler"
     },
@@ -74,6 +74,15 @@
       "comments": 0,
       "created_ts": 1785850004,
       "author": "SteveVitali"
+    },
+    {
+      "title": "Show HN: OpenEdit – Your coding agent can now edit videos",
+      "url": "https://github.com/veedstudio/open-edit",
+      "hn_url": "https://news.ycombinator.com/item?id=49169818",
+      "points": 11,
+      "comments": 3,
+      "created_ts": 1785855135,
+      "author": "sabbakeynejad"
     }
   ],
   "hn_front": [
@@ -81,17 +90,26 @@
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
       "hn_url": "https://news.ycombinator.com/item?id=49173165",
-      "points": 927,
-      "comments": 51,
+      "points": 1302,
+      "comments": 74,
       "created_ts": 1785869498,
       "author": "jdcampolargo"
+    },
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "hn_url": "https://news.ycombinator.com/item?id=49167448",
+      "points": 635,
+      "comments": 665,
+      "created_ts": 1785844862,
+      "author": "surprisetalk"
     },
     {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "hn_url": "https://news.ycombinator.com/item?id=49170165",
-      "points": 466,
-      "comments": 88,
+      "points": 516,
+      "comments": 92,
       "created_ts": 1785856582,
       "author": "automatoney"
     },
@@ -99,159 +117,180 @@
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
       "hn_url": "https://news.ycombinator.com/item?id=49171268",
-      "points": 307,
-      "comments": 74,
+      "points": 393,
+      "comments": 97,
       "created_ts": 1785861365,
       "author": "riadsila"
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "points": 321,
+      "comments": 125,
+      "created_ts": 1785882132,
+      "author": "luispa"
     },
     {
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
       "hn_url": "https://news.ycombinator.com/item?id=49172836",
-      "points": 249,
-      "comments": 365,
+      "points": 288,
+      "comments": 495,
       "created_ts": 1785868181,
       "author": "xnx"
-    },
-    {
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "hn_url": "https://news.ycombinator.com/item?id=49166874",
-      "points": 232,
-      "comments": 124,
-      "created_ts": 1785841297,
-      "author": "cimi_"
-    },
-    {
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "hn_url": "https://news.ycombinator.com/item?id=49175192",
-      "points": 228,
-      "comments": 61,
-      "created_ts": 1785877779,
-      "author": "stymaar"
-    },
-    {
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "hn_url": "https://news.ycombinator.com/item?id=49174407",
-      "points": 185,
-      "comments": 84,
-      "created_ts": 1785874420,
-      "author": "depr"
     },
     {
       "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
       "url": "https://twitter.com/gwern/status/2084739205071343837",
       "hn_url": "https://news.ycombinator.com/item?id=49174900",
-      "points": 168,
-      "comments": 84,
+      "points": 270,
+      "comments": 170,
       "created_ts": 1785876497,
       "author": "mattsterett"
-    },
-    {
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "hn_url": "https://news.ycombinator.com/item?id=49175826",
-      "points": 140,
-      "comments": 98,
-      "created_ts": 1785880901,
-      "author": "bookofjoe"
     },
     {
       "title": "libexpat now funded by the City of Munich for up to 6 months",
       "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "hn_url": "https://news.ycombinator.com/item?id=49176606",
-      "points": 118,
-      "comments": 4,
+      "points": 257,
+      "comments": 41,
       "created_ts": 1785885492,
       "author": "spyc"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49175826",
+      "points": 219,
+      "comments": 167,
+      "created_ts": 1785880901,
+      "author": "bookofjoe"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "hn_url": "https://news.ycombinator.com/item?id=49176830",
+      "points": 194,
+      "comments": 158,
+      "created_ts": 1785887452,
+      "author": "tchalla"
+    },
+    {
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176055",
+      "points": 119,
+      "comments": 99,
+      "created_ts": 1785882240,
+      "author": "seg6"
+    },
+    {
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49173984",
+      "points": 105,
+      "comments": 30,
+      "created_ts": 1785872695,
+      "author": "edwardbzhang"
     }
   ],
   "ph_today": [
     {
-      "title": "Screen Awesome",
-      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
+      "title": "npm i -g hotcell",
+      "url": "https://www.producthunt.com/products/npm-i-g-hotcell",
       "tagline": "",
-      "pub_date": "2026-08-03T01:00:36-07:00"
+      "pub_date": "2026-08-02T19:39:07-07:00"
     },
     {
-      "title": "Driven",
-      "url": "https://www.producthunt.com/products/driven-ai",
+      "title": "Wispr Flow Notetaker",
+      "url": "https://www.producthunt.com/products/wisprflow",
       "tagline": "",
-      "pub_date": "2026-07-21T19:16:19-07:00"
+      "pub_date": "2026-08-04T08:22:48-07:00"
     },
     {
-      "title": "Dashi Metrics",
-      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "title": "Keytones",
+      "url": "https://www.producthunt.com/products/keytones-for-mac",
       "tagline": "",
-      "pub_date": "2026-07-30T01:30:05-07:00"
+      "pub_date": "2026-07-21T10:35:06-07:00"
     },
     {
-      "title": "Atlaso",
-      "url": "https://www.producthunt.com/products/atlaso",
+      "title": "NextDoor.Company",
+      "url": "https://www.producthunt.com/products/nextdoor-company",
       "tagline": "",
-      "pub_date": "2026-07-18T15:04:00-07:00"
+      "pub_date": "2026-08-03T23:58:44-07:00"
     },
     {
-      "title": "Wondering",
-      "url": "https://www.producthunt.com/products/wondering-2",
+      "title": "BackEngine MCP",
+      "url": "https://www.producthunt.com/products/backengine-mcp",
       "tagline": "",
-      "pub_date": "2026-07-30T00:14:31-07:00"
+      "pub_date": "2026-08-04T14:56:41-07:00"
     },
     {
-      "title": "Hey Noah",
-      "url": "https://www.producthunt.com/products/hey-noah",
+      "title": "Dover MCP",
+      "url": "https://www.producthunt.com/products/dover",
       "tagline": "",
-      "pub_date": "2026-03-05T08:16:39-08:00"
+      "pub_date": "2026-08-04T16:35:35-07:00"
     },
     {
-      "title": "Domo",
-      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
+      "title": "Cloudflare Wallets",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-07-24T12:13:39-07:00"
+      "pub_date": "2026-08-04T08:40:39-07:00"
     },
     {
-      "title": "FileFlippers",
-      "url": "https://www.producthunt.com/products/fileflippers",
+      "title": "Keystroke",
+      "url": "https://www.producthunt.com/products/keystroke-2",
       "tagline": "",
-      "pub_date": "2026-07-20T08:33:31-07:00"
+      "pub_date": "2026-08-04T12:29:34-07:00"
     },
     {
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
       "tagline": "",
-      "pub_date": "2026-08-03T12:35:56-07:00"
+      "pub_date": "2026-07-16T11:20:20-07:00"
     },
     {
-      "title": "GrowthBook 5.0",
-      "url": "https://www.producthunt.com/products/growthbook",
+      "title": "X Money",
+      "url": "https://www.producthunt.com/products/x-money-2",
       "tagline": "",
-      "pub_date": "2026-07-29T08:58:55-07:00"
+      "pub_date": "2026-08-04T13:51:31-07:00"
     },
     {
-      "title": "Snipplet",
-      "url": "https://www.producthunt.com/products/snipplet",
+      "title": "Kiro Crew",
+      "url": "https://www.producthunt.com/products/kiro",
       "tagline": "",
-      "pub_date": "2026-08-03T23:15:21-07:00"
+      "pub_date": "2026-08-04T11:07:24-07:00"
     },
     {
-      "title": "Finyuus",
-      "url": "https://www.producthunt.com/products/finyuus",
+      "title": "ngrok AI Gateway",
+      "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
       "tagline": "",
-      "pub_date": "2026-08-03T11:14:47-07:00"
+      "pub_date": "2026-07-23T12:29:44-07:00"
     },
     {
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
+      "title": "Capacity Desktop",
+      "url": "https://www.producthunt.com/products/capacity",
       "tagline": "",
-      "pub_date": "2026-08-03T01:34:16-07:00"
+      "pub_date": "2026-07-28T06:54:05-07:00"
     },
     {
-      "title": "ScrollToll",
-      "url": "https://www.producthunt.com/products/scrolltoll-2",
+      "title": "Aegisora",
+      "url": "https://www.producthunt.com/products/aegisora",
       "tagline": "",
-      "pub_date": "2026-07-25T01:22:01-07:00"
+      "pub_date": "2026-07-31T21:06:08-07:00"
+    },
+    {
+      "title": "AdAnt AI",
+      "url": "https://www.producthunt.com/products/adant-ai",
+      "tagline": "",
+      "pub_date": "2026-07-31T22:39:48-07:00"
+    },
+    {
+      "title": "Hansel",
+      "url": "https://www.producthunt.com/products/hansel-2",
+      "tagline": "",
+      "pub_date": "2026-08-04T23:59:36-07:00"
     },
     {
       "title": "AirProof AI",
@@ -260,22 +299,22 @@
       "pub_date": "2026-07-31T12:11:12-07:00"
     },
     {
-      "title": "Stynar",
-      "url": "https://www.producthunt.com/products/stynar",
+      "title": "Screen Awesome",
+      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
       "tagline": "",
-      "pub_date": "2026-08-03T21:49:37-07:00"
+      "pub_date": "2026-08-03T01:00:36-07:00"
     },
     {
-      "title": "Crodo AI",
-      "url": "https://www.producthunt.com/products/crodo-ai",
+      "title": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
       "tagline": "",
-      "pub_date": "2026-07-27T07:28:16-07:00"
+      "pub_date": "2026-08-03T11:14:47-07:00"
     },
     {
-      "title": "Vibe Buddy",
-      "url": "https://www.producthunt.com/products/vibe-buddy",
+      "title": "FileFlippers",
+      "url": "https://www.producthunt.com/products/fileflippers",
       "tagline": "",
-      "pub_date": "2026-08-03T01:36:13-07:00"
+      "pub_date": "2026-07-20T08:33:31-07:00"
     },
     {
       "title": "Tixio 3.0",
@@ -284,10 +323,16 @@
       "pub_date": "2026-05-19T22:32:18-07:00"
     },
     {
-      "title": "MOTHER",
-      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
+      "title": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
       "tagline": "",
-      "pub_date": "2026-08-03T12:21:35-07:00"
+      "pub_date": "2026-07-30T01:30:05-07:00"
+    },
+    {
+      "title": "Crodo AI",
+      "url": "https://www.producthunt.com/products/crodo-ai",
+      "tagline": "",
+      "pub_date": "2026-07-27T07:28:16-07:00"
     },
     {
       "title": "Glasp MCP Connector",
@@ -296,28 +341,16 @@
       "pub_date": "2026-08-03T11:39:20-07:00"
     },
     {
-      "title": "ZapDigits MCP",
-      "url": "https://www.producthunt.com/products/zapdigits",
+      "title": "Stynar",
+      "url": "https://www.producthunt.com/products/stynar",
       "tagline": "",
-      "pub_date": "2026-08-02T11:39:13-07:00"
+      "pub_date": "2026-08-03T21:49:37-07:00"
     },
     {
-      "title": "Vinyl for Mac",
-      "url": "https://www.producthunt.com/products/vinyl-for-mac",
+      "title": "SpeakoFlow",
+      "url": "https://www.producthunt.com/products/speakoflow",
       "tagline": "",
-      "pub_date": "2026-08-02T22:19:33-07:00"
-    },
-    {
-      "title": "Yokoso",
-      "url": "https://www.producthunt.com/products/yokoso-2",
-      "tagline": "",
-      "pub_date": "2026-07-25T00:39:23-07:00"
-    },
-    {
-      "title": "space ocr",
-      "url": "https://www.producthunt.com/products/space-ocr",
-      "tagline": "",
-      "pub_date": "2026-07-30T23:50:04-07:00"
+      "pub_date": "2026-08-03T01:34:16-07:00"
     },
     {
       "title": "Karve",
@@ -326,28 +359,22 @@
       "pub_date": "2026-06-14T14:11:39-07:00"
     },
     {
-      "title": "ArtDeck",
-      "url": "https://www.producthunt.com/products/artdeck",
+      "title": "Snipplet",
+      "url": "https://www.producthunt.com/products/snipplet",
       "tagline": "",
-      "pub_date": "2026-07-05T12:50:43-07:00"
+      "pub_date": "2026-08-03T23:15:21-07:00"
     },
     {
-      "title": "gesture.live",
-      "url": "https://www.producthunt.com/products/gesture-live",
+      "title": "Atlaso",
+      "url": "https://www.producthunt.com/products/atlaso",
       "tagline": "",
-      "pub_date": "2026-08-02T01:50:04-07:00"
+      "pub_date": "2026-07-18T15:04:00-07:00"
     },
     {
-      "title": "MacDupl",
-      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "title": "Driven",
+      "url": "https://www.producthunt.com/products/driven-ai",
       "tagline": "",
-      "pub_date": "2026-08-02T08:30:50-07:00"
-    },
-    {
-      "title": "mpai",
-      "url": "https://www.producthunt.com/products/mpai",
-      "tagline": "",
-      "pub_date": "2026-08-02T13:12:27-07:00"
+      "pub_date": "2026-07-21T19:16:19-07:00"
     }
   ]
 }

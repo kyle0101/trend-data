@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:21:07.636Z",
+  "generated_at": "2026-08-05T01:50:49.813Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "hn_url": "https://news.ycombinator.com/item?id=49170165",
-      "points": 289,
-      "comments": 68,
+      "points": 466,
+      "comments": 88,
       "created_ts": 1785856582,
       "author": "automatoney"
     },
@@ -16,19 +16,46 @@
       "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
       "url": "https://github.com/MakazhanAlpamys/Soup",
       "hn_url": "https://news.ycombinator.com/item?id=49166984",
-      "points": 105,
-      "comments": 18,
+      "points": 119,
+      "comments": 23,
       "created_ts": 1785842277,
       "author": "MakazhanAlpamys"
+    },
+    {
+      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49173984",
+      "points": 46,
+      "comments": 11,
+      "created_ts": 1785872695,
+      "author": "edwardbzhang"
     },
     {
       "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
       "url": "https://github.com/Chiaro-HQ/methodology",
       "hn_url": "https://news.ycombinator.com/item?id=49171140",
-      "points": 29,
+      "points": 32,
       "comments": 14,
       "created_ts": 1785860823,
       "author": "yylyyl"
+    },
+    {
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "hn_url": "https://news.ycombinator.com/item?id=49176212",
+      "points": 21,
+      "comments": 1,
+      "created_ts": 1785883025,
+      "author": "brian-armstrong"
+    },
+    {
+      "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+      "url": "https://jido.run/blog/jido-assembly-slack-clone",
+      "hn_url": "https://news.ycombinator.com/item?id=49170704",
+      "points": 17,
+      "comments": 0,
+      "created_ts": 1785858977,
+      "author": "mikehostetler"
     },
     {
       "title": "Show HN: I made a private self-destructing image hosting site in Golang",
@@ -38,15 +65,6 @@
       "comments": 35,
       "created_ts": 1785832752,
       "author": "shelldweller"
-    },
-    {
-      "title": "Show HN: LarpIn – LinkedIn, but everyone admits they're larping, one global feed",
-      "url": "https://larpin.io",
-      "hn_url": "https://news.ycombinator.com/item?id=49162898",
-      "points": 12,
-      "comments": 6,
-      "created_ts": 1785801645,
-      "author": "joeamroo"
     },
     {
       "title": "Show HN: Implement-spec – a harness-agnostic spec-to-verified-PR agent skill",
@@ -60,138 +78,102 @@
   ],
   "hn_front": [
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "hn_url": "https://news.ycombinator.com/item?id=49167448",
-      "points": 455,
-      "comments": 514,
-      "created_ts": 1785844862,
-      "author": "surprisetalk"
-    },
-    {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "hn_url": "https://news.ycombinator.com/item?id=49166386",
-      "points": 317,
-      "comments": 73,
-      "created_ts": 1785837655,
-      "author": "zhoutong"
-    },
-    {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49162653",
-      "points": 298,
-      "comments": 335,
-      "created_ts": 1785799493,
-      "author": "pmg101"
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "hn_url": "https://news.ycombinator.com/item?id=49173165",
+      "points": 927,
+      "comments": 51,
+      "created_ts": 1785869498,
+      "author": "jdcampolargo"
     },
     {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "hn_url": "https://news.ycombinator.com/item?id=49170165",
-      "points": 289,
-      "comments": 68,
+      "points": 466,
+      "comments": 88,
       "created_ts": 1785856582,
       "author": "automatoney"
     },
     {
-      "title": "Harness engineering for self-improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "hn_url": "https://news.ycombinator.com/item?id=49164896",
-      "points": 255,
-      "comments": 55,
-      "created_ts": 1785824274,
-      "author": "tosh"
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "hn_url": "https://news.ycombinator.com/item?id=49171268",
+      "points": 307,
+      "comments": 74,
+      "created_ts": 1785861365,
+      "author": "riadsila"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49170479",
-      "points": 212,
-      "comments": 154,
-      "created_ts": 1785857862,
-      "author": "thewebguyd"
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "hn_url": "https://news.ycombinator.com/item?id=49172836",
+      "points": 249,
+      "comments": 365,
+      "created_ts": 1785868181,
+      "author": "xnx"
     },
     {
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "hn_url": "https://news.ycombinator.com/item?id=49166874",
-      "points": 192,
-      "comments": 98,
+      "points": 232,
+      "comments": 124,
       "created_ts": 1785841297,
       "author": "cimi_"
     },
     {
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49166860",
-      "points": 166,
-      "comments": 243,
-      "created_ts": 1785841148,
-      "author": "tcp_handshaker"
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "hn_url": "https://news.ycombinator.com/item?id=49175192",
+      "points": 228,
+      "comments": 61,
+      "created_ts": 1785877779,
+      "author": "stymaar"
     },
     {
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-      "hn_url": "https://news.ycombinator.com/item?id=49170001",
-      "points": 157,
-      "comments": 51,
-      "created_ts": 1785855933,
-      "author": "speckx"
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "hn_url": "https://news.ycombinator.com/item?id=49174407",
+      "points": 185,
+      "comments": 84,
+      "created_ts": 1785874420,
+      "author": "depr"
     },
     {
-      "title": "Everything I Know (1975)",
-      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "hn_url": "https://news.ycombinator.com/item?id=49167147",
-      "points": 107,
-      "comments": 31,
-      "created_ts": 1785843212,
-      "author": "simonebrunozzi"
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "hn_url": "https://news.ycombinator.com/item?id=49174900",
+      "points": 168,
+      "comments": 84,
+      "created_ts": 1785876497,
+      "author": "mattsterett"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49175826",
+      "points": 140,
+      "comments": 98,
+      "created_ts": 1785880901,
+      "author": "bookofjoe"
+    },
+    {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176606",
+      "points": 118,
+      "comments": 4,
+      "created_ts": 1785885492,
+      "author": "spyc"
     }
   ],
   "ph_today": [
-    {
-      "title": "Atlaso",
-      "url": "https://www.producthunt.com/products/atlaso",
-      "tagline": "",
-      "pub_date": "2026-07-18T15:04:00-07:00"
-    },
-    {
-      "title": "Hey Noah",
-      "url": "https://www.producthunt.com/products/hey-noah",
-      "tagline": "",
-      "pub_date": "2026-03-05T08:16:39-08:00"
-    },
-    {
-      "title": "ArtDeck",
-      "url": "https://www.producthunt.com/products/artdeck",
-      "tagline": "",
-      "pub_date": "2026-07-05T12:50:43-07:00"
-    },
-    {
-      "title": "Wondering",
-      "url": "https://www.producthunt.com/products/wondering-2",
-      "tagline": "",
-      "pub_date": "2026-07-30T00:14:31-07:00"
-    },
-    {
-      "title": "FileFlippers",
-      "url": "https://www.producthunt.com/products/fileflippers",
-      "tagline": "",
-      "pub_date": "2026-07-20T08:33:31-07:00"
-    },
     {
       "title": "Screen Awesome",
       "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
       "tagline": "",
       "pub_date": "2026-08-03T01:00:36-07:00"
-    },
-    {
-      "title": "Tixio 3.0",
-      "url": "https://www.producthunt.com/products/tixio-io",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:32:18-07:00"
     },
     {
       "title": "Driven",
@@ -200,34 +182,28 @@
       "pub_date": "2026-07-21T19:16:19-07:00"
     },
     {
-      "title": "Snipplet",
-      "url": "https://www.producthunt.com/products/snipplet",
+      "title": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
       "tagline": "",
-      "pub_date": "2026-08-03T23:15:21-07:00"
+      "pub_date": "2026-07-30T01:30:05-07:00"
     },
     {
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
+      "title": "Atlaso",
+      "url": "https://www.producthunt.com/products/atlaso",
       "tagline": "",
-      "pub_date": "2026-08-03T01:34:16-07:00"
+      "pub_date": "2026-07-18T15:04:00-07:00"
     },
     {
-      "title": "AirProof AI",
-      "url": "https://www.producthunt.com/products/airproof-ai",
+      "title": "Wondering",
+      "url": "https://www.producthunt.com/products/wondering-2",
       "tagline": "",
-      "pub_date": "2026-07-31T12:11:12-07:00"
+      "pub_date": "2026-07-30T00:14:31-07:00"
     },
     {
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
+      "title": "Hey Noah",
+      "url": "https://www.producthunt.com/products/hey-noah",
       "tagline": "",
-      "pub_date": "2026-08-03T12:35:56-07:00"
-    },
-    {
-      "title": "Finyuus",
-      "url": "https://www.producthunt.com/products/finyuus",
-      "tagline": "",
-      "pub_date": "2026-08-03T11:14:47-07:00"
+      "pub_date": "2026-03-05T08:16:39-08:00"
     },
     {
       "title": "Domo",
@@ -236,34 +212,16 @@
       "pub_date": "2026-07-24T12:13:39-07:00"
     },
     {
-      "title": "Dashi Metrics",
-      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "title": "FileFlippers",
+      "url": "https://www.producthunt.com/products/fileflippers",
       "tagline": "",
-      "pub_date": "2026-07-30T01:30:05-07:00"
+      "pub_date": "2026-07-20T08:33:31-07:00"
     },
     {
-      "title": "Vibe Buddy",
-      "url": "https://www.producthunt.com/products/vibe-buddy",
+      "title": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
       "tagline": "",
-      "pub_date": "2026-08-03T01:36:13-07:00"
-    },
-    {
-      "title": "Karve",
-      "url": "https://www.producthunt.com/products/karve",
-      "tagline": "",
-      "pub_date": "2026-06-14T14:11:39-07:00"
-    },
-    {
-      "title": "space ocr",
-      "url": "https://www.producthunt.com/products/space-ocr",
-      "tagline": "",
-      "pub_date": "2026-07-30T23:50:04-07:00"
-    },
-    {
-      "title": "Glasp MCP Connector",
-      "url": "https://www.producthunt.com/products/glasp-mcp-connector",
-      "tagline": "",
-      "pub_date": "2026-08-03T11:39:20-07:00"
+      "pub_date": "2026-08-03T12:35:56-07:00"
     },
     {
       "title": "GrowthBook 5.0",
@@ -272,28 +230,22 @@
       "pub_date": "2026-07-29T08:58:55-07:00"
     },
     {
-      "title": "ZapDigits MCP",
-      "url": "https://www.producthunt.com/products/zapdigits",
+      "title": "Snipplet",
+      "url": "https://www.producthunt.com/products/snipplet",
       "tagline": "",
-      "pub_date": "2026-08-02T11:39:13-07:00"
+      "pub_date": "2026-08-03T23:15:21-07:00"
     },
     {
-      "title": "Stynar",
-      "url": "https://www.producthunt.com/products/stynar",
+      "title": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
       "tagline": "",
-      "pub_date": "2026-08-03T21:49:37-07:00"
+      "pub_date": "2026-08-03T11:14:47-07:00"
     },
     {
-      "title": "Yokoso",
-      "url": "https://www.producthunt.com/products/yokoso-2",
+      "title": "SpeakoFlow",
+      "url": "https://www.producthunt.com/products/speakoflow",
       "tagline": "",
-      "pub_date": "2026-07-25T00:39:23-07:00"
-    },
-    {
-      "title": "Vinyl for Mac",
-      "url": "https://www.producthunt.com/products/vinyl-for-mac",
-      "tagline": "",
-      "pub_date": "2026-08-02T22:19:33-07:00"
+      "pub_date": "2026-08-03T01:34:16-07:00"
     },
     {
       "title": "ScrollToll",
@@ -302,10 +254,16 @@
       "pub_date": "2026-07-25T01:22:01-07:00"
     },
     {
-      "title": "MOTHER",
-      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
+      "title": "AirProof AI",
+      "url": "https://www.producthunt.com/products/airproof-ai",
       "tagline": "",
-      "pub_date": "2026-08-03T12:21:35-07:00"
+      "pub_date": "2026-07-31T12:11:12-07:00"
+    },
+    {
+      "title": "Stynar",
+      "url": "https://www.producthunt.com/products/stynar",
+      "tagline": "",
+      "pub_date": "2026-08-03T21:49:37-07:00"
     },
     {
       "title": "Crodo AI",
@@ -314,22 +272,82 @@
       "pub_date": "2026-07-27T07:28:16-07:00"
     },
     {
-      "title": "Murmell",
-      "url": "https://www.producthunt.com/products/murmell",
+      "title": "Vibe Buddy",
+      "url": "https://www.producthunt.com/products/vibe-buddy",
       "tagline": "",
-      "pub_date": "2026-08-02T19:46:50-07:00"
+      "pub_date": "2026-08-03T01:36:13-07:00"
     },
     {
-      "title": "AgentSky",
-      "url": "https://www.producthunt.com/products/agentsky",
+      "title": "Tixio 3.0",
+      "url": "https://www.producthunt.com/products/tixio-io",
       "tagline": "",
-      "pub_date": "2026-07-30T21:59:22-07:00"
+      "pub_date": "2026-05-19T22:32:18-07:00"
     },
     {
-      "title": "Appllama",
-      "url": "https://www.producthunt.com/products/appllama",
+      "title": "MOTHER",
+      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
       "tagline": "",
-      "pub_date": "2026-08-02T09:38:54-07:00"
+      "pub_date": "2026-08-03T12:21:35-07:00"
+    },
+    {
+      "title": "Glasp MCP Connector",
+      "url": "https://www.producthunt.com/products/glasp-mcp-connector",
+      "tagline": "",
+      "pub_date": "2026-08-03T11:39:20-07:00"
+    },
+    {
+      "title": "ZapDigits MCP",
+      "url": "https://www.producthunt.com/products/zapdigits",
+      "tagline": "",
+      "pub_date": "2026-08-02T11:39:13-07:00"
+    },
+    {
+      "title": "Vinyl for Mac",
+      "url": "https://www.producthunt.com/products/vinyl-for-mac",
+      "tagline": "",
+      "pub_date": "2026-08-02T22:19:33-07:00"
+    },
+    {
+      "title": "Yokoso",
+      "url": "https://www.producthunt.com/products/yokoso-2",
+      "tagline": "",
+      "pub_date": "2026-07-25T00:39:23-07:00"
+    },
+    {
+      "title": "space ocr",
+      "url": "https://www.producthunt.com/products/space-ocr",
+      "tagline": "",
+      "pub_date": "2026-07-30T23:50:04-07:00"
+    },
+    {
+      "title": "Karve",
+      "url": "https://www.producthunt.com/products/karve",
+      "tagline": "",
+      "pub_date": "2026-06-14T14:11:39-07:00"
+    },
+    {
+      "title": "ArtDeck",
+      "url": "https://www.producthunt.com/products/artdeck",
+      "tagline": "",
+      "pub_date": "2026-07-05T12:50:43-07:00"
+    },
+    {
+      "title": "gesture.live",
+      "url": "https://www.producthunt.com/products/gesture-live",
+      "tagline": "",
+      "pub_date": "2026-08-02T01:50:04-07:00"
+    },
+    {
+      "title": "MacDupl",
+      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "tagline": "",
+      "pub_date": "2026-08-02T08:30:50-07:00"
+    },
+    {
+      "title": "mpai",
+      "url": "https://www.producthunt.com/products/mpai",
+      "tagline": "",
+      "pub_date": "2026-08-02T13:12:27-07:00"
     }
   ]
 }

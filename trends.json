@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-08-05T19:18:20.130Z",
+  "generated_at": "2026-08-06T01:52:24.143Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-      "url": "https://deepgrove.ai/maple-preview",
-      "hn_url": "https://news.ycombinator.com/item?id=49173984",
-      "points": 160,
-      "comments": 49,
-      "created_ts": 1785872695,
-      "author": "edwardbzhang"
+      "title": "Show HN: Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/nncrnx74ykir",
+      "hn_url": "https://news.ycombinator.com/item?id=49186767",
+      "points": 23,
+      "comments": 17,
+      "created_ts": 1785953950,
+      "author": "sammy0910"
     },
     {
-      "title": "Show HN: What if one fund held tokenized Gold, tech stocks and digital assets?",
-      "url": "https://wealtii.com/funds/wealtii-tech-digital-asset-growth-fund",
-      "hn_url": "https://news.ycombinator.com/item?id=49183171",
-      "points": 128,
-      "comments": 0,
-      "created_ts": 1785939074,
-      "author": "zayd7861"
-    },
-    {
-      "title": "Show HN: SIMD Viterbi Decoder in Rust",
-      "url": "https://github.com/brian-armstrong/fec",
-      "hn_url": "https://news.ycombinator.com/item?id=49176212",
-      "points": 59,
-      "comments": 10,
-      "created_ts": 1785883025,
-      "author": "brian-armstrong"
+      "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
+      "url": "https://benchmark.clickhouse.com/playground/",
+      "hn_url": "https://news.ycombinator.com/item?id=49186732",
+      "points": 18,
+      "comments": 5,
+      "created_ts": 1785953855,
+      "author": "zX41ZdbW"
     },
     {
       "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
@@ -40,6 +31,33 @@
       "author": "LandoLorinse"
     },
     {
+      "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+      "url": "https://github.com/adrida/hud-mode",
+      "hn_url": "https://news.ycombinator.com/item?id=49184388",
+      "points": 15,
+      "comments": 1,
+      "created_ts": 1785944180,
+      "author": "adam_rida"
+    },
+    {
+      "title": "Show HN: Modern Browsers Don't Need the Cookie Anymore",
+      "url": "https://kuber.studio/cookie/",
+      "hn_url": "https://news.ycombinator.com/item?id=49182352",
+      "points": 14,
+      "comments": 13,
+      "created_ts": 1785935308,
+      "author": "kuberwastaken"
+    },
+    {
+      "title": "Show HN: Diffing Binary Files",
+      "url": "https://withkord.com/diff",
+      "hn_url": "https://news.ycombinator.com/item?id=49184845",
+      "points": 14,
+      "comments": 5,
+      "created_ts": 1785946342,
+      "author": "wennyyustalim"
+    },
+    {
       "title": "Show HN: ExANS – Lossless KV cache compression at 622 GB/s on H100",
       "url": "https://www.theopenlake.com/blog/exans-lossless-gpu-compression-for-bf16-kv-cache",
       "hn_url": "https://news.ycombinator.com/item?id=49185576",
@@ -47,103 +65,226 @@
       "comments": 0,
       "created_ts": 1785949155,
       "author": "arnav__1"
+    },
+    {
+      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+      "url": "https://quantsignals.xyz/fst",
+      "hn_url": "https://news.ycombinator.com/item?id=49182263",
+      "points": 13,
+      "comments": 4,
+      "created_ts": 1785934889,
+      "author": "henryzhangpku"
+    },
+    {
+      "title": "Show HN: Capy – A Git-style platform for managing your team's secrets",
+      "url": "https://github.com/capysc/capy-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=49188168",
+      "points": 11,
+      "comments": 13,
+      "created_ts": 1785960008,
+      "author": "cvince"
+    },
+    {
+      "title": "Show HN: 3D models, but they're 100% code",
+      "url": "https://polyfork.dev/try",
+      "hn_url": "https://news.ycombinator.com/item?id=49181106",
+      "points": 11,
+      "comments": 6,
+      "created_ts": 1785927823,
+      "author": "lucasmartinic"
+    },
+    {
+      "title": "Show HN: My receipt printer prints an original artwork every morning",
+      "url": "https://github.com/matt-w-horn/morningprint",
+      "hn_url": "https://news.ycombinator.com/item?id=49187583",
+      "points": 11,
+      "comments": 4,
+      "created_ts": 1785957403,
+      "author": "spectraldrift"
     }
   ],
   "hn_front": [
     {
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "hn_url": "https://news.ycombinator.com/item?id=49181099",
-      "points": 395,
-      "comments": 195,
-      "created_ts": 1785927793,
-      "author": "dzdt"
-    },
-    {
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "hn_url": "https://news.ycombinator.com/item?id=49182996",
-      "points": 351,
-      "comments": 197,
-      "created_ts": 1785938333,
-      "author": "speckx"
-    },
-    {
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49184960",
-      "points": 312,
-      "comments": 142,
+      "points": 595,
+      "comments": 382,
       "created_ts": 1785946784,
       "author": "xtreak29"
-    },
-    {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "hn_url": "https://news.ycombinator.com/item?id=49182041",
-      "points": 208,
-      "comments": 88,
-      "created_ts": 1785933707,
-      "author": "vincent_s"
-    },
-    {
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "hn_url": "https://news.ycombinator.com/item?id=49181083",
-      "points": 202,
-      "comments": 139,
-      "created_ts": 1785927697,
-      "author": "theanonymousone"
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "hn_url": "https://news.ycombinator.com/item?id=49184755",
-      "points": 160,
-      "comments": 314,
+      "points": 474,
+      "comments": 590,
       "created_ts": 1785945931,
       "author": "colesantiago"
     },
     {
-      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
-      "url": "https://sightlessscribbles.com/disability-dongle/",
-      "hn_url": "https://news.ycombinator.com/item?id=49183665",
-      "points": 156,
-      "comments": 149,
-      "created_ts": 1785940693,
-      "author": "calcifer"
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "hn_url": "https://news.ycombinator.com/item?id=49182996",
+      "points": 472,
+      "comments": 235,
+      "created_ts": 1785938333,
+      "author": "speckx"
     },
     {
-      "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
-      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=49183750",
-      "points": 138,
-      "comments": 93,
-      "created_ts": 1785941196,
-      "author": "iplaypc"
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "hn_url": "https://news.ycombinator.com/item?id=49187256",
+      "points": 302,
+      "comments": 152,
+      "created_ts": 1785955974,
+      "author": "ahamez"
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "hn_url": "https://news.ycombinator.com/item?id=49183115",
-      "points": 126,
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "hn_url": "https://news.ycombinator.com/item?id=49181083",
+      "points": 243,
+      "comments": 165,
+      "created_ts": 1785927697,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "hn_url": "https://news.ycombinator.com/item?id=49186762",
+      "points": 224,
+      "comments": 45,
+      "created_ts": 1785953936,
+      "author": "moonikakiss"
+    },
+    {
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "hn_url": "https://news.ycombinator.com/item?id=49188022",
+      "points": 207,
+      "comments": 171,
+      "created_ts": 1785959413,
+      "author": "speckx"
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49187575",
+      "points": 174,
+      "comments": 104,
+      "created_ts": 1785957352,
+      "author": "paulkrush"
+    },
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "hn_url": "https://news.ycombinator.com/item?id=49185983",
+      "points": 170,
+      "comments": 67,
+      "created_ts": 1785950605,
+      "author": "hackerBanana"
+    },
+    {
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49184216",
+      "points": 154,
+      "comments": 73,
+      "created_ts": 1785943326,
+      "author": "weli"
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://github.com/denoland/celld",
+      "hn_url": "https://news.ycombinator.com/item?id=49185430",
+      "points": 145,
+      "comments": 24,
+      "created_ts": 1785948606,
+      "author": "calvinfo"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "hn_url": "https://news.ycombinator.com/item?id=49189287",
+      "points": 142,
+      "comments": 61,
+      "created_ts": 1785965363,
+      "author": "ExMachina73"
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49187061",
+      "points": 131,
+      "comments": 141,
+      "created_ts": 1785955069,
+      "author": "lladnar"
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=49182946",
+      "points": 107,
       "comments": 41,
-      "created_ts": 1785938799,
-      "author": "teleforce"
+      "created_ts": 1785938052,
+      "author": "Anon84"
+    },
+    {
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "hn_url": "https://news.ycombinator.com/item?id=49183017",
+      "points": 105,
+      "comments": 9,
+      "created_ts": 1785938410,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49189075",
+      "points": 104,
+      "comments": 19,
+      "created_ts": 1785964317,
+      "author": "Xeophon"
     }
   ],
   "ph_today": [
-    {
-      "title": "Wispr Flow Notetaker",
-      "url": "https://www.producthunt.com/products/wisprflow",
-      "tagline": "",
-      "pub_date": "2026-08-04T08:22:48-07:00"
-    },
     {
       "title": "AdAnt AI",
       "url": "https://www.producthunt.com/products/adant-ai",
       "tagline": "",
       "pub_date": "2026-07-31T22:39:48-07:00"
+    },
+    {
+      "title": "BackEngine MCP",
+      "url": "https://www.producthunt.com/products/backengine-mcp",
+      "tagline": "",
+      "pub_date": "2026-08-04T14:56:41-07:00"
+    },
+    {
+      "title": "Capacity Desktop",
+      "url": "https://www.producthunt.com/products/capacity",
+      "tagline": "",
+      "pub_date": "2026-07-28T06:54:05-07:00"
+    },
+    {
+      "title": "Keystroke",
+      "url": "https://www.producthunt.com/products/keystroke-2",
+      "tagline": "",
+      "pub_date": "2026-08-04T12:29:34-07:00"
+    },
+    {
+      "title": "Kiro Crew",
+      "url": "https://www.producthunt.com/products/kiro",
+      "tagline": "",
+      "pub_date": "2026-08-04T11:07:24-07:00"
+    },
+    {
+      "title": "NextDoor.Company",
+      "url": "https://www.producthunt.com/products/nextdoor-company",
+      "tagline": "",
+      "pub_date": "2026-08-03T23:58:44-07:00"
     },
     {
       "title": "Dover MCP",
@@ -158,34 +299,10 @@
       "pub_date": "2026-07-16T11:20:20-07:00"
     },
     {
-      "title": "NextDoor.Company",
-      "url": "https://www.producthunt.com/products/nextdoor-company",
+      "title": "npm i -g hotcell",
+      "url": "https://www.producthunt.com/products/npm-i-g-hotcell",
       "tagline": "",
-      "pub_date": "2026-08-03T23:58:44-07:00"
-    },
-    {
-      "title": "BackEngine MCP",
-      "url": "https://www.producthunt.com/products/backengine-mcp",
-      "tagline": "",
-      "pub_date": "2026-08-04T14:56:41-07:00"
-    },
-    {
-      "title": "ngrok AI Gateway",
-      "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
-      "tagline": "",
-      "pub_date": "2026-07-23T12:29:44-07:00"
-    },
-    {
-      "title": "Capacity Desktop",
-      "url": "https://www.producthunt.com/products/capacity",
-      "tagline": "",
-      "pub_date": "2026-07-28T06:54:05-07:00"
-    },
-    {
-      "title": "Keytones",
-      "url": "https://www.producthunt.com/products/keytones-for-mac",
-      "tagline": "",
-      "pub_date": "2026-07-21T10:35:06-07:00"
+      "pub_date": "2026-08-02T19:39:07-07:00"
     },
     {
       "title": "X Money",
@@ -194,10 +311,28 @@
       "pub_date": "2026-08-04T13:51:31-07:00"
     },
     {
-      "title": "Aegisora",
-      "url": "https://www.producthunt.com/products/aegisora",
+      "title": "Hansel",
+      "url": "https://www.producthunt.com/products/hansel-2",
       "tagline": "",
-      "pub_date": "2026-07-31T21:06:08-07:00"
+      "pub_date": "2026-08-04T23:59:36-07:00"
+    },
+    {
+      "title": "Wispr Flow Notetaker",
+      "url": "https://www.producthunt.com/products/wisprflow",
+      "tagline": "",
+      "pub_date": "2026-08-04T08:22:48-07:00"
+    },
+    {
+      "title": "ngrok AI Gateway",
+      "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
+      "tagline": "",
+      "pub_date": "2026-07-23T12:29:44-07:00"
+    },
+    {
+      "title": "Keytones",
+      "url": "https://www.producthunt.com/products/keytones-for-mac",
+      "tagline": "",
+      "pub_date": "2026-07-21T10:35:06-07:00"
     },
     {
       "title": "Cloudflare Wallets",
@@ -206,46 +341,10 @@
       "pub_date": "2026-08-04T08:40:39-07:00"
     },
     {
-      "title": "Kiro Crew",
-      "url": "https://www.producthunt.com/products/kiro",
+      "title": "Aegisora",
+      "url": "https://www.producthunt.com/products/aegisora",
       "tagline": "",
-      "pub_date": "2026-08-04T11:07:24-07:00"
-    },
-    {
-      "title": "Hansel",
-      "url": "https://www.producthunt.com/products/hansel-2",
-      "tagline": "",
-      "pub_date": "2026-08-04T23:59:36-07:00"
-    },
-    {
-      "title": "npm i -g hotcell",
-      "url": "https://www.producthunt.com/products/npm-i-g-hotcell",
-      "tagline": "",
-      "pub_date": "2026-08-02T19:39:07-07:00"
-    },
-    {
-      "title": "Keystroke",
-      "url": "https://www.producthunt.com/products/keystroke-2",
-      "tagline": "",
-      "pub_date": "2026-08-04T12:29:34-07:00"
-    },
-    {
-      "title": "Hey Noah",
-      "url": "https://www.producthunt.com/products/hey-noah",
-      "tagline": "",
-      "pub_date": "2026-03-05T08:16:39-08:00"
-    },
-    {
-      "title": "Domo",
-      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
-      "tagline": "",
-      "pub_date": "2026-07-24T12:13:39-07:00"
-    },
-    {
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
-      "tagline": "",
-      "pub_date": "2026-08-03T12:35:56-07:00"
+      "pub_date": "2026-07-31T21:06:08-07:00"
     },
     {
       "title": "Atlaso",
@@ -254,52 +353,10 @@
       "pub_date": "2026-07-18T15:04:00-07:00"
     },
     {
-      "title": "Wondering",
-      "url": "https://www.producthunt.com/products/wondering-2",
-      "tagline": "",
-      "pub_date": "2026-07-30T00:14:31-07:00"
-    },
-    {
       "title": "Driven",
       "url": "https://www.producthunt.com/products/driven-ai",
       "tagline": "",
       "pub_date": "2026-07-21T19:16:19-07:00"
-    },
-    {
-      "title": "space ocr",
-      "url": "https://www.producthunt.com/products/space-ocr",
-      "tagline": "",
-      "pub_date": "2026-07-30T23:50:04-07:00"
-    },
-    {
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
-      "tagline": "",
-      "pub_date": "2026-08-03T01:34:16-07:00"
-    },
-    {
-      "title": "FileFlippers",
-      "url": "https://www.producthunt.com/products/fileflippers",
-      "tagline": "",
-      "pub_date": "2026-07-20T08:33:31-07:00"
-    },
-    {
-      "title": "ScrollToll",
-      "url": "https://www.producthunt.com/products/scrolltoll-2",
-      "tagline": "",
-      "pub_date": "2026-07-25T01:22:01-07:00"
-    },
-    {
-      "title": "Screen Awesome",
-      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
-      "tagline": "",
-      "pub_date": "2026-08-03T01:00:36-07:00"
-    },
-    {
-      "title": "Tixio 3.0",
-      "url": "https://www.producthunt.com/products/tixio-io",
-      "tagline": "",
-      "pub_date": "2026-05-19T22:32:18-07:00"
     },
     {
       "title": "Stynar",
@@ -308,10 +365,70 @@
       "pub_date": "2026-08-03T21:49:37-07:00"
     },
     {
+      "title": "Finyuus",
+      "url": "https://www.producthunt.com/products/finyuus",
+      "tagline": "",
+      "pub_date": "2026-08-03T11:14:47-07:00"
+    },
+    {
+      "title": "VIDEO AI ME",
+      "url": "https://www.producthunt.com/products/video-ai-me",
+      "tagline": "",
+      "pub_date": "2026-08-03T12:35:56-07:00"
+    },
+    {
+      "title": "Snipplet",
+      "url": "https://www.producthunt.com/products/snipplet",
+      "tagline": "",
+      "pub_date": "2026-08-03T23:15:21-07:00"
+    },
+    {
+      "title": "MOTHER",
+      "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
+      "tagline": "",
+      "pub_date": "2026-08-03T12:21:35-07:00"
+    },
+    {
+      "title": "Karve",
+      "url": "https://www.producthunt.com/products/karve",
+      "tagline": "",
+      "pub_date": "2026-06-14T14:11:39-07:00"
+    },
+    {
+      "title": "FileFlippers",
+      "url": "https://www.producthunt.com/products/fileflippers",
+      "tagline": "",
+      "pub_date": "2026-07-20T08:33:31-07:00"
+    },
+    {
+      "title": "Domo",
+      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
+      "tagline": "",
+      "pub_date": "2026-07-24T12:13:39-07:00"
+    },
+    {
+      "title": "Crodo AI",
+      "url": "https://www.producthunt.com/products/crodo-ai",
+      "tagline": "",
+      "pub_date": "2026-07-27T07:28:16-07:00"
+    },
+    {
       "title": "Dashi Metrics",
       "url": "https://www.producthunt.com/products/dashi-metrics",
       "tagline": "",
       "pub_date": "2026-07-30T01:30:05-07:00"
+    },
+    {
+      "title": "Yokoso",
+      "url": "https://www.producthunt.com/products/yokoso-2",
+      "tagline": "",
+      "pub_date": "2026-07-25T00:39:23-07:00"
+    },
+    {
+      "title": "Tixio 3.0",
+      "url": "https://www.producthunt.com/products/tixio-io",
+      "tagline": "",
+      "pub_date": "2026-05-19T22:32:18-07:00"
     }
   ]
 }

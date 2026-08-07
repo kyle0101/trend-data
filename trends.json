@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:02:28.563Z",
+  "generated_at": "2026-08-07T12:44:20.885Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
       "url": "https://electronicmaterialsoffice.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49197137",
-      "points": 267,
-      "comments": 220,
+      "points": 276,
+      "comments": 232,
       "created_ts": 1786026374,
       "author": "aemerson_"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
       "url": "https://github.com/CopilotKit/channels-sdk",
       "hn_url": "https://news.ycombinator.com/item?id=49198583",
-      "points": 99,
+      "points": 107,
       "comments": 22,
       "created_ts": 1786032351,
       "author": "davidmckayv"
@@ -25,37 +25,19 @@
       "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
       "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
       "hn_url": "https://news.ycombinator.com/item?id=49203059",
-      "points": 43,
-      "comments": 27,
+      "points": 49,
+      "comments": 28,
       "created_ts": 1786052947,
       "author": "mdeeds"
     },
     {
-      "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
-      "url": "https://intergalacticrobots.app/skyline-coop/",
-      "hn_url": "https://news.ycombinator.com/item?id=49195297",
-      "points": 39,
-      "comments": 41,
-      "created_ts": 1786016263,
-      "author": "geekamongus"
-    },
-    {
-      "title": "Show HN: A terminal glued to the macOS dock",
-      "url": "https://github.com/palamim/starboard",
-      "hn_url": "https://news.ycombinator.com/item?id=49194772",
-      "points": 38,
-      "comments": 12,
-      "created_ts": 1786011498,
-      "author": "leopalamim"
-    },
-    {
-      "title": "Show HN: demake – one source project compiles to any retro game console ROM",
-      "url": "https://geosona.com/demake/",
-      "hn_url": "https://news.ycombinator.com/item?id=49195251",
-      "points": 38,
-      "comments": 8,
-      "created_ts": 1786015680,
-      "author": "gste"
+      "title": "Show HN: Silo – S3-compatible object storage, a maintained fork of MinIO",
+      "url": "https://silo.pgsty.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49198572",
+      "points": 21,
+      "comments": 2,
+      "created_ts": 1786032311,
+      "author": "Vonng"
     },
     {
       "title": "Show HN: Science for Kids",
@@ -67,130 +49,103 @@
       "author": "rahimnathwani"
     },
     {
-      "title": "Show HN: Silo – S3-compatible object storage, a maintained fork of MinIO",
-      "url": "https://silo.pgsty.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49198572",
-      "points": 20,
-      "comments": 2,
-      "created_ts": 1786032311,
-      "author": "Vonng"
-    },
-    {
       "title": "Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
       "url": "https://usehope.app",
       "hn_url": "https://news.ycombinator.com/item?id=49195914",
       "points": 11,
-      "comments": 9,
+      "comments": 10,
       "created_ts": 1786020391,
       "author": "davidest"
     }
   ],
   "hn_front": [
     {
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "hn_url": "https://news.ycombinator.com/item?id=49195231",
-      "points": 1000,
-      "comments": 155,
-      "created_ts": 1786015493,
-      "author": "theanonymousone"
-    },
-    {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
       "hn_url": "https://news.ycombinator.com/item?id=49201970",
-      "points": 569,
-      "comments": 435,
+      "points": 734,
+      "comments": 547,
       "created_ts": 1786047791,
       "author": "itvision"
-    },
-    {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "hn_url": "https://news.ycombinator.com/item?id=49198302",
-      "points": 375,
-      "comments": 304,
-      "created_ts": 1786031378,
-      "author": "Footkerchief"
     },
     {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "hn_url": "https://news.ycombinator.com/item?id=49199346",
-      "points": 348,
-      "comments": 264,
+      "points": 493,
+      "comments": 356,
       "created_ts": 1786035693,
       "author": "tsak"
     },
     {
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "hn_url": "https://news.ycombinator.com/item?id=49198069",
-      "points": 344,
-      "comments": 371,
-      "created_ts": 1786030248,
-      "author": "yusyd"
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "hn_url": "https://news.ycombinator.com/item?id=49198302",
+      "points": 426,
+      "comments": 350,
+      "created_ts": 1786031378,
+      "author": "Footkerchief"
     },
     {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "hn_url": "https://news.ycombinator.com/item?id=49195468",
-      "points": 286,
-      "comments": 204,
-      "created_ts": 1786017487,
-      "author": "Wirbelwind"
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "hn_url": "https://news.ycombinator.com/item?id=49204352",
+      "points": 391,
+      "comments": 241,
+      "created_ts": 1786061188,
+      "author": "boplicity"
     },
     {
       "title": "Quake – 30th Anniversary Update",
       "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
       "hn_url": "https://news.ycombinator.com/item?id=49201930",
-      "points": 271,
-      "comments": 140,
+      "points": 345,
+      "comments": 169,
       "created_ts": 1786047679,
       "author": "dsubburam"
+    },
+    {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "hn_url": "https://news.ycombinator.com/item?id=49208314",
+      "points": 325,
+      "comments": 289,
+      "created_ts": 1786098535,
+      "author": "defrost"
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "hn_url": "https://news.ycombinator.com/item?id=49199357",
-      "points": 214,
-      "comments": 156,
+      "points": 259,
+      "comments": 203,
       "created_ts": 1786035724,
       "author": "tedsanders"
-    },
-    {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49198464",
-      "points": 197,
-      "comments": 141,
-      "created_ts": 1786031955,
-      "author": "willcarkner"
     },
     {
       "title": "Herdr is joining Y Combinator. The runtime stays open",
       "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
       "hn_url": "https://news.ycombinator.com/item?id=49201003",
-      "points": 189,
-      "comments": 126,
+      "points": 231,
+      "comments": 161,
       "created_ts": 1786043661,
       "author": "collinmanderson"
     },
     {
-      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "hn_url": "https://news.ycombinator.com/item?id=49204352",
-      "points": 171,
-      "comments": 109,
-      "created_ts": 1786061188,
-      "author": "boplicity"
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49198464",
+      "points": 209,
+      "comments": 148,
+      "created_ts": 1786031955,
+      "author": "willcarkner"
     },
     {
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
       "hn_url": "https://news.ycombinator.com/item?id=49203105",
-      "points": 136,
-      "comments": 21,
+      "points": 171,
+      "comments": 27,
       "created_ts": 1786053136,
       "author": "gnabgib"
     },
@@ -198,8 +153,8 @@
       "title": "My phone detects going on a run as “someone snatching my phone and running off”",
       "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
       "hn_url": "https://news.ycombinator.com/item?id=49200439",
-      "points": 120,
-      "comments": 216,
+      "points": 160,
+      "comments": 268,
       "created_ts": 1786040768,
       "author": "luu"
     },
@@ -207,90 +162,36 @@
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "hn_url": "https://news.ycombinator.com/item?id=49202716",
-      "points": 105,
-      "comments": 23,
+      "points": 151,
+      "comments": 43,
       "created_ts": 1786051112,
       "author": "Audiophilip"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "hn_url": "https://news.ycombinator.com/item?id=49202852",
+      "points": 122,
+      "comments": 8,
+      "created_ts": 1786051821,
+      "author": "sebg"
+    },
+    {
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "hn_url": "https://news.ycombinator.com/item?id=49206130",
+      "points": 108,
+      "comments": 40,
+      "created_ts": 1786079877,
+      "author": "RobinHirst11"
     }
   ],
   "ph_today": [
     {
-      "title": "Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
+      "title": "Orite",
+      "url": "https://www.producthunt.com/products/orite",
       "tagline": "",
-      "pub_date": "2026-07-17T01:59:06-07:00"
-    },
-    {
-      "title": "BAP Studio",
-      "url": "https://www.producthunt.com/products/bap-studio",
-      "tagline": "",
-      "pub_date": "2026-08-06T13:55:58-07:00"
-    },
-    {
-      "title": "Merge",
-      "url": "https://www.producthunt.com/products/merge-5",
-      "tagline": "",
-      "pub_date": "2026-08-05T22:55:10-07:00"
-    },
-    {
-      "title": "Troopr AI Scrum Master",
-      "url": "https://www.producthunt.com/products/troopr",
-      "tagline": "",
-      "pub_date": "2026-08-04T02:13:42-07:00"
-    },
-    {
-      "title": "Progress AI Observability",
-      "url": "https://www.producthunt.com/products/progress-ai-observability",
-      "tagline": "",
-      "pub_date": "2026-08-05T07:27:52-07:00"
-    },
-    {
-      "title": "Soloop",
-      "url": "https://www.producthunt.com/products/soloop",
-      "tagline": "",
-      "pub_date": "2026-08-06T03:36:29-07:00"
-    },
-    {
-      "title": "Rindler",
-      "url": "https://www.producthunt.com/products/rindler",
-      "tagline": "",
-      "pub_date": "2026-08-03T15:15:29-07:00"
-    },
-    {
-      "title": "Kitesurf",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "tagline": "",
-      "pub_date": "2026-08-06T21:59:49-07:00"
-    },
-    {
-      "title": "Prompt Bridge",
-      "url": "https://www.producthunt.com/products/prompt-bridge-2",
-      "tagline": "",
-      "pub_date": "2026-08-06T04:38:18-07:00"
-    },
-    {
-      "title": "DataBlur",
-      "url": "https://www.producthunt.com/products/datablur",
-      "tagline": "",
-      "pub_date": "2026-08-06T06:27:35-07:00"
-    },
-    {
-      "title": "Crew",
-      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-      "tagline": "",
-      "pub_date": "2026-08-06T01:08:47-07:00"
-    },
-    {
-      "title": "HAR",
-      "url": "https://www.producthunt.com/products/har",
-      "tagline": "",
-      "pub_date": "2026-08-06T07:56:17-07:00"
-    },
-    {
-      "title": "BrowserOS neo",
-      "url": "https://www.producthunt.com/products/browseros_ai",
-      "tagline": "",
-      "pub_date": "2025-10-28T09:18:50-07:00"
+      "pub_date": "2026-07-10T05:00:00-07:00"
     },
     {
       "title": "Nitro 4.0",
@@ -299,10 +200,34 @@
       "pub_date": "2026-07-31T05:24:54-07:00"
     },
     {
-      "title": "Whop CLI",
-      "url": "https://www.producthunt.com/products/whop-cli",
+      "title": "Rescript for Desktop",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
       "tagline": "",
-      "pub_date": "2026-08-05T18:40:05-07:00"
+      "pub_date": "2026-08-06T21:56:04-07:00"
+    },
+    {
+      "title": "AndroMeld",
+      "url": "https://www.producthunt.com/products/andromeld",
+      "tagline": "",
+      "pub_date": "2026-08-05T06:06:47-07:00"
+    },
+    {
+      "title": "Rindler",
+      "url": "https://www.producthunt.com/products/rindler",
+      "tagline": "",
+      "pub_date": "2026-08-03T15:15:29-07:00"
+    },
+    {
+      "title": "Soloop",
+      "url": "https://www.producthunt.com/products/soloop",
+      "tagline": "",
+      "pub_date": "2026-08-06T03:36:29-07:00"
+    },
+    {
+      "title": "AgentOne Desktop",
+      "url": "https://www.producthunt.com/products/agentone-desktop",
+      "tagline": "",
+      "pub_date": "2026-08-06T20:57:52-07:00"
     },
     {
       "title": "StepShot",
@@ -311,22 +236,118 @@
       "pub_date": "2026-08-05T01:17:49-07:00"
     },
     {
+      "title": "Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
+      "tagline": "",
+      "pub_date": "2026-07-17T01:59:06-07:00"
+    },
+    {
+      "title": "BrowserOS neo",
+      "url": "https://www.producthunt.com/products/browseros_ai",
+      "tagline": "",
+      "pub_date": "2025-10-28T09:18:50-07:00"
+    },
+    {
+      "title": "Merge",
+      "url": "https://www.producthunt.com/products/merge-5",
+      "tagline": "",
+      "pub_date": "2026-08-05T22:55:10-07:00"
+    },
+    {
+      "title": "HAR",
+      "url": "https://www.producthunt.com/products/har",
+      "tagline": "",
+      "pub_date": "2026-08-06T07:56:17-07:00"
+    },
+    {
+      "title": "Reference",
+      "url": "https://www.producthunt.com/products/reference-2",
+      "tagline": "",
+      "pub_date": "2026-08-04T22:07:59-07:00"
+    },
+    {
+      "title": "Whop CLI",
+      "url": "https://www.producthunt.com/products/whop-cli",
+      "tagline": "",
+      "pub_date": "2026-08-05T18:40:05-07:00"
+    },
+    {
+      "title": "The new Firecrawl MCP",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "tagline": "",
+      "pub_date": "2026-08-05T15:49:34-07:00"
+    },
+    {
+      "title": "Crew",
+      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
+      "tagline": "",
+      "pub_date": "2026-08-06T01:08:47-07:00"
+    },
+    {
+      "title": "Troopr AI Scrum Master",
+      "url": "https://www.producthunt.com/products/troopr",
+      "tagline": "",
+      "pub_date": "2026-08-04T02:13:42-07:00"
+    },
+    {
+      "title": "Kitesurf",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "tagline": "",
+      "pub_date": "2026-08-06T21:59:49-07:00"
+    },
+    {
+      "title": "ShootClip",
+      "url": "https://www.producthunt.com/products/shootclip",
+      "tagline": "",
+      "pub_date": "2026-08-02T03:43:52-07:00"
+    },
+    {
+      "title": "Blueberry",
+      "url": "https://www.producthunt.com/products/blueberry-6",
+      "tagline": "",
+      "pub_date": "2026-08-06T15:25:45-07:00"
+    },
+    {
+      "title": "DataBlur",
+      "url": "https://www.producthunt.com/products/datablur",
+      "tagline": "",
+      "pub_date": "2026-08-06T06:27:35-07:00"
+    },
+    {
+      "title": "Progress AI Observability",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "tagline": "",
+      "pub_date": "2026-08-05T07:27:52-07:00"
+    },
+    {
+      "title": "BAP Studio",
+      "url": "https://www.producthunt.com/products/bap-studio",
+      "tagline": "",
+      "pub_date": "2026-08-06T13:55:58-07:00"
+    },
+    {
+      "title": "Prompt Bridge",
+      "url": "https://www.producthunt.com/products/prompt-bridge-2",
+      "tagline": "",
+      "pub_date": "2026-08-06T04:38:18-07:00"
+    },
+    {
       "title": "Mem0",
       "url": "https://www.producthunt.com/products/mem0-5",
       "tagline": "",
       "pub_date": "2026-08-06T02:55:43-07:00"
     },
     {
-      "title": "Chute",
-      "url": "https://www.producthunt.com/products/chute-better-airdrop",
+      "title": "Gesture Synth School",
+      "url": "https://www.producthunt.com/products/gesture-synth-school",
       "tagline": "",
-      "pub_date": "2026-08-05T15:44:20-07:00"
+      "pub_date": "2026-08-05T21:53:27-07:00"
     },
     {
-      "title": "Ticketdesk AI",
-      "url": "https://www.producthunt.com/products/ticketdesk-ai",
+      "title": "Cloudflare OS",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-07-30T21:37:07-07:00"
+      "pub_date": "2026-08-05T11:52:07-07:00"
     },
     {
       "title": "Glyphi: Speed Reader",
@@ -335,64 +356,16 @@
       "pub_date": "2026-08-05T19:41:19-07:00"
     },
     {
-      "title": "AI Spend Console by Rippling",
-      "url": "https://www.producthunt.com/products/rippling",
+      "title": "CopilotKit Channels SDK",
+      "url": "https://www.producthunt.com/products/copilotkit",
       "tagline": "",
-      "pub_date": "2026-07-14T10:17:32-07:00"
-    },
-    {
-      "title": "Shieldstral",
-      "url": "https://www.producthunt.com/products/mistral-7b",
-      "tagline": "",
-      "pub_date": "2026-08-05T20:49:38-07:00"
-    },
-    {
-      "title": "Superlog Responder",
-      "url": "https://www.producthunt.com/products/superlog",
-      "tagline": "",
-      "pub_date": "2026-07-30T05:17:59-07:00"
+      "pub_date": "2026-07-15T13:21:56-07:00"
     },
     {
       "title": "Brandfetch MCP",
       "url": "https://www.producthunt.com/products/brandfetch",
       "tagline": "",
       "pub_date": "2026-08-05T04:55:55-07:00"
-    },
-    {
-      "title": "Website to Markdown API",
-      "url": "https://www.producthunt.com/products/website-to-markdown-api",
-      "tagline": "",
-      "pub_date": "2026-07-31T13:45:48-07:00"
-    },
-    {
-      "title": "UCP Radar",
-      "url": "https://www.producthunt.com/products/ucp-radar",
-      "tagline": "",
-      "pub_date": "2026-08-05T04:03:42-07:00"
-    },
-    {
-      "title": "Token Harbor",
-      "url": "https://www.producthunt.com/products/token-harbor",
-      "tagline": "",
-      "pub_date": "2026-07-23T07:42:38-07:00"
-    },
-    {
-      "title": "Muse Code",
-      "url": "https://www.producthunt.com/products/meta",
-      "tagline": "",
-      "pub_date": "2026-08-05T19:35:53-07:00"
-    },
-    {
-      "title": "hey postcard - digital postcards",
-      "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
-      "tagline": "",
-      "pub_date": "2026-08-05T22:29:41-07:00"
-    },
-    {
-      "title": "Ododok",
-      "url": "https://www.producthunt.com/products/ododok",
-      "tagline": "",
-      "pub_date": "2026-08-04T13:17:00-07:00"
     }
   ]
 }

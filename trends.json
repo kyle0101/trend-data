@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:02:46.478Z",
+  "generated_at": "2026-08-08T06:37:30.510Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
       "hn_url": "https://news.ycombinator.com/item?id=49209385",
-      "points": 171,
-      "comments": 100,
+      "points": 188,
+      "comments": 105,
       "created_ts": 1786105735,
       "author": "v0id_isgood"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
       "hn_url": "https://news.ycombinator.com/item?id=49208458",
-      "points": 134,
-      "comments": 60,
+      "points": 159,
+      "comments": 65,
       "created_ts": 1786099941,
       "author": "stagas"
     },
@@ -29,15 +29,6 @@
       "comments": 0,
       "created_ts": 1786093830,
       "author": "thejoin95"
-    },
-    {
-      "title": "Show HN: Sidebar – a private ESP32 intercom for five kids, no accounts",
-      "url": "https://www.sundaradnus.ca/writing/sidebar-building-a-ham-radio-for-my-son",
-      "hn_url": "https://news.ycombinator.com/item?id=49205627",
-      "points": 12,
-      "comments": 6,
-      "created_ts": 1786073462,
-      "author": "nonstopnonsense"
     }
   ],
   "hn_front": [
@@ -45,8 +36,8 @@
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "hn_url": "https://news.ycombinator.com/item?id=49214008",
-      "points": 444,
-      "comments": 262,
+      "points": 559,
+      "comments": 335,
       "created_ts": 1786125380,
       "author": "tosh"
     },
@@ -54,8 +45,8 @@
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "hn_url": "https://news.ycombinator.com/item?id=49209539",
-      "points": 394,
-      "comments": 526,
+      "points": 541,
+      "comments": 629,
       "created_ts": 1786106547,
       "author": "RickJWagner"
     },
@@ -63,53 +54,71 @@
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "hn_url": "https://news.ycombinator.com/item?id=49213754",
-      "points": 375,
-      "comments": 251,
+      "points": 442,
+      "comments": 305,
       "created_ts": 1786124190,
       "author": "delduca"
-    },
-    {
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "hn_url": "https://news.ycombinator.com/item?id=49211386",
-      "points": 366,
-      "comments": 348,
-      "created_ts": 1786114317,
-      "author": "petercooper"
-    },
-    {
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "hn_url": "https://news.ycombinator.com/item?id=49208535",
-      "points": 241,
-      "comments": 113,
-      "created_ts": 1786100435,
-      "author": "poly2it"
-    },
-    {
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "hn_url": "https://news.ycombinator.com/item?id=49214098",
-      "points": 240,
-      "comments": 55,
-      "created_ts": 1786125690,
-      "author": "piotrgrabowski"
     },
     {
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
       "hn_url": "https://news.ycombinator.com/item?id=49207236",
-      "points": 224,
-      "comments": 217,
+      "points": 313,
+      "comments": 289,
       "created_ts": 1786089504,
       "author": "inigyou"
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "hn_url": "https://news.ycombinator.com/item?id=49214098",
+      "points": 306,
+      "comments": 72,
+      "created_ts": 1786125690,
+      "author": "piotrgrabowski"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "hn_url": "https://news.ycombinator.com/item?id=49208535",
+      "points": 269,
+      "comments": 131,
+      "created_ts": 1786100435,
+      "author": "poly2it"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "hn_url": "https://news.ycombinator.com/item?id=49217993",
+      "points": 253,
+      "comments": 107,
+      "created_ts": 1786151565,
+      "author": "Meleagris"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "hn_url": "https://news.ycombinator.com/item?id=49214468",
+      "points": 212,
+      "comments": 194,
+      "created_ts": 1786127117,
+      "author": "moonikakiss"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "hn_url": "https://news.ycombinator.com/item?id=49216946",
+      "points": 192,
+      "comments": 64,
+      "created_ts": 1786141467,
+      "author": "moelf"
     },
     {
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
       "hn_url": "https://news.ycombinator.com/item?id=49209385",
-      "points": 171,
-      "comments": 100,
+      "points": 188,
+      "comments": 105,
       "created_ts": 1786105735,
       "author": "v0id_isgood"
     },
@@ -117,67 +126,94 @@
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
       "hn_url": "https://news.ycombinator.com/item?id=49208393",
-      "points": 160,
-      "comments": 42,
+      "points": 183,
+      "comments": 48,
       "created_ts": 1786099327,
       "author": "m3h"
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "hn_url": "https://news.ycombinator.com/item?id=49214468",
-      "points": 157,
-      "comments": 165,
-      "created_ts": 1786127117,
-      "author": "moonikakiss"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "hn_url": "https://news.ycombinator.com/item?id=49213029",
-      "points": 152,
-      "comments": 167,
-      "created_ts": 1786120776,
-      "author": "artninja1988"
     },
     {
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
       "hn_url": "https://news.ycombinator.com/item?id=49214770",
-      "points": 140,
-      "comments": 47,
+      "points": 182,
+      "comments": 58,
       "created_ts": 1786128674,
       "author": "aagha"
     },
     {
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "hn_url": "https://news.ycombinator.com/item?id=49211921",
-      "points": 137,
-      "comments": 35,
-      "created_ts": 1786116293,
-      "author": "MarcoDewey"
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "hn_url": "https://news.ycombinator.com/item?id=49213029",
+      "points": 175,
+      "comments": 173,
+      "created_ts": 1786120776,
+      "author": "artninja1988"
     },
     {
-      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-      "url": "https://textlog.cc/about",
-      "hn_url": "https://news.ycombinator.com/item?id=49208458",
-      "points": 134,
-      "comments": 60,
-      "created_ts": 1786099941,
-      "author": "stagas"
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "hn_url": "https://news.ycombinator.com/item?id=49218179",
+      "points": 172,
+      "comments": 27,
+      "created_ts": 1786153751,
+      "author": "wglb"
     },
     {
       "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
       "hn_url": "https://news.ycombinator.com/item?id=49216362",
-      "points": 116,
-      "comments": 70,
+      "points": 171,
+      "comments": 114,
       "created_ts": 1786137597,
       "author": "Bender"
+    },
+    {
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "hn_url": "https://news.ycombinator.com/item?id=49208458",
+      "points": 159,
+      "comments": 65,
+      "created_ts": 1786099941,
+      "author": "stagas"
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "hn_url": "https://news.ycombinator.com/item?id=49211921",
+      "points": 159,
+      "comments": 37,
+      "created_ts": 1786116293,
+      "author": "MarcoDewey"
+    },
+    {
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "hn_url": "https://news.ycombinator.com/item?id=49209572",
+      "points": 127,
+      "comments": 94,
+      "created_ts": 1786106708,
+      "author": "jnord"
     }
   ],
   "ph_today": [
+    {
+      "title": "ShootClip",
+      "url": "https://www.producthunt.com/products/shootclip",
+      "tagline": "",
+      "pub_date": "2026-08-02T03:43:52-07:00"
+    },
+    {
+      "title": "Orite",
+      "url": "https://www.producthunt.com/products/orite",
+      "tagline": "",
+      "pub_date": "2026-07-10T05:00:00-07:00"
+    },
+    {
+      "title": "HAR",
+      "url": "https://www.producthunt.com/products/har",
+      "tagline": "",
+      "pub_date": "2026-08-06T07:56:17-07:00"
+    },
     {
       "title": "Reference",
       "url": "https://www.producthunt.com/products/reference-2",
@@ -185,34 +221,34 @@
       "pub_date": "2026-08-04T22:07:59-07:00"
     },
     {
-      "title": "AgentOne Desktop",
-      "url": "https://www.producthunt.com/products/agentone-desktop",
+      "title": "StepShot",
+      "url": "https://www.producthunt.com/products/stepshot-2",
       "tagline": "",
-      "pub_date": "2026-08-06T20:57:52-07:00"
+      "pub_date": "2026-08-05T01:17:49-07:00"
     },
     {
-      "title": "Crew",
-      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
+      "title": "AndroMeld",
+      "url": "https://www.producthunt.com/products/andromeld",
       "tagline": "",
-      "pub_date": "2026-08-06T01:08:47-07:00"
+      "pub_date": "2026-08-05T06:06:47-07:00"
     },
     {
-      "title": "Progress AI Observability",
-      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "title": "The new Firecrawl MCP",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-08-05T07:27:52-07:00"
+      "pub_date": "2026-08-05T15:49:34-07:00"
     },
     {
-      "title": "Rindler",
-      "url": "https://www.producthunt.com/products/rindler",
+      "title": "Merge",
+      "url": "https://www.producthunt.com/products/merge-5",
       "tagline": "",
-      "pub_date": "2026-08-03T15:15:29-07:00"
+      "pub_date": "2026-08-05T22:55:10-07:00"
     },
     {
-      "title": "Nitro 4.0",
-      "url": "https://www.producthunt.com/products/alconost-localization",
+      "title": "Troopr AI Scrum Master",
+      "url": "https://www.producthunt.com/products/troopr",
       "tagline": "",
-      "pub_date": "2026-07-31T05:24:54-07:00"
+      "pub_date": "2026-08-04T02:13:42-07:00"
     },
     {
       "title": "Soloop",
@@ -227,10 +263,16 @@
       "pub_date": "2026-07-17T01:59:06-07:00"
     },
     {
-      "title": "Merge",
-      "url": "https://www.producthunt.com/products/merge-5",
+      "title": "Nitro 4.0",
+      "url": "https://www.producthunt.com/products/alconost-localization",
       "tagline": "",
-      "pub_date": "2026-08-05T22:55:10-07:00"
+      "pub_date": "2026-07-31T05:24:54-07:00"
+    },
+    {
+      "title": "Progress AI Observability",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "tagline": "",
+      "pub_date": "2026-08-05T07:27:52-07:00"
     },
     {
       "title": "Whop CLI",
@@ -239,28 +281,22 @@
       "pub_date": "2026-08-05T18:40:05-07:00"
     },
     {
-      "title": "Troopr AI Scrum Master",
-      "url": "https://www.producthunt.com/products/troopr",
+      "title": "Rindler",
+      "url": "https://www.producthunt.com/products/rindler",
       "tagline": "",
-      "pub_date": "2026-08-04T02:13:42-07:00"
+      "pub_date": "2026-08-03T15:15:29-07:00"
     },
     {
-      "title": "The new Firecrawl MCP",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "title": "Rescript for Desktop",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
       "tagline": "",
-      "pub_date": "2026-08-05T15:49:34-07:00"
+      "pub_date": "2026-08-06T21:56:04-07:00"
     },
     {
-      "title": "HAR",
-      "url": "https://www.producthunt.com/products/har",
+      "title": "AgentOne Desktop",
+      "url": "https://www.producthunt.com/products/agentone-desktop",
       "tagline": "",
-      "pub_date": "2026-08-06T07:56:17-07:00"
-    },
-    {
-      "title": "DataBlur",
-      "url": "https://www.producthunt.com/products/datablur",
-      "tagline": "",
-      "pub_date": "2026-08-06T06:27:35-07:00"
+      "pub_date": "2026-08-06T20:57:52-07:00"
     },
     {
       "title": "Blueberry",
@@ -269,10 +305,22 @@
       "pub_date": "2026-08-06T15:25:45-07:00"
     },
     {
-      "title": "ShootClip",
-      "url": "https://www.producthunt.com/products/shootclip",
+      "title": "Kitesurf",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-08-02T03:43:52-07:00"
+      "pub_date": "2026-08-06T21:59:49-07:00"
+    },
+    {
+      "title": "BAP Studio",
+      "url": "https://www.producthunt.com/products/bap-studio",
+      "tagline": "",
+      "pub_date": "2026-08-06T13:55:58-07:00"
+    },
+    {
+      "title": "DataBlur",
+      "url": "https://www.producthunt.com/products/datablur",
+      "tagline": "",
+      "pub_date": "2026-08-06T06:27:35-07:00"
     },
     {
       "title": "Prompt Bridge",
@@ -287,40 +335,10 @@
       "pub_date": "2025-10-28T09:18:50-07:00"
     },
     {
-      "title": "Kitesurf",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "title": "Crew",
+      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
       "tagline": "",
-      "pub_date": "2026-08-06T21:59:49-07:00"
-    },
-    {
-      "title": "Rescript for Desktop",
-      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-      "tagline": "",
-      "pub_date": "2026-08-06T21:56:04-07:00"
-    },
-    {
-      "title": "StepShot",
-      "url": "https://www.producthunt.com/products/stepshot-2",
-      "tagline": "",
-      "pub_date": "2026-08-05T01:17:49-07:00"
-    },
-    {
-      "title": "Orite",
-      "url": "https://www.producthunt.com/products/orite",
-      "tagline": "",
-      "pub_date": "2026-07-10T05:00:00-07:00"
-    },
-    {
-      "title": "AndroMeld",
-      "url": "https://www.producthunt.com/products/andromeld",
-      "tagline": "",
-      "pub_date": "2026-08-05T06:06:47-07:00"
-    },
-    {
-      "title": "BAP Studio",
-      "url": "https://www.producthunt.com/products/bap-studio",
-      "tagline": "",
-      "pub_date": "2026-08-06T13:55:58-07:00"
+      "pub_date": "2026-08-06T01:08:47-07:00"
     },
     {
       "title": "Token Harbor",
@@ -335,16 +353,16 @@
       "pub_date": "2026-08-05T06:49:48-07:00"
     },
     {
-      "title": "Ticketdesk AI",
-      "url": "https://www.producthunt.com/products/ticketdesk-ai",
+      "title": "Cloudflare OS",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-07-30T21:37:07-07:00"
+      "pub_date": "2026-08-05T11:52:07-07:00"
     },
     {
-      "title": "Gesture Synth School",
-      "url": "https://www.producthunt.com/products/gesture-synth-school",
+      "title": "Shieldstral",
+      "url": "https://www.producthunt.com/products/mistral-7b",
       "tagline": "",
-      "pub_date": "2026-08-05T21:53:27-07:00"
+      "pub_date": "2026-08-05T20:49:38-07:00"
     },
     {
       "title": "Aveiro",
@@ -353,10 +371,10 @@
       "pub_date": "2026-08-05T08:17:17-07:00"
     },
     {
-      "title": "Ododok",
-      "url": "https://www.producthunt.com/products/ododok",
+      "title": "Muse Code",
+      "url": "https://www.producthunt.com/products/meta",
       "tagline": "",
-      "pub_date": "2026-08-04T13:17:00-07:00"
+      "pub_date": "2026-08-05T19:35:53-07:00"
     }
   ]
 }

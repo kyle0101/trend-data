@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:41:23.837Z",
+  "generated_at": "2026-08-09T12:34:18.621Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -11,127 +11,208 @@
       "comments": 3,
       "created_ts": 1786193200,
       "author": "artursapek"
+    },
+    {
+      "title": "Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",
+      "url": "https://github.com/skorotkiewicz/algebruh",
+      "hn_url": "https://news.ycombinator.com/item?id=49224241",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1786212255,
+      "author": "modinfo"
     }
   ],
   "hn_front": [
     {
-      "title": "“Code was never the hard part” is an insult to all programmers",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "hn_url": "https://news.ycombinator.com/item?id=49222189",
-      "points": 681,
-      "comments": 413,
-      "created_ts": 1786199553,
-      "author": "senko"
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "hn_url": "https://news.ycombinator.com/item?id=49223082",
+      "points": 446,
+      "comments": 242,
+      "created_ts": 1786205091,
+      "author": "groomlake"
     },
     {
       "title": "_for-sale DNS records",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "hn_url": "https://news.ycombinator.com/item?id=49221668",
-      "points": 379,
-      "comments": 141,
+      "points": 407,
+      "comments": 157,
       "created_ts": 1786195611,
       "author": "shaunpud"
-    },
-    {
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "hn_url": "https://news.ycombinator.com/item?id=49223082",
-      "points": 368,
-      "comments": 187,
-      "created_ts": 1786205091,
-      "author": "groomlake"
     },
     {
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
       "hn_url": "https://news.ycombinator.com/item?id=49226636",
-      "points": 244,
-      "comments": 89,
+      "points": 371,
+      "comments": 155,
       "created_ts": 1786229363,
       "author": "seg6"
-    },
-    {
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "hn_url": "https://news.ycombinator.com/item?id=49221711",
-      "points": 163,
-      "comments": 30,
-      "created_ts": 1786195986,
-      "author": "electricant"
-    },
-    {
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "hn_url": "https://news.ycombinator.com/item?id=49226536",
-      "points": 146,
-      "comments": 81,
-      "created_ts": 1786228370,
-      "author": "adletbalzhanov"
     },
     {
       "title": "Dithered QR Codes",
       "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
       "hn_url": "https://news.ycombinator.com/item?id=49226742",
-      "points": 133,
-      "comments": 14,
+      "points": 247,
+      "comments": 21,
       "created_ts": 1786230324,
       "author": "jmusall"
     },
     {
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "hn_url": "https://news.ycombinator.com/item?id=49225139",
-      "points": 126,
-      "comments": 27,
-      "created_ts": 1786217888,
-      "author": "MarcoDewey"
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "hn_url": "https://news.ycombinator.com/item?id=49226536",
+      "points": 239,
+      "comments": 151,
+      "created_ts": 1786228370,
+      "author": "adletbalzhanov"
     },
     {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "url": "https://os8088.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49226923",
-      "points": 123,
-      "comments": 50,
+      "points": 193,
+      "comments": 116,
       "created_ts": 1786232247,
       "author": "jggonz"
     },
     {
-      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-      "hn_url": "https://news.ycombinator.com/item?id=49228166",
-      "points": 112,
-      "comments": 8,
-      "created_ts": 1786245960,
-      "author": "minimaxir"
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "hn_url": "https://news.ycombinator.com/item?id=49225139",
+      "points": 167,
+      "comments": 45,
+      "created_ts": 1786217888,
+      "author": "MarcoDewey"
     },
     {
-      "title": "Message your other Claude Code sessions",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "hn_url": "https://news.ycombinator.com/item?id=49222824",
-      "points": 105,
-      "comments": 44,
-      "created_ts": 1786203289,
-      "author": "mfiguiere"
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
+      "hn_url": "https://news.ycombinator.com/item?id=49228458",
+      "points": 163,
+      "comments": 73,
+      "created_ts": 1786249826,
+      "author": "doubletwoyou"
+    },
+    {
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "hn_url": "https://news.ycombinator.com/item?id=49227365",
+      "points": 149,
+      "comments": 145,
+      "created_ts": 1786237198,
+      "author": "bohaska"
     }
   ],
   "ph_today": [
     {
-      "title": "The GTM Co-Founder",
-      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "title": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
       "tagline": "",
-      "pub_date": "2026-07-27T06:50:43-07:00"
+      "pub_date": "2026-06-08T00:46:38-07:00"
     },
     {
-      "title": "Toolport",
-      "url": "https://www.producthunt.com/products/conduit-12",
+      "title": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect",
       "tagline": "",
-      "pub_date": "2026-08-07T13:20:13-07:00"
+      "pub_date": "2026-07-31T22:40:40-07:00"
     },
     {
-      "title": "Basedash Subscriptions",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "SoloUno",
+      "url": "https://www.producthunt.com/products/solouno",
       "tagline": "",
-      "pub_date": "2026-08-07T21:18:54-07:00"
+      "pub_date": "2026-07-30T00:30:38-07:00"
+    },
+    {
+      "title": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "tagline": "",
+      "pub_date": "2026-08-08T15:42:33-07:00"
+    },
+    {
+      "title": "Argos",
+      "url": "https://www.producthunt.com/products/argos-2",
+      "tagline": "",
+      "pub_date": "2026-08-08T16:41:16-07:00"
+    },
+    {
+      "title": "Papaya",
+      "url": "https://www.producthunt.com/products/papaya-4",
+      "tagline": "",
+      "pub_date": "2026-08-02T05:38:49-07:00"
+    },
+    {
+      "title": "Grok Imagine 2.0",
+      "url": "https://www.producthunt.com/products/grok",
+      "tagline": "",
+      "pub_date": "2026-08-08T02:43:19-07:00"
+    },
+    {
+      "title": "Soup CLI",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "tagline": "",
+      "pub_date": "2026-08-08T00:59:19-07:00"
+    },
+    {
+      "title": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2",
+      "tagline": "",
+      "pub_date": "2026-07-14T01:08:56-07:00"
+    },
+    {
+      "title": "Workflo",
+      "url": "https://www.producthunt.com/products/workflo-2",
+      "tagline": "",
+      "pub_date": "2026-08-08T15:35:22-07:00"
+    },
+    {
+      "title": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "tagline": "",
+      "pub_date": "2026-08-07T12:43:09-07:00"
+    },
+    {
+      "title": "Persodex",
+      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
+      "tagline": "",
+      "pub_date": "2026-07-25T22:10:21-07:00"
+    },
+    {
+      "title": "Prompt Golf",
+      "url": "https://www.producthunt.com/products/prompt-golf",
+      "tagline": "",
+      "pub_date": "2026-07-30T08:38:50-07:00"
+    },
+    {
+      "title": "Macrobite",
+      "url": "https://www.producthunt.com/products/macrobite",
+      "tagline": "",
+      "pub_date": "2026-07-24T14:21:50-07:00"
+    },
+    {
+      "title": "DuckDisk",
+      "url": "https://www.producthunt.com/products/duckdisk",
+      "tagline": "",
+      "pub_date": "2026-08-08T03:44:11-07:00"
+    },
+    {
+      "title": "radiusHQ",
+      "url": "https://www.producthunt.com/products/radiushq",
+      "tagline": "",
+      "pub_date": "2026-08-04T02:11:22-07:00"
+    },
+    {
+      "title": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "tagline": "",
+      "pub_date": "2026-08-03T07:41:24-07:00"
+    },
+    {
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "tagline": "",
+      "pub_date": "2026-08-08T05:46:32-07:00"
     },
     {
       "title": "Hexis",
@@ -146,142 +227,28 @@
       "pub_date": "2026-08-05T20:18:25-07:00"
     },
     {
+      "title": "Basedash Subscriptions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-08-07T21:18:54-07:00"
+    },
+    {
+      "title": "Toolport",
+      "url": "https://www.producthunt.com/products/conduit-12",
+      "tagline": "",
+      "pub_date": "2026-08-07T13:20:13-07:00"
+    },
+    {
+      "title": "The GTM Co-Founder",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "tagline": "",
+      "pub_date": "2026-07-27T06:50:43-07:00"
+    },
+    {
       "title": "Prompt Bridge",
       "url": "https://www.producthunt.com/products/prompt-bridge-2",
       "tagline": "",
       "pub_date": "2026-08-06T04:38:18-07:00"
-    },
-    {
-      "title": "ShootClip",
-      "url": "https://www.producthunt.com/products/shootclip",
-      "tagline": "",
-      "pub_date": "2026-08-02T03:43:52-07:00"
-    },
-    {
-      "title": "HAR",
-      "url": "https://www.producthunt.com/products/har",
-      "tagline": "",
-      "pub_date": "2026-08-06T07:56:17-07:00"
-    },
-    {
-      "title": "AgentOne Desktop",
-      "url": "https://www.producthunt.com/products/agentone-desktop",
-      "tagline": "",
-      "pub_date": "2026-08-06T20:57:52-07:00"
-    },
-    {
-      "title": "Soloop",
-      "url": "https://www.producthunt.com/products/soloop",
-      "tagline": "",
-      "pub_date": "2026-08-06T03:36:29-07:00"
-    },
-    {
-      "title": "DataBlur",
-      "url": "https://www.producthunt.com/products/datablur",
-      "tagline": "",
-      "pub_date": "2026-08-06T06:27:35-07:00"
-    },
-    {
-      "title": "Orite",
-      "url": "https://www.producthunt.com/products/orite",
-      "tagline": "",
-      "pub_date": "2026-07-10T05:00:00-07:00"
-    },
-    {
-      "title": "Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "tagline": "",
-      "pub_date": "2026-07-17T01:59:06-07:00"
-    },
-    {
-      "title": "Reference",
-      "url": "https://www.producthunt.com/products/reference-2",
-      "tagline": "",
-      "pub_date": "2026-08-04T22:07:59-07:00"
-    },
-    {
-      "title": "Rescript for Desktop",
-      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-      "tagline": "",
-      "pub_date": "2026-08-06T21:56:04-07:00"
-    },
-    {
-      "title": "StepShot",
-      "url": "https://www.producthunt.com/products/stepshot-2",
-      "tagline": "",
-      "pub_date": "2026-08-05T01:17:49-07:00"
-    },
-    {
-      "title": "AndroMeld",
-      "url": "https://www.producthunt.com/products/andromeld",
-      "tagline": "",
-      "pub_date": "2026-08-05T06:06:47-07:00"
-    },
-    {
-      "title": "Whop CLI",
-      "url": "https://www.producthunt.com/products/whop-cli",
-      "tagline": "",
-      "pub_date": "2026-08-05T18:40:05-07:00"
-    },
-    {
-      "title": "Merge",
-      "url": "https://www.producthunt.com/products/merge-5",
-      "tagline": "",
-      "pub_date": "2026-08-05T22:55:10-07:00"
-    },
-    {
-      "title": "Crew",
-      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-      "tagline": "",
-      "pub_date": "2026-08-06T01:08:47-07:00"
-    },
-    {
-      "title": "Progress AI Observability",
-      "url": "https://www.producthunt.com/products/progress-ai-observability",
-      "tagline": "",
-      "pub_date": "2026-08-05T07:27:52-07:00"
-    },
-    {
-      "title": "Nitro 4.0",
-      "url": "https://www.producthunt.com/products/alconost-localization",
-      "tagline": "",
-      "pub_date": "2026-07-31T05:24:54-07:00"
-    },
-    {
-      "title": "Rindler",
-      "url": "https://www.producthunt.com/products/rindler",
-      "tagline": "",
-      "pub_date": "2026-08-03T15:15:29-07:00"
-    },
-    {
-      "title": "BAP Studio",
-      "url": "https://www.producthunt.com/products/bap-studio",
-      "tagline": "",
-      "pub_date": "2026-08-06T13:55:58-07:00"
-    },
-    {
-      "title": "Blueberry",
-      "url": "https://www.producthunt.com/products/blueberry-6",
-      "tagline": "",
-      "pub_date": "2026-08-06T15:25:45-07:00"
-    },
-    {
-      "title": "The new Firecrawl MCP",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-08-05T15:49:34-07:00"
-    },
-    {
-      "title": "Troopr AI Scrum Master",
-      "url": "https://www.producthunt.com/products/troopr",
-      "tagline": "",
-      "pub_date": "2026-08-04T02:13:42-07:00"
-    },
-    {
-      "title": "BrowserOS neo",
-      "url": "https://www.producthunt.com/products/browseros_ai",
-      "tagline": "",
-      "pub_date": "2025-10-28T09:18:50-07:00"
     },
     {
       "title": "Kitesurf",
@@ -290,10 +257,34 @@
       "pub_date": "2026-08-06T21:59:49-07:00"
     },
     {
-      "title": "Aveiro",
-      "url": "https://www.producthunt.com/products/aveiro",
+      "title": "Crew",
+      "url": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
       "tagline": "",
-      "pub_date": "2026-08-05T08:17:17-07:00"
+      "pub_date": "2026-08-06T01:08:47-07:00"
+    },
+    {
+      "title": "AndroMeld",
+      "url": "https://www.producthunt.com/products/andromeld",
+      "tagline": "",
+      "pub_date": "2026-08-05T06:06:47-07:00"
+    },
+    {
+      "title": "Troopr AI Scrum Master",
+      "url": "https://www.producthunt.com/products/troopr",
+      "tagline": "",
+      "pub_date": "2026-08-04T02:13:42-07:00"
+    },
+    {
+      "title": "Whop CLI",
+      "url": "https://www.producthunt.com/products/whop-cli",
+      "tagline": "",
+      "pub_date": "2026-08-05T18:40:05-07:00"
+    },
+    {
+      "title": "ShootClip",
+      "url": "https://www.producthunt.com/products/shootclip",
+      "tagline": "",
+      "pub_date": "2026-08-02T03:43:52-07:00"
     }
   ]
 }

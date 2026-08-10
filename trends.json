@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:51:27.859Z",
+  "generated_at": "2026-08-10T18:44:39.610Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,236 +7,143 @@
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49238851",
-      "points": 124,
-      "comments": 52,
+      "points": 182,
+      "comments": 76,
       "created_ts": 1786331920,
       "author": "MrRowTheBoat"
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "hn_url": "https://news.ycombinator.com/item?id=49245437",
+      "points": 77,
+      "comments": 50,
+      "created_ts": 1786377563,
+      "author": "ubermon"
     },
     {
       "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
       "url": "https://alphabetsoup.club",
       "hn_url": "https://news.ycombinator.com/item?id=49235347",
-      "points": 33,
-      "comments": 31,
+      "points": 34,
+      "comments": 33,
       "created_ts": 1786306545,
       "author": "johnchinjew"
-    },
-    {
-      "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
-      "url": "https://douwe.com/projects/tectonic_globe",
-      "hn_url": "https://news.ycombinator.com/item?id=49231777",
-      "points": 32,
-      "comments": 8,
-      "created_ts": 1786285805,
-      "author": "dosinga"
     },
     {
       "title": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
       "url": "https://consciousnesslibrary.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49235471",
-      "points": 22,
-      "comments": 10,
+      "points": 25,
+      "comments": 12,
       "created_ts": 1786307252,
       "author": "elliotec"
     },
     {
-      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-      "url": "https://alexanderwanyoike.github.io/vibez/",
-      "hn_url": "https://news.ycombinator.com/item?id=49232369",
-      "points": 21,
-      "comments": 10,
-      "created_ts": 1786289509,
-      "author": "mercutio93"
-    },
-    {
-      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "hn_url": "https://news.ycombinator.com/item?id=49233306",
+      "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+      "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242475",
       "points": 18,
-      "comments": 1,
-      "created_ts": 1786295405,
-      "author": "nmaroulis21"
-    },
-    {
-      "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-      "url": "https://playground.fabraix.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49233442",
-      "points": 13,
-      "comments": 4,
-      "created_ts": 1786296392,
-      "author": "zachdotai"
+      "comments": 9,
+      "created_ts": 1786362727,
+      "author": "mikeayles"
     }
   ],
   "hn_front": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "hn_url": "https://news.ycombinator.com/item?id=49234675",
-      "points": 700,
-      "comments": 442,
-      "created_ts": 1786303009,
-      "author": "laurentiurad"
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "points": 803,
+      "comments": 452,
+      "created_ts": 1786356602,
+      "author": "riordan"
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "hn_url": "https://news.ycombinator.com/item?id=49239751",
-      "points": 321,
-      "comments": 185,
+      "points": 533,
+      "comments": 317,
       "created_ts": 1786341758,
       "author": "etoxin"
     },
     {
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "hn_url": "https://news.ycombinator.com/item?id=49232253",
-      "points": 319,
-      "comments": 225,
-      "created_ts": 1786288906,
-      "author": "jader201"
+      "title": "Tl;dv: Over 180k meetings left wide open",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "hn_url": "https://news.ycombinator.com/item?id=49242739",
+      "points": 392,
+      "comments": 134,
+      "created_ts": 1786364765,
+      "author": "colesantiago"
     },
     {
-      "title": "What Happened to HackerOne?",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "hn_url": "https://news.ycombinator.com/item?id=49238561",
-      "points": 280,
-      "comments": 142,
-      "created_ts": 1786328597,
-      "author": "hipparchus"
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "hn_url": "https://news.ycombinator.com/item?id=49245023",
+      "points": 200,
+      "comments": 279,
+      "created_ts": 1786375924,
+      "author": "RickJWagner"
     },
     {
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "hn_url": "https://news.ycombinator.com/item?id=49241679",
-      "points": 270,
-      "comments": 106,
-      "created_ts": 1786356602,
-      "author": "riordan"
+      "title": "Mistral Patent for “Code implemented tool calls”",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49243397",
+      "points": 143,
+      "comments": 125,
+      "created_ts": 1786368552,
+      "author": "theanonymousone"
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "hn_url": "https://news.ycombinator.com/item?id=49233423",
-      "points": 269,
-      "comments": 929,
-      "created_ts": 1786296202,
-      "author": "david927"
-    },
-    {
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "hn_url": "https://news.ycombinator.com/item?id=49231809",
-      "points": 255,
-      "comments": 62,
-      "created_ts": 1786285973,
-      "author": "Klaster_1"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "hn_url": "https://news.ycombinator.com/item?id=49239021",
-      "points": 247,
-      "comments": 257,
-      "created_ts": 1786333800,
-      "author": "sbehere"
-    },
-    {
-      "title": "I made tinnitus my friend, then it disappeared [video]",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "hn_url": "https://news.ycombinator.com/item?id=49234271",
-      "points": 172,
-      "comments": 138,
-      "created_ts": 1786300895,
-      "author": "gregsadetsky"
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49238851",
-      "points": 124,
-      "comments": 52,
-      "created_ts": 1786331920,
-      "author": "MrRowTheBoat"
-    },
-    {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "hn_url": "https://news.ycombinator.com/item?id=49235641",
-      "points": 120,
+      "title": "Squeak 6.1",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242653",
+      "points": 139,
       "comments": 82,
-      "created_ts": 1786308149,
-      "author": "berghoffer"
+      "created_ts": 1786364153,
+      "author": "fniephaus"
     },
     {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "url": "https://github.com/shinyquagsire23/Klepton",
-      "hn_url": "https://news.ycombinator.com/item?id=49238818",
-      "points": 114,
-      "comments": 16,
-      "created_ts": 1786331568,
-      "author": "LorenDB"
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "hn_url": "https://news.ycombinator.com/item?id=49241846",
+      "points": 126,
+      "comments": 37,
+      "created_ts": 1786357754,
+      "author": "xeonmc"
     },
     {
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "hn_url": "https://news.ycombinator.com/item?id=49238050",
-      "points": 108,
-      "comments": 18,
-      "created_ts": 1786323694,
-      "author": "craigkerstiens"
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "hn_url": "https://news.ycombinator.com/item?id=49243029",
+      "points": 116,
+      "comments": 72,
+      "created_ts": 1786366696,
+      "author": "jonathanmkeegan"
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49235697",
-      "points": 107,
-      "comments": 35,
-      "created_ts": 1786308526,
-      "author": "smartmic"
+      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+      "hn_url": "https://news.ycombinator.com/item?id=49245251",
+      "points": 113,
+      "comments": 32,
+      "created_ts": 1786376988,
+      "author": "Bender"
     }
   ],
   "ph_today": [
     {
-      "title": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
+      "title": "Gutta",
+      "url": "https://www.producthunt.com/products/gutta",
       "tagline": "",
-      "pub_date": "2026-08-06T00:21:22-07:00"
-    },
-    {
-      "title": "Paritok",
-      "url": "https://www.producthunt.com/products/paritok",
-      "tagline": "",
-      "pub_date": "2026-07-20T01:39:12-07:00"
-    },
-    {
-      "title": "Prime Agent",
-      "url": "https://www.producthunt.com/products/prime-intellect",
-      "tagline": "",
-      "pub_date": "2026-08-09T21:13:06-07:00"
-    },
-    {
-      "title": "oqoqo",
-      "url": "https://www.producthunt.com/products/oqoqo",
-      "tagline": "",
-      "pub_date": "2026-07-17T14:16:17-07:00"
+      "pub_date": "2026-08-09T10:39:48-07:00"
     },
     {
       "title": "AI Group Call",
       "url": "https://www.producthunt.com/products/ai-group-call",
       "tagline": "",
       "pub_date": "2026-08-09T09:50:42-07:00"
-    },
-    {
-      "title": "Remix",
-      "url": "https://www.producthunt.com/products/remix-8",
-      "tagline": "",
-      "pub_date": "2026-08-05T19:16:52-07:00"
-    },
-    {
-      "title": "Gutta",
-      "url": "https://www.producthunt.com/products/gutta",
-      "tagline": "",
-      "pub_date": "2026-08-09T10:39:48-07:00"
     },
     {
       "title": "SecondBrain Note by GenSpark",
@@ -251,52 +158,40 @@
       "pub_date": "2026-07-29T07:22:05-07:00"
     },
     {
-      "title": "radiusHQ",
-      "url": "https://www.producthunt.com/products/radiushq",
+      "title": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo",
       "tagline": "",
-      "pub_date": "2026-08-04T02:11:22-07:00"
+      "pub_date": "2026-07-17T14:16:17-07:00"
     },
     {
-      "title": "Grok Imagine 2.0",
-      "url": "https://www.producthunt.com/products/grok",
+      "title": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
       "tagline": "",
-      "pub_date": "2026-08-08T02:43:19-07:00"
+      "pub_date": "2026-08-06T00:21:22-07:00"
+    },
+    {
+      "title": "Prime Agent",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "tagline": "",
+      "pub_date": "2026-08-09T21:13:06-07:00"
+    },
+    {
+      "title": "Remix",
+      "url": "https://www.producthunt.com/products/remix-8",
+      "tagline": "",
+      "pub_date": "2026-08-05T19:16:52-07:00"
+    },
+    {
+      "title": "Paritok",
+      "url": "https://www.producthunt.com/products/paritok",
+      "tagline": "",
+      "pub_date": "2026-07-20T01:39:12-07:00"
     },
     {
       "title": "SoloUno",
       "url": "https://www.producthunt.com/products/solouno",
       "tagline": "",
       "pub_date": "2026-07-30T00:30:38-07:00"
-    },
-    {
-      "title": "VoiceOS App Store",
-      "url": "https://www.producthunt.com/products/voiceos",
-      "tagline": "",
-      "pub_date": "2026-08-08T15:42:33-07:00"
-    },
-    {
-      "title": "Omniwork",
-      "url": "https://www.producthunt.com/products/omniwork-2",
-      "tagline": "",
-      "pub_date": "2026-07-14T01:08:56-07:00"
-    },
-    {
-      "title": "AgentConnect",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "tagline": "",
-      "pub_date": "2026-07-31T22:40:40-07:00"
-    },
-    {
-      "title": "Good Assistant 2",
-      "url": "https://www.producthunt.com/products/good-assistant",
-      "tagline": "",
-      "pub_date": "2026-08-08T05:46:32-07:00"
-    },
-    {
-      "title": "Argos",
-      "url": "https://www.producthunt.com/products/argos-2",
-      "tagline": "",
-      "pub_date": "2026-08-08T16:41:16-07:00"
     },
     {
       "title": "Prompt Golf",
@@ -311,16 +206,22 @@
       "pub_date": "2026-08-08T00:59:19-07:00"
     },
     {
+      "title": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2",
+      "tagline": "",
+      "pub_date": "2026-07-14T01:08:56-07:00"
+    },
+    {
       "title": "Macrobite",
       "url": "https://www.producthunt.com/products/macrobite",
       "tagline": "",
       "pub_date": "2026-07-24T14:21:50-07:00"
     },
     {
-      "title": "Persodex",
-      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
+      "title": "Grok Imagine 2.0",
+      "url": "https://www.producthunt.com/products/grok",
       "tagline": "",
-      "pub_date": "2026-07-25T22:10:21-07:00"
+      "pub_date": "2026-08-08T02:43:19-07:00"
     },
     {
       "title": "Workflo",
@@ -329,28 +230,22 @@
       "pub_date": "2026-08-08T15:35:22-07:00"
     },
     {
-      "title": "DocsAlot CLI",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "tagline": "",
-      "pub_date": "2026-08-07T12:43:09-07:00"
-    },
-    {
       "title": "DuckDisk",
       "url": "https://www.producthunt.com/products/duckdisk",
       "tagline": "",
       "pub_date": "2026-08-08T03:44:11-07:00"
     },
     {
-      "title": "Papaya",
-      "url": "https://www.producthunt.com/products/papaya-4",
+      "title": "Persodex",
+      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
       "tagline": "",
-      "pub_date": "2026-08-02T05:38:49-07:00"
+      "pub_date": "2026-07-25T22:10:21-07:00"
     },
     {
-      "title": "ConferenceGrid",
-      "url": "https://www.producthunt.com/products/conferencegrid",
+      "title": "Argos",
+      "url": "https://www.producthunt.com/products/argos-2",
       "tagline": "",
-      "pub_date": "2026-08-03T07:41:24-07:00"
+      "pub_date": "2026-08-08T16:41:16-07:00"
     },
     {
       "title": "Proxy Tester by ScrapeOps",
@@ -359,16 +254,58 @@
       "pub_date": "2026-06-08T00:46:38-07:00"
     },
     {
-      "title": "AstraPixels",
-      "url": "https://www.producthunt.com/products/astrapixels",
+      "title": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
       "tagline": "",
-      "pub_date": "2026-08-05T20:18:25-07:00"
+      "pub_date": "2026-08-08T15:42:33-07:00"
+    },
+    {
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "tagline": "",
+      "pub_date": "2026-08-08T05:46:32-07:00"
+    },
+    {
+      "title": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect",
+      "tagline": "",
+      "pub_date": "2026-07-31T22:40:40-07:00"
+    },
+    {
+      "title": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "tagline": "",
+      "pub_date": "2026-08-07T12:43:09-07:00"
+    },
+    {
+      "title": "radiusHQ",
+      "url": "https://www.producthunt.com/products/radiushq",
+      "tagline": "",
+      "pub_date": "2026-08-04T02:11:22-07:00"
+    },
+    {
+      "title": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "tagline": "",
+      "pub_date": "2026-08-03T07:41:24-07:00"
+    },
+    {
+      "title": "Papaya",
+      "url": "https://www.producthunt.com/products/papaya-4",
+      "tagline": "",
+      "pub_date": "2026-08-02T05:38:49-07:00"
     },
     {
       "title": "The GTM Co-Founder",
       "url": "https://www.producthunt.com/products/the-gtm-co-founder",
       "tagline": "",
       "pub_date": "2026-07-27T06:50:43-07:00"
+    },
+    {
+      "title": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels",
+      "tagline": "",
+      "pub_date": "2026-08-05T20:18:25-07:00"
     },
     {
       "title": "Basedash Subscriptions",

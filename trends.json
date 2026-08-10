@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:28:07.751Z",
+  "generated_at": "2026-08-10T01:08:57.950Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,138 +7,195 @@
       "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
       "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
       "hn_url": "https://news.ycombinator.com/item?id=49230891",
-      "points": 78,
+      "points": 104,
       "comments": 16,
       "created_ts": 1786279396,
       "author": "Rochus"
+    },
+    {
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "url": "https://airy.so",
+      "hn_url": "https://news.ycombinator.com/item?id=49229848",
+      "points": 36,
+      "comments": 16,
+      "created_ts": 1786267772,
+      "author": "login588"
     },
     {
       "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
       "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
       "hn_url": "https://news.ycombinator.com/item?id=49230550",
       "points": 29,
-      "comments": 23,
+      "comments": 24,
       "created_ts": 1786275988,
       "author": "nmitchko"
-    },
-    {
-      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-      "url": "https://airy.so",
-      "hn_url": "https://news.ycombinator.com/item?id=49229848",
-      "points": 26,
-      "comments": 14,
-      "created_ts": 1786267772,
-      "author": "login588"
-    },
-    {
-      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-      "url": "https://alexanderwanyoike.github.io/vibez/",
-      "hn_url": "https://news.ycombinator.com/item?id=49232369",
-      "points": 17,
-      "comments": 5,
-      "created_ts": 1786289509,
-      "author": "mercutio93"
     },
     {
       "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
       "url": "https://douwe.com/projects/tectonic_globe",
       "hn_url": "https://news.ycombinator.com/item?id=49231777",
-      "points": 16,
-      "comments": 2,
+      "points": 27,
+      "comments": 5,
       "created_ts": 1786285805,
       "author": "dosinga"
     },
     {
-      "title": "Show HN: Tura – Build agent that uses 80% less token and delivers better results",
-      "url": "https://github.com/Tura-AI/tura",
-      "hn_url": "https://news.ycombinator.com/item?id=49227119",
-      "points": 12,
+      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+      "url": "https://alphabetsoup.club",
+      "hn_url": "https://news.ycombinator.com/item?id=49235347",
+      "points": 22,
+      "comments": 14,
+      "created_ts": 1786306545,
+      "author": "johnchinjew"
+    },
+    {
+      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "url": "https://alexanderwanyoike.github.io/vibez/",
+      "hn_url": "https://news.ycombinator.com/item?id=49232369",
+      "points": 19,
+      "comments": 10,
+      "created_ts": 1786289509,
+      "author": "mercutio93"
+    },
+    {
+      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+      "hn_url": "https://news.ycombinator.com/item?id=49233306",
+      "points": 14,
       "comments": 0,
-      "created_ts": 1786234392,
-      "author": "turaainet"
+      "created_ts": 1786295405,
+      "author": "nmaroulis21"
+    },
+    {
+      "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
+      "url": "https://playground.fabraix.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49233442",
+      "points": 12,
+      "comments": 3,
+      "created_ts": 1786296392,
+      "author": "zachdotai"
+    },
+    {
+      "title": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
+      "url": "https://consciousnesslibrary.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49235471",
+      "points": 11,
+      "comments": 8,
+      "created_ts": 1786307252,
+      "author": "elliotec"
+    },
+    {
+      "title": "Show HN: My WHOOP has no screen. My Kindle had no job. So I put them together",
+      "url": "https://github.com/kaibuildsai/kindle-for-whoop",
+      "hn_url": "https://news.ycombinator.com/item?id=49230742",
+      "points": 11,
+      "comments": 5,
+      "created_ts": 1786277952,
+      "author": "kaibuidsai"
     }
   ],
   "hn_front": [
     {
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "hn_url": "https://news.ycombinator.com/item?id=49226636",
-      "points": 460,
-      "comments": 224,
-      "created_ts": 1786229363,
-      "author": "seg6"
-    },
-    {
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "hn_url": "https://news.ycombinator.com/item?id=49231154",
-      "points": 381,
-      "comments": 167,
+      "points": 551,
+      "comments": 250,
       "created_ts": 1786281643,
       "author": "satvikpendem"
     },
     {
-      "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "hn_url": "https://news.ycombinator.com/item?id=49226536",
-      "points": 317,
-      "comments": 220,
-      "created_ts": 1786228370,
-      "author": "adletbalzhanov"
-    },
-    {
-      "title": "Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "hn_url": "https://news.ycombinator.com/item?id=49232221",
-      "points": 158,
-      "comments": 121,
-      "created_ts": 1786288705,
-      "author": "evo_9"
-    },
-    {
-      "title": "There Are Magic Hexagons of Every Order",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49229174",
-      "points": 149,
-      "comments": 23,
-      "created_ts": 1786259998,
-      "author": "gukoff"
-    },
-    {
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "url": "https://github.com/jmarshall23/msword",
-      "hn_url": "https://news.ycombinator.com/item?id=49228663",
-      "points": 141,
-      "comments": 59,
-      "created_ts": 1786253021,
-      "author": "BruceEel"
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "hn_url": "https://news.ycombinator.com/item?id=49234675",
+      "points": 385,
+      "comments": 217,
+      "created_ts": 1786303009,
+      "author": "laurentiurad"
     },
     {
       "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
       "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
       "hn_url": "https://news.ycombinator.com/item?id=49232138",
-      "points": 135,
-      "comments": 112,
+      "points": 349,
+      "comments": 292,
       "created_ts": 1786288280,
       "author": "akyuu"
     },
     {
-      "title": "Criminal Deception in Silicon Valley",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-      "hn_url": "https://news.ycombinator.com/item?id=49232318",
-      "points": 114,
-      "comments": 48,
-      "created_ts": 1786289205,
-      "author": "iamnothere"
+      "title": "Everything you do is being recorded",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "hn_url": "https://news.ycombinator.com/item?id=49230477",
+      "points": 197,
+      "comments": 159,
+      "created_ts": 1786275048,
+      "author": "ike_usawa"
+    },
+    {
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "hn_url": "https://news.ycombinator.com/item?id=49231809",
+      "points": 179,
+      "comments": 38,
+      "created_ts": 1786285973,
+      "author": "Klaster_1"
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "hn_url": "https://news.ycombinator.com/item?id=49232253",
+      "points": 172,
+      "comments": 126,
+      "created_ts": 1786288906,
+      "author": "jader201"
+    },
+    {
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "hn_url": "https://news.ycombinator.com/item?id=49233423",
+      "points": 162,
+      "comments": 618,
+      "created_ts": 1786296202,
+      "author": "david927"
+    },
+    {
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "url": "https://kibotronics.net/unlisted/lilly-machines/",
+      "hn_url": "https://news.ycombinator.com/item?id=49231397",
+      "points": 124,
+      "comments": 84,
+      "created_ts": 1786283256,
+      "author": "Kiboneu"
+    },
+    {
+      "title": "Reviving a four year old reMarkable 2",
+      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49230514",
+      "points": 118,
+      "comments": 86,
+      "created_ts": 1786275565,
+      "author": "tremguy"
+    },
+    {
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "hn_url": "https://news.ycombinator.com/item?id=49230891",
+      "points": 104,
+      "comments": 16,
+      "created_ts": 1786279396,
+      "author": "Rochus"
+    },
+    {
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49233448",
+      "points": 102,
+      "comments": 53,
+      "created_ts": 1786296436,
+      "author": "hexomancer"
     }
   ],
   "ph_today": [
-    {
-      "title": "Workflo",
-      "url": "https://www.producthunt.com/products/workflo-2",
-      "tagline": "",
-      "pub_date": "2026-08-08T15:35:22-07:00"
-    },
     {
       "title": "DocsAlot CLI",
       "url": "https://www.producthunt.com/products/docsalot-2",
@@ -146,10 +203,16 @@
       "pub_date": "2026-08-07T12:43:09-07:00"
     },
     {
-      "title": "Omniwork",
-      "url": "https://www.producthunt.com/products/omniwork-2",
+      "title": "Workflo",
+      "url": "https://www.producthunt.com/products/workflo-2",
       "tagline": "",
-      "pub_date": "2026-07-14T01:08:56-07:00"
+      "pub_date": "2026-08-08T15:35:22-07:00"
+    },
+    {
+      "title": "Macrobite",
+      "url": "https://www.producthunt.com/products/macrobite",
+      "tagline": "",
+      "pub_date": "2026-07-24T14:21:50-07:00"
     },
     {
       "title": "Argos",
@@ -164,46 +227,16 @@
       "pub_date": "2026-08-08T03:44:11-07:00"
     },
     {
-      "title": "Soup CLI",
-      "url": "https://www.producthunt.com/products/soup-cli",
-      "tagline": "",
-      "pub_date": "2026-08-08T00:59:19-07:00"
-    },
-    {
-      "title": "SoloUno",
-      "url": "https://www.producthunt.com/products/solouno",
-      "tagline": "",
-      "pub_date": "2026-07-30T00:30:38-07:00"
-    },
-    {
       "title": "Persodex",
       "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
       "tagline": "",
       "pub_date": "2026-07-25T22:10:21-07:00"
     },
     {
-      "title": "Papaya",
-      "url": "https://www.producthunt.com/products/papaya-4",
+      "title": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2",
       "tagline": "",
-      "pub_date": "2026-08-02T05:38:49-07:00"
-    },
-    {
-      "title": "Proxy Tester by ScrapeOps",
-      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
-      "tagline": "",
-      "pub_date": "2026-06-08T00:46:38-07:00"
-    },
-    {
-      "title": "Macrobite",
-      "url": "https://www.producthunt.com/products/macrobite",
-      "tagline": "",
-      "pub_date": "2026-07-24T14:21:50-07:00"
-    },
-    {
-      "title": "AgentConnect",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "tagline": "",
-      "pub_date": "2026-07-31T22:40:40-07:00"
+      "pub_date": "2026-07-14T01:08:56-07:00"
     },
     {
       "title": "Prompt Golf",
@@ -212,22 +245,22 @@
       "pub_date": "2026-07-30T08:38:50-07:00"
     },
     {
-      "title": "Good Assistant 2",
-      "url": "https://www.producthunt.com/products/good-assistant",
+      "title": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect",
       "tagline": "",
-      "pub_date": "2026-08-08T05:46:32-07:00"
+      "pub_date": "2026-07-31T22:40:40-07:00"
     },
     {
-      "title": "ConferenceGrid",
-      "url": "https://www.producthunt.com/products/conferencegrid",
+      "title": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
       "tagline": "",
-      "pub_date": "2026-08-03T07:41:24-07:00"
+      "pub_date": "2026-06-08T00:46:38-07:00"
     },
     {
-      "title": "Grok Imagine 2.0",
-      "url": "https://www.producthunt.com/products/grok",
+      "title": "SoloUno",
+      "url": "https://www.producthunt.com/products/solouno",
       "tagline": "",
-      "pub_date": "2026-08-08T02:43:19-07:00"
+      "pub_date": "2026-07-30T00:30:38-07:00"
     },
     {
       "title": "VoiceOS App Store",
@@ -236,16 +269,46 @@
       "pub_date": "2026-08-08T15:42:33-07:00"
     },
     {
+      "title": "Grok Imagine 2.0",
+      "url": "https://www.producthunt.com/products/grok",
+      "tagline": "",
+      "pub_date": "2026-08-08T02:43:19-07:00"
+    },
+    {
+      "title": "Soup CLI",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "tagline": "",
+      "pub_date": "2026-08-08T00:59:19-07:00"
+    },
+    {
+      "title": "Papaya",
+      "url": "https://www.producthunt.com/products/papaya-4",
+      "tagline": "",
+      "pub_date": "2026-08-02T05:38:49-07:00"
+    },
+    {
+      "title": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "tagline": "",
+      "pub_date": "2026-08-03T07:41:24-07:00"
+    },
+    {
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "tagline": "",
+      "pub_date": "2026-08-08T05:46:32-07:00"
+    },
+    {
       "title": "radiusHQ",
       "url": "https://www.producthunt.com/products/radiushq",
       "tagline": "",
       "pub_date": "2026-08-04T02:11:22-07:00"
     },
     {
-      "title": "AstraPixels",
-      "url": "https://www.producthunt.com/products/astrapixels",
+      "title": "The GTM Co-Founder",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
       "tagline": "",
-      "pub_date": "2026-08-05T20:18:25-07:00"
+      "pub_date": "2026-07-27T06:50:43-07:00"
     },
     {
       "title": "Toolport",
@@ -254,22 +317,22 @@
       "pub_date": "2026-08-07T13:20:13-07:00"
     },
     {
-      "title": "Basedash Subscriptions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-08-07T21:18:54-07:00"
-    },
-    {
       "title": "Hexis",
       "url": "https://www.producthunt.com/products/bevel-4",
       "tagline": "",
       "pub_date": "2026-08-03T09:15:36-07:00"
     },
     {
-      "title": "The GTM Co-Founder",
-      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "title": "Basedash Subscriptions",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-07-27T06:50:43-07:00"
+      "pub_date": "2026-08-07T21:18:54-07:00"
+    },
+    {
+      "title": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels",
+      "tagline": "",
+      "pub_date": "2026-08-05T20:18:25-07:00"
     },
     {
       "title": "Prompt Bridge",
@@ -284,6 +347,12 @@
       "pub_date": "2026-08-06T01:08:47-07:00"
     },
     {
+      "title": "BrowserOS neo",
+      "url": "https://www.producthunt.com/products/browseros_ai",
+      "tagline": "",
+      "pub_date": "2025-10-28T09:18:50-07:00"
+    },
+    {
       "title": "Troopr AI Scrum Master",
       "url": "https://www.producthunt.com/products/troopr",
       "tagline": "",
@@ -296,22 +365,16 @@
       "pub_date": "2026-08-02T03:43:52-07:00"
     },
     {
-      "title": "HAR",
-      "url": "https://www.producthunt.com/products/har",
+      "title": "Blueberry",
+      "url": "https://www.producthunt.com/products/blueberry-6",
       "tagline": "",
-      "pub_date": "2026-08-06T07:56:17-07:00"
+      "pub_date": "2026-08-06T15:25:45-07:00"
     },
     {
-      "title": "AgentOne Desktop",
-      "url": "https://www.producthunt.com/products/agentone-desktop",
+      "title": "Kitesurf",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-08-06T20:57:52-07:00"
-    },
-    {
-      "title": "AndroMeld",
-      "url": "https://www.producthunt.com/products/andromeld",
-      "tagline": "",
-      "pub_date": "2026-08-05T06:06:47-07:00"
+      "pub_date": "2026-08-06T21:59:49-07:00"
     }
   ]
 }

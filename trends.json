@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:53:23.794Z",
+  "generated_at": "2026-08-11T12:45:42.409Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "hn_url": "https://news.ycombinator.com/item?id=49246804",
-      "points": 285,
-      "comments": 106,
+      "points": 382,
+      "comments": 139,
       "created_ts": 1786382527,
       "author": "HenryNdubuaku"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
       "hn_url": "https://news.ycombinator.com/item?id=49251179",
-      "points": 158,
-      "comments": 46,
+      "points": 220,
+      "comments": 77,
       "created_ts": 1786403785,
       "author": "Alen123"
     },
@@ -25,26 +25,17 @@
       "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
       "url": "https://github.com/AntigmaLabs/ante",
       "hn_url": "https://news.ycombinator.com/item?id=49245437",
-      "points": 125,
-      "comments": 75,
+      "points": 146,
+      "comments": 83,
       "created_ts": 1786377563,
       "author": "ubermon"
-    },
-    {
-      "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-      "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
-      "hn_url": "https://news.ycombinator.com/item?id=49242475",
-      "points": 51,
-      "comments": 18,
-      "created_ts": 1786362727,
-      "author": "mikeayles"
     },
     {
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "url": "https://github.com/activeing123/mcptoon",
       "hn_url": "https://news.ycombinator.com/item?id=49253721",
-      "points": 25,
-      "comments": 11,
+      "points": 56,
+      "comments": 40,
       "created_ts": 1786426018,
       "author": "mcptokensaver"
     },
@@ -52,230 +43,311 @@
       "title": "Show HN: My local climbing gym from photogrammetry",
       "url": "https://kmcheung12.github.io/climb-preview/tour/ae43c6e5",
       "hn_url": "https://news.ycombinator.com/item?id=49250141",
-      "points": 22,
-      "comments": 3,
+      "points": 26,
+      "comments": 8,
       "created_ts": 1786397943,
       "author": "a_c"
-    },
-    {
-      "title": "Show HN: Design Engineering, as a Service",
-      "url": "https://designshippers.com/?0",
-      "hn_url": "https://news.ycombinator.com/item?id=49243168",
-      "points": 13,
-      "comments": 7,
-      "created_ts": 1786367524,
-      "author": "krm01"
     },
     {
       "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
       "url": "https://github.com/leog/ai-pulse",
       "hn_url": "https://news.ycombinator.com/item?id=49250486",
-      "points": 13,
+      "points": 16,
       "comments": 4,
       "created_ts": 1786399661,
       "author": "leog_me"
     },
     {
+      "title": "Show HN: I vibecoded a heavy lift drone",
+      "url": "https://lukeiseman.substack.com/p/i-vibecoded-a-drone",
+      "hn_url": "https://news.ycombinator.com/item?id=49253378",
+      "points": 16,
+      "comments": 1,
+      "created_ts": 1786422460,
+      "author": "liseman"
+    },
+    {
+      "title": "Show HN: Design Engineering, as a Service",
+      "url": "https://designshippers.com/?0",
+      "hn_url": "https://news.ycombinator.com/item?id=49243168",
+      "points": 14,
+      "comments": 12,
+      "created_ts": 1786367524,
+      "author": "krm01"
+    },
+    {
       "title": "Show HN: 100% native Swift harness (NOT Electron)",
       "url": "https://github.com/Lore-Hex/QuillCode",
       "hn_url": "https://news.ycombinator.com/item?id=49243358",
-      "points": 12,
-      "comments": 4,
+      "points": 14,
+      "comments": 5,
       "created_ts": 1786368379,
       "author": "ljlolel"
-    },
-    {
-      "title": "Show HN: Watching browser fingerprinting calls via Chromium's Blink layer",
-      "url": "https://kameleo.io/blog/this-is-the-closest-well-ever-get-to-reverse-engineering-anti-bots",
-      "hn_url": "https://news.ycombinator.com/item?id=49241284",
-      "points": 12,
-      "comments": 0,
-      "created_ts": 1786353639,
-      "author": "brnbs"
     }
   ],
   "hn_front": [
     {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "hn_url": "https://news.ycombinator.com/item?id=49241679",
-      "points": 1094,
-      "comments": 597,
-      "created_ts": 1786356602,
-      "author": "riordan"
-    },
-    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "hn_url": "https://news.ycombinator.com/item?id=49243880",
-      "points": 470,
-      "comments": 434,
+      "points": 547,
+      "comments": 499,
       "created_ts": 1786370782,
       "author": "root-parent"
     },
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "hn_url": "https://news.ycombinator.com/item?id=49246804",
-      "points": 285,
-      "comments": 106,
-      "created_ts": 1786382527,
-      "author": "HenryNdubuaku"
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "hn_url": "https://news.ycombinator.com/item?id=49251411",
+      "points": 544,
+      "comments": 556,
+      "created_ts": 1786405550,
+      "author": "slowin"
     },
     {
-      "title": "Squeak 6.1",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "hn_url": "https://news.ycombinator.com/item?id=49242653",
-      "points": 252,
-      "comments": 125,
-      "created_ts": 1786364153,
-      "author": "fniephaus"
-    },
-    {
-      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-      "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "hn_url": "https://news.ycombinator.com/item?id=49241846",
-      "points": 214,
-      "comments": 53,
-      "created_ts": 1786357754,
-      "author": "xeonmc"
-    },
-    {
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "hn_url": "https://news.ycombinator.com/item?id=49252179",
-      "points": 194,
-      "comments": 24,
-      "created_ts": 1786411329,
-      "author": "swyx"
-    },
-    {
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "hn_url": "https://news.ycombinator.com/item?id=49243474",
-      "points": 191,
-      "comments": 124,
-      "created_ts": 1786368940,
-      "author": "kuberwastaken"
-    },
-    {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "hn_url": "https://news.ycombinator.com/item?id=49247070",
-      "points": 180,
-      "comments": 122,
-      "created_ts": 1786383673,
-      "author": "tosh"
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "hn_url": "https://news.ycombinator.com/item?id=49247477",
-      "points": 168,
-      "comments": 79,
-      "created_ts": 1786385569,
-      "author": "sagacity"
-    },
-    {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "hn_url": "https://news.ycombinator.com/item?id=49251179",
-      "points": 158,
-      "comments": 46,
-      "created_ts": 1786403785,
-      "author": "Alen123"
-    },
-    {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "hn_url": "https://news.ycombinator.com/item?id=49245491",
-      "points": 151,
-      "comments": 55,
-      "created_ts": 1786377794,
-      "author": "WhiteDawn"
-    },
-    {
-      "title": "What's the best programming language for coding agents?",
-      "url": "http://danluu.com/pl-tokens/",
-      "hn_url": "https://news.ycombinator.com/item?id=49245936",
-      "points": 143,
-      "comments": 96,
-      "created_ts": 1786379338,
-      "author": "chaychoong"
-    },
-    {
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "hn_url": "https://news.ycombinator.com/item?id=49242297",
-      "points": 139,
-      "comments": 127,
-      "created_ts": 1786361680,
-      "author": "prakashqwerty"
-    },
-    {
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "hn_url": "https://news.ycombinator.com/item?id=49251702",
-      "points": 138,
-      "comments": 16,
-      "created_ts": 1786407855,
-      "author": "eatonphil"
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49254880",
+      "points": 444,
+      "comments": 270,
+      "created_ts": 1786436146,
+      "author": "aziaziazi"
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "hn_url": "https://news.ycombinator.com/item?id=49250836",
-      "points": 136,
-      "comments": 127,
+      "points": 426,
+      "comments": 509,
       "created_ts": 1786401390,
       "author": "awnird"
     },
     {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "hn_url": "https://news.ycombinator.com/item?id=49245437",
-      "points": 125,
-      "comments": 75,
-      "created_ts": 1786377563,
-      "author": "ubermon"
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=49246804",
+      "points": 382,
+      "comments": 139,
+      "created_ts": 1786382527,
+      "author": "HenryNdubuaku"
     },
     {
-      "title": "World Train Map – 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49250894",
-      "points": 106,
-      "comments": 34,
-      "created_ts": 1786401734,
-      "author": "Flightmussy"
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "hn_url": "https://news.ycombinator.com/item?id=49252179",
+      "points": 321,
+      "comments": 67,
+      "created_ts": 1786411329,
+      "author": "swyx"
     },
     {
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "hn_url": "https://news.ycombinator.com/item?id=49250109",
-      "points": 103,
-      "comments": 85,
+      "points": 229,
+      "comments": 194,
       "created_ts": 1786397816,
       "author": "mfiguiere"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "hn_url": "https://news.ycombinator.com/item?id=49247070",
+      "points": 225,
+      "comments": 146,
+      "created_ts": 1786383673,
+      "author": "tosh"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "hn_url": "https://news.ycombinator.com/item?id=49251179",
+      "points": 220,
+      "comments": 77,
+      "created_ts": 1786403785,
+      "author": "Alen123"
+    },
+    {
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "hn_url": "https://news.ycombinator.com/item?id=49251702",
+      "points": 220,
+      "comments": 30,
+      "created_ts": 1786407855,
+      "author": "eatonphil"
+    },
+    {
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "hn_url": "https://news.ycombinator.com/item?id=49245936",
+      "points": 207,
+      "comments": 135,
+      "created_ts": 1786379338,
+      "author": "chaychoong"
+    },
+    {
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49247477",
+      "points": 196,
+      "comments": 95,
+      "created_ts": 1786385569,
+      "author": "sagacity"
+    },
+    {
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "hn_url": "https://news.ycombinator.com/item?id=49245491",
+      "points": 172,
+      "comments": 74,
+      "created_ts": 1786377794,
+      "author": "WhiteDawn"
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "hn_url": "https://news.ycombinator.com/item?id=49245437",
+      "points": 146,
+      "comments": 83,
+      "created_ts": 1786377563,
+      "author": "ubermon"
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49249555",
+      "points": 133,
+      "comments": 39,
+      "created_ts": 1786395175,
+      "author": "AntiRush"
     }
   ],
   "ph_today": [
     {
-      "title": "SecondBrain Note by GenSpark",
-      "url": "https://www.producthunt.com/products/genspark",
+      "title": "Gotcha",
+      "url": "https://www.producthunt.com/products/gotcha-5",
       "tagline": "",
-      "pub_date": "2026-08-09T14:55:17-07:00"
+      "pub_date": "2026-08-09T21:49:03-07:00"
     },
     {
-      "title": "Prime Agent",
-      "url": "https://www.producthunt.com/products/prime-intellect",
+      "title": "VoiceGecko",
+      "url": "https://www.producthunt.com/products/voice-gecko",
       "tagline": "",
-      "pub_date": "2026-08-09T21:13:06-07:00"
+      "pub_date": "2026-08-08T23:01:09-07:00"
     },
     {
-      "title": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
+      "title": "Product Analytics for Agents and Users",
+      "url": "https://www.producthunt.com/products/kubit",
       "tagline": "",
-      "pub_date": "2026-08-06T00:21:22-07:00"
+      "pub_date": "2026-07-24T13:14:10-07:00"
+    },
+    {
+      "title": "BetterClaw",
+      "url": "https://www.producthunt.com/products/betterclaw",
+      "tagline": "",
+      "pub_date": "2026-05-01T04:01:48-07:00"
+    },
+    {
+      "title": "Vizard Agent",
+      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+      "tagline": "",
+      "pub_date": "2026-08-03T20:20:26-07:00"
+    },
+    {
+      "title": "bb",
+      "url": "https://www.producthunt.com/products/bb",
+      "tagline": "",
+      "pub_date": "2026-08-07T15:53:06-07:00"
+    },
+    {
+      "title": "Bullet",
+      "url": "https://www.producthunt.com/products/bullet-6",
+      "tagline": "",
+      "pub_date": "2026-08-05T23:56:29-07:00"
+    },
+    {
+      "title": "Equitybee Benchmark",
+      "url": "https://www.producthunt.com/products/equitybee",
+      "tagline": "",
+      "pub_date": "2026-07-28T07:51:58-07:00"
+    },
+    {
+      "title": "Tines 3B",
+      "url": "https://www.producthunt.com/products/tines",
+      "tagline": "",
+      "pub_date": "2026-08-07T09:30:03-07:00"
+    },
+    {
+      "title": "ScreenMark",
+      "url": "https://www.producthunt.com/products/screenmark-annotation-draw",
+      "tagline": "",
+      "pub_date": "2026-08-10T12:21:23-07:00"
+    },
+    {
+      "title": "Octomind Cloud and Hub",
+      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+      "tagline": "",
+      "pub_date": "2026-08-01T22:14:53-07:00"
+    },
+    {
+      "title": "Lexi",
+      "url": "https://www.producthunt.com/products/lexi-5",
+      "tagline": "",
+      "pub_date": "2026-08-10T11:11:41-07:00"
+    },
+    {
+      "title": "AMP by CanyonTechs AI",
+      "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
+      "tagline": "",
+      "pub_date": "2026-07-17T09:04:44-07:00"
+    },
+    {
+      "title": "agent-manager",
+      "url": "https://www.producthunt.com/products/agent-manager",
+      "tagline": "",
+      "pub_date": "2026-08-01T07:19:18-07:00"
+    },
+    {
+      "title": "Continuum",
+      "url": "https://www.producthunt.com/products/continuum-2027",
+      "tagline": "",
+      "pub_date": "2026-08-06T05:38:18-07:00"
+    },
+    {
+      "title": "AdmitRaven",
+      "url": "https://www.producthunt.com/products/admitraven",
+      "tagline": "",
+      "pub_date": "2026-08-10T04:45:02-07:00"
+    },
+    {
+      "title": "Cerenovus",
+      "url": "https://www.producthunt.com/products/cerenovus",
+      "tagline": "",
+      "pub_date": "2026-07-30T08:31:48-07:00"
+    },
+    {
+      "title": "Gitar",
+      "url": "https://www.producthunt.com/products/gitar",
+      "tagline": "",
+      "pub_date": "2026-08-10T23:33:12-07:00"
+    },
+    {
+      "title": "Xirp",
+      "url": "https://www.producthunt.com/products/spotify",
+      "tagline": "",
+      "pub_date": "2026-08-10T21:39:44-07:00"
+    },
+    {
+      "title": "Switchy for Mac",
+      "url": "https://www.producthunt.com/products/switchy-for-mac",
+      "tagline": "",
+      "pub_date": "2026-08-09T02:52:09-07:00"
+    },
+    {
+      "title": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo",
+      "tagline": "",
+      "pub_date": "2026-07-17T14:16:17-07:00"
     },
     {
       "title": "Portfolio Lab",
@@ -284,16 +356,10 @@
       "pub_date": "2026-07-29T07:22:05-07:00"
     },
     {
-      "title": "Gutta",
-      "url": "https://www.producthunt.com/products/gutta",
+      "title": "SecondBrain Note by GenSpark",
+      "url": "https://www.producthunt.com/products/genspark",
       "tagline": "",
-      "pub_date": "2026-08-09T10:39:48-07:00"
-    },
-    {
-      "title": "oqoqo",
-      "url": "https://www.producthunt.com/products/oqoqo",
-      "tagline": "",
-      "pub_date": "2026-07-17T14:16:17-07:00"
+      "pub_date": "2026-08-09T14:55:17-07:00"
     },
     {
       "title": "AI Group Call",
@@ -308,6 +374,24 @@
       "pub_date": "2026-08-05T19:16:52-07:00"
     },
     {
+      "title": "Gutta",
+      "url": "https://www.producthunt.com/products/gutta",
+      "tagline": "",
+      "pub_date": "2026-08-09T10:39:48-07:00"
+    },
+    {
+      "title": "Prime Agent",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "tagline": "",
+      "pub_date": "2026-08-09T21:13:06-07:00"
+    },
+    {
+      "title": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
+      "tagline": "",
+      "pub_date": "2026-08-06T00:21:22-07:00"
+    },
+    {
       "title": "Paritok",
       "url": "https://www.producthunt.com/products/paritok",
       "tagline": "",
@@ -318,126 +402,6 @@
       "url": "https://www.producthunt.com/products/docsalot-2",
       "tagline": "",
       "pub_date": "2026-08-07T12:43:09-07:00"
-    },
-    {
-      "title": "Workflo",
-      "url": "https://www.producthunt.com/products/workflo-2",
-      "tagline": "",
-      "pub_date": "2026-08-08T15:35:22-07:00"
-    },
-    {
-      "title": "Papaya",
-      "url": "https://www.producthunt.com/products/papaya-4",
-      "tagline": "",
-      "pub_date": "2026-08-02T05:38:49-07:00"
-    },
-    {
-      "title": "Grok Imagine 2.0",
-      "url": "https://www.producthunt.com/products/grok",
-      "tagline": "",
-      "pub_date": "2026-08-08T02:43:19-07:00"
-    },
-    {
-      "title": "VoiceOS App Store",
-      "url": "https://www.producthunt.com/products/voiceos",
-      "tagline": "",
-      "pub_date": "2026-08-08T15:42:33-07:00"
-    },
-    {
-      "title": "ConferenceGrid",
-      "url": "https://www.producthunt.com/products/conferencegrid",
-      "tagline": "",
-      "pub_date": "2026-08-03T07:41:24-07:00"
-    },
-    {
-      "title": "Good Assistant 2",
-      "url": "https://www.producthunt.com/products/good-assistant",
-      "tagline": "",
-      "pub_date": "2026-08-08T05:46:32-07:00"
-    },
-    {
-      "title": "radiusHQ",
-      "url": "https://www.producthunt.com/products/radiushq",
-      "tagline": "",
-      "pub_date": "2026-08-04T02:11:22-07:00"
-    },
-    {
-      "title": "DuckDisk",
-      "url": "https://www.producthunt.com/products/duckdisk",
-      "tagline": "",
-      "pub_date": "2026-08-08T03:44:11-07:00"
-    },
-    {
-      "title": "Macrobite",
-      "url": "https://www.producthunt.com/products/macrobite",
-      "tagline": "",
-      "pub_date": "2026-07-24T14:21:50-07:00"
-    },
-    {
-      "title": "Proxy Tester by ScrapeOps",
-      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
-      "tagline": "",
-      "pub_date": "2026-06-08T00:46:38-07:00"
-    },
-    {
-      "title": "Soup CLI",
-      "url": "https://www.producthunt.com/products/soup-cli",
-      "tagline": "",
-      "pub_date": "2026-08-08T00:59:19-07:00"
-    },
-    {
-      "title": "SoloUno",
-      "url": "https://www.producthunt.com/products/solouno",
-      "tagline": "",
-      "pub_date": "2026-07-30T00:30:38-07:00"
-    },
-    {
-      "title": "Prompt Golf",
-      "url": "https://www.producthunt.com/products/prompt-golf",
-      "tagline": "",
-      "pub_date": "2026-07-30T08:38:50-07:00"
-    },
-    {
-      "title": "Omniwork",
-      "url": "https://www.producthunt.com/products/omniwork-2",
-      "tagline": "",
-      "pub_date": "2026-07-14T01:08:56-07:00"
-    },
-    {
-      "title": "AgentConnect",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "tagline": "",
-      "pub_date": "2026-07-31T22:40:40-07:00"
-    },
-    {
-      "title": "Argos",
-      "url": "https://www.producthunt.com/products/argos-2",
-      "tagline": "",
-      "pub_date": "2026-08-08T16:41:16-07:00"
-    },
-    {
-      "title": "Persodex",
-      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
-      "tagline": "",
-      "pub_date": "2026-07-25T22:10:21-07:00"
-    },
-    {
-      "title": "The GTM Co-Founder",
-      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
-      "tagline": "",
-      "pub_date": "2026-07-27T06:50:43-07:00"
-    },
-    {
-      "title": "Toolport",
-      "url": "https://www.producthunt.com/products/conduit-12",
-      "tagline": "",
-      "pub_date": "2026-08-07T13:20:13-07:00"
-    },
-    {
-      "title": "Basedash Subscriptions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-08-07T21:18:54-07:00"
     }
   ]
 }

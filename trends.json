@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:44:39.610Z",
+  "generated_at": "2026-08-11T01:07:43.246Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,46 +7,64 @@
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49238851",
-      "points": 182,
-      "comments": 76,
+      "points": 190,
+      "comments": 81,
       "created_ts": 1786331920,
       "author": "MrRowTheBoat"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=49246804",
+      "points": 156,
+      "comments": 70,
+      "created_ts": 1786382527,
+      "author": "HenryNdubuaku"
     },
     {
       "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
       "url": "https://github.com/AntigmaLabs/ante",
       "hn_url": "https://news.ycombinator.com/item?id=49245437",
-      "points": 77,
-      "comments": 50,
+      "points": 119,
+      "comments": 72,
       "created_ts": 1786377563,
       "author": "ubermon"
-    },
-    {
-      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-      "url": "https://alphabetsoup.club",
-      "hn_url": "https://news.ycombinator.com/item?id=49235347",
-      "points": 34,
-      "comments": 33,
-      "created_ts": 1786306545,
-      "author": "johnchinjew"
-    },
-    {
-      "title": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
-      "url": "https://consciousnesslibrary.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49235471",
-      "points": 25,
-      "comments": 12,
-      "created_ts": 1786307252,
-      "author": "elliotec"
     },
     {
       "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
       "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
       "hn_url": "https://news.ycombinator.com/item?id=49242475",
-      "points": 18,
-      "comments": 9,
+      "points": 41,
+      "comments": 12,
       "created_ts": 1786362727,
       "author": "mikeayles"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "hn_url": "https://news.ycombinator.com/item?id=49251179",
+      "points": 35,
+      "comments": 5,
+      "created_ts": 1786403785,
+      "author": "Alen123"
+    },
+    {
+      "title": "Show HN: Design Engineering, as a Service",
+      "url": "https://designshippers.com/?0",
+      "hn_url": "https://news.ycombinator.com/item?id=49243168",
+      "points": 13,
+      "comments": 3,
+      "created_ts": 1786367524,
+      "author": "krm01"
+    },
+    {
+      "title": "Show HN: 100% native Swift harness (NOT Electron)",
+      "url": "https://github.com/Lore-Hex/QuillCode",
+      "hn_url": "https://news.ycombinator.com/item?id=49243358",
+      "points": 11,
+      "comments": 3,
+      "created_ts": 1786368379,
+      "author": "ljlolel"
     }
   ],
   "hn_front": [
@@ -54,53 +72,26 @@
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "hn_url": "https://news.ycombinator.com/item?id=49241679",
-      "points": 803,
-      "comments": 452,
+      "points": 1025,
+      "comments": 571,
       "created_ts": 1786356602,
       "author": "riordan"
     },
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "hn_url": "https://news.ycombinator.com/item?id=49239751",
-      "points": 533,
-      "comments": 317,
-      "created_ts": 1786341758,
-      "author": "etoxin"
-    },
-    {
-      "title": "Tl;dv: Over 180k meetings left wide open",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "hn_url": "https://news.ycombinator.com/item?id=49242739",
-      "points": 392,
-      "comments": 134,
-      "created_ts": 1786364765,
-      "author": "colesantiago"
-    },
-    {
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "hn_url": "https://news.ycombinator.com/item?id=49245023",
-      "points": 200,
-      "comments": 279,
-      "created_ts": 1786375924,
-      "author": "RickJWagner"
-    },
-    {
-      "title": "Mistral Patent for “Code implemented tool calls”",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49243397",
-      "points": 143,
-      "comments": 125,
-      "created_ts": 1786368552,
-      "author": "theanonymousone"
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "hn_url": "https://news.ycombinator.com/item?id=49243880",
+      "points": 354,
+      "comments": 376,
+      "created_ts": 1786370782,
+      "author": "root-parent"
     },
     {
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
       "hn_url": "https://news.ycombinator.com/item?id=49242653",
-      "points": 139,
-      "comments": 82,
+      "points": 219,
+      "comments": 114,
       "created_ts": 1786364153,
       "author": "fniephaus"
     },
@@ -108,31 +99,97 @@
       "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "url": "https://ethw.org/Milestones:Parametron,_1954",
       "hn_url": "https://news.ycombinator.com/item?id=49241846",
-      "points": 126,
-      "comments": 37,
+      "points": 183,
+      "comments": 46,
       "created_ts": 1786357754,
       "author": "xeonmc"
-    },
-    {
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "hn_url": "https://news.ycombinator.com/item?id=49243029",
-      "points": 116,
-      "comments": 72,
-      "created_ts": 1786366696,
-      "author": "jonathanmkeegan"
     },
     {
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
       "hn_url": "https://news.ycombinator.com/item?id=49245251",
-      "points": 113,
-      "comments": 32,
+      "points": 160,
+      "comments": 62,
       "created_ts": 1786376988,
       "author": "Bender"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=49246804",
+      "points": 156,
+      "comments": 70,
+      "created_ts": 1786382527,
+      "author": "HenryNdubuaku"
+    },
+    {
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "hn_url": "https://news.ycombinator.com/item?id=49243474",
+      "points": 150,
+      "comments": 88,
+      "created_ts": 1786368940,
+      "author": "kuberwastaken"
+    },
+    {
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "hn_url": "https://news.ycombinator.com/item?id=49249481",
+      "points": 149,
+      "comments": 62,
+      "created_ts": 1786394833,
+      "author": "EDM115"
+    },
+    {
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "hn_url": "https://news.ycombinator.com/item?id=49245491",
+      "points": 123,
+      "comments": 42,
+      "created_ts": 1786377794,
+      "author": "WhiteDawn"
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242297",
+      "points": 120,
+      "comments": 121,
+      "created_ts": 1786361680,
+      "author": "prakashqwerty"
+    },
+    {
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49247477",
+      "points": 119,
+      "comments": 59,
+      "created_ts": 1786385569,
+      "author": "sagacity"
+    },
+    {
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "hn_url": "https://news.ycombinator.com/item?id=49251411",
+      "points": 101,
+      "comments": 26,
+      "created_ts": 1786405550,
+      "author": "slowin"
     }
   ],
   "ph_today": [
+    {
+      "title": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
+      "tagline": "",
+      "pub_date": "2026-08-06T00:21:22-07:00"
+    },
+    {
+      "title": "Remix",
+      "url": "https://www.producthunt.com/products/remix-8",
+      "tagline": "",
+      "pub_date": "2026-08-05T19:16:52-07:00"
+    },
     {
       "title": "Gutta",
       "url": "https://www.producthunt.com/products/gutta",
@@ -152,6 +209,12 @@
       "pub_date": "2026-08-09T14:55:17-07:00"
     },
     {
+      "title": "Paritok",
+      "url": "https://www.producthunt.com/products/paritok",
+      "tagline": "",
+      "pub_date": "2026-07-20T01:39:12-07:00"
+    },
+    {
       "title": "Portfolio Lab",
       "url": "https://www.producthunt.com/products/portfolio-lab",
       "tagline": "",
@@ -164,28 +227,22 @@
       "pub_date": "2026-07-17T14:16:17-07:00"
     },
     {
-      "title": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
-      "tagline": "",
-      "pub_date": "2026-08-06T00:21:22-07:00"
-    },
-    {
       "title": "Prime Agent",
       "url": "https://www.producthunt.com/products/prime-intellect",
       "tagline": "",
       "pub_date": "2026-08-09T21:13:06-07:00"
     },
     {
-      "title": "Remix",
-      "url": "https://www.producthunt.com/products/remix-8",
+      "title": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
       "tagline": "",
-      "pub_date": "2026-08-05T19:16:52-07:00"
+      "pub_date": "2026-08-07T12:43:09-07:00"
     },
     {
-      "title": "Paritok",
-      "url": "https://www.producthunt.com/products/paritok",
+      "title": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
       "tagline": "",
-      "pub_date": "2026-07-20T01:39:12-07:00"
+      "pub_date": "2026-06-08T00:46:38-07:00"
     },
     {
       "title": "SoloUno",
@@ -194,16 +251,10 @@
       "pub_date": "2026-07-30T00:30:38-07:00"
     },
     {
-      "title": "Prompt Golf",
-      "url": "https://www.producthunt.com/products/prompt-golf",
+      "title": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
       "tagline": "",
-      "pub_date": "2026-07-30T08:38:50-07:00"
-    },
-    {
-      "title": "Soup CLI",
-      "url": "https://www.producthunt.com/products/soup-cli",
-      "tagline": "",
-      "pub_date": "2026-08-08T00:59:19-07:00"
+      "pub_date": "2026-08-08T15:42:33-07:00"
     },
     {
       "title": "Omniwork",
@@ -212,28 +263,28 @@
       "pub_date": "2026-07-14T01:08:56-07:00"
     },
     {
-      "title": "Macrobite",
-      "url": "https://www.producthunt.com/products/macrobite",
-      "tagline": "",
-      "pub_date": "2026-07-24T14:21:50-07:00"
-    },
-    {
-      "title": "Grok Imagine 2.0",
-      "url": "https://www.producthunt.com/products/grok",
-      "tagline": "",
-      "pub_date": "2026-08-08T02:43:19-07:00"
-    },
-    {
       "title": "Workflo",
       "url": "https://www.producthunt.com/products/workflo-2",
       "tagline": "",
       "pub_date": "2026-08-08T15:35:22-07:00"
     },
     {
-      "title": "DuckDisk",
-      "url": "https://www.producthunt.com/products/duckdisk",
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
       "tagline": "",
-      "pub_date": "2026-08-08T03:44:11-07:00"
+      "pub_date": "2026-08-08T05:46:32-07:00"
+    },
+    {
+      "title": "Soup CLI",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "tagline": "",
+      "pub_date": "2026-08-08T00:59:19-07:00"
+    },
+    {
+      "title": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect",
+      "tagline": "",
+      "pub_date": "2026-07-31T22:40:40-07:00"
     },
     {
       "title": "Persodex",
@@ -248,34 +299,10 @@
       "pub_date": "2026-08-08T16:41:16-07:00"
     },
     {
-      "title": "Proxy Tester by ScrapeOps",
-      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
+      "title": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
       "tagline": "",
-      "pub_date": "2026-06-08T00:46:38-07:00"
-    },
-    {
-      "title": "VoiceOS App Store",
-      "url": "https://www.producthunt.com/products/voiceos",
-      "tagline": "",
-      "pub_date": "2026-08-08T15:42:33-07:00"
-    },
-    {
-      "title": "Good Assistant 2",
-      "url": "https://www.producthunt.com/products/good-assistant",
-      "tagline": "",
-      "pub_date": "2026-08-08T05:46:32-07:00"
-    },
-    {
-      "title": "AgentConnect",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "tagline": "",
-      "pub_date": "2026-07-31T22:40:40-07:00"
-    },
-    {
-      "title": "DocsAlot CLI",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "tagline": "",
-      "pub_date": "2026-08-07T12:43:09-07:00"
+      "pub_date": "2026-08-03T07:41:24-07:00"
     },
     {
       "title": "radiusHQ",
@@ -284,16 +311,40 @@
       "pub_date": "2026-08-04T02:11:22-07:00"
     },
     {
-      "title": "ConferenceGrid",
-      "url": "https://www.producthunt.com/products/conferencegrid",
+      "title": "Prompt Golf",
+      "url": "https://www.producthunt.com/products/prompt-golf",
       "tagline": "",
-      "pub_date": "2026-08-03T07:41:24-07:00"
+      "pub_date": "2026-07-30T08:38:50-07:00"
+    },
+    {
+      "title": "Grok Imagine 2.0",
+      "url": "https://www.producthunt.com/products/grok",
+      "tagline": "",
+      "pub_date": "2026-08-08T02:43:19-07:00"
     },
     {
       "title": "Papaya",
       "url": "https://www.producthunt.com/products/papaya-4",
       "tagline": "",
       "pub_date": "2026-08-02T05:38:49-07:00"
+    },
+    {
+      "title": "DuckDisk",
+      "url": "https://www.producthunt.com/products/duckdisk",
+      "tagline": "",
+      "pub_date": "2026-08-08T03:44:11-07:00"
+    },
+    {
+      "title": "Macrobite",
+      "url": "https://www.producthunt.com/products/macrobite",
+      "tagline": "",
+      "pub_date": "2026-07-24T14:21:50-07:00"
+    },
+    {
+      "title": "Toolport",
+      "url": "https://www.producthunt.com/products/conduit-12",
+      "tagline": "",
+      "pub_date": "2026-08-07T13:20:13-07:00"
     },
     {
       "title": "The GTM Co-Founder",
@@ -306,12 +357,6 @@
       "url": "https://www.producthunt.com/products/astrapixels",
       "tagline": "",
       "pub_date": "2026-08-05T20:18:25-07:00"
-    },
-    {
-      "title": "Basedash Subscriptions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-08-07T21:18:54-07:00"
     }
   ]
 }

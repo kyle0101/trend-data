@@ -1,263 +1,161 @@
 {
-  "generated_at": "2026-08-12T12:51:10.122Z",
+  "generated_at": "2026-08-12T18:52:03.426Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
-      "url": "https://github.com/TheRealYT/git-knife",
-      "hn_url": "https://news.ycombinator.com/item?id=49259611",
-      "points": 157,
-      "comments": 100,
-      "created_ts": 1786460974,
-      "author": "YonathanTesfaye"
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49270040",
+      "points": 217,
+      "comments": 31,
+      "created_ts": 1786529189,
+      "author": "adius"
+    },
+    {
+      "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
+      "url": "https://kidscreen.app",
+      "hn_url": "https://news.ycombinator.com/item?id=49270881",
+      "points": 28,
+      "comments": 27,
+      "created_ts": 1786535080,
+      "author": "Tintly"
+    },
+    {
+      "title": "Show HN: Cut LLM turns in MCP interactions by 75%+",
+      "url": "https://github.com/Tura-AI/tura",
+      "hn_url": "https://news.ycombinator.com/item?id=49264157",
+      "points": 11,
+      "comments": 0,
+      "created_ts": 1786480772,
+      "author": "turaainet"
+    }
+  ],
+  "hn_front": [
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "hn_url": "https://news.ycombinator.com/item?id=49272832",
+      "points": 489,
+      "comments": 79,
+      "created_ts": 1786544550,
+      "author": "ropbear"
+    },
+    {
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49271994",
+      "points": 468,
+      "comments": 392,
+      "created_ts": 1786540805,
+      "author": "florianherrengt"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "hn_url": "https://news.ycombinator.com/item?id=49270953",
+      "points": 403,
+      "comments": 104,
+      "created_ts": 1786535581,
+      "author": "zoenolan"
+    },
+    {
+      "title": "License plate reader searches should require a warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "hn_url": "https://news.ycombinator.com/item?id=49273165",
+      "points": 382,
+      "comments": 238,
+      "created_ts": 1786545819,
+      "author": "apwheele"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "hn_url": "https://news.ycombinator.com/item?id=49274600",
+      "points": 373,
+      "comments": 130,
+      "created_ts": 1786550690,
+      "author": "explosion-s"
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "hn_url": "https://news.ycombinator.com/item?id=49273478",
+      "points": 232,
+      "comments": 64,
+      "created_ts": 1786546877,
+      "author": "Philpax"
     },
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
       "hn_url": "https://news.ycombinator.com/item?id=49270040",
-      "points": 102,
-      "comments": 4,
+      "points": 217,
+      "comments": 31,
       "created_ts": 1786529189,
       "author": "adius"
-    },
-    {
-      "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
-      "url": "https://writemd.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49258011",
-      "points": 97,
-      "comments": 75,
-      "created_ts": 1786455039,
-      "author": "danielbilekq"
-    },
-    {
-      "title": "Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs",
-      "url": "https://github.com/bikeshaving/termdom",
-      "hn_url": "https://news.ycombinator.com/item?id=49261987",
-      "points": 17,
-      "comments": 0,
-      "created_ts": 1786470920,
-      "author": "bikeshaving"
-    },
-    {
-      "title": "Show HN: Tokyo Trains",
-      "url": "https://greggman.github.io/tokyo-trains/",
-      "hn_url": "https://news.ycombinator.com/item?id=49259418",
-      "points": 12,
-      "comments": 1,
-      "created_ts": 1786460118,
-      "author": "greggman65"
-    },
-    {
-      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
-      "url": "https://ojcp.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49259583",
-      "points": 11,
-      "comments": 2,
-      "created_ts": 1786460847,
-      "author": "fraywing"
-    }
-  ],
-  "hn_front": [
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49257876",
-      "points": 647,
-      "comments": 290,
-      "created_ts": 1786454520,
-      "author": "quantumgarbage"
-    },
-    {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "hn_url": "https://news.ycombinator.com/item?id=49263497",
-      "points": 585,
-      "comments": 238,
-      "created_ts": 1786477784,
-      "author": "nikolay"
-    },
-    {
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "hn_url": "https://news.ycombinator.com/item?id=49261128",
-      "points": 404,
-      "comments": 205,
-      "created_ts": 1786467406,
-      "author": "dayanruben"
-    },
-    {
-      "title": "LinkedIn CringeBot 3000",
-      "url": "https://www.cringebot3000.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49268564",
-      "points": 337,
-      "comments": 136,
-      "created_ts": 1786516249,
-      "author": "theanonymousone"
-    },
-    {
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
-      "hn_url": "https://news.ycombinator.com/item?id=49261514",
-      "points": 310,
-      "comments": 285,
-      "created_ts": 1786468989,
-      "author": "rvz"
-    },
-    {
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "hn_url": "https://news.ycombinator.com/item?id=49267928",
-      "points": 286,
-      "comments": 125,
-      "created_ts": 1786510319,
-      "author": "kristianpaul"
-    },
-    {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "hn_url": "https://news.ycombinator.com/item?id=49265051",
-      "points": 247,
-      "comments": 73,
-      "created_ts": 1786485378,
-      "author": "EwanG"
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "hn_url": "https://news.ycombinator.com/item?id=49263340",
-      "points": 241,
-      "comments": 123,
-      "created_ts": 1786476952,
-      "author": "droidjj"
-    },
-    {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "hn_url": "https://news.ycombinator.com/item?id=49269818",
-      "points": 232,
-      "comments": 126,
-      "created_ts": 1786527330,
-      "author": "robtherobber"
-    },
-    {
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "hn_url": "https://news.ycombinator.com/item?id=49262811",
-      "points": 171,
-      "comments": 17,
-      "created_ts": 1786474295,
-      "author": "DemiGuru"
-    },
-    {
-      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-      "hn_url": "https://news.ycombinator.com/item?id=49266277",
-      "points": 160,
-      "comments": 131,
-      "created_ts": 1786493879,
-      "author": "michaefe"
-    },
-    {
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "hn_url": "https://news.ycombinator.com/item?id=49262211",
-      "points": 154,
-      "comments": 122,
-      "created_ts": 1786471796,
-      "author": "speckx"
-    },
-    {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "hn_url": "https://news.ycombinator.com/item?id=49265879",
-      "points": 147,
-      "comments": 112,
-      "created_ts": 1786490777,
-      "author": "shagie"
-    },
-    {
-      "title": "The Human Is the Loop",
-      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "hn_url": "https://news.ycombinator.com/item?id=49267108",
-      "points": 139,
-      "comments": 66,
-      "created_ts": 1786500901,
-      "author": "burnto"
     },
     {
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
       "hn_url": "https://news.ycombinator.com/item?id=49270022",
-      "points": 116,
-      "comments": 48,
+      "points": 205,
+      "comments": 102,
       "created_ts": 1786529065,
       "author": "ColinWright"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49270040",
-      "points": 102,
-      "comments": 4,
-      "created_ts": 1786529189,
-      "author": "adius"
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "hn_url": "https://news.ycombinator.com/item?id=49272549",
+      "points": 171,
+      "comments": 32,
+      "created_ts": 1786543254,
+      "author": "gutechh"
+    },
+    {
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "hn_url": "https://news.ycombinator.com/item?id=49275385",
+      "points": 165,
+      "comments": 129,
+      "created_ts": 1786553665,
+      "author": "wertyk"
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "hn_url": "https://news.ycombinator.com/item?id=49272569",
+      "points": 141,
+      "comments": 87,
+      "created_ts": 1786543366,
+      "author": "gavinhking"
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49272655",
+      "points": 139,
+      "comments": 23,
+      "created_ts": 1786543751,
+      "author": "doener"
+    },
+    {
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "hn_url": "https://news.ycombinator.com/item?id=49270621",
+      "points": 128,
+      "comments": 90,
+      "created_ts": 1786533216,
+      "author": "layer8"
     }
   ],
   "ph_today": [
-    {
-      "title": "Assembly Studio",
-      "url": "https://www.producthunt.com/products/assembly-7",
-      "tagline": "",
-      "pub_date": "2026-07-09T07:57:58-07:00"
-    },
-    {
-      "title": "Lettertrace",
-      "url": "https://www.producthunt.com/products/lettertrace",
-      "tagline": "",
-      "pub_date": "2026-08-08T19:15:06-07:00"
-    },
-    {
-      "title": "Chat Agent by Trigger.dev",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "tagline": "",
-      "pub_date": "2026-08-10T13:10:54-07:00"
-    },
-    {
-      "title": "Media Sharing",
-      "url": "https://www.producthunt.com/products/argos",
-      "tagline": "",
-      "pub_date": "2026-08-11T00:03:12-07:00"
-    },
-    {
-      "title": "Cohesor",
-      "url": "https://www.producthunt.com/products/cohesor",
-      "tagline": "",
-      "pub_date": "2026-08-11T18:47:03-07:00"
-    },
     {
       "title": "CodeBurn",
       "url": "https://www.producthunt.com/products/codeburn",
       "tagline": "",
       "pub_date": "2026-08-11T07:05:35-07:00"
-    },
-    {
-      "title": "RightCard",
-      "url": "https://www.producthunt.com/products/rightcard",
-      "tagline": "",
-      "pub_date": "2026-08-07T20:06:31-07:00"
-    },
-    {
-      "title": "Unsloth Desktop",
-      "url": "https://www.producthunt.com/products/unsloth",
-      "tagline": "",
-      "pub_date": "2026-08-11T20:47:50-07:00"
-    },
-    {
-      "title": "tash",
-      "url": "https://www.producthunt.com/products/tash",
-      "tagline": "",
-      "pub_date": "2026-08-09T16:04:38-07:00"
     },
     {
       "title": "Sidekick™",
@@ -272,22 +170,16 @@
       "pub_date": "2026-08-11T12:25:25-07:00"
     },
     {
-      "title": "Ballet",
-      "url": "https://www.producthunt.com/products/ballet",
+      "title": "tash",
+      "url": "https://www.producthunt.com/products/tash",
       "tagline": "",
-      "pub_date": "2026-08-07T09:27:58-07:00"
+      "pub_date": "2026-08-09T16:04:38-07:00"
     },
     {
-      "title": "Nearfield",
-      "url": "https://www.producthunt.com/products/nearfield",
+      "title": "Assembly Studio",
+      "url": "https://www.producthunt.com/products/assembly-7",
       "tagline": "",
-      "pub_date": "2026-08-11T07:29:46-07:00"
-    },
-    {
-      "title": "LaraCopilot",
-      "url": "https://www.producthunt.com/products/laracopilot",
-      "tagline": "",
-      "pub_date": "2026-08-11T01:52:16-07:00"
+      "pub_date": "2026-07-09T07:57:58-07:00"
     },
     {
       "title": "BearDrive",
@@ -296,16 +188,52 @@
       "pub_date": "2026-08-11T16:31:29-07:00"
     },
     {
+      "title": "Cohesor",
+      "url": "https://www.producthunt.com/products/cohesor",
+      "tagline": "",
+      "pub_date": "2026-08-11T18:47:03-07:00"
+    },
+    {
       "title": "Swipe",
       "url": "https://www.producthunt.com/products/swipe-9",
       "tagline": "",
       "pub_date": "2026-08-06T13:59:53-07:00"
     },
     {
-      "title": "Dograh",
-      "url": "https://www.producthunt.com/products/dograh",
+      "title": "Media Sharing",
+      "url": "https://www.producthunt.com/products/argos",
       "tagline": "",
-      "pub_date": "2026-08-07T06:37:12-07:00"
+      "pub_date": "2026-08-11T00:03:12-07:00"
+    },
+    {
+      "title": "LaraCopilot",
+      "url": "https://www.producthunt.com/products/laracopilot",
+      "tagline": "",
+      "pub_date": "2026-08-11T01:52:16-07:00"
+    },
+    {
+      "title": "RightCard",
+      "url": "https://www.producthunt.com/products/rightcard",
+      "tagline": "",
+      "pub_date": "2026-08-07T20:06:31-07:00"
+    },
+    {
+      "title": "Nearfield",
+      "url": "https://www.producthunt.com/products/nearfield",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:29:46-07:00"
+    },
+    {
+      "title": "Ballet",
+      "url": "https://www.producthunt.com/products/ballet",
+      "tagline": "",
+      "pub_date": "2026-08-07T09:27:58-07:00"
+    },
+    {
+      "title": "Lettertrace",
+      "url": "https://www.producthunt.com/products/lettertrace",
+      "tagline": "",
+      "pub_date": "2026-08-08T19:15:06-07:00"
     },
     {
       "title": "Grok Bot",
@@ -314,34 +242,34 @@
       "pub_date": "2026-08-11T03:46:56-07:00"
     },
     {
+      "title": "Dograh",
+      "url": "https://www.producthunt.com/products/dograh",
+      "tagline": "",
+      "pub_date": "2026-08-07T06:37:12-07:00"
+    },
+    {
+      "title": "Unsloth Desktop",
+      "url": "https://www.producthunt.com/products/unsloth",
+      "tagline": "",
+      "pub_date": "2026-08-11T20:47:50-07:00"
+    },
+    {
+      "title": "Chat Agent by Trigger.dev",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "tagline": "",
+      "pub_date": "2026-08-10T13:10:54-07:00"
+    },
+    {
       "title": "Linforge",
       "url": "https://www.producthunt.com/products/linforge",
       "tagline": "",
       "pub_date": "2026-08-11T12:55:22-07:00"
     },
     {
-      "title": "VoiceGecko",
-      "url": "https://www.producthunt.com/products/voice-gecko",
+      "title": "Octomind Cloud and Hub",
+      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
       "tagline": "",
-      "pub_date": "2026-08-08T23:01:09-07:00"
-    },
-    {
-      "title": "Switchy for Mac",
-      "url": "https://www.producthunt.com/products/switchy-for-mac",
-      "tagline": "",
-      "pub_date": "2026-08-09T02:52:09-07:00"
-    },
-    {
-      "title": "Bullet",
-      "url": "https://www.producthunt.com/products/bullet-6",
-      "tagline": "",
-      "pub_date": "2026-08-05T23:56:29-07:00"
-    },
-    {
-      "title": "Tines 3B",
-      "url": "https://www.producthunt.com/products/tines",
-      "tagline": "",
-      "pub_date": "2026-08-07T09:30:03-07:00"
+      "pub_date": "2026-08-01T22:14:53-07:00"
     },
     {
       "title": "BetterClaw",
@@ -350,10 +278,16 @@
       "pub_date": "2026-05-01T04:01:48-07:00"
     },
     {
-      "title": "ScreenMark",
-      "url": "https://www.producthunt.com/products/screenmark-annotation-draw",
+      "title": "Tines 3B",
+      "url": "https://www.producthunt.com/products/tines",
       "tagline": "",
-      "pub_date": "2026-08-10T12:21:23-07:00"
+      "pub_date": "2026-08-07T09:30:03-07:00"
+    },
+    {
+      "title": "agent-manager",
+      "url": "https://www.producthunt.com/products/agent-manager",
+      "tagline": "",
+      "pub_date": "2026-08-01T07:19:18-07:00"
     },
     {
       "title": "bb",
@@ -362,16 +296,10 @@
       "pub_date": "2026-08-07T15:53:06-07:00"
     },
     {
-      "title": "Xirp",
-      "url": "https://www.producthunt.com/products/spotify",
+      "title": "Bullet",
+      "url": "https://www.producthunt.com/products/bullet-6",
       "tagline": "",
-      "pub_date": "2026-08-10T21:39:44-07:00"
-    },
-    {
-      "title": "Cerenovus",
-      "url": "https://www.producthunt.com/products/cerenovus",
-      "tagline": "",
-      "pub_date": "2026-07-30T08:31:48-07:00"
+      "pub_date": "2026-08-05T23:56:29-07:00"
     },
     {
       "title": "Equitybee Benchmark",
@@ -380,10 +308,28 @@
       "pub_date": "2026-07-28T07:51:58-07:00"
     },
     {
-      "title": "agent-manager",
-      "url": "https://www.producthunt.com/products/agent-manager",
+      "title": "Xirp",
+      "url": "https://www.producthunt.com/products/spotify",
       "tagline": "",
-      "pub_date": "2026-08-01T07:19:18-07:00"
+      "pub_date": "2026-08-10T21:39:44-07:00"
+    },
+    {
+      "title": "AdmitRaven",
+      "url": "https://www.producthunt.com/products/admitraven",
+      "tagline": "",
+      "pub_date": "2026-08-10T04:45:02-07:00"
+    },
+    {
+      "title": "Product Analytics for Agents and Users",
+      "url": "https://www.producthunt.com/products/kubit",
+      "tagline": "",
+      "pub_date": "2026-07-24T13:14:10-07:00"
+    },
+    {
+      "title": "Vizard Agent",
+      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+      "tagline": "",
+      "pub_date": "2026-08-03T20:20:26-07:00"
     }
   ]
 }

@@ -1,206 +1,149 @@
 {
-  "generated_at": "2026-08-13T12:52:36.757Z",
+  "generated_at": "2026-08-13T18:52:48.354Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "hn_url": "https://news.ycombinator.com/item?id=49286073",
+      "points": 47,
+      "comments": 28,
+      "created_ts": 1786629467,
+      "author": "pcbmaker20"
+    },
+    {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "url": "https://www.ballet.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=49280184",
-      "points": 31,
-      "comments": 11,
+      "points": 32,
+      "comments": 12,
       "created_ts": 1786579303,
       "author": "danielkimber"
-    },
-    {
-      "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-      "url": "https://timer.jotaen.net",
-      "hn_url": "https://news.ycombinator.com/item?id=49276673",
-      "points": 29,
-      "comments": 12,
-      "created_ts": 1786559272,
-      "author": "jotaen"
     },
     {
       "title": "Show HN: UTC Time - live clock, ISO 8601, Unix timestamp",
       "url": "https://utctime.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49281675",
-      "points": 18,
-      "comments": 2,
+      "points": 21,
+      "comments": 5,
       "created_ts": 1786593845,
       "author": "nadermx"
     },
     {
-      "title": "Show HN: Smarter Shell History for Zsh",
-      "url": "https://github.com/overflowy/zhist",
-      "hn_url": "https://news.ycombinator.com/item?id=49272264",
-      "points": 12,
+      "title": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
+      "url": "https://stackdome.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49285086",
+      "points": 19,
       "comments": 6,
-      "created_ts": 1786541989,
-      "author": "overflowy"
+      "created_ts": 1786624984,
+      "author": "ashishmax31"
     },
     {
-      "title": "Show HN: /show-me: agent skill for compact visual representations",
-      "url": "https://www.humanlayer.com/blog/show-me-skill",
-      "hn_url": "https://news.ycombinator.com/item?id=49274489",
-      "points": 12,
+      "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat",
+      "url": "https://www.orangecrumbs.com/stories/show-hn",
+      "hn_url": "https://news.ycombinator.com/item?id=49279207",
+      "points": 11,
       "comments": 2,
-      "created_ts": 1786550302,
-      "author": "dhorthy"
+      "created_ts": 1786572132,
+      "author": "oyster143"
     }
   ],
   "hn_front": [
     {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "hn_url": "https://news.ycombinator.com/item?id=49272832",
-      "points": 1104,
-      "comments": 207,
-      "created_ts": 1786544550,
-      "author": "ropbear"
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285244",
+      "points": 448,
+      "comments": 203,
+      "created_ts": 1786625882,
+      "author": "bjin"
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "hn_url": "https://news.ycombinator.com/item?id=49274600",
-      "points": 970,
-      "comments": 419,
-      "created_ts": 1786550690,
-      "author": "explosion-s"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "hn_url": "https://news.ycombinator.com/item?id=49273478",
-      "points": 662,
-      "comments": 154,
-      "created_ts": 1786546877,
-      "author": "Philpax"
-    },
-    {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "hn_url": "https://news.ycombinator.com/item?id=49276574",
-      "points": 597,
-      "comments": 220,
-      "created_ts": 1786558799,
-      "author": "khy"
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "hn_url": "https://news.ycombinator.com/item?id=49274027",
-      "points": 585,
-      "comments": 535,
-      "created_ts": 1786548770,
-      "author": "iLuddite"
-    },
-    {
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "hn_url": "https://news.ycombinator.com/item?id=49272549",
-      "points": 321,
-      "comments": 66,
-      "created_ts": 1786543254,
-      "author": "gutechh"
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "hn_url": "https://news.ycombinator.com/item?id=49272569",
-      "points": 286,
-      "comments": 217,
-      "created_ts": 1786543366,
-      "author": "gavinhking"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49272655",
-      "points": 285,
-      "comments": 35,
-      "created_ts": 1786543751,
-      "author": "doener"
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "hn_url": "https://news.ycombinator.com/item?id=49281916",
-      "points": 251,
-      "comments": 162,
+      "points": 406,
+      "comments": 279,
       "created_ts": 1786596821,
       "author": "allanrbo"
     },
     {
-      "title": "Shade Map",
-      "url": "https://shademap.app",
-      "hn_url": "https://news.ycombinator.com/item?id=49271757",
-      "points": 223,
-      "comments": 55,
-      "created_ts": 1786539681,
-      "author": "fredley"
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "hn_url": "https://news.ycombinator.com/item?id=49284774",
+      "points": 345,
+      "comments": 374,
+      "created_ts": 1786622990,
+      "author": "Markoff"
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "hn_url": "https://news.ycombinator.com/item?id=49275335",
-      "points": 222,
-      "comments": 155,
-      "created_ts": 1786553485,
-      "author": "redbell"
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49279928",
-      "points": 201,
-      "comments": 91,
-      "created_ts": 1786577181,
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "hn_url": "https://news.ycombinator.com/item?id=49286341",
+      "points": 320,
+      "comments": 98,
+      "created_ts": 1786630633,
       "author": "matt_d"
     },
     {
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "hn_url": "https://news.ycombinator.com/item?id=49279013",
-      "points": 149,
-      "comments": 192,
-      "created_ts": 1786571129,
-      "author": "carabiner"
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285982",
+      "points": 300,
+      "comments": 155,
+      "created_ts": 1786629152,
+      "author": "rbanffy"
     },
     {
-      "title": "Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "hn_url": "https://news.ycombinator.com/item?id=49280061",
-      "points": 144,
-      "comments": 159,
-      "created_ts": 1786578360,
-      "author": "gumby271"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=49289112",
+      "points": 250,
+      "comments": 169,
+      "created_ts": 1786641802,
+      "author": "thisisauserid"
     },
     {
-      "title": "Breaking the WAL",
-      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "hn_url": "https://news.ycombinator.com/item?id=49277799",
-      "points": 133,
-      "comments": 47,
-      "created_ts": 1786564816,
-      "author": "wwilson"
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "hn_url": "https://news.ycombinator.com/item?id=49286662",
+      "points": 160,
+      "comments": 193,
+      "created_ts": 1786631871,
+      "author": "thehoff"
     },
     {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "hn_url": "https://news.ycombinator.com/item?id=49280103",
-      "points": 103,
-      "comments": 41,
-      "created_ts": 1786578633,
-      "author": "tart-lemonade"
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285327",
+      "points": 131,
+      "comments": 57,
+      "created_ts": 1786626329,
+      "author": "toddmorey"
+    },
+    {
+      "title": "Ordinary abundance",
+      "url": "https://ordinaryabundance.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285770",
+      "points": 109,
+      "comments": 36,
+      "created_ts": 1786628381,
+      "author": "yen223"
     }
   ],
   "ph_today": [
     {
-      "title": "Pickle Browser",
-      "url": "https://www.producthunt.com/products/pickle-browser",
+      "title": "Kane CLI",
+      "url": "https://www.producthunt.com/products/lambdatest",
       "tagline": "",
-      "pub_date": "2026-08-12T13:05:25-07:00"
+      "pub_date": "2026-08-10T00:21:45-07:00"
+    },
+    {
+      "title": "Kin Health",
+      "url": "https://www.producthunt.com/products/kin-health",
+      "tagline": "",
+      "pub_date": "2026-08-12T22:35:04-07:00"
     },
     {
       "title": "Human Behavior",
@@ -209,10 +152,10 @@
       "pub_date": "2026-08-12T23:47:23-07:00"
     },
     {
-      "title": "Kivicube",
-      "url": "https://www.producthunt.com/products/kivicube",
+      "title": "Kitbitz",
+      "url": "https://www.producthunt.com/products/kitbitz",
       "tagline": "",
-      "pub_date": "2026-08-12T16:52:57-07:00"
+      "pub_date": "2026-08-12T00:42:53-07:00"
     },
     {
       "title": "Scrimba Explain",
@@ -221,10 +164,40 @@
       "pub_date": "2026-08-04T09:49:47-07:00"
     },
     {
-      "title": "Kane CLI",
-      "url": "https://www.producthunt.com/products/lambdatest",
+      "title": "Ito",
+      "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
       "tagline": "",
-      "pub_date": "2026-08-10T00:21:45-07:00"
+      "pub_date": "2026-07-23T10:38:37-07:00"
+    },
+    {
+      "title": "Execlave",
+      "url": "https://www.producthunt.com/products/execlave",
+      "tagline": "",
+      "pub_date": "2026-06-29T22:47:14-07:00"
+    },
+    {
+      "title": "Phinq",
+      "url": "https://www.producthunt.com/products/phinq",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:43:54-07:00"
+    },
+    {
+      "title": "Oasis",
+      "url": "https://www.producthunt.com/products/oasis-6",
+      "tagline": "",
+      "pub_date": "2026-08-11T10:33:46-07:00"
+    },
+    {
+      "title": "apra-fleet",
+      "url": "https://www.producthunt.com/products/apra-fleet",
+      "tagline": "",
+      "pub_date": "2026-08-11T12:57:29-07:00"
+    },
+    {
+      "title": "Kivicube",
+      "url": "https://www.producthunt.com/products/kivicube",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:52:57-07:00"
     },
     {
       "title": "Patience",
@@ -239,28 +212,10 @@
       "pub_date": "2026-08-12T21:36:50-07:00"
     },
     {
-      "title": "Chiplab",
-      "url": "https://www.producthunt.com/products/chiplab",
+      "title": "WebBrain",
+      "url": "https://www.producthunt.com/products/webbrain",
       "tagline": "",
-      "pub_date": "2026-08-12T01:37:19-07:00"
-    },
-    {
-      "title": "Kin Health",
-      "url": "https://www.producthunt.com/products/kin-health",
-      "tagline": "",
-      "pub_date": "2026-08-12T22:35:04-07:00"
-    },
-    {
-      "title": "Caveman",
-      "url": "https://www.producthunt.com/products/caveman",
-      "tagline": "",
-      "pub_date": "2026-08-11T16:39:36-07:00"
-    },
-    {
-      "title": "Kitbitz",
-      "url": "https://www.producthunt.com/products/kitbitz",
-      "tagline": "",
-      "pub_date": "2026-08-12T00:42:53-07:00"
+      "pub_date": "2026-07-13T00:42:44-07:00"
     },
     {
       "title": "Dishylink",
@@ -269,70 +224,16 @@
       "pub_date": "2026-08-12T03:53:08-07:00"
     },
     {
-      "title": "WebBrain",
-      "url": "https://www.producthunt.com/products/webbrain",
-      "tagline": "",
-      "pub_date": "2026-07-13T00:42:44-07:00"
-    },
-    {
       "title": "FluidDocs CLI",
       "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
       "tagline": "",
       "pub_date": "2026-08-12T22:48:59-07:00"
     },
     {
-      "title": "Execlave",
-      "url": "https://www.producthunt.com/products/execlave",
+      "title": "Caveman",
+      "url": "https://www.producthunt.com/products/caveman",
       "tagline": "",
-      "pub_date": "2026-06-29T22:47:14-07:00"
-    },
-    {
-      "title": "ThreadPort",
-      "url": "https://www.producthunt.com/products/threadport",
-      "tagline": "",
-      "pub_date": "2026-08-12T12:57:51-07:00"
-    },
-    {
-      "title": "apra-fleet",
-      "url": "https://www.producthunt.com/products/apra-fleet",
-      "tagline": "",
-      "pub_date": "2026-08-11T12:57:29-07:00"
-    },
-    {
-      "title": "Coarena by Coasty",
-      "url": "https://www.producthunt.com/products/coarena-by-coasty",
-      "tagline": "",
-      "pub_date": "2026-08-05T12:20:58-07:00"
-    },
-    {
-      "title": "Oasis",
-      "url": "https://www.producthunt.com/products/oasis-6",
-      "tagline": "",
-      "pub_date": "2026-08-11T10:33:46-07:00"
-    },
-    {
-      "title": "Mem Agent",
-      "url": "https://www.producthunt.com/products/mem-2-0",
-      "tagline": "",
-      "pub_date": "2026-08-11T11:55:10-07:00"
-    },
-    {
-      "title": "Nuphos",
-      "url": "https://www.producthunt.com/products/nuphos",
-      "tagline": "",
-      "pub_date": "2026-08-04T02:42:20-07:00"
-    },
-    {
-      "title": "Phinq",
-      "url": "https://www.producthunt.com/products/phinq",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:43:54-07:00"
-    },
-    {
-      "title": "Ito",
-      "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
-      "tagline": "",
-      "pub_date": "2026-07-23T10:38:37-07:00"
+      "pub_date": "2026-08-11T16:39:36-07:00"
     },
     {
       "title": "Skilldocs",
@@ -341,16 +242,40 @@
       "pub_date": "2026-08-12T14:07:34-07:00"
     },
     {
+      "title": "Coarena by Coasty",
+      "url": "https://www.producthunt.com/products/coarena-by-coasty",
+      "tagline": "",
+      "pub_date": "2026-08-05T12:20:58-07:00"
+    },
+    {
       "title": "Google Pixel 11",
       "url": "https://www.producthunt.com/products/google",
       "tagline": "",
       "pub_date": "2026-08-12T20:16:36-07:00"
     },
     {
-      "title": "Qencode MCP",
-      "url": "https://www.producthunt.com/products/qencode",
+      "title": "Chiplab",
+      "url": "https://www.producthunt.com/products/chiplab",
       "tagline": "",
-      "pub_date": "2026-08-12T13:36:51-07:00"
+      "pub_date": "2026-08-12T01:37:19-07:00"
+    },
+    {
+      "title": "Nuphos",
+      "url": "https://www.producthunt.com/products/nuphos",
+      "tagline": "",
+      "pub_date": "2026-08-04T02:42:20-07:00"
+    },
+    {
+      "title": "Mem Agent",
+      "url": "https://www.producthunt.com/products/mem-2-0",
+      "tagline": "",
+      "pub_date": "2026-08-11T11:55:10-07:00"
+    },
+    {
+      "title": "Pickle Browser",
+      "url": "https://www.producthunt.com/products/pickle-browser",
+      "tagline": "",
+      "pub_date": "2026-08-12T13:05:25-07:00"
     },
     {
       "title": "AIO.GEO Protocol",
@@ -359,22 +284,34 @@
       "pub_date": "2026-08-12T10:21:27-07:00"
     },
     {
-      "title": "Swipe",
-      "url": "https://www.producthunt.com/products/swipe-9",
+      "title": "ThreadPort",
+      "url": "https://www.producthunt.com/products/threadport",
       "tagline": "",
-      "pub_date": "2026-08-06T13:59:53-07:00"
+      "pub_date": "2026-08-12T12:57:51-07:00"
     },
     {
-      "title": "Linforge",
-      "url": "https://www.producthunt.com/products/linforge",
+      "title": "Qencode MCP",
+      "url": "https://www.producthunt.com/products/qencode",
       "tagline": "",
-      "pub_date": "2026-08-11T12:55:22-07:00"
+      "pub_date": "2026-08-12T13:36:51-07:00"
     },
     {
-      "title": "Nearfield",
-      "url": "https://www.producthunt.com/products/nearfield",
+      "title": "Dograh",
+      "url": "https://www.producthunt.com/products/dograh",
       "tagline": "",
-      "pub_date": "2026-08-11T07:29:46-07:00"
+      "pub_date": "2026-08-07T06:37:12-07:00"
+    },
+    {
+      "title": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok",
+      "tagline": "",
+      "pub_date": "2026-08-11T03:46:56-07:00"
+    },
+    {
+      "title": "BearDrive",
+      "url": "https://www.producthunt.com/products/beardrive",
+      "tagline": "",
+      "pub_date": "2026-08-11T16:31:29-07:00"
     }
   ]
 }

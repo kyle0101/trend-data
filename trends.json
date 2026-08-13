@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:52:03.426Z",
+  "generated_at": "2026-08-13T01:17:27.697Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
       "hn_url": "https://news.ycombinator.com/item?id=49270040",
-      "points": 217,
-      "comments": 31,
+      "points": 253,
+      "comments": 39,
       "created_ts": 1786529189,
       "author": "adius"
     },
@@ -16,19 +16,37 @@
       "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
       "url": "https://kidscreen.app",
       "hn_url": "https://news.ycombinator.com/item?id=49270881",
-      "points": 28,
-      "comments": 27,
+      "points": 35,
+      "comments": 42,
       "created_ts": 1786535080,
       "author": "Tintly"
     },
     {
-      "title": "Show HN: Cut LLM turns in MCP interactions by 75%+",
-      "url": "https://github.com/Tura-AI/tura",
-      "hn_url": "https://news.ycombinator.com/item?id=49264157",
+      "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
+      "url": "https://timer.jotaen.net",
+      "hn_url": "https://news.ycombinator.com/item?id=49276673",
+      "points": 20,
+      "comments": 4,
+      "created_ts": 1786559272,
+      "author": "jotaen"
+    },
+    {
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49280184",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1786579303,
+      "author": "danielkimber"
+    },
+    {
+      "title": "Show HN: Smarter Shell History for Zsh",
+      "url": "https://github.com/overflowy/zhist",
+      "hn_url": "https://news.ycombinator.com/item?id=49272264",
       "points": 11,
-      "comments": 0,
-      "created_ts": 1786480772,
-      "author": "turaainet"
+      "comments": 5,
+      "created_ts": 1786541989,
+      "author": "overflowy"
     }
   ],
   "hn_front": [
@@ -36,163 +54,139 @@
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "hn_url": "https://news.ycombinator.com/item?id=49272832",
-      "points": 489,
-      "comments": 79,
+      "points": 788,
+      "comments": 140,
       "created_ts": 1786544550,
       "author": "ropbear"
-    },
-    {
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49271994",
-      "points": 468,
-      "comments": 392,
-      "created_ts": 1786540805,
-      "author": "florianherrengt"
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "hn_url": "https://news.ycombinator.com/item?id=49270953",
-      "points": 403,
-      "comments": 104,
-      "created_ts": 1786535581,
-      "author": "zoenolan"
-    },
-    {
-      "title": "License plate reader searches should require a warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "hn_url": "https://news.ycombinator.com/item?id=49273165",
-      "points": 382,
-      "comments": 238,
-      "created_ts": 1786545819,
-      "author": "apwheele"
     },
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "hn_url": "https://news.ycombinator.com/item?id=49274600",
-      "points": 373,
-      "comments": 130,
+      "points": 728,
+      "comments": 276,
       "created_ts": 1786550690,
       "author": "explosion-s"
     },
     {
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49271994",
+      "points": 708,
+      "comments": 640,
+      "created_ts": 1786540805,
+      "author": "florianherrengt"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "hn_url": "https://news.ycombinator.com/item?id=49273478",
-      "points": 232,
-      "comments": 64,
+      "points": 486,
+      "comments": 104,
       "created_ts": 1786546877,
       "author": "Philpax"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49270040",
-      "points": 217,
-      "comments": 31,
-      "created_ts": 1786529189,
-      "author": "adius"
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "hn_url": "https://news.ycombinator.com/item?id=49270953",
+      "points": 458,
+      "comments": 124,
+      "created_ts": 1786535581,
+      "author": "zoenolan"
     },
     {
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "hn_url": "https://news.ycombinator.com/item?id=49270022",
-      "points": 205,
-      "comments": 102,
-      "created_ts": 1786529065,
-      "author": "ColinWright"
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "hn_url": "https://news.ycombinator.com/item?id=49274027",
+      "points": 394,
+      "comments": 393,
+      "created_ts": 1786548770,
+      "author": "iLuddite"
     },
     {
-      "title": "Why Tiny JPEGs Look Different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "hn_url": "https://news.ycombinator.com/item?id=49272549",
-      "points": 171,
-      "comments": 32,
-      "created_ts": 1786543254,
-      "author": "gutechh"
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "hn_url": "https://news.ycombinator.com/item?id=49276574",
+      "points": 379,
+      "comments": 126,
+      "created_ts": 1786558799,
+      "author": "khy"
     },
     {
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "hn_url": "https://news.ycombinator.com/item?id=49275385",
-      "points": 165,
-      "comments": 129,
+      "points": 316,
+      "comments": 318,
       "created_ts": 1786553665,
       "author": "wertyk"
     },
     {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "hn_url": "https://news.ycombinator.com/item?id=49272569",
-      "points": 141,
-      "comments": 87,
-      "created_ts": 1786543366,
-      "author": "gavinhking"
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49270726",
+      "points": 292,
+      "comments": 411,
+      "created_ts": 1786534107,
+      "author": "Markoff"
+    },
+    {
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "hn_url": "https://news.ycombinator.com/item?id=49272549",
+      "points": 249,
+      "comments": 59,
+      "created_ts": 1786543254,
+      "author": "gutechh"
     },
     {
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
       "hn_url": "https://news.ycombinator.com/item?id=49272655",
-      "points": 139,
-      "comments": 23,
+      "points": 234,
+      "comments": 29,
       "created_ts": 1786543751,
       "author": "doener"
     },
     {
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "hn_url": "https://news.ycombinator.com/item?id=49270621",
-      "points": 128,
-      "comments": 90,
-      "created_ts": 1786533216,
-      "author": "layer8"
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "hn_url": "https://news.ycombinator.com/item?id=49272569",
+      "points": 228,
+      "comments": 165,
+      "created_ts": 1786543366,
+      "author": "gavinhking"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "hn_url": "https://news.ycombinator.com/item?id=49275335",
+      "points": 143,
+      "comments": 107,
+      "created_ts": 1786553485,
+      "author": "redbell"
+    },
+    {
+      "title": "Shade Map",
+      "url": "https://shademap.app",
+      "hn_url": "https://news.ycombinator.com/item?id=49271757",
+      "points": 142,
+      "comments": 41,
+      "created_ts": 1786539681,
+      "author": "fredley"
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "hn_url": "https://news.ycombinator.com/item?id=49269090",
+      "points": 113,
+      "comments": 21,
+      "created_ts": 1786521080,
+      "author": "advaith08"
     }
   ],
   "ph_today": [
-    {
-      "title": "CodeBurn",
-      "url": "https://www.producthunt.com/products/codeburn",
-      "tagline": "",
-      "pub_date": "2026-08-11T07:05:35-07:00"
-    },
-    {
-      "title": "Sidekick™",
-      "url": "https://www.producthunt.com/products/sidekick-16",
-      "tagline": "",
-      "pub_date": "2026-08-11T12:58:53-07:00"
-    },
-    {
-      "title": "Click",
-      "url": "https://www.producthunt.com/products/click-6",
-      "tagline": "",
-      "pub_date": "2026-08-11T12:25:25-07:00"
-    },
-    {
-      "title": "tash",
-      "url": "https://www.producthunt.com/products/tash",
-      "tagline": "",
-      "pub_date": "2026-08-09T16:04:38-07:00"
-    },
-    {
-      "title": "Assembly Studio",
-      "url": "https://www.producthunt.com/products/assembly-7",
-      "tagline": "",
-      "pub_date": "2026-07-09T07:57:58-07:00"
-    },
-    {
-      "title": "BearDrive",
-      "url": "https://www.producthunt.com/products/beardrive",
-      "tagline": "",
-      "pub_date": "2026-08-11T16:31:29-07:00"
-    },
-    {
-      "title": "Cohesor",
-      "url": "https://www.producthunt.com/products/cohesor",
-      "tagline": "",
-      "pub_date": "2026-08-11T18:47:03-07:00"
-    },
     {
       "title": "Swipe",
       "url": "https://www.producthunt.com/products/swipe-9",
@@ -212,34 +206,10 @@
       "pub_date": "2026-08-11T01:52:16-07:00"
     },
     {
-      "title": "RightCard",
-      "url": "https://www.producthunt.com/products/rightcard",
+      "title": "Assembly Studio",
+      "url": "https://www.producthunt.com/products/assembly-7",
       "tagline": "",
-      "pub_date": "2026-08-07T20:06:31-07:00"
-    },
-    {
-      "title": "Nearfield",
-      "url": "https://www.producthunt.com/products/nearfield",
-      "tagline": "",
-      "pub_date": "2026-08-11T07:29:46-07:00"
-    },
-    {
-      "title": "Ballet",
-      "url": "https://www.producthunt.com/products/ballet",
-      "tagline": "",
-      "pub_date": "2026-08-07T09:27:58-07:00"
-    },
-    {
-      "title": "Lettertrace",
-      "url": "https://www.producthunt.com/products/lettertrace",
-      "tagline": "",
-      "pub_date": "2026-08-08T19:15:06-07:00"
-    },
-    {
-      "title": "Grok Bot",
-      "url": "https://www.producthunt.com/products/grok",
-      "tagline": "",
-      "pub_date": "2026-08-11T03:46:56-07:00"
+      "pub_date": "2026-07-09T07:57:58-07:00"
     },
     {
       "title": "Dograh",
@@ -248,10 +218,70 @@
       "pub_date": "2026-08-07T06:37:12-07:00"
     },
     {
+      "title": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok",
+      "tagline": "",
+      "pub_date": "2026-08-11T03:46:56-07:00"
+    },
+    {
+      "title": "RightCard",
+      "url": "https://www.producthunt.com/products/rightcard",
+      "tagline": "",
+      "pub_date": "2026-08-07T20:06:31-07:00"
+    },
+    {
+      "title": "Click",
+      "url": "https://www.producthunt.com/products/click-6",
+      "tagline": "",
+      "pub_date": "2026-08-11T12:25:25-07:00"
+    },
+    {
+      "title": "BearDrive",
+      "url": "https://www.producthunt.com/products/beardrive",
+      "tagline": "",
+      "pub_date": "2026-08-11T16:31:29-07:00"
+    },
+    {
+      "title": "CodeBurn",
+      "url": "https://www.producthunt.com/products/codeburn",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:05:35-07:00"
+    },
+    {
+      "title": "tash",
+      "url": "https://www.producthunt.com/products/tash",
+      "tagline": "",
+      "pub_date": "2026-08-09T16:04:38-07:00"
+    },
+    {
+      "title": "Sidekick™",
+      "url": "https://www.producthunt.com/products/sidekick-16",
+      "tagline": "",
+      "pub_date": "2026-08-11T12:58:53-07:00"
+    },
+    {
+      "title": "Nearfield",
+      "url": "https://www.producthunt.com/products/nearfield",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:29:46-07:00"
+    },
+    {
       "title": "Unsloth Desktop",
       "url": "https://www.producthunt.com/products/unsloth",
       "tagline": "",
       "pub_date": "2026-08-11T20:47:50-07:00"
+    },
+    {
+      "title": "Ballet",
+      "url": "https://www.producthunt.com/products/ballet",
+      "tagline": "",
+      "pub_date": "2026-08-07T09:27:58-07:00"
+    },
+    {
+      "title": "Cohesor",
+      "url": "https://www.producthunt.com/products/cohesor",
+      "tagline": "",
+      "pub_date": "2026-08-11T18:47:03-07:00"
     },
     {
       "title": "Chat Agent by Trigger.dev",
@@ -260,46 +290,16 @@
       "pub_date": "2026-08-10T13:10:54-07:00"
     },
     {
+      "title": "Lettertrace",
+      "url": "https://www.producthunt.com/products/lettertrace",
+      "tagline": "",
+      "pub_date": "2026-08-08T19:15:06-07:00"
+    },
+    {
       "title": "Linforge",
       "url": "https://www.producthunt.com/products/linforge",
       "tagline": "",
       "pub_date": "2026-08-11T12:55:22-07:00"
-    },
-    {
-      "title": "Octomind Cloud and Hub",
-      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
-      "tagline": "",
-      "pub_date": "2026-08-01T22:14:53-07:00"
-    },
-    {
-      "title": "BetterClaw",
-      "url": "https://www.producthunt.com/products/betterclaw",
-      "tagline": "",
-      "pub_date": "2026-05-01T04:01:48-07:00"
-    },
-    {
-      "title": "Tines 3B",
-      "url": "https://www.producthunt.com/products/tines",
-      "tagline": "",
-      "pub_date": "2026-08-07T09:30:03-07:00"
-    },
-    {
-      "title": "agent-manager",
-      "url": "https://www.producthunt.com/products/agent-manager",
-      "tagline": "",
-      "pub_date": "2026-08-01T07:19:18-07:00"
-    },
-    {
-      "title": "bb",
-      "url": "https://www.producthunt.com/products/bb",
-      "tagline": "",
-      "pub_date": "2026-08-07T15:53:06-07:00"
-    },
-    {
-      "title": "Bullet",
-      "url": "https://www.producthunt.com/products/bullet-6",
-      "tagline": "",
-      "pub_date": "2026-08-05T23:56:29-07:00"
     },
     {
       "title": "Equitybee Benchmark",
@@ -308,28 +308,64 @@
       "pub_date": "2026-07-28T07:51:58-07:00"
     },
     {
-      "title": "Xirp",
-      "url": "https://www.producthunt.com/products/spotify",
-      "tagline": "",
-      "pub_date": "2026-08-10T21:39:44-07:00"
-    },
-    {
-      "title": "AdmitRaven",
-      "url": "https://www.producthunt.com/products/admitraven",
-      "tagline": "",
-      "pub_date": "2026-08-10T04:45:02-07:00"
-    },
-    {
       "title": "Product Analytics for Agents and Users",
       "url": "https://www.producthunt.com/products/kubit",
       "tagline": "",
       "pub_date": "2026-07-24T13:14:10-07:00"
     },
     {
+      "title": "bb",
+      "url": "https://www.producthunt.com/products/bb",
+      "tagline": "",
+      "pub_date": "2026-08-07T15:53:06-07:00"
+    },
+    {
+      "title": "VoiceGecko",
+      "url": "https://www.producthunt.com/products/voice-gecko",
+      "tagline": "",
+      "pub_date": "2026-08-08T23:01:09-07:00"
+    },
+    {
+      "title": "Octomind Cloud and Hub",
+      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+      "tagline": "",
+      "pub_date": "2026-08-01T22:14:53-07:00"
+    },
+    {
       "title": "Vizard Agent",
       "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
       "tagline": "",
       "pub_date": "2026-08-03T20:20:26-07:00"
+    },
+    {
+      "title": "Xirp",
+      "url": "https://www.producthunt.com/products/spotify",
+      "tagline": "",
+      "pub_date": "2026-08-10T21:39:44-07:00"
+    },
+    {
+      "title": "Gotcha",
+      "url": "https://www.producthunt.com/products/gotcha-5",
+      "tagline": "",
+      "pub_date": "2026-08-09T21:49:03-07:00"
+    },
+    {
+      "title": "Continuum",
+      "url": "https://www.producthunt.com/products/continuum-2027",
+      "tagline": "",
+      "pub_date": "2026-08-06T05:38:18-07:00"
+    },
+    {
+      "title": "Cerenovus",
+      "url": "https://www.producthunt.com/products/cerenovus",
+      "tagline": "",
+      "pub_date": "2026-07-30T08:31:48-07:00"
+    },
+    {
+      "title": "Switchy for Mac",
+      "url": "https://www.producthunt.com/products/switchy-for-mac",
+      "tagline": "",
+      "pub_date": "2026-08-09T02:52:09-07:00"
     }
   ]
 }

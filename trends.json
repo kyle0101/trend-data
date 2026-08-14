@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-13T18:52:48.354Z",
+  "generated_at": "2026-08-14T01:16:18.633Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies",
+      "url": "https://github.com/StamManif/mcp-stama",
+      "hn_url": "https://news.ycombinator.com/item?id=49292584",
+      "points": 71,
+      "comments": 0,
+      "created_ts": 1786659985,
+      "author": "stammanif"
+    },
+    {
       "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
       "url": "https://github.com/fellowgeek/mcp-memory",
       "hn_url": "https://news.ycombinator.com/item?id=49286073",
-      "points": 47,
-      "comments": 28,
+      "points": 53,
+      "comments": 35,
       "created_ts": 1786629467,
       "author": "pcbmaker20"
-    },
-    {
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49280184",
-      "points": 32,
-      "comments": 12,
-      "created_ts": 1786579303,
-      "author": "danielkimber"
     },
     {
       "title": "Show HN: UTC Time - live clock, ISO 8601, Unix timestamp",
       "url": "https://utctime.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49281675",
-      "points": 21,
-      "comments": 5,
+      "points": 23,
+      "comments": 7,
       "created_ts": 1786593845,
       "author": "nadermx"
     },
@@ -34,128 +34,191 @@
       "title": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
       "url": "https://stackdome.com",
       "hn_url": "https://news.ycombinator.com/item?id=49285086",
-      "points": 19,
+      "points": 20,
       "comments": 6,
       "created_ts": 1786624984,
       "author": "ashishmax31"
     },
     {
-      "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat",
-      "url": "https://www.orangecrumbs.com/stories/show-hn",
-      "hn_url": "https://news.ycombinator.com/item?id=49279207",
-      "points": 11,
+      "title": "Show HN: OxiSH, a modern, memory-safe SSH server",
+      "url": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49287604",
+      "points": 15,
+      "comments": 0,
+      "created_ts": 1786635365,
+      "author": "dochtman"
+    },
+    {
+      "title": "Show HN: A Rosetta Stone for UI component libraries",
+      "url": "https://www.frontfamily.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49287596",
+      "points": 13,
       "comments": 2,
-      "created_ts": 1786572132,
-      "author": "oyster143"
+      "created_ts": 1786635308,
+      "author": "ch-bas"
     }
   ],
   "hn_front": [
     {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=49289112",
+      "points": 603,
+      "comments": 337,
+      "created_ts": 1786641802,
+      "author": "thisisauserid"
+    },
+    {
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
       "hn_url": "https://news.ycombinator.com/item?id=49285244",
-      "points": 448,
-      "comments": 203,
+      "points": 551,
+      "comments": 241,
       "created_ts": 1786625882,
       "author": "bjin"
-    },
-    {
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "hn_url": "https://news.ycombinator.com/item?id=49281916",
-      "points": 406,
-      "comments": 279,
-      "created_ts": 1786596821,
-      "author": "allanrbo"
-    },
-    {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "hn_url": "https://news.ycombinator.com/item?id=49284774",
-      "points": 345,
-      "comments": 374,
-      "created_ts": 1786622990,
-      "author": "Markoff"
     },
     {
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "hn_url": "https://news.ycombinator.com/item?id=49286341",
-      "points": 320,
-      "comments": 98,
+      "points": 489,
+      "comments": 138,
       "created_ts": 1786630633,
       "author": "matt_d"
     },
     {
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285982",
-      "points": 300,
-      "comments": 155,
-      "created_ts": 1786629152,
-      "author": "rbanffy"
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "hn_url": "https://news.ycombinator.com/item?id=49289844",
+      "points": 411,
+      "comments": 172,
+      "created_ts": 1786644602,
+      "author": "pr337h4m"
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "hn_url": "https://news.ycombinator.com/item?id=49289112",
-      "points": 250,
-      "comments": 169,
-      "created_ts": 1786641802,
-      "author": "thisisauserid"
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "hn_url": "https://news.ycombinator.com/item?id=49288889",
+      "points": 248,
+      "comments": 97,
+      "created_ts": 1786640712,
+      "author": "spelk"
     },
     {
-      "title": "I requested a copy of my data from McDonald’s loyalty program",
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "hn_url": "https://news.ycombinator.com/item?id=49286662",
-      "points": 160,
-      "comments": 193,
-      "created_ts": 1786631871,
-      "author": "thehoff"
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "hn_url": "https://news.ycombinator.com/item?id=49289512",
+      "points": 243,
+      "comments": 128,
+      "created_ts": 1786643293,
+      "author": "tosh"
     },
     {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285327",
-      "points": 131,
-      "comments": 57,
-      "created_ts": 1786626329,
-      "author": "toddmorey"
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285418",
+      "points": 238,
+      "comments": 134,
+      "created_ts": 1786626852,
+      "author": "vinayakborkar"
     },
     {
       "title": "Ordinary abundance",
       "url": "https://ordinaryabundance.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49285770",
-      "points": 109,
-      "comments": 36,
+      "points": 204,
+      "comments": 113,
       "created_ts": 1786628381,
       "author": "yen223"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "hn_url": "https://news.ycombinator.com/item?id=49290299",
+      "points": 194,
+      "comments": 102,
+      "created_ts": 1786646839,
+      "author": "sebg"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49289465",
+      "points": 185,
+      "comments": 79,
+      "created_ts": 1786643150,
+      "author": "jkrauska"
+    },
+    {
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "hn_url": "https://news.ycombinator.com/item?id=49286485",
+      "points": 153,
+      "comments": 69,
+      "created_ts": 1786631201,
+      "author": "stevehipwell"
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "hn_url": "https://news.ycombinator.com/item?id=49290215",
+      "points": 145,
+      "comments": 93,
+      "created_ts": 1786646461,
+      "author": "ValdikSS"
+    },
+    {
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "hn_url": "https://news.ycombinator.com/item?id=49291268",
+      "points": 144,
+      "comments": 88,
+      "created_ts": 1786652057,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "hn_url": "https://news.ycombinator.com/item?id=49289532",
+      "points": 127,
+      "comments": 106,
+      "created_ts": 1786643358,
+      "author": "tdx"
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "hn_url": "https://news.ycombinator.com/item?id=49289654",
+      "points": 101,
+      "comments": 40,
+      "created_ts": 1786643870,
+      "author": "tosh"
     }
   ],
   "ph_today": [
     {
-      "title": "Kane CLI",
-      "url": "https://www.producthunt.com/products/lambdatest",
+      "title": "Mem Agent",
+      "url": "https://www.producthunt.com/products/mem-2-0",
       "tagline": "",
-      "pub_date": "2026-08-10T00:21:45-07:00"
+      "pub_date": "2026-08-11T11:55:10-07:00"
     },
     {
-      "title": "Kin Health",
-      "url": "https://www.producthunt.com/products/kin-health",
+      "title": "Skilldocs",
+      "url": "https://www.producthunt.com/products/skilldocs",
       "tagline": "",
-      "pub_date": "2026-08-12T22:35:04-07:00"
+      "pub_date": "2026-08-12T14:07:34-07:00"
+    },
+    {
+      "title": "Oasis",
+      "url": "https://www.producthunt.com/products/oasis-6",
+      "tagline": "",
+      "pub_date": "2026-08-11T10:33:46-07:00"
     },
     {
       "title": "Human Behavior",
       "url": "https://www.producthunt.com/products/human-behavior",
       "tagline": "",
       "pub_date": "2026-08-12T23:47:23-07:00"
-    },
-    {
-      "title": "Kitbitz",
-      "url": "https://www.producthunt.com/products/kitbitz",
-      "tagline": "",
-      "pub_date": "2026-08-12T00:42:53-07:00"
     },
     {
       "title": "Scrimba Explain",
@@ -170,64 +233,10 @@
       "pub_date": "2026-07-23T10:38:37-07:00"
     },
     {
-      "title": "Execlave",
-      "url": "https://www.producthunt.com/products/execlave",
+      "title": "Kane CLI",
+      "url": "https://www.producthunt.com/products/lambdatest",
       "tagline": "",
-      "pub_date": "2026-06-29T22:47:14-07:00"
-    },
-    {
-      "title": "Phinq",
-      "url": "https://www.producthunt.com/products/phinq",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:43:54-07:00"
-    },
-    {
-      "title": "Oasis",
-      "url": "https://www.producthunt.com/products/oasis-6",
-      "tagline": "",
-      "pub_date": "2026-08-11T10:33:46-07:00"
-    },
-    {
-      "title": "apra-fleet",
-      "url": "https://www.producthunt.com/products/apra-fleet",
-      "tagline": "",
-      "pub_date": "2026-08-11T12:57:29-07:00"
-    },
-    {
-      "title": "Kivicube",
-      "url": "https://www.producthunt.com/products/kivicube",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:52:57-07:00"
-    },
-    {
-      "title": "Patience",
-      "url": "https://www.producthunt.com/products/patience-2",
-      "tagline": "",
-      "pub_date": "2026-08-08T13:43:02-07:00"
-    },
-    {
-      "title": "Insta360 X6",
-      "url": "https://www.producthunt.com/products/insta-360",
-      "tagline": "",
-      "pub_date": "2026-08-12T21:36:50-07:00"
-    },
-    {
-      "title": "WebBrain",
-      "url": "https://www.producthunt.com/products/webbrain",
-      "tagline": "",
-      "pub_date": "2026-07-13T00:42:44-07:00"
-    },
-    {
-      "title": "Dishylink",
-      "url": "https://www.producthunt.com/products/dishylink",
-      "tagline": "",
-      "pub_date": "2026-08-12T03:53:08-07:00"
-    },
-    {
-      "title": "FluidDocs CLI",
-      "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
-      "tagline": "",
-      "pub_date": "2026-08-12T22:48:59-07:00"
+      "pub_date": "2026-08-10T00:21:45-07:00"
     },
     {
       "title": "Caveman",
@@ -236,22 +245,40 @@
       "pub_date": "2026-08-11T16:39:36-07:00"
     },
     {
-      "title": "Skilldocs",
-      "url": "https://www.producthunt.com/products/skilldocs",
+      "title": "Nuphos",
+      "url": "https://www.producthunt.com/products/nuphos",
       "tagline": "",
-      "pub_date": "2026-08-12T14:07:34-07:00"
+      "pub_date": "2026-08-04T02:42:20-07:00"
     },
     {
-      "title": "Coarena by Coasty",
-      "url": "https://www.producthunt.com/products/coarena-by-coasty",
+      "title": "Kin Health",
+      "url": "https://www.producthunt.com/products/kin-health",
       "tagline": "",
-      "pub_date": "2026-08-05T12:20:58-07:00"
+      "pub_date": "2026-08-12T22:35:04-07:00"
     },
     {
-      "title": "Google Pixel 11",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Dishylink",
+      "url": "https://www.producthunt.com/products/dishylink",
       "tagline": "",
-      "pub_date": "2026-08-12T20:16:36-07:00"
+      "pub_date": "2026-08-12T03:53:08-07:00"
+    },
+    {
+      "title": "Patience",
+      "url": "https://www.producthunt.com/products/patience-2",
+      "tagline": "",
+      "pub_date": "2026-08-08T13:43:02-07:00"
+    },
+    {
+      "title": "Execlave",
+      "url": "https://www.producthunt.com/products/execlave",
+      "tagline": "",
+      "pub_date": "2026-06-29T22:47:14-07:00"
+    },
+    {
+      "title": "WebBrain",
+      "url": "https://www.producthunt.com/products/webbrain",
+      "tagline": "",
+      "pub_date": "2026-07-13T00:42:44-07:00"
     },
     {
       "title": "Chiplab",
@@ -260,16 +287,16 @@
       "pub_date": "2026-08-12T01:37:19-07:00"
     },
     {
-      "title": "Nuphos",
-      "url": "https://www.producthunt.com/products/nuphos",
+      "title": "Coarena by Coasty",
+      "url": "https://www.producthunt.com/products/coarena-by-coasty",
       "tagline": "",
-      "pub_date": "2026-08-04T02:42:20-07:00"
+      "pub_date": "2026-08-05T12:20:58-07:00"
     },
     {
-      "title": "Mem Agent",
-      "url": "https://www.producthunt.com/products/mem-2-0",
+      "title": "Insta360 X6",
+      "url": "https://www.producthunt.com/products/insta-360",
       "tagline": "",
-      "pub_date": "2026-08-11T11:55:10-07:00"
+      "pub_date": "2026-08-12T21:36:50-07:00"
     },
     {
       "title": "Pickle Browser",
@@ -278,10 +305,28 @@
       "pub_date": "2026-08-12T13:05:25-07:00"
     },
     {
-      "title": "AIO.GEO Protocol",
-      "url": "https://www.producthunt.com/products/aio-geo-protocol",
+      "title": "FluidDocs CLI",
+      "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
       "tagline": "",
-      "pub_date": "2026-08-12T10:21:27-07:00"
+      "pub_date": "2026-08-12T22:48:59-07:00"
+    },
+    {
+      "title": "Kivicube",
+      "url": "https://www.producthunt.com/products/kivicube",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:52:57-07:00"
+    },
+    {
+      "title": "Kitbitz",
+      "url": "https://www.producthunt.com/products/kitbitz",
+      "tagline": "",
+      "pub_date": "2026-08-12T00:42:53-07:00"
+    },
+    {
+      "title": "Phinq",
+      "url": "https://www.producthunt.com/products/phinq",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:43:54-07:00"
     },
     {
       "title": "ThreadPort",
@@ -290,28 +335,46 @@
       "pub_date": "2026-08-12T12:57:51-07:00"
     },
     {
+      "title": "AIO.GEO Protocol",
+      "url": "https://www.producthunt.com/products/aio-geo-protocol",
+      "tagline": "",
+      "pub_date": "2026-08-12T10:21:27-07:00"
+    },
+    {
+      "title": "apra-fleet",
+      "url": "https://www.producthunt.com/products/apra-fleet",
+      "tagline": "",
+      "pub_date": "2026-08-11T12:57:29-07:00"
+    },
+    {
       "title": "Qencode MCP",
       "url": "https://www.producthunt.com/products/qencode",
       "tagline": "",
       "pub_date": "2026-08-12T13:36:51-07:00"
     },
     {
-      "title": "Dograh",
-      "url": "https://www.producthunt.com/products/dograh",
+      "title": "Google Pixel 11",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-08-07T06:37:12-07:00"
-    },
-    {
-      "title": "Grok Bot",
-      "url": "https://www.producthunt.com/products/grok",
-      "tagline": "",
-      "pub_date": "2026-08-11T03:46:56-07:00"
+      "pub_date": "2026-08-12T20:16:36-07:00"
     },
     {
       "title": "BearDrive",
       "url": "https://www.producthunt.com/products/beardrive",
       "tagline": "",
       "pub_date": "2026-08-11T16:31:29-07:00"
+    },
+    {
+      "title": "Nearfield",
+      "url": "https://www.producthunt.com/products/nearfield",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:29:46-07:00"
+    },
+    {
+      "title": "Chat Agent by Trigger.dev",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "tagline": "",
+      "pub_date": "2026-08-10T13:10:54-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:13:04.593Z",
+  "generated_at": "2026-08-14T12:47:21.601Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -16,26 +16,26 @@
       "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
       "url": "https://github.com/fellowgeek/mcp-memory",
       "hn_url": "https://news.ycombinator.com/item?id=49286073",
-      "points": 58,
+      "points": 61,
       "comments": 35,
       "created_ts": 1786629467,
       "author": "pcbmaker20"
     },
     {
-      "title": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
-      "url": "https://stackdome.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49285086",
-      "points": 21,
-      "comments": 6,
-      "created_ts": 1786624984,
-      "author": "ashishmax31"
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
+      "hn_url": "https://news.ycombinator.com/item?id=49293523",
+      "points": 37,
+      "comments": 12,
+      "created_ts": 1786668424,
+      "author": "vforno"
     },
     {
       "title": "Show HN: OxiSH, a modern, memory-safe SSH server",
       "url": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
       "hn_url": "https://news.ycombinator.com/item?id=49287604",
-      "points": 20,
-      "comments": 0,
+      "points": 22,
+      "comments": 2,
       "created_ts": 1786635365,
       "author": "dochtman"
     },
@@ -43,7 +43,7 @@
       "title": "Show HN: A Rosetta Stone for UI component libraries",
       "url": "https://www.frontfamily.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49287596",
-      "points": 15,
+      "points": 18,
       "comments": 2,
       "created_ts": 1786635308,
       "author": "ch-bas"
@@ -54,8 +54,8 @@
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "hn_url": "https://news.ycombinator.com/item?id=49289112",
-      "points": 776,
-      "comments": 405,
+      "points": 889,
+      "comments": 451,
       "created_ts": 1786641802,
       "author": "thisisauserid"
     },
@@ -63,8 +63,8 @@
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
       "hn_url": "https://news.ycombinator.com/item?id=49285244",
-      "points": 627,
-      "comments": 263,
+      "points": 688,
+      "comments": 280,
       "created_ts": 1786625882,
       "author": "bjin"
     },
@@ -72,143 +72,116 @@
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "hn_url": "https://news.ycombinator.com/item?id=49286341",
-      "points": 579,
-      "comments": 153,
+      "points": 658,
+      "comments": 167,
       "created_ts": 1786630633,
       "author": "matt_d"
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "hn_url": "https://news.ycombinator.com/item?id=49294997",
+      "points": 644,
+      "comments": 315,
+      "created_ts": 1786684799,
+      "author": "pella"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "hn_url": "https://news.ycombinator.com/item?id=49289844",
-      "points": 545,
-      "comments": 228,
+      "points": 640,
+      "comments": 252,
       "created_ts": 1786644602,
       "author": "pr337h4m"
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "hn_url": "https://news.ycombinator.com/item?id=49289512",
-      "points": 321,
-      "comments": 159,
-      "created_ts": 1786643293,
-      "author": "tosh"
     },
     {
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "hn_url": "https://news.ycombinator.com/item?id=49288889",
-      "points": 311,
-      "comments": 118,
+      "points": 377,
+      "comments": 152,
       "created_ts": 1786640712,
       "author": "spelk"
     },
     {
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285418",
-      "points": 294,
-      "comments": 166,
-      "created_ts": 1786626852,
-      "author": "vinayakborkar"
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "hn_url": "https://news.ycombinator.com/item?id=49289512",
+      "points": 376,
+      "comments": 200,
+      "created_ts": 1786643293,
+      "author": "tosh"
     },
     {
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
       "hn_url": "https://news.ycombinator.com/item?id=49290299",
-      "points": 293,
-      "comments": 158,
+      "points": 366,
+      "comments": 200,
       "created_ts": 1786646839,
       "author": "sebg"
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=49285418",
+      "points": 335,
+      "comments": 195,
+      "created_ts": 1786626852,
+      "author": "vinayakborkar"
     },
     {
       "title": "Ordinary Abundance",
       "url": "https://ordinaryabundance.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49285770",
-      "points": 283,
-      "comments": 142,
+      "points": 335,
+      "comments": 164,
       "created_ts": 1786628381,
       "author": "yen223"
-    },
-    {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "hn_url": "https://news.ycombinator.com/item?id=49294997",
-      "points": 240,
-      "comments": 83,
-      "created_ts": 1786684799,
-      "author": "pella"
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49289465",
-      "points": 220,
-      "comments": 104,
-      "created_ts": 1786643150,
-      "author": "jkrauska"
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285327",
-      "points": 197,
-      "comments": 82,
-      "created_ts": 1786626329,
-      "author": "toddmorey"
-    },
-    {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "hn_url": "https://news.ycombinator.com/item?id=49290215",
-      "points": 196,
-      "comments": 121,
-      "created_ts": 1786646461,
-      "author": "ValdikSS"
-    },
-    {
-      "title": "NP-overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "hn_url": "https://news.ycombinator.com/item?id=49291268",
-      "points": 194,
-      "comments": 124,
-      "created_ts": 1786652057,
-      "author": "theanonymousone"
-    },
-    {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "hn_url": "https://news.ycombinator.com/item?id=49286485",
-      "points": 180,
-      "comments": 78,
-      "created_ts": 1786631201,
-      "author": "stevehipwell"
-    },
-    {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "hn_url": "https://news.ycombinator.com/item?id=49289532",
-      "points": 166,
-      "comments": 151,
-      "created_ts": 1786643358,
-      "author": "tdx"
     },
     {
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
       "hn_url": "https://news.ycombinator.com/item?id=49290166",
-      "points": 154,
-      "comments": 65,
+      "points": 274,
+      "comments": 146,
       "created_ts": 1786646238,
       "author": "somesoftdev"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49289465",
+      "points": 250,
+      "comments": 125,
+      "created_ts": 1786643150,
+      "author": "jkrauska"
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "hn_url": "https://news.ycombinator.com/item?id=49290215",
+      "points": 232,
+      "comments": 161,
+      "created_ts": 1786646461,
+      "author": "ValdikSS"
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "hn_url": "https://news.ycombinator.com/item?id=49289532",
+      "points": 199,
+      "comments": 191,
+      "created_ts": 1786643358,
+      "author": "tdx"
     },
     {
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
       "hn_url": "https://news.ycombinator.com/item?id=49289654",
-      "points": 147,
-      "comments": 58,
+      "points": 181,
+      "comments": 74,
       "created_ts": 1786643870,
       "author": "tosh"
     },
@@ -216,30 +189,45 @@
       "title": "Bluesky Protocol Services",
       "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
       "hn_url": "https://news.ycombinator.com/item?id=49293324",
-      "points": 144,
-      "comments": 22,
+      "points": 177,
+      "comments": 46,
       "created_ts": 1786666468,
       "author": "danabramov"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "hn_url": "https://news.ycombinator.com/item?id=49296740",
+      "points": 163,
+      "comments": 148,
+      "created_ts": 1786702368,
+      "author": "numeri"
+    },
+    {
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49293087",
+      "points": 126,
+      "comments": 39,
+      "created_ts": 1786664373,
+      "author": "gfysfm"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49290768",
+      "points": 115,
+      "comments": 91,
+      "created_ts": 1786649138,
+      "author": "malshe"
     }
   ],
   "ph_today": [
     {
-      "title": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
+      "title": "Outcome",
+      "url": "https://www.producthunt.com/products/contentblocks",
       "tagline": "",
-      "pub_date": "2026-08-13T06:28:31-07:00"
-    },
-    {
-      "title": "Suno Studio 2.0",
-      "url": "https://www.producthunt.com/products/suno",
-      "tagline": "",
-      "pub_date": "2026-08-13T13:42:41-07:00"
-    },
-    {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
-      "tagline": "",
-      "pub_date": "2026-08-13T11:16:30-07:00"
+      "pub_date": "2023-12-17T17:58:02-08:00"
     },
     {
       "title": "Compass Calendar",
@@ -248,70 +236,10 @@
       "pub_date": "2026-08-13T12:31:57-07:00"
     },
     {
-      "title": "min.",
-      "url": "https://www.producthunt.com/products/min-4",
+      "title": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
       "tagline": "",
-      "pub_date": "2026-08-12T20:00:00-07:00"
-    },
-    {
-      "title": "Buply",
-      "url": "https://www.producthunt.com/products/buply",
-      "tagline": "",
-      "pub_date": "2026-05-17T10:48:25-07:00"
-    },
-    {
-      "title": "oxpecker",
-      "url": "https://www.producthunt.com/products/oxpecker",
-      "tagline": "",
-      "pub_date": "2026-08-13T07:59:15-07:00"
-    },
-    {
-      "title": "Theos[RFM]",
-      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
-      "tagline": "",
-      "pub_date": "2026-08-13T19:57:16-07:00"
-    },
-    {
-      "title": "NS1",
-      "url": "https://www.producthunt.com/products/ns1",
-      "tagline": "",
-      "pub_date": "2026-08-13T07:43:54-07:00"
-    },
-    {
-      "title": "Openmotion",
-      "url": "https://www.producthunt.com/products/openmotion",
-      "tagline": "",
-      "pub_date": "2026-08-13T00:46:55-07:00"
-    },
-    {
-      "title": "Muse",
-      "url": "https://www.producthunt.com/products/muse-19",
-      "tagline": "",
-      "pub_date": "2026-08-11T03:51:23-07:00"
-    },
-    {
-      "title": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
-      "tagline": "",
-      "pub_date": "2026-08-10T14:46:32-07:00"
-    },
-    {
-      "title": "Outcome",
-      "url": "https://www.producthunt.com/products/contentblocks",
-      "tagline": "",
-      "pub_date": "2023-12-17T17:58:02-08:00"
-    },
-    {
-      "title": "ChordViz",
-      "url": "https://www.producthunt.com/products/chordviz",
-      "tagline": "",
-      "pub_date": "2026-08-13T18:28:45-07:00"
-    },
-    {
-      "title": "Munder Difflin",
-      "url": "https://www.producthunt.com/products/munder-difflin",
-      "tagline": "",
-      "pub_date": "2026-08-12T06:04:54-07:00"
+      "pub_date": "2026-08-07T01:40:34-07:00"
     },
     {
       "title": "Hoplite",
@@ -320,16 +248,16 @@
       "pub_date": "2026-07-18T16:02:04-07:00"
     },
     {
-      "title": "DeepSeek Harness",
-      "url": "https://www.producthunt.com/products/deepseek",
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
       "tagline": "",
-      "pub_date": "2026-08-13T06:08:16-07:00"
+      "pub_date": "2026-08-11T03:51:23-07:00"
     },
     {
-      "title": "Basedash Tasks",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "min.",
+      "url": "https://www.producthunt.com/products/min-4",
       "tagline": "",
-      "pub_date": "2026-08-13T20:29:11-07:00"
+      "pub_date": "2026-08-12T20:00:00-07:00"
     },
     {
       "title": "Freebuff",
@@ -338,10 +266,64 @@
       "pub_date": "2026-08-13T10:04:37-07:00"
     },
     {
-      "title": "BrowserAct Cloud",
-      "url": "https://www.producthunt.com/products/browseract",
+      "title": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
       "tagline": "",
-      "pub_date": "2026-08-07T01:40:34-07:00"
+      "pub_date": "2026-08-13T18:28:45-07:00"
+    },
+    {
+      "title": "Basedash Tasks",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-08-13T20:29:11-07:00"
+    },
+    {
+      "title": "DeepSeek Harness",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "tagline": "",
+      "pub_date": "2026-08-13T06:08:16-07:00"
+    },
+    {
+      "title": "oxpecker",
+      "url": "https://www.producthunt.com/products/oxpecker",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:59:15-07:00"
+    },
+    {
+      "title": "Munder Difflin",
+      "url": "https://www.producthunt.com/products/munder-difflin",
+      "tagline": "",
+      "pub_date": "2026-08-12T06:04:54-07:00"
+    },
+    {
+      "title": "Openmotion",
+      "url": "https://www.producthunt.com/products/openmotion",
+      "tagline": "",
+      "pub_date": "2026-08-13T00:46:55-07:00"
+    },
+    {
+      "title": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
+      "tagline": "",
+      "pub_date": "2026-08-10T14:46:32-07:00"
+    },
+    {
+      "title": "NS1",
+      "url": "https://www.producthunt.com/products/ns1",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:43:54-07:00"
+    },
+    {
+      "title": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "tagline": "",
+      "pub_date": "2026-08-13T06:28:31-07:00"
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "tagline": "",
+      "pub_date": "2026-08-13T11:16:30-07:00"
     },
     {
       "title": "isolate.video",
@@ -350,46 +332,16 @@
       "pub_date": "2026-08-12T23:31:41-07:00"
     },
     {
-      "title": "Coarena by Coasty",
-      "url": "https://www.producthunt.com/products/coarena-by-coasty",
+      "title": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
       "tagline": "",
-      "pub_date": "2026-08-05T12:20:58-07:00"
+      "pub_date": "2026-08-13T13:42:41-07:00"
     },
     {
-      "title": "Human Behavior",
-      "url": "https://www.producthunt.com/products/human-behavior",
+      "title": "Theos[RFM]",
+      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
       "tagline": "",
-      "pub_date": "2026-08-12T23:47:23-07:00"
-    },
-    {
-      "title": "Execlave",
-      "url": "https://www.producthunt.com/products/execlave",
-      "tagline": "",
-      "pub_date": "2026-06-29T22:47:14-07:00"
-    },
-    {
-      "title": "Kivicube",
-      "url": "https://www.producthunt.com/products/kivicube",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:52:57-07:00"
-    },
-    {
-      "title": "Chiplab",
-      "url": "https://www.producthunt.com/products/chiplab",
-      "tagline": "",
-      "pub_date": "2026-08-12T01:37:19-07:00"
-    },
-    {
-      "title": "Oasis",
-      "url": "https://www.producthunt.com/products/oasis-6",
-      "tagline": "",
-      "pub_date": "2026-08-11T10:33:46-07:00"
-    },
-    {
-      "title": "WebBrain",
-      "url": "https://www.producthunt.com/products/webbrain",
-      "tagline": "",
-      "pub_date": "2026-07-13T00:42:44-07:00"
+      "pub_date": "2026-08-13T19:57:16-07:00"
     },
     {
       "title": "ThreadPort",
@@ -398,10 +350,58 @@
       "pub_date": "2026-08-12T12:57:51-07:00"
     },
     {
-      "title": "Dishylink",
-      "url": "https://www.producthunt.com/products/dishylink",
+      "title": "apra-fleet",
+      "url": "https://www.producthunt.com/products/apra-fleet",
       "tagline": "",
-      "pub_date": "2026-08-12T03:53:08-07:00"
+      "pub_date": "2026-08-11T12:57:29-07:00"
+    },
+    {
+      "title": "Qencode MCP",
+      "url": "https://www.producthunt.com/products/qencode",
+      "tagline": "",
+      "pub_date": "2026-08-12T13:36:51-07:00"
+    },
+    {
+      "title": "Skilldocs",
+      "url": "https://www.producthunt.com/products/skilldocs",
+      "tagline": "",
+      "pub_date": "2026-08-12T14:07:34-07:00"
+    },
+    {
+      "title": "Google Pixel 11",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-08-12T20:16:36-07:00"
+    },
+    {
+      "title": "Pickle Browser",
+      "url": "https://www.producthunt.com/products/pickle-browser",
+      "tagline": "",
+      "pub_date": "2026-08-12T13:05:25-07:00"
+    },
+    {
+      "title": "Kivicube",
+      "url": "https://www.producthunt.com/products/kivicube",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:52:57-07:00"
+    },
+    {
+      "title": "Scrimba Explain",
+      "url": "https://www.producthunt.com/products/scrimba",
+      "tagline": "",
+      "pub_date": "2026-08-04T09:49:47-07:00"
+    },
+    {
+      "title": "Kin Health",
+      "url": "https://www.producthunt.com/products/kin-health",
+      "tagline": "",
+      "pub_date": "2026-08-12T22:35:04-07:00"
+    },
+    {
+      "title": "Human Behavior",
+      "url": "https://www.producthunt.com/products/human-behavior",
+      "tagline": "",
+      "pub_date": "2026-08-12T23:47:23-07:00"
     }
   ]
 }

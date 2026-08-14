@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:47:21.601Z",
+  "generated_at": "2026-08-14T18:42:32.744Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,219 +7,138 @@
       "title": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies",
       "url": "https://github.com/StamManif/mcp-stama",
       "hn_url": "https://news.ycombinator.com/item?id=49292584",
-      "points": 71,
+      "points": 73,
       "comments": 0,
       "created_ts": 1786659985,
       "author": "stammanif"
     },
     {
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "url": "https://github.com/fellowgeek/mcp-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=49286073",
+      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+      "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+      "hn_url": "https://news.ycombinator.com/item?id=49297996",
       "points": 61,
-      "comments": 35,
-      "created_ts": 1786629467,
-      "author": "pcbmaker20"
+      "comments": 48,
+      "created_ts": 1786711537,
+      "author": "turborigby"
     },
     {
       "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
       "url": "https://github.com/JustVugg/lumabri",
       "hn_url": "https://news.ycombinator.com/item?id=49293523",
-      "points": 37,
-      "comments": 12,
+      "points": 44,
+      "comments": 18,
       "created_ts": 1786668424,
       "author": "vforno"
     },
     {
-      "title": "Show HN: OxiSH, a modern, memory-safe SSH server",
-      "url": "https://dirkjan.ochtman.nl/writing/2026/08/13/announcing-oxish.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49287604",
-      "points": 22,
-      "comments": 2,
-      "created_ts": 1786635365,
-      "author": "dochtman"
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "url": "https://github.com/NanoNets/Graft",
+      "hn_url": "https://news.ycombinator.com/item?id=49299985",
+      "points": 35,
+      "comments": 34,
+      "created_ts": 1786720922,
+      "author": "shrishdwi"
     },
     {
-      "title": "Show HN: A Rosetta Stone for UI component libraries",
-      "url": "https://www.frontfamily.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49287596",
-      "points": 18,
-      "comments": 2,
-      "created_ts": 1786635308,
-      "author": "ch-bas"
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "url": "https://luacad.ad-si.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49301215",
+      "points": 32,
+      "comments": 6,
+      "created_ts": 1786725802,
+      "author": "adius"
     }
   ],
   "hn_front": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "hn_url": "https://news.ycombinator.com/item?id=49289112",
-      "points": 889,
-      "comments": 451,
-      "created_ts": 1786641802,
-      "author": "thisisauserid"
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285244",
-      "points": 688,
-      "comments": 280,
-      "created_ts": 1786625882,
-      "author": "bjin"
-    },
-    {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "hn_url": "https://news.ycombinator.com/item?id=49286341",
-      "points": 658,
-      "comments": 167,
-      "created_ts": 1786630633,
-      "author": "matt_d"
-    },
-    {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
       "hn_url": "https://news.ycombinator.com/item?id=49294997",
-      "points": 644,
-      "comments": 315,
+      "points": 941,
+      "comments": 475,
       "created_ts": 1786684799,
       "author": "pella"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "hn_url": "https://news.ycombinator.com/item?id=49289844",
-      "points": 640,
-      "comments": 252,
-      "created_ts": 1786644602,
-      "author": "pr337h4m"
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "hn_url": "https://news.ycombinator.com/item?id=49288889",
-      "points": 377,
-      "comments": 152,
-      "created_ts": 1786640712,
-      "author": "spelk"
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "hn_url": "https://news.ycombinator.com/item?id=49289512",
-      "points": 376,
-      "comments": 200,
-      "created_ts": 1786643293,
-      "author": "tosh"
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "hn_url": "https://news.ycombinator.com/item?id=49290299",
-      "points": 366,
-      "comments": 200,
-      "created_ts": 1786646839,
-      "author": "sebg"
-    },
-    {
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285418",
-      "points": 335,
-      "comments": 195,
-      "created_ts": 1786626852,
-      "author": "vinayakborkar"
-    },
-    {
-      "title": "Ordinary Abundance",
-      "url": "https://ordinaryabundance.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49285770",
-      "points": 335,
-      "comments": 164,
-      "created_ts": 1786628381,
-      "author": "yen223"
-    },
-    {
-      "title": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "hn_url": "https://news.ycombinator.com/item?id=49290166",
-      "points": 274,
-      "comments": 146,
-      "created_ts": 1786646238,
-      "author": "somesoftdev"
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49289465",
-      "points": 250,
-      "comments": 125,
-      "created_ts": 1786643150,
-      "author": "jkrauska"
-    },
-    {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "hn_url": "https://news.ycombinator.com/item?id=49290215",
-      "points": 232,
-      "comments": 161,
-      "created_ts": 1786646461,
-      "author": "ValdikSS"
-    },
-    {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "hn_url": "https://news.ycombinator.com/item?id=49289532",
-      "points": 199,
-      "comments": 191,
-      "created_ts": 1786643358,
-      "author": "tdx"
-    },
-    {
-      "title": "How Compaction Works in Pi",
-      "url": "https://earendil.com/posts/compaction-in-pi/",
-      "hn_url": "https://news.ycombinator.com/item?id=49289654",
-      "points": 181,
-      "comments": 74,
-      "created_ts": 1786643870,
-      "author": "tosh"
-    },
-    {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "hn_url": "https://news.ycombinator.com/item?id=49293324",
-      "points": 177,
-      "comments": 46,
-      "created_ts": 1786666468,
-      "author": "danabramov"
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299222",
+      "points": 577,
+      "comments": 338,
+      "created_ts": 1786717868,
+      "author": "doubletwoyou"
     },
     {
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
       "hn_url": "https://news.ycombinator.com/item?id=49296740",
-      "points": 163,
-      "comments": 148,
+      "points": 502,
+      "comments": 468,
       "created_ts": 1786702368,
       "author": "numeri"
     },
     {
-      "title": "Blog about things you don't understand yet",
-      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "hn_url": "https://news.ycombinator.com/item?id=49293087",
-      "points": 126,
-      "comments": 39,
-      "created_ts": 1786664373,
-      "author": "gfysfm"
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "hn_url": "https://news.ycombinator.com/item?id=49299605",
+      "points": 414,
+      "comments": 306,
+      "created_ts": 1786719600,
+      "author": "erdaltoprak"
     },
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49290768",
-      "points": 115,
-      "comments": 91,
-      "created_ts": 1786649138,
-      "author": "malshe"
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "hn_url": "https://news.ycombinator.com/item?id=49298910",
+      "points": 242,
+      "comments": 185,
+      "created_ts": 1786716472,
+      "author": "speckx"
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "hn_url": "https://news.ycombinator.com/item?id=49296627",
+      "points": 212,
+      "comments": 112,
+      "created_ts": 1786701333,
+      "author": "fagnerbrack"
+    },
+    {
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "hn_url": "https://news.ycombinator.com/item?id=49301260",
+      "points": 187,
+      "comments": 99,
+      "created_ts": 1786725949,
+      "author": "tcp_handshaker"
+    },
+    {
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299675",
+      "points": 179,
+      "comments": 71,
+      "created_ts": 1786719806,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300671",
+      "points": 126,
+      "comments": 62,
+      "created_ts": 1786723609,
+      "author": "BlueBerry2001"
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "hn_url": "https://news.ycombinator.com/item?id=49299746",
+      "points": 114,
+      "comments": 33,
+      "created_ts": 1786720077,
+      "author": "mplappert"
     }
   ],
   "ph_today": [
@@ -230,16 +149,10 @@
       "pub_date": "2023-12-17T17:58:02-08:00"
     },
     {
-      "title": "Compass Calendar",
-      "url": "https://www.producthunt.com/products/compass-calendar",
+      "title": "NS1",
+      "url": "https://www.producthunt.com/products/ns1",
       "tagline": "",
-      "pub_date": "2026-08-13T12:31:57-07:00"
-    },
-    {
-      "title": "BrowserAct Cloud",
-      "url": "https://www.producthunt.com/products/browseract",
-      "tagline": "",
-      "pub_date": "2026-08-07T01:40:34-07:00"
+      "pub_date": "2026-08-13T07:43:54-07:00"
     },
     {
       "title": "Hoplite",
@@ -248,34 +161,10 @@
       "pub_date": "2026-07-18T16:02:04-07:00"
     },
     {
-      "title": "Muse",
-      "url": "https://www.producthunt.com/products/muse-19",
+      "title": "Munder Difflin",
+      "url": "https://www.producthunt.com/products/munder-difflin",
       "tagline": "",
-      "pub_date": "2026-08-11T03:51:23-07:00"
-    },
-    {
-      "title": "min.",
-      "url": "https://www.producthunt.com/products/min-4",
-      "tagline": "",
-      "pub_date": "2026-08-12T20:00:00-07:00"
-    },
-    {
-      "title": "Freebuff",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "tagline": "",
-      "pub_date": "2026-08-13T10:04:37-07:00"
-    },
-    {
-      "title": "ChordViz",
-      "url": "https://www.producthunt.com/products/chordviz",
-      "tagline": "",
-      "pub_date": "2026-08-13T18:28:45-07:00"
-    },
-    {
-      "title": "Basedash Tasks",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-08-13T20:29:11-07:00"
+      "pub_date": "2026-08-12T06:04:54-07:00"
     },
     {
       "title": "DeepSeek Harness",
@@ -284,34 +173,16 @@
       "pub_date": "2026-08-13T06:08:16-07:00"
     },
     {
-      "title": "oxpecker",
-      "url": "https://www.producthunt.com/products/oxpecker",
+      "title": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
       "tagline": "",
-      "pub_date": "2026-08-13T07:59:15-07:00"
+      "pub_date": "2026-08-13T12:31:57-07:00"
     },
     {
-      "title": "Munder Difflin",
-      "url": "https://www.producthunt.com/products/munder-difflin",
+      "title": "min.",
+      "url": "https://www.producthunt.com/products/min-4",
       "tagline": "",
-      "pub_date": "2026-08-12T06:04:54-07:00"
-    },
-    {
-      "title": "Openmotion",
-      "url": "https://www.producthunt.com/products/openmotion",
-      "tagline": "",
-      "pub_date": "2026-08-13T00:46:55-07:00"
-    },
-    {
-      "title": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
-      "tagline": "",
-      "pub_date": "2026-08-10T14:46:32-07:00"
-    },
-    {
-      "title": "NS1",
-      "url": "https://www.producthunt.com/products/ns1",
-      "tagline": "",
-      "pub_date": "2026-08-13T07:43:54-07:00"
+      "pub_date": "2026-08-12T20:00:00-07:00"
     },
     {
       "title": "Port22",
@@ -320,16 +191,34 @@
       "pub_date": "2026-08-13T06:28:31-07:00"
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
       "tagline": "",
-      "pub_date": "2026-08-13T11:16:30-07:00"
+      "pub_date": "2026-08-13T10:04:37-07:00"
     },
     {
-      "title": "isolate.video",
-      "url": "https://www.producthunt.com/products/isolate-video",
+      "title": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
       "tagline": "",
-      "pub_date": "2026-08-12T23:31:41-07:00"
+      "pub_date": "2026-08-10T14:46:32-07:00"
+    },
+    {
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
+      "tagline": "",
+      "pub_date": "2026-08-11T03:51:23-07:00"
+    },
+    {
+      "title": "Basedash Tasks",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-08-13T20:29:11-07:00"
+    },
+    {
+      "title": "Openmotion",
+      "url": "https://www.producthunt.com/products/openmotion",
+      "tagline": "",
+      "pub_date": "2026-08-13T00:46:55-07:00"
     },
     {
       "title": "Suno Studio 2.0",
@@ -338,10 +227,40 @@
       "pub_date": "2026-08-13T13:42:41-07:00"
     },
     {
+      "title": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
+      "tagline": "",
+      "pub_date": "2026-08-13T18:28:45-07:00"
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "tagline": "",
+      "pub_date": "2026-08-13T11:16:30-07:00"
+    },
+    {
       "title": "Theos[RFM]",
       "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
       "tagline": "",
       "pub_date": "2026-08-13T19:57:16-07:00"
+    },
+    {
+      "title": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
+      "tagline": "",
+      "pub_date": "2026-08-07T01:40:34-07:00"
+    },
+    {
+      "title": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "tagline": "",
+      "pub_date": "2026-08-12T23:31:41-07:00"
+    },
+    {
+      "title": "oxpecker",
+      "url": "https://www.producthunt.com/products/oxpecker",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:59:15-07:00"
     },
     {
       "title": "ThreadPort",
@@ -350,22 +269,10 @@
       "pub_date": "2026-08-12T12:57:51-07:00"
     },
     {
-      "title": "apra-fleet",
-      "url": "https://www.producthunt.com/products/apra-fleet",
-      "tagline": "",
-      "pub_date": "2026-08-11T12:57:29-07:00"
-    },
-    {
       "title": "Qencode MCP",
       "url": "https://www.producthunt.com/products/qencode",
       "tagline": "",
       "pub_date": "2026-08-12T13:36:51-07:00"
-    },
-    {
-      "title": "Skilldocs",
-      "url": "https://www.producthunt.com/products/skilldocs",
-      "tagline": "",
-      "pub_date": "2026-08-12T14:07:34-07:00"
     },
     {
       "title": "Google Pixel 11",
@@ -380,28 +287,40 @@
       "pub_date": "2026-08-12T13:05:25-07:00"
     },
     {
-      "title": "Kivicube",
-      "url": "https://www.producthunt.com/products/kivicube",
+      "title": "FluidDocs CLI",
+      "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
       "tagline": "",
-      "pub_date": "2026-08-12T16:52:57-07:00"
+      "pub_date": "2026-08-12T22:48:59-07:00"
     },
     {
-      "title": "Scrimba Explain",
-      "url": "https://www.producthunt.com/products/scrimba",
+      "title": "Phinq",
+      "url": "https://www.producthunt.com/products/phinq",
       "tagline": "",
-      "pub_date": "2026-08-04T09:49:47-07:00"
+      "pub_date": "2026-08-12T16:43:54-07:00"
     },
     {
-      "title": "Kin Health",
-      "url": "https://www.producthunt.com/products/kin-health",
+      "title": "Insta360 X6",
+      "url": "https://www.producthunt.com/products/insta-360",
       "tagline": "",
-      "pub_date": "2026-08-12T22:35:04-07:00"
+      "pub_date": "2026-08-12T21:36:50-07:00"
     },
     {
-      "title": "Human Behavior",
-      "url": "https://www.producthunt.com/products/human-behavior",
+      "title": "Patience",
+      "url": "https://www.producthunt.com/products/patience-2",
       "tagline": "",
-      "pub_date": "2026-08-12T23:47:23-07:00"
+      "pub_date": "2026-08-08T13:43:02-07:00"
+    },
+    {
+      "title": "Kane CLI",
+      "url": "https://www.producthunt.com/products/lambdatest",
+      "tagline": "",
+      "pub_date": "2026-08-10T00:21:45-07:00"
+    },
+    {
+      "title": "Skilldocs",
+      "url": "https://www.producthunt.com/products/skilldocs",
+      "tagline": "",
+      "pub_date": "2026-08-12T14:07:34-07:00"
     }
   ]
 }

@@ -1,225 +1,126 @@
 {
-  "generated_at": "2026-08-15T12:21:31.117Z",
+  "generated_at": "2026-08-15T18:16:57.219Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49301215",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "hn_url": "https://news.ycombinator.com/item?id=49307700",
       "points": 93,
-      "comments": 18,
-      "created_ts": 1786725802,
-      "author": "adius"
+      "comments": 47,
+      "created_ts": 1786768927,
+      "author": "chatchan"
     },
     {
       "title": "Show HN: Mole – Deep research agent for your terminal",
       "url": "https://github.com/lajosdeme/mole",
       "hn_url": "https://news.ycombinator.com/item?id=49303046",
-      "points": 76,
-      "comments": 11,
+      "points": 83,
+      "comments": 13,
       "created_ts": 1786733568,
       "author": "lajosdeme"
-    },
-    {
-      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
-      "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-      "hn_url": "https://news.ycombinator.com/item?id=49297996",
-      "points": 72,
-      "comments": 64,
-      "created_ts": 1786711537,
-      "author": "turborigby"
-    },
-    {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "hn_url": "https://news.ycombinator.com/item?id=49307700",
-      "points": 50,
-      "comments": 14,
-      "created_ts": 1786768927,
-      "author": "chatchan"
-    },
-    {
-      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-      "url": "https://github.com/NanoNets/Graft",
-      "hn_url": "https://news.ycombinator.com/item?id=49299985",
-      "points": 39,
-      "comments": 42,
-      "created_ts": 1786720922,
-      "author": "shrishdwi"
     },
     {
       "title": "Show HN: Deltix – AI Driven Testing",
       "url": "https://app.deltix.ai",
       "hn_url": "https://news.ycombinator.com/item?id=49307099",
-      "points": 37,
-      "comments": 10,
+      "points": 43,
+      "comments": 11,
       "created_ts": 1786761734,
       "author": "oneounceman"
     },
     {
-      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
-      "url": "https://mininote.ink/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300129",
-      "points": 21,
-      "comments": 3,
-      "created_ts": 1786721429,
-      "author": "helba-ai"
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "url": "https://hypnagogic-quasicrystals.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49310533",
+      "points": 29,
+      "comments": 8,
+      "created_ts": 1786801723,
+      "author": "r34"
     },
     {
-      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
-      "url": "https://isaidumber.today/",
-      "hn_url": "https://news.ycombinator.com/item?id=49298674",
-      "points": 14,
-      "comments": 6,
-      "created_ts": 1786715446,
-      "author": "schafberg"
+      "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+      "url": "https://getmocktail.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49304062",
+      "points": 18,
+      "comments": 1,
+      "created_ts": 1786738824,
+      "author": "hhaluk"
     },
     {
       "title": "Show HN: Embed a real Linux terminal on your website",
       "url": "https://sandbox.bio/training/embed",
       "hn_url": "https://news.ycombinator.com/item?id=49303027",
       "points": 13,
-      "comments": 11,
+      "comments": 12,
       "created_ts": 1786733487,
       "author": "raboukhalil"
-    },
-    {
-      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
-      "url": "https://mib-viewer.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300419",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1786722573,
-      "author": "beefstew123"
     }
   ],
   "hn_front": [
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "hn_url": "https://news.ycombinator.com/item?id=49299605",
-      "points": 1197,
-      "comments": 716,
-      "created_ts": 1786719600,
-      "author": "erdaltoprak"
-    },
-    {
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "hn_url": "https://news.ycombinator.com/item?id=49303202",
-      "points": 1196,
-      "comments": 460,
+      "points": 1544,
+      "comments": 581,
       "created_ts": 1786734200,
       "author": "DemiGuru"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300314",
-      "points": 420,
-      "comments": 255,
-      "created_ts": 1786722190,
-      "author": "u1hcw9nx"
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "hn_url": "https://news.ycombinator.com/item?id=49304447",
-      "points": 366,
-      "comments": 170,
+      "points": 423,
+      "comments": 223,
       "created_ts": 1786740764,
       "author": "vslira"
-    },
-    {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300568",
-      "points": 326,
-      "comments": 23,
-      "created_ts": 1786723139,
-      "author": "sans_souse"
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300759",
-      "points": 311,
-      "comments": 129,
-      "created_ts": 1786723972,
-      "author": "rustdesk"
-    },
-    {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "hn_url": "https://news.ycombinator.com/item?id=49300800",
-      "points": 253,
-      "comments": 135,
-      "created_ts": 1786724121,
-      "author": "twapi"
     },
     {
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "hn_url": "https://news.ycombinator.com/item?id=49307592",
-      "points": 236,
-      "comments": 115,
+      "points": 330,
+      "comments": 159,
       "created_ts": 1786767524,
       "author": "rdl"
     },
     {
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "hn_url": "https://news.ycombinator.com/item?id=49299746",
-      "points": 209,
-      "comments": 64,
-      "created_ts": 1786720077,
-      "author": "mplappert"
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49309549",
+      "points": 284,
+      "comments": 75,
+      "created_ts": 1786791602,
+      "author": "tosh"
     },
     {
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "hn_url": "https://news.ycombinator.com/item?id=49306577",
-      "points": 206,
-      "comments": 51,
-      "created_ts": 1786756445,
-      "author": "Bender"
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "hn_url": "https://news.ycombinator.com/item?id=49309451",
+      "points": 164,
+      "comments": 118,
+      "created_ts": 1786790381,
+      "author": "allenb"
     },
     {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "hn_url": "https://news.ycombinator.com/item?id=49299081",
-      "points": 200,
-      "comments": 82,
-      "created_ts": 1786717278,
-      "author": "speckx"
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "hn_url": "https://news.ycombinator.com/item?id=49311651",
+      "points": 123,
+      "comments": 67,
+      "created_ts": 1786809533,
+      "author": "randycupertino"
     },
     {
-      "title": "eigendrum",
-      "url": "https://eigendrum.com/#p=circle",
-      "hn_url": "https://news.ycombinator.com/item?id=49305250",
-      "points": 180,
-      "comments": 51,
-      "created_ts": 1786745712,
-      "author": "bookofjoe"
-    },
-    {
-      "title": "Racket v9.3",
-      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49302562",
-      "points": 106,
-      "comments": 7,
-      "created_ts": 1786731288,
-      "author": "privong"
-    },
-    {
-      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "hn_url": "https://news.ycombinator.com/item?id=49306196",
-      "points": 102,
-      "comments": 53,
-      "created_ts": 1786752923,
-      "author": "E-Reverance"
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "hn_url": "https://news.ycombinator.com/item?id=49310682",
+      "points": 118,
+      "comments": 44,
+      "created_ts": 1786802689,
+      "author": "gmays"
     }
   ],
   "ph_today": [
@@ -230,16 +131,10 @@
       "pub_date": "2026-08-09T16:00:52-07:00"
     },
     {
-      "title": "Big Mike",
-      "url": "https://www.producthunt.com/products/big-mike",
+      "title": "Chronock",
+      "url": "https://www.producthunt.com/products/chronock",
       "tagline": "",
-      "pub_date": "2026-07-14T09:48:04-07:00"
-    },
-    {
-      "title": "Zetik",
-      "url": "https://www.producthunt.com/products/zetik",
-      "tagline": "",
-      "pub_date": "2026-08-07T18:41:10-07:00"
+      "pub_date": "2026-08-13T16:57:28-07:00"
     },
     {
       "title": "nenspace",
@@ -248,16 +143,16 @@
       "pub_date": "2026-08-12T08:22:53-07:00"
     },
     {
-      "title": "GLM-5.3",
-      "url": "https://www.producthunt.com/products/z-ai",
+      "title": "Inferock Bench",
+      "url": "https://www.producthunt.com/products/inferock-bench",
       "tagline": "",
-      "pub_date": "2026-08-13T23:21:52-07:00"
+      "pub_date": "2026-08-11T14:37:44-07:00"
     },
     {
-      "title": "Clamshell",
-      "url": "https://www.producthunt.com/products/clamshell",
+      "title": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
       "tagline": "",
-      "pub_date": "2026-08-09T07:39:57-07:00"
+      "pub_date": "2026-07-14T09:48:04-07:00"
     },
     {
       "title": "Talvo",
@@ -266,22 +161,10 @@
       "pub_date": "2026-08-13T08:04:29-07:00"
     },
     {
-      "title": "Chronock",
-      "url": "https://www.producthunt.com/products/chronock",
+      "title": "GLM-5.3",
+      "url": "https://www.producthunt.com/products/z-ai",
       "tagline": "",
-      "pub_date": "2026-08-13T16:57:28-07:00"
-    },
-    {
-      "title": "FileRouter",
-      "url": "https://www.producthunt.com/products/filerouter",
-      "tagline": "",
-      "pub_date": "2026-08-06T23:40:11-07:00"
-    },
-    {
-      "title": "Inferock Bench",
-      "url": "https://www.producthunt.com/products/inferock-bench",
-      "tagline": "",
-      "pub_date": "2026-08-11T14:37:44-07:00"
+      "pub_date": "2026-08-13T23:21:52-07:00"
     },
     {
       "title": "Joy",
@@ -290,22 +173,22 @@
       "pub_date": "2026-08-05T09:55:49-07:00"
     },
     {
-      "title": "SalesCloser.ai",
-      "url": "https://www.producthunt.com/products/salescloser-ai",
+      "title": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
       "tagline": "",
-      "pub_date": "2026-08-06T10:16:38-07:00"
+      "pub_date": "2026-08-07T18:41:10-07:00"
     },
     {
-      "title": "Suno Studio 2.0",
-      "url": "https://www.producthunt.com/products/suno",
+      "title": "Clamshell",
+      "url": "https://www.producthunt.com/products/clamshell",
       "tagline": "",
-      "pub_date": "2026-08-13T13:42:41-07:00"
+      "pub_date": "2026-08-09T07:39:57-07:00"
     },
     {
-      "title": "isolate.video",
-      "url": "https://www.producthunt.com/products/isolate-video",
+      "title": "FileRouter",
+      "url": "https://www.producthunt.com/products/filerouter",
       "tagline": "",
-      "pub_date": "2026-08-12T23:31:41-07:00"
+      "pub_date": "2026-08-06T23:40:11-07:00"
     },
     {
       "title": "oxpecker",
@@ -314,58 +197,10 @@
       "pub_date": "2026-08-13T07:59:15-07:00"
     },
     {
-      "title": "ChordViz",
-      "url": "https://www.producthunt.com/products/chordviz",
-      "tagline": "",
-      "pub_date": "2026-08-13T18:28:45-07:00"
-    },
-    {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
-      "tagline": "",
-      "pub_date": "2026-08-13T11:16:30-07:00"
-    },
-    {
       "title": "BrowserAct Cloud",
       "url": "https://www.producthunt.com/products/browseract",
       "tagline": "",
       "pub_date": "2026-08-07T01:40:34-07:00"
-    },
-    {
-      "title": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
-      "tagline": "",
-      "pub_date": "2026-08-13T06:28:31-07:00"
-    },
-    {
-      "title": "Compass Calendar",
-      "url": "https://www.producthunt.com/products/compass-calendar",
-      "tagline": "",
-      "pub_date": "2026-08-13T12:31:57-07:00"
-    },
-    {
-      "title": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
-      "tagline": "",
-      "pub_date": "2026-08-10T14:46:32-07:00"
-    },
-    {
-      "title": "min.",
-      "url": "https://www.producthunt.com/products/min-4",
-      "tagline": "",
-      "pub_date": "2026-08-12T20:00:00-07:00"
-    },
-    {
-      "title": "Muse",
-      "url": "https://www.producthunt.com/products/muse-19",
-      "tagline": "",
-      "pub_date": "2026-08-11T03:51:23-07:00"
-    },
-    {
-      "title": "Openmotion",
-      "url": "https://www.producthunt.com/products/openmotion",
-      "tagline": "",
-      "pub_date": "2026-08-13T00:46:55-07:00"
     },
     {
       "title": "Freebuff",
@@ -380,16 +215,82 @@
       "pub_date": "2026-08-12T06:04:54-07:00"
     },
     {
+      "title": "NS1",
+      "url": "https://www.producthunt.com/products/ns1",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:43:54-07:00"
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "tagline": "",
+      "pub_date": "2026-08-13T11:16:30-07:00"
+    },
+    {
+      "title": "Openmotion",
+      "url": "https://www.producthunt.com/products/openmotion",
+      "tagline": "",
+      "pub_date": "2026-08-13T00:46:55-07:00"
+    },
+    {
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
+      "tagline": "",
+      "pub_date": "2026-08-11T03:51:23-07:00"
+    },
+    {
+      "title": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
+      "tagline": "",
+      "pub_date": "2026-08-13T12:31:57-07:00"
+    },
+    {
+      "title": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "tagline": "",
+      "pub_date": "2026-08-13T06:28:31-07:00"
+    },
+    {
+      "title": "Outcome",
+      "url": "https://www.producthunt.com/products/contentblocks",
+      "tagline": "",
+      "pub_date": "2023-12-17T17:58:02-08:00"
+    },
+    {
+      "title": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "tagline": "",
+      "pub_date": "2026-08-12T23:31:41-07:00"
+    },
+    {
       "title": "Basedash Tasks",
       "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
       "pub_date": "2026-08-13T20:29:11-07:00"
     },
     {
-      "title": "NS1",
-      "url": "https://www.producthunt.com/products/ns1",
+      "title": "Hoplite",
+      "url": "https://www.producthunt.com/products/hoplite",
       "tagline": "",
-      "pub_date": "2026-08-13T07:43:54-07:00"
+      "pub_date": "2026-07-18T16:02:04-07:00"
+    },
+    {
+      "title": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
+      "tagline": "",
+      "pub_date": "2026-08-10T14:46:32-07:00"
+    },
+    {
+      "title": "DeepSeek Harness",
+      "url": "https://www.producthunt.com/products/deepseek",
+      "tagline": "",
+      "pub_date": "2026-08-13T06:08:16-07:00"
+    },
+    {
+      "title": "min.",
+      "url": "https://www.producthunt.com/products/min-4",
+      "tagline": "",
+      "pub_date": "2026-08-12T20:00:00-07:00"
     },
     {
       "title": "Theos[RFM]",
@@ -398,10 +299,10 @@
       "pub_date": "2026-08-13T19:57:16-07:00"
     },
     {
-      "title": "Outcome",
-      "url": "https://www.producthunt.com/products/contentblocks",
+      "title": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
       "tagline": "",
-      "pub_date": "2023-12-17T17:58:02-08:00"
+      "pub_date": "2026-08-13T18:28:45-07:00"
     }
   ]
 }

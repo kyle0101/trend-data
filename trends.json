@@ -1,52 +1,88 @@
 {
-  "generated_at": "2026-08-14T18:42:32.744Z",
+  "generated_at": "2026-08-15T00:48:12.747Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies",
-      "url": "https://github.com/StamManif/mcp-stama",
-      "hn_url": "https://news.ycombinator.com/item?id=49292584",
-      "points": 73,
-      "comments": 0,
-      "created_ts": 1786659985,
-      "author": "stammanif"
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "url": "https://luacad.ad-si.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49301215",
+      "points": 70,
+      "comments": 14,
+      "created_ts": 1786725802,
+      "author": "adius"
     },
     {
       "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
       "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
       "hn_url": "https://news.ycombinator.com/item?id=49297996",
-      "points": 61,
-      "comments": 48,
+      "points": 67,
+      "comments": 60,
       "created_ts": 1786711537,
       "author": "turborigby"
     },
     {
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "url": "https://github.com/JustVugg/lumabri",
-      "hn_url": "https://news.ycombinator.com/item?id=49293523",
-      "points": 44,
-      "comments": 18,
-      "created_ts": 1786668424,
-      "author": "vforno"
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "hn_url": "https://news.ycombinator.com/item?id=49303046",
+      "points": 46,
+      "comments": 6,
+      "created_ts": 1786733568,
+      "author": "lajosdeme"
     },
     {
       "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
       "url": "https://github.com/NanoNets/Graft",
       "hn_url": "https://news.ycombinator.com/item?id=49299985",
-      "points": 35,
-      "comments": 34,
+      "points": 38,
+      "comments": 40,
       "created_ts": 1786720922,
       "author": "shrishdwi"
     },
     {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49301215",
-      "points": 32,
-      "comments": 6,
-      "created_ts": 1786725802,
-      "author": "adius"
+      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+      "url": "https://mininote.ink/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300129",
+      "points": 19,
+      "comments": 3,
+      "created_ts": 1786721429,
+      "author": "helba-ai"
+    },
+    {
+      "title": "Show HN: Rdio – an open-source internet radio control suite",
+      "url": "https://rdio-docs.vercel.app",
+      "hn_url": "https://news.ycombinator.com/item?id=49297708",
+      "points": 18,
+      "comments": 3,
+      "created_ts": 1786709550,
+      "author": "taqibrahim"
+    },
+    {
+      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+      "url": "https://isaidumber.today/",
+      "hn_url": "https://news.ycombinator.com/item?id=49298674",
+      "points": 14,
+      "comments": 5,
+      "created_ts": 1786715446,
+      "author": "schafberg"
+    },
+    {
+      "title": "Show HN: Embed a real Linux terminal on your website",
+      "url": "https://sandbox.bio/training/embed",
+      "hn_url": "https://news.ycombinator.com/item?id=49303027",
+      "points": 13,
+      "comments": 11,
+      "created_ts": 1786733487,
+      "author": "raboukhalil"
+    },
+    {
+      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+      "url": "https://mib-viewer.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300419",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1786722573,
+      "author": "beefstew123"
     }
   ],
   "hn_front": [
@@ -54,99 +90,126 @@
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
       "hn_url": "https://news.ycombinator.com/item?id=49294997",
-      "points": 941,
-      "comments": 475,
+      "points": 1025,
+      "comments": 513,
       "created_ts": 1786684799,
       "author": "pella"
-    },
-    {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "hn_url": "https://news.ycombinator.com/item?id=49299222",
-      "points": 577,
-      "comments": 338,
-      "created_ts": 1786717868,
-      "author": "doubletwoyou"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "hn_url": "https://news.ycombinator.com/item?id=49296740",
-      "points": 502,
-      "comments": 468,
-      "created_ts": 1786702368,
-      "author": "numeri"
     },
     {
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "hn_url": "https://news.ycombinator.com/item?id=49299605",
-      "points": 414,
-      "comments": 306,
+      "points": 868,
+      "comments": 569,
       "created_ts": 1786719600,
       "author": "erdaltoprak"
     },
     {
-      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "hn_url": "https://news.ycombinator.com/item?id=49298910",
-      "points": 242,
-      "comments": 185,
-      "created_ts": 1786716472,
-      "author": "speckx"
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "hn_url": "https://news.ycombinator.com/item?id=49296740",
+      "points": 764,
+      "comments": 698,
+      "created_ts": 1786702368,
+      "author": "numeri"
     },
     {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "hn_url": "https://news.ycombinator.com/item?id=49296627",
-      "points": 212,
-      "comments": 112,
-      "created_ts": 1786701333,
-      "author": "fagnerbrack"
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299222",
+      "points": 735,
+      "comments": 442,
+      "created_ts": 1786717868,
+      "author": "doubletwoyou"
     },
     {
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "hn_url": "https://news.ycombinator.com/item?id=49301260",
-      "points": 187,
-      "comments": 99,
-      "created_ts": 1786725949,
-      "author": "tcp_handshaker"
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49303202",
+      "points": 351,
+      "comments": 124,
+      "created_ts": 1786734200,
+      "author": "DemiGuru"
     },
     {
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
       "hn_url": "https://news.ycombinator.com/item?id=49299675",
-      "points": 179,
-      "comments": 71,
+      "points": 292,
+      "comments": 129,
       "created_ts": 1786719806,
       "author": "surprisetalk"
     },
     {
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "hn_url": "https://news.ycombinator.com/item?id=49300671",
-      "points": 126,
-      "comments": 62,
-      "created_ts": 1786723609,
-      "author": "BlueBerry2001"
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300314",
+      "points": 267,
+      "comments": 162,
+      "created_ts": 1786722190,
+      "author": "u1hcw9nx"
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300759",
+      "points": 213,
+      "comments": 93,
+      "created_ts": 1786723972,
+      "author": "rustdesk"
+    },
+    {
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49300568",
+      "points": 192,
+      "comments": 16,
+      "created_ts": 1786723139,
+      "author": "sans_souse"
     },
     {
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
       "hn_url": "https://news.ycombinator.com/item?id=49299746",
-      "points": 114,
-      "comments": 33,
+      "points": 172,
+      "comments": 57,
       "created_ts": 1786720077,
       "author": "mplappert"
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "hn_url": "https://news.ycombinator.com/item?id=49304447",
+      "points": 167,
+      "comments": 108,
+      "created_ts": 1786740764,
+      "author": "vslira"
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "hn_url": "https://news.ycombinator.com/item?id=49299081",
+      "points": 142,
+      "comments": 58,
+      "created_ts": 1786717278,
+      "author": "speckx"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "hn_url": "https://news.ycombinator.com/item?id=49300800",
+      "points": 128,
+      "comments": 86,
+      "created_ts": 1786724121,
+      "author": "twapi"
     }
   ],
   "ph_today": [
     {
-      "title": "Outcome",
-      "url": "https://www.producthunt.com/products/contentblocks",
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-19",
       "tagline": "",
-      "pub_date": "2023-12-17T17:58:02-08:00"
+      "pub_date": "2026-08-11T03:51:23-07:00"
     },
     {
       "title": "NS1",
@@ -161,22 +224,28 @@
       "pub_date": "2026-07-18T16:02:04-07:00"
     },
     {
-      "title": "Munder Difflin",
-      "url": "https://www.producthunt.com/products/munder-difflin",
-      "tagline": "",
-      "pub_date": "2026-08-12T06:04:54-07:00"
-    },
-    {
       "title": "DeepSeek Harness",
       "url": "https://www.producthunt.com/products/deepseek",
       "tagline": "",
       "pub_date": "2026-08-13T06:08:16-07:00"
     },
     {
-      "title": "Compass Calendar",
-      "url": "https://www.producthunt.com/products/compass-calendar",
+      "title": "Munder Difflin",
+      "url": "https://www.producthunt.com/products/munder-difflin",
       "tagline": "",
-      "pub_date": "2026-08-13T12:31:57-07:00"
+      "pub_date": "2026-08-12T06:04:54-07:00"
+    },
+    {
+      "title": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
+      "tagline": "",
+      "pub_date": "2026-08-07T01:40:34-07:00"
+    },
+    {
+      "title": "Outcome",
+      "url": "https://www.producthunt.com/products/contentblocks",
+      "tagline": "",
+      "pub_date": "2023-12-17T17:58:02-08:00"
     },
     {
       "title": "min.",
@@ -185,16 +254,22 @@
       "pub_date": "2026-08-12T20:00:00-07:00"
     },
     {
+      "title": "Basedash Tasks",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-08-13T20:29:11-07:00"
+    },
+    {
       "title": "Port22",
       "url": "https://www.producthunt.com/products/port22",
       "tagline": "",
       "pub_date": "2026-08-13T06:28:31-07:00"
     },
     {
-      "title": "Freebuff",
-      "url": "https://www.producthunt.com/products/freebuff-2",
+      "title": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
       "tagline": "",
-      "pub_date": "2026-08-13T10:04:37-07:00"
+      "pub_date": "2026-08-13T12:31:57-07:00"
     },
     {
       "title": "Occasio®",
@@ -203,34 +278,16 @@
       "pub_date": "2026-08-10T14:46:32-07:00"
     },
     {
-      "title": "Muse",
-      "url": "https://www.producthunt.com/products/muse-19",
-      "tagline": "",
-      "pub_date": "2026-08-11T03:51:23-07:00"
-    },
-    {
-      "title": "Basedash Tasks",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-08-13T20:29:11-07:00"
-    },
-    {
       "title": "Openmotion",
       "url": "https://www.producthunt.com/products/openmotion",
       "tagline": "",
       "pub_date": "2026-08-13T00:46:55-07:00"
     },
     {
-      "title": "Suno Studio 2.0",
-      "url": "https://www.producthunt.com/products/suno",
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
       "tagline": "",
-      "pub_date": "2026-08-13T13:42:41-07:00"
-    },
-    {
-      "title": "ChordViz",
-      "url": "https://www.producthunt.com/products/chordviz",
-      "tagline": "",
-      "pub_date": "2026-08-13T18:28:45-07:00"
+      "pub_date": "2026-08-13T10:04:37-07:00"
     },
     {
       "title": "Gemini 3.7 Flash",
@@ -239,16 +296,16 @@
       "pub_date": "2026-08-13T11:16:30-07:00"
     },
     {
-      "title": "Theos[RFM]",
-      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "title": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
       "tagline": "",
-      "pub_date": "2026-08-13T19:57:16-07:00"
+      "pub_date": "2026-08-13T18:28:45-07:00"
     },
     {
-      "title": "BrowserAct Cloud",
-      "url": "https://www.producthunt.com/products/browseract",
+      "title": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
       "tagline": "",
-      "pub_date": "2026-08-07T01:40:34-07:00"
+      "pub_date": "2026-08-13T13:42:41-07:00"
     },
     {
       "title": "isolate.video",
@@ -263,6 +320,12 @@
       "pub_date": "2026-08-13T07:59:15-07:00"
     },
     {
+      "title": "Theos[RFM]",
+      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "tagline": "",
+      "pub_date": "2026-08-13T19:57:16-07:00"
+    },
+    {
       "title": "ThreadPort",
       "url": "https://www.producthunt.com/products/threadport",
       "tagline": "",
@@ -273,12 +336,6 @@
       "url": "https://www.producthunt.com/products/qencode",
       "tagline": "",
       "pub_date": "2026-08-12T13:36:51-07:00"
-    },
-    {
-      "title": "Google Pixel 11",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-08-12T20:16:36-07:00"
     },
     {
       "title": "Pickle Browser",
@@ -293,16 +350,10 @@
       "pub_date": "2026-08-12T22:48:59-07:00"
     },
     {
-      "title": "Phinq",
-      "url": "https://www.producthunt.com/products/phinq",
+      "title": "Ito",
+      "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
       "tagline": "",
-      "pub_date": "2026-08-12T16:43:54-07:00"
-    },
-    {
-      "title": "Insta360 X6",
-      "url": "https://www.producthunt.com/products/insta-360",
-      "tagline": "",
-      "pub_date": "2026-08-12T21:36:50-07:00"
+      "pub_date": "2026-07-23T10:38:37-07:00"
     },
     {
       "title": "Patience",
@@ -311,16 +362,28 @@
       "pub_date": "2026-08-08T13:43:02-07:00"
     },
     {
-      "title": "Kane CLI",
-      "url": "https://www.producthunt.com/products/lambdatest",
+      "title": "Chiplab",
+      "url": "https://www.producthunt.com/products/chiplab",
       "tagline": "",
-      "pub_date": "2026-08-10T00:21:45-07:00"
+      "pub_date": "2026-08-12T01:37:19-07:00"
     },
     {
-      "title": "Skilldocs",
-      "url": "https://www.producthunt.com/products/skilldocs",
+      "title": "Coarena by Coasty",
+      "url": "https://www.producthunt.com/products/coarena-by-coasty",
       "tagline": "",
-      "pub_date": "2026-08-12T14:07:34-07:00"
+      "pub_date": "2026-08-05T12:20:58-07:00"
+    },
+    {
+      "title": "Kivicube",
+      "url": "https://www.producthunt.com/products/kivicube",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:52:57-07:00"
+    },
+    {
+      "title": "Kitbitz",
+      "url": "https://www.producthunt.com/products/kitbitz",
+      "tagline": "",
+      "pub_date": "2026-08-12T00:42:53-07:00"
     }
   ]
 }

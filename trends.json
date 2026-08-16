@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:22:46.505Z",
+  "generated_at": "2026-08-16T18:17:15.355Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
       "url": "https://www.micdrop.gg/",
       "hn_url": "https://news.ycombinator.com/item?id=49315742",
-      "points": 62,
-      "comments": 28,
+      "points": 76,
+      "comments": 34,
       "created_ts": 1786841189,
       "author": "johnsillings"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
       "url": "https://github.com/jitpass/jit",
       "hn_url": "https://news.ycombinator.com/item?id=49317546",
-      "points": 45,
-      "comments": 67,
+      "points": 51,
+      "comments": 71,
       "created_ts": 1786863304,
       "author": "bukershok"
     },
@@ -25,159 +25,159 @@
       "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise",
       "url": "https://bribes.fyi/compare",
       "hn_url": "https://news.ycombinator.com/item?id=49314765",
-      "points": 42,
-      "comments": 24,
+      "points": 47,
+      "comments": 27,
       "created_ts": 1786831876,
       "author": "neverenderr"
     },
     {
-      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
-      "url": "https://hypnagogic-quasicrystals.github.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=49310533",
-      "points": 37,
-      "comments": 11,
-      "created_ts": 1786801723,
-      "author": "r34"
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "url": "https://wildstatic.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49319814",
+      "points": 43,
+      "comments": 30,
+      "created_ts": 1786886505,
+      "author": "adjohu"
     },
     {
       "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
       "url": "https://waku.sh",
       "hn_url": "https://news.ycombinator.com/item?id=49315709",
-      "points": 32,
-      "comments": 13,
+      "points": 34,
+      "comments": 15,
       "created_ts": 1786840724,
       "author": "0x142857"
     },
     {
-      "title": "Show HN: Feature-packed 6MB Rust+Tauri free bookmarking app",
-      "url": "https://news.ycombinator.com/item?id=49310317",
-      "hn_url": "https://news.ycombinator.com/item?id=49310317",
-      "points": 13,
-      "comments": 3,
-      "created_ts": 1786800106,
-      "author": "freakynit"
+      "title": "Show HN: Grafana agent observability for Hermes Agent",
+      "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+      "hn_url": "https://news.ycombinator.com/item?id=49318128",
+      "points": 24,
+      "comments": 0,
+      "created_ts": 1786869650,
+      "author": "eventuallyacat"
     },
     {
-      "title": "Show HN: I evaluated file, vector, graph and RL based memory frameworks",
-      "url": "https://www.pinglin.tw/blog/the-shapes-of-agent-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=49310834",
-      "points": 13,
+      "title": "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
+      "url": "https://github.com/mldsveda/PyScrappy",
+      "hn_url": "https://news.ycombinator.com/item?id=49317799",
+      "points": 14,
       "comments": 1,
-      "created_ts": 1786803795,
-      "author": "pinglin"
+      "created_ts": 1786866400,
+      "author": "vedaant00"
     },
     {
       "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
       "url": "https://github.com/christensen143/claude-trofeo-hud",
       "hn_url": "https://news.ycombinator.com/item?id=49314594",
-      "points": 12,
+      "points": 13,
       "comments": 6,
       "created_ts": 1786830159,
       "author": "christensen143"
+    },
+    {
+      "title": "Show HN: Every MUNI, BART and Caltrain in SF on a Live Map",
+      "url": "https://github.com/UtpalJayNadiger/wheres-my-muni",
+      "hn_url": "https://news.ycombinator.com/item?id=49313340",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1786820943,
+      "author": "iacguy"
     }
   ],
   "hn_front": [
     {
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "hn_url": "https://news.ycombinator.com/item?id=49312845",
-      "points": 519,
-      "comments": 449,
-      "created_ts": 1786817582,
-      "author": "rzk"
-    },
-    {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "hn_url": "https://news.ycombinator.com/item?id=49311651",
-      "points": 441,
-      "comments": 321,
-      "created_ts": 1786809533,
-      "author": "randycupertino"
-    },
-    {
       "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
       "hn_url": "https://news.ycombinator.com/item?id=49313428",
-      "points": 284,
-      "comments": 177,
+      "points": 381,
+      "comments": 265,
       "created_ts": 1786821651,
       "author": "dgellow"
     },
     {
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "hn_url": "https://news.ycombinator.com/item?id=49314403",
-      "points": 276,
-      "comments": 220,
-      "created_ts": 1786828474,
-      "author": "theanonymousone"
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "hn_url": "https://news.ycombinator.com/item?id=49319556",
+      "points": 345,
+      "comments": 145,
+      "created_ts": 1786884501,
+      "author": "tosh"
     },
     {
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "hn_url": "https://news.ycombinator.com/item?id=49310682",
-      "points": 264,
-      "comments": 101,
-      "created_ts": 1786802689,
-      "author": "gmays"
-    },
-    {
-      "title": "A spectre is haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49310926",
-      "points": 235,
-      "comments": 91,
-      "created_ts": 1786804444,
-      "author": "sensanaty"
-    },
-    {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "hn_url": "https://news.ycombinator.com/item?id=49314235",
-      "points": 192,
-      "comments": 48,
-      "created_ts": 1786827251,
-      "author": "felixbraun"
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "hn_url": "https://news.ycombinator.com/item?id=49319633",
+      "points": 322,
+      "comments": 127,
+      "created_ts": 1786885090,
+      "author": "pentagrama"
     },
     {
       "title": "Software Engineering fundamentals matter more",
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
       "hn_url": "https://news.ycombinator.com/item?id=49314902",
-      "points": 189,
-      "comments": 121,
+      "points": 273,
+      "comments": 180,
       "created_ts": 1786833069,
       "author": "ingve"
     },
     {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=49317760",
-      "points": 153,
-      "comments": 116,
-      "created_ts": 1786865873,
-      "author": "porridgeraisin"
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "hn_url": "https://news.ycombinator.com/item?id=49319389",
+      "points": 254,
+      "comments": 97,
+      "created_ts": 1786882940,
+      "author": "Alifatisk"
     },
     {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "hn_url": "https://news.ycombinator.com/item?id=49313367",
-      "points": 148,
-      "comments": 81,
-      "created_ts": 1786821173,
-      "author": "AnodicElegy"
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "hn_url": "https://news.ycombinator.com/item?id=49314235",
+      "points": 242,
+      "comments": 58,
+      "created_ts": 1786827251,
+      "author": "felixbraun"
     },
     {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "hn_url": "https://news.ycombinator.com/item?id=49316271",
-      "points": 121,
-      "comments": 71,
-      "created_ts": 1786846373,
-      "author": "maxutility"
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "hn_url": "https://news.ycombinator.com/item?id=49320611",
+      "points": 136,
+      "comments": 54,
+      "created_ts": 1786891495,
+      "author": "mlenhard"
+    },
+    {
+      "title": "Guiding Ships with Moire Patterns (2018)",
+      "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "hn_url": "https://news.ycombinator.com/item?id=49315995",
+      "points": 102,
+      "comments": 25,
+      "created_ts": 1786843604,
+      "author": "Eridanus2"
     }
   ],
   "ph_today": [
+    {
+      "title": "AirAlarm",
+      "url": "https://www.producthunt.com/products/airalarm",
+      "tagline": "",
+      "pub_date": "2026-08-10T03:41:18-07:00"
+    },
+    {
+      "title": "Chert",
+      "url": "https://www.producthunt.com/products/chert",
+      "tagline": "",
+      "pub_date": "2026-08-14T21:01:04-07:00"
+    },
+    {
+      "title": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "tagline": "",
+      "pub_date": "2026-08-13T23:38:52-07:00"
+    },
     {
       "title": "Expeditione",
       "url": "https://www.producthunt.com/products/expeditione",
@@ -191,58 +191,16 @@
       "pub_date": "2026-08-06T00:21:22-07:00"
     },
     {
-      "title": "Blume",
-      "url": "https://www.producthunt.com/products/blume-3",
-      "tagline": "",
-      "pub_date": "2026-07-19T00:21:48-07:00"
-    },
-    {
-      "title": "Chert",
-      "url": "https://www.producthunt.com/products/chert",
-      "tagline": "",
-      "pub_date": "2026-08-14T21:01:04-07:00"
-    },
-    {
       "title": "CostLogic",
       "url": "https://www.producthunt.com/products/costlogic",
       "tagline": "",
       "pub_date": "2026-07-30T18:54:46-07:00"
     },
     {
-      "title": "HarnessRouter Community Edition",
-      "url": "https://www.producthunt.com/products/epsilla",
+      "title": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3",
       "tagline": "",
-      "pub_date": "2026-08-13T23:38:52-07:00"
-    },
-    {
-      "title": "AirAlarm",
-      "url": "https://www.producthunt.com/products/airalarm",
-      "tagline": "",
-      "pub_date": "2026-08-10T03:41:18-07:00"
-    },
-    {
-      "title": "Big Mike",
-      "url": "https://www.producthunt.com/products/big-mike",
-      "tagline": "",
-      "pub_date": "2026-07-14T09:48:04-07:00"
-    },
-    {
-      "title": "Attyn",
-      "url": "https://www.producthunt.com/products/attyn",
-      "tagline": "",
-      "pub_date": "2026-08-09T16:00:52-07:00"
-    },
-    {
-      "title": "Inferock Bench",
-      "url": "https://www.producthunt.com/products/inferock-bench",
-      "tagline": "",
-      "pub_date": "2026-08-11T14:37:44-07:00"
-    },
-    {
-      "title": "Joy",
-      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
-      "tagline": "",
-      "pub_date": "2026-08-05T09:55:49-07:00"
+      "pub_date": "2026-07-19T00:21:48-07:00"
     },
     {
       "title": "Clamshell",
@@ -251,10 +209,40 @@
       "pub_date": "2026-08-09T07:39:57-07:00"
     },
     {
-      "title": "Chronock",
-      "url": "https://www.producthunt.com/products/chronock",
+      "title": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
       "tagline": "",
-      "pub_date": "2026-08-13T16:57:28-07:00"
+      "pub_date": "2026-07-14T09:48:04-07:00"
+    },
+    {
+      "title": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
+      "tagline": "",
+      "pub_date": "2026-08-07T18:41:10-07:00"
+    },
+    {
+      "title": "Joy",
+      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
+      "tagline": "",
+      "pub_date": "2026-08-05T09:55:49-07:00"
+    },
+    {
+      "title": "Talvo",
+      "url": "https://www.producthunt.com/products/talvo-2",
+      "tagline": "",
+      "pub_date": "2026-08-13T08:04:29-07:00"
+    },
+    {
+      "title": "Inferock Bench",
+      "url": "https://www.producthunt.com/products/inferock-bench",
+      "tagline": "",
+      "pub_date": "2026-08-11T14:37:44-07:00"
+    },
+    {
+      "title": "FileRouter",
+      "url": "https://www.producthunt.com/products/filerouter",
+      "tagline": "",
+      "pub_date": "2026-08-06T23:40:11-07:00"
     },
     {
       "title": "GLM-5.3",
@@ -269,28 +257,16 @@
       "pub_date": "2026-08-12T08:22:53-07:00"
     },
     {
-      "title": "FileRouter",
-      "url": "https://www.producthunt.com/products/filerouter",
+      "title": "Chronock",
+      "url": "https://www.producthunt.com/products/chronock",
       "tagline": "",
-      "pub_date": "2026-08-06T23:40:11-07:00"
+      "pub_date": "2026-08-13T16:57:28-07:00"
     },
     {
-      "title": "Zetik",
-      "url": "https://www.producthunt.com/products/zetik",
+      "title": "Attyn",
+      "url": "https://www.producthunt.com/products/attyn",
       "tagline": "",
-      "pub_date": "2026-08-07T18:41:10-07:00"
-    },
-    {
-      "title": "Talvo",
-      "url": "https://www.producthunt.com/products/talvo-2",
-      "tagline": "",
-      "pub_date": "2026-08-13T08:04:29-07:00"
-    },
-    {
-      "title": "Munder Difflin",
-      "url": "https://www.producthunt.com/products/munder-difflin",
-      "tagline": "",
-      "pub_date": "2026-08-12T06:04:54-07:00"
+      "pub_date": "2026-08-09T16:00:52-07:00"
     },
     {
       "title": "Freebuff",
@@ -299,10 +275,40 @@
       "pub_date": "2026-08-13T10:04:37-07:00"
     },
     {
+      "title": "Munder Difflin",
+      "url": "https://www.producthunt.com/products/munder-difflin",
+      "tagline": "",
+      "pub_date": "2026-08-12T06:04:54-07:00"
+    },
+    {
+      "title": "oxpecker",
+      "url": "https://www.producthunt.com/products/oxpecker",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:59:15-07:00"
+    },
+    {
       "title": "BrowserAct Cloud",
       "url": "https://www.producthunt.com/products/browseract",
       "tagline": "",
       "pub_date": "2026-08-07T01:40:34-07:00"
+    },
+    {
+      "title": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
+      "tagline": "",
+      "pub_date": "2026-08-13T13:42:41-07:00"
+    },
+    {
+      "title": "Occasio®",
+      "url": "https://www.producthunt.com/products/occasio-2",
+      "tagline": "",
+      "pub_date": "2026-08-10T14:46:32-07:00"
+    },
+    {
+      "title": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "tagline": "",
+      "pub_date": "2026-08-12T23:31:41-07:00"
     },
     {
       "title": "Muse",
@@ -317,16 +323,10 @@
       "pub_date": "2026-08-13T20:29:11-07:00"
     },
     {
-      "title": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
+      "title": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
       "tagline": "",
-      "pub_date": "2026-08-10T14:46:32-07:00"
-    },
-    {
-      "title": "NS1",
-      "url": "https://www.producthunt.com/products/ns1",
-      "tagline": "",
-      "pub_date": "2026-08-13T07:43:54-07:00"
+      "pub_date": "2026-08-13T12:31:57-07:00"
     },
     {
       "title": "DeepSeek Harness",
@@ -335,28 +335,10 @@
       "pub_date": "2026-08-13T06:08:16-07:00"
     },
     {
-      "title": "oxpecker",
-      "url": "https://www.producthunt.com/products/oxpecker",
+      "title": "ChordViz",
+      "url": "https://www.producthunt.com/products/chordviz",
       "tagline": "",
-      "pub_date": "2026-08-13T07:59:15-07:00"
-    },
-    {
-      "title": "Port22",
-      "url": "https://www.producthunt.com/products/port22",
-      "tagline": "",
-      "pub_date": "2026-08-13T06:28:31-07:00"
-    },
-    {
-      "title": "Outcome",
-      "url": "https://www.producthunt.com/products/contentblocks",
-      "tagline": "",
-      "pub_date": "2023-12-17T17:58:02-08:00"
-    },
-    {
-      "title": "min.",
-      "url": "https://www.producthunt.com/products/min-4",
-      "tagline": "",
-      "pub_date": "2026-08-12T20:00:00-07:00"
+      "pub_date": "2026-08-13T18:28:45-07:00"
     }
   ]
 }

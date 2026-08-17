@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:49:14.054Z",
+  "generated_at": "2026-08-17T06:37:28.570Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: A public AI whose memory is shared across all users",
       "url": "https://wildstatic.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49319814",
-      "points": 69,
-      "comments": 62,
+      "points": 70,
+      "comments": 63,
       "created_ts": 1786886505,
       "author": "adjohu"
     },
@@ -17,7 +17,7 @@
       "url": "https://github.com/jitpass/jit",
       "hn_url": "https://news.ycombinator.com/item?id=49317546",
       "points": 51,
-      "comments": 74,
+      "comments": 79,
       "created_ts": 1786863304,
       "author": "bukershok"
     },
@@ -34,7 +34,7 @@
       "title": "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
       "url": "https://github.com/mldsveda/PyScrappy",
       "hn_url": "https://news.ycombinator.com/item?id=49317799",
-      "points": 18,
+      "points": 20,
       "comments": 2,
       "created_ts": 1786866400,
       "author": "vedaant00"
@@ -43,7 +43,7 @@
       "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
       "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
       "hn_url": "https://news.ycombinator.com/item?id=49321813",
-      "points": 15,
+      "points": 17,
       "comments": 2,
       "created_ts": 1786900402,
       "author": "hacklas"
@@ -51,101 +51,92 @@
   ],
   "hn_front": [
     {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "hn_url": "https://news.ycombinator.com/item?id=49319556",
-      "points": 523,
-      "comments": 220,
-      "created_ts": 1786884501,
-      "author": "tosh"
-    },
-    {
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "hn_url": "https://news.ycombinator.com/item?id=49319633",
-      "points": 521,
-      "comments": 215,
+      "points": 618,
+      "comments": 252,
       "created_ts": 1786885090,
       "author": "pentagrama"
     },
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "hn_url": "https://news.ycombinator.com/item?id=49319556",
+      "points": 614,
+      "comments": 248,
+      "created_ts": 1786884501,
+      "author": "tosh"
+    },
+    {
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
       "hn_url": "https://news.ycombinator.com/item?id=49321717",
-      "points": 354,
-      "comments": 182,
+      "points": 449,
+      "comments": 233,
       "created_ts": 1786899667,
       "author": "Narishma"
     },
     {
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "url": "https://news.ycombinator.com/item?id=49322107",
-      "hn_url": "https://news.ycombinator.com/item?id=49322107",
-      "points": 260,
-      "comments": 61,
-      "created_ts": 1786902586,
-      "author": "stagas"
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "hn_url": "https://news.ycombinator.com/item?id=49324985",
+      "points": 290,
+      "comments": 121,
+      "created_ts": 1786923909,
+      "author": "bilsbie"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "hn_url": "https://news.ycombinator.com/item?id=49322695",
-      "points": 252,
-      "comments": 145,
-      "created_ts": 1786907066,
-      "author": "hruvhwe"
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "hn_url": "https://news.ycombinator.com/item?id=49323381",
+      "points": 285,
+      "comments": 194,
+      "created_ts": 1786912276,
+      "author": "zacharyozer"
     },
     {
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "hn_url": "https://news.ycombinator.com/item?id=49320611",
-      "points": 221,
-      "comments": 88,
+      "points": 264,
+      "comments": 110,
       "created_ts": 1786891495,
       "author": "mlenhard"
     },
     {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "hn_url": "https://news.ycombinator.com/item?id=49323381",
-      "points": 168,
-      "comments": 119,
-      "created_ts": 1786912276,
-      "author": "zacharyozer"
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "hn_url": "https://news.ycombinator.com/item?id=49323686",
+      "points": 184,
+      "comments": 84,
+      "created_ts": 1786914430,
+      "author": "root-parent"
     },
     {
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
       "hn_url": "https://news.ycombinator.com/item?id=49320856",
-      "points": 152,
-      "comments": 115,
+      "points": 182,
+      "comments": 133,
       "created_ts": 1786893366,
       "author": "toomuchtodo"
     },
     {
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "hn_url": "https://news.ycombinator.com/item?id=49321353",
-      "points": 132,
-      "comments": 67,
-      "created_ts": 1786896895,
-      "author": "brandonb"
-    },
-    {
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "hn_url": "https://news.ycombinator.com/item?id=49324087",
-      "points": 129,
-      "comments": 132,
-      "created_ts": 1786917223,
-      "author": "ropbear"
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49325185",
+      "points": 162,
+      "comments": 69,
+      "created_ts": 1786925877,
+      "author": "ronbenton"
     },
     {
       "title": "Protobuf has LSP support. You're welcome",
       "url": "https://buf.build/blog/protobuf-lsp",
       "hn_url": "https://news.ycombinator.com/item?id=49322573",
-      "points": 103,
-      "comments": 74,
+      "points": 138,
+      "comments": 91,
       "created_ts": 1786906107,
       "author": "theanonymousone"
     }
@@ -158,10 +149,10 @@
       "pub_date": "2026-07-30T18:54:46-07:00"
     },
     {
-      "title": "Vidaya",
-      "url": "https://www.producthunt.com/products/vidaya",
+      "title": "AirAlarm",
+      "url": "https://www.producthunt.com/products/airalarm",
       "tagline": "",
-      "pub_date": "2026-08-06T00:21:22-07:00"
+      "pub_date": "2026-08-10T03:41:18-07:00"
     },
     {
       "title": "Expeditione",
@@ -170,10 +161,10 @@
       "pub_date": "2026-08-11T23:17:06-07:00"
     },
     {
-      "title": "HarnessRouter Community Edition",
-      "url": "https://www.producthunt.com/products/epsilla",
+      "title": "Vidaya",
+      "url": "https://www.producthunt.com/products/vidaya",
       "tagline": "",
-      "pub_date": "2026-08-13T23:38:52-07:00"
+      "pub_date": "2026-08-06T00:21:22-07:00"
     },
     {
       "title": "Chert",
@@ -182,28 +173,16 @@
       "pub_date": "2026-08-14T21:01:04-07:00"
     },
     {
-      "title": "AirAlarm",
-      "url": "https://www.producthunt.com/products/airalarm",
-      "tagline": "",
-      "pub_date": "2026-08-10T03:41:18-07:00"
-    },
-    {
       "title": "Blume",
       "url": "https://www.producthunt.com/products/blume-3",
       "tagline": "",
       "pub_date": "2026-07-19T00:21:48-07:00"
     },
     {
-      "title": "Attyn",
-      "url": "https://www.producthunt.com/products/attyn",
+      "title": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla",
       "tagline": "",
-      "pub_date": "2026-08-09T16:00:52-07:00"
-    },
-    {
-      "title": "Zetik",
-      "url": "https://www.producthunt.com/products/zetik",
-      "tagline": "",
-      "pub_date": "2026-08-07T18:41:10-07:00"
+      "pub_date": "2026-08-13T23:38:52-07:00"
     },
     {
       "title": "Inferock Bench",
@@ -212,22 +191,28 @@
       "pub_date": "2026-08-11T14:37:44-07:00"
     },
     {
-      "title": "Big Mike",
-      "url": "https://www.producthunt.com/products/big-mike",
+      "title": "Talvo",
+      "url": "https://www.producthunt.com/products/talvo-2",
       "tagline": "",
-      "pub_date": "2026-07-14T09:48:04-07:00"
-    },
-    {
-      "title": "nenspace",
-      "url": "https://www.producthunt.com/products/nenspace",
-      "tagline": "",
-      "pub_date": "2026-08-12T08:22:53-07:00"
+      "pub_date": "2026-08-13T08:04:29-07:00"
     },
     {
       "title": "GLM-5.3",
       "url": "https://www.producthunt.com/products/z-ai",
       "tagline": "",
       "pub_date": "2026-08-13T23:21:52-07:00"
+    },
+    {
+      "title": "FileRouter",
+      "url": "https://www.producthunt.com/products/filerouter",
+      "tagline": "",
+      "pub_date": "2026-08-06T23:40:11-07:00"
+    },
+    {
+      "title": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
+      "tagline": "",
+      "pub_date": "2026-08-07T18:41:10-07:00"
     },
     {
       "title": "Clamshell",
@@ -242,10 +227,16 @@
       "pub_date": "2026-08-13T16:57:28-07:00"
     },
     {
-      "title": "Talvo",
-      "url": "https://www.producthunt.com/products/talvo-2",
+      "title": "nenspace",
+      "url": "https://www.producthunt.com/products/nenspace",
       "tagline": "",
-      "pub_date": "2026-08-13T08:04:29-07:00"
+      "pub_date": "2026-08-12T08:22:53-07:00"
+    },
+    {
+      "title": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
+      "tagline": "",
+      "pub_date": "2026-07-14T09:48:04-07:00"
     },
     {
       "title": "Joy",
@@ -254,64 +245,10 @@
       "pub_date": "2026-08-05T09:55:49-07:00"
     },
     {
-      "title": "FileRouter",
-      "url": "https://www.producthunt.com/products/filerouter",
+      "title": "Attyn",
+      "url": "https://www.producthunt.com/products/attyn",
       "tagline": "",
-      "pub_date": "2026-08-06T23:40:11-07:00"
-    },
-    {
-      "title": "Openmotion",
-      "url": "https://www.producthunt.com/products/openmotion",
-      "tagline": "",
-      "pub_date": "2026-08-13T00:46:55-07:00"
-    },
-    {
-      "title": "oxpecker",
-      "url": "https://www.producthunt.com/products/oxpecker",
-      "tagline": "",
-      "pub_date": "2026-08-13T07:59:15-07:00"
-    },
-    {
-      "title": "BrowserAct Cloud",
-      "url": "https://www.producthunt.com/products/browseract",
-      "tagline": "",
-      "pub_date": "2026-08-07T01:40:34-07:00"
-    },
-    {
-      "title": "Freebuff",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "tagline": "",
-      "pub_date": "2026-08-13T10:04:37-07:00"
-    },
-    {
-      "title": "Occasio®",
-      "url": "https://www.producthunt.com/products/occasio-2",
-      "tagline": "",
-      "pub_date": "2026-08-10T14:46:32-07:00"
-    },
-    {
-      "title": "Suno Studio 2.0",
-      "url": "https://www.producthunt.com/products/suno",
-      "tagline": "",
-      "pub_date": "2026-08-13T13:42:41-07:00"
-    },
-    {
-      "title": "Outcome",
-      "url": "https://www.producthunt.com/products/contentblocks",
-      "tagline": "",
-      "pub_date": "2023-12-17T17:58:02-08:00"
-    },
-    {
-      "title": "Hoplite",
-      "url": "https://www.producthunt.com/products/hoplite",
-      "tagline": "",
-      "pub_date": "2026-07-18T16:02:04-07:00"
-    },
-    {
-      "title": "Munder Difflin",
-      "url": "https://www.producthunt.com/products/munder-difflin",
-      "tagline": "",
-      "pub_date": "2026-08-12T06:04:54-07:00"
+      "pub_date": "2026-08-09T16:00:52-07:00"
     },
     {
       "title": "Gemini 3.7 Flash",
@@ -320,16 +257,70 @@
       "pub_date": "2026-08-13T11:16:30-07:00"
     },
     {
+      "title": "oxpecker",
+      "url": "https://www.producthunt.com/products/oxpecker",
+      "tagline": "",
+      "pub_date": "2026-08-13T07:59:15-07:00"
+    },
+    {
+      "title": "Hoplite",
+      "url": "https://www.producthunt.com/products/hoplite",
+      "tagline": "",
+      "pub_date": "2026-07-18T16:02:04-07:00"
+    },
+    {
+      "title": "BrowserAct Cloud",
+      "url": "https://www.producthunt.com/products/browseract",
+      "tagline": "",
+      "pub_date": "2026-08-07T01:40:34-07:00"
+    },
+    {
       "title": "ChordViz",
       "url": "https://www.producthunt.com/products/chordviz",
       "tagline": "",
       "pub_date": "2026-08-13T18:28:45-07:00"
     },
     {
-      "title": "NS1",
-      "url": "https://www.producthunt.com/products/ns1",
+      "title": "DeepSeek Harness",
+      "url": "https://www.producthunt.com/products/deepseek",
       "tagline": "",
-      "pub_date": "2026-08-13T07:43:54-07:00"
+      "pub_date": "2026-08-13T06:08:16-07:00"
+    },
+    {
+      "title": "isolate.video",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "tagline": "",
+      "pub_date": "2026-08-12T23:31:41-07:00"
+    },
+    {
+      "title": "Suno Studio 2.0",
+      "url": "https://www.producthunt.com/products/suno",
+      "tagline": "",
+      "pub_date": "2026-08-13T13:42:41-07:00"
+    },
+    {
+      "title": "Theos[RFM]",
+      "url": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "tagline": "",
+      "pub_date": "2026-08-13T19:57:16-07:00"
+    },
+    {
+      "title": "min.",
+      "url": "https://www.producthunt.com/products/min-4",
+      "tagline": "",
+      "pub_date": "2026-08-12T20:00:00-07:00"
+    },
+    {
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "tagline": "",
+      "pub_date": "2026-08-13T10:04:37-07:00"
+    },
+    {
+      "title": "Compass Calendar",
+      "url": "https://www.producthunt.com/products/compass-calendar",
+      "tagline": "",
+      "pub_date": "2026-08-13T12:31:57-07:00"
     }
   ]
 }

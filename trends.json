@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:26:43.142Z",
+  "generated_at": "2026-08-18T00:47:21.080Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
       "url": "https://desktopcolors.com",
       "hn_url": "https://news.ycombinator.com/item?id=49327643",
-      "points": 110,
-      "comments": 42,
+      "points": 137,
+      "comments": 60,
       "created_ts": 1786953082,
       "author": "vlowrian"
     },
@@ -16,55 +16,91 @@
       "title": "Show HN: Sokoban AI Solver",
       "url": "https://mkornreich.me/projects/sokoban/",
       "hn_url": "https://news.ycombinator.com/item?id=49330215",
-      "points": 52,
-      "comments": 32,
+      "points": 67,
+      "comments": 40,
       "created_ts": 1786972020,
       "author": "enjoyyourlife"
-    },
-    {
-      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-      "url": "https://1667.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49330604",
-      "points": 32,
-      "comments": 87,
-      "created_ts": 1786973731,
-      "author": "refsab"
-    },
-    {
-      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-      "url": "https://saggar.marginalutility.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49331551",
-      "points": 27,
-      "comments": 20,
-      "created_ts": 1786976754,
-      "author": "mcclowes"
     },
     {
       "title": "Show HN: Learn Flags Quiz",
       "url": "https://flagquizzes.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49331288",
-      "points": 27,
-      "comments": 14,
+      "points": 40,
+      "comments": 24,
       "created_ts": 1786975877,
       "author": "artiomyak"
+    },
+    {
+      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "url": "https://saggar.marginalutility.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49331551",
+      "points": 39,
+      "comments": 44,
+      "created_ts": 1786976754,
+      "author": "mcclowes"
+    },
+    {
+      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+      "url": "https://1667.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49330604",
+      "points": 33,
+      "comments": 90,
+      "created_ts": 1786973731,
+      "author": "refsab"
+    },
+    {
+      "title": "Show HN: Visimer – open-source visual editor for Mermaid diagrams",
+      "url": "https://github.com/inkeep/visimer",
+      "hn_url": "https://news.ycombinator.com/item?id=49335470",
+      "points": 14,
+      "comments": 0,
+      "created_ts": 1786991164,
+      "author": "engomez"
+    },
+    {
+      "title": "Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+      "url": "https://aitradingcompetition.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49330386",
+      "points": 11,
+      "comments": 3,
+      "created_ts": 1786972801,
+      "author": "chumzygood"
+    },
+    {
+      "title": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
+      "url": "https://github.com/liventruth/UL-SMF-Cache-Compression",
+      "hn_url": "https://news.ycombinator.com/item?id=49333084",
+      "points": 11,
+      "comments": 0,
+      "created_ts": 1786982174,
+      "author": "liventruth"
     }
   ],
   "hn_front": [
     {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "hn_url": "https://news.ycombinator.com/item?id=49324087",
-      "points": 685,
-      "comments": 598,
-      "created_ts": 1786917223,
-      "author": "ropbear"
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "hn_url": "https://news.ycombinator.com/item?id=49336573",
+      "points": 559,
+      "comments": 347,
+      "created_ts": 1786996035,
+      "author": "mooreds"
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "hn_url": "https://news.ycombinator.com/item?id=49330597",
+      "points": 520,
+      "comments": 903,
+      "created_ts": 1786973706,
+      "author": "SpyCoder77"
     },
     {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "hn_url": "https://news.ycombinator.com/item?id=49330781",
-      "points": 335,
-      "comments": 52,
+      "points": 518,
+      "comments": 91,
       "created_ts": 1786974387,
       "author": "ibotty"
     },
@@ -72,135 +108,99 @@
       "title": "Ask HN: Alternatives to GitHub",
       "url": "https://news.ycombinator.com/item?id=49331033",
       "hn_url": "https://news.ycombinator.com/item?id=49331033",
-      "points": 327,
-      "comments": 209,
+      "points": 486,
+      "comments": 308,
       "created_ts": 1786975157,
       "author": "dhruv3006"
-    },
-    {
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "hn_url": "https://news.ycombinator.com/item?id=49330597",
-      "points": 260,
-      "comments": 734,
-      "created_ts": 1786973706,
-      "author": "SpyCoder77"
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "hn_url": "https://news.ycombinator.com/item?id=49329575",
-      "points": 222,
-      "comments": 119,
-      "created_ts": 1786968582,
-      "author": "plurby"
-    },
-    {
-      "title": "Linear algebra done right",
-      "url": "https://linear.axler.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=49326816",
-      "points": 213,
-      "comments": 80,
-      "created_ts": 1786944094,
-      "author": "the-mitr"
-    },
-    {
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "hn_url": "https://news.ycombinator.com/item?id=49325789",
-      "points": 209,
-      "comments": 423,
-      "created_ts": 1786931996,
-      "author": "jacquesm"
-    },
-    {
-      "title": "Reticulum – Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
-      "hn_url": "https://news.ycombinator.com/item?id=49325061",
-      "points": 209,
-      "comments": 66,
-      "created_ts": 1786924750,
-      "author": "sudo_cowsay"
-    },
-    {
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49331222",
-      "points": 201,
-      "comments": 74,
-      "created_ts": 1786975679,
-      "author": "nyku"
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "hn_url": "https://news.ycombinator.com/item?id=49331423",
-      "points": 190,
-      "comments": 89,
+      "points": 309,
+      "comments": 123,
       "created_ts": 1786976318,
       "author": "galnagli"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=49334544",
+      "points": 297,
+      "comments": 128,
+      "created_ts": 1786987517,
+      "author": "anana_"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "hn_url": "https://news.ycombinator.com/item?id=49329575",
+      "points": 296,
+      "comments": 152,
+      "created_ts": 1786968582,
+      "author": "plurby"
     },
     {
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
       "hn_url": "https://news.ycombinator.com/item?id=49331220",
-      "points": 143,
-      "comments": 60,
+      "points": 248,
+      "comments": 151,
       "created_ts": 1786975676,
       "author": "ColinWright"
     },
     {
-      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-      "url": "https://desktopcolors.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49327643",
-      "points": 110,
-      "comments": 42,
-      "created_ts": 1786953082,
-      "author": "vlowrian"
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "hn_url": "https://news.ycombinator.com/item?id=49338459",
+      "points": 172,
+      "comments": 127,
+      "created_ts": 1787005240,
+      "author": "gavide"
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49333824",
+      "points": 164,
+      "comments": 54,
+      "created_ts": 1786984674,
+      "author": "Gecko4072"
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "hn_url": "https://news.ycombinator.com/item?id=49334991",
+      "points": 152,
+      "comments": 33,
+      "created_ts": 1786989299,
+      "author": "linggen"
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "hn_url": "https://news.ycombinator.com/item?id=49333344",
+      "points": 130,
+      "comments": 52,
+      "created_ts": 1786983097,
+      "author": "qingcharles"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49338328",
+      "points": 112,
+      "comments": 54,
+      "created_ts": 1787004374,
+      "author": "shdon"
     }
   ],
   "ph_today": [
     {
-      "title": "Treg",
-      "url": "https://www.producthunt.com/products/treg-openrouter-for-tools",
+      "title": "TinyFish",
+      "url": "https://www.producthunt.com/products/tinyfish-2",
       "tagline": "",
-      "pub_date": "2026-08-11T21:58:01-07:00"
-    },
-    {
-      "title": "Meridian",
-      "url": "https://www.producthunt.com/products/meridian-16",
-      "tagline": "",
-      "pub_date": "2026-08-14T01:42:54-07:00"
-    },
-    {
-      "title": "Scholé Scenarios",
-      "url": "https://www.producthunt.com/products/schole-2",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:09:28-07:00"
-    },
-    {
-      "title": "Replay QA for Teams",
-      "url": "https://www.producthunt.com/products/replayio",
-      "tagline": "",
-      "pub_date": "2026-08-11T07:12:58-07:00"
-    },
-    {
-      "title": "Vendo",
-      "url": "https://www.producthunt.com/products/vendo",
-      "tagline": "",
-      "pub_date": "2026-08-16T15:13:45-07:00"
-    },
-    {
-      "title": "Clears",
-      "url": "https://www.producthunt.com/products/clears",
-      "tagline": "",
-      "pub_date": "2026-08-03T15:37:58-07:00"
-    },
-    {
-      "title": "Omni by xpander",
-      "url": "https://www.producthunt.com/products/omni-by-xpander",
-      "tagline": "",
-      "pub_date": "2026-08-14T11:14:45-07:00"
+      "pub_date": "2026-08-16T20:42:32-07:00"
     },
     {
       "title": "envfix",
@@ -215,22 +215,16 @@
       "pub_date": "2026-04-09T08:52:45-07:00"
     },
     {
-      "title": "Hansel by Seedling",
-      "url": "https://www.producthunt.com/products/hansel-by-seedling",
-      "tagline": "",
-      "pub_date": "2026-08-16T16:41:18-07:00"
-    },
-    {
-      "title": "TinyFish",
-      "url": "https://www.producthunt.com/products/tinyfish-2",
-      "tagline": "",
-      "pub_date": "2026-08-16T20:42:32-07:00"
-    },
-    {
       "title": "Blender Agent Bridge",
       "url": "https://www.producthunt.com/products/blender-agent-bridge",
       "tagline": "",
       "pub_date": "2026-08-16T13:15:04-07:00"
+    },
+    {
+      "title": "Vendo",
+      "url": "https://www.producthunt.com/products/vendo",
+      "tagline": "",
+      "pub_date": "2026-08-16T15:13:45-07:00"
     },
     {
       "title": "Samepage Artifacts",
@@ -239,16 +233,10 @@
       "pub_date": "2026-08-12T06:43:14-07:00"
     },
     {
-      "title": "Startup Program by Recall.ai",
-      "url": "https://www.producthunt.com/products/recall-ai",
+      "title": "Hansel by Seedling",
+      "url": "https://www.producthunt.com/products/hansel-by-seedling",
       "tagline": "",
-      "pub_date": "2026-08-11T16:38:18-07:00"
-    },
-    {
-      "title": "OpenTrade",
-      "url": "https://www.producthunt.com/products/opentrade",
-      "tagline": "",
-      "pub_date": "2026-08-14T18:23:20-07:00"
+      "pub_date": "2026-08-16T16:41:18-07:00"
     },
     {
       "title": "Skriptr",
@@ -257,10 +245,52 @@
       "pub_date": "2026-08-16T07:11:32-07:00"
     },
     {
-      "title": "CostLogic",
-      "url": "https://www.producthunt.com/products/costlogic",
+      "title": "Startup Program by Recall.ai",
+      "url": "https://www.producthunt.com/products/recall-ai",
       "tagline": "",
-      "pub_date": "2026-07-30T18:54:46-07:00"
+      "pub_date": "2026-08-11T16:38:18-07:00"
+    },
+    {
+      "title": "Replay QA for Teams",
+      "url": "https://www.producthunt.com/products/replayio",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:12:58-07:00"
+    },
+    {
+      "title": "Treg",
+      "url": "https://www.producthunt.com/products/treg-openrouter-for-tools",
+      "tagline": "",
+      "pub_date": "2026-08-11T21:58:01-07:00"
+    },
+    {
+      "title": "OpenTrade",
+      "url": "https://www.producthunt.com/products/opentrade",
+      "tagline": "",
+      "pub_date": "2026-08-14T18:23:20-07:00"
+    },
+    {
+      "title": "Clears",
+      "url": "https://www.producthunt.com/products/clears",
+      "tagline": "",
+      "pub_date": "2026-08-03T15:37:58-07:00"
+    },
+    {
+      "title": "Meridian",
+      "url": "https://www.producthunt.com/products/meridian-16",
+      "tagline": "",
+      "pub_date": "2026-08-14T01:42:54-07:00"
+    },
+    {
+      "title": "Scholé Scenarios",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "tagline": "",
+      "pub_date": "2026-08-12T16:09:28-07:00"
+    },
+    {
+      "title": "Omni by xpander",
+      "url": "https://www.producthunt.com/products/omni-by-xpander",
+      "tagline": "",
+      "pub_date": "2026-08-14T11:14:45-07:00"
     },
     {
       "title": "Vidaya",
@@ -269,16 +299,10 @@
       "pub_date": "2026-08-06T00:21:22-07:00"
     },
     {
-      "title": "Blume",
-      "url": "https://www.producthunt.com/products/blume-3",
+      "title": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla",
       "tagline": "",
-      "pub_date": "2026-07-19T00:21:48-07:00"
-    },
-    {
-      "title": "Expeditione",
-      "url": "https://www.producthunt.com/products/expeditione",
-      "tagline": "",
-      "pub_date": "2026-08-11T23:17:06-07:00"
+      "pub_date": "2026-08-13T23:38:52-07:00"
     },
     {
       "title": "Chert",
@@ -287,16 +311,28 @@
       "pub_date": "2026-08-14T21:01:04-07:00"
     },
     {
+      "title": "CostLogic",
+      "url": "https://www.producthunt.com/products/costlogic",
+      "tagline": "",
+      "pub_date": "2026-07-30T18:54:46-07:00"
+    },
+    {
+      "title": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3",
+      "tagline": "",
+      "pub_date": "2026-07-19T00:21:48-07:00"
+    },
+    {
       "title": "AirAlarm",
       "url": "https://www.producthunt.com/products/airalarm",
       "tagline": "",
       "pub_date": "2026-08-10T03:41:18-07:00"
     },
     {
-      "title": "HarnessRouter Community Edition",
-      "url": "https://www.producthunt.com/products/epsilla",
+      "title": "Expeditione",
+      "url": "https://www.producthunt.com/products/expeditione",
       "tagline": "",
-      "pub_date": "2026-08-13T23:38:52-07:00"
+      "pub_date": "2026-08-11T23:17:06-07:00"
     },
     {
       "title": "FileRouter",
@@ -317,16 +353,10 @@
       "pub_date": "2026-08-07T18:41:10-07:00"
     },
     {
-      "title": "Talvo",
-      "url": "https://www.producthunt.com/products/talvo-2",
+      "title": "Big Mike",
+      "url": "https://www.producthunt.com/products/big-mike",
       "tagline": "",
-      "pub_date": "2026-08-13T08:04:29-07:00"
-    },
-    {
-      "title": "Joy",
-      "url": "https://www.producthunt.com/products/joy-celebrate-your-wins",
-      "tagline": "",
-      "pub_date": "2026-08-05T09:55:49-07:00"
+      "pub_date": "2026-07-14T09:48:04-07:00"
     },
     {
       "title": "Clamshell",
@@ -335,10 +365,16 @@
       "pub_date": "2026-08-09T07:39:57-07:00"
     },
     {
-      "title": "nenspace",
-      "url": "https://www.producthunt.com/products/nenspace",
+      "title": "Attyn",
+      "url": "https://www.producthunt.com/products/attyn",
       "tagline": "",
-      "pub_date": "2026-08-12T08:22:53-07:00"
+      "pub_date": "2026-08-09T16:00:52-07:00"
+    },
+    {
+      "title": "Inferock Bench",
+      "url": "https://www.producthunt.com/products/inferock-bench",
+      "tagline": "",
+      "pub_date": "2026-08-11T14:37:44-07:00"
     }
   ]
 }

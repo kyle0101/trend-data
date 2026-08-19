@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-19T06:30:01.049Z",
+  "generated_at": "2026-08-19T12:29:51.875Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "url": "https://github.com/katiahayati/lucasartsifier/",
+      "hn_url": "https://news.ycombinator.com/item?id=49355607",
+      "points": 91,
+      "comments": 38,
+      "created_ts": 1787104713,
+      "author": "wkfauna"
+    },
+    {
       "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
       "url": "https://modelmap.cc",
       "hn_url": "https://news.ycombinator.com/item?id=49354664",
-      "points": 66,
-      "comments": 7,
+      "points": 91,
+      "comments": 9,
       "created_ts": 1787097456,
       "author": "lizhaoliu"
     },
@@ -16,7 +25,7 @@
       "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
       "url": "https://github.com/therepanic/openleetcode",
       "hn_url": "https://news.ycombinator.com/item?id=49347178",
-      "points": 59,
+      "points": 63,
       "comments": 16,
       "created_ts": 1787067040,
       "author": "therepanic"
@@ -25,25 +34,16 @@
       "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
       "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
       "hn_url": "https://news.ycombinator.com/item?id=49346135",
-      "points": 40,
+      "points": 44,
       "comments": 7,
       "created_ts": 1787063360,
       "author": "rhgraysonii"
     },
     {
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "url": "https://github.com/katiahayati/lucasartsifier/",
-      "hn_url": "https://news.ycombinator.com/item?id=49355607",
-      "points": 27,
-      "comments": 12,
-      "created_ts": 1787104713,
-      "author": "wkfauna"
-    },
-    {
       "title": "Show HN: A local MitM proxy to control TLS fingerprints",
       "url": "https://github.com/ytkoka/impersonate-proxy",
       "hn_url": "https://news.ycombinator.com/item?id=49345091",
-      "points": 25,
+      "points": 26,
       "comments": 6,
       "created_ts": 1787058470,
       "author": "ytkoka"
@@ -62,7 +62,7 @@
       "url": "https://github.com/mukundzha/avouch",
       "hn_url": "https://news.ycombinator.com/item?id=49345154",
       "points": 22,
-      "comments": 21,
+      "comments": 25,
       "created_ts": 1787058797,
       "author": "mukundzha6"
     },
@@ -88,7 +88,7 @@
       "title": "Show HN: Go CLI for website health checks, zero dependencies",
       "url": "https://github.com/atillalab/site-health",
       "hn_url": "https://news.ycombinator.com/item?id=49346733",
-      "points": 11,
+      "points": 12,
       "comments": 1,
       "created_ts": 1787065571,
       "author": "mehmetkose"
@@ -99,261 +99,276 @@
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "hn_url": "https://news.ycombinator.com/item?id=49345263",
-      "points": 1102,
-      "comments": 610,
+      "points": 1225,
+      "comments": 639,
       "created_ts": 1787059358,
       "author": "herbertl"
-    },
-    {
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "hn_url": "https://news.ycombinator.com/item?id=49351324",
-      "points": 507,
-      "comments": 126,
-      "created_ts": 1787081391,
-      "author": "KolmogorovComp"
-    },
-    {
-      "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49355142",
-      "points": 345,
-      "comments": 190,
-      "created_ts": 1787100831,
-      "author": "jplusequalt"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49349984",
-      "points": 298,
-      "comments": 177,
-      "created_ts": 1787076713,
-      "author": "NaOH"
     },
     {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "hn_url": "https://news.ycombinator.com/item?id=49355606",
-      "points": 275,
-      "comments": 55,
+      "points": 961,
+      "comments": 255,
       "created_ts": 1787104708,
       "author": "amatheus"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49349984",
+      "points": 383,
+      "comments": 264,
+      "created_ts": 1787076713,
+      "author": "NaOH"
     },
     {
       "title": "And then the men with guns tell you to do it anyway",
       "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
       "hn_url": "https://news.ycombinator.com/item?id=49348912",
-      "points": 263,
-      "comments": 165,
+      "points": 347,
+      "comments": 251,
       "created_ts": 1787073088,
       "author": "_djo_"
-    },
-    {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "hn_url": "https://news.ycombinator.com/item?id=49353221",
-      "points": 230,
-      "comments": 77,
-      "created_ts": 1787089833,
-      "author": "phoenix120"
-    },
-    {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "hn_url": "https://news.ycombinator.com/item?id=49349898",
-      "points": 228,
-      "comments": 31,
-      "created_ts": 1787076441,
-      "author": "fittingopposite"
     },
     {
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
       "hn_url": "https://news.ycombinator.com/item?id=49354949",
-      "points": 192,
-      "comments": 138,
+      "points": 339,
+      "comments": 211,
       "created_ts": 1787099298,
       "author": "sunils34"
-    },
-    {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "hn_url": "https://news.ycombinator.com/item?id=49355825",
-      "points": 178,
-      "comments": 129,
-      "created_ts": 1787106274,
-      "author": "newsomix9xl"
-    },
-    {
-      "title": "Finger: the 1971 social network that never died",
-      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "hn_url": "https://news.ycombinator.com/item?id=49342472",
-      "points": 174,
-      "comments": 54,
-      "created_ts": 1787037695,
-      "author": "andros"
-    },
-    {
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "hn_url": "https://news.ycombinator.com/item?id=49344643",
-      "points": 169,
-      "comments": 142,
-      "created_ts": 1787055778,
-      "author": "porridgeraisin"
-    },
-    {
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "hn_url": "https://news.ycombinator.com/item?id=49348055",
-      "points": 147,
-      "comments": 202,
-      "created_ts": 1787070094,
-      "author": "newusertoday"
     },
     {
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
       "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
       "hn_url": "https://news.ycombinator.com/item?id=49355105",
-      "points": 140,
-      "comments": 81,
+      "points": 313,
+      "comments": 252,
       "created_ts": 1787100503,
       "author": "dabinat"
     },
     {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "hn_url": "https://news.ycombinator.com/item?id=49353432",
-      "points": 105,
-      "comments": 55,
-      "created_ts": 1787090887,
-      "author": "giuliomagnifico"
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "hn_url": "https://news.ycombinator.com/item?id=49353221",
+      "points": 312,
+      "comments": 124,
+      "created_ts": 1787089833,
+      "author": "phoenix120"
+    },
+    {
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "hn_url": "https://news.ycombinator.com/item?id=49355825",
+      "points": 267,
+      "comments": 215,
+      "created_ts": 1787106274,
+      "author": "newsomix9xl"
+    },
+    {
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "hn_url": "https://news.ycombinator.com/item?id=49349898",
+      "points": 262,
+      "comments": 32,
+      "created_ts": 1787076441,
+      "author": "fittingopposite"
+    },
+    {
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "hn_url": "https://news.ycombinator.com/item?id=49348055",
+      "points": 228,
+      "comments": 316,
+      "created_ts": 1787070094,
+      "author": "newusertoday"
     },
     {
       "title": "Solo – a .so loader for static Linux binaries",
       "url": "https://github.com/pg83/solo",
       "hn_url": "https://news.ycombinator.com/item?id=49354613",
-      "points": 102,
-      "comments": 85,
+      "points": 155,
+      "comments": 178,
       "created_ts": 1787097109,
       "author": "zX41ZdbW"
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49355968",
+      "points": 124,
+      "comments": 24,
+      "created_ts": 1787107310,
+      "author": "matt_d"
+    },
+    {
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "hn_url": "https://news.ycombinator.com/item?id=49358327",
+      "points": 102,
+      "comments": 35,
+      "created_ts": 1787125639,
+      "author": "flaburgan"
     }
   ],
   "ph_today": [
     {
-      "title": "Gauge",
-      "url": "https://www.producthunt.com/products/gauge",
+      "title": "Sider 6.0",
+      "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
       "tagline": "",
-      "pub_date": "2026-08-17T15:32:25-07:00"
+      "pub_date": "2026-07-20T23:55:18-07:00"
     },
     {
-      "title": "Meterless.ai",
-      "url": "https://www.producthunt.com/products/meterless-ai",
+      "title": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2",
       "tagline": "",
-      "pub_date": "2026-07-29T00:27:17-07:00"
+      "pub_date": "2026-08-16T11:31:20-07:00"
     },
     {
-      "title": "Skim Recap",
-      "url": "https://www.producthunt.com/products/skim-recap",
+      "title": "Edgemetry",
+      "url": "https://www.producthunt.com/products/edgemetry",
       "tagline": "",
-      "pub_date": "2026-08-15T13:42:25-07:00"
+      "pub_date": "2026-08-18T09:10:34-07:00"
     },
     {
-      "title": "Taku AI",
-      "url": "https://www.producthunt.com/products/taku-ai",
+      "title": "Clipto MCP",
+      "url": "https://www.producthunt.com/products/clipto-ai",
       "tagline": "",
-      "pub_date": "2026-08-16T08:14:17-07:00"
+      "pub_date": "2026-07-21T17:03:59-07:00"
     },
     {
-      "title": "Reckon",
-      "url": "https://www.producthunt.com/products/reckon",
+      "title": "Origin by Cursor",
+      "url": "https://www.producthunt.com/products/cursor",
       "tagline": "",
-      "pub_date": "2026-08-06T05:49:07-07:00"
+      "pub_date": "2026-08-18T06:58:25-07:00"
     },
     {
-      "title": "Superflow AI",
-      "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions",
+      "title": "Claude Watermark",
+      "url": "https://www.producthunt.com/products/claude-watermark",
       "tagline": "",
-      "pub_date": "2026-08-16T19:31:34-07:00"
+      "pub_date": "2026-08-18T23:46:06-07:00"
     },
     {
-      "title": "Tiny Funnel",
-      "url": "https://www.producthunt.com/products/tiny-funnel",
+      "title": "KiHub",
+      "url": "https://www.producthunt.com/products/kihub",
       "tagline": "",
-      "pub_date": "2026-08-15T18:28:09-07:00"
+      "pub_date": "2026-08-18T18:51:45-07:00"
     },
     {
-      "title": "Clipwing Autopilot",
-      "url": "https://www.producthunt.com/products/clipwing",
+      "title": "Cronloop AI",
+      "url": "https://www.producthunt.com/products/cronloop-ai",
       "tagline": "",
-      "pub_date": "2026-08-03T09:28:09-07:00"
+      "pub_date": "2026-08-18T16:47:54-07:00"
     },
     {
-      "title": "monolog",
-      "url": "https://www.producthunt.com/products/monolog-2",
+      "title": "Hosted Agents in Cluing",
+      "url": "https://www.producthunt.com/products/cluing",
       "tagline": "",
-      "pub_date": "2026-08-12T04:57:23-07:00"
+      "pub_date": "2026-08-17T04:18:21-07:00"
     },
     {
-      "title": "Dates by Agenda Hero",
-      "url": "https://www.producthunt.com/products/dates-by-agenda-hero",
+      "title": "Mochi",
+      "url": "https://www.producthunt.com/products/githumochib",
       "tagline": "",
-      "pub_date": "2026-08-17T19:30:22-07:00"
+      "pub_date": "2026-08-17T13:56:10-07:00"
     },
     {
-      "title": "LayerProof Matte 3.0",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "title": "Expert Chase 2.0",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
       "tagline": "",
-      "pub_date": "2026-08-13T00:07:02-07:00"
+      "pub_date": "2026-08-13T11:08:05-07:00"
     },
     {
-      "title": "CrewTower",
-      "url": "https://www.producthunt.com/products/crew-tower",
+      "title": "OmniVibe",
+      "url": "https://www.producthunt.com/products/omnivibe",
       "tagline": "",
-      "pub_date": "2026-08-02T18:50:09-07:00"
+      "pub_date": "2026-08-15T16:59:53-07:00"
     },
     {
-      "title": "Deepmark",
-      "url": "https://www.producthunt.com/products/deepmark",
+      "title": "Vois 2.0",
+      "url": "https://www.producthunt.com/products/vois",
       "tagline": "",
-      "pub_date": "2026-08-13T01:05:11-07:00"
+      "pub_date": "2026-08-18T20:48:11-07:00"
     },
     {
-      "title": "Finch",
-      "url": "https://www.producthunt.com/products/finch-6",
+      "title": "Paper Critters",
+      "url": "https://www.producthunt.com/products/paper-critters",
       "tagline": "",
-      "pub_date": "2026-08-17T12:36:34-07:00"
+      "pub_date": "2026-08-06T14:34:36-07:00"
     },
     {
-      "title": "Hubble",
-      "url": "https://www.producthunt.com/products/hubble-11",
+      "title": "AgentR 3.0",
+      "url": "https://www.producthunt.com/products/agentr",
       "tagline": "",
-      "pub_date": "2026-08-08T20:14:20-07:00"
+      "pub_date": "2026-08-15T22:45:01-07:00"
     },
     {
-      "title": "Salem Robotics",
-      "url": "https://www.producthunt.com/products/salem-robotics",
+      "title": "Hexel Editor",
+      "url": "https://www.producthunt.com/products/hexel-editor",
       "tagline": "",
-      "pub_date": "2026-08-14T18:46:45-07:00"
+      "pub_date": "2026-08-18T12:15:57-07:00"
     },
     {
-      "title": "Controller AI",
-      "url": "https://www.producthunt.com/products/insight-ai",
+      "title": "Zyntax",
+      "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
       "tagline": "",
-      "pub_date": "2026-08-17T22:58:52-07:00"
+      "pub_date": "2026-08-18T03:59:03-07:00"
     },
     {
-      "title": "Clara AI SDR",
-      "url": "https://www.producthunt.com/products/clara-ai-sdr",
+      "title": "Basedash Public Sharing",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-08-11T02:54:33-07:00"
+      "pub_date": "2026-08-18T21:45:17-07:00"
     },
     {
-      "title": "AirBuddy 3",
-      "url": "https://www.producthunt.com/products/airbuddy-2",
+      "title": "Ressearch AI",
+      "url": "https://www.producthunt.com/products/ressearch-ai",
       "tagline": "",
-      "pub_date": "2026-08-14T16:00:25-07:00"
+      "pub_date": "2026-08-18T08:09:11-07:00"
+    },
+    {
+      "title": "Loopcase",
+      "url": "https://www.producthunt.com/products/loopcase",
+      "tagline": "",
+      "pub_date": "2026-08-18T17:00:04-07:00"
+    },
+    {
+      "title": "Balsa UI",
+      "url": "https://www.producthunt.com/products/balsa-ui",
+      "tagline": "",
+      "pub_date": "2026-08-18T16:54:45-07:00"
+    },
+    {
+      "title": "Antibot",
+      "url": "https://www.producthunt.com/products/antibot",
+      "tagline": "",
+      "pub_date": "2026-06-26T00:19:53-07:00"
+    },
+    {
+      "title": "anyCreature by Gobkit",
+      "url": "https://www.producthunt.com/products/anycreature",
+      "tagline": "",
+      "pub_date": "2026-08-17T06:30:34-07:00"
+    },
+    {
+      "title": "Fairphone Gen 6+",
+      "url": "https://www.producthunt.com/products/fairphone",
+      "tagline": "",
+      "pub_date": "2026-08-18T21:10:09-07:00"
+    },
+    {
+      "title": "Cherry Blossom",
+      "url": "https://www.producthunt.com/products/cherry-blossom",
+      "tagline": "",
+      "pub_date": "2026-08-18T13:02:14-07:00"
+    },
+    {
+      "title": "ChatGPT for Teens",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-08-18T06:19:56-07:00"
     },
     {
       "title": "ElevenLabs MCP in Claude",
@@ -362,64 +377,22 @@
       "pub_date": "2026-08-17T07:15:56-07:00"
     },
     {
-      "title": "Whisperstream",
-      "url": "https://www.producthunt.com/products/whisperstream",
-      "tagline": "",
-      "pub_date": "2026-06-03T08:11:43-07:00"
-    },
-    {
-      "title": "Open Index",
-      "url": "https://www.producthunt.com/products/open-brain",
-      "tagline": "",
-      "pub_date": "2026-08-08T11:14:29-07:00"
-    },
-    {
-      "title": "Shepherd Terminal",
-      "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
-      "tagline": "",
-      "pub_date": "2026-08-17T15:56:18-07:00"
-    },
-    {
-      "title": "Atlas by WorkOS",
-      "url": "https://www.producthunt.com/products/workos",
-      "tagline": "",
-      "pub_date": "2026-08-10T09:23:48-07:00"
-    },
-    {
       "title": "Transept AI",
       "url": "https://www.producthunt.com/products/transept-ai",
       "tagline": "",
       "pub_date": "2026-07-19T02:59:47-07:00"
     },
     {
-      "title": "Startup Program by Recall.ai",
-      "url": "https://www.producthunt.com/products/recall-ai",
+      "title": "Controller AI",
+      "url": "https://www.producthunt.com/products/insight-ai",
       "tagline": "",
-      "pub_date": "2026-08-11T16:38:18-07:00"
+      "pub_date": "2026-08-17T22:58:52-07:00"
     },
     {
-      "title": "Meridian",
-      "url": "https://www.producthunt.com/products/meridian-16",
+      "title": "Atlas by WorkOS",
+      "url": "https://www.producthunt.com/products/workos",
       "tagline": "",
-      "pub_date": "2026-08-14T01:42:54-07:00"
-    },
-    {
-      "title": "Scholé Scenarios",
-      "url": "https://www.producthunt.com/products/schole-2",
-      "tagline": "",
-      "pub_date": "2026-08-12T16:09:28-07:00"
-    },
-    {
-      "title": "OpenTrade",
-      "url": "https://www.producthunt.com/products/opentrade",
-      "tagline": "",
-      "pub_date": "2026-08-14T18:23:20-07:00"
-    },
-    {
-      "title": "Omni by xpander",
-      "url": "https://www.producthunt.com/products/omni-by-xpander",
-      "tagline": "",
-      "pub_date": "2026-08-14T11:14:45-07:00"
+      "pub_date": "2026-08-10T09:23:48-07:00"
     }
   ]
 }

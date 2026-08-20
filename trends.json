@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:32:27.459Z",
+  "generated_at": "2026-08-20T12:31:36.514Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,16 +7,25 @@
       "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
       "url": "https://demo.frugaltokens.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49364223",
-      "points": 31,
+      "points": 35,
       "comments": 8,
       "created_ts": 1787159255,
       "author": "dpc94"
     },
     {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "hn_url": "https://news.ycombinator.com/item?id=49373456",
+      "points": 16,
+      "comments": 4,
+      "created_ts": 1787227478,
+      "author": "simedw"
+    },
+    {
       "title": "Show HN: Anonymous age verification with passkey-powered encryption",
       "url": "https://loginwithone.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49361478",
-      "points": 13,
+      "points": 14,
       "comments": 6,
       "created_ts": 1787146870,
       "author": "mikeysight"
@@ -33,20 +42,11 @@
   ],
   "hn_front": [
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "hn_url": "https://news.ycombinator.com/item?id=49360015",
-      "points": 834,
-      "comments": 129,
-      "created_ts": 1787138510,
-      "author": "kareiva"
-    },
-    {
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "hn_url": "https://news.ycombinator.com/item?id=49364559",
-      "points": 783,
-      "comments": 396,
+      "points": 888,
+      "comments": 456,
       "created_ts": 1787160758,
       "author": "rvz"
     },
@@ -54,89 +54,89 @@
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
       "hn_url": "https://news.ycombinator.com/item?id=49365405",
-      "points": 572,
-      "comments": 144,
+      "points": 685,
+      "comments": 208,
       "created_ts": 1787164429,
       "author": "database64128"
-    },
-    {
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "hn_url": "https://news.ycombinator.com/item?id=49360545",
-      "points": 453,
-      "comments": 77,
-      "created_ts": 1787141992,
-      "author": "yassa9"
     },
     {
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "hn_url": "https://news.ycombinator.com/item?id=49364745",
-      "points": 426,
-      "comments": 173,
+      "points": 669,
+      "comments": 258,
       "created_ts": 1787161649,
       "author": "Animux"
     },
     {
-      "title": "PostgreSQL for Everything",
-      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "hn_url": "https://news.ycombinator.com/item?id=49361279",
-      "points": 342,
-      "comments": 210,
-      "created_ts": 1787145681,
-      "author": "karlmush"
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49371857",
+      "points": 563,
+      "comments": 271,
+      "created_ts": 1787214044,
+      "author": "pjerem"
     },
     {
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
       "hn_url": "https://news.ycombinator.com/item?id=49362887",
-      "points": 332,
-      "comments": 276,
+      "points": 413,
+      "comments": 343,
       "created_ts": 1787153281,
       "author": "__fst__"
     },
     {
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49359425",
-      "points": 267,
-      "comments": 90,
-      "created_ts": 1787134500,
-      "author": "gurov"
-    },
-    {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "hn_url": "https://news.ycombinator.com/item?id=49365443",
-      "points": 230,
-      "comments": 88,
-      "created_ts": 1787164605,
-      "author": "jonesy827"
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "hn_url": "https://news.ycombinator.com/item?id=49361279",
+      "points": 393,
+      "comments": 234,
+      "created_ts": 1787145681,
+      "author": "karlmush"
     },
     {
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "hn_url": "https://news.ycombinator.com/item?id=49367350",
-      "points": 202,
-      "comments": 112,
+      "points": 302,
+      "comments": 187,
       "created_ts": 1787174390,
       "author": "fg137"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49362401",
-      "points": 187,
-      "comments": 61,
-      "created_ts": 1787150919,
-      "author": "CommonGuy"
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "hn_url": "https://news.ycombinator.com/item?id=49365443",
+      "points": 294,
+      "comments": 102,
+      "created_ts": 1787164605,
+      "author": "jonesy827"
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "hn_url": "https://news.ycombinator.com/item?id=49371006",
+      "points": 247,
+      "comments": 94,
+      "created_ts": 1787206600,
+      "author": "luu"
+    },
+    {
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "hn_url": "https://news.ycombinator.com/item?id=49369408",
+      "points": 245,
+      "comments": 125,
+      "created_ts": 1787189352,
+      "author": "mayoff"
     },
     {
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
       "hn_url": "https://news.ycombinator.com/item?id=49365841",
-      "points": 185,
-      "comments": 44,
+      "points": 226,
+      "comments": 56,
       "created_ts": 1787166376,
       "author": "1e1a"
     },
@@ -144,120 +144,165 @@
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
       "hn_url": "https://news.ycombinator.com/item?id=49362728",
-      "points": 150,
-      "comments": 182,
+      "points": 185,
+      "comments": 217,
       "created_ts": 1787152465,
       "author": "jonbaer"
     },
     {
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=49363668",
-      "points": 140,
-      "comments": 54,
-      "created_ts": 1787156765,
-      "author": "coloneltcb"
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49372583",
+      "points": 168,
+      "comments": 47,
+      "created_ts": 1787220532,
+      "author": "emctech"
     },
     {
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "hn_url": "https://news.ycombinator.com/item?id=49369408",
-      "points": 131,
-      "comments": 58,
-      "created_ts": 1787189352,
-      "author": "mayoff"
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "hn_url": "https://news.ycombinator.com/item?id=49362001",
+      "points": 148,
+      "comments": 19,
+      "created_ts": 1787149210,
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "hn_url": "https://news.ycombinator.com/item?id=49367256",
+      "points": 101,
+      "comments": 46,
+      "created_ts": 1787173891,
+      "author": "jggonz"
     }
   ],
   "ph_today": [
     {
-      "title": "anyCreature by Gobkit",
-      "url": "https://www.producthunt.com/products/anycreature",
+      "title": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
       "tagline": "",
-      "pub_date": "2026-08-17T06:30:34-07:00"
+      "pub_date": "2026-08-19T07:26:08-07:00"
     },
     {
-      "title": "Clipto MCP",
-      "url": "https://www.producthunt.com/products/clipto-ai",
+      "title": "The New Calendly",
+      "url": "https://www.producthunt.com/products/calendly",
       "tagline": "",
-      "pub_date": "2026-07-21T17:03:59-07:00"
+      "pub_date": "2026-08-19T22:17:09-07:00"
     },
     {
-      "title": "Claude Watermark Remover",
-      "url": "https://www.producthunt.com/products/claude-watermark",
+      "title": "Shape",
+      "url": "https://www.producthunt.com/products/shape-5",
       "tagline": "",
-      "pub_date": "2026-08-18T23:46:06-07:00"
+      "pub_date": "2026-08-19T16:56:11-07:00"
     },
     {
-      "title": "Astute",
-      "url": "https://www.producthunt.com/products/astute-2",
+      "title": "MiniMax Design",
+      "url": "https://www.producthunt.com/products/minimax",
       "tagline": "",
-      "pub_date": "2026-08-16T11:31:20-07:00"
+      "pub_date": "2026-08-19T21:06:04-07:00"
     },
     {
-      "title": "OmniVibe",
-      "url": "https://www.producthunt.com/products/omnivibe",
+      "title": "Lifelong",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
       "tagline": "",
-      "pub_date": "2026-08-15T16:59:53-07:00"
+      "pub_date": "2026-08-19T20:03:33-07:00"
     },
     {
-      "title": "Loopcase",
-      "url": "https://www.producthunt.com/products/loopcase",
+      "title": "MeetStream AI",
+      "url": "https://www.producthunt.com/products/meetstream-ai",
       "tagline": "",
-      "pub_date": "2026-08-18T17:00:04-07:00"
+      "pub_date": "2026-08-18T23:15:44-07:00"
     },
     {
-      "title": "ChatGPT for Teens",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "HyNote for Mac",
+      "url": "https://www.producthunt.com/products/hynote-ai",
       "tagline": "",
-      "pub_date": "2026-08-18T06:19:56-07:00"
+      "pub_date": "2026-08-05T11:15:57-07:00"
     },
     {
-      "title": "KiHub",
-      "url": "https://www.producthunt.com/products/kihub",
+      "title": "ProtoNote",
+      "url": "https://www.producthunt.com/products/protonote",
       "tagline": "",
-      "pub_date": "2026-08-18T18:51:45-07:00"
+      "pub_date": "2026-08-19T23:59:05-07:00"
     },
     {
-      "title": "Vois 2.0",
-      "url": "https://www.producthunt.com/products/vois",
+      "title": "Glasp for Firefox",
+      "url": "https://www.producthunt.com/products/glasp-for-firefox",
       "tagline": "",
-      "pub_date": "2026-08-18T20:48:11-07:00"
+      "pub_date": "2026-08-19T07:08:25-07:00"
     },
     {
-      "title": "Mochi",
-      "url": "https://www.producthunt.com/products/githumochib",
+      "title": "Aloud",
+      "url": "https://www.producthunt.com/products/aloud-4",
       "tagline": "",
-      "pub_date": "2026-08-17T13:56:10-07:00"
+      "pub_date": "2026-08-19T14:07:11-07:00"
     },
     {
-      "title": "Paper Critters",
-      "url": "https://www.producthunt.com/products/paper-critters",
+      "title": "Hermai Brand API",
+      "url": "https://www.producthunt.com/products/hermai-brand-api",
       "tagline": "",
-      "pub_date": "2026-08-06T14:34:36-07:00"
+      "pub_date": "2026-08-19T18:12:56-07:00"
     },
     {
-      "title": "Hosted Agents in Cluing",
-      "url": "https://www.producthunt.com/products/cluing",
+      "title": "bitdrift.ai",
+      "url": "https://www.producthunt.com/products/bitdrift",
       "tagline": "",
-      "pub_date": "2026-08-17T04:18:21-07:00"
+      "pub_date": "2026-08-17T10:12:19-07:00"
     },
     {
-      "title": "Antibot",
-      "url": "https://www.producthunt.com/products/antibot",
+      "title": "Revy",
+      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
       "tagline": "",
-      "pub_date": "2026-06-26T00:19:53-07:00"
+      "pub_date": "2026-08-18T22:03:32-07:00"
     },
     {
-      "title": "Zyntax IDE",
-      "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
+      "title": "Peach Co-Pilot",
+      "url": "https://www.producthunt.com/products/peach-co-pilot",
       "tagline": "",
-      "pub_date": "2026-08-18T03:59:03-07:00"
+      "pub_date": "2026-08-19T01:08:55-07:00"
     },
     {
-      "title": "AgentR 3.0",
-      "url": "https://www.producthunt.com/products/agentr",
+      "title": "Roveri",
+      "url": "https://www.producthunt.com/products/roveri",
       "tagline": "",
-      "pub_date": "2026-08-15T22:45:01-07:00"
+      "pub_date": "2026-08-11T06:14:36-07:00"
+    },
+    {
+      "title": "Zoho Cliq 7.0",
+      "url": "https://www.producthunt.com/products/zoho",
+      "tagline": "",
+      "pub_date": "2026-07-31T04:44:22-07:00"
+    },
+    {
+      "title": "Berd",
+      "url": "https://www.producthunt.com/products/berd",
+      "tagline": "",
+      "pub_date": "2026-08-18T16:41:53-07:00"
+    },
+    {
+      "title": "Checksum AI",
+      "url": "https://www.producthunt.com/products/checksum-ai",
+      "tagline": "",
+      "pub_date": "2026-08-10T07:43:32-07:00"
+    },
+    {
+      "title": "Prized",
+      "url": "https://www.producthunt.com/products/prized",
+      "tagline": "",
+      "pub_date": "2026-08-19T15:38:09-07:00"
+    },
+    {
+      "title": "NobodyWho",
+      "url": "https://www.producthunt.com/products/nobodywho",
+      "tagline": "",
+      "pub_date": "2026-08-19T02:35:50-07:00"
+    },
+    {
+      "title": "Cloudways Managed AI Agents",
+      "url": "https://www.producthunt.com/products/cloudways",
+      "tagline": "",
+      "pub_date": "2026-08-19T02:26:37-07:00"
     },
     {
       "title": "Cronloop AI",
@@ -266,40 +311,40 @@
       "pub_date": "2026-08-18T16:47:54-07:00"
     },
     {
-      "title": "Expert Chase 2.0",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "title": "anyCreature by Gobkit",
+      "url": "https://www.producthunt.com/products/anycreature",
       "tagline": "",
-      "pub_date": "2026-08-13T11:08:05-07:00"
+      "pub_date": "2026-08-17T06:30:34-07:00"
     },
     {
-      "title": "Fairphone Gen 6+",
-      "url": "https://www.producthunt.com/products/fairphone",
+      "title": "Loopcase",
+      "url": "https://www.producthunt.com/products/loopcase",
       "tagline": "",
-      "pub_date": "2026-08-18T21:10:09-07:00"
+      "pub_date": "2026-08-18T17:00:04-07:00"
     },
     {
-      "title": "Basedash Public Sharing",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "Claude Watermark Remover",
+      "url": "https://www.producthunt.com/products/claude-watermark",
       "tagline": "",
-      "pub_date": "2026-08-18T21:45:17-07:00"
+      "pub_date": "2026-08-18T23:46:06-07:00"
     },
     {
-      "title": "Balsa UI",
-      "url": "https://www.producthunt.com/products/balsa-ui",
+      "title": "Clipto MCP",
+      "url": "https://www.producthunt.com/products/clipto-ai",
       "tagline": "",
-      "pub_date": "2026-08-18T16:54:45-07:00"
+      "pub_date": "2026-07-21T17:03:59-07:00"
     },
     {
-      "title": "Origin by Cursor",
-      "url": "https://www.producthunt.com/products/cursor",
+      "title": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2",
       "tagline": "",
-      "pub_date": "2026-08-18T06:58:25-07:00"
+      "pub_date": "2026-08-16T11:31:20-07:00"
     },
     {
-      "title": "Hexel Editor",
-      "url": "https://www.producthunt.com/products/hexel-editor",
+      "title": "Hosted Agents in Cluing",
+      "url": "https://www.producthunt.com/products/cluing",
       "tagline": "",
-      "pub_date": "2026-08-18T12:15:57-07:00"
+      "pub_date": "2026-08-17T04:18:21-07:00"
     },
     {
       "title": "Cherry Blossom",
@@ -308,46 +353,10 @@
       "pub_date": "2026-08-18T13:02:14-07:00"
     },
     {
-      "title": "Edgemetry",
-      "url": "https://www.producthunt.com/products/edgemetry",
+      "title": "Fairphone Gen 6+",
+      "url": "https://www.producthunt.com/products/fairphone",
       "tagline": "",
-      "pub_date": "2026-08-18T09:10:34-07:00"
-    },
-    {
-      "title": "Ressearch AI",
-      "url": "https://www.producthunt.com/products/ressearch-ai",
-      "tagline": "",
-      "pub_date": "2026-08-18T08:09:11-07:00"
-    },
-    {
-      "title": "CrewTower",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "tagline": "",
-      "pub_date": "2026-08-02T18:50:09-07:00"
-    },
-    {
-      "title": "Skim Recap",
-      "url": "https://www.producthunt.com/products/skim-recap",
-      "tagline": "",
-      "pub_date": "2026-08-15T13:42:25-07:00"
-    },
-    {
-      "title": "LayerProof Matte 3.0",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
-      "tagline": "",
-      "pub_date": "2026-08-13T00:07:02-07:00"
-    },
-    {
-      "title": "Finch",
-      "url": "https://www.producthunt.com/products/finch-6",
-      "tagline": "",
-      "pub_date": "2026-08-17T12:36:34-07:00"
-    },
-    {
-      "title": "Superflow AI",
-      "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions",
-      "tagline": "",
-      "pub_date": "2026-08-16T19:31:34-07:00"
+      "pub_date": "2026-08-18T21:10:09-07:00"
     }
   ]
 }

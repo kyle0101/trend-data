@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:51:54.693Z",
+  "generated_at": "2026-08-21T06:32:36.538Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "hn_url": "https://news.ycombinator.com/item?id=49373456",
-      "points": 490,
-      "comments": 105,
+      "points": 540,
+      "comments": 113,
       "created_ts": 1787227478,
       "author": "simedw"
     },
@@ -16,35 +16,35 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "points": 206,
-      "comments": 114,
+      "points": 277,
+      "comments": 146,
       "created_ts": 1787252736,
       "author": "danielvaughn"
-    },
-    {
-      "title": "Show HN: Open-source Stripe Connect alternative",
-      "url": "https://zoneless.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49375244",
-      "points": 63,
-      "comments": 24,
-      "created_ts": 1787236725,
-      "author": "tinyprojects"
     },
     {
       "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
       "url": "https://pub.doub.ly/",
       "hn_url": "https://news.ycombinator.com/item?id=49375237",
-      "points": 60,
+      "points": 70,
       "comments": 37,
       "created_ts": 1787236708,
       "author": "knaught"
     },
     {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "url": "https://zoneless.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49375244",
+      "points": 69,
+      "comments": 29,
+      "created_ts": 1787236725,
+      "author": "tinyprojects"
+    },
+    {
       "title": "Show HN: We chased a weather balloon across Montana and never found it",
       "url": "https://radi8.dev/blog/uplink/",
       "hn_url": "https://news.ycombinator.com/item?id=49377660",
-      "points": 51,
-      "comments": 22,
+      "points": 55,
+      "comments": 24,
       "created_ts": 1787247212,
       "author": "radeeyate"
     },
@@ -52,8 +52,8 @@
       "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
       "url": "https://github.com/paulsp94/omacosy",
       "hn_url": "https://news.ycombinator.com/item?id=49374830",
-      "points": 47,
-      "comments": 37,
+      "points": 53,
+      "comments": 40,
       "created_ts": 1787235128,
       "author": "paulsp"
     },
@@ -61,7 +61,7 @@
       "title": "Show HN: A data viewer for choosing Frigate-compatible IP cameras",
       "url": "https://github.com/ch-bas/cctv-camera-database",
       "hn_url": "https://news.ycombinator.com/item?id=49380653",
-      "points": 34,
+      "points": 41,
       "comments": 3,
       "created_ts": 1787262039,
       "author": "martinAndy"
@@ -76,6 +76,15 @@
       "author": "gnusi"
     },
     {
+      "title": "Show HN: WaveHouse – Supabase for ClickHouse",
+      "url": "https://wavehouse.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49377989",
+      "points": 15,
+      "comments": 3,
+      "created_ts": 1787248806,
+      "author": "ericandr"
+    },
+    {
       "title": "Show HN: LilScript makes JavaScript libraries smaller",
       "url": "https://news.ycombinator.com/item?id=49374554",
       "hn_url": "https://news.ycombinator.com/item?id=49374554",
@@ -85,58 +94,49 @@
       "author": "yeargun"
     },
     {
-      "title": "Show HN: WaveHouse – Supabase for ClickHouse",
-      "url": "https://wavehouse.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=49377989",
-      "points": 11,
-      "comments": 3,
-      "created_ts": 1787248806,
-      "author": "ericandr"
+      "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
+      "url": "https://search.parqdb.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49382022",
+      "points": 12,
+      "comments": 4,
+      "created_ts": 1787271219,
+      "author": "petrizhang"
     }
   ],
   "hn_front": [
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49372583",
-      "points": 864,
-      "comments": 281,
-      "created_ts": 1787220532,
-      "author": "emctech"
-    },
-    {
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "hn_url": "https://news.ycombinator.com/item?id=49379550",
-      "points": 851,
-      "comments": 195,
+      "points": 1353,
+      "comments": 294,
       "created_ts": 1787256446,
       "author": "speckx"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "hn_url": "https://news.ycombinator.com/item?id=49373456",
-      "points": 490,
-      "comments": 105,
-      "created_ts": 1787227478,
-      "author": "simedw"
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49372583",
+      "points": 941,
+      "comments": 297,
+      "created_ts": 1787220532,
+      "author": "emctech"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "hn_url": "https://news.ycombinator.com/item?id=49374269",
-      "points": 382,
-      "comments": 357,
+      "points": 459,
+      "comments": 394,
       "created_ts": 1787232192,
       "author": "abhisek"
     },
     {
-      "title": "The August 17 outage, and the work ahead",
+      "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "hn_url": "https://news.ycombinator.com/item?id=49378957",
-      "points": 290,
-      "comments": 335,
+      "points": 444,
+      "comments": 508,
       "created_ts": 1787253744,
       "author": "0xedb"
     },
@@ -144,8 +144,8 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "points": 206,
-      "comments": 114,
+      "points": 277,
+      "comments": 146,
       "created_ts": 1787252736,
       "author": "danielvaughn"
     },
@@ -153,90 +153,90 @@
       "title": "Consumer Rights Wiki",
       "url": "https://consumerrights.wiki/w/Main_Page",
       "hn_url": "https://news.ycombinator.com/item?id=49378243",
-      "points": 205,
-      "comments": 22,
+      "points": 264,
+      "comments": 49,
       "created_ts": 1787249991,
       "author": "gregsadetsky"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49383026",
+      "points": 253,
+      "comments": 171,
+      "created_ts": 1787279867,
+      "author": "Cider9986"
     },
     {
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
       "hn_url": "https://news.ycombinator.com/item?id=49377853",
-      "points": 188,
-      "comments": 71,
+      "points": 242,
+      "comments": 91,
       "created_ts": 1787248202,
       "author": "tyre"
-    },
-    {
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49376265",
-      "points": 188,
-      "comments": 64,
-      "created_ts": 1787240778,
-      "author": "mariuz"
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
       "hn_url": "https://news.ycombinator.com/item?id=49375996",
-      "points": 182,
-      "comments": 195,
+      "points": 230,
+      "comments": 232,
       "created_ts": 1787239562,
       "author": "Bluestein"
     },
     {
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "hn_url": "https://news.ycombinator.com/item?id=49374287",
-      "points": 132,
-      "comments": 34,
-      "created_ts": 1787232272,
-      "author": "gmays"
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49376265",
+      "points": 228,
+      "comments": 77,
+      "created_ts": 1787240778,
+      "author": "mariuz"
     },
     {
       "title": "How to compromise your system with a job interview",
       "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
       "hn_url": "https://news.ycombinator.com/item?id=49376332",
-      "points": 116,
-      "comments": 97,
+      "points": 149,
+      "comments": 131,
       "created_ts": 1787241057,
       "author": "codedge"
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "hn_url": "https://news.ycombinator.com/item?id=49374287",
+      "points": 146,
+      "comments": 35,
+      "created_ts": 1787232272,
+      "author": "gmays"
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "hn_url": "https://news.ycombinator.com/item?id=49375719",
-      "points": 109,
-      "comments": 73,
+      "points": 144,
+      "comments": 101,
       "created_ts": 1787238413,
       "author": "speckx"
+    },
+    {
+      "title": "Why aren't smart people happier? (2022)",
+      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "hn_url": "https://news.ycombinator.com/item?id=49378446",
+      "points": 143,
+      "comments": 195,
+      "created_ts": 1787251127,
+      "author": "rafaelc"
     }
   ],
   "ph_today": [
     {
-      "title": "Grok 4.6",
-      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "title": "Aloud",
+      "url": "https://www.producthunt.com/products/aloud-4",
       "tagline": "",
-      "pub_date": "2026-08-19T07:26:08-07:00"
-    },
-    {
-      "title": "MeetStream AI",
-      "url": "https://www.producthunt.com/products/meetstream-ai",
-      "tagline": "",
-      "pub_date": "2026-08-18T23:15:44-07:00"
-    },
-    {
-      "title": "HyNote for Mac",
-      "url": "https://www.producthunt.com/products/hynote-ai",
-      "tagline": "",
-      "pub_date": "2026-08-05T11:15:57-07:00"
-    },
-    {
-      "title": "Checksum AI",
-      "url": "https://www.producthunt.com/products/checksum-ai",
-      "tagline": "",
-      "pub_date": "2026-08-10T07:43:32-07:00"
+      "pub_date": "2026-08-19T14:07:11-07:00"
     },
     {
       "title": "The New Calendly",
@@ -245,64 +245,10 @@
       "pub_date": "2026-08-19T22:17:09-07:00"
     },
     {
-      "title": "Revy",
-      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
+      "title": "Checksum AI",
+      "url": "https://www.producthunt.com/products/checksum-ai",
       "tagline": "",
-      "pub_date": "2026-08-18T22:03:32-07:00"
-    },
-    {
-      "title": "Prized",
-      "url": "https://www.producthunt.com/products/prized",
-      "tagline": "",
-      "pub_date": "2026-08-19T15:38:09-07:00"
-    },
-    {
-      "title": "Zoho Cliq 7.0",
-      "url": "https://www.producthunt.com/products/zoho",
-      "tagline": "",
-      "pub_date": "2026-07-31T04:44:22-07:00"
-    },
-    {
-      "title": "NobodyWho",
-      "url": "https://www.producthunt.com/products/nobodywho",
-      "tagline": "",
-      "pub_date": "2026-08-19T02:35:50-07:00"
-    },
-    {
-      "title": "bitdrift.ai",
-      "url": "https://www.producthunt.com/products/bitdrift",
-      "tagline": "",
-      "pub_date": "2026-08-17T10:12:19-07:00"
-    },
-    {
-      "title": "Berd",
-      "url": "https://www.producthunt.com/products/berd",
-      "tagline": "",
-      "pub_date": "2026-08-18T16:41:53-07:00"
-    },
-    {
-      "title": "Glasp for Firefox",
-      "url": "https://www.producthunt.com/products/glasp-for-firefox",
-      "tagline": "",
-      "pub_date": "2026-08-19T07:08:25-07:00"
-    },
-    {
-      "title": "Shape",
-      "url": "https://www.producthunt.com/products/shape-5",
-      "tagline": "",
-      "pub_date": "2026-08-19T16:56:11-07:00"
-    },
-    {
-      "title": "Aloud",
-      "url": "https://www.producthunt.com/products/aloud-4",
-      "tagline": "",
-      "pub_date": "2026-08-19T14:07:11-07:00"
-    },
-    {
-      "title": "Hermai Brand API",
-      "url": "https://www.producthunt.com/products/hermai-brand-api",
-      "tagline": "",
-      "pub_date": "2026-08-19T18:12:56-07:00"
+      "pub_date": "2026-08-10T07:43:32-07:00"
     },
     {
       "title": "Lifelong",
@@ -311,10 +257,40 @@
       "pub_date": "2026-08-19T20:03:33-07:00"
     },
     {
-      "title": "MiniMax Design",
-      "url": "https://www.producthunt.com/products/minimax",
+      "title": "ProtoNote",
+      "url": "https://www.producthunt.com/products/protonote",
       "tagline": "",
-      "pub_date": "2026-08-19T21:06:04-07:00"
+      "pub_date": "2026-08-19T23:59:05-07:00"
+    },
+    {
+      "title": "bitdrift.ai",
+      "url": "https://www.producthunt.com/products/bitdrift",
+      "tagline": "",
+      "pub_date": "2026-08-17T10:12:19-07:00"
+    },
+    {
+      "title": "Hermai Brand API",
+      "url": "https://www.producthunt.com/products/hermai-brand-api",
+      "tagline": "",
+      "pub_date": "2026-08-19T18:12:56-07:00"
+    },
+    {
+      "title": "Berd",
+      "url": "https://www.producthunt.com/products/berd",
+      "tagline": "",
+      "pub_date": "2026-08-18T16:41:53-07:00"
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "tagline": "",
+      "pub_date": "2026-08-19T07:26:08-07:00"
+    },
+    {
+      "title": "Prized",
+      "url": "https://www.producthunt.com/products/prized",
+      "tagline": "",
+      "pub_date": "2026-08-19T15:38:09-07:00"
     },
     {
       "title": "Roveri",
@@ -323,10 +299,10 @@
       "pub_date": "2026-08-11T06:14:36-07:00"
     },
     {
-      "title": "ProtoNote",
-      "url": "https://www.producthunt.com/products/protonote",
+      "title": "Zoho Cliq 7.0",
+      "url": "https://www.producthunt.com/products/zoho",
       "tagline": "",
-      "pub_date": "2026-08-19T23:59:05-07:00"
+      "pub_date": "2026-07-31T04:44:22-07:00"
     },
     {
       "title": "Cloudways Managed AI Agents",
@@ -335,46 +311,76 @@
       "pub_date": "2026-08-19T02:26:37-07:00"
     },
     {
+      "title": "HyNote for Mac",
+      "url": "https://www.producthunt.com/products/hynote-ai",
+      "tagline": "",
+      "pub_date": "2026-08-05T11:15:57-07:00"
+    },
+    {
+      "title": "NobodyWho",
+      "url": "https://www.producthunt.com/products/nobodywho",
+      "tagline": "",
+      "pub_date": "2026-08-19T02:35:50-07:00"
+    },
+    {
+      "title": "Glasp for Firefox",
+      "url": "https://www.producthunt.com/products/glasp-for-firefox",
+      "tagline": "",
+      "pub_date": "2026-08-19T07:08:25-07:00"
+    },
+    {
+      "title": "MeetStream AI",
+      "url": "https://www.producthunt.com/products/meetstream-ai",
+      "tagline": "",
+      "pub_date": "2026-08-18T23:15:44-07:00"
+    },
+    {
+      "title": "MiniMax Design",
+      "url": "https://www.producthunt.com/products/minimax",
+      "tagline": "",
+      "pub_date": "2026-08-19T21:06:04-07:00"
+    },
+    {
       "title": "Peach Co-Pilot",
       "url": "https://www.producthunt.com/products/peach-co-pilot",
       "tagline": "",
       "pub_date": "2026-08-19T01:08:55-07:00"
     },
     {
-      "title": "anyCreature by Gobkit",
-      "url": "https://www.producthunt.com/products/anycreature",
+      "title": "Shape",
+      "url": "https://www.producthunt.com/products/shape-5",
       "tagline": "",
-      "pub_date": "2026-08-17T06:30:34-07:00"
+      "pub_date": "2026-08-19T16:56:11-07:00"
     },
     {
-      "title": "Clipto MCP",
-      "url": "https://www.producthunt.com/products/clipto-ai",
+      "title": "Revy",
+      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
       "tagline": "",
-      "pub_date": "2026-07-21T17:03:59-07:00"
+      "pub_date": "2026-08-18T22:03:32-07:00"
     },
     {
-      "title": "Expert Chase 2.0",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "title": "Fairphone Gen 6+",
+      "url": "https://www.producthunt.com/products/fairphone",
       "tagline": "",
-      "pub_date": "2026-08-13T11:08:05-07:00"
+      "pub_date": "2026-08-18T21:10:09-07:00"
     },
     {
-      "title": "OmniVibe",
-      "url": "https://www.producthunt.com/products/omnivibe",
+      "title": "Hexel Editor",
+      "url": "https://www.producthunt.com/products/hexel-editor",
       "tagline": "",
-      "pub_date": "2026-08-15T16:59:53-07:00"
+      "pub_date": "2026-08-18T12:15:57-07:00"
     },
     {
-      "title": "Paper Critters",
-      "url": "https://www.producthunt.com/products/paper-critters",
+      "title": "Origin by Cursor",
+      "url": "https://www.producthunt.com/products/cursor",
       "tagline": "",
-      "pub_date": "2026-08-06T14:34:36-07:00"
+      "pub_date": "2026-08-18T06:58:25-07:00"
     },
     {
-      "title": "Vois 2.0",
-      "url": "https://www.producthunt.com/products/vois",
+      "title": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2",
       "tagline": "",
-      "pub_date": "2026-08-18T20:48:11-07:00"
+      "pub_date": "2026-08-16T11:31:20-07:00"
     },
     {
       "title": "Hosted Agents in Cluing",
@@ -383,16 +389,28 @@
       "pub_date": "2026-08-17T04:18:21-07:00"
     },
     {
-      "title": "Loopcase",
-      "url": "https://www.producthunt.com/products/loopcase",
+      "title": "Claude Watermark Remover",
+      "url": "https://www.producthunt.com/products/claude-watermark",
       "tagline": "",
-      "pub_date": "2026-08-18T17:00:04-07:00"
+      "pub_date": "2026-08-18T23:46:06-07:00"
     },
     {
-      "title": "ChatGPT for Teens",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Balsa UI",
+      "url": "https://www.producthunt.com/products/balsa-ui",
       "tagline": "",
-      "pub_date": "2026-08-18T06:19:56-07:00"
+      "pub_date": "2026-08-18T16:54:45-07:00"
+    },
+    {
+      "title": "OmniVibe",
+      "url": "https://www.producthunt.com/products/omnivibe",
+      "tagline": "",
+      "pub_date": "2026-08-15T16:59:53-07:00"
+    },
+    {
+      "title": "Cronloop AI",
+      "url": "https://www.producthunt.com/products/cronloop-ai",
+      "tagline": "",
+      "pub_date": "2026-08-18T16:47:54-07:00"
     }
   ]
 }

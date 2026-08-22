@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:26:00.945Z",
+  "generated_at": "2026-08-22T12:23:00.008Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "url": "https://ozbrain.com",
       "hn_url": "https://news.ycombinator.com/item?id=49394827",
-      "points": 62,
-      "comments": 28,
+      "points": 71,
+      "comments": 44,
       "created_ts": 1787353746,
       "author": "dariusmonsef"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
       "url": "https://github.com/proliferate-ai/proliferate",
       "hn_url": "https://news.ycombinator.com/item?id=49390739",
-      "points": 38,
+      "points": 39,
       "comments": 15,
       "created_ts": 1787330835,
       "author": "pablo24602"
@@ -34,7 +34,7 @@
       "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
       "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
       "hn_url": "https://news.ycombinator.com/item?id=49389493",
-      "points": 15,
+      "points": 16,
       "comments": 0,
       "created_ts": 1787325670,
       "author": "forrestly"
@@ -54,62 +54,44 @@
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
       "hn_url": "https://news.ycombinator.com/item?id=49388154",
-      "points": 1079,
-      "comments": 356,
+      "points": 1157,
+      "comments": 370,
       "created_ts": 1787320597,
       "author": "speckx"
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49386895",
-      "points": 690,
-      "comments": 833,
-      "created_ts": 1787314213,
-      "author": "floathub"
     },
     {
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49389430",
-      "points": 616,
-      "comments": 254,
+      "points": 751,
+      "comments": 280,
       "created_ts": 1787325424,
       "author": "colinprince"
-    },
-    {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "hn_url": "https://news.ycombinator.com/item?id=49387570",
-      "points": 494,
-      "comments": 55,
-      "created_ts": 1787317888,
-      "author": "gavide"
     },
     {
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
       "hn_url": "https://news.ycombinator.com/item?id=49390427",
-      "points": 487,
-      "comments": 168,
+      "points": 579,
+      "comments": 191,
       "created_ts": 1787329525,
       "author": "thepoet"
     },
     {
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "hn_url": "https://news.ycombinator.com/item?id=49386699",
-      "points": 327,
-      "comments": 336,
-      "created_ts": 1787312885,
-      "author": "rcymerys"
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "hn_url": "https://news.ycombinator.com/item?id=49387570",
+      "points": 577,
+      "comments": 70,
+      "created_ts": 1787317888,
+      "author": "gavide"
     },
     {
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
       "hn_url": "https://news.ycombinator.com/item?id=49395628",
-      "points": 285,
-      "comments": 204,
+      "points": 472,
+      "comments": 335,
       "created_ts": 1787360777,
       "author": "Jach"
     },
@@ -117,17 +99,35 @@
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "hn_url": "https://news.ycombinator.com/item?id=49388752",
-      "points": 241,
-      "comments": 170,
+      "points": 299,
+      "comments": 191,
       "created_ts": 1787322712,
       "author": "aakil"
+    },
+    {
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "hn_url": "https://news.ycombinator.com/item?id=49398304",
+      "points": 293,
+      "comments": 164,
+      "created_ts": 1787394369,
+      "author": "backlit4034"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=49393052",
+      "points": 292,
+      "comments": 55,
+      "created_ts": 1787341914,
+      "author": "matklad"
     },
     {
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
       "hn_url": "https://news.ycombinator.com/item?id=49387525",
-      "points": 227,
-      "comments": 163,
+      "points": 251,
+      "comments": 166,
       "created_ts": 1787317646,
       "author": "speckx"
     },
@@ -135,81 +135,117 @@
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
       "hn_url": "https://news.ycombinator.com/item?id=49392200",
-      "points": 178,
-      "comments": 54,
+      "points": 217,
+      "comments": 57,
       "created_ts": 1787337394,
       "author": "NKosmatos"
-    },
-    {
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "hn_url": "https://news.ycombinator.com/item?id=49389952",
-      "points": 131,
-      "comments": 32,
-      "created_ts": 1787327470,
-      "author": "toebee"
     },
     {
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
       "hn_url": "https://news.ycombinator.com/item?id=49394496",
-      "points": 109,
-      "comments": 37,
+      "points": 164,
+      "comments": 74,
       "created_ts": 1787351340,
       "author": "tdullien"
     },
     {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "hn_url": "https://news.ycombinator.com/item?id=49393052",
-      "points": 108,
-      "comments": 31,
-      "created_ts": 1787341914,
-      "author": "matklad"
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "hn_url": "https://news.ycombinator.com/item?id=49389952",
+      "points": 157,
+      "comments": 38,
+      "created_ts": 1787327470,
+      "author": "toebee"
+    },
+    {
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=49391553",
+      "points": 143,
+      "comments": 57,
+      "created_ts": 1787334341,
+      "author": "hn_acker"
     }
   ],
   "ph_today": [
     {
-      "title": "Outlook Google Calendar Sync for Mac",
-      "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
+      "title": "Pocket by Meta",
+      "url": "https://www.producthunt.com/products/pocket-by-meta",
       "tagline": "",
-      "pub_date": "2026-06-27T16:04:37-07:00"
+      "pub_date": "2026-08-20T20:32:59-07:00"
     },
     {
-      "title": "Router by Ramp",
-      "url": "https://www.producthunt.com/products/ramp-router",
+      "title": "Zero",
+      "url": "https://www.producthunt.com/products/zero-15",
       "tagline": "",
-      "pub_date": "2026-08-20T06:50:53-07:00"
+      "pub_date": "2026-08-20T02:01:53-07:00"
     },
     {
-      "title": "fx (by Vercel)",
-      "url": "https://www.producthunt.com/products/fx-by-vercel",
+      "title": "Open Analytics",
+      "url": "https://www.producthunt.com/products/open-analytics-2",
       "tagline": "",
-      "pub_date": "2026-08-20T01:24:52-07:00"
+      "pub_date": "2026-08-21T08:08:16-07:00"
     },
     {
-      "title": "OneCLI",
-      "url": "https://www.producthunt.com/products/onecli",
+      "title": "VeloFiler",
+      "url": "https://www.producthunt.com/products/velofiler",
       "tagline": "",
-      "pub_date": "2026-08-19T00:59:04-07:00"
+      "pub_date": "2026-08-18T16:35:36-07:00"
     },
     {
-      "title": "Antigravity IDE Extensions",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "Maccess",
+      "url": "https://www.producthunt.com/products/maccess",
       "tagline": "",
-      "pub_date": "2026-08-20T23:58:44-07:00"
+      "pub_date": "2026-08-17T23:01:22-07:00"
     },
     {
-      "title": "Surfdeck",
-      "url": "https://www.producthunt.com/products/surfdeck",
+      "title": "Toplify",
+      "url": "https://www.producthunt.com/products/toplify",
       "tagline": "",
-      "pub_date": "2026-08-19T15:40:36-07:00"
+      "pub_date": "2026-07-29T00:50:54-07:00"
     },
     {
-      "title": "Lynqo",
-      "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
+      "title": "KerasFormers",
+      "url": "https://www.producthunt.com/products/kerasformers",
       "tagline": "",
-      "pub_date": "2026-08-20T10:40:39-07:00"
+      "pub_date": "2026-08-20T14:13:37-07:00"
+    },
+    {
+      "title": "AutoClaw",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "tagline": "",
+      "pub_date": "2026-08-21T09:04:14-07:00"
+    },
+    {
+      "title": "SubtitleGenerator",
+      "url": "https://www.producthunt.com/products/subtitlegenerator",
+      "tagline": "",
+      "pub_date": "2026-08-15T00:15:03-07:00"
+    },
+    {
+      "title": "Agents Never Sleep",
+      "url": "https://www.producthunt.com/products/agents-never-sleep",
+      "tagline": "",
+      "pub_date": "2026-08-14T05:09:11-07:00"
+    },
+    {
+      "title": "Port Radar for macOS",
+      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "tagline": "",
+      "pub_date": "2026-08-21T13:35:10-07:00"
+    },
+    {
+      "title": "Pawvis",
+      "url": "https://www.producthunt.com/products/pawvis",
+      "tagline": "",
+      "pub_date": "2026-08-09T16:36:50-07:00"
+    },
+    {
+      "title": "Wizstar",
+      "url": "https://www.producthunt.com/products/wizstar",
+      "tagline": "",
+      "pub_date": "2026-08-20T08:05:01-07:00"
     },
     {
       "title": "Supernova",
@@ -218,10 +254,22 @@
       "pub_date": "2026-08-11T07:58:45-07:00"
     },
     {
-      "title": "Wizstar",
-      "url": "https://www.producthunt.com/products/wizstar",
+      "title": "Dockhand",
+      "url": "https://www.producthunt.com/products/dockhand",
       "tagline": "",
-      "pub_date": "2026-08-20T08:05:01-07:00"
+      "pub_date": "2026-08-20T05:06:37-07:00"
+    },
+    {
+      "title": "OneCLI",
+      "url": "https://www.producthunt.com/products/onecli",
+      "tagline": "",
+      "pub_date": "2026-08-19T00:59:04-07:00"
+    },
+    {
+      "title": "Project SKY",
+      "url": "https://www.producthunt.com/products/project-sky",
+      "tagline": "",
+      "pub_date": "2026-08-20T20:43:53-07:00"
     },
     {
       "title": "ShogunAI",
@@ -236,16 +284,10 @@
       "pub_date": "2026-08-19T15:00:59-07:00"
     },
     {
-      "title": "Project SKY",
-      "url": "https://www.producthunt.com/products/project-sky",
+      "title": "PixelRead AI OCR",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
       "tagline": "",
-      "pub_date": "2026-08-20T20:43:53-07:00"
-    },
-    {
-      "title": "Flunkey",
-      "url": "https://www.producthunt.com/products/flunkey",
-      "tagline": "",
-      "pub_date": "2026-08-20T11:50:24-07:00"
+      "pub_date": "2026-08-20T14:21:51-07:00"
     },
     {
       "title": "Local",
@@ -254,28 +296,10 @@
       "pub_date": "2026-08-19T18:43:17-07:00"
     },
     {
-      "title": "Dockhand",
-      "url": "https://www.producthunt.com/products/dockhand",
+      "title": "Flunkey",
+      "url": "https://www.producthunt.com/products/flunkey",
       "tagline": "",
-      "pub_date": "2026-08-20T05:06:37-07:00"
-    },
-    {
-      "title": "Mindcase",
-      "url": "https://www.producthunt.com/products/mindcase",
-      "tagline": "",
-      "pub_date": "2026-08-14T16:56:00-07:00"
-    },
-    {
-      "title": "Epho",
-      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
-      "tagline": "",
-      "pub_date": "2026-08-20T08:33:36-07:00"
-    },
-    {
-      "title": "PixelRead AI OCR",
-      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
-      "tagline": "",
-      "pub_date": "2026-08-20T14:21:51-07:00"
+      "pub_date": "2026-08-20T11:50:24-07:00"
     },
     {
       "title": "Plow Latch",
@@ -284,70 +308,46 @@
       "pub_date": "2026-08-19T16:12:47-07:00"
     },
     {
-      "title": "Roveri",
-      "url": "https://www.producthunt.com/products/roveri",
+      "title": "Epho",
+      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
       "tagline": "",
-      "pub_date": "2026-08-11T06:14:36-07:00"
+      "pub_date": "2026-08-20T08:33:36-07:00"
     },
     {
-      "title": "ProtoNote",
-      "url": "https://www.producthunt.com/products/protonote",
+      "title": "Mindcase",
+      "url": "https://www.producthunt.com/products/mindcase",
       "tagline": "",
-      "pub_date": "2026-08-19T23:59:05-07:00"
+      "pub_date": "2026-08-14T16:56:00-07:00"
     },
     {
-      "title": "Zoho Cliq 7.0",
-      "url": "https://www.producthunt.com/products/zoho",
+      "title": "Outlook Google Calendar Sync for Mac",
+      "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
       "tagline": "",
-      "pub_date": "2026-07-31T04:44:22-07:00"
+      "pub_date": "2026-06-27T16:04:37-07:00"
     },
     {
-      "title": "Revy",
-      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
+      "title": "fx (by Vercel)",
+      "url": "https://www.producthunt.com/products/fx-by-vercel",
       "tagline": "",
-      "pub_date": "2026-08-18T22:03:32-07:00"
+      "pub_date": "2026-08-20T01:24:52-07:00"
     },
     {
-      "title": "Peach Co-Pilot",
-      "url": "https://www.producthunt.com/products/peach-co-pilot",
+      "title": "Router by Ramp",
+      "url": "https://www.producthunt.com/products/ramp-router",
       "tagline": "",
-      "pub_date": "2026-08-19T01:08:55-07:00"
+      "pub_date": "2026-08-20T06:50:53-07:00"
     },
     {
-      "title": "Cloudways Managed AI Agents",
-      "url": "https://www.producthunt.com/products/cloudways",
+      "title": "Antigravity IDE Extensions",
+      "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
-      "pub_date": "2026-08-19T02:26:37-07:00"
+      "pub_date": "2026-08-20T23:58:44-07:00"
     },
     {
-      "title": "Berd",
-      "url": "https://www.producthunt.com/products/berd",
+      "title": "Surfdeck",
+      "url": "https://www.producthunt.com/products/surfdeck",
       "tagline": "",
-      "pub_date": "2026-08-18T16:41:53-07:00"
-    },
-    {
-      "title": "bitdrift.ai",
-      "url": "https://www.producthunt.com/products/bitdrift",
-      "tagline": "",
-      "pub_date": "2026-08-17T10:12:19-07:00"
-    },
-    {
-      "title": "Glasp for Firefox",
-      "url": "https://www.producthunt.com/products/glasp-for-firefox",
-      "tagline": "",
-      "pub_date": "2026-08-19T07:08:25-07:00"
-    },
-    {
-      "title": "Aloud",
-      "url": "https://www.producthunt.com/products/aloud-4",
-      "tagline": "",
-      "pub_date": "2026-08-19T14:07:11-07:00"
-    },
-    {
-      "title": "MiniMax Design",
-      "url": "https://www.producthunt.com/products/minimax",
-      "tagline": "",
-      "pub_date": "2026-08-19T21:06:04-07:00"
+      "pub_date": "2026-08-19T15:40:36-07:00"
     }
   ]
 }

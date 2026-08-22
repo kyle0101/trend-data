@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-08-21T18:25:13.595Z",
+  "generated_at": "2026-08-22T00:47:54.201Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "points": 354,
-      "comments": 203,
-      "created_ts": 1787252736,
-      "author": "danielvaughn"
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "url": "https://github.com/proliferate-ai/proliferate",
+      "hn_url": "https://news.ycombinator.com/item?id=49390739",
+      "points": 36,
+      "comments": 14,
+      "created_ts": 1787330835,
+      "author": "pablo24602"
     },
     {
-      "title": "Show HN: A data viewer for choosing Frigate-compatible IP cameras",
-      "url": "https://github.com/ch-bas/cctv-camera-database",
-      "hn_url": "https://news.ycombinator.com/item?id=49380653",
-      "points": 48,
-      "comments": 6,
-      "created_ts": 1787262039,
-      "author": "martinAndy"
-    },
-    {
-      "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
-      "url": "https://search.parqdb.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=49382022",
-      "points": 24,
-      "comments": 4,
-      "created_ts": 1787271219,
-      "author": "petrizhang"
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49394827",
+      "points": 21,
+      "comments": 9,
+      "created_ts": 1787353746,
+      "author": "dariusmonsef"
     },
     {
       "title": "Show HN: A desktop fly drawn to the scent of vibecode",
@@ -40,31 +31,22 @@
       "author": "kulikov0"
     },
     {
-      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-      "url": "https://github.com/proliferate-ai/proliferate",
-      "hn_url": "https://news.ycombinator.com/item?id=49390739",
-      "points": 16,
-      "comments": 6,
-      "created_ts": 1787330835,
-      "author": "pablo24602"
-    },
-    {
       "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
       "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
       "hn_url": "https://news.ycombinator.com/item?id=49389493",
-      "points": 14,
+      "points": 15,
       "comments": 0,
       "created_ts": 1787325670,
       "author": "forrestly"
     },
     {
-      "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
-      "url": "https://kandelo.dev/20260819-demo/",
-      "hn_url": "https://news.ycombinator.com/item?id=49378305",
-      "points": 11,
-      "comments": 10,
-      "created_ts": 1787250330,
-      "author": "brandonpayton"
+      "title": "Show HN: Declarative-forms – await an object the way prompt() awaits a string",
+      "url": "https://wolfoo2931.github.io/declarative-forms/",
+      "hn_url": "https://news.ycombinator.com/item?id=49391469",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1787334007,
+      "author": "WolfOliver"
     }
   ],
   "hn_front": [
@@ -72,17 +54,44 @@
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
       "hn_url": "https://news.ycombinator.com/item?id=49388154",
-      "points": 731,
-      "comments": 265,
+      "points": 991,
+      "comments": 335,
       "created_ts": 1787320597,
       "author": "speckx"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49386895",
+      "points": 527,
+      "comments": 713,
+      "created_ts": 1787314213,
+      "author": "floathub"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49383026",
+      "points": 520,
+      "comments": 834,
+      "created_ts": 1787279867,
+      "author": "Cider9986"
+    },
+    {
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49389430",
+      "points": 497,
+      "comments": 221,
+      "created_ts": 1787325424,
+      "author": "colinprince"
     },
     {
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
       "hn_url": "https://news.ycombinator.com/item?id=49386163",
-      "points": 385,
-      "comments": 126,
+      "points": 453,
+      "comments": 143,
       "created_ts": 1787308436,
       "author": "dares2573"
     },
@@ -90,40 +99,94 @@
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
       "hn_url": "https://news.ycombinator.com/item?id=49387570",
-      "points": 231,
-      "comments": 31,
+      "points": 429,
+      "comments": 47,
       "created_ts": 1787317888,
       "author": "gavide"
-    },
-    {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49389430",
-      "points": 151,
-      "comments": 62,
-      "created_ts": 1787325424,
-      "author": "colinprince"
-    },
-    {
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "hn_url": "https://news.ycombinator.com/item?id=49387525",
-      "points": 142,
-      "comments": 88,
-      "created_ts": 1787317646,
-      "author": "speckx"
     },
     {
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
       "hn_url": "https://news.ycombinator.com/item?id=49390427",
-      "points": 102,
-      "comments": 33,
+      "points": 409,
+      "comments": 138,
       "created_ts": 1787329525,
       "author": "thepoet"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "hn_url": "https://news.ycombinator.com/item?id=49386699",
+      "points": 255,
+      "comments": 265,
+      "created_ts": 1787312885,
+      "author": "rcymerys"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49388752",
+      "points": 188,
+      "comments": 133,
+      "created_ts": 1787322712,
+      "author": "aakil"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "hn_url": "https://news.ycombinator.com/item?id=49392200",
+      "points": 139,
+      "comments": 44,
+      "created_ts": 1787337394,
+      "author": "NKosmatos"
+    },
+    {
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49389441",
+      "points": 119,
+      "comments": 27,
+      "created_ts": 1787325467,
+      "author": "colinprince"
     }
   ],
   "ph_today": [
+    {
+      "title": "Dockhand",
+      "url": "https://www.producthunt.com/products/dockhand",
+      "tagline": "",
+      "pub_date": "2026-08-20T05:06:37-07:00"
+    },
+    {
+      "title": "OneCLI",
+      "url": "https://www.producthunt.com/products/onecli",
+      "tagline": "",
+      "pub_date": "2026-08-19T00:59:04-07:00"
+    },
+    {
+      "title": "PixelRead AI OCR",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
+      "tagline": "",
+      "pub_date": "2026-08-20T14:21:51-07:00"
+    },
+    {
+      "title": "Antigravity IDE Extensions",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "tagline": "",
+      "pub_date": "2026-08-20T23:58:44-07:00"
+    },
+    {
+      "title": "Epho",
+      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
+      "tagline": "",
+      "pub_date": "2026-08-20T08:33:36-07:00"
+    },
+    {
+      "title": "fx (by Vercel)",
+      "url": "https://www.producthunt.com/products/fx-by-vercel",
+      "tagline": "",
+      "pub_date": "2026-08-20T01:24:52-07:00"
+    },
     {
       "title": "Mindcase",
       "url": "https://www.producthunt.com/products/mindcase",
@@ -131,10 +194,10 @@
       "pub_date": "2026-08-14T16:56:00-07:00"
     },
     {
-      "title": "ShogunAI",
-      "url": "https://www.producthunt.com/products/shogunai",
+      "title": "Supernova",
+      "url": "https://www.producthunt.com/products/supernova-ai",
       "tagline": "",
-      "pub_date": "2026-08-21T00:04:00-07:00"
+      "pub_date": "2026-08-11T07:58:45-07:00"
     },
     {
       "title": "Router by Ramp",
@@ -149,10 +212,10 @@
       "pub_date": "2026-08-20T08:05:01-07:00"
     },
     {
-      "title": "Epho",
-      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
+      "title": "Lynqo",
+      "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
       "tagline": "",
-      "pub_date": "2026-08-20T08:33:36-07:00"
+      "pub_date": "2026-08-20T10:40:39-07:00"
     },
     {
       "title": "Outlook Google Calendar Sync for Mac",
@@ -167,10 +230,10 @@
       "pub_date": "2026-08-20T20:43:53-07:00"
     },
     {
-      "title": "OneCLI",
-      "url": "https://www.producthunt.com/products/onecli",
+      "title": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
       "tagline": "",
-      "pub_date": "2026-08-19T00:59:04-07:00"
+      "pub_date": "2026-08-21T00:04:00-07:00"
     },
     {
       "title": "Flunkey",
@@ -179,40 +242,10 @@
       "pub_date": "2026-08-20T11:50:24-07:00"
     },
     {
-      "title": "Local",
-      "url": "https://www.producthunt.com/products/local-7",
-      "tagline": "",
-      "pub_date": "2026-08-19T18:43:17-07:00"
-    },
-    {
       "title": "Actx0",
       "url": "https://www.producthunt.com/products/actx0",
       "tagline": "",
       "pub_date": "2026-08-19T15:00:59-07:00"
-    },
-    {
-      "title": "Antigravity IDE Extensions",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "tagline": "",
-      "pub_date": "2026-08-20T23:58:44-07:00"
-    },
-    {
-      "title": "fx (by Vercel)",
-      "url": "https://www.producthunt.com/products/fx-by-vercel",
-      "tagline": "",
-      "pub_date": "2026-08-20T01:24:52-07:00"
-    },
-    {
-      "title": "Dockhand",
-      "url": "https://www.producthunt.com/products/dockhand",
-      "tagline": "",
-      "pub_date": "2026-08-20T05:06:37-07:00"
-    },
-    {
-      "title": "Supernova",
-      "url": "https://www.producthunt.com/products/supernova-ai",
-      "tagline": "",
-      "pub_date": "2026-08-11T07:58:45-07:00"
     },
     {
       "title": "Surfdeck",
@@ -221,28 +254,16 @@
       "pub_date": "2026-08-19T15:40:36-07:00"
     },
     {
+      "title": "Local",
+      "url": "https://www.producthunt.com/products/local-7",
+      "tagline": "",
+      "pub_date": "2026-08-19T18:43:17-07:00"
+    },
+    {
       "title": "Plow Latch",
       "url": "https://www.producthunt.com/products/plow-latch",
       "tagline": "",
       "pub_date": "2026-08-19T16:12:47-07:00"
-    },
-    {
-      "title": "Lynqo",
-      "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
-      "tagline": "",
-      "pub_date": "2026-08-20T10:40:39-07:00"
-    },
-    {
-      "title": "PixelRead AI OCR",
-      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
-      "tagline": "",
-      "pub_date": "2026-08-20T14:21:51-07:00"
-    },
-    {
-      "title": "Lifelong",
-      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
-      "tagline": "",
-      "pub_date": "2026-08-19T20:03:33-07:00"
     },
     {
       "title": "Roveri",
@@ -293,16 +314,22 @@
       "pub_date": "2026-08-19T16:56:11-07:00"
     },
     {
-      "title": "Aloud",
-      "url": "https://www.producthunt.com/products/aloud-4",
+      "title": "Lifelong",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
       "tagline": "",
-      "pub_date": "2026-08-19T14:07:11-07:00"
+      "pub_date": "2026-08-19T20:03:33-07:00"
     },
     {
-      "title": "Checksum AI",
-      "url": "https://www.producthunt.com/products/checksum-ai",
+      "title": "NobodyWho",
+      "url": "https://www.producthunt.com/products/nobodywho",
       "tagline": "",
-      "pub_date": "2026-08-10T07:43:32-07:00"
+      "pub_date": "2026-08-19T02:35:50-07:00"
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "tagline": "",
+      "pub_date": "2026-08-19T07:26:08-07:00"
     }
   ]
 }

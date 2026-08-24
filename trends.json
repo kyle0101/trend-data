@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-08-23T18:17:37.986Z",
+  "generated_at": "2026-08-24T00:50:49.406Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
-    {
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "url": "https://www.soverybright.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49402521",
-      "points": 64,
-      "comments": 85,
-      "created_ts": 1787424183,
-      "author": "telecuda"
-    },
     {
       "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
       "url": "https://skylens.yantraai.app/",
@@ -60,15 +51,6 @@
       "author": "userbinator"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49402781",
-      "points": 139,
-      "comments": 32,
-      "created_ts": 1787425666,
-      "author": "gnyeki"
-    },
-    {
       "title": "The Art and Beauty of Blade Runner (2015)",
       "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
       "hn_url": "https://news.ycombinator.com/item?id=49405331",
@@ -76,15 +58,6 @@
       "comments": 68,
       "created_ts": 1787446563,
       "author": "cocacola1"
-    },
-    {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "hn_url": "https://news.ycombinator.com/item?id=49404380",
-      "points": 127,
-      "comments": 31,
-      "created_ts": 1787436867,
-      "author": "stared"
     },
     {
       "title": "JIT Compiling Code in 5μs",
@@ -104,24 +77,6 @@
       "pub_date": "2026-08-16T03:41:15-07:00"
     },
     {
-      "title": "Yattayo",
-      "url": "https://www.producthunt.com/products/yattayo",
-      "tagline": "",
-      "pub_date": "2026-08-16T18:36:09-07:00"
-    },
-    {
-      "title": "Plask",
-      "url": "https://www.producthunt.com/products/plask-3",
-      "tagline": "",
-      "pub_date": "2026-08-18T14:46:27-07:00"
-    },
-    {
-      "title": "FetchSandbox MCP",
-      "url": "https://www.producthunt.com/products/fetchsandbox",
-      "tagline": "",
-      "pub_date": "2026-08-14T14:18:26-07:00"
-    },
-    {
       "title": "Local Music Organizer for Mac",
       "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
       "tagline": "",
@@ -132,12 +87,6 @@
       "url": "https://www.producthunt.com/products/claude-academy",
       "tagline": "",
       "pub_date": "2026-08-20T17:47:05-07:00"
-    },
-    {
-      "title": "Aximote",
-      "url": "https://www.producthunt.com/products/aximote",
-      "tagline": "",
-      "pub_date": "2026-08-08T00:06:40-07:00"
     },
     {
       "title": "Flown",
@@ -152,22 +101,34 @@
       "pub_date": "2026-08-19T19:28:21-07:00"
     },
     {
-      "title": "Construct Computer",
-      "url": "https://www.producthunt.com/products/construct-computer",
-      "tagline": "",
-      "pub_date": "2026-07-01T22:08:02-07:00"
-    },
-    {
       "title": "KanaSensei",
       "url": "https://www.producthunt.com/products/kanasensei",
       "tagline": "",
       "pub_date": "2026-08-20T12:24:28-07:00"
     },
     {
-      "title": "ANCBuddy for Bose QC Ultra",
-      "url": "https://www.producthunt.com/products/ancbuddy-for-bose-qc-ultra",
+      "title": "Plask",
+      "url": "https://www.producthunt.com/products/plask-3",
       "tagline": "",
-      "pub_date": "2026-07-13T03:52:01-07:00"
+      "pub_date": "2026-08-18T14:46:27-07:00"
+    },
+    {
+      "title": "FetchSandbox MCP",
+      "url": "https://www.producthunt.com/products/fetchsandbox",
+      "tagline": "",
+      "pub_date": "2026-08-14T14:18:26-07:00"
+    },
+    {
+      "title": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
+      "tagline": "",
+      "pub_date": "2026-07-01T22:08:02-07:00"
+    },
+    {
+      "title": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "tagline": "",
+      "pub_date": "2026-08-16T18:36:09-07:00"
     },
     {
       "title": "OpenLogi",
@@ -176,16 +137,34 @@
       "pub_date": "2026-08-22T10:13:58-07:00"
     },
     {
+      "title": "Aximote",
+      "url": "https://www.producthunt.com/products/aximote",
+      "tagline": "",
+      "pub_date": "2026-08-08T00:06:40-07:00"
+    },
+    {
+      "title": "ANCBuddy for Bose QC Ultra",
+      "url": "https://www.producthunt.com/products/ancbuddy-for-bose-qc-ultra",
+      "tagline": "",
+      "pub_date": "2026-07-13T03:52:01-07:00"
+    },
+    {
+      "title": "Port Radar for macOS",
+      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "tagline": "",
+      "pub_date": "2026-08-21T13:35:10-07:00"
+    },
+    {
       "title": "SubtitleGenerator",
       "url": "https://www.producthunt.com/products/subtitlegenerator",
       "tagline": "",
       "pub_date": "2026-08-15T00:15:03-07:00"
     },
     {
-      "title": "Pocket by Meta",
-      "url": "https://www.producthunt.com/products/pocket-by-meta",
+      "title": "AutoClaw",
+      "url": "https://www.producthunt.com/products/z-ai",
       "tagline": "",
-      "pub_date": "2026-08-20T20:32:59-07:00"
+      "pub_date": "2026-08-21T09:04:14-07:00"
     },
     {
       "title": "Toplify",
@@ -194,10 +173,10 @@
       "pub_date": "2026-07-29T00:50:54-07:00"
     },
     {
-      "title": "Port Radar for macOS",
-      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "title": "Pocket by Meta",
+      "url": "https://www.producthunt.com/products/pocket-by-meta",
       "tagline": "",
-      "pub_date": "2026-08-21T13:35:10-07:00"
+      "pub_date": "2026-08-20T20:32:59-07:00"
     },
     {
       "title": "Open Analytics",
@@ -218,12 +197,6 @@
       "pub_date": "2026-08-20T02:01:53-07:00"
     },
     {
-      "title": "AutoClaw",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "tagline": "",
-      "pub_date": "2026-08-21T09:04:14-07:00"
-    },
-    {
       "title": "VeloFiler",
       "url": "https://www.producthunt.com/products/velofiler",
       "tagline": "",
@@ -236,16 +209,28 @@
       "pub_date": "2026-08-14T05:09:11-07:00"
     },
     {
+      "title": "Maccess",
+      "url": "https://www.producthunt.com/products/maccess",
+      "tagline": "",
+      "pub_date": "2026-08-17T23:01:22-07:00"
+    },
+    {
       "title": "KerasFormers",
       "url": "https://www.producthunt.com/products/kerasformers",
       "tagline": "",
       "pub_date": "2026-08-20T14:13:37-07:00"
     },
     {
-      "title": "Maccess",
-      "url": "https://www.producthunt.com/products/maccess",
+      "title": "PixelRead AI OCR",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
       "tagline": "",
-      "pub_date": "2026-08-17T23:01:22-07:00"
+      "pub_date": "2026-08-20T14:21:51-07:00"
+    },
+    {
+      "title": "Project SKY",
+      "url": "https://www.producthunt.com/products/project-sky",
+      "tagline": "",
+      "pub_date": "2026-08-20T20:43:53-07:00"
     },
     {
       "title": "Outlook Google Calendar Sync for Mac",
@@ -264,18 +249,6 @@
       "url": "https://www.producthunt.com/products/actx0",
       "tagline": "",
       "pub_date": "2026-08-19T15:00:59-07:00"
-    },
-    {
-      "title": "Mindcase",
-      "url": "https://www.producthunt.com/products/mindcase",
-      "tagline": "",
-      "pub_date": "2026-08-14T16:56:00-07:00"
-    },
-    {
-      "title": "Flunkey",
-      "url": "https://www.producthunt.com/products/flunkey",
-      "tagline": "",
-      "pub_date": "2026-08-20T11:50:24-07:00"
     }
   ]
 }

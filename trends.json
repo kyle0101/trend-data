@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:50:49.406Z",
+  "generated_at": "2026-08-24T06:40:25.749Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -15,15 +15,6 @@
   ],
   "hn_front": [
     {
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49405870",
-      "points": 316,
-      "comments": 208,
-      "created_ts": 1787455945,
-      "author": "andsoitis"
-    },
-    {
       "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
       "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
       "hn_url": "https://news.ycombinator.com/item?id=49407507",
@@ -31,68 +22,20 @@
       "comments": 80,
       "created_ts": 1787479371,
       "author": "raybb"
-    },
-    {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=49405816",
-      "points": 154,
-      "comments": 55,
-      "created_ts": 1787454796,
-      "author": "boilerupnc"
-    },
-    {
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "hn_url": "https://news.ycombinator.com/item?id=49406333",
-      "points": 143,
-      "comments": 57,
-      "created_ts": 1787464261,
-      "author": "userbinator"
-    },
-    {
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "hn_url": "https://news.ycombinator.com/item?id=49405331",
-      "points": 136,
-      "comments": 68,
-      "created_ts": 1787446563,
-      "author": "cocacola1"
-    },
-    {
-      "title": "JIT Compiling Code in 5μs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "hn_url": "https://news.ycombinator.com/item?id=49406387",
-      "points": 123,
-      "comments": 78,
-      "created_ts": 1787465091,
-      "author": "zX41ZdbW"
     }
   ],
   "ph_today": [
+    {
+      "title": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "tagline": "",
+      "pub_date": "2026-08-16T18:36:09-07:00"
+    },
     {
       "title": "Tab Notes",
       "url": "https://www.producthunt.com/products/tab-notes",
       "tagline": "",
       "pub_date": "2026-08-16T03:41:15-07:00"
-    },
-    {
-      "title": "Local Music Organizer for Mac",
-      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
-      "tagline": "",
-      "pub_date": "2026-07-29T00:22:30-07:00"
-    },
-    {
-      "title": "Claude Academy",
-      "url": "https://www.producthunt.com/products/claude-academy",
-      "tagline": "",
-      "pub_date": "2026-08-20T17:47:05-07:00"
-    },
-    {
-      "title": "Flown",
-      "url": "https://www.producthunt.com/products/flown",
-      "tagline": "",
-      "pub_date": "2026-07-26T09:49:36-07:00"
     },
     {
       "title": "Yatko",
@@ -101,34 +44,22 @@
       "pub_date": "2026-08-19T19:28:21-07:00"
     },
     {
-      "title": "KanaSensei",
-      "url": "https://www.producthunt.com/products/kanasensei",
-      "tagline": "",
-      "pub_date": "2026-08-20T12:24:28-07:00"
-    },
-    {
       "title": "Plask",
       "url": "https://www.producthunt.com/products/plask-3",
       "tagline": "",
       "pub_date": "2026-08-18T14:46:27-07:00"
     },
     {
+      "title": "Flown",
+      "url": "https://www.producthunt.com/products/flown",
+      "tagline": "",
+      "pub_date": "2026-07-26T09:49:36-07:00"
+    },
+    {
       "title": "FetchSandbox MCP",
       "url": "https://www.producthunt.com/products/fetchsandbox",
       "tagline": "",
       "pub_date": "2026-08-14T14:18:26-07:00"
-    },
-    {
-      "title": "Construct Computer",
-      "url": "https://www.producthunt.com/products/construct-computer",
-      "tagline": "",
-      "pub_date": "2026-07-01T22:08:02-07:00"
-    },
-    {
-      "title": "Yattayo",
-      "url": "https://www.producthunt.com/products/yattayo",
-      "tagline": "",
-      "pub_date": "2026-08-16T18:36:09-07:00"
     },
     {
       "title": "OpenLogi",
@@ -143,34 +74,46 @@
       "pub_date": "2026-08-08T00:06:40-07:00"
     },
     {
+      "title": "Claude Academy",
+      "url": "https://www.producthunt.com/products/claude-academy",
+      "tagline": "",
+      "pub_date": "2026-08-20T17:47:05-07:00"
+    },
+    {
+      "title": "KanaSensei",
+      "url": "https://www.producthunt.com/products/kanasensei",
+      "tagline": "",
+      "pub_date": "2026-08-20T12:24:28-07:00"
+    },
+    {
       "title": "ANCBuddy for Bose QC Ultra",
       "url": "https://www.producthunt.com/products/ancbuddy-for-bose-qc-ultra",
       "tagline": "",
       "pub_date": "2026-07-13T03:52:01-07:00"
     },
     {
-      "title": "Port Radar for macOS",
-      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "title": "Local Music Organizer for Mac",
+      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
       "tagline": "",
-      "pub_date": "2026-08-21T13:35:10-07:00"
+      "pub_date": "2026-07-29T00:22:30-07:00"
     },
     {
-      "title": "SubtitleGenerator",
-      "url": "https://www.producthunt.com/products/subtitlegenerator",
+      "title": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
       "tagline": "",
-      "pub_date": "2026-08-15T00:15:03-07:00"
+      "pub_date": "2026-07-01T22:08:02-07:00"
     },
     {
-      "title": "AutoClaw",
-      "url": "https://www.producthunt.com/products/z-ai",
+      "title": "VeloFiler",
+      "url": "https://www.producthunt.com/products/velofiler",
       "tagline": "",
-      "pub_date": "2026-08-21T09:04:14-07:00"
+      "pub_date": "2026-08-18T16:35:36-07:00"
     },
     {
-      "title": "Toplify",
-      "url": "https://www.producthunt.com/products/toplify",
+      "title": "Zero",
+      "url": "https://www.producthunt.com/products/zero-15",
       "tagline": "",
-      "pub_date": "2026-07-29T00:50:54-07:00"
+      "pub_date": "2026-08-20T02:01:53-07:00"
     },
     {
       "title": "Pocket by Meta",
@@ -185,22 +128,34 @@
       "pub_date": "2026-08-21T08:08:16-07:00"
     },
     {
+      "title": "SubtitleGenerator",
+      "url": "https://www.producthunt.com/products/subtitlegenerator",
+      "tagline": "",
+      "pub_date": "2026-08-15T00:15:03-07:00"
+    },
+    {
+      "title": "Port Radar for macOS",
+      "url": "https://www.producthunt.com/products/port-radar-for-macos",
+      "tagline": "",
+      "pub_date": "2026-08-21T13:35:10-07:00"
+    },
+    {
+      "title": "AutoClaw",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "tagline": "",
+      "pub_date": "2026-08-21T09:04:14-07:00"
+    },
+    {
       "title": "Pawvis",
       "url": "https://www.producthunt.com/products/pawvis",
       "tagline": "",
       "pub_date": "2026-08-09T16:36:50-07:00"
     },
     {
-      "title": "Zero",
-      "url": "https://www.producthunt.com/products/zero-15",
+      "title": "Toplify",
+      "url": "https://www.producthunt.com/products/toplify",
       "tagline": "",
-      "pub_date": "2026-08-20T02:01:53-07:00"
-    },
-    {
-      "title": "VeloFiler",
-      "url": "https://www.producthunt.com/products/velofiler",
-      "tagline": "",
-      "pub_date": "2026-08-18T16:35:36-07:00"
+      "pub_date": "2026-07-29T00:50:54-07:00"
     },
     {
       "title": "Agents Never Sleep",
@@ -209,16 +164,28 @@
       "pub_date": "2026-08-14T05:09:11-07:00"
     },
     {
+      "title": "KerasFormers",
+      "url": "https://www.producthunt.com/products/kerasformers",
+      "tagline": "",
+      "pub_date": "2026-08-20T14:13:37-07:00"
+    },
+    {
       "title": "Maccess",
       "url": "https://www.producthunt.com/products/maccess",
       "tagline": "",
       "pub_date": "2026-08-17T23:01:22-07:00"
     },
     {
-      "title": "KerasFormers",
-      "url": "https://www.producthunt.com/products/kerasformers",
+      "title": "Epho",
+      "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
       "tagline": "",
-      "pub_date": "2026-08-20T14:13:37-07:00"
+      "pub_date": "2026-08-20T08:33:36-07:00"
+    },
+    {
+      "title": "Antigravity IDE Extensions",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "tagline": "",
+      "pub_date": "2026-08-20T23:58:44-07:00"
     },
     {
       "title": "PixelRead AI OCR",
@@ -227,28 +194,16 @@
       "pub_date": "2026-08-20T14:21:51-07:00"
     },
     {
-      "title": "Project SKY",
-      "url": "https://www.producthunt.com/products/project-sky",
+      "title": "fx (by Vercel)",
+      "url": "https://www.producthunt.com/products/fx-by-vercel",
       "tagline": "",
-      "pub_date": "2026-08-20T20:43:53-07:00"
+      "pub_date": "2026-08-20T01:24:52-07:00"
     },
     {
-      "title": "Outlook Google Calendar Sync for Mac",
-      "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
+      "title": "Wizstar",
+      "url": "https://www.producthunt.com/products/wizstar",
       "tagline": "",
-      "pub_date": "2026-06-27T16:04:37-07:00"
-    },
-    {
-      "title": "Dockhand",
-      "url": "https://www.producthunt.com/products/dockhand",
-      "tagline": "",
-      "pub_date": "2026-08-20T05:06:37-07:00"
-    },
-    {
-      "title": "Actx0",
-      "url": "https://www.producthunt.com/products/actx0",
-      "tagline": "",
-      "pub_date": "2026-08-19T15:00:59-07:00"
+      "pub_date": "2026-08-20T08:05:01-07:00"
     }
   ]
 }

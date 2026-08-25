@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:50:28.127Z",
+  "generated_at": "2026-08-25T06:32:45.189Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
       "url": "https://ssx360.github.io/rack-02/?src=hn",
       "hn_url": "https://news.ycombinator.com/item?id=49419351",
-      "points": 158,
-      "comments": 29,
+      "points": 188,
+      "comments": 35,
       "created_ts": 1787577431,
       "author": "ssx360"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
       "url": "https://picomq.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49421806",
-      "points": 91,
-      "comments": 17,
+      "points": 112,
+      "comments": 20,
       "created_ts": 1787587697,
       "author": "adesh_nalpet"
     },
@@ -25,46 +25,55 @@
       "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
       "url": "https://glassbox.codecanary.org",
       "hn_url": "https://news.ycombinator.com/item?id=49421948",
-      "points": 88,
-      "comments": 42,
+      "points": 105,
+      "comments": 50,
       "created_ts": 1787588110,
       "author": "tke248"
+    },
+    {
+      "title": "Show HN: How to mentally calculate the day of the week for any date",
+      "url": "https://tinkerandsee.com/weekday/",
+      "hn_url": "https://news.ycombinator.com/item?id=49420714",
+      "points": 60,
+      "comments": 14,
+      "created_ts": 1787583465,
+      "author": "yang140"
     },
     {
       "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
       "url": "https://github.com/getkern/kern",
       "hn_url": "https://news.ycombinator.com/item?id=49423927",
-      "points": 48,
+      "points": 57,
       "comments": 6,
       "created_ts": 1787595899,
       "author": "realexweb"
     },
     {
-      "title": "Show HN: How to Mentally Calculate the Day of the Week for Any Date",
-      "url": "https://tinkerandsee.com/weekday/",
-      "hn_url": "https://news.ycombinator.com/item?id=49420714",
-      "points": 33,
-      "comments": 7,
-      "created_ts": 1787583465,
-      "author": "yang140"
+      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+      "url": "https://github.com/ovenpasta/adi2",
+      "hn_url": "https://news.ycombinator.com/item?id=49422243",
+      "points": 41,
+      "comments": 15,
+      "created_ts": 1787589051,
+      "author": "ovenpasta"
     },
     {
       "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
       "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
       "hn_url": "https://news.ycombinator.com/item?id=49417684",
-      "points": 26,
-      "comments": 9,
+      "points": 28,
+      "comments": 12,
       "created_ts": 1787566683,
       "author": "NN708"
     },
     {
-      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-      "url": "https://github.com/ovenpasta/adi2",
-      "hn_url": "https://news.ycombinator.com/item?id=49422243",
-      "points": 25,
-      "comments": 14,
-      "created_ts": 1787589051,
-      "author": "ovenpasta"
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "hn_url": "https://news.ycombinator.com/item?id=49429095",
+      "points": 20,
+      "comments": 4,
+      "created_ts": 1787632404,
+      "author": "Dramatize"
     },
     {
       "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
@@ -76,22 +85,40 @@
       "author": "jesse_portal"
     },
     {
+      "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+      "url": "https://www.lpulite.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49423735",
+      "points": 15,
+      "comments": 1,
+      "created_ts": 1787595090,
+      "author": "sakshambatraa"
+    },
+    {
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
+      "hn_url": "https://news.ycombinator.com/item?id=49423371",
+      "points": 13,
+      "comments": 7,
+      "created_ts": 1787593497,
+      "author": "cgnry"
+    },
+    {
       "title": "Show HN: Tblue – 614 passive security scanners for any website, runs locally",
       "url": "https://github.com/taylannuhogluofficial-png/Tblue",
       "hn_url": "https://news.ycombinator.com/item?id=49420650",
-      "points": 11,
-      "comments": 2,
+      "points": 13,
+      "comments": 3,
       "created_ts": 1787583202,
       "author": "taylannuhoglu"
     },
     {
-      "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
-      "url": "https://www.lpulite.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49423735",
-      "points": 11,
-      "comments": 1,
-      "created_ts": 1787595090,
-      "author": "sakshambatraa"
+      "title": "Show HN: My Emacs Zero to IDE Journey",
+      "url": "https://github.com/KallDrexx/emacs-zero-to-ide-journey/blob/main/README.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49420055",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1787580655,
+      "author": "KallDrexx"
     }
   ],
   "hn_front": [
@@ -99,8 +126,8 @@
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "hn_url": "https://news.ycombinator.com/item?id=49419237",
-      "points": 1037,
-      "comments": 649,
+      "points": 1202,
+      "comments": 714,
       "created_ts": 1787576725,
       "author": "l-one-lone"
     },
@@ -108,8 +135,8 @@
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "hn_url": "https://news.ycombinator.com/item?id=49420873",
-      "points": 713,
-      "comments": 477,
+      "points": 808,
+      "comments": 567,
       "created_ts": 1787584097,
       "author": "tosh"
     },
@@ -117,135 +144,117 @@
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "hn_url": "https://news.ycombinator.com/item?id=49421158",
-      "points": 544,
-      "comments": 218,
+      "points": 656,
+      "comments": 263,
       "created_ts": 1787585284,
       "author": "ComputerGuru"
-    },
-    {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "hn_url": "https://news.ycombinator.com/item?id=49421554",
-      "points": 446,
-      "comments": 448,
-      "created_ts": 1787586753,
-      "author": "larsfaye"
-    },
-    {
-      "title": "Oceans hit highest temperature on record",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "hn_url": "https://news.ycombinator.com/item?id=49424606",
-      "points": 385,
-      "comments": 272,
-      "created_ts": 1787599148,
-      "author": "tcp_handshaker"
     },
     {
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
       "hn_url": "https://news.ycombinator.com/item?id=49422784",
-      "points": 325,
-      "comments": 114,
+      "points": 417,
+      "comments": 132,
       "created_ts": 1787591138,
       "author": "centrosphere"
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "hn_url": "https://news.ycombinator.com/item?id=49421489",
-      "points": 317,
-      "comments": 162,
-      "created_ts": 1787586525,
-      "author": "iand"
-    },
-    {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "hn_url": "https://news.ycombinator.com/item?id=49421074",
-      "points": 287,
-      "comments": 262,
-      "created_ts": 1787584963,
-      "author": "tosh"
     },
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "hn_url": "https://news.ycombinator.com/item?id=49426564",
-      "points": 185,
-      "comments": 38,
+      "points": 377,
+      "comments": 99,
       "created_ts": 1787609620,
       "author": "K7PJP"
-    },
-    {
-      "title": "SeL4 security proofs now complete on AArch64",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "hn_url": "https://news.ycombinator.com/item?id=49418255",
-      "points": 170,
-      "comments": 38,
-      "created_ts": 1787571171,
-      "author": "snvzz"
     },
     {
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
       "hn_url": "https://news.ycombinator.com/item?id=49421536",
-      "points": 163,
-      "comments": 63,
+      "points": 208,
+      "comments": 101,
       "created_ts": 1787586691,
       "author": "inputmice"
-    },
-    {
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "hn_url": "https://news.ycombinator.com/item?id=49419351",
-      "points": 158,
-      "comments": 29,
-      "created_ts": 1787577431,
-      "author": "ssx360"
     },
     {
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
       "hn_url": "https://news.ycombinator.com/item?id=49422800",
-      "points": 139,
-      "comments": 289,
+      "points": 207,
+      "comments": 471,
       "created_ts": 1787591221,
       "author": "herbertl"
     },
     {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "hn_url": "https://news.ycombinator.com/item?id=49425819",
-      "points": 115,
-      "comments": 90,
-      "created_ts": 1787605386,
-      "author": "related"
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "hn_url": "https://news.ycombinator.com/item?id=49418255",
+      "points": 181,
+      "comments": 39,
+      "created_ts": 1787571171,
+      "author": "snvzz"
+    },
+    {
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "hn_url": "https://news.ycombinator.com/item?id=49426466",
+      "points": 146,
+      "comments": 28,
+      "created_ts": 1787609162,
+      "author": "simonebrunozzi"
+    },
+    {
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "hn_url": "https://news.ycombinator.com/item?id=49423539",
+      "points": 128,
+      "comments": 93,
+      "created_ts": 1787594233,
+      "author": "bookofjoe"
+    },
+    {
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "hn_url": "https://news.ycombinator.com/item?id=49420530",
+      "points": 127,
+      "comments": 70,
+      "created_ts": 1787582695,
+      "author": "brandonb"
+    },
+    {
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "hn_url": "https://news.ycombinator.com/item?id=49424387",
+      "points": 124,
+      "comments": 60,
+      "created_ts": 1787598186,
+      "author": "zdw"
     }
   ],
   "ph_today": [
     {
-      "title": "IFAH",
-      "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+      "title": "Offloop",
+      "url": "https://www.producthunt.com/products/offloop",
       "tagline": "",
-      "pub_date": "2026-08-23T09:44:19-07:00"
+      "pub_date": "2026-08-22T08:50:38-07:00"
     },
     {
-      "title": "Cortex by SKYNETLAB",
-      "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
+      "title": "Localdock",
+      "url": "https://www.producthunt.com/products/localdock",
       "tagline": "",
-      "pub_date": "2026-08-23T04:18:32-07:00"
+      "pub_date": "2026-08-23T04:54:19-07:00"
     },
     {
-      "title": "Destiny Rings",
-      "url": "https://www.producthunt.com/products/destiny-rings",
+      "title": "Contrive",
+      "url": "https://www.producthunt.com/products/contrive",
       "tagline": "",
-      "pub_date": "2026-08-19T19:09:37-07:00"
+      "pub_date": "2026-08-23T01:19:57-07:00"
     },
     {
-      "title": "Lucid Train",
-      "url": "https://www.producthunt.com/products/lucid-train",
+      "title": "Decawork",
+      "url": "https://www.producthunt.com/products/decawork",
       "tagline": "",
-      "pub_date": "2026-08-23T10:08:08-07:00"
+      "pub_date": "2026-08-22T22:41:57-07:00"
     },
     {
       "title": "Trama",
@@ -254,10 +263,46 @@
       "pub_date": "2026-08-22T12:15:06-07:00"
     },
     {
-      "title": "Antigravity Remote Control",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "Destiny Rings",
+      "url": "https://www.producthunt.com/products/destiny-rings",
       "tagline": "",
-      "pub_date": "2026-08-23T22:00:08-07:00"
+      "pub_date": "2026-08-19T19:09:37-07:00"
+    },
+    {
+      "title": "Phoenix",
+      "url": "https://www.producthunt.com/products/phoenix-10",
+      "tagline": "",
+      "pub_date": "2026-08-20T02:32:29-07:00"
+    },
+    {
+      "title": "IFAH",
+      "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+      "tagline": "",
+      "pub_date": "2026-08-23T09:44:19-07:00"
+    },
+    {
+      "title": "PaymentKit",
+      "url": "https://www.producthunt.com/products/paymentkit",
+      "tagline": "",
+      "pub_date": "2026-08-20T08:10:48-07:00"
+    },
+    {
+      "title": "Treebar",
+      "url": "https://www.producthunt.com/products/treebar-where-is-codex",
+      "tagline": "",
+      "pub_date": "2026-08-23T09:03:52-07:00"
+    },
+    {
+      "title": "Cortex by SKYNETLAB",
+      "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
+      "tagline": "",
+      "pub_date": "2026-08-23T04:18:32-07:00"
+    },
+    {
+      "title": "Lucid Train",
+      "url": "https://www.producthunt.com/products/lucid-train",
+      "tagline": "",
+      "pub_date": "2026-08-23T10:08:08-07:00"
     },
     {
       "title": "Bumply",
@@ -272,40 +317,16 @@
       "pub_date": "2026-08-23T06:07:55-07:00"
     },
     {
-      "title": "Localdock",
-      "url": "https://www.producthunt.com/products/localdock",
-      "tagline": "",
-      "pub_date": "2026-08-23T04:54:19-07:00"
-    },
-    {
-      "title": "Treebar",
-      "url": "https://www.producthunt.com/products/treebar-where-is-codex",
-      "tagline": "",
-      "pub_date": "2026-08-23T09:03:52-07:00"
-    },
-    {
       "title": "Navigara",
       "url": "https://www.producthunt.com/products/navigara",
       "tagline": "",
       "pub_date": "2026-08-13T15:04:24-07:00"
     },
     {
-      "title": "PaymentKit",
-      "url": "https://www.producthunt.com/products/paymentkit",
+      "title": "Antigravity Remote Control",
+      "url": "https://www.producthunt.com/products/google-antigravity",
       "tagline": "",
-      "pub_date": "2026-08-20T08:10:48-07:00"
-    },
-    {
-      "title": "Offloop",
-      "url": "https://www.producthunt.com/products/offloop",
-      "tagline": "",
-      "pub_date": "2026-08-22T08:50:38-07:00"
-    },
-    {
-      "title": "Decawork",
-      "url": "https://www.producthunt.com/products/decawork",
-      "tagline": "",
-      "pub_date": "2026-08-22T22:41:57-07:00"
+      "pub_date": "2026-08-23T22:00:08-07:00"
     },
     {
       "title": "Dropstone",
@@ -314,28 +335,22 @@
       "pub_date": "2026-08-23T10:33:30-07:00"
     },
     {
-      "title": "Phoenix",
-      "url": "https://www.producthunt.com/products/phoenix-10",
-      "tagline": "",
-      "pub_date": "2026-08-20T02:32:29-07:00"
-    },
-    {
-      "title": "Contrive",
-      "url": "https://www.producthunt.com/products/contrive",
-      "tagline": "",
-      "pub_date": "2026-08-23T01:19:57-07:00"
-    },
-    {
       "title": "Wavepocket ▶︎•၊||၊||။၊|။",
       "url": "https://www.producthunt.com/products/wavepocket-free-ios-app",
       "tagline": "",
       "pub_date": "2026-08-23T15:52:00-07:00"
     },
     {
-      "title": "Tab Notes",
-      "url": "https://www.producthunt.com/products/tab-notes",
+      "title": "Aximote",
+      "url": "https://www.producthunt.com/products/aximote",
       "tagline": "",
-      "pub_date": "2026-08-16T03:41:15-07:00"
+      "pub_date": "2026-08-08T00:06:40-07:00"
+    },
+    {
+      "title": "Claude Academy",
+      "url": "https://www.producthunt.com/products/claude-academy",
+      "tagline": "",
+      "pub_date": "2026-08-20T17:47:05-07:00"
     },
     {
       "title": "Local Music Organizer for Mac",
@@ -344,10 +359,10 @@
       "pub_date": "2026-07-29T00:22:30-07:00"
     },
     {
-      "title": "Construct Computer",
-      "url": "https://www.producthunt.com/products/construct-computer",
+      "title": "Tab Notes",
+      "url": "https://www.producthunt.com/products/tab-notes",
       "tagline": "",
-      "pub_date": "2026-07-01T22:08:02-07:00"
+      "pub_date": "2026-08-16T03:41:15-07:00"
     },
     {
       "title": "Plask",
@@ -356,10 +371,28 @@
       "pub_date": "2026-08-18T14:46:27-07:00"
     },
     {
-      "title": "Aximote",
-      "url": "https://www.producthunt.com/products/aximote",
+      "title": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
       "tagline": "",
-      "pub_date": "2026-08-08T00:06:40-07:00"
+      "pub_date": "2026-07-01T22:08:02-07:00"
+    },
+    {
+      "title": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "tagline": "",
+      "pub_date": "2026-08-16T18:36:09-07:00"
+    },
+    {
+      "title": "FetchSandbox MCP",
+      "url": "https://www.producthunt.com/products/fetchsandbox",
+      "tagline": "",
+      "pub_date": "2026-08-14T14:18:26-07:00"
+    },
+    {
+      "title": "OpenLogi",
+      "url": "https://www.producthunt.com/products/openlogi",
+      "tagline": "",
+      "pub_date": "2026-08-22T10:13:58-07:00"
     },
     {
       "title": "KanaSensei",
@@ -378,30 +411,6 @@
       "url": "https://www.producthunt.com/products/flown",
       "tagline": "",
       "pub_date": "2026-07-26T09:49:36-07:00"
-    },
-    {
-      "title": "Yatko",
-      "url": "https://www.producthunt.com/products/yatko",
-      "tagline": "",
-      "pub_date": "2026-08-19T19:28:21-07:00"
-    },
-    {
-      "title": "OpenLogi",
-      "url": "https://www.producthunt.com/products/openlogi",
-      "tagline": "",
-      "pub_date": "2026-08-22T10:13:58-07:00"
-    },
-    {
-      "title": "Claude Academy",
-      "url": "https://www.producthunt.com/products/claude-academy",
-      "tagline": "",
-      "pub_date": "2026-08-20T17:47:05-07:00"
-    },
-    {
-      "title": "FetchSandbox MCP",
-      "url": "https://www.producthunt.com/products/fetchsandbox",
-      "tagline": "",
-      "pub_date": "2026-08-14T14:18:26-07:00"
     }
   ]
 }

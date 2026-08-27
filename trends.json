@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-08-26T19:38:46.102Z",
+  "generated_at": "2026-08-27T06:29:04.578Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "hn_url": "https://news.ycombinator.com/item?id=49441375",
-      "points": 114,
-      "comments": 27,
-      "created_ts": 1787695730,
-      "author": "swimmingbrain"
-    },
-    {
       "title": "Show HN: Buslens – where can I get to by bus? (UK)",
       "url": "https://rupertlinacre.com/buslens/",
       "hn_url": "https://news.ycombinator.com/item?id=49445286",
-      "points": 75,
+      "points": 77,
       "comments": 54,
       "created_ts": 1787729812,
       "author": "RobinL"
@@ -25,17 +16,62 @@
       "title": "Show HN: How much of Hacker News is about AI?",
       "url": "https://hnstats.com",
       "hn_url": "https://news.ycombinator.com/item?id=49449648",
-      "points": 65,
-      "comments": 39,
+      "points": 69,
+      "comments": 46,
       "created_ts": 1787753765,
       "author": "beekthos"
+    },
+    {
+      "title": "Show HN: Build your own theme park",
+      "url": "https://www.magicpatterns.com/theme-park",
+      "hn_url": "https://news.ycombinator.com/item?id=49452037",
+      "points": 43,
+      "comments": 18,
+      "created_ts": 1787762401,
+      "author": "thealexanderlee"
+    },
+    {
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "hn_url": "https://news.ycombinator.com/item?id=49455557",
+      "points": 27,
+      "comments": 4,
+      "created_ts": 1787776724,
+      "author": "CoolNamesAllTkn"
+    },
+    {
+      "title": "Show HN: Every push-up becomes an attack in a camera-counted RPG game",
+      "url": "https://pushup.quest/",
+      "hn_url": "https://news.ycombinator.com/item?id=49455695",
+      "points": 20,
+      "comments": 6,
+      "created_ts": 1787777328,
+      "author": "not_wowinter13"
+    },
+    {
+      "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+      "url": "https://github.com/SWUFE-DB-Group/TexLite",
+      "hn_url": "https://news.ycombinator.com/item?id=49450500",
+      "points": 20,
+      "comments": 0,
+      "created_ts": 1787756864,
+      "author": "thisispi"
+    },
+    {
+      "title": "Show HN: Prompt Builder – Free Templates",
+      "url": "https://www.promptbuilder.space/templates",
+      "hn_url": "https://news.ycombinator.com/item?id=49449363",
+      "points": 18,
+      "comments": 0,
+      "created_ts": 1787752864,
+      "author": "LandoLorinse"
     },
     {
       "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
       "url": "https://foresightplanner.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49452974",
       "points": 15,
-      "comments": 29,
+      "comments": 34,
       "created_ts": 1787766079,
       "author": "nhootan"
     },
@@ -49,13 +85,40 @@
       "author": "jettfu"
     },
     {
-      "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
-      "url": "https://github.com/SWUFE-DB-Group/TexLite",
-      "hn_url": "https://news.ycombinator.com/item?id=49450500",
-      "points": 14,
+      "title": "Show HN: Remap – bike routing that builds loops from the best roads, on-device",
+      "url": "https://remap.earth",
+      "hn_url": "https://news.ycombinator.com/item?id=49448085",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1787748268,
+      "author": "basil"
+    },
+    {
+      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+      "url": "https://github.com/apvcode/Termux-Dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49455537",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1787776632,
+      "author": "apvcode"
+    },
+    {
+      "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
+      "url": "https://timberreader.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49452794",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1787765326,
+      "author": "Fe2_O3"
+    },
+    {
+      "title": "Show HN: Bury.lol – a $2 pixel-art graveyard for things that died",
+      "url": "https://bury.lol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49450273",
+      "points": 11,
       "comments": 0,
-      "created_ts": 1787756864,
-      "author": "thisispi"
+      "created_ts": 1787756106,
+      "author": "alertcubes"
     }
   ],
   "hn_front": [
@@ -63,8 +126,8 @@
       "title": "AWS Acquires DuckLabs",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "hn_url": "https://news.ycombinator.com/item?id=49448321",
-      "points": 829,
-      "comments": 237,
+      "points": 1022,
+      "comments": 300,
       "created_ts": 1787749166,
       "author": "onderkalaci"
     },
@@ -72,180 +135,225 @@
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
       "hn_url": "https://news.ycombinator.com/item?id=49449507",
-      "points": 656,
-      "comments": 305,
+      "points": 964,
+      "comments": 492,
       "created_ts": 1787753330,
       "author": "Philpax"
     },
     {
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "hn_url": "https://news.ycombinator.com/item?id=49448210",
-      "points": 504,
-      "comments": 160,
-      "created_ts": 1787748732,
-      "author": "tosh"
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "hn_url": "https://news.ycombinator.com/item?id=49458161",
+      "points": 768,
+      "comments": 317,
+      "created_ts": 1787793175,
+      "author": "mfiguiere"
     },
     {
-      "title": "Meta reaches $17B settlement over social media harms to children",
-      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "hn_url": "https://news.ycombinator.com/item?id=49448819",
-      "points": 412,
-      "comments": 390,
-      "created_ts": 1787750912,
-      "author": "bhouston"
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "hn_url": "https://news.ycombinator.com/item?id=49452990",
+      "points": 531,
+      "comments": 96,
+      "created_ts": 1787766142,
+      "author": "nderjung"
     },
     {
-      "title": "Tim Curry has died",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-      "hn_url": "https://news.ycombinator.com/item?id=49451448",
-      "points": 381,
-      "comments": 139,
-      "created_ts": 1787760217,
-      "author": "mykowebhn"
-    },
-    {
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "hn_url": "https://news.ycombinator.com/item?id=49445727",
-      "points": 376,
-      "comments": 165,
-      "created_ts": 1787733557,
-      "author": "j0selit0"
-    },
-    {
-      "title": "Nebula Sans",
-      "url": "https://www.nebulasans.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49450448",
-      "points": 242,
-      "comments": 92,
-      "created_ts": 1787756632,
-      "author": "GavinAnderegg"
-    },
-    {
-      "title": "Disruption with Some GitHub Services",
-      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-      "hn_url": "https://news.ycombinator.com/item?id=49450722",
-      "points": 197,
-      "comments": 111,
-      "created_ts": 1787757580,
-      "author": "blimmer"
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "hn_url": "https://news.ycombinator.com/item?id=49452709",
+      "points": 428,
+      "comments": 644,
+      "created_ts": 1787764936,
+      "author": "sss111"
     },
     {
       "title": "Twitter Viewer – View Twitter Without Account",
       "url": "https://twitterwebviewer.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49449576",
-      "points": 192,
-      "comments": 93,
+      "points": 390,
+      "comments": 218,
       "created_ts": 1787753499,
       "author": "motownphilly"
     },
     {
-      "title": "Tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "hn_url": "https://news.ycombinator.com/item?id=49452990",
-      "points": 179,
-      "comments": 31,
-      "created_ts": 1787766142,
-      "author": "nderjung"
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49450448",
+      "points": 386,
+      "comments": 143,
+      "created_ts": 1787756632,
+      "author": "GavinAnderegg"
     },
     {
-      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "url": "https://farmaction.us/taylorfarmsreport/",
-      "hn_url": "https://news.ycombinator.com/item?id=49449749",
-      "points": 169,
-      "comments": 111,
-      "created_ts": 1787754104,
-      "author": "speckx"
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "hn_url": "https://news.ycombinator.com/item?id=49458418",
+      "points": 376,
+      "comments": 233,
+      "created_ts": 1787795182,
+      "author": "GrumpySciGuy"
     },
     {
       "title": "An ongoing 3D-printer AGPL violation",
       "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
       "hn_url": "https://news.ycombinator.com/item?id=49452980",
-      "points": 141,
-      "comments": 42,
+      "points": 372,
+      "comments": 165,
       "created_ts": 1787766100,
       "author": "Velocifyer"
     },
     {
-      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
-      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49453510",
-      "points": 107,
-      "comments": 37,
-      "created_ts": 1787768409,
-      "author": "CGMthrowaway"
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49457545",
+      "points": 269,
+      "comments": 81,
+      "created_ts": 1787788544,
+      "author": "tmp10423288442"
     },
     {
-      "title": "VMs won't contain cyber-capable agents",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "hn_url": "https://news.ycombinator.com/item?id=49450188",
-      "points": 102,
-      "comments": 73,
-      "created_ts": 1787755770,
-      "author": "polyrand"
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "hn_url": "https://news.ycombinator.com/item?id=49449749",
+      "points": 265,
+      "comments": 181,
+      "created_ts": 1787754104,
+      "author": "speckx"
+    },
+    {
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "hn_url": "https://news.ycombinator.com/item?id=49452671",
+      "points": 243,
+      "comments": 53,
+      "created_ts": 1787764812,
+      "author": "gedankenstuecke"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "hn_url": "https://news.ycombinator.com/item?id=49454314",
+      "points": 238,
+      "comments": 276,
+      "created_ts": 1787771723,
+      "author": "amrrs"
+    },
+    {
+      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+      "url": "https://isgithubcooked.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49454728",
+      "points": 222,
+      "comments": 142,
+      "created_ts": 1787773428,
+      "author": "toomanyrichies"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "hn_url": "https://news.ycombinator.com/item?id=49451313",
+      "points": 212,
+      "comments": 185,
+      "created_ts": 1787759715,
+      "author": "LVB"
+    },
+    {
+      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "hn_url": "https://news.ycombinator.com/item?id=49451675",
+      "points": 200,
+      "comments": 49,
+      "created_ts": 1787761143,
+      "author": "leopoldj"
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49456851",
+      "points": 193,
+      "comments": 51,
+      "created_ts": 1787783702,
+      "author": "pizzaiolo"
+    },
+    {
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "hn_url": "https://news.ycombinator.com/item?id=49457512",
+      "points": 165,
+      "comments": 55,
+      "created_ts": 1787788215,
+      "author": "wxw"
+    },
+    {
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "hn_url": "https://news.ycombinator.com/item?id=49454419",
+      "points": 152,
+      "comments": 77,
+      "created_ts": 1787772181,
+      "author": "dsalzman"
+    },
+    {
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "hn_url": "https://news.ycombinator.com/item?id=49455956",
+      "points": 142,
+      "comments": 24,
+      "created_ts": 1787778572,
+      "author": "zakshay"
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49456929",
+      "points": 128,
+      "comments": 57,
+      "created_ts": 1787784243,
+      "author": "totetsu"
+    },
+    {
+      "title": "Kusama Yayoi Dies at 97",
+      "url": "https://news.jp/i/1465528042000662661",
+      "hn_url": "https://news.ycombinator.com/item?id=49458709",
+      "points": 124,
+      "comments": 10,
+      "created_ts": 1787797278,
+      "author": "phantomathkg"
+    },
+    {
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+      "hn_url": "https://news.ycombinator.com/item?id=49455471",
+      "points": 116,
+      "comments": 81,
+      "created_ts": 1787776349,
+      "author": "porridgeraisin"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49454764",
+      "points": 115,
+      "comments": 67,
+      "created_ts": 1787773559,
+      "author": "tilt"
+    },
+    {
+      "title": "Mold: A Massively Parallel Linker",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "hn_url": "https://news.ycombinator.com/item?id=49455530",
+      "points": 108,
+      "comments": 15,
+      "created_ts": 1787776622,
+      "author": "matt_d"
     }
   ],
   "ph_today": [
     {
-      "title": "Tellie Prompter 1.5",
-      "url": "https://www.producthunt.com/products/tellie-2",
+      "title": "Message Album",
+      "url": "https://www.producthunt.com/products/message-album",
       "tagline": "",
-      "pub_date": "2026-08-24T14:07:48-07:00"
-    },
-    {
-      "title": "Knack MCP Server",
-      "url": "https://www.producthunt.com/products/knack",
-      "tagline": "",
-      "pub_date": "2026-08-19T17:17:57-07:00"
-    },
-    {
-      "title": "EasySwitch",
-      "url": "https://www.producthunt.com/products/easyswitch",
-      "tagline": "",
-      "pub_date": "2026-08-22T12:07:18-07:00"
-    },
-    {
-      "title": "Expertise AI",
-      "url": "https://www.producthunt.com/products/expertise-ai",
-      "tagline": "",
-      "pub_date": "2026-08-22T03:59:49-07:00"
-    },
-    {
-      "title": "ChatCut Desktop",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "tagline": "",
-      "pub_date": "2026-08-22T06:16:05-07:00"
-    },
-    {
-      "title": "Lore Machine",
-      "url": "https://www.producthunt.com/products/lore-machine",
-      "tagline": "",
-      "pub_date": "2026-08-17T12:16:34-07:00"
-    },
-    {
-      "title": "x1",
-      "url": "https://www.producthunt.com/products/x1-2",
-      "tagline": "",
-      "pub_date": "2026-08-24T22:52:16-07:00"
-    },
-    {
-      "title": "OpenComputer",
-      "url": "https://www.producthunt.com/products/opencomputer",
-      "tagline": "",
-      "pub_date": "2026-08-25T22:56:36-07:00"
-    },
-    {
-      "title": "PostHog Desktop",
-      "url": "https://www.producthunt.com/products/posthog",
-      "tagline": "",
-      "pub_date": "2026-08-25T11:55:26-07:00"
-    },
-    {
-      "title": "Playcall",
-      "url": "https://www.producthunt.com/products/playcall",
-      "tagline": "",
-      "pub_date": "2026-08-14T05:30:11-07:00"
+      "pub_date": "2026-08-25T08:37:50-07:00"
     },
     {
       "title": "HEVN U.S.",
@@ -254,28 +362,112 @@
       "pub_date": "2026-08-25T17:25:56-07:00"
     },
     {
-      "title": "BaudBuddy",
-      "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal",
-      "tagline": "",
-      "pub_date": "2026-08-25T13:15:51-07:00"
-    },
-    {
       "title": "DeployHermes",
       "url": "https://www.producthunt.com/products/deployhermes",
       "tagline": "",
       "pub_date": "2026-08-25T12:40:09-07:00"
     },
     {
-      "title": "Screenify Studio",
-      "url": "https://www.producthunt.com/products/screenify-studio",
+      "title": "TaskShell 2.0",
+      "url": "https://www.producthunt.com/products/taskshell",
       "tagline": "",
-      "pub_date": "2026-07-20T22:40:35-07:00"
+      "pub_date": "2026-08-24T22:11:15-07:00"
+    },
+    {
+      "title": "Tellie Prompter 1.5",
+      "url": "https://www.producthunt.com/products/tellie-2",
+      "tagline": "",
+      "pub_date": "2026-08-24T14:07:48-07:00"
+    },
+    {
+      "title": "ChatCut Desktop",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "tagline": "",
+      "pub_date": "2026-08-22T06:16:05-07:00"
+    },
+    {
+      "title": "PostHog Desktop",
+      "url": "https://www.producthunt.com/products/posthog",
+      "tagline": "",
+      "pub_date": "2026-08-25T11:55:26-07:00"
+    },
+    {
+      "title": "x1",
+      "url": "https://www.producthunt.com/products/x1-2",
+      "tagline": "",
+      "pub_date": "2026-08-24T22:52:16-07:00"
+    },
+    {
+      "title": "Termy",
+      "url": "https://www.producthunt.com/products/termy-language-learning",
+      "tagline": "",
+      "pub_date": "2026-08-24T11:24:24-07:00"
+    },
+    {
+      "title": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer",
+      "tagline": "",
+      "pub_date": "2026-08-25T22:56:36-07:00"
+    },
+    {
+      "title": "Knack MCP Server",
+      "url": "https://www.producthunt.com/products/knack",
+      "tagline": "",
+      "pub_date": "2026-08-19T17:17:57-07:00"
+    },
+    {
+      "title": "MCP-Builder.ai",
+      "url": "https://www.producthunt.com/products/mcp-builder-ai",
+      "tagline": "",
+      "pub_date": "2026-08-24T01:54:22-07:00"
     },
     {
       "title": "ReWeaver AI DriftDetector",
       "url": "https://www.producthunt.com/products/reweaver-driftdetector",
       "tagline": "",
       "pub_date": "2026-08-21T17:32:50-07:00"
+    },
+    {
+      "title": "Lore Machine",
+      "url": "https://www.producthunt.com/products/lore-machine",
+      "tagline": "",
+      "pub_date": "2026-08-17T12:16:34-07:00"
+    },
+    {
+      "title": "Evidence Core",
+      "url": "https://www.producthunt.com/products/evidence",
+      "tagline": "",
+      "pub_date": "2026-08-19T16:41:25-07:00"
+    },
+    {
+      "title": "BaudBuddy",
+      "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal",
+      "tagline": "",
+      "pub_date": "2026-08-25T13:15:51-07:00"
+    },
+    {
+      "title": "Playcall",
+      "url": "https://www.producthunt.com/products/playcall",
+      "tagline": "",
+      "pub_date": "2026-08-14T05:30:11-07:00"
+    },
+    {
+      "title": "Expertise AI",
+      "url": "https://www.producthunt.com/products/expertise-ai",
+      "tagline": "",
+      "pub_date": "2026-08-22T03:59:49-07:00"
+    },
+    {
+      "title": "EasySwitch",
+      "url": "https://www.producthunt.com/products/easyswitch",
+      "tagline": "",
+      "pub_date": "2026-08-22T12:07:18-07:00"
+    },
+    {
+      "title": "Arena Agent Mode with GitHub",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "tagline": "",
+      "pub_date": "2026-08-18T16:22:18-07:00"
     },
     {
       "title": "ify",
@@ -296,18 +488,6 @@
       "pub_date": "2026-08-25T09:42:13-07:00"
     },
     {
-      "title": "MCP-Builder.ai",
-      "url": "https://www.producthunt.com/products/mcp-builder-ai",
-      "tagline": "",
-      "pub_date": "2026-08-24T01:54:22-07:00"
-    },
-    {
-      "title": "Termy",
-      "url": "https://www.producthunt.com/products/termy-language-learning",
-      "tagline": "",
-      "pub_date": "2026-08-24T11:24:24-07:00"
-    },
-    {
       "title": "Mac mini",
       "url": "https://www.producthunt.com/products/apple",
       "tagline": "",
@@ -320,34 +500,10 @@
       "pub_date": "2026-08-25T08:57:03-07:00"
     },
     {
-      "title": "Message Album",
-      "url": "https://www.producthunt.com/products/message-album",
+      "title": "Screenify Studio",
+      "url": "https://www.producthunt.com/products/screenify-studio",
       "tagline": "",
-      "pub_date": "2026-08-25T08:37:50-07:00"
-    },
-    {
-      "title": "Evidence Core",
-      "url": "https://www.producthunt.com/products/evidence",
-      "tagline": "",
-      "pub_date": "2026-08-19T16:41:25-07:00"
-    },
-    {
-      "title": "Arena Agent Mode with GitHub",
-      "url": "https://www.producthunt.com/products/arena-5",
-      "tagline": "",
-      "pub_date": "2026-08-18T16:22:18-07:00"
-    },
-    {
-      "title": "TaskShell 2.0",
-      "url": "https://www.producthunt.com/products/taskshell",
-      "tagline": "",
-      "pub_date": "2026-08-24T22:11:15-07:00"
-    },
-    {
-      "title": "macadress",
-      "url": "https://www.producthunt.com/products/macadress",
-      "tagline": "",
-      "pub_date": "2026-08-25T06:20:51-07:00"
+      "pub_date": "2026-07-20T22:40:35-07:00"
     },
     {
       "title": "LoupeKit",
@@ -356,16 +512,22 @@
       "pub_date": "2026-08-25T05:48:34-07:00"
     },
     {
-      "title": "Particle Studio",
-      "url": "https://www.producthunt.com/products/particle-studio",
+      "title": "macadress",
+      "url": "https://www.producthunt.com/products/macadress",
       "tagline": "",
-      "pub_date": "2026-08-18T08:58:49-07:00"
+      "pub_date": "2026-08-25T06:20:51-07:00"
     },
     {
-      "title": "session-indexer",
-      "url": "https://www.producthunt.com/products/session-indexer",
+      "title": "coolplugz",
+      "url": "https://www.producthunt.com/products/coolplugz",
       "tagline": "",
-      "pub_date": "2026-08-24T02:32:05-07:00"
+      "pub_date": "2026-08-20T06:17:55-07:00"
+    },
+    {
+      "title": "ChatGPT Ad Library",
+      "url": "https://www.producthunt.com/products/chatgpt-ad-library",
+      "tagline": "",
+      "pub_date": "2026-08-24T08:40:38-07:00"
     }
   ]
 }

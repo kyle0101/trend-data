@@ -1,74 +1,101 @@
 {
-  "generated_at": "2026-08-29T20:14:31.783Z",
+  "generated_at": "2026-08-30T02:50:45.023Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [],
   "hn_front": [
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=49485267",
-      "points": 360,
-      "comments": 95,
-      "created_ts": 1787958141,
-      "author": "hentrep"
-    },
-    {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "hn_url": "https://news.ycombinator.com/item?id=49485416",
-      "points": 262,
-      "comments": 71,
-      "created_ts": 1787959665,
-      "author": "matt_d"
-    },
-    {
-      "title": "The Internet Is Kind of a Predatory Cesspit Now",
-      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-      "hn_url": "https://news.ycombinator.com/item?id=49492193",
-      "points": 235,
-      "comments": 133,
-      "created_ts": 1788028856,
-      "author": "ibobev"
-    },
-    {
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "hn_url": "https://news.ycombinator.com/item?id=49487341",
-      "points": 220,
-      "comments": 76,
-      "created_ts": 1787983611,
-      "author": "ingve"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "hn_url": "https://news.ycombinator.com/item?id=49486081",
-      "points": 186,
-      "comments": 57,
-      "created_ts": 1787966653,
-      "author": "thclpr"
-    },
-    {
-      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "hn_url": "https://news.ycombinator.com/item?id=49490702",
-      "points": 169,
-      "comments": 60,
-      "created_ts": 1788017188,
-      "author": "400thecat"
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "hn_url": "https://news.ycombinator.com/item?id=49492219",
+      "points": 326,
+      "comments": 55,
+      "created_ts": 1788029077,
+      "author": "firefax"
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "hn_url": "https://news.ycombinator.com/item?id=49491568",
-      "points": 109,
-      "comments": 20,
+      "points": 267,
+      "comments": 63,
       "created_ts": 1788023987,
       "author": "gpi"
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "hn_url": "https://news.ycombinator.com/item?id=49487341",
+      "points": 246,
+      "comments": 92,
+      "created_ts": 1787983611,
+      "author": "ingve"
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "hn_url": "https://news.ycombinator.com/item?id=49492632",
+      "points": 206,
+      "comments": 130,
+      "created_ts": 1788032003,
+      "author": "shenli3514"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "hn_url": "https://news.ycombinator.com/item?id=49490870",
+      "points": 136,
+      "comments": 67,
+      "created_ts": 1788018482,
+      "author": "JumpCrisscross"
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "hn_url": "https://news.ycombinator.com/item?id=49494182",
+      "points": 133,
+      "comments": 44,
+      "created_ts": 1788045437,
+      "author": "DeepLogin"
+    },
+    {
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "hn_url": "https://news.ycombinator.com/item?id=49494231",
+      "points": 119,
+      "comments": 103,
+      "created_ts": 1788046004,
+      "author": "measurablefunc"
+    },
+    {
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "hn_url": "https://news.ycombinator.com/item?id=49491714",
+      "points": 119,
+      "comments": 50,
+      "created_ts": 1788025158,
+      "author": "tuckerwales"
     }
   ],
   "ph_today": [
+    {
+      "title": "Any Command",
+      "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
+      "tagline": "",
+      "pub_date": "2026-08-23T23:49:27-07:00"
+    },
+    {
+      "title": "Staats",
+      "url": "https://www.producthunt.com/products/staats-3",
+      "tagline": "",
+      "pub_date": "2026-08-28T00:12:12-07:00"
+    },
+    {
+      "title": "RawToHEIC",
+      "url": "https://www.producthunt.com/products/rawtoheic",
+      "tagline": "",
+      "pub_date": "2026-08-25T18:00:21-07:00"
+    },
     {
       "title": "1752vc Pitch Deck Analyzer",
       "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
@@ -76,10 +103,10 @@
       "pub_date": "2026-07-13T12:45:23-07:00"
     },
     {
-      "title": "Neo",
-      "url": "https://www.producthunt.com/products/neo",
+      "title": "Mossy",
+      "url": "https://www.producthunt.com/products/mossy-2",
       "tagline": "",
-      "pub_date": "2026-08-17T18:51:15-07:00"
+      "pub_date": "2026-08-24T12:40:40-07:00"
     },
     {
       "title": "God’s Eye View",
@@ -88,10 +115,10 @@
       "pub_date": "2026-08-28T12:49:22-07:00"
     },
     {
-      "title": "Hy4 preview",
-      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "title": "Neo",
+      "url": "https://www.producthunt.com/products/neo",
       "tagline": "",
-      "pub_date": "2026-08-28T09:57:52-07:00"
+      "pub_date": "2026-08-17T18:51:15-07:00"
     },
     {
       "title": "Cohere Parse 5",
@@ -112,34 +139,16 @@
       "pub_date": "2026-08-24T09:50:44-07:00"
     },
     {
-      "title": "Mossy",
-      "url": "https://www.producthunt.com/products/mossy-2",
-      "tagline": "",
-      "pub_date": "2026-08-24T12:40:40-07:00"
-    },
-    {
-      "title": "WIT",
-      "url": "https://www.producthunt.com/products/wit-will-it-travel",
-      "tagline": "",
-      "pub_date": "2026-08-26T02:00:38-07:00"
-    },
-    {
-      "title": "Any Command",
-      "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
-      "tagline": "",
-      "pub_date": "2026-08-23T23:49:27-07:00"
-    },
-    {
-      "title": "Cursor Craft v2",
-      "url": "https://www.producthunt.com/products/cursor-craft",
-      "tagline": "",
-      "pub_date": "2026-08-22T15:04:25-07:00"
-    },
-    {
       "title": "seendiff",
       "url": "https://www.producthunt.com/products/seendiff",
       "tagline": "",
       "pub_date": "2026-08-25T02:34:23-07:00"
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "tagline": "",
+      "pub_date": "2026-08-28T09:57:52-07:00"
     },
     {
       "title": "Tiles",
@@ -148,16 +157,10 @@
       "pub_date": "2026-08-22T12:41:41-07:00"
     },
     {
-      "title": "RawToHEIC",
-      "url": "https://www.producthunt.com/products/rawtoheic",
+      "title": "Cursor Craft v2",
+      "url": "https://www.producthunt.com/products/cursor-craft",
       "tagline": "",
-      "pub_date": "2026-08-25T18:00:21-07:00"
-    },
-    {
-      "title": "Staats",
-      "url": "https://www.producthunt.com/products/staats-3",
-      "tagline": "",
-      "pub_date": "2026-08-28T00:12:12-07:00"
+      "pub_date": "2026-08-22T15:04:25-07:00"
     },
     {
       "title": "publicdesktop.lol",
@@ -166,22 +169,22 @@
       "pub_date": "2026-08-27T11:58:45-07:00"
     },
     {
-      "title": "Microduck",
-      "url": "https://www.producthunt.com/products/hugging-face",
+      "title": "WIT",
+      "url": "https://www.producthunt.com/products/wit-will-it-travel",
       "tagline": "",
-      "pub_date": "2026-08-27T06:40:20-07:00"
+      "pub_date": "2026-08-26T02:00:38-07:00"
     },
     {
-      "title": "CrowdVolt",
-      "url": "https://www.producthunt.com/products/crowdvolt",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
       "tagline": "",
-      "pub_date": "2026-08-03T19:41:15-07:00"
+      "pub_date": "2026-08-27T13:52:18-07:00"
     },
     {
-      "title": "SnakeRank",
-      "url": "https://www.producthunt.com/products/snakerank",
+      "title": "Aramb",
+      "url": "https://www.producthunt.com/products/aramb",
       "tagline": "",
-      "pub_date": "2026-08-26T23:19:41-07:00"
+      "pub_date": "2026-08-04T03:19:31-07:00"
     },
     {
       "title": "CTRL Micro",
@@ -190,16 +193,16 @@
       "pub_date": "2026-08-24T14:54:57-07:00"
     },
     {
-      "title": "Caddi",
-      "url": "https://www.producthunt.com/products/caddi-3",
+      "title": "OpenTag",
+      "url": "https://www.producthunt.com/products/opentag",
       "tagline": "",
-      "pub_date": "2026-08-17T09:16:01-07:00"
+      "pub_date": "2026-08-27T14:52:16-07:00"
     },
     {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
+      "title": "Microduck",
+      "url": "https://www.producthunt.com/products/hugging-face",
       "tagline": "",
-      "pub_date": "2026-08-27T13:52:18-07:00"
+      "pub_date": "2026-08-27T06:40:20-07:00"
     },
     {
       "title": "Play with Putty",
@@ -214,28 +217,22 @@
       "pub_date": "2026-08-07T08:11:44-07:00"
     },
     {
-      "title": "Firecrawl Developer Index",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "title": "Revalvo",
+      "url": "https://www.producthunt.com/products/revalvo",
       "tagline": "",
-      "pub_date": "2026-08-26T10:33:36-07:00"
+      "pub_date": "2026-08-27T23:38:16-07:00"
     },
     {
-      "title": "Glisio",
-      "url": "https://www.producthunt.com/products/glisio",
+      "title": "Fide Island",
+      "url": "https://www.producthunt.com/products/fide-island",
       "tagline": "",
-      "pub_date": "2026-08-09T10:17:49-07:00"
+      "pub_date": "2026-08-27T06:53:00-07:00"
     },
     {
-      "title": "NotchDrop",
-      "url": "https://www.producthunt.com/products/notchdrop",
+      "title": "AureaCam",
+      "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
       "tagline": "",
-      "pub_date": "2026-08-26T01:16:24-07:00"
-    },
-    {
-      "title": "Aramb",
-      "url": "https://www.producthunt.com/products/aramb",
-      "tagline": "",
-      "pub_date": "2026-08-04T03:19:31-07:00"
+      "pub_date": "2026-08-26T20:21:05-07:00"
     },
     {
       "title": "screenpipe",
@@ -244,10 +241,22 @@
       "pub_date": "2026-08-26T20:15:53-07:00"
     },
     {
-      "title": "PageIndex",
-      "url": "https://www.producthunt.com/products/pageindexai",
+      "title": "Caddi",
+      "url": "https://www.producthunt.com/products/caddi-3",
       "tagline": "",
-      "pub_date": "2026-08-21T03:03:58-07:00"
+      "pub_date": "2026-08-17T09:16:01-07:00"
+    },
+    {
+      "title": "CrowdVolt",
+      "url": "https://www.producthunt.com/products/crowdvolt",
+      "tagline": "",
+      "pub_date": "2026-08-03T19:41:15-07:00"
+    },
+    {
+      "title": "NotchDrop",
+      "url": "https://www.producthunt.com/products/notchdrop",
+      "tagline": "",
+      "pub_date": "2026-08-26T01:16:24-07:00"
     }
   ]
 }

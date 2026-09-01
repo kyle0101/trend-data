@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:55:31.425Z",
+  "generated_at": "2026-09-01T10:53:21.269Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -8,7 +8,7 @@
       "url": "https://serverbox.stupidlabs.lol/",
       "hn_url": "https://news.ycombinator.com/item?id=49509679",
       "points": 47,
-      "comments": 48,
+      "comments": 50,
       "created_ts": 1788183583,
       "author": "freakynit"
     },
@@ -16,10 +16,19 @@
       "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
       "url": "https://corporatemindgames.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49511400",
-      "points": 42,
+      "points": 46,
       "comments": 13,
       "created_ts": 1788192488,
       "author": "dontwordle"
+    },
+    {
+      "title": "Show HN: Markdown Viewer and Editor",
+      "url": "https://kingsbridge-consultancy.com/md-viewer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49514729",
+      "points": 27,
+      "comments": 12,
+      "created_ts": 1788209703,
+      "author": "beerglass"
     },
     {
       "title": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
@@ -29,24 +38,6 @@
       "comments": 5,
       "created_ts": 1788178510,
       "author": "lukicov"
-    },
-    {
-      "title": "Show HN: Markdown Viewer and Editor",
-      "url": "https://kingsbridge-consultancy.com/md-viewer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49514729",
-      "points": 19,
-      "comments": 7,
-      "created_ts": 1788209703,
-      "author": "beerglass"
-    },
-    {
-      "title": "Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU",
-      "url": "https://floe.audio/",
-      "hn_url": "https://news.ycombinator.com/item?id=49507908",
-      "points": 18,
-      "comments": 8,
-      "created_ts": 1788171099,
-      "author": "windell"
     },
     {
       "title": "Show HN: 49 IDE – 2D Canvas for Agents",
@@ -60,20 +51,11 @@
   ],
   "hn_front": [
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "hn_url": "https://news.ycombinator.com/item?id=49514878",
-      "points": 587,
-      "comments": 444,
-      "created_ts": 1788210658,
-      "author": "twapi"
-    },
-    {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49510514",
-      "points": 513,
-      "comments": 187,
+      "points": 643,
+      "comments": 211,
       "created_ts": 1788187946,
       "author": "cutoff"
     },
@@ -81,17 +63,26 @@
       "title": "I turned my security cameras into an automatic bird identification system",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "hn_url": "https://news.ycombinator.com/item?id=49511856",
-      "points": 371,
-      "comments": 98,
+      "points": 511,
+      "comments": 125,
       "created_ts": 1788194831,
       "author": "speckx"
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49517448",
+      "points": 436,
+      "comments": 234,
+      "created_ts": 1788231134,
+      "author": "nreece"
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=49508982",
-      "points": 309,
-      "comments": 359,
+      "points": 419,
+      "comments": 461,
       "created_ts": 1788180082,
       "author": "thm"
     },
@@ -99,8 +90,8 @@
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
       "hn_url": "https://news.ycombinator.com/item?id=49508506",
-      "points": 260,
-      "comments": 156,
+      "points": 353,
+      "comments": 196,
       "created_ts": 1788176748,
       "author": "jcurbo"
     },
@@ -108,17 +99,35 @@
       "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
       "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
       "hn_url": "https://news.ycombinator.com/item?id=49512975",
-      "points": 219,
-      "comments": 30,
+      "points": 335,
+      "comments": 42,
       "created_ts": 1788200493,
       "author": "keithcarolus"
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49517584",
+      "points": 257,
+      "comments": 135,
+      "created_ts": 1788232596,
+      "author": "simonpure"
+    },
+    {
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "hn_url": "https://news.ycombinator.com/item?id=49516199",
+      "points": 251,
+      "comments": 170,
+      "created_ts": 1788219956,
+      "author": "Anon84"
     },
     {
       "title": "ChatGPT Work Tool and Skill Reference",
       "url": "https://codex-tool-reference.simonw.chatgpt.site/",
       "hn_url": "https://news.ycombinator.com/item?id=49510000",
-      "points": 188,
-      "comments": 51,
+      "points": 221,
+      "comments": 53,
       "created_ts": 1788185235,
       "author": "ijidak"
     },
@@ -126,87 +135,171 @@
       "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
       "url": "https://ravynos.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49511534",
-      "points": 175,
-      "comments": 106,
+      "points": 202,
+      "comments": 115,
       "created_ts": 1788193176,
       "author": "Bluestein"
     },
     {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49515830",
-      "points": 131,
-      "comments": 40,
-      "created_ts": 1788216825,
-      "author": "Bluestein"
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49517624",
+      "points": 141,
+      "comments": 37,
+      "created_ts": 1788233028,
+      "author": "jcalx"
     }
   ],
   "ph_today": [
     {
-      "title": "WebTerm Learn",
-      "url": "https://www.producthunt.com/products/webterm",
+      "title": "TrustedRouter",
+      "url": "https://www.producthunt.com/products/trustedrouter",
       "tagline": "",
-      "pub_date": "2026-08-24T22:41:16-07:00"
+      "pub_date": "2026-08-31T09:38:25-07:00"
     },
     {
-      "title": "Radar by Particle",
-      "url": "https://www.producthunt.com/products/particle-5",
+      "title": "BobVault for BobCLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
       "tagline": "",
-      "pub_date": "2026-08-28T12:06:22-07:00"
+      "pub_date": "2026-08-31T08:40:08-07:00"
     },
     {
-      "title": "Ask My Wardrobe",
-      "url": "https://www.producthunt.com/products/ask-my-wardrobe",
+      "title": "WaseiGo",
+      "url": "https://www.producthunt.com/products/waseigo",
       "tagline": "",
-      "pub_date": "2026-08-26T09:37:00-07:00"
+      "pub_date": "2026-08-17T01:48:20-07:00"
     },
     {
-      "title": "EP–2350 FX–MIC",
-      "url": "https://www.producthunt.com/products/teenage-engineering",
+      "title": "Superset Mobile",
+      "url": "https://www.producthunt.com/products/superset-5",
       "tagline": "",
-      "pub_date": "2026-08-30T21:41:46-07:00"
+      "pub_date": "2026-08-18T22:49:13-07:00"
     },
     {
-      "title": "Interactive Sessions",
-      "url": "https://www.producthunt.com/products/revolte",
+      "title": "EAS Observe",
+      "url": "https://www.producthunt.com/products/expo",
       "tagline": "",
-      "pub_date": "2026-08-17T16:17:20-07:00"
+      "pub_date": "2026-08-31T10:29:51-07:00"
     },
     {
-      "title": "Video Agent by Fotor",
-      "url": "https://www.producthunt.com/products/fotor",
+      "title": "Murmell",
+      "url": "https://www.producthunt.com/products/murmell",
       "tagline": "",
-      "pub_date": "2026-08-17T05:24:54-07:00"
+      "pub_date": "2026-08-31T15:39:25-07:00"
     },
     {
-      "title": "BrandJet",
-      "url": "https://www.producthunt.com/products/brandjet-ai",
+      "title": "Creatium Coach",
+      "url": "https://www.producthunt.com/products/creatium",
       "tagline": "",
-      "pub_date": "2026-08-18T07:52:07-07:00"
+      "pub_date": "2026-08-26T15:54:28-07:00"
     },
     {
-      "title": "StackScope",
-      "url": "https://www.producthunt.com/products/stackscope-dev",
+      "title": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
       "tagline": "",
-      "pub_date": "2026-08-08T13:28:31-07:00"
+      "pub_date": "2026-08-30T21:01:50-07:00"
     },
     {
-      "title": "Tether",
-      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+      "title": "ARC-24 Multitrack Groovebox for iOS",
+      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
       "tagline": "",
-      "pub_date": "2026-08-30T23:37:13-07:00"
+      "pub_date": "2026-08-13T09:30:37-07:00"
     },
     {
-      "title": "Orato",
-      "url": "https://www.producthunt.com/products/orato-speech-coach",
+      "title": "Tovel AI",
+      "url": "https://www.producthunt.com/products/tovel-ai",
       "tagline": "",
-      "pub_date": "2026-08-29T10:02:44-07:00"
+      "pub_date": "2026-08-17T19:18:35-07:00"
     },
     {
-      "title": "BrandMyLaptop",
-      "url": "https://www.producthunt.com/products/brandmylaptop",
+      "title": "Gauth AI Course",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
       "tagline": "",
-      "pub_date": "2026-08-28T09:24:44-07:00"
+      "pub_date": "2026-08-28T09:09:15-07:00"
+    },
+    {
+      "title": "Sourclip 2.0",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "tagline": "",
+      "pub_date": "2026-08-29T09:48:32-07:00"
+    },
+    {
+      "title": "Impractical",
+      "url": "https://www.producthunt.com/products/impractical",
+      "tagline": "",
+      "pub_date": "2026-08-12T12:19:38-07:00"
+    },
+    {
+      "title": "Computable GPU Index (CGI)",
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
+      "tagline": "",
+      "pub_date": "2026-08-27T03:31:39-07:00"
+    },
+    {
+      "title": "ThunderPhone",
+      "url": "https://www.producthunt.com/products/thunderphone",
+      "tagline": "",
+      "pub_date": "2026-08-27T15:32:20-07:00"
+    },
+    {
+      "title": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "tagline": "",
+      "pub_date": "2026-07-17T03:44:49-07:00"
+    },
+    {
+      "title": "Nodeterm",
+      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
+      "tagline": "",
+      "pub_date": "2026-08-31T08:00:07-07:00"
+    },
+    {
+      "title": "Notchling",
+      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "tagline": "",
+      "pub_date": "2026-08-26T03:17:12-07:00"
+    },
+    {
+      "title": "Sider Code",
+      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
+      "tagline": "",
+      "pub_date": "2026-08-28T02:05:09-07:00"
+    },
+    {
+      "title": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
+      "tagline": "",
+      "pub_date": "2026-08-31T22:16:36-07:00"
+    },
+    {
+      "title": "Cosmic Agent Plugins",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "tagline": "",
+      "pub_date": "2026-08-31T20:12:53-07:00"
+    },
+    {
+      "title": "Naseem",
+      "url": "https://www.producthunt.com/products/naseem-2",
+      "tagline": "",
+      "pub_date": "2026-08-31T07:06:45-07:00"
+    },
+    {
+      "title": "Folio",
+      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
+      "tagline": "",
+      "pub_date": "2026-08-27T03:01:12-07:00"
+    },
+    {
+      "title": "ChannelOS",
+      "url": "https://www.producthunt.com/products/channelos",
+      "tagline": "",
+      "pub_date": "2026-08-25T13:34:36-07:00"
+    },
+    {
+      "title": "nOS4",
+      "url": "https://www.producthunt.com/products/nos4",
+      "tagline": "",
+      "pub_date": "2026-08-31T15:17:59-07:00"
     },
     {
       "title": "FrameOS",
@@ -215,112 +308,28 @@
       "pub_date": "2026-08-28T14:12:29-07:00"
     },
     {
-      "title": "Prequel",
-      "url": "https://www.producthunt.com/products/prequel-2",
+      "title": "StackScope",
+      "url": "https://www.producthunt.com/products/stackscope-dev",
       "tagline": "",
-      "pub_date": "2026-08-29T02:09:16-07:00"
+      "pub_date": "2026-08-08T13:28:31-07:00"
     },
     {
-      "title": "Superagent",
-      "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+      "title": "Radar by Particle",
+      "url": "https://www.producthunt.com/products/particle-5",
       "tagline": "",
-      "pub_date": "2026-08-29T15:27:58-07:00"
+      "pub_date": "2026-08-28T12:06:22-07:00"
     },
     {
-      "title": "Maritime",
-      "url": "https://www.producthunt.com/products/maritime",
+      "title": "Video Agent by Fotor",
+      "url": "https://www.producthunt.com/products/fotor",
       "tagline": "",
-      "pub_date": "2026-08-28T15:04:42-07:00"
+      "pub_date": "2026-08-17T05:24:54-07:00"
     },
     {
-      "title": "Sayscroll",
-      "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+      "title": "Orato",
+      "url": "https://www.producthunt.com/products/orato-speech-coach",
       "tagline": "",
-      "pub_date": "2026-08-19T09:49:36-07:00"
-    },
-    {
-      "title": "oMLX",
-      "url": "https://www.producthunt.com/products/omlx",
-      "tagline": "",
-      "pub_date": "2026-08-29T13:17:05-07:00"
-    },
-    {
-      "title": "Edge Drop",
-      "url": "https://www.producthunt.com/products/edge-drop",
-      "tagline": "",
-      "pub_date": "2026-08-23T01:18:08-07:00"
-    },
-    {
-      "title": "Topview Motion Studio",
-      "url": "https://www.producthunt.com/products/topview-ai",
-      "tagline": "",
-      "pub_date": "2026-08-26T23:32:36-07:00"
-    },
-    {
-      "title": "Hyperfocus",
-      "url": "https://www.producthunt.com/products/hyperfocus-2",
-      "tagline": "",
-      "pub_date": "2026-08-17T06:27:02-07:00"
-    },
-    {
-      "title": "Retro Y2K Theme",
-      "url": "https://www.producthunt.com/products/retro-y2k-theme-90s-web-aesthetic",
-      "tagline": "",
-      "pub_date": "2026-08-24T08:35:12-07:00"
-    },
-    {
-      "title": "RIP MY BUILD",
-      "url": "https://www.producthunt.com/products/rip-my-build",
-      "tagline": "",
-      "pub_date": "2026-08-25T06:54:47-07:00"
-    },
-    {
-      "title": "Referent",
-      "url": "https://www.producthunt.com/products/referent",
-      "tagline": "",
-      "pub_date": "2026-08-26T03:25:02-07:00"
-    },
-    {
-      "title": "Skud",
-      "url": "https://www.producthunt.com/products/skud-drag-send-track-in-seconds",
-      "tagline": "",
-      "pub_date": "2026-08-27T15:47:32-07:00"
-    },
-    {
-      "title": "Ravioli",
-      "url": "https://www.producthunt.com/products/ravioli-2",
-      "tagline": "",
-      "pub_date": "2026-08-25T06:55:03-07:00"
-    },
-    {
-      "title": "Caplio",
-      "url": "https://www.producthunt.com/products/caplio",
-      "tagline": "",
-      "pub_date": "2026-08-17T05:59:14-07:00"
-    },
-    {
-      "title": "Olostep",
-      "url": "https://www.producthunt.com/products/olostep",
-      "tagline": "",
-      "pub_date": "2026-07-17T14:04:28-07:00"
-    },
-    {
-      "title": "Murfy AI",
-      "url": "https://www.producthunt.com/products/murfy",
-      "tagline": "",
-      "pub_date": "2026-08-09T19:38:59-07:00"
-    },
-    {
-      "title": "Ulpaso",
-      "url": "https://www.producthunt.com/products/ulpaso",
-      "tagline": "",
-      "pub_date": "2026-08-28T11:50:59-07:00"
-    },
-    {
-      "title": "Any Command",
-      "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
-      "tagline": "",
-      "pub_date": "2026-08-23T23:49:27-07:00"
+      "pub_date": "2026-08-29T10:02:44-07:00"
     }
   ]
 }

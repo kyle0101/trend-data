@@ -1,49 +1,152 @@
 {
-  "generated_at": "2026-09-01T15:51:12.079Z",
+  "generated_at": "2026-09-01T20:21:39.507Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
-  "hn_show": {
-    "error": "HTTP 500: \n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>500 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server"
-  },
-  "hn_front": {
-    "error": "HTTP 500: \n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>500 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server"
-  },
+  "hn_show": [
+    {
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "hn_url": "https://news.ycombinator.com/item?id=49524447",
+      "points": 89,
+      "comments": 62,
+      "created_ts": 1788280966,
+      "author": "carloslfu"
+    },
+    {
+      "title": "Show HN: Markdown Viewer and Editor",
+      "url": "https://kingsbridge-consultancy.com/md-viewer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49514729",
+      "points": 30,
+      "comments": 17,
+      "created_ts": 1788209703,
+      "author": "beerglass"
+    },
+    {
+      "title": "Show HN: 49 IDE – 2D Canvas for Agents",
+      "url": "https://github.com/alpbahadur/49-IDE",
+      "hn_url": "https://news.ycombinator.com/item?id=49514828",
+      "points": 18,
+      "comments": 1,
+      "created_ts": 1788210332,
+      "author": "myradism"
+    }
+  ],
+  "hn_front": [
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49517448",
+      "points": 776,
+      "comments": 503,
+      "created_ts": 1788231134,
+      "author": "nreece"
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "hn_url": "https://news.ycombinator.com/item?id=49520022",
+      "points": 743,
+      "comments": 211,
+      "created_ts": 1788257462,
+      "author": "hexa555"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "hn_url": "https://news.ycombinator.com/item?id=49525378",
+      "points": 565,
+      "comments": 522,
+      "created_ts": 1788285233,
+      "author": "denysvitali"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49519939",
+      "points": 450,
+      "comments": 133,
+      "created_ts": 1788256365,
+      "author": "porridgeraisin"
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "hn_url": "https://news.ycombinator.com/item?id=49523754",
+      "points": 388,
+      "comments": 154,
+      "created_ts": 1788278153,
+      "author": "erikvanoosten"
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49517624",
+      "points": 348,
+      "comments": 80,
+      "created_ts": 1788233028,
+      "author": "jcalx"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "hn_url": "https://news.ycombinator.com/item?id=49521973",
+      "points": 205,
+      "comments": 81,
+      "created_ts": 1788270409,
+      "author": "HieronymusBosch"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "hn_url": "https://news.ycombinator.com/item?id=49522897",
+      "points": 150,
+      "comments": 157,
+      "created_ts": 1788274877,
+      "author": "whoishiring"
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "hn_url": "https://news.ycombinator.com/item?id=49523720",
+      "points": 150,
+      "comments": 130,
+      "created_ts": 1788278022,
+      "author": "Limb"
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49523387",
+      "points": 136,
+      "comments": 53,
+      "created_ts": 1788276911,
+      "author": "kikkupico"
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "hn_url": "https://news.ycombinator.com/item?id=49525297",
+      "points": 115,
+      "comments": 96,
+      "created_ts": 1788284781,
+      "author": "steveklabnik"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "hn_url": "https://news.ycombinator.com/item?id=49526069",
+      "points": 113,
+      "comments": 75,
+      "created_ts": 1788287715,
+      "author": "jatins"
+    }
+  ],
   "ph_today": [
     {
-      "title": "Computable GPU Index (CGI)",
-      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
+      "title": "ChannelOS",
+      "url": "https://www.producthunt.com/products/channelos",
       "tagline": "",
-      "pub_date": "2026-08-27T03:31:39-07:00"
-    },
-    {
-      "title": "Kilo Code for JetBrains",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "tagline": "",
-      "pub_date": "2026-07-17T03:44:49-07:00"
-    },
-    {
-      "title": "nOS4",
-      "url": "https://www.producthunt.com/products/nos4",
-      "tagline": "",
-      "pub_date": "2026-08-31T15:17:59-07:00"
-    },
-    {
-      "title": "Murmell",
-      "url": "https://www.producthunt.com/products/murmell",
-      "tagline": "",
-      "pub_date": "2026-08-31T15:39:25-07:00"
-    },
-    {
-      "title": "Creatium Coach",
-      "url": "https://www.producthunt.com/products/creatium",
-      "tagline": "",
-      "pub_date": "2026-08-26T15:54:28-07:00"
-    },
-    {
-      "title": "EAS Observe",
-      "url": "https://www.producthunt.com/products/expo",
-      "tagline": "",
-      "pub_date": "2026-08-31T10:29:51-07:00"
+      "pub_date": "2026-08-25T13:34:36-07:00"
     },
     {
       "title": "Gauth AI Course",
@@ -52,16 +155,10 @@
       "pub_date": "2026-08-28T09:09:15-07:00"
     },
     {
-      "title": "ThunderPhone",
-      "url": "https://www.producthunt.com/products/thunderphone",
+      "title": "TrustedRouter",
+      "url": "https://www.producthunt.com/products/trustedrouter",
       "tagline": "",
-      "pub_date": "2026-08-27T15:32:20-07:00"
-    },
-    {
-      "title": "Sider Code",
-      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
-      "tagline": "",
-      "pub_date": "2026-08-28T02:05:09-07:00"
+      "pub_date": "2026-08-31T09:38:25-07:00"
     },
     {
       "title": "Sourclip 2.0",
@@ -70,64 +167,10 @@
       "pub_date": "2026-08-29T09:48:32-07:00"
     },
     {
-      "title": "Happy Shrimp",
-      "url": "https://www.producthunt.com/products/happy-shrimp",
-      "tagline": "",
-      "pub_date": "2026-08-30T21:01:50-07:00"
-    },
-    {
-      "title": "ChannelOS",
-      "url": "https://www.producthunt.com/products/channelos",
-      "tagline": "",
-      "pub_date": "2026-08-25T13:34:36-07:00"
-    },
-    {
       "title": "WaseiGo",
       "url": "https://www.producthunt.com/products/waseigo",
       "tagline": "",
       "pub_date": "2026-08-17T01:48:20-07:00"
-    },
-    {
-      "title": "Impractical",
-      "url": "https://www.producthunt.com/products/impractical",
-      "tagline": "",
-      "pub_date": "2026-08-12T12:19:38-07:00"
-    },
-    {
-      "title": "HONOR Robot Phone",
-      "url": "https://www.producthunt.com/products/honor-robot-phone",
-      "tagline": "",
-      "pub_date": "2026-08-31T22:16:36-07:00"
-    },
-    {
-      "title": "BobVault for BobCLI",
-      "url": "https://www.producthunt.com/products/bob-s-cli",
-      "tagline": "",
-      "pub_date": "2026-08-31T08:40:08-07:00"
-    },
-    {
-      "title": "Tovel AI",
-      "url": "https://www.producthunt.com/products/tovel-ai",
-      "tagline": "",
-      "pub_date": "2026-08-17T19:18:35-07:00"
-    },
-    {
-      "title": "Nodeterm",
-      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
-      "tagline": "",
-      "pub_date": "2026-08-31T08:00:07-07:00"
-    },
-    {
-      "title": "TrustedRouter",
-      "url": "https://www.producthunt.com/products/trustedrouter",
-      "tagline": "",
-      "pub_date": "2026-08-31T09:38:25-07:00"
-    },
-    {
-      "title": "Keiki",
-      "url": "https://www.producthunt.com/products/keiki",
-      "tagline": "",
-      "pub_date": "2026-08-27T07:50:14-07:00"
     },
     {
       "title": "Naseem",
@@ -136,16 +179,28 @@
       "pub_date": "2026-08-31T07:06:45-07:00"
     },
     {
-      "title": "Cosmic Agent Plugins",
-      "url": "https://www.producthunt.com/products/cosmic",
+      "title": "ARC-24 Multitrack Groovebox for iOS",
+      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
       "tagline": "",
-      "pub_date": "2026-08-31T20:12:53-07:00"
+      "pub_date": "2026-08-13T09:30:37-07:00"
     },
     {
-      "title": "Notchling",
-      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "title": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
       "tagline": "",
-      "pub_date": "2026-08-26T03:17:12-07:00"
+      "pub_date": "2026-08-30T21:01:50-07:00"
+    },
+    {
+      "title": "Tovel AI",
+      "url": "https://www.producthunt.com/products/tovel-ai",
+      "tagline": "",
+      "pub_date": "2026-08-17T19:18:35-07:00"
+    },
+    {
+      "title": "Creatium Coach",
+      "url": "https://www.producthunt.com/products/creatium",
+      "tagline": "",
+      "pub_date": "2026-08-26T15:54:28-07:00"
     },
     {
       "title": "Folio",
@@ -154,16 +209,82 @@
       "pub_date": "2026-08-27T03:01:12-07:00"
     },
     {
-      "title": "ARC-24 Multitrack Groovebox for iOS",
-      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
+      "title": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
       "tagline": "",
-      "pub_date": "2026-08-13T09:30:37-07:00"
+      "pub_date": "2026-08-31T22:16:36-07:00"
     },
     {
-      "title": "Tether",
-      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+      "title": "ThunderPhone",
+      "url": "https://www.producthunt.com/products/thunderphone",
       "tagline": "",
-      "pub_date": "2026-08-30T23:37:13-07:00"
+      "pub_date": "2026-08-27T15:32:20-07:00"
+    },
+    {
+      "title": "Keiki",
+      "url": "https://www.producthunt.com/products/keiki",
+      "tagline": "",
+      "pub_date": "2026-08-27T07:50:14-07:00"
+    },
+    {
+      "title": "Notchling",
+      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "tagline": "",
+      "pub_date": "2026-08-26T03:17:12-07:00"
+    },
+    {
+      "title": "Murmell",
+      "url": "https://www.producthunt.com/products/murmell",
+      "tagline": "",
+      "pub_date": "2026-08-31T15:39:25-07:00"
+    },
+    {
+      "title": "BobVault for BobCLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "tagline": "",
+      "pub_date": "2026-08-31T08:40:08-07:00"
+    },
+    {
+      "title": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "tagline": "",
+      "pub_date": "2026-07-17T03:44:49-07:00"
+    },
+    {
+      "title": "EAS Observe",
+      "url": "https://www.producthunt.com/products/expo",
+      "tagline": "",
+      "pub_date": "2026-08-31T10:29:51-07:00"
+    },
+    {
+      "title": "Computable GPU Index (CGI)",
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
+      "tagline": "",
+      "pub_date": "2026-08-27T03:31:39-07:00"
+    },
+    {
+      "title": "Sider Code",
+      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
+      "tagline": "",
+      "pub_date": "2026-08-28T02:05:09-07:00"
+    },
+    {
+      "title": "nOS4",
+      "url": "https://www.producthunt.com/products/nos4",
+      "tagline": "",
+      "pub_date": "2026-08-31T15:17:59-07:00"
+    },
+    {
+      "title": "Nodeterm",
+      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
+      "tagline": "",
+      "pub_date": "2026-08-31T08:00:07-07:00"
+    },
+    {
+      "title": "Cosmic Agent Plugins",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "tagline": "",
+      "pub_date": "2026-08-31T20:12:53-07:00"
     },
     {
       "title": "Video Agent by Fotor",
@@ -172,22 +293,34 @@
       "pub_date": "2026-08-17T05:24:54-07:00"
     },
     {
-      "title": "BrandMyLaptop",
-      "url": "https://www.producthunt.com/products/brandmylaptop",
-      "tagline": "",
-      "pub_date": "2026-08-28T09:24:44-07:00"
-    },
-    {
       "title": "StackScope",
       "url": "https://www.producthunt.com/products/stackscope-dev",
       "tagline": "",
       "pub_date": "2026-08-08T13:28:31-07:00"
     },
     {
-      "title": "FrameOS",
-      "url": "https://www.producthunt.com/products/frameos-3",
+      "title": "BrandJet",
+      "url": "https://www.producthunt.com/products/brandjet-ai",
       "tagline": "",
-      "pub_date": "2026-08-28T14:12:29-07:00"
+      "pub_date": "2026-08-18T07:52:07-07:00"
+    },
+    {
+      "title": "Interactive Sessions by Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
+      "tagline": "",
+      "pub_date": "2026-08-17T16:17:20-07:00"
+    },
+    {
+      "title": "Radar by Particle",
+      "url": "https://www.producthunt.com/products/particle-5",
+      "tagline": "",
+      "pub_date": "2026-08-28T12:06:22-07:00"
+    },
+    {
+      "title": "Tether",
+      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+      "tagline": "",
+      "pub_date": "2026-08-30T23:37:13-07:00"
     }
   ]
 }

@@ -1,185 +1,31 @@
 {
-  "generated_at": "2026-09-01T10:53:21.269Z",
+  "generated_at": "2026-09-01T15:51:12.079Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
-  "hn_show": [
-    {
-      "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
-      "url": "https://serverbox.stupidlabs.lol/",
-      "hn_url": "https://news.ycombinator.com/item?id=49509679",
-      "points": 47,
-      "comments": 50,
-      "created_ts": 1788183583,
-      "author": "freakynit"
-    },
-    {
-      "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
-      "url": "https://corporatemindgames.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49511400",
-      "points": 46,
-      "comments": 13,
-      "created_ts": 1788192488,
-      "author": "dontwordle"
-    },
-    {
-      "title": "Show HN: Markdown Viewer and Editor",
-      "url": "https://kingsbridge-consultancy.com/md-viewer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49514729",
-      "points": 27,
-      "comments": 12,
-      "created_ts": 1788209703,
-      "author": "beerglass"
-    },
-    {
-      "title": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
-      "url": "https://github.com/glukicov/slideops",
-      "hn_url": "https://news.ycombinator.com/item?id=49508735",
-      "points": 21,
-      "comments": 5,
-      "created_ts": 1788178510,
-      "author": "lukicov"
-    },
-    {
-      "title": "Show HN: 49 IDE – 2D Canvas for Agents",
-      "url": "https://github.com/alpbahadur/49-IDE",
-      "hn_url": "https://news.ycombinator.com/item?id=49514828",
-      "points": 18,
-      "comments": 1,
-      "created_ts": 1788210332,
-      "author": "myradism"
-    }
-  ],
-  "hn_front": [
-    {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49510514",
-      "points": 643,
-      "comments": 211,
-      "created_ts": 1788187946,
-      "author": "cutoff"
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "hn_url": "https://news.ycombinator.com/item?id=49511856",
-      "points": 511,
-      "comments": 125,
-      "created_ts": 1788194831,
-      "author": "speckx"
-    },
-    {
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "hn_url": "https://news.ycombinator.com/item?id=49517448",
-      "points": 436,
-      "comments": 234,
-      "created_ts": 1788231134,
-      "author": "nreece"
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "hn_url": "https://news.ycombinator.com/item?id=49508982",
-      "points": 419,
-      "comments": 461,
-      "created_ts": 1788180082,
-      "author": "thm"
-    },
-    {
-      "title": "I think the military commissary's freezers were hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "hn_url": "https://news.ycombinator.com/item?id=49508506",
-      "points": 353,
-      "comments": 196,
-      "created_ts": 1788176748,
-      "author": "jcurbo"
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "hn_url": "https://news.ycombinator.com/item?id=49512975",
-      "points": 335,
-      "comments": 42,
-      "created_ts": 1788200493,
-      "author": "keithcarolus"
-    },
-    {
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49517584",
-      "points": 257,
-      "comments": 135,
-      "created_ts": 1788232596,
-      "author": "simonpure"
-    },
-    {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "hn_url": "https://news.ycombinator.com/item?id=49516199",
-      "points": 251,
-      "comments": 170,
-      "created_ts": 1788219956,
-      "author": "Anon84"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "hn_url": "https://news.ycombinator.com/item?id=49510000",
-      "points": 221,
-      "comments": 53,
-      "created_ts": 1788185235,
-      "author": "ijidak"
-    },
-    {
-      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49511534",
-      "points": 202,
-      "comments": 115,
-      "created_ts": 1788193176,
-      "author": "Bluestein"
-    },
-    {
-      "title": "Restroom Archive",
-      "url": "https://restroomarchive.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49517624",
-      "points": 141,
-      "comments": 37,
-      "created_ts": 1788233028,
-      "author": "jcalx"
-    }
-  ],
+  "hn_show": {
+    "error": "HTTP 500: \n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>500 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server"
+  },
+  "hn_front": {
+    "error": "HTTP 500: \n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>500 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server"
+  },
   "ph_today": [
     {
-      "title": "TrustedRouter",
-      "url": "https://www.producthunt.com/products/trustedrouter",
+      "title": "Computable GPU Index (CGI)",
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
       "tagline": "",
-      "pub_date": "2026-08-31T09:38:25-07:00"
+      "pub_date": "2026-08-27T03:31:39-07:00"
     },
     {
-      "title": "BobVault for BobCLI",
-      "url": "https://www.producthunt.com/products/bob-s-cli",
+      "title": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode",
       "tagline": "",
-      "pub_date": "2026-08-31T08:40:08-07:00"
+      "pub_date": "2026-07-17T03:44:49-07:00"
     },
     {
-      "title": "WaseiGo",
-      "url": "https://www.producthunt.com/products/waseigo",
+      "title": "nOS4",
+      "url": "https://www.producthunt.com/products/nos4",
       "tagline": "",
-      "pub_date": "2026-08-17T01:48:20-07:00"
-    },
-    {
-      "title": "Superset Mobile",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "tagline": "",
-      "pub_date": "2026-08-18T22:49:13-07:00"
-    },
-    {
-      "title": "EAS Observe",
-      "url": "https://www.producthunt.com/products/expo",
-      "tagline": "",
-      "pub_date": "2026-08-31T10:29:51-07:00"
+      "pub_date": "2026-08-31T15:17:59-07:00"
     },
     {
       "title": "Murmell",
@@ -194,22 +40,10 @@
       "pub_date": "2026-08-26T15:54:28-07:00"
     },
     {
-      "title": "Happy Shrimp",
-      "url": "https://www.producthunt.com/products/happy-shrimp",
+      "title": "EAS Observe",
+      "url": "https://www.producthunt.com/products/expo",
       "tagline": "",
-      "pub_date": "2026-08-30T21:01:50-07:00"
-    },
-    {
-      "title": "ARC-24 Multitrack Groovebox for iOS",
-      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
-      "tagline": "",
-      "pub_date": "2026-08-13T09:30:37-07:00"
-    },
-    {
-      "title": "Tovel AI",
-      "url": "https://www.producthunt.com/products/tovel-ai",
-      "tagline": "",
-      "pub_date": "2026-08-17T19:18:35-07:00"
+      "pub_date": "2026-08-31T10:29:51-07:00"
     },
     {
       "title": "Gauth AI Course",
@@ -218,46 +52,10 @@
       "pub_date": "2026-08-28T09:09:15-07:00"
     },
     {
-      "title": "Sourclip 2.0",
-      "url": "https://www.producthunt.com/products/sourclip",
-      "tagline": "",
-      "pub_date": "2026-08-29T09:48:32-07:00"
-    },
-    {
-      "title": "Impractical",
-      "url": "https://www.producthunt.com/products/impractical",
-      "tagline": "",
-      "pub_date": "2026-08-12T12:19:38-07:00"
-    },
-    {
-      "title": "Computable GPU Index (CGI)",
-      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
-      "tagline": "",
-      "pub_date": "2026-08-27T03:31:39-07:00"
-    },
-    {
       "title": "ThunderPhone",
       "url": "https://www.producthunt.com/products/thunderphone",
       "tagline": "",
       "pub_date": "2026-08-27T15:32:20-07:00"
-    },
-    {
-      "title": "Kilo Code for JetBrains",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "tagline": "",
-      "pub_date": "2026-07-17T03:44:49-07:00"
-    },
-    {
-      "title": "Nodeterm",
-      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
-      "tagline": "",
-      "pub_date": "2026-08-31T08:00:07-07:00"
-    },
-    {
-      "title": "Notchling",
-      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
-      "tagline": "",
-      "pub_date": "2026-08-26T03:17:12-07:00"
     },
     {
       "title": "Sider Code",
@@ -266,28 +64,16 @@
       "pub_date": "2026-08-28T02:05:09-07:00"
     },
     {
-      "title": "HONOR Robot Phone",
-      "url": "https://www.producthunt.com/products/honor-robot-phone",
+      "title": "Sourclip 2.0",
+      "url": "https://www.producthunt.com/products/sourclip",
       "tagline": "",
-      "pub_date": "2026-08-31T22:16:36-07:00"
+      "pub_date": "2026-08-29T09:48:32-07:00"
     },
     {
-      "title": "Cosmic Agent Plugins",
-      "url": "https://www.producthunt.com/products/cosmic",
+      "title": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
       "tagline": "",
-      "pub_date": "2026-08-31T20:12:53-07:00"
-    },
-    {
-      "title": "Naseem",
-      "url": "https://www.producthunt.com/products/naseem-2",
-      "tagline": "",
-      "pub_date": "2026-08-31T07:06:45-07:00"
-    },
-    {
-      "title": "Folio",
-      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
-      "tagline": "",
-      "pub_date": "2026-08-27T03:01:12-07:00"
+      "pub_date": "2026-08-30T21:01:50-07:00"
     },
     {
       "title": "ChannelOS",
@@ -296,28 +82,88 @@
       "pub_date": "2026-08-25T13:34:36-07:00"
     },
     {
-      "title": "nOS4",
-      "url": "https://www.producthunt.com/products/nos4",
+      "title": "WaseiGo",
+      "url": "https://www.producthunt.com/products/waseigo",
       "tagline": "",
-      "pub_date": "2026-08-31T15:17:59-07:00"
+      "pub_date": "2026-08-17T01:48:20-07:00"
     },
     {
-      "title": "FrameOS",
-      "url": "https://www.producthunt.com/products/frameos-3",
+      "title": "Impractical",
+      "url": "https://www.producthunt.com/products/impractical",
       "tagline": "",
-      "pub_date": "2026-08-28T14:12:29-07:00"
+      "pub_date": "2026-08-12T12:19:38-07:00"
     },
     {
-      "title": "StackScope",
-      "url": "https://www.producthunt.com/products/stackscope-dev",
+      "title": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
       "tagline": "",
-      "pub_date": "2026-08-08T13:28:31-07:00"
+      "pub_date": "2026-08-31T22:16:36-07:00"
     },
     {
-      "title": "Radar by Particle",
-      "url": "https://www.producthunt.com/products/particle-5",
+      "title": "BobVault for BobCLI",
+      "url": "https://www.producthunt.com/products/bob-s-cli",
       "tagline": "",
-      "pub_date": "2026-08-28T12:06:22-07:00"
+      "pub_date": "2026-08-31T08:40:08-07:00"
+    },
+    {
+      "title": "Tovel AI",
+      "url": "https://www.producthunt.com/products/tovel-ai",
+      "tagline": "",
+      "pub_date": "2026-08-17T19:18:35-07:00"
+    },
+    {
+      "title": "Nodeterm",
+      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
+      "tagline": "",
+      "pub_date": "2026-08-31T08:00:07-07:00"
+    },
+    {
+      "title": "TrustedRouter",
+      "url": "https://www.producthunt.com/products/trustedrouter",
+      "tagline": "",
+      "pub_date": "2026-08-31T09:38:25-07:00"
+    },
+    {
+      "title": "Keiki",
+      "url": "https://www.producthunt.com/products/keiki",
+      "tagline": "",
+      "pub_date": "2026-08-27T07:50:14-07:00"
+    },
+    {
+      "title": "Naseem",
+      "url": "https://www.producthunt.com/products/naseem-2",
+      "tagline": "",
+      "pub_date": "2026-08-31T07:06:45-07:00"
+    },
+    {
+      "title": "Cosmic Agent Plugins",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "tagline": "",
+      "pub_date": "2026-08-31T20:12:53-07:00"
+    },
+    {
+      "title": "Notchling",
+      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "tagline": "",
+      "pub_date": "2026-08-26T03:17:12-07:00"
+    },
+    {
+      "title": "Folio",
+      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
+      "tagline": "",
+      "pub_date": "2026-08-27T03:01:12-07:00"
+    },
+    {
+      "title": "ARC-24 Multitrack Groovebox for iOS",
+      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
+      "tagline": "",
+      "pub_date": "2026-08-13T09:30:37-07:00"
+    },
+    {
+      "title": "Tether",
+      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+      "tagline": "",
+      "pub_date": "2026-08-30T23:37:13-07:00"
     },
     {
       "title": "Video Agent by Fotor",
@@ -326,10 +172,22 @@
       "pub_date": "2026-08-17T05:24:54-07:00"
     },
     {
-      "title": "Orato",
-      "url": "https://www.producthunt.com/products/orato-speech-coach",
+      "title": "BrandMyLaptop",
+      "url": "https://www.producthunt.com/products/brandmylaptop",
       "tagline": "",
-      "pub_date": "2026-08-29T10:02:44-07:00"
+      "pub_date": "2026-08-28T09:24:44-07:00"
+    },
+    {
+      "title": "StackScope",
+      "url": "https://www.producthunt.com/products/stackscope-dev",
+      "tagline": "",
+      "pub_date": "2026-08-08T13:28:31-07:00"
+    },
+    {
+      "title": "FrameOS",
+      "url": "https://www.producthunt.com/products/frameos-3",
+      "tagline": "",
+      "pub_date": "2026-08-28T14:12:29-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:18:57.503Z",
+  "generated_at": "2026-09-02T15:44:02.568Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
       "url": "https://github.com/carloslfu/slotstream",
       "hn_url": "https://news.ycombinator.com/item?id=49524447",
-      "points": 213,
-      "comments": 97,
+      "points": 225,
+      "comments": 105,
       "created_ts": 1788280966,
       "author": "carloslfu"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
       "hn_url": "https://news.ycombinator.com/item?id=49528895",
-      "points": 145,
-      "comments": 65,
+      "points": 168,
+      "comments": 74,
       "created_ts": 1788300417,
       "author": "masteranza"
     },
@@ -25,28 +25,55 @@
       "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
       "url": "https://hnmatchmaker.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49528057",
-      "points": 91,
-      "comments": 39,
+      "points": 103,
+      "comments": 43,
       "created_ts": 1788296015,
       "author": "all2"
+    },
+    {
+      "title": "Show HN: ZSvirt – A lightweight, scalable open source virtualization platform",
+      "url": "https://github.com/ZSvirt/zsvirt",
+      "hn_url": "https://news.ycombinator.com/item?id=49536562",
+      "points": 30,
+      "comments": 1,
+      "created_ts": 1788358376,
+      "author": "czhou25"
     },
     {
       "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
       "url": "https://newtonsorchard.app",
       "hn_url": "https://news.ycombinator.com/item?id=49524469",
-      "points": 24,
-      "comments": 1,
+      "points": 27,
+      "comments": 3,
       "created_ts": 1788281020,
       "author": "andrewchilds"
+    },
+    {
+      "title": "Show HN: I Have Been Clawed – Index of coding agent incidents",
+      "url": "https://ihavebeenclawed.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49532083",
+      "points": 16,
+      "comments": 2,
+      "created_ts": 1788326623,
+      "author": "nezhar"
     },
     {
       "title": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
       "url": "https://www.supafork.com",
       "hn_url": "https://news.ycombinator.com/item?id=49524608",
-      "points": 14,
-      "comments": 8,
+      "points": 15,
+      "comments": 9,
       "created_ts": 1788281642,
       "author": "supafork"
+    },
+    {
+      "title": "Show HN: Claude and ChatGPT need a datacenter. This runs on my phone",
+      "url": "https://llmobi.pages.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49526848",
+      "points": 15,
+      "comments": 4,
+      "created_ts": 1788290927,
+      "author": "12ziyad"
     },
     {
       "title": "Show HN: Mcptunnels – ngrok for MCP with basic OAuth",
@@ -56,15 +83,6 @@
       "comments": 0,
       "created_ts": 1788294895,
       "author": "helpprotactiniu"
-    },
-    {
-      "title": "Show HN: Claude and ChatGPT need a datacenter. This runs on my phone",
-      "url": "https://llmobi.pages.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=49526848",
-      "points": 12,
-      "comments": 3,
-      "created_ts": 1788290927,
-      "author": "12ziyad"
     },
     {
       "title": "Show HN: Orthogonal – One integration for agents to discover and pay for APIs",
@@ -78,201 +96,84 @@
   ],
   "hn_front": [
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "hn_url": "https://news.ycombinator.com/item?id=49525378",
-      "points": 1256,
-      "comments": 1173,
-      "created_ts": 1788285233,
-      "author": "denysvitali"
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "hn_url": "https://news.ycombinator.com/item?id=49526069",
-      "points": 714,
-      "comments": 786,
-      "created_ts": 1788287715,
-      "author": "jatins"
-    },
-    {
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "hn_url": "https://news.ycombinator.com/item?id=49521973",
-      "points": 480,
-      "comments": 162,
-      "created_ts": 1788270409,
-      "author": "HieronymusBosch"
-    },
-    {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "hn_url": "https://news.ycombinator.com/item?id=49527396",
-      "points": 415,
-      "comments": 190,
-      "created_ts": 1788293277,
-      "author": "timpera"
-    },
-    {
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49523387",
-      "points": 276,
-      "comments": 82,
-      "created_ts": 1788276911,
-      "author": "kikkupico"
-    },
-    {
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "url": "https://moviescenemap.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49524320",
-      "points": 258,
-      "comments": 38,
-      "created_ts": 1788280485,
-      "author": "Flightmussy"
-    },
-    {
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "hn_url": "https://news.ycombinator.com/item?id=49525297",
-      "points": 238,
-      "comments": 176,
-      "created_ts": 1788284781,
-      "author": "steveklabnik"
-    },
-    {
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "hn_url": "https://news.ycombinator.com/item?id=49530989",
-      "points": 236,
-      "comments": 196,
-      "created_ts": 1788315670,
-      "author": "ptrhvns"
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "hn_url": "https://news.ycombinator.com/item?id=49529621",
-      "points": 226,
-      "comments": 95,
-      "created_ts": 1788304663,
-      "author": "tatersolid"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "hn_url": "https://news.ycombinator.com/item?id=49522897",
-      "points": 218,
-      "comments": 243,
-      "created_ts": 1788274877,
-      "author": "whoishiring"
-    },
-    {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "hn_url": "https://news.ycombinator.com/item?id=49524447",
-      "points": 213,
-      "comments": 97,
-      "created_ts": 1788280966,
-      "author": "carloslfu"
-    },
-    {
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "hn_url": "https://news.ycombinator.com/item?id=49529132",
-      "points": 210,
-      "comments": 124,
-      "created_ts": 1788301852,
-      "author": "raybb"
-    },
-    {
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49525153",
-      "points": 173,
-      "comments": 52,
-      "created_ts": 1788284110,
-      "author": "AntonioLi"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "hn_url": "https://news.ycombinator.com/item?id=49527595",
-      "points": 159,
-      "comments": 69,
-      "created_ts": 1788294041,
-      "author": "jithinraj"
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "hn_url": "https://news.ycombinator.com/item?id=49535752",
+      "points": 390,
+      "comments": 76,
+      "created_ts": 1788355032,
+      "author": "rwky"
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
       "url": "https://arxiv.org/abs/2608.29530",
       "hn_url": "https://news.ycombinator.com/item?id=49531651",
-      "points": 152,
-      "comments": 47,
+      "points": 233,
+      "comments": 80,
       "created_ts": 1788322556,
       "author": "schmuhblaster"
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "hn_url": "https://news.ycombinator.com/item?id=49528895",
-      "points": 145,
-      "comments": 65,
-      "created_ts": 1788300417,
-      "author": "masteranza"
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "hn_url": "https://news.ycombinator.com/item?id=49533497",
+      "points": 228,
+      "comments": 116,
+      "created_ts": 1788338203,
+      "author": "giuliomagnifico"
     },
     {
       "title": "Fine, I'll build my own text editor",
       "url": "https://dbushell.com/2026/09/01/text-editor/",
       "hn_url": "https://news.ycombinator.com/item?id=49524863",
-      "points": 130,
-      "comments": 116,
+      "points": 209,
+      "comments": 199,
       "created_ts": 1788282735,
       "author": "Alephinitesimal"
     },
     {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49527232",
-      "points": 127,
-      "comments": 55,
-      "created_ts": 1788292547,
-      "author": "jwise0"
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "hn_url": "https://news.ycombinator.com/item?id=49535526",
+      "points": 141,
+      "comments": 117,
+      "created_ts": 1788353740,
+      "author": "TechTechTech"
     },
     {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "hn_url": "https://news.ycombinator.com/item?id=49529898",
-      "points": 124,
-      "comments": 31,
-      "created_ts": 1788306485,
-      "author": "philipkiely"
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "hn_url": "https://news.ycombinator.com/item?id=49535284",
+      "points": 131,
+      "comments": 69,
+      "created_ts": 1788352239,
+      "author": "teekert"
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "hn_url": "https://news.ycombinator.com/item?id=49536375",
+      "points": 112,
+      "comments": 60,
+      "created_ts": 1788357599,
+      "author": "jakobgreenfeld"
+    },
+    {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "hn_url": "https://news.ycombinator.com/item?id=49534132",
+      "points": 103,
+      "comments": 85,
+      "created_ts": 1788343361,
+      "author": "amunozo"
     }
   ],
   "ph_today": [
     {
-      "title": "Parasocial",
-      "url": "https://www.producthunt.com/products/parasocial",
+      "title": "Doop",
+      "url": "https://www.producthunt.com/products/doop",
       "tagline": "",
-      "pub_date": "2026-08-18T08:15:24-07:00"
-    },
-    {
-      "title": "Userlens",
-      "url": "https://www.producthunt.com/products/userlens",
-      "tagline": "",
-      "pub_date": "2026-04-25T08:16:39-07:00"
-    },
-    {
-      "title": "HydraDB OSS",
-      "url": "https://www.producthunt.com/products/hydradb-oss",
-      "tagline": "",
-      "pub_date": "2026-07-10T01:07:54-07:00"
-    },
-    {
-      "title": "Articos",
-      "url": "https://www.producthunt.com/products/articos",
-      "tagline": "",
-      "pub_date": "2026-08-25T14:29:22-07:00"
+      "pub_date": "2026-09-01T23:26:19-07:00"
     },
     {
       "title": "OpenClaw 2.0",
@@ -281,76 +182,16 @@
       "pub_date": "2026-08-31T11:52:42-07:00"
     },
     {
+      "title": "Dyson CameraJet",
+      "url": "https://www.producthunt.com/products/dyson-humidifier",
+      "tagline": "",
+      "pub_date": "2026-09-01T22:33:12-07:00"
+    },
+    {
       "title": "Dial",
       "url": "https://www.producthunt.com/products/dial-3",
       "tagline": "",
       "pub_date": "2026-08-15T14:20:05-07:00"
-    },
-    {
-      "title": "Basedash AI Sources",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-09-01T21:29:20-07:00"
-    },
-    {
-      "title": "deepeye by deepidv",
-      "url": "https://www.producthunt.com/products/deepidv",
-      "tagline": "",
-      "pub_date": "2026-08-20T06:26:24-07:00"
-    },
-    {
-      "title": "Doop",
-      "url": "https://www.producthunt.com/products/doop",
-      "tagline": "",
-      "pub_date": "2026-09-01T23:26:19-07:00"
-    },
-    {
-      "title": "Roadie",
-      "url": "https://www.producthunt.com/products/roadie-4",
-      "tagline": "",
-      "pub_date": "2026-09-01T08:40:57-07:00"
-    },
-    {
-      "title": "Loqua",
-      "url": "https://www.producthunt.com/products/loqua",
-      "tagline": "",
-      "pub_date": "2026-08-21T03:15:57-07:00"
-    },
-    {
-      "title": "RoundOS",
-      "url": "https://www.producthunt.com/products/roundos-data-room",
-      "tagline": "",
-      "pub_date": "2026-09-01T00:29:27-07:00"
-    },
-    {
-      "title": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
-      "tagline": "",
-      "pub_date": "2026-09-01T03:31:29-07:00"
-    },
-    {
-      "title": "GhostReply",
-      "url": "https://www.producthunt.com/products/ghostreply-2",
-      "tagline": "",
-      "pub_date": "2026-08-31T21:35:26-07:00"
-    },
-    {
-      "title": "Browzer",
-      "url": "https://www.producthunt.com/products/browzer",
-      "tagline": "",
-      "pub_date": "2026-08-23T17:18:46-07:00"
-    },
-    {
-      "title": "Claude Fable 5.1",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "tagline": "",
-      "pub_date": "2026-09-01T14:04:24-07:00"
-    },
-    {
-      "title": "Touchy",
-      "url": "https://www.producthunt.com/products/touchy-3",
-      "tagline": "",
-      "pub_date": "2026-08-31T20:48:54-07:00"
     },
     {
       "title": "CleanShot 5.0 with Studio Mode",
@@ -359,16 +200,40 @@
       "pub_date": "2026-09-01T11:21:48-07:00"
     },
     {
-      "title": "Porte",
-      "url": "https://www.producthunt.com/products/porte",
+      "title": "Articos",
+      "url": "https://www.producthunt.com/products/articos",
       "tagline": "",
-      "pub_date": "2026-09-01T06:30:59-07:00"
+      "pub_date": "2026-08-25T14:29:22-07:00"
     },
     {
-      "title": "Stitch AI by Dynamic Mockups",
-      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+      "title": "Userlens",
+      "url": "https://www.producthunt.com/products/userlens",
       "tagline": "",
-      "pub_date": "2026-09-01T05:39:23-07:00"
+      "pub_date": "2026-04-25T08:16:39-07:00"
+    },
+    {
+      "title": "Basedash AI Sources",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-09-01T21:29:20-07:00"
+    },
+    {
+      "title": "HydraDB OSS",
+      "url": "https://www.producthunt.com/products/hydradb-oss",
+      "tagline": "",
+      "pub_date": "2026-07-10T01:07:54-07:00"
+    },
+    {
+      "title": "Dynamic Edge",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "tagline": "",
+      "pub_date": "2026-09-01T03:31:29-07:00"
+    },
+    {
+      "title": "Roadie",
+      "url": "https://www.producthunt.com/products/roadie-4",
+      "tagline": "",
+      "pub_date": "2026-09-01T08:40:57-07:00"
     },
     {
       "title": "Onset MCP",
@@ -377,28 +242,64 @@
       "pub_date": "2026-07-28T14:30:24-07:00"
     },
     {
+      "title": "Touchy",
+      "url": "https://www.producthunt.com/products/touchy-3",
+      "tagline": "",
+      "pub_date": "2026-08-31T20:48:54-07:00"
+    },
+    {
+      "title": "Parasocial",
+      "url": "https://www.producthunt.com/products/parasocial",
+      "tagline": "",
+      "pub_date": "2026-08-18T08:15:24-07:00"
+    },
+    {
+      "title": "Porte",
+      "url": "https://www.producthunt.com/products/porte",
+      "tagline": "",
+      "pub_date": "2026-09-01T06:30:59-07:00"
+    },
+    {
+      "title": "Claude Fable 5.1",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
+      "tagline": "",
+      "pub_date": "2026-09-01T14:04:24-07:00"
+    },
+    {
+      "title": "RoundOS",
+      "url": "https://www.producthunt.com/products/roundos-data-room",
+      "tagline": "",
+      "pub_date": "2026-09-01T00:29:27-07:00"
+    },
+    {
+      "title": "Browzer",
+      "url": "https://www.producthunt.com/products/browzer",
+      "tagline": "",
+      "pub_date": "2026-08-23T17:18:46-07:00"
+    },
+    {
       "title": "Monid",
       "url": "https://www.producthunt.com/products/monid",
       "tagline": "",
       "pub_date": "2026-08-31T00:07:32-07:00"
     },
     {
-      "title": "Dyson CameraJet",
-      "url": "https://www.producthunt.com/products/dyson-humidifier",
+      "title": "GhostReply",
+      "url": "https://www.producthunt.com/products/ghostreply-2",
       "tagline": "",
-      "pub_date": "2026-09-01T22:33:12-07:00"
+      "pub_date": "2026-08-31T21:35:26-07:00"
     },
     {
-      "title": "Notchling",
-      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "title": "deepeye by deepidv",
+      "url": "https://www.producthunt.com/products/deepidv",
       "tagline": "",
-      "pub_date": "2026-08-26T03:17:12-07:00"
+      "pub_date": "2026-08-20T06:26:24-07:00"
     },
     {
-      "title": "Tovel AI",
-      "url": "https://www.producthunt.com/products/tovel-ai",
+      "title": "Stitch AI by Dynamic Mockups",
+      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
       "tagline": "",
-      "pub_date": "2026-08-17T19:18:35-07:00"
+      "pub_date": "2026-09-01T05:39:23-07:00"
     },
     {
       "title": "ThunderPhone",
@@ -407,28 +308,46 @@
       "pub_date": "2026-08-27T15:32:20-07:00"
     },
     {
-      "title": "EAS Observe",
-      "url": "https://www.producthunt.com/products/expo",
+      "title": "Nodeterm",
+      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
       "tagline": "",
-      "pub_date": "2026-08-31T10:29:51-07:00"
+      "pub_date": "2026-08-31T08:00:07-07:00"
     },
     {
-      "title": "TrustedRouter",
-      "url": "https://www.producthunt.com/products/trustedrouter",
+      "title": "Computable GPU Index (CGI)",
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
       "tagline": "",
-      "pub_date": "2026-08-31T09:38:25-07:00"
+      "pub_date": "2026-08-27T03:31:39-07:00"
     },
     {
-      "title": "Gauth AI Course",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "title": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
       "tagline": "",
-      "pub_date": "2026-08-28T09:09:15-07:00"
+      "pub_date": "2026-08-30T21:01:50-07:00"
     },
     {
-      "title": "Kilo Code for JetBrains",
-      "url": "https://www.producthunt.com/products/kilocode",
+      "title": "Sourclip 2.0",
+      "url": "https://www.producthunt.com/products/sourclip",
       "tagline": "",
-      "pub_date": "2026-07-17T03:44:49-07:00"
+      "pub_date": "2026-08-29T09:48:32-07:00"
+    },
+    {
+      "title": "Folio",
+      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
+      "tagline": "",
+      "pub_date": "2026-08-27T03:01:12-07:00"
+    },
+    {
+      "title": "Keiki",
+      "url": "https://www.producthunt.com/products/keiki",
+      "tagline": "",
+      "pub_date": "2026-08-27T07:50:14-07:00"
+    },
+    {
+      "title": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
+      "tagline": "",
+      "pub_date": "2026-08-31T22:16:36-07:00"
     }
   ]
 }

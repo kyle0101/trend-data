@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:28:29.068Z",
+  "generated_at": "2026-09-03T15:34:01.259Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,26 +7,17 @@
       "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
       "url": "https://frontierharness.org",
       "hn_url": "https://news.ycombinator.com/item?id=49538490",
-      "points": 74,
-      "comments": 52,
+      "points": 76,
+      "comments": 55,
       "created_ts": 1788365692,
       "author": "shiqimei"
-    },
-    {
-      "title": "Show HN: ZSvirt – A lightweight, scalable open source virtualization platform",
-      "url": "https://github.com/ZSvirt/zsvirt",
-      "hn_url": "https://news.ycombinator.com/item?id=49536562",
-      "points": 71,
-      "comments": 14,
-      "created_ts": 1788358376,
-      "author": "czhou25"
     },
     {
       "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
       "url": "https://compute.cheap/",
       "hn_url": "https://news.ycombinator.com/item?id=49545411",
-      "points": 25,
-      "comments": 7,
+      "points": 41,
+      "comments": 16,
       "created_ts": 1788403847,
       "author": "EmiCorleone"
     },
@@ -34,7 +25,7 @@
       "title": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
       "url": "https://github.com/themartiano/try-omarchy",
       "hn_url": "https://news.ycombinator.com/item?id=49539913",
-      "points": 20,
+      "points": 22,
       "comments": 6,
       "created_ts": 1788371672,
       "author": "martiano"
@@ -43,34 +34,16 @@
       "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
       "url": "https://github.com/mezmo/aura",
       "hn_url": "https://news.ycombinator.com/item?id=49538195",
-      "points": 20,
-      "comments": 2,
+      "points": 21,
+      "comments": 3,
       "created_ts": 1788364514,
       "author": "jvogt"
-    },
-    {
-      "title": "Show HN: Kit. Claude Code but Concise",
-      "url": "https://github.com/speakeasy-api/kit",
-      "hn_url": "https://news.ycombinator.com/item?id=49537801",
-      "points": 12,
-      "comments": 1,
-      "created_ts": 1788363037,
-      "author": "danielkov"
-    },
-    {
-      "title": "Show HN: asciiQuake",
-      "url": "https://asciiquake.wtf/",
-      "hn_url": "https://news.ycombinator.com/item?id=49536481",
-      "points": 11,
-      "comments": 4,
-      "created_ts": 1788358040,
-      "author": "apresmoi"
     },
     {
       "title": "Show HN: Skatanica – Browse and share skate clips by location",
       "url": "https://skatanica.com/runs",
       "hn_url": "https://news.ycombinator.com/item?id=49538757",
-      "points": 11,
+      "points": 13,
       "comments": 3,
       "created_ts": 1788366831,
       "author": "ralusek"
@@ -78,115 +51,85 @@
   ],
   "hn_front": [
     {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "hn_url": "https://news.ycombinator.com/item?id=49537553",
-      "points": 1032,
-      "comments": 578,
-      "created_ts": 1788361960,
-      "author": "bratao"
-    },
-    {
       "title": "Muse Spark 1.3",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
       "hn_url": "https://news.ycombinator.com/item?id=49541256",
-      "points": 590,
-      "comments": 390,
+      "points": 652,
+      "comments": 427,
       "created_ts": 1788377704,
       "author": "bvaldivielso"
     },
     {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "hn_url": "https://news.ycombinator.com/item?id=49535284",
-      "points": 446,
-      "comments": 204,
-      "created_ts": 1788352239,
-      "author": "teekert"
-    },
-    {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "hn_url": "https://news.ycombinator.com/item?id=49536375",
-      "points": 423,
-      "comments": 207,
-      "created_ts": 1788357599,
-      "author": "jakobgreenfeld"
-    },
-    {
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49537131",
-      "points": 394,
-      "comments": 282,
-      "created_ts": 1788360376,
-      "author": "donohoe"
-    },
-    {
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "hn_url": "https://news.ycombinator.com/item?id=49536079",
-      "points": 300,
-      "comments": 105,
-      "created_ts": 1788356429,
-      "author": "randycupertino"
-    },
-    {
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "hn_url": "https://news.ycombinator.com/item?id=49535548",
-      "points": 288,
-      "comments": 119,
-      "created_ts": 1788353949,
-      "author": "mdp2021"
-    },
-    {
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "hn_url": "https://news.ycombinator.com/item?id=49536606",
-      "points": 269,
-      "comments": 92,
-      "created_ts": 1788358605,
-      "author": "akkartik"
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=49548395",
+      "points": 626,
+      "comments": 150,
+      "created_ts": 1788432788,
+      "author": "ClydeN"
     },
     {
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "hn_url": "https://news.ycombinator.com/item?id=49541458",
-      "points": 253,
-      "comments": 74,
+      "points": 307,
+      "comments": 88,
       "created_ts": 1788378541,
       "author": "surreal_"
-    },
-    {
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "hn_url": "https://news.ycombinator.com/item?id=49536177",
-      "points": 167,
-      "comments": 21,
-      "created_ts": 1788356869,
-      "author": "vismit2000"
     },
     {
       "title": "Pre-Release of Polars 2.0",
       "url": "https://pola.rs/posts/announcing-polars-2/",
       "hn_url": "https://news.ycombinator.com/item?id=49546753",
-      "points": 163,
-      "comments": 28,
+      "points": 305,
+      "comments": 100,
       "created_ts": 1788418748,
       "author": "komape"
     },
     {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "hn_url": "https://news.ycombinator.com/item?id=49540565",
-      "points": 142,
-      "comments": 87,
-      "created_ts": 1788374561,
-      "author": "gumby"
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49550614",
+      "points": 263,
+      "comments": 192,
+      "created_ts": 1788446807,
+      "author": "stacktrace"
+    },
+    {
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "hn_url": "https://news.ycombinator.com/item?id=49549676",
+      "points": 158,
+      "comments": 134,
+      "created_ts": 1788442152,
+      "author": "__vivek"
+    },
+    {
+      "title": "Nvidia to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "hn_url": "https://news.ycombinator.com/item?id=49548952",
+      "points": 153,
+      "comments": 44,
+      "created_ts": 1788437433,
+      "author": "tosh"
+    },
+    {
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "hn_url": "https://news.ycombinator.com/item?id=49546800",
+      "points": 125,
+      "comments": 51,
+      "created_ts": 1788419053,
+      "author": "DamonHD"
     }
   ],
   "ph_today": [
+    {
+      "title": "Omi",
+      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
+      "tagline": "",
+      "pub_date": "2026-09-02T22:25:44-07:00"
+    },
     {
       "title": "ARBR",
       "url": "https://www.producthunt.com/products/arbr",
@@ -200,16 +143,10 @@
       "pub_date": "2026-08-25T07:48:06-07:00"
     },
     {
-      "title": "Atlas by World Labs",
-      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
+      "title": "MagiCrew",
+      "url": "https://www.producthunt.com/products/magicrew",
       "tagline": "",
-      "pub_date": "2026-09-01T20:16:17-07:00"
-    },
-    {
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
-      "tagline": "",
-      "pub_date": "2026-09-02T20:04:36-07:00"
+      "pub_date": "2026-08-18T07:55:47-07:00"
     },
     {
       "title": "Readr",
@@ -218,52 +155,22 @@
       "pub_date": "2026-09-02T11:30:59-07:00"
     },
     {
-      "title": "Omi",
-      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
-      "tagline": "",
-      "pub_date": "2026-09-02T22:25:44-07:00"
-    },
-    {
-      "title": "Blume.codes",
-      "url": "https://www.producthunt.com/products/blume-codes",
-      "tagline": "",
-      "pub_date": "2026-08-31T10:22:47-07:00"
-    },
-    {
-      "title": "MagiCrew",
-      "url": "https://www.producthunt.com/products/magicrew",
-      "tagline": "",
-      "pub_date": "2026-08-18T07:55:47-07:00"
-    },
-    {
-      "title": "Thaw",
-      "url": "https://www.producthunt.com/products/thaw-2",
-      "tagline": "",
-      "pub_date": "2026-09-02T14:02:22-07:00"
-    },
-    {
-      "title": "Higgsfield Genjutsu",
-      "url": "https://www.producthunt.com/products/higgsfield",
-      "tagline": "",
-      "pub_date": "2026-09-02T11:56:29-07:00"
-    },
-    {
-      "title": "Grove",
-      "url": "https://www.producthunt.com/products/grove-8",
-      "tagline": "",
-      "pub_date": "2026-09-02T07:13:31-07:00"
-    },
-    {
       "title": "Causal",
       "url": "https://www.producthunt.com/products/causal-2",
       "tagline": "",
       "pub_date": "2026-09-02T04:32:44-07:00"
     },
     {
-      "title": "CodeLook",
-      "url": "https://www.producthunt.com/products/codelook",
+      "title": "Atlas by World Labs",
+      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
       "tagline": "",
-      "pub_date": "2026-09-02T12:46:18-07:00"
+      "pub_date": "2026-09-01T20:16:17-07:00"
+    },
+    {
+      "title": "Higgsfield Genjutsu",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "tagline": "",
+      "pub_date": "2026-09-02T11:56:29-07:00"
     },
     {
       "title": "Tabbit AI",
@@ -278,40 +185,94 @@
       "pub_date": "2026-09-01T12:04:06-07:00"
     },
     {
+      "title": "Grove",
+      "url": "https://www.producthunt.com/products/grove-8",
+      "tagline": "",
+      "pub_date": "2026-09-02T07:13:31-07:00"
+    },
+    {
+      "title": "Blume.codes",
+      "url": "https://www.producthunt.com/products/blume-codes",
+      "tagline": "",
+      "pub_date": "2026-08-31T10:22:47-07:00"
+    },
+    {
       "title": "Fillo",
       "url": "https://www.producthunt.com/products/fillo-native-forms-without-the-backend",
       "tagline": "",
       "pub_date": "2026-09-02T05:06:50-07:00"
     },
     {
-      "title": "Stitch AI by Dynamic Mockups",
-      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+      "title": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4",
       "tagline": "",
-      "pub_date": "2026-09-01T05:39:23-07:00"
+      "pub_date": "2026-09-02T20:04:36-07:00"
     },
     {
-      "title": "GhostReply",
-      "url": "https://www.producthunt.com/products/ghostreply-2",
+      "title": "CodeLook",
+      "url": "https://www.producthunt.com/products/codelook",
       "tagline": "",
-      "pub_date": "2026-08-31T21:35:26-07:00"
+      "pub_date": "2026-09-02T12:46:18-07:00"
+    },
+    {
+      "title": "Thaw",
+      "url": "https://www.producthunt.com/products/thaw-2",
+      "tagline": "",
+      "pub_date": "2026-09-02T14:02:22-07:00"
+    },
+    {
+      "title": "Monid",
+      "url": "https://www.producthunt.com/products/monid",
+      "tagline": "",
+      "pub_date": "2026-08-31T00:07:32-07:00"
+    },
+    {
+      "title": "deepeye by deepidv",
+      "url": "https://www.producthunt.com/products/deepidv",
+      "tagline": "",
+      "pub_date": "2026-08-20T06:26:24-07:00"
+    },
+    {
+      "title": "Touchy",
+      "url": "https://www.producthunt.com/products/touchy-3",
+      "tagline": "",
+      "pub_date": "2026-08-31T20:48:54-07:00"
+    },
+    {
+      "title": "Dial",
+      "url": "https://www.producthunt.com/products/dial-3",
+      "tagline": "",
+      "pub_date": "2026-08-15T14:20:05-07:00"
+    },
+    {
+      "title": "CleanShot 5.0 with Studio Mode",
+      "url": "https://www.producthunt.com/products/cleanshot",
+      "tagline": "",
+      "pub_date": "2026-09-01T11:21:48-07:00"
+    },
+    {
+      "title": "Browzer",
+      "url": "https://www.producthunt.com/products/browzer",
+      "tagline": "",
+      "pub_date": "2026-08-23T17:18:46-07:00"
+    },
+    {
+      "title": "Claude Fable 5.1",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
+      "tagline": "",
+      "pub_date": "2026-09-01T14:04:24-07:00"
+    },
+    {
+      "title": "Articos",
+      "url": "https://www.producthunt.com/products/articos",
+      "tagline": "",
+      "pub_date": "2026-08-25T14:29:22-07:00"
     },
     {
       "title": "Dynamic Edge",
       "url": "https://www.producthunt.com/products/dynamic-edge",
       "tagline": "",
       "pub_date": "2026-09-01T03:31:29-07:00"
-    },
-    {
-      "title": "Roadie",
-      "url": "https://www.producthunt.com/products/roadie-4",
-      "tagline": "",
-      "pub_date": "2026-09-01T08:40:57-07:00"
-    },
-    {
-      "title": "Porte",
-      "url": "https://www.producthunt.com/products/porte",
-      "tagline": "",
-      "pub_date": "2026-09-01T06:30:59-07:00"
     },
     {
       "title": "HydraDB OSS",
@@ -326,46 +287,22 @@
       "pub_date": "2026-09-01T21:29:20-07:00"
     },
     {
+      "title": "Roadie",
+      "url": "https://www.producthunt.com/products/roadie-4",
+      "tagline": "",
+      "pub_date": "2026-09-01T08:40:57-07:00"
+    },
+    {
+      "title": "Onset MCP",
+      "url": "https://www.producthunt.com/products/onset-io",
+      "tagline": "",
+      "pub_date": "2026-07-28T14:30:24-07:00"
+    },
+    {
       "title": "Userlens",
       "url": "https://www.producthunt.com/products/userlens",
       "tagline": "",
       "pub_date": "2026-04-25T08:16:39-07:00"
-    },
-    {
-      "title": "Doop",
-      "url": "https://www.producthunt.com/products/doop",
-      "tagline": "",
-      "pub_date": "2026-09-01T23:26:19-07:00"
-    },
-    {
-      "title": "deepeye by deepidv",
-      "url": "https://www.producthunt.com/products/deepidv",
-      "tagline": "",
-      "pub_date": "2026-08-20T06:26:24-07:00"
-    },
-    {
-      "title": "RoundOS",
-      "url": "https://www.producthunt.com/products/roundos-data-room",
-      "tagline": "",
-      "pub_date": "2026-09-01T00:29:27-07:00"
-    },
-    {
-      "title": "Parasocial",
-      "url": "https://www.producthunt.com/products/parasocial",
-      "tagline": "",
-      "pub_date": "2026-08-18T08:15:24-07:00"
-    },
-    {
-      "title": "Dial",
-      "url": "https://www.producthunt.com/products/dial-3",
-      "tagline": "",
-      "pub_date": "2026-08-15T14:20:05-07:00"
-    },
-    {
-      "title": "CleanShot 5.0 with Studio Mode",
-      "url": "https://www.producthunt.com/products/cleanshot",
-      "tagline": "",
-      "pub_date": "2026-09-01T11:21:48-07:00"
     }
   ]
 }

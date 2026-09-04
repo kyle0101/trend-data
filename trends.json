@@ -1,88 +1,52 @@
 {
-  "generated_at": "2026-09-04T15:32:18.955Z",
+  "generated_at": "2026-09-04T20:06:29.578Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49567437",
+      "points": 133,
+      "comments": 45,
+      "created_ts": 1788542288,
+      "author": "stingrae"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49562219",
+      "points": 46,
+      "comments": 19,
+      "created_ts": 1788512580,
+      "author": "gioscarab"
+    },
+    {
       "title": "Show HN: Prices.eu.org",
       "url": "https://prices.eu.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49562157",
-      "points": 13,
-      "comments": 7,
+      "points": 15,
+      "comments": 8,
       "created_ts": 1788511918,
       "author": "sourcecodeplz"
     }
   ],
   "hn_front": [
     {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "hn_url": "https://news.ycombinator.com/item?id=49554643",
-      "points": 1997,
-      "comments": 1826,
-      "created_ts": 1788460865,
-      "author": "kibae"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "hn_url": "https://news.ycombinator.com/item?id=49554520",
-      "points": 630,
-      "comments": 208,
-      "created_ts": 1788460333,
-      "author": "altertable"
-    },
-    {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "hn_url": "https://news.ycombinator.com/item?id=49563355",
-      "points": 606,
-      "comments": 417,
+      "points": 1215,
+      "comments": 994,
       "created_ts": 1788522893,
       "author": "moultano"
     },
     {
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "hn_url": "https://news.ycombinator.com/item?id=49561320",
-      "points": 401,
-      "comments": 169,
-      "created_ts": 1788504471,
-      "author": "beardyw"
-    },
-    {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "hn_url": "https://news.ycombinator.com/item?id=49552572",
-      "points": 328,
-      "comments": 106,
-      "created_ts": 1788452493,
-      "author": "speckx"
-    },
-    {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "hn_url": "https://news.ycombinator.com/item?id=49551760",
-      "points": 319,
-      "comments": 117,
-      "created_ts": 1788449803,
-      "author": "karimf"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "hn_url": "https://news.ycombinator.com/item?id=49557206",
-      "points": 267,
-      "comments": 125,
-      "created_ts": 1788470434,
-      "author": "screm"
-    },
-    {
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "title": "Solving the Jane Street reverse engineering challenge",
       "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
       "hn_url": "https://news.ycombinator.com/item?id=49562657",
-      "points": 221,
-      "comments": 58,
+      "points": 338,
+      "comments": 79,
       "created_ts": 1788517021,
       "author": "anitil"
     },
@@ -90,87 +54,72 @@
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "hn_url": "https://news.ycombinator.com/item?id=49563386",
-      "points": 167,
-      "comments": 25,
+      "points": 335,
+      "comments": 70,
       "created_ts": 1788523155,
       "author": "DeepLogin"
     },
     {
-      "title": "Project Xanadu: Even More Hindsight (2025)",
-      "url": "https://gwern.net/xanadu",
-      "hn_url": "https://news.ycombinator.com/item?id=49559522",
-      "points": 104,
-      "comments": 28,
-      "created_ts": 1788486323,
-      "author": "andsoitis"
+      "title": "IBM Bob",
+      "url": "https://bob.ibm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49563851",
+      "points": 174,
+      "comments": 203,
+      "created_ts": 1788526229,
+      "author": "artpar"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "hn_url": "https://news.ycombinator.com/item?id=49568506",
+      "points": 173,
+      "comments": 98,
+      "created_ts": 1788547376,
+      "author": "jlebar"
+    },
+    {
+      "title": "How Fairphone built the Fairphone Gen 6+",
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "hn_url": "https://news.ycombinator.com/item?id=49563784",
+      "points": 172,
+      "comments": 140,
+      "created_ts": 1788525829,
+      "author": "CrypticShift"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "hn_url": "https://news.ycombinator.com/item?id=49567053",
+      "points": 169,
+      "comments": 92,
+      "created_ts": 1788540419,
+      "author": "speckx"
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "hn_url": "https://news.ycombinator.com/item?id=49567594",
+      "points": 168,
+      "comments": 110,
+      "created_ts": 1788542962,
+      "author": "jslakro"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49567437",
+      "points": 133,
+      "comments": 45,
+      "created_ts": 1788542288,
+      "author": "stingrae"
     }
   ],
   "ph_today": [
-    {
-      "title": "Compliance by TwelveLabs",
-      "url": "https://www.producthunt.com/products/twelvelabs",
-      "tagline": "",
-      "pub_date": "2026-08-21T15:41:20-07:00"
-    },
-    {
-      "title": "cmmnts",
-      "url": "https://www.producthunt.com/products/cmmnts",
-      "tagline": "",
-      "pub_date": "2026-09-03T03:49:49-07:00"
-    },
-    {
-      "title": "Google Gemini 3.8 Flash and Cyber",
-      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
-      "tagline": "",
-      "pub_date": "2026-09-02T08:45:58-07:00"
-    },
     {
       "title": "GPT-6 Astra",
       "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
       "pub_date": "2026-09-03T13:14:40-07:00"
-    },
-    {
-      "title": "Chalked for Mac",
-      "url": "https://www.producthunt.com/products/chalked",
-      "tagline": "",
-      "pub_date": "2026-09-03T05:47:52-07:00"
-    },
-    {
-      "title": "sidebranch",
-      "url": "https://www.producthunt.com/products/sidebranch",
-      "tagline": "",
-      "pub_date": "2026-09-02T12:26:56-07:00"
-    },
-    {
-      "title": "Clockwork",
-      "url": "https://www.producthunt.com/products/clockwork-5",
-      "tagline": "",
-      "pub_date": "2026-09-03T08:55:16-07:00"
-    },
-    {
-      "title": "WeatherNext 3",
-      "url": "https://www.producthunt.com/products/weathernext-3",
-      "tagline": "",
-      "pub_date": "2026-09-03T08:17:27-07:00"
-    },
-    {
-      "title": "Offline JS Playground",
-      "url": "https://www.producthunt.com/products/offline-js-playground",
-      "tagline": "",
-      "pub_date": "2026-08-18T10:23:32-07:00"
-    },
-    {
-      "title": "myAIcademy",
-      "url": "https://www.producthunt.com/products/myaicademy",
-      "tagline": "",
-      "pub_date": "2026-08-28T09:01:08-07:00"
-    },
-    {
-      "title": "Snitch",
-      "url": "https://www.producthunt.com/products/snitch-4",
-      "tagline": "",
-      "pub_date": "2026-09-03T03:22:28-07:00"
     },
     {
       "title": "Inline",
@@ -179,10 +128,34 @@
       "pub_date": "2026-09-03T03:39:09-07:00"
     },
     {
-      "title": "TrackMCP",
-      "url": "https://www.producthunt.com/products/trackmcp",
+      "title": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy",
       "tagline": "",
-      "pub_date": "2026-09-01T01:37:38-07:00"
+      "pub_date": "2026-08-28T09:01:08-07:00"
+    },
+    {
+      "title": "Compliance by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "tagline": "",
+      "pub_date": "2026-08-21T15:41:20-07:00"
+    },
+    {
+      "title": "Clockwork",
+      "url": "https://www.producthunt.com/products/clockwork-5",
+      "tagline": "",
+      "pub_date": "2026-09-03T08:55:16-07:00"
+    },
+    {
+      "title": "sidebranch",
+      "url": "https://www.producthunt.com/products/sidebranch",
+      "tagline": "",
+      "pub_date": "2026-09-02T12:26:56-07:00"
+    },
+    {
+      "title": "WeatherNext 3",
+      "url": "https://www.producthunt.com/products/weathernext-3",
+      "tagline": "",
+      "pub_date": "2026-09-03T08:17:27-07:00"
     },
     {
       "title": "Omarchy",
@@ -191,70 +164,40 @@
       "pub_date": "2026-09-03T06:35:00-07:00"
     },
     {
-      "title": "Causal",
-      "url": "https://www.producthunt.com/products/causal-2",
+      "title": "Google Gemini 3.8 Flash and Cyber",
+      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
       "tagline": "",
-      "pub_date": "2026-09-02T04:32:44-07:00"
+      "pub_date": "2026-09-02T08:45:58-07:00"
     },
     {
-      "title": "Agent Builder by Airtop",
-      "url": "https://www.producthunt.com/products/airtop",
+      "title": "TrackMCP",
+      "url": "https://www.producthunt.com/products/trackmcp",
       "tagline": "",
-      "pub_date": "2026-08-25T07:48:06-07:00"
+      "pub_date": "2026-09-01T01:37:38-07:00"
     },
     {
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
+      "title": "Snitch",
+      "url": "https://www.producthunt.com/products/snitch-4",
       "tagline": "",
-      "pub_date": "2026-09-02T20:04:36-07:00"
+      "pub_date": "2026-09-03T03:22:28-07:00"
     },
     {
-      "title": "Readr",
-      "url": "https://www.producthunt.com/products/readr-3",
+      "title": "Offline JS Playground",
+      "url": "https://www.producthunt.com/products/offline-js-playground",
       "tagline": "",
-      "pub_date": "2026-09-02T11:30:59-07:00"
+      "pub_date": "2026-08-18T10:23:32-07:00"
     },
     {
-      "title": "Tabbit AI",
-      "url": "https://www.producthunt.com/products/tabbitai",
+      "title": "Chalked for Mac",
+      "url": "https://www.producthunt.com/products/chalked",
       "tagline": "",
-      "pub_date": "2026-08-21T04:43:12-07:00"
+      "pub_date": "2026-09-03T05:47:52-07:00"
     },
     {
-      "title": "Tidy",
-      "url": "https://www.producthunt.com/products/tidy-6",
+      "title": "cmmnts",
+      "url": "https://www.producthunt.com/products/cmmnts",
       "tagline": "",
-      "pub_date": "2026-09-01T12:04:06-07:00"
-    },
-    {
-      "title": "Higgsfield Genjutsu",
-      "url": "https://www.producthunt.com/products/higgsfield",
-      "tagline": "",
-      "pub_date": "2026-09-02T11:56:29-07:00"
-    },
-    {
-      "title": "Grove",
-      "url": "https://www.producthunt.com/products/grove-8",
-      "tagline": "",
-      "pub_date": "2026-09-02T07:13:31-07:00"
-    },
-    {
-      "title": "Omi",
-      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
-      "tagline": "",
-      "pub_date": "2026-09-02T22:25:44-07:00"
-    },
-    {
-      "title": "Atlas by World Labs",
-      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
-      "tagline": "",
-      "pub_date": "2026-09-01T20:16:17-07:00"
-    },
-    {
-      "title": "MagiCrew",
-      "url": "https://www.producthunt.com/products/magicrew",
-      "tagline": "",
-      "pub_date": "2026-08-18T07:55:47-07:00"
+      "pub_date": "2026-09-03T03:49:49-07:00"
     },
     {
       "title": "Thaw",
@@ -263,16 +206,46 @@
       "pub_date": "2026-09-02T14:02:22-07:00"
     },
     {
+      "title": "Agent Builder by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "tagline": "",
+      "pub_date": "2026-08-25T07:48:06-07:00"
+    },
+    {
+      "title": "Omi",
+      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
+      "tagline": "",
+      "pub_date": "2026-09-02T22:25:44-07:00"
+    },
+    {
+      "title": "Higgsfield Genjutsu",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "tagline": "",
+      "pub_date": "2026-09-02T11:56:29-07:00"
+    },
+    {
+      "title": "Causal",
+      "url": "https://www.producthunt.com/products/causal-2",
+      "tagline": "",
+      "pub_date": "2026-09-02T04:32:44-07:00"
+    },
+    {
+      "title": "Tabbit AI",
+      "url": "https://www.producthunt.com/products/tabbitai",
+      "tagline": "",
+      "pub_date": "2026-08-21T04:43:12-07:00"
+    },
+    {
+      "title": "Atlas by World Labs",
+      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
+      "tagline": "",
+      "pub_date": "2026-09-01T20:16:17-07:00"
+    },
+    {
       "title": "ARBR",
       "url": "https://www.producthunt.com/products/arbr",
       "tagline": "",
       "pub_date": "2026-08-25T04:23:26-07:00"
-    },
-    {
-      "title": "CodeLook",
-      "url": "https://www.producthunt.com/products/codelook",
-      "tagline": "",
-      "pub_date": "2026-09-02T12:46:18-07:00"
     },
     {
       "title": "Fillo",
@@ -281,10 +254,46 @@
       "pub_date": "2026-09-02T05:06:50-07:00"
     },
     {
+      "title": "Tidy",
+      "url": "https://www.producthunt.com/products/tidy-6",
+      "tagline": "",
+      "pub_date": "2026-09-01T12:04:06-07:00"
+    },
+    {
+      "title": "Grove",
+      "url": "https://www.producthunt.com/products/grove-8",
+      "tagline": "",
+      "pub_date": "2026-09-02T07:13:31-07:00"
+    },
+    {
       "title": "Blume.codes",
       "url": "https://www.producthunt.com/products/blume-codes",
       "tagline": "",
       "pub_date": "2026-08-31T10:22:47-07:00"
+    },
+    {
+      "title": "Readr",
+      "url": "https://www.producthunt.com/products/readr-3",
+      "tagline": "",
+      "pub_date": "2026-09-02T11:30:59-07:00"
+    },
+    {
+      "title": "MagiCrew",
+      "url": "https://www.producthunt.com/products/magicrew",
+      "tagline": "",
+      "pub_date": "2026-08-18T07:55:47-07:00"
+    },
+    {
+      "title": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4",
+      "tagline": "",
+      "pub_date": "2026-09-02T20:04:36-07:00"
+    },
+    {
+      "title": "CodeLook",
+      "url": "https://www.producthunt.com/products/codelook",
+      "tagline": "",
+      "pub_date": "2026-09-02T12:46:18-07:00"
     }
   ]
 }

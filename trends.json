@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:00:48.025Z",
+  "generated_at": "2026-09-06T14:43:11.878Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -16,8 +16,8 @@
       "title": "Show HN: Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels",
       "url": "https://kings.amaze-apps.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49578046",
-      "points": 14,
-      "comments": 1,
+      "points": 15,
+      "comments": 2,
       "created_ts": 1788625268,
       "author": "amaze-apps-com"
     },
@@ -47,6 +47,15 @@
       "comments": 0,
       "created_ts": 1788636467,
       "author": "alpbahadur"
+    },
+    {
+      "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+      "url": "https://keenbean.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49584880",
+      "points": 11,
+      "comments": 4,
+      "created_ts": 1788688392,
+      "author": "SavvyMonkey"
     }
   ],
   "hn_front": [
@@ -54,53 +63,53 @@
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "hn_url": "https://news.ycombinator.com/item?id=49580369",
-      "points": 605,
-      "comments": 318,
+      "points": 670,
+      "comments": 362,
       "created_ts": 1788640298,
       "author": "bookmtn"
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49581870",
-      "points": 404,
-      "comments": 60,
-      "created_ts": 1788651587,
-      "author": "ExMachina73"
     },
     {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "url": "https://cloudinabottle.org/blog/launch-post",
       "hn_url": "https://news.ycombinator.com/item?id=49582000",
-      "points": 403,
-      "comments": 189,
+      "points": 509,
+      "comments": 256,
       "created_ts": 1788653009,
       "author": "zplizzi"
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49581870",
+      "points": 502,
+      "comments": 88,
+      "created_ts": 1788651587,
+      "author": "ExMachina73"
     },
     {
       "title": "The revolt of the reader",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "hn_url": "https://news.ycombinator.com/item?id=49580939",
-      "points": 357,
-      "comments": 147,
+      "points": 468,
+      "comments": 218,
       "created_ts": 1788644269,
       "author": "chmaynard"
     },
     {
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "hn_url": "https://news.ycombinator.com/item?id=49576386",
-      "points": 343,
-      "comments": 99,
-      "created_ts": 1788615398,
-      "author": "networked"
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "hn_url": "https://news.ycombinator.com/item?id=49584083",
+      "points": 362,
+      "comments": 105,
+      "created_ts": 1788679266,
+      "author": "mpweiher"
     },
     {
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "hn_url": "https://news.ycombinator.com/item?id=49580164",
-      "points": 272,
-      "comments": 198,
+      "points": 333,
+      "comments": 225,
       "created_ts": 1788638555,
       "author": "canjobear"
     },
@@ -108,58 +117,49 @@
       "title": "Learn Programming with OCaml",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
       "hn_url": "https://news.ycombinator.com/item?id=49578280",
-      "points": 255,
-      "comments": 93,
+      "points": 288,
+      "comments": 121,
       "created_ts": 1788626702,
       "author": "elvis70"
     },
     {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "hn_url": "https://news.ycombinator.com/item?id=49582582",
-      "points": 181,
-      "comments": 136,
-      "created_ts": 1788659565,
-      "author": "Anon84"
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "hn_url": "https://news.ycombinator.com/item?id=49585644",
+      "points": 193,
+      "comments": 108,
+      "created_ts": 1788695803,
+      "author": "cyb0rg0"
     },
     {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "hn_url": "https://news.ycombinator.com/item?id=49576343",
-      "points": 173,
-      "comments": 33,
-      "created_ts": 1788615065,
-      "author": "torutofu"
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "hn_url": "https://news.ycombinator.com/item?id=49585627",
+      "points": 136,
+      "comments": 74,
+      "created_ts": 1788695620,
+      "author": "shubhamjain"
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "hn_url": "https://news.ycombinator.com/item?id=49584083",
-      "points": 125,
-      "comments": 10,
-      "created_ts": 1788679266,
-      "author": "mpweiher"
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "hn_url": "https://news.ycombinator.com/item?id=49585161",
+      "points": 108,
+      "comments": 123,
+      "created_ts": 1788691184,
+      "author": "jllyhill"
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "hn_url": "https://news.ycombinator.com/item?id=49582656",
+      "points": 104,
+      "comments": 45,
+      "created_ts": 1788660766,
+      "author": "firexcy"
     }
   ],
   "ph_today": [
-    {
-      "title": "Notify.domains",
-      "url": "https://www.producthunt.com/products/notify-domains",
-      "tagline": "",
-      "pub_date": "2026-08-28T16:28:49-07:00"
-    },
-    {
-      "title": "H3 Max by fal",
-      "url": "https://www.producthunt.com/products/fal-ai",
-      "tagline": "",
-      "pub_date": "2026-09-02T12:54:33-07:00"
-    },
-    {
-      "title": "Tadata",
-      "url": "https://www.producthunt.com/products/tadata",
-      "tagline": "",
-      "pub_date": "2025-12-16T12:05:20-08:00"
-    },
     {
       "title": "AI Toolbox 3.0",
       "url": "https://www.producthunt.com/products/chatgpt-toolbox",
@@ -171,6 +171,24 @@
       "url": "https://www.producthunt.com/products/google",
       "tagline": "",
       "pub_date": "2026-09-02T12:44:06-07:00"
+    },
+    {
+      "title": "Notify.domains",
+      "url": "https://www.producthunt.com/products/notify-domains",
+      "tagline": "",
+      "pub_date": "2026-08-28T16:28:49-07:00"
+    },
+    {
+      "title": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata",
+      "tagline": "",
+      "pub_date": "2025-12-16T12:05:20-08:00"
+    },
+    {
+      "title": "H3 Max by fal",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "tagline": "",
+      "pub_date": "2026-09-02T12:54:33-07:00"
     },
     {
       "title": "Kit by Speakeasy",
@@ -185,28 +203,16 @@
       "pub_date": "2026-09-04T14:26:52-07:00"
     },
     {
-      "title": "Queuebrick",
-      "url": "https://www.producthunt.com/products/queuebrick",
+      "title": "BrickForgerAI",
+      "url": "https://www.producthunt.com/products/brickforgerai",
       "tagline": "",
-      "pub_date": "2026-09-02T07:42:18-07:00"
+      "pub_date": "2026-09-02T03:45:38-07:00"
     },
     {
-      "title": "PostBox",
-      "url": "https://www.producthunt.com/products/postbox",
+      "title": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
       "tagline": "",
-      "pub_date": "2026-08-27T16:32:18-07:00"
-    },
-    {
-      "title": "Ponytail",
-      "url": "https://www.producthunt.com/products/ponytail",
-      "tagline": "",
-      "pub_date": "2026-09-04T07:18:13-07:00"
-    },
-    {
-      "title": "at8pm",
-      "url": "https://www.producthunt.com/products/at8pm",
-      "tagline": "",
-      "pub_date": "2026-09-03T04:59:03-07:00"
+      "pub_date": "2026-09-03T22:02:54-07:00"
     },
     {
       "title": "CommuteBar",
@@ -221,28 +227,10 @@
       "pub_date": "2026-09-01T01:22:47-07:00"
     },
     {
-      "title": "Retold",
-      "url": "https://www.producthunt.com/products/retold",
+      "title": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
       "tagline": "",
-      "pub_date": "2026-08-26T04:38:41-07:00"
-    },
-    {
-      "title": "GitWarren",
-      "url": "https://www.producthunt.com/products/gitwarren",
-      "tagline": "",
-      "pub_date": "2026-09-03T22:02:54-07:00"
-    },
-    {
-      "title": "BrickForgerAI",
-      "url": "https://www.producthunt.com/products/brickforgerai",
-      "tagline": "",
-      "pub_date": "2026-09-02T03:45:38-07:00"
-    },
-    {
-      "title": "dif.sh",
-      "url": "https://www.producthunt.com/products/dif-sh",
-      "tagline": "",
-      "pub_date": "2026-08-07T07:50:06-07:00"
+      "pub_date": "2026-09-03T20:10:57-07:00"
     },
     {
       "title": "Hyperprobe",
@@ -251,10 +239,40 @@
       "pub_date": "2026-08-30T20:39:25-07:00"
     },
     {
-      "title": "Experiential Labs",
-      "url": "https://www.producthunt.com/products/experiential-labs",
+      "title": "Retold",
+      "url": "https://www.producthunt.com/products/retold",
       "tagline": "",
-      "pub_date": "2026-09-03T20:10:57-07:00"
+      "pub_date": "2026-08-26T04:38:41-07:00"
+    },
+    {
+      "title": "PostBox",
+      "url": "https://www.producthunt.com/products/postbox",
+      "tagline": "",
+      "pub_date": "2026-08-27T16:32:18-07:00"
+    },
+    {
+      "title": "at8pm",
+      "url": "https://www.producthunt.com/products/at8pm",
+      "tagline": "",
+      "pub_date": "2026-09-03T04:59:03-07:00"
+    },
+    {
+      "title": "Queuebrick",
+      "url": "https://www.producthunt.com/products/queuebrick",
+      "tagline": "",
+      "pub_date": "2026-09-02T07:42:18-07:00"
+    },
+    {
+      "title": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "tagline": "",
+      "pub_date": "2026-09-04T07:18:13-07:00"
+    },
+    {
+      "title": "dif.sh",
+      "url": "https://www.producthunt.com/products/dif-sh",
+      "tagline": "",
+      "pub_date": "2026-08-07T07:50:06-07:00"
     },
     {
       "title": "TrackMCP",
@@ -263,10 +281,22 @@
       "pub_date": "2026-09-01T01:37:38-07:00"
     },
     {
-      "title": "Omarchy",
-      "url": "https://www.producthunt.com/products/omarchy-3",
+      "title": "cmmnts",
+      "url": "https://www.producthunt.com/products/cmmnts",
       "tagline": "",
-      "pub_date": "2026-09-03T06:35:00-07:00"
+      "pub_date": "2026-09-03T03:49:49-07:00"
+    },
+    {
+      "title": "Snitch",
+      "url": "https://www.producthunt.com/products/snitch-4",
+      "tagline": "",
+      "pub_date": "2026-09-03T03:22:28-07:00"
+    },
+    {
+      "title": "WeatherNext 3",
+      "url": "https://www.producthunt.com/products/weathernext-3",
+      "tagline": "",
+      "pub_date": "2026-09-03T08:17:27-07:00"
     },
     {
       "title": "Inline",
@@ -275,10 +305,10 @@
       "pub_date": "2026-09-03T03:39:09-07:00"
     },
     {
-      "title": "myAIcademy",
-      "url": "https://www.producthunt.com/products/myaicademy",
+      "title": "Google Gemini 3.8 Flash and Cyber",
+      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
       "tagline": "",
-      "pub_date": "2026-08-28T09:01:08-07:00"
+      "pub_date": "2026-09-02T08:45:58-07:00"
     },
     {
       "title": "GPT-6 Astra",
@@ -287,10 +317,10 @@
       "pub_date": "2026-09-03T13:14:40-07:00"
     },
     {
-      "title": "cmmnts",
-      "url": "https://www.producthunt.com/products/cmmnts",
+      "title": "Clockwork",
+      "url": "https://www.producthunt.com/products/clockwork-5",
       "tagline": "",
-      "pub_date": "2026-09-03T03:49:49-07:00"
+      "pub_date": "2026-09-03T08:55:16-07:00"
     },
     {
       "title": "Offline JS Playground",
@@ -305,22 +335,10 @@
       "pub_date": "2026-08-21T15:41:20-07:00"
     },
     {
-      "title": "Google Gemini 3.8 Flash and Cyber",
-      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
+      "title": "sidebranch",
+      "url": "https://www.producthunt.com/products/sidebranch",
       "tagline": "",
-      "pub_date": "2026-09-02T08:45:58-07:00"
-    },
-    {
-      "title": "Snitch",
-      "url": "https://www.producthunt.com/products/snitch-4",
-      "tagline": "",
-      "pub_date": "2026-09-03T03:22:28-07:00"
-    },
-    {
-      "title": "Chalked for Mac",
-      "url": "https://www.producthunt.com/products/chalked",
-      "tagline": "",
-      "pub_date": "2026-09-03T05:47:52-07:00"
+      "pub_date": "2026-09-02T12:26:56-07:00"
     }
   ]
 }

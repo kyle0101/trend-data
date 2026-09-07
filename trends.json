@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-09-06T19:49:44.997Z",
+  "generated_at": "2026-09-07T02:11:35.267Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "hn_url": "https://news.ycombinator.com/item?id=49590738",
+      "points": 69,
+      "comments": 22,
+      "created_ts": 1788727513,
+      "author": "bosmarcel"
+    },
+    {
       "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
       "url": "https://github.com/scastiel/kado",
       "hn_url": "https://news.ycombinator.com/item?id=49586902",
-      "points": 49,
-      "comments": 28,
+      "points": 68,
+      "comments": 30,
       "created_ts": 1788705286,
       "author": "scastiel"
+    },
+    {
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "url": "https://getvodforge.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49590354",
+      "points": 33,
+      "comments": 6,
+      "created_ts": 1788725250,
+      "author": "coopernusbaum"
+    },
+    {
+      "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+      "url": "https://github.com/FulltimeFeline/Sol",
+      "hn_url": "https://news.ycombinator.com/item?id=49590524",
+      "points": 29,
+      "comments": 17,
+      "created_ts": 1788726296,
+      "author": "fulltimefeline"
     },
     {
       "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
@@ -24,83 +51,56 @@
   ],
   "hn_front": [
     {
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "hn_url": "https://news.ycombinator.com/item?id=49586171",
-      "points": 1127,
-      "comments": 226,
-      "created_ts": 1788699761,
-      "author": "mraniki"
-    },
-    {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "hn_url": "https://news.ycombinator.com/item?id=49582000",
-      "points": 579,
-      "comments": 283,
-      "created_ts": 1788653009,
-      "author": "zplizzi"
-    },
-    {
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "hn_url": "https://news.ycombinator.com/item?id=49580939",
-      "points": 538,
-      "comments": 253,
-      "created_ts": 1788644269,
-      "author": "chmaynard"
-    },
-    {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "hn_url": "https://news.ycombinator.com/item?id=49584083",
-      "points": 480,
-      "comments": 153,
+      "points": 561,
+      "comments": 179,
       "created_ts": 1788679266,
       "author": "mpweiher"
     },
     {
-      "title": "A/I shuts down – Stay human",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "hn_url": "https://news.ycombinator.com/item?id=49586898",
-      "points": 379,
-      "comments": 258,
-      "created_ts": 1788705274,
-      "author": "captainmuon"
-    },
-    {
-      "title": "Your intellectual fly is open (2025)",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "hn_url": "https://news.ycombinator.com/item?id=49585644",
-      "points": 368,
-      "comments": 247,
+      "points": 531,
+      "comments": 343,
       "created_ts": 1788695803,
       "author": "cyb0rg0"
     },
     {
-      "title": "Doomscrolling Ourselves to Death",
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "hn_url": "https://news.ycombinator.com/item?id=49586898",
+      "points": 529,
+      "comments": 415,
+      "created_ts": 1788705274,
+      "author": "captainmuon"
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "hn_url": "https://news.ycombinator.com/item?id=49588988",
+      "points": 480,
+      "comments": 250,
+      "created_ts": 1788716987,
+      "author": "zImPatrick"
+    },
+    {
+      "title": "Doomscrolling ourselves to death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
       "hn_url": "https://news.ycombinator.com/item?id=49585627",
-      "points": 279,
-      "comments": 197,
+      "points": 369,
+      "comments": 269,
       "created_ts": 1788695620,
       "author": "shubhamjain"
     },
     {
-      "title": "Following legal advice, the Nitter project will continue",
-      "url": "https://github.com/zedeus/nitter",
-      "hn_url": "https://news.ycombinator.com/item?id=49589003",
-      "points": 213,
-      "comments": 50,
-      "created_ts": 1788717083,
-      "author": "Cider9986"
-    },
-    {
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
       "hn_url": "https://news.ycombinator.com/item?id=49586698",
-      "points": 211,
-      "comments": 134,
+      "points": 359,
+      "comments": 201,
       "created_ts": 1788703739,
       "author": "mdp2021"
     },
@@ -108,39 +108,54 @@
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind/",
       "hn_url": "https://news.ycombinator.com/item?id=49588080",
-      "points": 174,
-      "comments": 117,
+      "points": 336,
+      "comments": 287,
       "created_ts": 1788712025,
       "author": "tosh"
     },
     {
-      "title": "Nitter is unarchived and will continue",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "hn_url": "https://news.ycombinator.com/item?id=49588988",
-      "points": 158,
-      "comments": 42,
-      "created_ts": 1788716987,
-      "author": "zImPatrick"
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "hn_url": "https://news.ycombinator.com/item?id=49590512",
+      "points": 203,
+      "comments": 131,
+      "created_ts": 1788726240,
+      "author": "Cider9986"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "hn_url": "https://news.ycombinator.com/item?id=49590611",
+      "points": 146,
+      "comments": 89,
+      "created_ts": 1788726758,
+      "author": "xena"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "hn_url": "https://news.ycombinator.com/item?id=49587217",
+      "points": 119,
+      "comments": 76,
+      "created_ts": 1788707324,
+      "author": "iamsyr"
+    },
+    {
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "hn_url": "https://news.ycombinator.com/item?id=49587636",
+      "points": 108,
+      "comments": 8,
+      "created_ts": 1788709464,
+      "author": "jaypatelani"
     }
   ],
   "ph_today": [
     {
-      "title": "AI Toolbox 3.0",
-      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
+      "title": "Kit by Speakeasy",
+      "url": "https://www.producthunt.com/products/speakeasydev",
       "tagline": "",
-      "pub_date": "2026-07-25T06:16:23-07:00"
-    },
-    {
-      "title": "Notify.domains",
-      "url": "https://www.producthunt.com/products/notify-domains",
-      "tagline": "",
-      "pub_date": "2026-08-28T16:28:49-07:00"
-    },
-    {
-      "title": "Agentic Video Understanding in Gemini",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-09-02T12:44:06-07:00"
+      "pub_date": "2026-09-02T07:23:38-07:00"
     },
     {
       "title": "H3 Max by fal",
@@ -149,10 +164,22 @@
       "pub_date": "2026-09-02T12:54:33-07:00"
     },
     {
-      "title": "Kit by Speakeasy",
-      "url": "https://www.producthunt.com/products/speakeasydev",
+      "title": "Agentic Video Understanding in Gemini",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-09-02T07:23:38-07:00"
+      "pub_date": "2026-09-02T12:44:06-07:00"
+    },
+    {
+      "title": "Notify.domains",
+      "url": "https://www.producthunt.com/products/notify-domains",
+      "tagline": "",
+      "pub_date": "2026-08-28T16:28:49-07:00"
+    },
+    {
+      "title": "AI Toolbox 3.0",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
+      "tagline": "",
+      "pub_date": "2026-07-25T06:16:23-07:00"
     },
     {
       "title": "DocsAlot Visual Editor",
@@ -167,52 +194,16 @@
       "pub_date": "2025-12-16T12:05:20-08:00"
     },
     {
-      "title": "Reflexio",
-      "url": "https://www.producthunt.com/products/reflexio-2",
-      "tagline": "",
-      "pub_date": "2026-09-01T01:22:47-07:00"
-    },
-    {
       "title": "dif.sh",
       "url": "https://www.producthunt.com/products/dif-sh",
       "tagline": "",
       "pub_date": "2026-08-07T07:50:06-07:00"
     },
     {
-      "title": "Hyperprobe",
-      "url": "https://www.producthunt.com/products/hyperprobe",
+      "title": "Retold",
+      "url": "https://www.producthunt.com/products/retold",
       "tagline": "",
-      "pub_date": "2026-08-30T20:39:25-07:00"
-    },
-    {
-      "title": "at8pm",
-      "url": "https://www.producthunt.com/products/at8pm",
-      "tagline": "",
-      "pub_date": "2026-09-03T04:59:03-07:00"
-    },
-    {
-      "title": "Experiential Labs",
-      "url": "https://www.producthunt.com/products/experiential-labs",
-      "tagline": "",
-      "pub_date": "2026-09-03T20:10:57-07:00"
-    },
-    {
-      "title": "CommuteBar",
-      "url": "https://www.producthunt.com/products/commutebar",
-      "tagline": "",
-      "pub_date": "2026-08-31T20:02:18-07:00"
-    },
-    {
-      "title": "GitWarren",
-      "url": "https://www.producthunt.com/products/gitwarren",
-      "tagline": "",
-      "pub_date": "2026-09-03T22:02:54-07:00"
-    },
-    {
-      "title": "BrickForgerAI",
-      "url": "https://www.producthunt.com/products/brickforgerai",
-      "tagline": "",
-      "pub_date": "2026-09-02T03:45:38-07:00"
+      "pub_date": "2026-08-26T04:38:41-07:00"
     },
     {
       "title": "Ponytail",
@@ -221,16 +212,52 @@
       "pub_date": "2026-09-04T07:18:13-07:00"
     },
     {
+      "title": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
+      "tagline": "",
+      "pub_date": "2026-08-30T20:39:25-07:00"
+    },
+    {
+      "title": "BrickForgerAI",
+      "url": "https://www.producthunt.com/products/brickforgerai",
+      "tagline": "",
+      "pub_date": "2026-09-02T03:45:38-07:00"
+    },
+    {
+      "title": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
+      "tagline": "",
+      "pub_date": "2026-09-03T20:10:57-07:00"
+    },
+    {
+      "title": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "tagline": "",
+      "pub_date": "2026-09-03T22:02:54-07:00"
+    },
+    {
       "title": "PostBox",
       "url": "https://www.producthunt.com/products/postbox",
       "tagline": "",
       "pub_date": "2026-08-27T16:32:18-07:00"
     },
     {
-      "title": "Retold",
-      "url": "https://www.producthunt.com/products/retold",
+      "title": "CommuteBar",
+      "url": "https://www.producthunt.com/products/commutebar",
       "tagline": "",
-      "pub_date": "2026-08-26T04:38:41-07:00"
+      "pub_date": "2026-08-31T20:02:18-07:00"
+    },
+    {
+      "title": "at8pm",
+      "url": "https://www.producthunt.com/products/at8pm",
+      "tagline": "",
+      "pub_date": "2026-09-03T04:59:03-07:00"
+    },
+    {
+      "title": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2",
+      "tagline": "",
+      "pub_date": "2026-09-01T01:22:47-07:00"
     },
     {
       "title": "Queuebrick",
@@ -251,22 +278,16 @@
       "pub_date": "2026-09-02T08:45:58-07:00"
     },
     {
-      "title": "Clockwork",
-      "url": "https://www.producthunt.com/products/clockwork-5",
-      "tagline": "",
-      "pub_date": "2026-09-03T08:55:16-07:00"
-    },
-    {
-      "title": "Chalked for Mac",
-      "url": "https://www.producthunt.com/products/chalked",
-      "tagline": "",
-      "pub_date": "2026-09-03T05:47:52-07:00"
-    },
-    {
       "title": "sidebranch",
       "url": "https://www.producthunt.com/products/sidebranch",
       "tagline": "",
       "pub_date": "2026-09-02T12:26:56-07:00"
+    },
+    {
+      "title": "Offline JS Playground",
+      "url": "https://www.producthunt.com/products/offline-js-playground",
+      "tagline": "",
+      "pub_date": "2026-08-18T10:23:32-07:00"
     },
     {
       "title": "Snitch",
@@ -275,10 +296,10 @@
       "pub_date": "2026-09-03T03:22:28-07:00"
     },
     {
-      "title": "Omarchy",
-      "url": "https://www.producthunt.com/products/omarchy-3",
+      "title": "WeatherNext 3",
+      "url": "https://www.producthunt.com/products/weathernext-3",
       "tagline": "",
-      "pub_date": "2026-09-03T06:35:00-07:00"
+      "pub_date": "2026-09-03T08:17:27-07:00"
     },
     {
       "title": "GPT-6 Astra",
@@ -287,22 +308,28 @@
       "pub_date": "2026-09-03T13:14:40-07:00"
     },
     {
+      "title": "Chalked for Mac",
+      "url": "https://www.producthunt.com/products/chalked",
+      "tagline": "",
+      "pub_date": "2026-09-03T05:47:52-07:00"
+    },
+    {
+      "title": "Compliance by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "tagline": "",
+      "pub_date": "2026-08-21T15:41:20-07:00"
+    },
+    {
+      "title": "Clockwork",
+      "url": "https://www.producthunt.com/products/clockwork-5",
+      "tagline": "",
+      "pub_date": "2026-09-03T08:55:16-07:00"
+    },
+    {
       "title": "myAIcademy",
       "url": "https://www.producthunt.com/products/myaicademy",
       "tagline": "",
       "pub_date": "2026-08-28T09:01:08-07:00"
-    },
-    {
-      "title": "WeatherNext 3",
-      "url": "https://www.producthunt.com/products/weathernext-3",
-      "tagline": "",
-      "pub_date": "2026-09-03T08:17:27-07:00"
-    },
-    {
-      "title": "Inline",
-      "url": "https://www.producthunt.com/products/inline-5",
-      "tagline": "",
-      "pub_date": "2026-09-03T03:39:09-07:00"
     }
   ]
 }

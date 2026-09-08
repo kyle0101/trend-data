@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-07T20:57:07.785Z",
+  "generated_at": "2026-09-08T02:23:50.479Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-      "url": "https://gettogether.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=49592840",
-      "points": 99,
-      "comments": 52,
-      "created_ts": 1788745271,
-      "author": "nchudleigh"
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "hn_url": "https://news.ycombinator.com/item?id=49603546",
+      "points": 104,
+      "comments": 33,
+      "created_ts": 1788819158,
+      "author": "CMDDestory"
     },
     {
       "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
       "url": "https://github.com/timgordontg/engrim",
       "hn_url": "https://news.ycombinator.com/item?id=49594008",
-      "points": 81,
-      "comments": 48,
+      "points": 82,
+      "comments": 50,
       "created_ts": 1788756576,
       "author": "timgordontg"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: HomeCat – Design your backyard office",
       "url": "https://myhomecat.com",
       "hn_url": "https://news.ycombinator.com/item?id=49601328",
-      "points": 17,
-      "comments": 9,
+      "points": 30,
+      "comments": 15,
       "created_ts": 1788805415,
       "author": "dearilos"
     },
@@ -34,10 +34,19 @@
       "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
       "url": "https://github.com/logimaxx/wg-admin",
       "hn_url": "https://news.ycombinator.com/item?id=49600269",
-      "points": 15,
-      "comments": 3,
+      "points": 25,
+      "comments": 6,
       "created_ts": 1788799417,
       "author": "vsergione"
+    },
+    {
+      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+      "url": "https://news.ycombinator.com/item?id=49599559",
+      "hn_url": "https://news.ycombinator.com/item?id=49599559",
+      "points": 11,
+      "comments": 7,
+      "created_ts": 1788795280,
+      "author": "fabian_shipamax"
     }
   ],
   "hn_front": [
@@ -45,8 +54,8 @@
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
       "hn_url": "https://news.ycombinator.com/item?id=49593563",
-      "points": 905,
-      "comments": 223,
+      "points": 958,
+      "comments": 247,
       "created_ts": 1788751791,
       "author": "sonicrocketman"
     },
@@ -54,75 +63,72 @@
       "title": "bzip3",
       "url": "https://github.com/iczelia/bzip3",
       "hn_url": "https://news.ycombinator.com/item?id=49598291",
-      "points": 333,
-      "comments": 95,
+      "points": 387,
+      "comments": 110,
       "created_ts": 1788788113,
       "author": "tosh"
-    },
-    {
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "hn_url": "https://news.ycombinator.com/item?id=49592375",
-      "points": 290,
-      "comments": 609,
-      "created_ts": 1788740524,
-      "author": "treve"
-    },
-    {
-      "title": "Bill Gates tries to install MovieMaker (2003)",
-      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-      "hn_url": "https://news.ycombinator.com/item?id=49599481",
-      "points": 281,
-      "comments": 183,
-      "created_ts": 1788794823,
-      "author": "highfrequency"
     },
     {
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=49596055",
-      "points": 197,
-      "comments": 60,
+      "points": 232,
+      "comments": 82,
       "created_ts": 1788773213,
       "author": "astroanax"
+    },
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49601655",
+      "points": 224,
+      "comments": 111,
+      "created_ts": 1788807126,
+      "author": "rustywasm"
     },
     {
       "title": "Live map of public transport in Belgium",
       "url": "https://openbaarvervoerbelgie.be/",
       "hn_url": "https://news.ycombinator.com/item?id=49595865",
-      "points": 169,
-      "comments": 72,
+      "points": 187,
+      "comments": 77,
       "created_ts": 1788771767,
       "author": "coinfused"
     },
     {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "hn_url": "https://news.ycombinator.com/item?id=49596054",
-      "points": 123,
-      "comments": 41,
-      "created_ts": 1788773201,
-      "author": "ankitg12"
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "hn_url": "https://news.ycombinator.com/item?id=49603546",
+      "points": 104,
+      "comments": 33,
+      "created_ts": 1788819158,
+      "author": "CMDDestory"
     }
   ],
   "ph_today": [
     {
-      "title": "Scriptly",
-      "url": "https://www.producthunt.com/products/sciptly",
+      "title": "PR Lens by Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
       "tagline": "",
-      "pub_date": "2026-09-04T01:09:19-07:00"
-    },
-    {
-      "title": "Assist",
-      "url": "https://www.producthunt.com/products/assist-4",
-      "tagline": "",
-      "pub_date": "2026-09-06T03:08:53-07:00"
+      "pub_date": "2026-08-28T05:00:55-07:00"
     },
     {
       "title": "Nina by Antalpha",
       "url": "https://www.producthunt.com/products/antalpha",
       "tagline": "",
       "pub_date": "2026-08-28T02:37:21-07:00"
+    },
+    {
+      "title": "Remind",
+      "url": "https://www.producthunt.com/products/remind-7",
+      "tagline": "",
+      "pub_date": "2026-09-06T09:10:46-07:00"
+    },
+    {
+      "title": "Clipnote",
+      "url": "https://www.producthunt.com/products/clipnote-2",
+      "tagline": "",
+      "pub_date": "2026-09-06T18:55:40-07:00"
     },
     {
       "title": "Bloop",
@@ -137,34 +143,28 @@
       "pub_date": "2026-09-06T16:16:55-07:00"
     },
     {
+      "title": "Tucky",
+      "url": "https://www.producthunt.com/products/tucky",
+      "tagline": "",
+      "pub_date": "2026-09-06T14:09:48-07:00"
+    },
+    {
+      "title": "Scriptly",
+      "url": "https://www.producthunt.com/products/sciptly",
+      "tagline": "",
+      "pub_date": "2026-09-04T01:09:19-07:00"
+    },
+    {
       "title": "Routines by Databox",
       "url": "https://www.producthunt.com/products/databox",
       "tagline": "",
       "pub_date": "2026-08-27T02:02:16-07:00"
     },
     {
-      "title": "Clipnote",
-      "url": "https://www.producthunt.com/products/clipnote-2",
+      "title": "Assist",
+      "url": "https://www.producthunt.com/products/assist-4",
       "tagline": "",
-      "pub_date": "2026-09-06T18:55:40-07:00"
-    },
-    {
-      "title": "PR Lens by Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "tagline": "",
-      "pub_date": "2026-08-28T05:00:55-07:00"
-    },
-    {
-      "title": "Remind",
-      "url": "https://www.producthunt.com/products/remind-7",
-      "tagline": "",
-      "pub_date": "2026-09-06T09:10:46-07:00"
-    },
-    {
-      "title": "Tucky",
-      "url": "https://www.producthunt.com/products/tucky",
-      "tagline": "",
-      "pub_date": "2026-09-06T14:09:48-07:00"
+      "pub_date": "2026-09-06T03:08:53-07:00"
     },
     {
       "title": "DocsAlot Visual Editor",
@@ -173,16 +173,10 @@
       "pub_date": "2026-09-04T14:26:52-07:00"
     },
     {
-      "title": "Tadata",
-      "url": "https://www.producthunt.com/products/tadata",
+      "title": "AI Toolbox 3.0",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
       "tagline": "",
-      "pub_date": "2025-12-16T12:05:20-08:00"
-    },
-    {
-      "title": "Kit by Speakeasy",
-      "url": "https://www.producthunt.com/products/speakeasydev",
-      "tagline": "",
-      "pub_date": "2026-09-02T07:23:38-07:00"
+      "pub_date": "2026-07-25T06:16:23-07:00"
     },
     {
       "title": "H3 Max by fal",
@@ -191,10 +185,10 @@
       "pub_date": "2026-09-02T12:54:33-07:00"
     },
     {
-      "title": "AI Toolbox 3.0",
-      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
+      "title": "Kit by Speakeasy",
+      "url": "https://www.producthunt.com/products/speakeasydev",
       "tagline": "",
-      "pub_date": "2026-07-25T06:16:23-07:00"
+      "pub_date": "2026-09-02T07:23:38-07:00"
     },
     {
       "title": "Agentic Video Understanding in Gemini",
@@ -203,52 +197,16 @@
       "pub_date": "2026-09-02T12:44:06-07:00"
     },
     {
+      "title": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata",
+      "tagline": "",
+      "pub_date": "2025-12-16T12:05:20-08:00"
+    },
+    {
       "title": "Notify.domains",
       "url": "https://www.producthunt.com/products/notify-domains",
       "tagline": "",
       "pub_date": "2026-08-28T16:28:49-07:00"
-    },
-    {
-      "title": "Ponytail",
-      "url": "https://www.producthunt.com/products/ponytail",
-      "tagline": "",
-      "pub_date": "2026-09-04T07:18:13-07:00"
-    },
-    {
-      "title": "Retold",
-      "url": "https://www.producthunt.com/products/retold",
-      "tagline": "",
-      "pub_date": "2026-08-26T04:38:41-07:00"
-    },
-    {
-      "title": "Hyperprobe",
-      "url": "https://www.producthunt.com/products/hyperprobe",
-      "tagline": "",
-      "pub_date": "2026-08-30T20:39:25-07:00"
-    },
-    {
-      "title": "Queuebrick",
-      "url": "https://www.producthunt.com/products/queuebrick",
-      "tagline": "",
-      "pub_date": "2026-09-02T07:42:18-07:00"
-    },
-    {
-      "title": "PostBox",
-      "url": "https://www.producthunt.com/products/postbox",
-      "tagline": "",
-      "pub_date": "2026-08-27T16:32:18-07:00"
-    },
-    {
-      "title": "GitWarren",
-      "url": "https://www.producthunt.com/products/gitwarren",
-      "tagline": "",
-      "pub_date": "2026-09-03T22:02:54-07:00"
-    },
-    {
-      "title": "BrickForgerAI",
-      "url": "https://www.producthunt.com/products/brickforgerai",
-      "tagline": "",
-      "pub_date": "2026-09-02T03:45:38-07:00"
     },
     {
       "title": "CommuteBar",
@@ -257,10 +215,40 @@
       "pub_date": "2026-08-31T20:02:18-07:00"
     },
     {
+      "title": "Queuebrick",
+      "url": "https://www.producthunt.com/products/queuebrick",
+      "tagline": "",
+      "pub_date": "2026-09-02T07:42:18-07:00"
+    },
+    {
+      "title": "Retold",
+      "url": "https://www.producthunt.com/products/retold",
+      "tagline": "",
+      "pub_date": "2026-08-26T04:38:41-07:00"
+    },
+    {
+      "title": "at8pm",
+      "url": "https://www.producthunt.com/products/at8pm",
+      "tagline": "",
+      "pub_date": "2026-09-03T04:59:03-07:00"
+    },
+    {
       "title": "Reflexio",
       "url": "https://www.producthunt.com/products/reflexio-2",
       "tagline": "",
       "pub_date": "2026-09-01T01:22:47-07:00"
+    },
+    {
+      "title": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "tagline": "",
+      "pub_date": "2026-09-03T22:02:54-07:00"
+    },
+    {
+      "title": "PostBox",
+      "url": "https://www.producthunt.com/products/postbox",
+      "tagline": "",
+      "pub_date": "2026-08-27T16:32:18-07:00"
     },
     {
       "title": "Experiential Labs",
@@ -269,10 +257,22 @@
       "pub_date": "2026-09-03T20:10:57-07:00"
     },
     {
-      "title": "at8pm",
-      "url": "https://www.producthunt.com/products/at8pm",
+      "title": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
       "tagline": "",
-      "pub_date": "2026-09-03T04:59:03-07:00"
+      "pub_date": "2026-08-30T20:39:25-07:00"
+    },
+    {
+      "title": "BrickForgerAI",
+      "url": "https://www.producthunt.com/products/brickforgerai",
+      "tagline": "",
+      "pub_date": "2026-09-02T03:45:38-07:00"
+    },
+    {
+      "title": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "tagline": "",
+      "pub_date": "2026-09-04T07:18:13-07:00"
     },
     {
       "title": "dif.sh",

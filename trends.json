@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:26:12.657Z",
+  "generated_at": "2026-09-09T10:31:21.700Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=49610059",
-      "points": 209,
-      "comments": 82,
+      "points": 229,
+      "comments": 93,
       "created_ts": 1788874005,
       "author": "animeshchouhan"
     },
@@ -16,26 +16,17 @@
       "title": "Show HN: LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
       "hn_url": "https://news.ycombinator.com/item?id=49613068",
-      "points": 132,
-      "comments": 22,
+      "points": 156,
+      "comments": 24,
       "created_ts": 1788886781,
       "author": "ifz"
-    },
-    {
-      "title": "Show HN: NYC MapTap – Learn NYC neighborhoods",
-      "url": "https://albertjoseph0.github.io/nyc-maptap/",
-      "hn_url": "https://news.ycombinator.com/item?id=49605122",
-      "points": 17,
-      "comments": 13,
-      "created_ts": 1788835007,
-      "author": "abj908"
     },
     {
       "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
       "url": "https://github.com/scaleninja/drivesync",
       "hn_url": "https://news.ycombinator.com/item?id=49609784",
-      "points": 17,
-      "comments": 11,
+      "points": 19,
+      "comments": 13,
       "created_ts": 1788872483,
       "author": "rohityadavcloud"
     },
@@ -51,20 +42,11 @@
   ],
   "hn_front": [
     {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49605915",
-      "points": 1301,
-      "comments": 560,
-      "created_ts": 1788846148,
-      "author": "procedurecall"
-    },
-    {
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "url": "https://openai.com/index/navier-stokes-solution/",
       "hn_url": "https://news.ycombinator.com/item?id=49613262",
-      "points": 1138,
-      "comments": 981,
+      "points": 1265,
+      "comments": 1014,
       "created_ts": 1788887601,
       "author": "tedsanders"
     },
@@ -72,26 +54,17 @@
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "hn_url": "https://news.ycombinator.com/item?id=49611251",
-      "points": 498,
-      "comments": 115,
+      "points": 566,
+      "comments": 122,
       "created_ts": 1788879345,
       "author": "utiiiD"
-    },
-    {
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "hn_url": "https://news.ycombinator.com/item?id=49610181",
-      "points": 359,
-      "comments": 157,
-      "created_ts": 1788874613,
-      "author": "tosh"
     },
     {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "hn_url": "https://news.ycombinator.com/item?id=49615537",
-      "points": 334,
-      "comments": 335,
+      "points": 521,
+      "comments": 556,
       "created_ts": 1788895500,
       "author": "yks"
     },
@@ -99,71 +72,62 @@
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
       "hn_url": "https://news.ycombinator.com/item?id=49610631",
-      "points": 326,
-      "comments": 256,
+      "points": 456,
+      "comments": 311,
       "created_ts": 1788876806,
       "author": "domhudson"
     },
     {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "hn_url": "https://news.ycombinator.com/item?id=49611128",
-      "points": 218,
-      "comments": 109,
-      "created_ts": 1788878959,
-      "author": "stared"
-    },
-    {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "url": "https://github.com/argonautlabsai/deltafin",
-      "hn_url": "https://news.ycombinator.com/item?id=49616257",
-      "points": 214,
-      "comments": 113,
-      "created_ts": 1788898075,
-      "author": "Argonautlabs"
-    },
-    {
-      "title": "Show HN: Copperhead – Cursor for circuit boards",
-      "url": "https://copperhead.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=49610059",
-      "points": 209,
-      "comments": 82,
-      "created_ts": 1788874005,
-      "author": "animeshchouhan"
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "hn_url": "https://news.ycombinator.com/item?id=49610181",
+      "points": 406,
+      "comments": 182,
+      "created_ts": 1788874613,
+      "author": "tosh"
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "hn_url": "https://news.ycombinator.com/item?id=49616968",
-      "points": 164,
-      "comments": 108,
+      "points": 373,
+      "comments": 325,
       "created_ts": 1788901252,
       "author": "_alternator_"
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=49614720",
+      "points": 344,
+      "comments": 420,
+      "created_ts": 1788892671,
+      "author": "vertigoruntime"
     },
     {
       "title": "How to build a printer",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
       "hn_url": "https://news.ycombinator.com/item?id=49617255",
-      "points": 155,
-      "comments": 37,
+      "points": 341,
+      "comments": 72,
       "created_ts": 1788902531,
       "author": "cat-whisperer"
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49613068",
-      "points": 132,
-      "comments": 22,
-      "created_ts": 1788886781,
-      "author": "ifz"
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "hn_url": "https://news.ycombinator.com/item?id=49611128",
+      "points": 253,
+      "comments": 124,
+      "created_ts": 1788878959,
+      "author": "stared"
     },
     {
       "title": "Mercury 2.5",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
       "hn_url": "https://news.ycombinator.com/item?id=49616354",
-      "points": 127,
-      "comments": 16,
+      "points": 203,
+      "comments": 31,
       "created_ts": 1788898492,
       "author": "Topfi"
     },
@@ -171,114 +135,117 @@
       "title": "Large language models develop novel social biases through adaptive exploration",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
       "hn_url": "https://news.ycombinator.com/item?id=49617581",
-      "points": 102,
-      "comments": 49,
+      "points": 168,
+      "comments": 88,
       "created_ts": 1788904058,
       "author": "paimapi"
+    },
+    {
+      "title": "A Topological Picture Book, Rendered",
+      "url": "https://e-infinity.space/picture-book/",
+      "hn_url": "https://news.ycombinator.com/item?id=49618050",
+      "points": 107,
+      "comments": 11,
+      "created_ts": 1788906494,
+      "author": "mathgenius"
     }
   ],
   "ph_today": [
     {
-      "title": "Trancy Air",
-      "url": "https://www.producthunt.com/products/trancy-air",
+      "title": "Type.com",
+      "url": "https://www.producthunt.com/products/type-com",
       "tagline": "",
-      "pub_date": "2026-09-07T19:16:29-07:00"
+      "pub_date": "2026-09-08T20:54:10-07:00"
     },
     {
-      "title": "Pastea",
-      "url": "https://www.producthunt.com/products/pastea",
+      "title": "AlphaGenome Atlas",
+      "url": "https://www.producthunt.com/products/alphagenome-atlas",
       "tagline": "",
-      "pub_date": "2026-09-07T12:45:19-07:00"
+      "pub_date": "2026-09-08T18:41:57-07:00"
     },
     {
-      "title": "Coherence X6 for macOS",
-      "url": "https://www.producthunt.com/products/unite-for-macos",
+      "title": "49agents IDE",
+      "url": "https://www.producthunt.com/products/49agents-ide",
       "tagline": "",
-      "pub_date": "2026-09-04T10:57:38-07:00"
+      "pub_date": "2026-09-01T08:06:23-07:00"
     },
     {
-      "title": "Knockin'",
-      "url": "https://www.producthunt.com/products/knockin",
+      "title": "Mastra Factory",
+      "url": "https://www.producthunt.com/products/mastra",
       "tagline": "",
-      "pub_date": "2026-09-06T22:02:45-07:00"
+      "pub_date": "2026-08-21T03:54:22-07:00"
     },
     {
-      "title": "OpenMarket",
-      "url": "https://www.producthunt.com/products/openmarket",
+      "title": "Noodle Seed",
+      "url": "https://www.producthunt.com/products/noodle-seed",
       "tagline": "",
-      "pub_date": "2026-08-31T16:28:17-07:00"
+      "pub_date": "2026-08-26T12:33:30-07:00"
     },
     {
-      "title": "Widgo",
-      "url": "https://www.producthunt.com/products/paillor",
+      "title": "Harden",
+      "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif",
       "tagline": "",
-      "pub_date": "2026-07-28T14:49:47-07:00"
+      "pub_date": "2026-08-29T12:26:16-07:00"
     },
     {
-      "title": "Switch",
-      "url": "https://www.producthunt.com/products/switch-11",
+      "title": "WorkID.ai",
+      "url": "https://www.producthunt.com/products/workid-ai",
       "tagline": "",
-      "pub_date": "2026-08-26T21:57:54-07:00"
+      "pub_date": "2026-09-06T02:54:44-07:00"
     },
     {
-      "title": "Replay QA Security Scan",
-      "url": "https://www.producthunt.com/products/replayio",
+      "title": "DuckFightClub",
+      "url": "https://www.producthunt.com/products/duckfightclub",
       "tagline": "",
-      "pub_date": "2026-09-03T14:26:12-07:00"
+      "pub_date": "2026-09-08T10:02:09-07:00"
     },
     {
-      "title": "Jupitrr Cut",
-      "url": "https://www.producthunt.com/products/jupitrr",
+      "title": "Ass Auction",
+      "url": "https://www.producthunt.com/products/ass-auction",
       "tagline": "",
-      "pub_date": "2026-09-05T00:11:06-07:00"
+      "pub_date": "2026-09-08T01:30:13-07:00"
     },
     {
-      "title": "Dictantor",
-      "url": "https://www.producthunt.com/products/dictantor",
+      "title": "Frigade Assist API",
+      "url": "https://www.producthunt.com/products/frigade",
       "tagline": "",
-      "pub_date": "2026-09-03T05:32:12-07:00"
+      "pub_date": "2026-09-08T15:03:06-07:00"
     },
     {
-      "title": "Relaticle",
-      "url": "https://www.producthunt.com/products/relaticle",
+      "title": "AdScope",
+      "url": "https://www.producthunt.com/products/adscope-2",
       "tagline": "",
-      "pub_date": "2026-09-01T14:12:23-07:00"
+      "pub_date": "2026-06-23T07:12:35-07:00"
     },
     {
-      "title": "TapCraft",
-      "url": "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs",
+      "title": "GoModel",
+      "url": "https://www.producthunt.com/products/gomodel",
       "tagline": "",
-      "pub_date": "2026-09-02T11:56:16-07:00"
+      "pub_date": "2026-09-06T12:52:57-07:00"
     },
     {
-      "title": "SODAX SDK",
-      "url": "https://www.producthunt.com/products/sodax",
+      "title": "Basedash in Español Français &amp; Português",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-07-01T14:22:15-07:00"
+      "pub_date": "2026-09-08T14:43:49-07:00"
     },
     {
-      "title": "AppGacha",
-      "url": "https://www.producthunt.com/products/appgacha",
+      "title": "Diiverge",
+      "url": "https://www.producthunt.com/products/diiverge-co",
       "tagline": "",
-      "pub_date": "2026-08-30T06:08:58-07:00"
+      "pub_date": "2026-09-07T13:23:07-07:00"
     },
     {
-      "title": "Nametag",
-      "url": "https://www.producthunt.com/products/nametag-ai",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-08-18T12:48:54-07:00"
+      "pub_date": "2026-09-08T12:47:45-07:00"
     },
     {
-      "title": "Lyrimuse",
-      "url": "https://www.producthunt.com/products/lyrimuse",
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-22",
       "tagline": "",
-      "pub_date": "2026-09-07T10:58:59-07:00"
-    },
-    {
-      "title": "Kopai",
-      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "tagline": "",
-      "pub_date": "2026-09-07T10:45:34-07:00"
+      "pub_date": "2026-09-08T12:10:38-07:00"
     },
     {
       "title": "GoodLads",
@@ -287,16 +254,10 @@
       "pub_date": "2026-09-06T04:11:39-07:00"
     },
     {
-      "title": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
+      "title": "Pastea",
+      "url": "https://www.producthunt.com/products/pastea",
       "tagline": "",
-      "pub_date": "2026-09-07T20:23:07-07:00"
-    },
-    {
-      "title": "Catenary",
-      "url": "https://www.producthunt.com/products/catenary",
-      "tagline": "",
-      "pub_date": "2026-09-07T19:32:49-07:00"
+      "pub_date": "2026-09-07T12:45:19-07:00"
     },
     {
       "title": "Kombai Gallery",
@@ -305,58 +266,70 @@
       "pub_date": "2026-08-31T23:32:18-07:00"
     },
     {
+      "title": "Dictantor",
+      "url": "https://www.producthunt.com/products/dictantor",
+      "tagline": "",
+      "pub_date": "2026-09-03T05:32:12-07:00"
+    },
+    {
+      "title": "Widgo",
+      "url": "https://www.producthunt.com/products/paillor",
+      "tagline": "",
+      "pub_date": "2026-07-28T14:49:47-07:00"
+    },
+    {
+      "title": "Relaticle",
+      "url": "https://www.producthunt.com/products/relaticle",
+      "tagline": "",
+      "pub_date": "2026-09-01T14:12:23-07:00"
+    },
+    {
+      "title": "OpenMarket",
+      "url": "https://www.producthunt.com/products/openmarket",
+      "tagline": "",
+      "pub_date": "2026-08-31T16:28:17-07:00"
+    },
+    {
+      "title": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11",
+      "tagline": "",
+      "pub_date": "2026-08-26T21:57:54-07:00"
+    },
+    {
+      "title": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin",
+      "tagline": "",
+      "pub_date": "2026-09-06T22:02:45-07:00"
+    },
+    {
       "title": "Tables.so",
       "url": "https://www.producthunt.com/products/tables-so",
       "tagline": "",
       "pub_date": "2026-09-07T08:50:49-07:00"
     },
     {
-      "title": "Clipnote",
-      "url": "https://www.producthunt.com/products/clipnote-2",
+      "title": "Replay QA Security Scan",
+      "url": "https://www.producthunt.com/products/replayio",
       "tagline": "",
-      "pub_date": "2026-09-06T18:55:40-07:00"
+      "pub_date": "2026-09-03T14:26:12-07:00"
     },
     {
-      "title": "Remind",
-      "url": "https://www.producthunt.com/products/remind-7",
+      "title": "Kopai",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
       "tagline": "",
-      "pub_date": "2026-09-06T09:10:46-07:00"
+      "pub_date": "2026-09-07T10:45:34-07:00"
     },
     {
-      "title": "Scriptly",
-      "url": "https://www.producthunt.com/products/sciptly",
+      "title": "Lyrimuse",
+      "url": "https://www.producthunt.com/products/lyrimuse",
       "tagline": "",
-      "pub_date": "2026-09-04T01:09:19-07:00"
+      "pub_date": "2026-09-07T10:58:59-07:00"
     },
     {
-      "title": "Routines by Databox",
-      "url": "https://www.producthunt.com/products/databox",
+      "title": "Coherence X6 for macOS",
+      "url": "https://www.producthunt.com/products/unite-for-macos",
       "tagline": "",
-      "pub_date": "2026-08-27T02:02:16-07:00"
-    },
-    {
-      "title": "Assist",
-      "url": "https://www.producthunt.com/products/assist-4",
-      "tagline": "",
-      "pub_date": "2026-09-06T03:08:53-07:00"
-    },
-    {
-      "title": "Bloop",
-      "url": "https://www.producthunt.com/products/bloop-4",
-      "tagline": "",
-      "pub_date": "2026-08-06T08:52:08-07:00"
-    },
-    {
-      "title": "PR Lens by Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "tagline": "",
-      "pub_date": "2026-08-28T05:00:55-07:00"
-    },
-    {
-      "title": "Nina by Antalpha",
-      "url": "https://www.producthunt.com/products/antalpha",
-      "tagline": "",
-      "pub_date": "2026-08-28T02:37:21-07:00"
+      "pub_date": "2026-09-04T10:57:38-07:00"
     }
   ]
 }

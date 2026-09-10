@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:15:04.103Z",
+  "generated_at": "2026-09-10T02:26:14.534Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
       "url": "https://github.com/Atomburstofficial/geiger",
       "hn_url": "https://news.ycombinator.com/item?id=49627646",
-      "points": 34,
-      "comments": 19,
+      "points": 44,
+      "comments": 20,
       "created_ts": 1788965689,
       "author": "atomburst"
     },
@@ -16,35 +16,44 @@
       "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
       "url": "https://github.com/OtoDock/oto-dock",
       "hn_url": "https://news.ycombinator.com/item?id=49630606",
-      "points": 17,
-      "comments": 4,
+      "points": 41,
+      "comments": 10,
       "created_ts": 1788976675,
       "author": "dimitrismrtzs"
-    },
-    {
-      "title": "Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
-      "url": "https://github.com/agamrossen/VolAnti",
-      "hn_url": "https://news.ycombinator.com/item?id=49618955",
-      "points": 15,
-      "comments": 0,
-      "created_ts": 1788912493,
-      "author": "agamrossen"
     },
     {
       "title": "Show HN: Rdltr – Inbox zero for your reading list",
       "url": "https://rdltr.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49629747",
-      "points": 14,
-      "comments": 13,
+      "points": 21,
+      "comments": 17,
       "created_ts": 1788973581,
       "author": "eduardosasso"
+    },
+    {
+      "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
+      "url": "https://news.ycombinator.com/item?id=49627872",
+      "hn_url": "https://news.ycombinator.com/item?id=49627872",
+      "points": 17,
+      "comments": 8,
+      "created_ts": 1788966545,
+      "author": "pancomplex"
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "hn_url": "https://news.ycombinator.com/item?id=49623398",
+      "points": 16,
+      "comments": 1,
+      "created_ts": 1788944038,
+      "author": "thomasahle"
     },
     {
       "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
       "url": "https://news.ycombinator.com/item?id=49626148",
       "hn_url": "https://news.ycombinator.com/item?id=49626148",
       "points": 14,
-      "comments": 7,
+      "comments": 9,
       "created_ts": 1788960242,
       "author": "krashidov"
     },
@@ -56,6 +65,15 @@
       "comments": 0,
       "created_ts": 1788957369,
       "author": "ruhani_grover"
+    },
+    {
+      "title": "Show HN: Whetuu – An opinionated, zero-config status line and history picker",
+      "url": "https://github.com/yamafaktory/whetuu",
+      "hn_url": "https://news.ycombinator.com/item?id=49627357",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1788964627,
+      "author": "yamafaktory"
     }
   ],
   "hn_front": [
@@ -63,44 +81,53 @@
       "title": "Claude, change the “Add to Cart” button to blue",
       "url": "https://opusfived.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=49623754",
-      "points": 840,
-      "comments": 346,
+      "points": 1024,
+      "comments": 401,
       "created_ts": 1788946786,
       "author": "matthieu_bl"
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "hn_url": "https://news.ycombinator.com/item?id=49626190",
-      "points": 702,
-      "comments": 295,
-      "created_ts": 1788960431,
-      "author": "EdwinHoksberg"
     },
     {
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
       "hn_url": "https://news.ycombinator.com/item?id=49630931",
-      "points": 422,
-      "comments": 927,
+      "points": 919,
+      "comments": 1716,
       "created_ts": 1788977743,
       "author": "thecosmicfrog"
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "hn_url": "https://news.ycombinator.com/item?id=49626190",
+      "points": 902,
+      "comments": 357,
+      "created_ts": 1788960431,
+      "author": "EdwinHoksberg"
     },
     {
       "title": "Desert Ant Labs: local, fast models that run on device",
       "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
       "hn_url": "https://news.ycombinator.com/item?id=49624823",
-      "points": 334,
-      "comments": 85,
+      "points": 404,
+      "comments": 93,
       "created_ts": 1788953986,
       "author": "willwhitedc"
+    },
+    {
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "hn_url": "https://news.ycombinator.com/item?id=49630253",
+      "points": 381,
+      "comments": 309,
+      "created_ts": 1788975564,
+      "author": "awad"
     },
     {
       "title": "How I advertise malicious software on Google Ads",
       "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
       "hn_url": "https://news.ycombinator.com/item?id=49624856",
-      "points": 309,
-      "comments": 186,
+      "points": 361,
+      "comments": 220,
       "created_ts": 1788954201,
       "author": "xlii"
     },
@@ -108,62 +135,44 @@
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "hn_url": "https://news.ycombinator.com/item?id=49627370",
-      "points": 245,
-      "comments": 95,
+      "points": 355,
+      "comments": 124,
       "created_ts": 1788964667,
       "author": "ModelForge"
-    },
-    {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "hn_url": "https://news.ycombinator.com/item?id=49630253",
-      "points": 207,
-      "comments": 157,
-      "created_ts": 1788975564,
-      "author": "awad"
     },
     {
       "title": "No Man's Sky Cosmos",
       "url": "https://www.nomanssky.com/cosmos-update/",
       "hn_url": "https://news.ycombinator.com/item?id=49628493",
-      "points": 171,
-      "comments": 189,
+      "points": 306,
+      "comments": 327,
       "created_ts": 1788968862,
       "author": "Limb"
-    },
-    {
-      "title": "Lotus Notes and the dangers of starting from scratch",
-      "url": "https://buttondown.com/blog/lotus-notes-email",
-      "hn_url": "https://news.ycombinator.com/item?id=49623937",
-      "points": 143,
-      "comments": 106,
-      "created_ts": 1788948075,
-      "author": "maguay"
     },
     {
       "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "hn_url": "https://news.ycombinator.com/item?id=49630151",
-      "points": 132,
-      "comments": 94,
+      "points": 286,
+      "comments": 297,
       "created_ts": 1788975200,
       "author": "meetpateltech"
     },
     {
-      "title": "GNU Radio in the browser",
-      "url": "https://gnuradioworld.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49628576",
-      "points": 130,
-      "comments": 16,
-      "created_ts": 1788969186,
-      "author": "kristianpaul"
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "hn_url": "https://news.ycombinator.com/item?id=49629886",
+      "points": 220,
+      "comments": 423,
+      "created_ts": 1788974099,
+      "author": "bookofjoe"
     },
     {
       "title": "Apple Watch Series 12",
       "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
       "hn_url": "https://news.ycombinator.com/item?id=49630566",
-      "points": 128,
-      "comments": 113,
+      "points": 217,
+      "comments": 260,
       "created_ts": 1788976577,
       "author": "Lealen"
     },
@@ -171,17 +180,35 @@
       "title": "What will our economic future look like?",
       "url": "https://www.anthropic.com/institute/econ-scenarios",
       "hn_url": "https://news.ycombinator.com/item?id=49626373",
-      "points": 114,
-      "comments": 174,
+      "points": 181,
+      "comments": 350,
       "created_ts": 1788961103,
       "author": "oumua_don17"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "hn_url": "https://news.ycombinator.com/item?id=49630026",
+      "points": 178,
+      "comments": 73,
+      "created_ts": 1788974668,
+      "author": "wsxiaoys"
+    },
+    {
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49628576",
+      "points": 175,
+      "comments": 23,
+      "created_ts": 1788969186,
+      "author": "kristianpaul"
     },
     {
       "title": "Understanding the recent DDoS attack against Read the Docs",
       "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
       "hn_url": "https://news.ycombinator.com/item?id=49628614",
-      "points": 103,
-      "comments": 34,
+      "points": 161,
+      "comments": 53,
       "created_ts": 1788969353,
       "author": "davidfischer"
     },
@@ -189,10 +216,19 @@
       "title": "Planet Labs' open satellite feed",
       "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
       "hn_url": "https://news.ycombinator.com/item?id=49628429",
-      "points": 101,
-      "comments": 21,
+      "points": 147,
+      "comments": 27,
       "created_ts": 1788968649,
       "author": "marklit"
+    },
+    {
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+      "hn_url": "https://news.ycombinator.com/item?id=49635384",
+      "points": 105,
+      "comments": 23,
+      "created_ts": 1788992573,
+      "author": "dbg31415"
     }
   ],
   "ph_today": [
@@ -203,52 +239,10 @@
       "pub_date": "2026-08-29T12:26:16-07:00"
     },
     {
-      "title": "49agents IDE",
-      "url": "https://www.producthunt.com/products/49agents-ide",
-      "tagline": "",
-      "pub_date": "2026-09-01T08:06:23-07:00"
-    },
-    {
-      "title": "WorkID.ai",
-      "url": "https://www.producthunt.com/products/workid-ai",
-      "tagline": "",
-      "pub_date": "2026-09-06T02:54:44-07:00"
-    },
-    {
-      "title": "Basedash in Español Français &amp; Português",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-09-08T14:43:49-07:00"
-    },
-    {
-      "title": "Muse by Meta",
-      "url": "https://www.producthunt.com/products/muse-22",
-      "tagline": "",
-      "pub_date": "2026-09-08T12:10:38-07:00"
-    },
-    {
-      "title": "Noodle Seed",
-      "url": "https://www.producthunt.com/products/noodle-seed",
-      "tagline": "",
-      "pub_date": "2026-08-26T12:33:30-07:00"
-    },
-    {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-09-08T12:47:45-07:00"
-    },
-    {
       "title": "AdScope",
       "url": "https://www.producthunt.com/products/adscope-2",
       "tagline": "",
       "pub_date": "2026-06-23T07:12:35-07:00"
-    },
-    {
-      "title": "Frigade Assist API",
-      "url": "https://www.producthunt.com/products/frigade",
-      "tagline": "",
-      "pub_date": "2026-09-08T15:03:06-07:00"
     },
     {
       "title": "Ass Auction",
@@ -257,10 +251,10 @@
       "pub_date": "2026-09-08T01:30:13-07:00"
     },
     {
-      "title": "Diiverge",
-      "url": "https://www.producthunt.com/products/diiverge-co",
+      "title": "Noodle Seed",
+      "url": "https://www.producthunt.com/products/noodle-seed",
       "tagline": "",
-      "pub_date": "2026-09-07T13:23:07-07:00"
+      "pub_date": "2026-08-26T12:33:30-07:00"
     },
     {
       "title": "DuckFightClub",
@@ -269,16 +263,58 @@
       "pub_date": "2026-09-08T10:02:09-07:00"
     },
     {
+      "title": "AlphaGenome Atlas",
+      "url": "https://www.producthunt.com/products/alphagenome-atlas",
+      "tagline": "",
+      "pub_date": "2026-09-08T18:41:57-07:00"
+    },
+    {
+      "title": "Diiverge",
+      "url": "https://www.producthunt.com/products/diiverge-co",
+      "tagline": "",
+      "pub_date": "2026-09-07T13:23:07-07:00"
+    },
+    {
       "title": "Type.com",
       "url": "https://www.producthunt.com/products/type-com",
       "tagline": "",
       "pub_date": "2026-09-08T20:54:10-07:00"
     },
     {
-      "title": "GoModel",
-      "url": "https://www.producthunt.com/products/gomodel",
+      "title": "49agents IDE",
+      "url": "https://www.producthunt.com/products/49agents-ide",
       "tagline": "",
-      "pub_date": "2026-09-06T12:52:57-07:00"
+      "pub_date": "2026-09-01T08:06:23-07:00"
+    },
+    {
+      "title": "Muse by Meta",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "tagline": "",
+      "pub_date": "2026-09-08T12:10:38-07:00"
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-09-08T12:47:45-07:00"
+    },
+    {
+      "title": "WorkID.ai",
+      "url": "https://www.producthunt.com/products/workid-ai",
+      "tagline": "",
+      "pub_date": "2026-09-06T02:54:44-07:00"
+    },
+    {
+      "title": "Frigade Assist API",
+      "url": "https://www.producthunt.com/products/frigade",
+      "tagline": "",
+      "pub_date": "2026-09-08T15:03:06-07:00"
+    },
+    {
+      "title": "Basedash in Español Français &amp; Português",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-09-08T14:43:49-07:00"
     },
     {
       "title": "Mastra Factory",
@@ -287,10 +323,10 @@
       "pub_date": "2026-08-21T03:54:22-07:00"
     },
     {
-      "title": "AlphaGenome Atlas",
-      "url": "https://www.producthunt.com/products/alphagenome-atlas",
+      "title": "GoModel",
+      "url": "https://www.producthunt.com/products/gomodel",
       "tagline": "",
-      "pub_date": "2026-09-08T18:41:57-07:00"
+      "pub_date": "2026-09-06T12:52:57-07:00"
     },
     {
       "title": "GoodLads",
@@ -305,46 +341,10 @@
       "pub_date": "2026-07-28T14:49:47-07:00"
     },
     {
-      "title": "OpenMarket",
-      "url": "https://www.producthunt.com/products/openmarket",
-      "tagline": "",
-      "pub_date": "2026-08-31T16:28:17-07:00"
-    },
-    {
-      "title": "Switch",
-      "url": "https://www.producthunt.com/products/switch-11",
-      "tagline": "",
-      "pub_date": "2026-08-26T21:57:54-07:00"
-    },
-    {
-      "title": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "tagline": "",
-      "pub_date": "2026-09-07T20:23:07-07:00"
-    },
-    {
-      "title": "Kopai",
-      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "tagline": "",
-      "pub_date": "2026-09-07T10:45:34-07:00"
-    },
-    {
-      "title": "Knockin'",
-      "url": "https://www.producthunt.com/products/knockin",
-      "tagline": "",
-      "pub_date": "2026-09-06T22:02:45-07:00"
-    },
-    {
       "title": "Tables.so",
       "url": "https://www.producthunt.com/products/tables-so",
       "tagline": "",
       "pub_date": "2026-09-07T08:50:49-07:00"
-    },
-    {
-      "title": "TapCraft",
-      "url": "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs",
-      "tagline": "",
-      "pub_date": "2026-09-02T11:56:16-07:00"
     },
     {
       "title": "Relaticle",
@@ -353,16 +353,34 @@
       "pub_date": "2026-09-01T14:12:23-07:00"
     },
     {
+      "title": "Catenary",
+      "url": "https://www.producthunt.com/products/catenary",
+      "tagline": "",
+      "pub_date": "2026-09-07T19:32:49-07:00"
+    },
+    {
+      "title": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "tagline": "",
+      "pub_date": "2026-09-07T20:23:07-07:00"
+    },
+    {
+      "title": "Coherence X6 for macOS",
+      "url": "https://www.producthunt.com/products/unite-for-macos",
+      "tagline": "",
+      "pub_date": "2026-09-04T10:57:38-07:00"
+    },
+    {
       "title": "Lyrimuse",
       "url": "https://www.producthunt.com/products/lyrimuse",
       "tagline": "",
       "pub_date": "2026-09-07T10:58:59-07:00"
     },
     {
-      "title": "Kombai Gallery",
-      "url": "https://www.producthunt.com/products/kombai",
+      "title": "SODAX SDK",
+      "url": "https://www.producthunt.com/products/sodax",
       "tagline": "",
-      "pub_date": "2026-08-31T23:32:18-07:00"
+      "pub_date": "2026-07-01T14:22:15-07:00"
     },
     {
       "title": "Nametag",
@@ -371,10 +389,28 @@
       "pub_date": "2026-08-18T12:48:54-07:00"
     },
     {
-      "title": "SODAX SDK",
-      "url": "https://www.producthunt.com/products/sodax",
+      "title": "Kopai",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
       "tagline": "",
-      "pub_date": "2026-07-01T14:22:15-07:00"
+      "pub_date": "2026-09-07T10:45:34-07:00"
+    },
+    {
+      "title": "Jupitrr Cut",
+      "url": "https://www.producthunt.com/products/jupitrr",
+      "tagline": "",
+      "pub_date": "2026-09-05T00:11:06-07:00"
+    },
+    {
+      "title": "Dictantor",
+      "url": "https://www.producthunt.com/products/dictantor",
+      "tagline": "",
+      "pub_date": "2026-09-03T05:32:12-07:00"
+    },
+    {
+      "title": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin",
+      "tagline": "",
+      "pub_date": "2026-09-06T22:02:45-07:00"
     }
   ]
 }

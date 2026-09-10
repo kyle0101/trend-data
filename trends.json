@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:36:35.680Z",
+  "generated_at": "2026-09-10T20:16:49.883Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,37 +7,37 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "hn_url": "https://news.ycombinator.com/item?id=49637385",
-      "points": 506,
-      "comments": 211,
+      "points": 557,
+      "comments": 247,
       "created_ts": 1789005480,
       "author": "dmitrybrant"
-    },
-    {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "hn_url": "https://news.ycombinator.com/item?id=49630606",
-      "points": 46,
-      "comments": 12,
-      "created_ts": 1788976675,
-      "author": "dimitrismrtzs"
     },
     {
       "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
       "url": "https://learningto.co/",
       "hn_url": "https://news.ycombinator.com/item?id=49643992",
-      "points": 28,
-      "comments": 32,
+      "points": 36,
+      "comments": 46,
       "created_ts": 1789049402,
       "author": "cdnsteve"
     },
     {
-      "title": "Show HN: Rdltr – Inbox zero for your reading list",
-      "url": "https://rdltr.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49629747",
-      "points": 23,
-      "comments": 17,
-      "created_ts": 1788973581,
-      "author": "eduardosasso"
+      "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+      "url": "https://greaber.github.io/syq/",
+      "hn_url": "https://news.ycombinator.com/item?id=49644955",
+      "points": 34,
+      "comments": 39,
+      "created_ts": 1789052487,
+      "author": "greaber"
+    },
+    {
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "url": "https://usefeyn.com/blog/multimatte/",
+      "hn_url": "https://news.ycombinator.com/item?id=49645803",
+      "points": 22,
+      "comments": 4,
+      "created_ts": 1789055425,
+      "author": "snyy"
     },
     {
       "title": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon",
@@ -51,115 +51,175 @@
   ],
   "hn_front": [
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "hn_url": "https://news.ycombinator.com/item?id=49630931",
-      "points": 1318,
-      "comments": 2285,
-      "created_ts": 1788977743,
-      "author": "thecosmicfrog"
-    },
-    {
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
       "hn_url": "https://news.ycombinator.com/item?id=49639090",
-      "points": 696,
-      "comments": 373,
+      "points": 873,
+      "comments": 493,
       "created_ts": 1789020665,
       "author": "Liwink"
-    },
-    {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "hn_url": "https://news.ycombinator.com/item?id=49637385",
-      "points": 506,
-      "comments": 211,
-      "created_ts": 1789005480,
-      "author": "dmitrybrant"
-    },
-    {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "hn_url": "https://news.ycombinator.com/item?id=49630253",
-      "points": 495,
-      "comments": 430,
-      "created_ts": 1788975564,
-      "author": "awad"
-    },
-    {
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "hn_url": "https://news.ycombinator.com/item?id=49628493",
-      "points": 425,
-      "comments": 430,
-      "created_ts": 1788968862,
-      "author": "Limb"
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "hn_url": "https://news.ycombinator.com/item?id=49629886",
-      "points": 410,
-      "comments": 721,
-      "created_ts": 1788974099,
-      "author": "bookofjoe"
-    },
-    {
-      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-      "url": "https://news.ycombinator.com/item?id=49643556",
-      "hn_url": "https://news.ycombinator.com/item?id=49643556",
-      "points": 281,
-      "comments": 104,
-      "created_ts": 1789047593,
-      "author": "jacquesm"
     },
     {
       "title": "Shopify moves back to Native from React Native",
       "url": "https://shopify.engineering/back-to-native",
       "hn_url": "https://news.ycombinator.com/item?id=49643982",
-      "points": 238,
-      "comments": 146,
+      "points": 562,
+      "comments": 390,
       "created_ts": 1789049371,
       "author": "fnthawar2"
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "hn_url": "https://news.ycombinator.com/item?id=49643546",
+      "points": 497,
+      "comments": 276,
+      "created_ts": 1789047556,
+      "author": "mmastrac"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "hn_url": "https://news.ycombinator.com/item?id=49639408",
+      "points": 357,
+      "comments": 456,
+      "created_ts": 1789022983,
+      "author": "pred_"
     },
     {
       "title": "What algorithm did Windows XP use to choose your initial user picture?",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
       "hn_url": "https://news.ycombinator.com/item?id=49640646",
-      "points": 233,
-      "comments": 112,
+      "points": 308,
+      "comments": 150,
       "created_ts": 1789031054,
       "author": "soheilpro"
     },
     {
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-      "hn_url": "https://news.ycombinator.com/item?id=49643112",
-      "points": 217,
-      "comments": 99,
-      "created_ts": 1789045634,
-      "author": "ColinWright"
-    },
-    {
-      "title": "Rust Is Tier-1 Language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "hn_url": "https://news.ycombinator.com/item?id=49643546",
-      "points": 175,
-      "comments": 79,
-      "created_ts": 1789047556,
-      "author": "mmastrac"
+      "title": "I have a theory that software drives people insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "hn_url": "https://news.ycombinator.com/item?id=49646181",
+      "points": 296,
+      "comments": 110,
+      "created_ts": 1789056822,
+      "author": "rglover"
     },
     {
       "title": "List of references on Sony websites to players \"owning\" their digital games",
       "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
       "hn_url": "https://news.ycombinator.com/item?id=49642531",
-      "points": 165,
-      "comments": 50,
+      "points": 291,
+      "comments": 98,
       "created_ts": 1789042686,
       "author": "haunter"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49645443",
+      "points": 221,
+      "comments": 103,
+      "created_ts": 1789054187,
+      "author": "seelos"
+    },
+    {
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "hn_url": "https://news.ycombinator.com/item?id=49645437",
+      "points": 167,
+      "comments": 31,
+      "created_ts": 1789054170,
+      "author": "gumby"
+    },
+    {
+      "title": "Neki",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "hn_url": "https://news.ycombinator.com/item?id=49645686",
+      "points": 152,
+      "comments": 59,
+      "created_ts": 1789055029,
+      "author": "simon_weber"
     }
   ],
   "ph_today": [
+    {
+      "title": "Drive",
+      "url": "https://www.producthunt.com/products/drive-gforce-telemetry",
+      "tagline": "",
+      "pub_date": "2026-09-09T09:20:28-07:00"
+    },
+    {
+      "title": "Live Captions by Subanana",
+      "url": "https://www.producthunt.com/products/subanana",
+      "tagline": "",
+      "pub_date": "2026-09-01T13:43:29-07:00"
+    },
+    {
+      "title": "Wealthfolio",
+      "url": "https://www.producthunt.com/products/wealthfolio",
+      "tagline": "",
+      "pub_date": "2026-09-07T13:39:17-07:00"
+    },
+    {
+      "title": "Gojo",
+      "url": "https://www.producthunt.com/products/gojo",
+      "tagline": "",
+      "pub_date": "2026-09-08T20:41:05-07:00"
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.producthunt.com/products/apple",
+      "tagline": "",
+      "pub_date": "2026-09-09T13:11:16-07:00"
+    },
+    {
+      "title": "hob",
+      "url": "https://www.producthunt.com/products/hob-2",
+      "tagline": "",
+      "pub_date": "2026-09-09T13:07:52-07:00"
+    },
+    {
+      "title": "Typewise Nova",
+      "url": "https://www.producthunt.com/products/typewise",
+      "tagline": "",
+      "pub_date": "2026-09-03T14:03:57-07:00"
+    },
+    {
+      "title": "Suno v6",
+      "url": "https://www.producthunt.com/products/suno",
+      "tagline": "",
+      "pub_date": "2026-09-09T22:13:30-07:00"
+    },
+    {
+      "title": "Modeinspect",
+      "url": "https://www.producthunt.com/products/modeinspect-1-0",
+      "tagline": "",
+      "pub_date": "2026-09-09T20:31:49-07:00"
+    },
+    {
+      "title": "AI Observability by OpenObserve",
+      "url": "https://www.producthunt.com/products/openobserve",
+      "tagline": "",
+      "pub_date": "2026-08-21T07:01:54-07:00"
+    },
+    {
+      "title": "Athenic AI",
+      "url": "https://www.producthunt.com/products/athenic-ai",
+      "tagline": "",
+      "pub_date": "2026-08-10T17:37:08-07:00"
+    },
+    {
+      "title": "Speechmark",
+      "url": "https://www.producthunt.com/products/speechmark",
+      "tagline": "",
+      "pub_date": "2026-09-08T10:47:27-07:00"
+    },
+    {
+      "title": "Whip",
+      "url": "https://www.producthunt.com/products/whip",
+      "tagline": "",
+      "pub_date": "2026-09-09T08:57:03-07:00"
+    },
     {
       "title": "Vibe Eyes",
       "url": "https://www.producthunt.com/products/vibe-eyes",
@@ -173,22 +233,10 @@
       "pub_date": "2026-09-09T12:54:29-07:00"
     },
     {
-      "title": "iPhone Duo",
-      "url": "https://www.producthunt.com/products/apple",
+      "title": "Mock Magic: Video Presets",
+      "url": "https://www.producthunt.com/products/mockmagic",
       "tagline": "",
-      "pub_date": "2026-09-09T13:11:16-07:00"
-    },
-    {
-      "title": "Modeinspect",
-      "url": "https://www.producthunt.com/products/modeinspect-1-0",
-      "tagline": "",
-      "pub_date": "2026-09-09T20:31:49-07:00"
-    },
-    {
-      "title": "Typewise Nova",
-      "url": "https://www.producthunt.com/products/typewise",
-      "tagline": "",
-      "pub_date": "2026-09-03T14:03:57-07:00"
+      "pub_date": "2026-02-11T13:10:53-08:00"
     },
     {
       "title": "FreeScan.app",
@@ -197,52 +245,10 @@
       "pub_date": "2026-09-01T14:33:47-07:00"
     },
     {
-      "title": "AI Observability by OpenObserve",
-      "url": "https://www.producthunt.com/products/openobserve",
-      "tagline": "",
-      "pub_date": "2026-08-21T07:01:54-07:00"
-    },
-    {
       "title": "Viso Now",
       "url": "https://www.producthunt.com/products/viso-now",
       "tagline": "",
       "pub_date": "2026-08-17T04:04:57-07:00"
-    },
-    {
-      "title": "Gojo",
-      "url": "https://www.producthunt.com/products/gojo",
-      "tagline": "",
-      "pub_date": "2026-09-08T20:41:05-07:00"
-    },
-    {
-      "title": "Speechmark",
-      "url": "https://www.producthunt.com/products/speechmark",
-      "tagline": "",
-      "pub_date": "2026-09-08T10:47:27-07:00"
-    },
-    {
-      "title": "Live Captions by Subanana",
-      "url": "https://www.producthunt.com/products/subanana",
-      "tagline": "",
-      "pub_date": "2026-09-01T13:43:29-07:00"
-    },
-    {
-      "title": "Drive",
-      "url": "https://www.producthunt.com/products/drive-gforce-telemetry",
-      "tagline": "",
-      "pub_date": "2026-09-09T09:20:28-07:00"
-    },
-    {
-      "title": "hob",
-      "url": "https://www.producthunt.com/products/hob-2",
-      "tagline": "",
-      "pub_date": "2026-09-09T13:07:52-07:00"
-    },
-    {
-      "title": "Athenic AI",
-      "url": "https://www.producthunt.com/products/athenic-ai",
-      "tagline": "",
-      "pub_date": "2026-08-10T17:37:08-07:00"
     },
     {
       "title": "Thousand",
@@ -251,52 +257,22 @@
       "pub_date": "2026-08-26T21:50:53-07:00"
     },
     {
-      "title": "Whip",
-      "url": "https://www.producthunt.com/products/whip",
-      "tagline": "",
-      "pub_date": "2026-09-09T08:57:03-07:00"
-    },
-    {
-      "title": "Wealthfolio",
-      "url": "https://www.producthunt.com/products/wealthfolio",
-      "tagline": "",
-      "pub_date": "2026-09-07T13:39:17-07:00"
-    },
-    {
-      "title": "Mock Magic: Video Presets",
-      "url": "https://www.producthunt.com/products/mockmagic",
-      "tagline": "",
-      "pub_date": "2026-02-11T13:10:53-08:00"
-    },
-    {
       "title": "AirPods 5",
       "url": "https://www.producthunt.com/products/apple",
       "tagline": "",
       "pub_date": "2026-09-09T14:18:06-07:00"
     },
     {
-      "title": "Suno v6",
-      "url": "https://www.producthunt.com/products/suno",
+      "title": "Harden",
+      "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif",
       "tagline": "",
-      "pub_date": "2026-09-09T22:13:30-07:00"
+      "pub_date": "2026-08-29T12:26:16-07:00"
     },
     {
-      "title": "Ass Auction",
-      "url": "https://www.producthunt.com/products/ass-auction",
+      "title": "Muse by Meta",
+      "url": "https://www.producthunt.com/products/muse-22",
       "tagline": "",
-      "pub_date": "2026-09-08T01:30:13-07:00"
-    },
-    {
-      "title": "Noodle Seed",
-      "url": "https://www.producthunt.com/products/noodle-seed",
-      "tagline": "",
-      "pub_date": "2026-08-26T12:33:30-07:00"
-    },
-    {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-09-08T12:47:45-07:00"
+      "pub_date": "2026-09-08T12:10:38-07:00"
     },
     {
       "title": "DuckFightClub",
@@ -311,10 +287,16 @@
       "pub_date": "2026-09-01T08:06:23-07:00"
     },
     {
-      "title": "Basedash in Español Français &amp; Português",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "GoModel",
+      "url": "https://www.producthunt.com/products/gomodel",
       "tagline": "",
-      "pub_date": "2026-09-08T14:43:49-07:00"
+      "pub_date": "2026-09-06T12:52:57-07:00"
+    },
+    {
+      "title": "AdScope",
+      "url": "https://www.producthunt.com/products/adscope-2",
+      "tagline": "",
+      "pub_date": "2026-06-23T07:12:35-07:00"
     },
     {
       "title": "AlphaGenome Atlas",
@@ -323,22 +305,22 @@
       "pub_date": "2026-09-08T18:41:57-07:00"
     },
     {
-      "title": "Mastra Factory",
-      "url": "https://www.producthunt.com/products/mastra",
-      "tagline": "",
-      "pub_date": "2026-08-21T03:54:22-07:00"
-    },
-    {
       "title": "Diiverge",
       "url": "https://www.producthunt.com/products/diiverge-co",
       "tagline": "",
       "pub_date": "2026-09-07T13:23:07-07:00"
     },
     {
-      "title": "Frigade Assist API",
-      "url": "https://www.producthunt.com/products/frigade",
+      "title": "Ass Auction",
+      "url": "https://www.producthunt.com/products/ass-auction",
       "tagline": "",
-      "pub_date": "2026-09-08T15:03:06-07:00"
+      "pub_date": "2026-09-08T01:30:13-07:00"
+    },
+    {
+      "title": "Mastra Factory",
+      "url": "https://www.producthunt.com/products/mastra",
+      "tagline": "",
+      "pub_date": "2026-08-21T03:54:22-07:00"
     }
   ]
 }

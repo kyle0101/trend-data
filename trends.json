@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:52:13.087Z",
+  "generated_at": "2026-09-12T14:44:34.295Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
       "hn_url": "https://news.ycombinator.com/item?id=49659647",
-      "points": 190,
-      "comments": 85,
+      "points": 194,
+      "comments": 86,
       "created_ts": 1789138879,
       "author": "postalcoder"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: Hacker News, Without AI",
       "url": "https://www.unslop.news/",
       "hn_url": "https://news.ycombinator.com/item?id=49660783",
-      "points": 186,
+      "points": 189,
       "comments": 79,
       "created_ts": 1789142930,
       "author": "otherayden"
@@ -25,8 +25,8 @@
       "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
       "url": "https://github.com/godot-pty/gpty",
       "hn_url": "https://news.ycombinator.com/item?id=49660676",
-      "points": 86,
-      "comments": 45,
+      "points": 89,
+      "comments": 46,
       "created_ts": 1789142585,
       "author": "1nv1n"
     },
@@ -34,7 +34,7 @@
       "title": "Show HN: Toast, a beautiful by default in terminal IDE",
       "url": "https://github.com/paradise-runner/toast",
       "hn_url": "https://news.ycombinator.com/item?id=49662496",
-      "points": 75,
+      "points": 79,
       "comments": 87,
       "created_ts": 1789149293,
       "author": "dividedcomet"
@@ -43,8 +43,8 @@
       "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
       "url": "https://github.com/mirza-rizvi/ResolveHQ",
       "hn_url": "https://news.ycombinator.com/item?id=49665864",
-      "points": 58,
-      "comments": 19,
+      "points": 64,
+      "comments": 24,
       "created_ts": 1789163280,
       "author": "mirza_rizvi"
     },
@@ -52,8 +52,8 @@
       "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
       "url": "https://github.com/zachsaw/graphify-csharp",
       "hn_url": "https://news.ycombinator.com/item?id=49667188",
-      "points": 35,
-      "comments": 17,
+      "points": 38,
+      "comments": 21,
       "created_ts": 1789172170,
       "author": "zachsaw"
     },
@@ -67,24 +67,6 @@
       "author": "bbx"
     },
     {
-      "title": "Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed",
-      "url": "https://lufzle.dev/foldelight/",
-      "hn_url": "https://news.ycombinator.com/item?id=49656948",
-      "points": 19,
-      "comments": 17,
-      "created_ts": 1789127967,
-      "author": "riffonio"
-    },
-    {
-      "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
-      "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-      "hn_url": "https://news.ycombinator.com/item?id=49658328",
-      "points": 17,
-      "comments": 15,
-      "created_ts": 1789134233,
-      "author": "edf13"
-    },
-    {
       "title": "Show HN: Extension to filter LLM written articles",
       "url": "https://hnslop.nilsherzig.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49661856",
@@ -94,20 +76,11 @@
       "author": "nilsherzig"
     },
     {
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "url": "https://clawfight.ai/agents.md",
-      "hn_url": "https://news.ycombinator.com/item?id=49658483",
-      "points": 13,
-      "comments": 13,
-      "created_ts": 1789134857,
-      "author": "wesleyhales"
-    },
-    {
       "title": "Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js",
       "url": "https://wesselsdesktop.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49663429",
-      "points": 13,
-      "comments": 3,
+      "points": 14,
+      "comments": 4,
       "created_ts": 1789152829,
       "author": "Abstract2D"
     },
@@ -126,8 +99,8 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49662371",
-      "points": 924,
-      "comments": 889,
+      "points": 1066,
+      "comments": 1025,
       "created_ts": 1789148712,
       "author": "meredydd"
     },
@@ -135,165 +108,81 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49666735",
-      "points": 703,
-      "comments": 394,
+      "points": 831,
+      "comments": 484,
       "created_ts": 1789168662,
       "author": "chao-"
-    },
-    {
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "hn_url": "https://news.ycombinator.com/item?id=49656225",
-      "points": 644,
-      "comments": 628,
-      "created_ts": 1789123680,
-      "author": "Muhammad523"
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
       "hn_url": "https://news.ycombinator.com/item?id=49662990",
-      "points": 528,
-      "comments": 274,
+      "points": 632,
+      "comments": 350,
       "created_ts": 1789151095,
       "author": "nickabe"
-    },
-    {
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "hn_url": "https://news.ycombinator.com/item?id=49662672",
-      "points": 463,
-      "comments": 334,
-      "created_ts": 1789149921,
-      "author": "doener"
     },
     {
       "title": "google.com/goto: Google's anti-scraping update",
       "url": "https://www.autom.dev/blog/google-search-goto-links",
       "hn_url": "https://news.ycombinator.com/item?id=49668386",
-      "points": 421,
-      "comments": 325,
+      "points": 515,
+      "comments": 412,
       "created_ts": 1789182860,
       "author": "1e1a"
     },
     {
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "hn_url": "https://news.ycombinator.com/item?id=49663373",
-      "points": 278,
-      "comments": 203,
-      "created_ts": 1789152636,
-      "author": "microtonal"
-    },
-    {
-      "title": "Rune is now open source",
-      "url": "https://rune.build/blog/rune-is-now-open-source",
-      "hn_url": "https://news.ycombinator.com/item?id=49660149",
-      "points": 186,
-      "comments": 58,
-      "created_ts": 1789140707,
-      "author": "ernestrc"
-    },
-    {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "hn_url": "https://news.ycombinator.com/item?id=49662020",
-      "points": 163,
-      "comments": 104,
-      "created_ts": 1789147523,
-      "author": "geneticdrifts"
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "hn_url": "https://news.ycombinator.com/item?id=49671329",
+      "points": 284,
+      "comments": 221,
+      "created_ts": 1789213352,
+      "author": "JayOtter"
     },
     {
       "title": "Navier-Stokes Announcement",
       "url": "https://www.claymath.org/news/navier-stokes-announcement/",
       "hn_url": "https://news.ycombinator.com/item?id=49668706",
-      "points": 162,
-      "comments": 105,
+      "points": 229,
+      "comments": 163,
       "created_ts": 1789186183,
       "author": "rvz"
     },
     {
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "hn_url": "https://news.ycombinator.com/item?id=49656471",
-      "points": 162,
-      "comments": 80,
-      "created_ts": 1789125313,
-      "author": "michalwarda"
-    },
-    {
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "hn_url": "https://news.ycombinator.com/item?id=49662214",
-      "points": 144,
-      "comments": 82,
-      "created_ts": 1789148171,
-      "author": "dr_kiszonka"
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "hn_url": "https://news.ycombinator.com/item?id=49662020",
+      "points": 190,
+      "comments": 124,
+      "created_ts": 1789147523,
+      "author": "geneticdrifts"
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
       "url": "https://github.com/kennethwolters/litelm",
       "hn_url": "https://news.ycombinator.com/item?id=49662767",
-      "points": 137,
-      "comments": 46,
+      "points": 160,
+      "comments": 55,
       "created_ts": 1789150220,
       "author": "kennethwolters"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49670032",
+      "points": 152,
+      "comments": 19,
+      "created_ts": 1789199643,
+      "author": "zdw"
     }
   ],
   "ph_today": [
     {
-      "title": "Youkti",
-      "url": "https://www.producthunt.com/products/youkti",
+      "title": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
       "tagline": "",
-      "pub_date": "2026-08-14T00:50:59-07:00"
-    },
-    {
-      "title": "Wokyintosh",
-      "url": "https://www.producthunt.com/products/wokyintosh",
-      "tagline": "",
-      "pub_date": "2026-09-09T04:44:38-07:00"
-    },
-    {
-      "title": "LinkFlick",
-      "url": "https://www.producthunt.com/products/linkflick",
-      "tagline": "",
-      "pub_date": "2026-09-06T20:23:42-07:00"
-    },
-    {
-      "title": "SUDARI",
-      "url": "https://www.producthunt.com/products/sudari",
-      "tagline": "",
-      "pub_date": "2026-09-10T23:18:58-07:00"
-    },
-    {
-      "title": "Calerto for Mac",
-      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
-      "tagline": "",
-      "pub_date": "2026-09-09T23:14:32-07:00"
-    },
-    {
-      "title": "ABrush",
-      "url": "https://www.producthunt.com/products/abrush-ai-2",
-      "tagline": "",
-      "pub_date": "2026-09-10T13:18:42-07:00"
-    },
-    {
-      "title": "Captain Kill Switch",
-      "url": "https://www.producthunt.com/products/captain-kill-switch",
-      "tagline": "",
-      "pub_date": "2026-08-22T21:09:09-07:00"
-    },
-    {
-      "title": "DockFix 5.0",
-      "url": "https://www.producthunt.com/products/dockfix",
-      "tagline": "",
-      "pub_date": "2026-09-11T12:26:15-07:00"
-    },
-    {
-      "title": "Marked Share",
-      "url": "https://www.producthunt.com/products/marked-share",
-      "tagline": "",
-      "pub_date": "2026-09-09T07:45:35-07:00"
+      "pub_date": "2026-09-04T10:55:05-07:00"
     },
     {
       "title": "QApilot MCP for Android",
@@ -302,10 +191,22 @@
       "pub_date": "2026-09-02T17:25:21-07:00"
     },
     {
-      "title": "Relic",
-      "url": "https://www.producthunt.com/products/relic-copy-vault",
+      "title": "ABrush",
+      "url": "https://www.producthunt.com/products/abrush-ai-2",
       "tagline": "",
-      "pub_date": "2026-09-02T09:44:53-07:00"
+      "pub_date": "2026-09-10T13:18:42-07:00"
+    },
+    {
+      "title": "FrameSketch",
+      "url": "https://www.producthunt.com/products/framesketch",
+      "tagline": "",
+      "pub_date": "2026-09-10T03:42:55-07:00"
+    },
+    {
+      "title": "Marked Share",
+      "url": "https://www.producthunt.com/products/marked-share",
+      "tagline": "",
+      "pub_date": "2026-09-09T07:45:35-07:00"
     },
     {
       "title": "VoxelWall",
@@ -320,28 +221,46 @@
       "pub_date": "2026-09-08T04:53:26-07:00"
     },
     {
-      "title": "FrameSketch",
-      "url": "https://www.producthunt.com/products/framesketch",
+      "title": "LinkFlick",
+      "url": "https://www.producthunt.com/products/linkflick",
       "tagline": "",
-      "pub_date": "2026-09-10T03:42:55-07:00"
+      "pub_date": "2026-09-06T20:23:42-07:00"
     },
     {
-      "title": "Cortex",
-      "url": "https://www.producthunt.com/products/cortex-25",
+      "title": "Youkti",
+      "url": "https://www.producthunt.com/products/youkti",
       "tagline": "",
-      "pub_date": "2026-09-05T03:05:18-07:00"
+      "pub_date": "2026-08-14T00:50:59-07:00"
     },
     {
-      "title": "Stackness",
-      "url": "https://www.producthunt.com/products/stackness",
+      "title": "Relic",
+      "url": "https://www.producthunt.com/products/relic-copy-vault",
       "tagline": "",
-      "pub_date": "2026-09-02T10:10:22-07:00"
+      "pub_date": "2026-09-02T09:44:53-07:00"
     },
     {
-      "title": "Work Life Panda",
-      "url": "https://www.producthunt.com/products/work-life-panda",
+      "title": "Calerto for Mac",
+      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
       "tagline": "",
-      "pub_date": "2026-09-04T10:55:05-07:00"
+      "pub_date": "2026-09-09T23:14:32-07:00"
+    },
+    {
+      "title": "SUDARI",
+      "url": "https://www.producthunt.com/products/sudari",
+      "tagline": "",
+      "pub_date": "2026-09-10T23:18:58-07:00"
+    },
+    {
+      "title": "Wokyintosh",
+      "url": "https://www.producthunt.com/products/wokyintosh",
+      "tagline": "",
+      "pub_date": "2026-09-09T04:44:38-07:00"
+    },
+    {
+      "title": "Captain Kill Switch",
+      "url": "https://www.producthunt.com/products/captain-kill-switch",
+      "tagline": "",
+      "pub_date": "2026-08-22T21:09:09-07:00"
     },
     {
       "title": "Kabza",
@@ -350,58 +269,22 @@
       "pub_date": "2026-09-04T11:39:31-07:00"
     },
     {
-      "title": "LiveGrid",
-      "url": "https://www.producthunt.com/products/livegrid-4",
+      "title": "Stackness",
+      "url": "https://www.producthunt.com/products/stackness",
       "tagline": "",
-      "pub_date": "2026-09-10T21:01:14-07:00"
+      "pub_date": "2026-09-02T10:10:22-07:00"
     },
     {
-      "title": "GLYPH Immersive",
-      "url": "https://www.producthunt.com/products/glyph-immersive",
+      "title": "Cortex",
+      "url": "https://www.producthunt.com/products/cortex-25",
       "tagline": "",
-      "pub_date": "2026-09-10T13:57:20-07:00"
+      "pub_date": "2026-09-05T03:05:18-07:00"
     },
     {
-      "title": "Moji",
-      "url": "https://www.producthunt.com/products/moji-2",
+      "title": "DockFix 5.0",
+      "url": "https://www.producthunt.com/products/dockfix",
       "tagline": "",
-      "pub_date": "2026-09-10T19:58:28-07:00"
-    },
-    {
-      "title": "Raycast 2.0",
-      "url": "https://www.producthunt.com/products/raycast",
-      "tagline": "",
-      "pub_date": "2026-09-10T11:31:25-07:00"
-    },
-    {
-      "title": "sizeless",
-      "url": "https://www.producthunt.com/products/sizeless",
-      "tagline": "",
-      "pub_date": "2026-09-10T10:55:17-07:00"
-    },
-    {
-      "title": "Accordio",
-      "url": "https://www.producthunt.com/products/accordio",
-      "tagline": "",
-      "pub_date": "2026-09-10T17:18:55-07:00"
-    },
-    {
-      "title": "ChatHop",
-      "url": "https://www.producthunt.com/products/chathop",
-      "tagline": "",
-      "pub_date": "2026-09-10T07:56:17-07:00"
-    },
-    {
-      "title": "Design Studio by Monday Merch",
-      "url": "https://www.producthunt.com/products/design-studio-by-monday-merch",
-      "tagline": "",
-      "pub_date": "2026-09-10T06:59:41-07:00"
-    },
-    {
-      "title": "Sliick",
-      "url": "https://www.producthunt.com/products/sliick",
-      "tagline": "",
-      "pub_date": "2026-09-07T20:15:57-07:00"
+      "pub_date": "2026-09-11T12:26:15-07:00"
     },
     {
       "title": "easyspecs.ai",
@@ -410,16 +293,70 @@
       "pub_date": "2026-09-04T05:33:44-07:00"
     },
     {
+      "title": "chat-recall",
+      "url": "https://www.producthunt.com/products/chat-recall",
+      "tagline": "",
+      "pub_date": "2026-09-10T10:39:29-07:00"
+    },
+    {
+      "title": "sizeless",
+      "url": "https://www.producthunt.com/products/sizeless",
+      "tagline": "",
+      "pub_date": "2026-09-10T10:55:17-07:00"
+    },
+    {
+      "title": "Formesign",
+      "url": "https://www.producthunt.com/products/formesign",
+      "tagline": "",
+      "pub_date": "2026-09-10T05:26:06-07:00"
+    },
+    {
+      "title": "Anysite.io",
+      "url": "https://www.producthunt.com/products/anysite",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:08:45-07:00"
+    },
+    {
+      "title": "Jackalope",
+      "url": "https://www.producthunt.com/products/jackalope",
+      "tagline": "",
+      "pub_date": "2026-09-10T15:46:57-07:00"
+    },
+    {
+      "title": "Design Studio by Monday Merch",
+      "url": "https://www.producthunt.com/products/design-studio-by-monday-merch",
+      "tagline": "",
+      "pub_date": "2026-09-10T06:59:41-07:00"
+    },
+    {
       "title": "Cline Desktop App",
       "url": "https://www.producthunt.com/products/cline-4",
       "tagline": "",
       "pub_date": "2026-09-08T07:26:09-07:00"
     },
     {
-      "title": "Wisry",
-      "url": "https://www.producthunt.com/products/wisry",
+      "title": "Spaces",
+      "url": "https://www.producthunt.com/products/spaces-21",
       "tagline": "",
-      "pub_date": "2026-08-18T02:14:44-07:00"
+      "pub_date": "2026-09-08T11:31:12-07:00"
+    },
+    {
+      "title": "TIM PG",
+      "url": "https://www.producthunt.com/products/tim-pg",
+      "tagline": "",
+      "pub_date": "2026-08-08T00:15:23-07:00"
+    },
+    {
+      "title": "Loqua",
+      "url": "https://www.producthunt.com/products/loqua",
+      "tagline": "",
+      "pub_date": "2026-09-07T03:35:30-07:00"
+    },
+    {
+      "title": "Cadenya",
+      "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
+      "tagline": "",
+      "pub_date": "2026-09-10T16:21:08-07:00"
     }
   ]
 }

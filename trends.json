@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:52:32.002Z",
+  "generated_at": "2026-09-13T15:24:02.024Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -11,69 +11,51 @@
       "comments": 3,
       "created_ts": 1789259760,
       "author": "jwarden"
+    },
+    {
+      "title": "Show HN: What If Donut.c but with Any ASCII Art",
+      "url": "https://asdesai.com/blog/how-fetch-works/",
+      "hn_url": "https://news.ycombinator.com/item?id=49677480",
+      "points": 14,
+      "comments": 1,
+      "created_ts": 1789249164,
+      "author": "areofyl"
+    },
+    {
+      "title": "Show HN: Everything a web page can learn about you, in plain English",
+      "url": "https://sessioncontext.org",
+      "hn_url": "https://news.ycombinator.com/item?id=49678035",
+      "points": 11,
+      "comments": 3,
+      "created_ts": 1789253447,
+      "author": "oddurs"
     }
   ],
   "hn_front": [
     {
-      "title": "We must pace the frontier",
-      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "hn_url": "https://news.ycombinator.com/item?id=49672510",
-      "points": 656,
-      "comments": 922,
-      "created_ts": 1789222249,
-      "author": "apsec112"
-    },
-    {
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "hn_url": "https://news.ycombinator.com/item?id=49678683",
-      "points": 503,
-      "comments": 301,
+      "points": 645,
+      "comments": 380,
       "created_ts": 1789259444,
       "author": "xena"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=49673098",
-      "points": 490,
-      "comments": 343,
-      "created_ts": 1789225707,
-      "author": "tolugenius"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "hn_url": "https://news.ycombinator.com/item?id=49674050",
-      "points": 473,
-      "comments": 120,
+      "points": 530,
+      "comments": 133,
       "created_ts": 1789230308,
       "author": "juliantigler"
-    },
-    {
-      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-      "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "hn_url": "https://news.ycombinator.com/item?id=49675902",
-      "points": 337,
-      "comments": 108,
-      "created_ts": 1789239537,
-      "author": "encyclopedism"
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "hn_url": "https://news.ycombinator.com/item?id=49676820",
-      "points": 246,
-      "comments": 136,
-      "created_ts": 1789244748,
-      "author": "theanonymousone"
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "hn_url": "https://news.ycombinator.com/item?id=49678969",
-      "points": 241,
-      "comments": 312,
+      "points": 414,
+      "comments": 495,
       "created_ts": 1789262551,
       "author": "jonifico"
     },
@@ -81,26 +63,35 @@
       "title": "JetKVM Mini",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
       "hn_url": "https://news.ycombinator.com/item?id=49681152",
-      "points": 135,
-      "comments": 67,
+      "points": 324,
+      "comments": 123,
       "created_ts": 1789285786,
       "author": "taubek"
     },
     {
-      "title": "I made a build visualizer to understand Bun's compile times",
-      "url": "https://lalitm.com/post/buildprof/",
-      "hn_url": "https://news.ycombinator.com/item?id=49672842",
-      "points": 135,
-      "comments": 25,
-      "created_ts": 1789224328,
-      "author": "lalitmaganti"
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=49681545",
+      "points": 306,
+      "comments": 126,
+      "created_ts": 1789288877,
+      "author": "mikemcquaid"
+    },
+    {
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "hn_url": "https://news.ycombinator.com/item?id=49683853",
+      "points": 222,
+      "comments": 148,
+      "created_ts": 1789306531,
+      "author": "SanjayMehta"
     },
     {
       "title": "Don't be the out of touch Kung Fu master",
       "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
       "hn_url": "https://news.ycombinator.com/item?id=49677577",
-      "points": 134,
-      "comments": 145,
+      "points": 194,
+      "comments": 260,
       "created_ts": 1789249903,
       "author": "dsubburam"
     },
@@ -108,48 +99,36 @@
       "title": "The Interim Computer Museum",
       "url": "https://icm.museum/",
       "hn_url": "https://news.ycombinator.com/item?id=49679459",
-      "points": 118,
-      "comments": 13,
+      "points": 144,
+      "comments": 17,
       "created_ts": 1789267437,
       "author": "mulmen"
     },
     {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49673580",
-      "points": 114,
-      "comments": 35,
-      "created_ts": 1789228192,
-      "author": "pwg"
+      "title": "Aligned to whom?",
+      "url": "https://hyperbo.la/w/aligned-to-whom/",
+      "hn_url": "https://news.ycombinator.com/item?id=49679643",
+      "points": 124,
+      "comments": 65,
+      "created_ts": 1789269438,
+      "author": "lopopolo"
     },
     {
-      "title": "Will there be a 7G?",
-      "url": "https://arxiv.org/abs/2609.01877",
-      "hn_url": "https://news.ycombinator.com/item?id=49674498",
-      "points": 106,
-      "comments": 162,
-      "created_ts": 1789232731,
-      "author": "Betelbuddy"
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "hn_url": "https://news.ycombinator.com/item?id=49682087",
+      "points": 110,
+      "comments": 73,
+      "created_ts": 1789293598,
+      "author": "tdrz"
     }
   ],
   "ph_today": [
     {
-      "title": "ScreenCursor",
-      "url": "https://www.producthunt.com/products/screencursor",
+      "title": "Clipwise",
+      "url": "https://www.producthunt.com/products/clipwise-notion-web-clipper",
       "tagline": "",
-      "pub_date": "2026-09-10T07:59:10-07:00"
-    },
-    {
-      "title": "Neopress",
-      "url": "https://www.producthunt.com/products/neopress",
-      "tagline": "",
-      "pub_date": "2026-09-09T23:43:00-07:00"
-    },
-    {
-      "title": "Resurf",
-      "url": "https://www.producthunt.com/products/resurf-2",
-      "tagline": "",
-      "pub_date": "2026-09-11T14:36:08-07:00"
+      "pub_date": "2026-09-06T03:13:16-07:00"
     },
     {
       "title": "GhostWriter by MyHandler",
@@ -158,10 +137,34 @@
       "pub_date": "2026-08-13T11:27:25-07:00"
     },
     {
+      "title": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2",
+      "tagline": "",
+      "pub_date": "2026-09-11T14:36:08-07:00"
+    },
+    {
       "title": "Cognition's SWE-2",
       "url": "https://www.producthunt.com/products/cognition-s-swe-2",
       "tagline": "",
       "pub_date": "2026-09-10T15:19:56-07:00"
+    },
+    {
+      "title": "Neopress",
+      "url": "https://www.producthunt.com/products/neopress",
+      "tagline": "",
+      "pub_date": "2026-09-09T23:43:00-07:00"
+    },
+    {
+      "title": "Kirokune",
+      "url": "https://www.producthunt.com/products/kirokune",
+      "tagline": "",
+      "pub_date": "2026-09-10T16:40:50-07:00"
+    },
+    {
+      "title": "SHIUI",
+      "url": "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit",
+      "tagline": "",
+      "pub_date": "2026-09-09T07:21:15-07:00"
     },
     {
       "title": "Perplexity Hybrid Compute",
@@ -176,28 +179,10 @@
       "pub_date": "2026-09-09T22:45:55-07:00"
     },
     {
-      "title": "Clipwise",
-      "url": "https://www.producthunt.com/products/clipwise-notion-web-clipper",
-      "tagline": "",
-      "pub_date": "2026-09-06T03:13:16-07:00"
-    },
-    {
       "title": "DemoTV",
       "url": "https://www.producthunt.com/products/demotv",
       "tagline": "",
       "pub_date": "2026-09-08T07:29:16-07:00"
-    },
-    {
-      "title": "SHIUI",
-      "url": "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit",
-      "tagline": "",
-      "pub_date": "2026-09-09T07:21:15-07:00"
-    },
-    {
-      "title": "Kirokune",
-      "url": "https://www.producthunt.com/products/kirokune",
-      "tagline": "",
-      "pub_date": "2026-09-10T16:40:50-07:00"
     },
     {
       "title": "Epilude Notetaker",
@@ -206,28 +191,10 @@
       "pub_date": "2026-09-10T10:48:52-07:00"
     },
     {
-      "title": "QApilot MCP for Android",
-      "url": "https://www.producthunt.com/products/qapilot",
+      "title": "ScreenCursor",
+      "url": "https://www.producthunt.com/products/screencursor",
       "tagline": "",
-      "pub_date": "2026-09-02T17:25:21-07:00"
-    },
-    {
-      "title": "Youkti",
-      "url": "https://www.producthunt.com/products/youkti",
-      "tagline": "",
-      "pub_date": "2026-08-14T00:50:59-07:00"
-    },
-    {
-      "title": "Calerto for Mac",
-      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
-      "tagline": "",
-      "pub_date": "2026-09-09T23:14:32-07:00"
-    },
-    {
-      "title": "FrameSketch",
-      "url": "https://www.producthunt.com/products/framesketch",
-      "tagline": "",
-      "pub_date": "2026-09-10T03:42:55-07:00"
+      "pub_date": "2026-09-10T07:59:10-07:00"
     },
     {
       "title": "SUDARI",
@@ -248,34 +215,10 @@
       "pub_date": "2026-09-08T04:53:26-07:00"
     },
     {
-      "title": "Captain Kill Switch",
-      "url": "https://www.producthunt.com/products/captain-kill-switch",
-      "tagline": "",
-      "pub_date": "2026-08-22T21:09:09-07:00"
-    },
-    {
       "title": "VoxelWall",
       "url": "https://www.producthunt.com/products/voxelwall",
       "tagline": "",
       "pub_date": "2026-09-09T23:29:28-07:00"
-    },
-    {
-      "title": "Work Life Panda",
-      "url": "https://www.producthunt.com/products/work-life-panda",
-      "tagline": "",
-      "pub_date": "2026-09-04T10:55:05-07:00"
-    },
-    {
-      "title": "Relic",
-      "url": "https://www.producthunt.com/products/relic-copy-vault",
-      "tagline": "",
-      "pub_date": "2026-09-02T09:44:53-07:00"
-    },
-    {
-      "title": "Stackness",
-      "url": "https://www.producthunt.com/products/stackness",
-      "tagline": "",
-      "pub_date": "2026-09-02T10:10:22-07:00"
     },
     {
       "title": "Wokyintosh",
@@ -284,16 +227,22 @@
       "pub_date": "2026-09-09T04:44:38-07:00"
     },
     {
+      "title": "Youkti",
+      "url": "https://www.producthunt.com/products/youkti",
+      "tagline": "",
+      "pub_date": "2026-08-14T00:50:59-07:00"
+    },
+    {
       "title": "Marked Share",
       "url": "https://www.producthunt.com/products/marked-share",
       "tagline": "",
       "pub_date": "2026-09-09T07:45:35-07:00"
     },
     {
-      "title": "Kabza",
-      "url": "https://www.producthunt.com/products/kabza",
+      "title": "Relic",
+      "url": "https://www.producthunt.com/products/relic-copy-vault",
       "tagline": "",
-      "pub_date": "2026-09-04T11:39:31-07:00"
+      "pub_date": "2026-09-02T09:44:53-07:00"
     },
     {
       "title": "ABrush",
@@ -302,10 +251,52 @@
       "pub_date": "2026-09-10T13:18:42-07:00"
     },
     {
+      "title": "QApilot MCP for Android",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "tagline": "",
+      "pub_date": "2026-09-02T17:25:21-07:00"
+    },
+    {
+      "title": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
+      "tagline": "",
+      "pub_date": "2026-09-04T10:55:05-07:00"
+    },
+    {
+      "title": "Calerto for Mac",
+      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+      "tagline": "",
+      "pub_date": "2026-09-09T23:14:32-07:00"
+    },
+    {
+      "title": "Kabza",
+      "url": "https://www.producthunt.com/products/kabza",
+      "tagline": "",
+      "pub_date": "2026-09-04T11:39:31-07:00"
+    },
+    {
       "title": "Cortex",
       "url": "https://www.producthunt.com/products/cortex-25",
       "tagline": "",
       "pub_date": "2026-09-05T03:05:18-07:00"
+    },
+    {
+      "title": "FrameSketch",
+      "url": "https://www.producthunt.com/products/framesketch",
+      "tagline": "",
+      "pub_date": "2026-09-10T03:42:55-07:00"
+    },
+    {
+      "title": "Captain Kill Switch",
+      "url": "https://www.producthunt.com/products/captain-kill-switch",
+      "tagline": "",
+      "pub_date": "2026-08-22T21:09:09-07:00"
+    },
+    {
+      "title": "Stackness",
+      "url": "https://www.producthunt.com/products/stackness",
+      "tagline": "",
+      "pub_date": "2026-09-02T10:10:22-07:00"
     },
     {
       "title": "DockFix 5.0",

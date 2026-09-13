@@ -1,137 +1,85 @@
 {
-  "generated_at": "2026-09-12T19:57:26.167Z",
+  "generated_at": "2026-09-13T02:26:52.468Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
-  "hn_show": [
-    {
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "url": "https://github.com/mirza-rizvi/ResolveHQ",
-      "hn_url": "https://news.ycombinator.com/item?id=49665864",
-      "points": 67,
-      "comments": 24,
-      "created_ts": 1789163280,
-      "author": "mirza_rizvi"
-    },
-    {
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "url": "https://github.com/zachsaw/graphify-csharp",
-      "hn_url": "https://news.ycombinator.com/item?id=49667188",
-      "points": 41,
-      "comments": 21,
-      "created_ts": 1789172170,
-      "author": "zachsaw"
-    },
-    {
-      "title": "Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust",
-      "url": "https://github.com/Adarshent/Spnda",
-      "hn_url": "https://news.ycombinator.com/item?id=49665875",
-      "points": 13,
-      "comments": 2,
-      "created_ts": 1789163336,
-      "author": "Bhupennayak"
-    }
-  ],
+  "hn_show": [],
   "hn_front": [
-    {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "hn_url": "https://news.ycombinator.com/item?id=49668386",
-      "points": 582,
-      "comments": 458,
-      "created_ts": 1789182860,
-      "author": "1e1a"
-    },
-    {
-      "title": "Fuck it, make it anyway",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "hn_url": "https://news.ycombinator.com/item?id=49671329",
-      "points": 502,
-      "comments": 494,
-      "created_ts": 1789213352,
-      "author": "JayOtter"
-    },
     {
       "title": "We must pace the frontier",
       "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "hn_url": "https://news.ycombinator.com/item?id=49672510",
-      "points": 346,
-      "comments": 467,
+      "points": 559,
+      "comments": 786,
       "created_ts": 1789222249,
       "author": "apsec112"
-    },
-    {
-      "title": "Navier-Stokes Announcement",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "hn_url": "https://news.ycombinator.com/item?id=49668706",
-      "points": 268,
-      "comments": 211,
-      "created_ts": 1789186183,
-      "author": "rvz"
     },
     {
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=49673098",
-      "points": 229,
-      "comments": 172,
+      "points": 404,
+      "comments": 272,
       "created_ts": 1789225707,
       "author": "tolugenius"
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49670032",
-      "points": 197,
-      "comments": 26,
-      "created_ts": 1789199643,
-      "author": "zdw"
-    },
-    {
-      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "hn_url": "https://news.ycombinator.com/item?id=49665502",
-      "points": 136,
-      "comments": 37,
-      "created_ts": 1789161408,
-      "author": "mhitza"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "hn_url": "https://news.ycombinator.com/item?id=49674050",
-      "points": 128,
-      "comments": 43,
+      "points": 342,
+      "comments": 79,
       "created_ts": 1789230308,
       "author": "juliantigler"
     },
     {
-      "title": "An open letter to Dario: if you mean it, open the weights",
-      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "hn_url": "https://news.ycombinator.com/item?id=49676085",
-      "points": 110,
-      "comments": 23,
-      "created_ts": 1789240532,
-      "author": "routelastresort"
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "hn_url": "https://news.ycombinator.com/item?id=49675902",
+      "points": 206,
+      "comments": 62,
+      "created_ts": 1789239537,
+      "author": "encyclopedism"
+    },
+    {
+      "title": "LG Says We're Fake News [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "hn_url": "https://news.ycombinator.com/item?id=49676324",
+      "points": 176,
+      "comments": 82,
+      "created_ts": 1789241736,
+      "author": "HelloUsername"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "hn_url": "https://news.ycombinator.com/item?id=49678683",
+      "points": 136,
+      "comments": 52,
+      "created_ts": 1789259444,
+      "author": "xena"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "hn_url": "https://news.ycombinator.com/item?id=49676820",
+      "points": 126,
+      "comments": 65,
+      "created_ts": 1789244748,
+      "author": "theanonymousone"
     }
   ],
   "ph_today": [
     {
-      "title": "FrameSketch",
-      "url": "https://www.producthunt.com/products/framesketch",
+      "title": "Cortex",
+      "url": "https://www.producthunt.com/products/cortex-25",
       "tagline": "",
-      "pub_date": "2026-09-10T03:42:55-07:00"
+      "pub_date": "2026-09-05T03:05:18-07:00"
     },
     {
-      "title": "Youkti",
-      "url": "https://www.producthunt.com/products/youkti",
+      "title": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
       "tagline": "",
-      "pub_date": "2026-08-14T00:50:59-07:00"
-    },
-    {
-      "title": "Stackness",
-      "url": "https://www.producthunt.com/products/stackness",
-      "tagline": "",
-      "pub_date": "2026-09-02T10:10:22-07:00"
+      "pub_date": "2026-09-04T10:55:05-07:00"
     },
     {
       "title": "DockFix 5.0",
@@ -140,10 +88,64 @@
       "pub_date": "2026-09-11T12:26:15-07:00"
     },
     {
+      "title": "Kabza",
+      "url": "https://www.producthunt.com/products/kabza",
+      "tagline": "",
+      "pub_date": "2026-09-04T11:39:31-07:00"
+    },
+    {
+      "title": "VoxelWall",
+      "url": "https://www.producthunt.com/products/voxelwall",
+      "tagline": "",
+      "pub_date": "2026-09-09T23:29:28-07:00"
+    },
+    {
+      "title": "Relic",
+      "url": "https://www.producthunt.com/products/relic-copy-vault",
+      "tagline": "",
+      "pub_date": "2026-09-02T09:44:53-07:00"
+    },
+    {
+      "title": "LinkFlick",
+      "url": "https://www.producthunt.com/products/linkflick",
+      "tagline": "",
+      "pub_date": "2026-09-06T20:23:42-07:00"
+    },
+    {
+      "title": "SUDARI",
+      "url": "https://www.producthunt.com/products/sudari",
+      "tagline": "",
+      "pub_date": "2026-09-10T23:18:58-07:00"
+    },
+    {
+      "title": "Stackness",
+      "url": "https://www.producthunt.com/products/stackness",
+      "tagline": "",
+      "pub_date": "2026-09-02T10:10:22-07:00"
+    },
+    {
+      "title": "FrameSketch",
+      "url": "https://www.producthunt.com/products/framesketch",
+      "tagline": "",
+      "pub_date": "2026-09-10T03:42:55-07:00"
+    },
+    {
+      "title": "Wokyintosh",
+      "url": "https://www.producthunt.com/products/wokyintosh",
+      "tagline": "",
+      "pub_date": "2026-09-09T04:44:38-07:00"
+    },
+    {
       "title": "Marked Share",
       "url": "https://www.producthunt.com/products/marked-share",
       "tagline": "",
       "pub_date": "2026-09-09T07:45:35-07:00"
+    },
+    {
+      "title": "Calerto for Mac",
+      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+      "tagline": "",
+      "pub_date": "2026-09-09T23:14:32-07:00"
     },
     {
       "title": "ABrush",
@@ -158,64 +160,10 @@
       "pub_date": "2026-09-02T17:25:21-07:00"
     },
     {
-      "title": "Calerto for Mac",
-      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+      "title": "Youkti",
+      "url": "https://www.producthunt.com/products/youkti",
       "tagline": "",
-      "pub_date": "2026-09-09T23:14:32-07:00"
-    },
-    {
-      "title": "SUDARI",
-      "url": "https://www.producthunt.com/products/sudari",
-      "tagline": "",
-      "pub_date": "2026-09-10T23:18:58-07:00"
-    },
-    {
-      "title": "LinkFlick",
-      "url": "https://www.producthunt.com/products/linkflick",
-      "tagline": "",
-      "pub_date": "2026-09-06T20:23:42-07:00"
-    },
-    {
-      "title": "Pascal’s Pager",
-      "url": "https://www.producthunt.com/products/pascal-s-pager",
-      "tagline": "",
-      "pub_date": "2026-09-08T04:53:26-07:00"
-    },
-    {
-      "title": "VoxelWall",
-      "url": "https://www.producthunt.com/products/voxelwall",
-      "tagline": "",
-      "pub_date": "2026-09-09T23:29:28-07:00"
-    },
-    {
-      "title": "Wokyintosh",
-      "url": "https://www.producthunt.com/products/wokyintosh",
-      "tagline": "",
-      "pub_date": "2026-09-09T04:44:38-07:00"
-    },
-    {
-      "title": "Work Life Panda",
-      "url": "https://www.producthunt.com/products/work-life-panda",
-      "tagline": "",
-      "pub_date": "2026-09-04T10:55:05-07:00"
-    },
-    {
-      "title": "Cortex",
-      "url": "https://www.producthunt.com/products/cortex-25",
-      "tagline": "",
-      "pub_date": "2026-09-05T03:05:18-07:00"
-    },
-    {
-      "title": "Relic",
-      "url": "https://www.producthunt.com/products/relic-copy-vault",
-      "tagline": "",
-      "pub_date": "2026-09-02T09:44:53-07:00"
-    },
-    {
-      "title": "Kabza",
-      "url": "https://www.producthunt.com/products/kabza",
-      "tagline": "",
-      "pub_date": "2026-09-04T11:39:31-07:00"
+      "pub_date": "2026-08-14T00:50:59-07:00"
     },
     {
       "title": "Captain Kill Switch",
@@ -224,16 +172,16 @@
       "pub_date": "2026-08-22T21:09:09-07:00"
     },
     {
+      "title": "Pascal’s Pager",
+      "url": "https://www.producthunt.com/products/pascal-s-pager",
+      "tagline": "",
+      "pub_date": "2026-09-08T04:53:26-07:00"
+    },
+    {
       "title": "sizeless",
       "url": "https://www.producthunt.com/products/sizeless",
       "tagline": "",
       "pub_date": "2026-09-10T10:55:17-07:00"
-    },
-    {
-      "title": "Wisry",
-      "url": "https://www.producthunt.com/products/wisry",
-      "tagline": "",
-      "pub_date": "2026-08-18T02:14:44-07:00"
     },
     {
       "title": "Spaces",
@@ -248,22 +196,10 @@
       "pub_date": "2026-09-10T15:45:33-07:00"
     },
     {
-      "title": "Cline Desktop App",
-      "url": "https://www.producthunt.com/products/cline-4",
+      "title": "LiveGrid",
+      "url": "https://www.producthunt.com/products/livegrid-4",
       "tagline": "",
-      "pub_date": "2026-09-08T07:26:09-07:00"
-    },
-    {
-      "title": "Sliick",
-      "url": "https://www.producthunt.com/products/sliick",
-      "tagline": "",
-      "pub_date": "2026-09-07T20:15:57-07:00"
-    },
-    {
-      "title": "Loqua",
-      "url": "https://www.producthunt.com/products/loqua",
-      "tagline": "",
-      "pub_date": "2026-09-07T03:35:30-07:00"
+      "pub_date": "2026-09-10T21:01:14-07:00"
     },
     {
       "title": "ChatHop",
@@ -272,16 +208,16 @@
       "pub_date": "2026-09-10T07:56:17-07:00"
     },
     {
-      "title": "Moji",
-      "url": "https://www.producthunt.com/products/moji-2",
+      "title": "Formesign",
+      "url": "https://www.producthunt.com/products/formesign",
       "tagline": "",
-      "pub_date": "2026-09-10T19:58:28-07:00"
+      "pub_date": "2026-09-10T05:26:06-07:00"
     },
     {
-      "title": "LiveGrid",
-      "url": "https://www.producthunt.com/products/livegrid-4",
+      "title": "Accordio",
+      "url": "https://www.producthunt.com/products/accordio",
       "tagline": "",
-      "pub_date": "2026-09-10T21:01:14-07:00"
+      "pub_date": "2026-09-10T17:18:55-07:00"
     },
     {
       "title": "GLYPH Immersive",
@@ -290,10 +226,28 @@
       "pub_date": "2026-09-10T13:57:20-07:00"
     },
     {
-      "title": "Accordio",
-      "url": "https://www.producthunt.com/products/accordio",
+      "title": "Moji",
+      "url": "https://www.producthunt.com/products/moji-2",
       "tagline": "",
-      "pub_date": "2026-09-10T17:18:55-07:00"
+      "pub_date": "2026-09-10T19:58:28-07:00"
+    },
+    {
+      "title": "Cline Desktop App",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "tagline": "",
+      "pub_date": "2026-09-08T07:26:09-07:00"
+    },
+    {
+      "title": "easyspecs.ai",
+      "url": "https://www.producthunt.com/products/easyspecs-ai",
+      "tagline": "",
+      "pub_date": "2026-09-04T05:33:44-07:00"
+    },
+    {
+      "title": "Anysite.io",
+      "url": "https://www.producthunt.com/products/anysite",
+      "tagline": "",
+      "pub_date": "2026-08-11T07:08:45-07:00"
     }
   ]
 }

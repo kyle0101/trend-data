@@ -1,170 +1,107 @@
 {
-  "generated_at": "2026-09-13T20:03:59.353Z",
+  "generated_at": "2026-09-14T02:43:38.625Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Most Penalized HN Stories",
-      "url": "https://news.social-protocols.org/penalties",
-      "hn_url": "https://news.ycombinator.com/item?id=49678711",
-      "points": 18,
-      "comments": 3,
-      "created_ts": 1789259760,
-      "author": "jwarden"
+      "title": "Show HN: Is It Greg?",
+      "url": "https://github.com/antoineleclair/is-it-greg",
+      "hn_url": "https://news.ycombinator.com/item?id=49690943",
+      "points": 19,
+      "comments": 4,
+      "created_ts": 1789351121,
+      "author": "antoineleclair"
     },
     {
       "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
       "url": "https://www.analystidx.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49682946",
-      "points": 14,
-      "comments": 7,
+      "points": 15,
+      "comments": 9,
       "created_ts": 1789300235,
       "author": "haichuan"
-    },
-    {
-      "title": "Show HN: What If Donut.c but with Any ASCII Art",
-      "url": "https://asdesai.com/blog/how-fetch-works/",
-      "hn_url": "https://news.ycombinator.com/item?id=49677480",
-      "points": 14,
-      "comments": 1,
-      "created_ts": 1789249164,
-      "author": "areofyl"
-    },
-    {
-      "title": "Show HN: Everything a web page can learn about you, in plain English",
-      "url": "https://sessioncontext.org",
-      "hn_url": "https://news.ycombinator.com/item?id=49678035",
-      "points": 12,
-      "comments": 5,
-      "created_ts": 1789253447,
-      "author": "oddurs"
     }
   ],
   "hn_front": [
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "hn_url": "https://news.ycombinator.com/item?id=49678969",
-      "points": 528,
-      "comments": 614,
-      "created_ts": 1789262551,
-      "author": "jonifico"
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "hn_url": "https://news.ycombinator.com/item?id=49686445",
+      "points": 621,
+      "comments": 295,
+      "created_ts": 1789321064,
+      "author": "iamflimflam1"
     },
     {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "hn_url": "https://news.ycombinator.com/item?id=49681545",
-      "points": 489,
-      "comments": 194,
-      "created_ts": 1789288877,
-      "author": "mikemcquaid"
-    },
-    {
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "hn_url": "https://news.ycombinator.com/item?id=49681152",
-      "points": 449,
-      "comments": 175,
-      "created_ts": 1789285786,
-      "author": "taubek"
-    },
-    {
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49686766",
-      "points": 293,
-      "comments": 85,
-      "created_ts": 1789322589,
-      "author": "robinpie"
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "hn_url": "https://news.ycombinator.com/item?id=49688695",
+      "points": 514,
+      "comments": 229,
+      "created_ts": 1789333573,
+      "author": "u1hcw9nx"
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
       "hn_url": "https://news.ycombinator.com/item?id=49684393",
-      "points": 281,
-      "comments": 123,
+      "points": 387,
+      "comments": 176,
       "created_ts": 1789309716,
       "author": "Levitating"
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "hn_url": "https://news.ycombinator.com/item?id=49686445",
-      "points": 244,
-      "comments": 113,
-      "created_ts": 1789321064,
-      "author": "iamflimflam1"
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "hn_url": "https://news.ycombinator.com/item?id=49685253",
-      "points": 226,
-      "comments": 111,
-      "created_ts": 1789314278,
-      "author": "TheJCDenton"
     },
     {
       "title": "Data collected by cars and sold to third parties",
       "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
       "hn_url": "https://news.ycombinator.com/item?id=49683953",
-      "points": 161,
-      "comments": 97,
+      "points": 323,
+      "comments": 165,
       "created_ts": 1789307108,
       "author": "bookofjoe"
-    },
-    {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "hn_url": "https://news.ycombinator.com/item?id=49685991",
-      "points": 145,
-      "comments": 104,
-      "created_ts": 1789318353,
-      "author": "kolanos"
     },
     {
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
       "hn_url": "https://news.ycombinator.com/item?id=49683262",
-      "points": 137,
-      "comments": 36,
+      "points": 210,
+      "comments": 49,
       "created_ts": 1789302615,
       "author": "ibobev"
+    },
+    {
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49684196",
+      "points": 168,
+      "comments": 76,
+      "created_ts": 1789308593,
+      "author": "tosh"
+    },
+    {
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "hn_url": "https://news.ycombinator.com/item?id=49689460",
+      "points": 150,
+      "comments": 115,
+      "created_ts": 1789339098,
+      "author": "elffjs"
     },
     {
       "title": "CUDA for AMD on Windows",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
       "hn_url": "https://news.ycombinator.com/item?id=49684356",
-      "points": 101,
-      "comments": 56,
+      "points": 142,
+      "comments": 72,
       "created_ts": 1789309513,
       "author": "chiassedu80"
     }
   ],
   "ph_today": [
     {
-      "title": "Neopress",
-      "url": "https://www.producthunt.com/products/neopress",
-      "tagline": "",
-      "pub_date": "2026-09-09T23:43:00-07:00"
-    },
-    {
       "title": "GhostWriter by MyHandler",
       "url": "https://www.producthunt.com/products/ghostwriter-by-myhandler",
       "tagline": "",
       "pub_date": "2026-08-13T11:27:25-07:00"
-    },
-    {
-      "title": "Cognition's SWE-2",
-      "url": "https://www.producthunt.com/products/cognition-s-swe-2",
-      "tagline": "",
-      "pub_date": "2026-09-10T15:19:56-07:00"
-    },
-    {
-      "title": "Visiby",
-      "url": "https://www.producthunt.com/products/visiby",
-      "tagline": "",
-      "pub_date": "2026-09-09T22:45:55-07:00"
     },
     {
       "title": "DemoTV",
@@ -173,22 +110,16 @@
       "pub_date": "2026-09-08T07:29:16-07:00"
     },
     {
-      "title": "Perplexity Hybrid Compute",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "title": "Visiby",
+      "url": "https://www.producthunt.com/products/visiby",
       "tagline": "",
-      "pub_date": "2026-09-08T23:18:58-07:00"
+      "pub_date": "2026-09-09T22:45:55-07:00"
     },
     {
-      "title": "Resurf",
-      "url": "https://www.producthunt.com/products/resurf-2",
+      "title": "Cognition's SWE-2",
+      "url": "https://www.producthunt.com/products/cognition-s-swe-2",
       "tagline": "",
-      "pub_date": "2026-09-11T14:36:08-07:00"
-    },
-    {
-      "title": "SHIUI",
-      "url": "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit",
-      "tagline": "",
-      "pub_date": "2026-09-09T07:21:15-07:00"
+      "pub_date": "2026-09-10T15:19:56-07:00"
     },
     {
       "title": "Clipwise",
@@ -197,10 +128,10 @@
       "pub_date": "2026-09-06T03:13:16-07:00"
     },
     {
-      "title": "Epilude Notetaker",
-      "url": "https://www.producthunt.com/products/epilude",
+      "title": "Perplexity Hybrid Compute",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
       "tagline": "",
-      "pub_date": "2026-09-10T10:48:52-07:00"
+      "pub_date": "2026-09-08T23:18:58-07:00"
     },
     {
       "title": "ScreenCursor",
@@ -209,34 +140,40 @@
       "pub_date": "2026-09-10T07:59:10-07:00"
     },
     {
+      "title": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2",
+      "tagline": "",
+      "pub_date": "2026-09-11T14:36:08-07:00"
+    },
+    {
+      "title": "Epilude Notetaker",
+      "url": "https://www.producthunt.com/products/epilude",
+      "tagline": "",
+      "pub_date": "2026-09-10T10:48:52-07:00"
+    },
+    {
+      "title": "SHIUI",
+      "url": "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit",
+      "tagline": "",
+      "pub_date": "2026-09-09T07:21:15-07:00"
+    },
+    {
       "title": "Kirokune",
       "url": "https://www.producthunt.com/products/kirokune",
       "tagline": "",
       "pub_date": "2026-09-10T16:40:50-07:00"
     },
     {
-      "title": "VoxelWall",
-      "url": "https://www.producthunt.com/products/voxelwall",
+      "title": "Neopress",
+      "url": "https://www.producthunt.com/products/neopress",
       "tagline": "",
-      "pub_date": "2026-09-09T23:29:28-07:00"
+      "pub_date": "2026-09-09T23:43:00-07:00"
     },
     {
-      "title": "Stackness",
-      "url": "https://www.producthunt.com/products/stackness",
+      "title": "Pascal’s Pager",
+      "url": "https://www.producthunt.com/products/pascal-s-pager",
       "tagline": "",
-      "pub_date": "2026-09-02T10:10:22-07:00"
-    },
-    {
-      "title": "Work Life Panda",
-      "url": "https://www.producthunt.com/products/work-life-panda",
-      "tagline": "",
-      "pub_date": "2026-09-04T10:55:05-07:00"
-    },
-    {
-      "title": "Relic",
-      "url": "https://www.producthunt.com/products/relic-copy-vault",
-      "tagline": "",
-      "pub_date": "2026-09-02T09:44:53-07:00"
+      "pub_date": "2026-09-08T04:53:26-07:00"
     },
     {
       "title": "QApilot MCP for Android",
@@ -245,10 +182,10 @@
       "pub_date": "2026-09-02T17:25:21-07:00"
     },
     {
-      "title": "Wokyintosh",
-      "url": "https://www.producthunt.com/products/wokyintosh",
+      "title": "Youkti",
+      "url": "https://www.producthunt.com/products/youkti",
       "tagline": "",
-      "pub_date": "2026-09-09T04:44:38-07:00"
+      "pub_date": "2026-08-14T00:50:59-07:00"
     },
     {
       "title": "Marked Share",
@@ -257,22 +194,10 @@
       "pub_date": "2026-09-09T07:45:35-07:00"
     },
     {
-      "title": "Calerto for Mac",
-      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+      "title": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
       "tagline": "",
-      "pub_date": "2026-09-09T23:14:32-07:00"
-    },
-    {
-      "title": "Cortex",
-      "url": "https://www.producthunt.com/products/cortex-25",
-      "tagline": "",
-      "pub_date": "2026-09-05T03:05:18-07:00"
-    },
-    {
-      "title": "Youkti",
-      "url": "https://www.producthunt.com/products/youkti",
-      "tagline": "",
-      "pub_date": "2026-08-14T00:50:59-07:00"
+      "pub_date": "2026-09-04T10:55:05-07:00"
     },
     {
       "title": "LinkFlick",
@@ -281,16 +206,40 @@
       "pub_date": "2026-09-06T20:23:42-07:00"
     },
     {
+      "title": "Stackness",
+      "url": "https://www.producthunt.com/products/stackness",
+      "tagline": "",
+      "pub_date": "2026-09-02T10:10:22-07:00"
+    },
+    {
+      "title": "Relic",
+      "url": "https://www.producthunt.com/products/relic-copy-vault",
+      "tagline": "",
+      "pub_date": "2026-09-02T09:44:53-07:00"
+    },
+    {
+      "title": "Wokyintosh",
+      "url": "https://www.producthunt.com/products/wokyintosh",
+      "tagline": "",
+      "pub_date": "2026-09-09T04:44:38-07:00"
+    },
+    {
       "title": "SUDARI",
       "url": "https://www.producthunt.com/products/sudari",
       "tagline": "",
       "pub_date": "2026-09-10T23:18:58-07:00"
     },
     {
-      "title": "Pascal’s Pager",
-      "url": "https://www.producthunt.com/products/pascal-s-pager",
+      "title": "Calerto for Mac",
+      "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
       "tagline": "",
-      "pub_date": "2026-09-08T04:53:26-07:00"
+      "pub_date": "2026-09-09T23:14:32-07:00"
+    },
+    {
+      "title": "ABrush",
+      "url": "https://www.producthunt.com/products/abrush-ai-2",
+      "tagline": "",
+      "pub_date": "2026-09-10T13:18:42-07:00"
     },
     {
       "title": "FrameSketch",
@@ -317,10 +266,16 @@
       "pub_date": "2026-09-04T11:39:31-07:00"
     },
     {
-      "title": "ABrush",
-      "url": "https://www.producthunt.com/products/abrush-ai-2",
+      "title": "Cortex",
+      "url": "https://www.producthunt.com/products/cortex-25",
       "tagline": "",
-      "pub_date": "2026-09-10T13:18:42-07:00"
+      "pub_date": "2026-09-05T03:05:18-07:00"
+    },
+    {
+      "title": "VoxelWall",
+      "url": "https://www.producthunt.com/products/voxelwall",
+      "tagline": "",
+      "pub_date": "2026-09-09T23:29:28-07:00"
     }
   ]
 }

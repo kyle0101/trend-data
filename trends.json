@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:42:28.071Z",
+  "generated_at": "2026-09-16T02:41:50.110Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "hn_url": "https://news.ycombinator.com/item?id=49711544",
-      "points": 1064,
-      "comments": 138,
+      "points": 1350,
+      "comments": 183,
       "created_ts": 1789475470,
       "author": "arnemunthekaas"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49712278",
-      "points": 231,
-      "comments": 108,
+      "points": 290,
+      "comments": 119,
       "created_ts": 1789479100,
       "author": "bashtian"
     },
@@ -25,73 +25,73 @@
       "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
       "url": "https://bkovac.github.io/modem-thing/",
       "hn_url": "https://news.ycombinator.com/item?id=49712102",
-      "points": 149,
-      "comments": 28,
+      "points": 181,
+      "comments": 31,
       "created_ts": 1789478424,
       "author": "bobili1234"
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "hn_url": "https://news.ycombinator.com/item?id=49705442",
-      "points": 82,
-      "comments": 21,
-      "created_ts": 1789426896,
-      "author": "fretlessjazz"
-    },
-    {
-      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-      "url": "https://sunkcost.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49706656",
-      "points": 46,
-      "comments": 96,
-      "created_ts": 1789436263,
-      "author": "rlindsey123"
-    },
-    {
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "url": "https://github.com/greentfrapp/panel",
-      "hn_url": "https://news.ycombinator.com/item?id=49712621",
-      "points": 44,
-      "comments": 10,
-      "created_ts": 1789480717,
-      "author": "greentfrapp"
-    },
-    {
-      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-      "url": "https://github.com/ordewell/ordewell",
-      "hn_url": "https://news.ycombinator.com/item?id=49712276",
-      "points": 43,
-      "comments": 29,
-      "created_ts": 1789479097,
-      "author": "ac-ciano"
     },
     {
       "title": "Show HN: Check if your IP has appeared in a residential proxy network",
       "url": "https://haveibeenproxied.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49713037",
-      "points": 41,
-      "comments": 27,
+      "points": 59,
+      "comments": 39,
       "created_ts": 1789482287,
       "author": "microcode"
+    },
+    {
+      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+      "url": "https://github.com/ordewell/ordewell",
+      "hn_url": "https://news.ycombinator.com/item?id=49712276",
+      "points": 50,
+      "comments": 30,
+      "created_ts": 1789479097,
+      "author": "ac-ciano"
+    },
+    {
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "url": "https://github.com/greentfrapp/panel",
+      "hn_url": "https://news.ycombinator.com/item?id=49712621",
+      "points": 48,
+      "comments": 19,
+      "created_ts": 1789480717,
+      "author": "greentfrapp"
     },
     {
       "title": "Show HN: The bottom 50% of U.S. households are short after essentials (BLS data)",
       "url": "https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance",
       "hn_url": "https://news.ycombinator.com/item?id=49713953",
-      "points": 36,
-      "comments": 51,
+      "points": 37,
+      "comments": 54,
       "created_ts": 1789485851,
       "author": "pwmglenn"
+    },
+    {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "hn_url": "https://news.ycombinator.com/item?id=49713894",
+      "points": 34,
+      "comments": 16,
+      "created_ts": 1789485626,
+      "author": "jd_"
     },
     {
       "title": "Show HN: Loss. a tiny satire about AI progress",
       "url": "https://workatloss.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49712891",
-      "points": 24,
-      "comments": 7,
+      "points": 30,
+      "comments": 8,
       "created_ts": 1789481804,
       "author": "pbobak"
+    },
+    {
+      "title": "Show HN: SCIP MIP solver bindings for Go, ported from russcip",
+      "url": "https://github.com/egoisutolabs/scipgo",
+      "hn_url": "https://news.ycombinator.com/item?id=49714495",
+      "points": 11,
+      "comments": 0,
+      "created_ts": 1789487774,
+      "author": "generalist_dev"
     }
   ],
   "hn_front": [
@@ -99,198 +99,153 @@
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "hn_url": "https://news.ycombinator.com/item?id=49711544",
-      "points": 1050,
-      "comments": 137,
+      "points": 1350,
+      "comments": 183,
       "created_ts": 1789475470,
       "author": "arnemunthekaas"
     },
     {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "hn_url": "https://news.ycombinator.com/item?id=49708431",
-      "points": 912,
-      "comments": 375,
-      "created_ts": 1789452984,
-      "author": "networked"
-    },
-    {
-      "title": "25 years of mass surveillance is enough",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49710883",
-      "points": 669,
-      "comments": 239,
-      "created_ts": 1789471608,
-      "author": "iamnothere"
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "hn_url": "https://news.ycombinator.com/item?id=49707473",
-      "points": 368,
-      "comments": 264,
-      "created_ts": 1789444076,
-      "author": "harporoeder"
-    },
-    {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "hn_url": "https://news.ycombinator.com/item?id=49704132",
-      "points": 314,
-      "comments": 112,
-      "created_ts": 1789420501,
-      "author": "yusufozkan"
-    },
-    {
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "hn_url": "https://news.ycombinator.com/item?id=49708993",
-      "points": 236,
-      "comments": 102,
-      "created_ts": 1789457266,
-      "author": "edent"
-    },
-    {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49712278",
-      "points": 230,
-      "comments": 106,
-      "created_ts": 1789479100,
-      "author": "bashtian"
-    },
-    {
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "hn_url": "https://news.ycombinator.com/item?id=49710109",
-      "points": 227,
-      "comments": 231,
-      "created_ts": 1789466416,
-      "author": "ingve"
-    },
-    {
-      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
+      "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "hn_url": "https://news.ycombinator.com/item?id=49717558",
-      "points": 223,
-      "comments": 78,
+      "points": 832,
+      "comments": 273,
       "created_ts": 1789500303,
       "author": "albelfio"
     },
     {
-      "title": "Alternatives to MinIO for single-node local S3",
-      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "hn_url": "https://news.ycombinator.com/item?id=49709381",
-      "points": 221,
-      "comments": 93,
-      "created_ts": 1789460487,
-      "author": "rmoff"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "hn_url": "https://news.ycombinator.com/item?id=49710253",
+      "points": 444,
+      "comments": 396,
+      "created_ts": 1789467766,
+      "author": "choult"
     },
     {
       "title": "An Update on Wayback Machine Access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
       "hn_url": "https://news.ycombinator.com/item?id=49716176",
-      "points": 201,
-      "comments": 106,
+      "points": 409,
+      "comments": 219,
       "created_ts": 1789494738,
       "author": "ChrisArchitect"
     },
     {
-      "title": "America's Driver's License Breach Is a National Security Disaster",
-      "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
-      "hn_url": "https://news.ycombinator.com/item?id=49714547",
-      "points": 164,
-      "comments": 103,
-      "created_ts": 1789487928,
-      "author": "hn_acker"
-    },
-    {
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "url": "https://bkovac.github.io/modem-thing/",
-      "hn_url": "https://news.ycombinator.com/item?id=49712102",
-      "points": 149,
-      "comments": 24,
-      "created_ts": 1789478424,
-      "author": "bobili1234"
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "hn_url": "https://news.ycombinator.com/item?id=49710109",
+      "points": 326,
+      "comments": 329,
+      "created_ts": 1789466416,
+      "author": "ingve"
     },
     {
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "hn_url": "https://news.ycombinator.com/item?id=49715947",
-      "points": 144,
-      "comments": 92,
+      "points": 322,
+      "comments": 198,
       "created_ts": 1789493898,
       "author": "leumon"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712278",
+      "points": 290,
+      "comments": 119,
+      "created_ts": 1789479100,
+      "author": "bashtian"
     },
     {
       "title": "We got admin access to Baseten's production GitHub in 25 minutes",
       "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
       "hn_url": "https://news.ycombinator.com/item?id=49716476",
-      "points": 124,
-      "comments": 55,
+      "points": 232,
+      "comments": 124,
       "created_ts": 1789495884,
       "author": "bearsyankees"
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712102",
+      "points": 181,
+      "comments": 31,
+      "created_ts": 1789478424,
+      "author": "bobili1234"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "hn_url": "https://news.ycombinator.com/item?id=49717638",
+      "points": 176,
+      "comments": 113,
+      "created_ts": 1789500603,
+      "author": "ADevWithAnIdea"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49718928",
+      "points": 136,
+      "comments": 41,
+      "created_ts": 1789506467,
+      "author": "summarity"
+    },
+    {
+      "title": "Chopping up books when they're physically too big",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49716953",
+      "points": 132,
+      "comments": 130,
+      "created_ts": 1789497931,
+      "author": "matt_kirkland"
+    },
+    {
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "hn_url": "https://news.ycombinator.com/item?id=49713262",
+      "points": 130,
+      "comments": 69,
+      "created_ts": 1789483208,
+      "author": "yosito"
+    },
+    {
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "hn_url": "https://news.ycombinator.com/item?id=49717605",
+      "points": 116,
+      "comments": 45,
+      "created_ts": 1789500455,
+      "author": "Liogra123"
+    },
+    {
+      "title": "The Inference Hardware Revolution of 2026",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "hn_url": "https://news.ycombinator.com/item?id=49713024",
+      "points": 113,
+      "comments": 12,
+      "created_ts": 1789482248,
+      "author": "vinhnx"
+    },
+    {
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "hn_url": "https://news.ycombinator.com/item?id=49715590",
+      "points": 109,
+      "comments": 61,
+      "created_ts": 1789492339,
+      "author": "sippingabonedry"
     }
   ],
   "ph_today": [
-    {
-      "title": "Multimodal Agents by Sierra",
-      "url": "https://www.producthunt.com/products/sierra",
-      "tagline": "",
-      "pub_date": "2026-09-14T12:13:01-07:00"
-    },
-    {
-      "title": "Fifi",
-      "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
-      "tagline": "",
-      "pub_date": "2026-09-08T06:45:54-07:00"
-    },
-    {
-      "title": "FATHER",
-      "url": "https://www.producthunt.com/products/father-web-monitoring",
-      "tagline": "",
-      "pub_date": "2026-09-14T13:10:06-07:00"
-    },
-    {
-      "title": "Proofrr",
-      "url": "https://www.producthunt.com/products/proofrr",
-      "tagline": "",
-      "pub_date": "2026-08-30T13:12:55-07:00"
-    },
-    {
-      "title": "Axari",
-      "url": "https://www.producthunt.com/products/axari",
-      "tagline": "",
-      "pub_date": "2026-09-12T16:58:20-07:00"
-    },
-    {
-      "title": "Kilo Code for iOS and Android",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "tagline": "",
-      "pub_date": "2026-09-10T05:14:30-07:00"
-    },
     {
       "title": "Voiskey",
       "url": "https://www.producthunt.com/products/voiskey",
       "tagline": "",
       "pub_date": "2026-08-31T04:01:15-07:00"
-    },
-    {
-      "title": "PeekPaste",
-      "url": "https://www.producthunt.com/products/lucidbit",
-      "tagline": "",
-      "pub_date": "2026-09-14T17:44:31-07:00"
-    },
-    {
-      "title": "Mailyte",
-      "url": "https://www.producthunt.com/products/mailyte",
-      "tagline": "",
-      "pub_date": "2026-09-14T00:20:35-07:00"
-    },
-    {
-      "title": "Payflip",
-      "url": "https://www.producthunt.com/products/payflip",
-      "tagline": "",
-      "pub_date": "2026-09-14T06:25:02-07:00"
     },
     {
       "title": "jurniti",
@@ -299,100 +254,10 @@
       "pub_date": "2026-09-14T02:21:05-07:00"
     },
     {
-      "title": "Narrative",
-      "url": "https://www.producthunt.com/products/narrative-3",
+      "title": "Fifi",
+      "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
       "tagline": "",
-      "pub_date": "2026-09-13T16:37:48-07:00"
-    },
-    {
-      "title": "Thoughts for Mac",
-      "url": "https://www.producthunt.com/products/thoughts-for-mac",
-      "tagline": "",
-      "pub_date": "2026-09-14T10:46:39-07:00"
-    },
-    {
-      "title": "siift",
-      "url": "https://www.producthunt.com/products/siift",
-      "tagline": "",
-      "pub_date": "2026-09-03T11:42:56-07:00"
-    },
-    {
-      "title": "Anthropologic",
-      "url": "https://www.producthunt.com/products/anthropologic",
-      "tagline": "",
-      "pub_date": "2026-09-11T03:56:33-07:00"
-    },
-    {
-      "title": "Buddy AI Access (MCP)",
-      "url": "https://www.producthunt.com/products/buddy",
-      "tagline": "",
-      "pub_date": "2026-09-14T03:48:06-07:00"
-    },
-    {
-      "title": "Mac Duo",
-      "url": "https://www.producthunt.com/products/mac-duo",
-      "tagline": "",
-      "pub_date": "2026-09-14T17:02:32-07:00"
-    },
-    {
-      "title": "Grimo AI",
-      "url": "https://www.producthunt.com/products/grimo-ai",
-      "tagline": "",
-      "pub_date": "2026-09-10T15:27:36-07:00"
-    },
-    {
-      "title": "is.team",
-      "url": "https://www.producthunt.com/products/is-team",
-      "tagline": "",
-      "pub_date": "2026-04-03T15:07:18-07:00"
-    },
-    {
-      "title": "PortAura",
-      "url": "https://www.producthunt.com/products/portaura",
-      "tagline": "",
-      "pub_date": "2026-09-12T09:13:43-07:00"
-    },
-    {
-      "title": "The Minimalist Entrepreneur Skills",
-      "url": "https://www.producthunt.com/products/the-minimalist-entrepreneur-skills",
-      "tagline": "",
-      "pub_date": "2026-09-13T18:20:09-07:00"
-    },
-    {
-      "title": "DynamicLake 2.0",
-      "url": "https://www.producthunt.com/products/dynamiclake",
-      "tagline": "",
-      "pub_date": "2026-09-11T07:34:55-07:00"
-    },
-    {
-      "title": "OpenAI Agents API",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-09-13T19:33:24-07:00"
-    },
-    {
-      "title": "Kodro",
-      "url": "https://www.producthunt.com/products/kodro",
-      "tagline": "",
-      "pub_date": "2026-09-14T11:14:09-07:00"
-    },
-    {
-      "title": "Portfolio Frame",
-      "url": "https://www.producthunt.com/products/portfolio-frame",
-      "tagline": "",
-      "pub_date": "2026-09-14T23:13:16-07:00"
-    },
-    {
-      "title": "Workshopy.io",
-      "url": "https://www.producthunt.com/products/workshopy-io",
-      "tagline": "",
-      "pub_date": "2026-07-12T13:16:24-07:00"
-    },
-    {
-      "title": "Idlen",
-      "url": "https://www.producthunt.com/products/idlen",
-      "tagline": "",
-      "pub_date": "2026-09-03T01:23:32-07:00"
+      "pub_date": "2026-09-08T06:45:54-07:00"
     },
     {
       "title": "tiun.",
@@ -401,10 +266,154 @@
       "pub_date": "2026-07-17T07:00:17-07:00"
     },
     {
+      "title": "Portfolio Frame",
+      "url": "https://www.producthunt.com/products/portfolio-frame",
+      "tagline": "",
+      "pub_date": "2026-09-14T23:13:16-07:00"
+    },
+    {
+      "title": "Multimodal Agents by Sierra",
+      "url": "https://www.producthunt.com/products/sierra",
+      "tagline": "",
+      "pub_date": "2026-09-14T12:13:01-07:00"
+    },
+    {
+      "title": "Narrative",
+      "url": "https://www.producthunt.com/products/narrative-3",
+      "tagline": "",
+      "pub_date": "2026-09-13T16:37:48-07:00"
+    },
+    {
+      "title": "is.team",
+      "url": "https://www.producthunt.com/products/is-team",
+      "tagline": "",
+      "pub_date": "2026-04-03T15:07:18-07:00"
+    },
+    {
+      "title": "FATHER",
+      "url": "https://www.producthunt.com/products/father-web-monitoring",
+      "tagline": "",
+      "pub_date": "2026-09-14T13:10:06-07:00"
+    },
+    {
+      "title": "Idlen",
+      "url": "https://www.producthunt.com/products/idlen",
+      "tagline": "",
+      "pub_date": "2026-09-03T01:23:32-07:00"
+    },
+    {
+      "title": "Grimo AI",
+      "url": "https://www.producthunt.com/products/grimo-ai",
+      "tagline": "",
+      "pub_date": "2026-09-10T15:27:36-07:00"
+    },
+    {
+      "title": "Proofrr",
+      "url": "https://www.producthunt.com/products/proofrr",
+      "tagline": "",
+      "pub_date": "2026-08-30T13:12:55-07:00"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-09-13T19:33:24-07:00"
+    },
+    {
+      "title": "Anthropologic",
+      "url": "https://www.producthunt.com/products/anthropologic",
+      "tagline": "",
+      "pub_date": "2026-09-11T03:56:33-07:00"
+    },
+    {
+      "title": "siift",
+      "url": "https://www.producthunt.com/products/siift",
+      "tagline": "",
+      "pub_date": "2026-09-03T11:42:56-07:00"
+    },
+    {
+      "title": "Axari",
+      "url": "https://www.producthunt.com/products/axari",
+      "tagline": "",
+      "pub_date": "2026-09-12T16:58:20-07:00"
+    },
+    {
+      "title": "Workshopy.io",
+      "url": "https://www.producthunt.com/products/workshopy-io",
+      "tagline": "",
+      "pub_date": "2026-07-12T13:16:24-07:00"
+    },
+    {
+      "title": "PeekPaste",
+      "url": "https://www.producthunt.com/products/lucidbit",
+      "tagline": "",
+      "pub_date": "2026-09-14T17:44:31-07:00"
+    },
+    {
       "title": "Tangerine",
       "url": "https://www.producthunt.com/products/tangerine-zero-click-file-converter",
       "tagline": "",
       "pub_date": "2026-09-14T16:27:05-07:00"
+    },
+    {
+      "title": "Thoughts for Mac",
+      "url": "https://www.producthunt.com/products/thoughts-for-mac",
+      "tagline": "",
+      "pub_date": "2026-09-14T10:46:39-07:00"
+    },
+    {
+      "title": "Kodro",
+      "url": "https://www.producthunt.com/products/kodro",
+      "tagline": "",
+      "pub_date": "2026-09-14T11:14:09-07:00"
+    },
+    {
+      "title": "Mailyte",
+      "url": "https://www.producthunt.com/products/mailyte",
+      "tagline": "",
+      "pub_date": "2026-09-14T00:20:35-07:00"
+    },
+    {
+      "title": "DynamicLake 2.0",
+      "url": "https://www.producthunt.com/products/dynamiclake",
+      "tagline": "",
+      "pub_date": "2026-09-11T07:34:55-07:00"
+    },
+    {
+      "title": "Kilo Code for iOS and Android",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "tagline": "",
+      "pub_date": "2026-09-10T05:14:30-07:00"
+    },
+    {
+      "title": "Buddy AI Access (MCP)",
+      "url": "https://www.producthunt.com/products/buddy",
+      "tagline": "",
+      "pub_date": "2026-09-14T03:48:06-07:00"
+    },
+    {
+      "title": "The Minimalist Entrepreneur Skills",
+      "url": "https://www.producthunt.com/products/the-minimalist-entrepreneur-skills",
+      "tagline": "",
+      "pub_date": "2026-09-13T18:20:09-07:00"
+    },
+    {
+      "title": "Mac Duo",
+      "url": "https://www.producthunt.com/products/mac-duo",
+      "tagline": "",
+      "pub_date": "2026-09-14T17:02:32-07:00"
+    },
+    {
+      "title": "PortAura",
+      "url": "https://www.producthunt.com/products/portaura",
+      "tagline": "",
+      "pub_date": "2026-09-12T09:13:43-07:00"
+    },
+    {
+      "title": "Payflip",
+      "url": "https://www.producthunt.com/products/payflip",
+      "tagline": "",
+      "pub_date": "2026-09-14T06:25:02-07:00"
     },
     {
       "title": "Deplo",

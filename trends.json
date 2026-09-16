@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:52:40.471Z",
+  "generated_at": "2026-09-16T20:43:45.844Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,150 +7,207 @@
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "url": "https://stale.jock.pl/",
       "hn_url": "https://news.ycombinator.com/item?id=49726343",
-      "points": 23,
-      "comments": 17,
+      "points": 62,
+      "comments": 42,
       "created_ts": 1789563712,
       "author": "joozio"
+    },
+    {
+      "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=49727511",
+      "points": 24,
+      "comments": 9,
+      "created_ts": 1789568645,
+      "author": "kisjovan"
     },
     {
       "title": "Show HN: Give your AI agents access to WhatsApp",
       "url": "https://news.ycombinator.com/item?id=49728159",
       "hn_url": "https://news.ycombinator.com/item?id=49728159",
       "points": 14,
-      "comments": 17,
+      "comments": 31,
       "created_ts": 1789571048,
       "author": "fabian_shipamax"
-    },
-    {
-      "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-      "hn_url": "https://news.ycombinator.com/item?id=49727511",
-      "points": 11,
-      "comments": 5,
-      "created_ts": 1789568645,
-      "author": "kisjovan"
-    },
-    {
-      "title": "Show HN: SCIP MIP solver bindings for Go, ported from russcip",
-      "url": "https://github.com/egoisutolabs/scipgo",
-      "hn_url": "https://news.ycombinator.com/item?id=49714495",
-      "points": 11,
-      "comments": 0,
-      "created_ts": 1789487774,
-      "author": "generalist_dev"
     }
   ],
   "hn_front": [
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "hn_url": "https://news.ycombinator.com/item?id=49717558",
-      "points": 1654,
-      "comments": 456,
-      "created_ts": 1789500303,
-      "author": "albelfio"
-    },
-    {
-      "title": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "hn_url": "https://news.ycombinator.com/item?id=49716176",
-      "points": 630,
-      "comments": 339,
-      "created_ts": 1789494738,
-      "author": "ChrisArchitect"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "hn_url": "https://news.ycombinator.com/item?id=49715947",
-      "points": 464,
-      "comments": 310,
-      "created_ts": 1789493898,
-      "author": "leumon"
-    },
-    {
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "hn_url": "https://news.ycombinator.com/item?id=49721322",
-      "points": 397,
-      "comments": 256,
-      "created_ts": 1789524451,
-      "author": "imwally"
-    },
-    {
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49715927",
-      "points": 356,
-      "comments": 449,
-      "created_ts": 1789493832,
-      "author": "jaykru"
-    },
-    {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "hn_url": "https://news.ycombinator.com/item?id=49723408",
-      "points": 313,
-      "comments": 102,
+      "points": 482,
+      "comments": 169,
       "created_ts": 1789546137,
       "author": "vertigoruntime"
     },
     {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49718928",
-      "points": 260,
-      "comments": 97,
-      "created_ts": 1789506467,
-      "author": "summarity"
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "hn_url": "https://news.ycombinator.com/item?id=49726586",
+      "points": 385,
+      "comments": 187,
+      "created_ts": 1789564727,
+      "author": "driverdan"
     },
     {
       "title": "The Google Play app review process now regularly takes longer than a week",
       "url": "https://gultsch.social/@daniel/117280438824908947",
       "hn_url": "https://news.ycombinator.com/item?id=49724927",
-      "points": 238,
-      "comments": 205,
+      "points": 320,
+      "comments": 305,
       "created_ts": 1789557551,
       "author": "inputmice"
     },
     {
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-      "hn_url": "https://news.ycombinator.com/item?id=49727627",
-      "points": 206,
-      "comments": 118,
-      "created_ts": 1789569036,
-      "author": "alexjplant"
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "hn_url": "https://news.ycombinator.com/item?id=49729000",
+      "points": 257,
+      "comments": 144,
+      "created_ts": 1789574207,
+      "author": "signa11"
     },
     {
       "title": "Salesforce Global Outage",
       "url": "https://status.salesforce.com/products/all",
       "hn_url": "https://news.ycombinator.com/item?id=49724488",
-      "points": 195,
-      "comments": 110,
+      "points": 252,
+      "comments": 156,
       "created_ts": 1789555028,
       "author": "mabil"
     },
     {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "hn_url": "https://news.ycombinator.com/item?id=49726586",
-      "points": 187,
-      "comments": 80,
-      "created_ts": 1789564727,
-      "author": "driverdan"
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=49723873",
+      "points": 213,
+      "comments": 166,
+      "created_ts": 1789549954,
+      "author": "moneroloop2018"
     },
     {
-      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "hn_url": "https://news.ycombinator.com/item?id=49725356",
-      "points": 144,
-      "comments": 37,
-      "created_ts": 1789559380,
-      "author": "rbanffy"
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49729412",
+      "points": 166,
+      "comments": 179,
+      "created_ts": 1789575985,
+      "author": "vertigoruntime"
+    },
+    {
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "hn_url": "https://news.ycombinator.com/item?id=49726955",
+      "points": 157,
+      "comments": 47,
+      "created_ts": 1789566280,
+      "author": "bananaflag"
+    },
+    {
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49731054",
+      "points": 145,
+      "comments": 21,
+      "created_ts": 1789583495,
+      "author": "mococa"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "hn_url": "https://news.ycombinator.com/item?id=49731285",
+      "points": 138,
+      "comments": 17,
+      "created_ts": 1789584600,
+      "author": "polyphilz"
+    },
+    {
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+      "hn_url": "https://news.ycombinator.com/item?id=49730239",
+      "points": 127,
+      "comments": 107,
+      "created_ts": 1789579657,
+      "author": "geox"
+    },
+    {
+      "title": "Can we stop with the uptime percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "hn_url": "https://news.ycombinator.com/item?id=49728733",
+      "points": 112,
+      "comments": 93,
+      "created_ts": 1789573204,
+      "author": "surprisetalk"
     }
   ],
   "ph_today": [
+    {
+      "title": "PeakHour 6",
+      "url": "https://www.producthunt.com/products/peak-hour",
+      "tagline": "",
+      "pub_date": "2026-09-13T19:26:27-07:00"
+    },
+    {
+      "title": "PhraseVault 3.0",
+      "url": "https://www.producthunt.com/products/phrasevault",
+      "tagline": "",
+      "pub_date": "2026-09-15T06:45:29-07:00"
+    },
+    {
+      "title": "ZeroClick",
+      "url": "https://www.producthunt.com/products/zeroclick",
+      "tagline": "",
+      "pub_date": "2026-09-15T17:01:56-07:00"
+    },
+    {
+      "title": "Jottoo",
+      "url": "https://www.producthunt.com/products/jottoo",
+      "tagline": "",
+      "pub_date": "2026-09-14T01:39:28-07:00"
+    },
+    {
+      "title": "Fide Island",
+      "url": "https://www.producthunt.com/products/fide-island",
+      "tagline": "",
+      "pub_date": "2026-09-15T13:13:51-07:00"
+    },
+    {
+      "title": "flat.social",
+      "url": "https://www.producthunt.com/products/flat-social",
+      "tagline": "",
+      "pub_date": "2026-09-15T13:36:34-07:00"
+    },
+    {
+      "title": "Gemini 3.8 &amp; 3.8 Live Extended Thinking",
+      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
+      "tagline": "",
+      "pub_date": "2026-09-15T11:28:06-07:00"
+    },
+    {
+      "title": "Twigg",
+      "url": "https://www.producthunt.com/products/twigg",
+      "tagline": "",
+      "pub_date": "2026-09-14T09:29:15-07:00"
+    },
+    {
+      "title": "Thread",
+      "url": "https://www.producthunt.com/products/thread-ai-journal-memory",
+      "tagline": "",
+      "pub_date": "2026-09-15T03:27:07-07:00"
+    },
+    {
+      "title": "CreatorHat",
+      "url": "https://www.producthunt.com/products/creatorhat",
+      "tagline": "",
+      "pub_date": "2026-09-07T18:25:08-07:00"
+    },
+    {
+      "title": "Convo",
+      "url": "https://www.producthunt.com/products/convo-7",
+      "tagline": "",
+      "pub_date": "2026-09-14T16:29:05-07:00"
+    },
     {
       "title": "Project Feed",
       "url": "https://www.producthunt.com/products/project-feed",
@@ -162,48 +219,6 @@
       "url": "https://www.producthunt.com/products/expand-board-for-macos",
       "tagline": "",
       "pub_date": "2026-09-15T09:28:05-07:00"
-    },
-    {
-      "title": "Twigg",
-      "url": "https://www.producthunt.com/products/twigg",
-      "tagline": "",
-      "pub_date": "2026-09-14T09:29:15-07:00"
-    },
-    {
-      "title": "Fide Island",
-      "url": "https://www.producthunt.com/products/fide-island",
-      "tagline": "",
-      "pub_date": "2026-09-15T13:13:51-07:00"
-    },
-    {
-      "title": "Convo",
-      "url": "https://www.producthunt.com/products/convo-7",
-      "tagline": "",
-      "pub_date": "2026-09-14T16:29:05-07:00"
-    },
-    {
-      "title": "Jottoo",
-      "url": "https://www.producthunt.com/products/jottoo",
-      "tagline": "",
-      "pub_date": "2026-09-14T01:39:28-07:00"
-    },
-    {
-      "title": "flat.social",
-      "url": "https://www.producthunt.com/products/flat-social",
-      "tagline": "",
-      "pub_date": "2026-09-15T13:36:34-07:00"
-    },
-    {
-      "title": "PhraseVault 3.0",
-      "url": "https://www.producthunt.com/products/phrasevault",
-      "tagline": "",
-      "pub_date": "2026-09-15T06:45:29-07:00"
-    },
-    {
-      "title": "PeakHour 6",
-      "url": "https://www.producthunt.com/products/peak-hour",
-      "tagline": "",
-      "pub_date": "2026-09-13T19:26:27-07:00"
     },
     {
       "title": "Weave Router 2.0",
@@ -218,10 +233,10 @@
       "pub_date": "2026-09-14T14:28:07-07:00"
     },
     {
-      "title": "Thread",
-      "url": "https://www.producthunt.com/products/thread-ai-journal-memory",
+      "title": "Toki Coordination",
+      "url": "https://www.producthunt.com/products/toki-ai",
       "tagline": "",
-      "pub_date": "2026-09-15T03:27:07-07:00"
+      "pub_date": "2026-09-07T20:14:51-07:00"
     },
     {
       "title": "Appwrite 2.0",
@@ -230,64 +245,10 @@
       "pub_date": "2026-09-15T02:56:57-07:00"
     },
     {
-      "title": "CreatorHat",
-      "url": "https://www.producthunt.com/products/creatorhat",
-      "tagline": "",
-      "pub_date": "2026-09-07T18:25:08-07:00"
-    },
-    {
-      "title": "Gemini 3.8 &amp; 3.8 Live Extended Thinking",
-      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
-      "tagline": "",
-      "pub_date": "2026-09-15T11:28:06-07:00"
-    },
-    {
-      "title": "Toki Coordination",
-      "url": "https://www.producthunt.com/products/toki-ai",
-      "tagline": "",
-      "pub_date": "2026-09-07T20:14:51-07:00"
-    },
-    {
       "title": "DynamicLake 2.0",
       "url": "https://www.producthunt.com/products/dynamiclake",
       "tagline": "",
       "pub_date": "2026-09-11T07:34:55-07:00"
-    },
-    {
-      "title": "is.team",
-      "url": "https://www.producthunt.com/products/is-team",
-      "tagline": "",
-      "pub_date": "2026-04-03T15:07:18-07:00"
-    },
-    {
-      "title": "PortAura",
-      "url": "https://www.producthunt.com/products/portaura",
-      "tagline": "",
-      "pub_date": "2026-09-12T09:13:43-07:00"
-    },
-    {
-      "title": "Axari",
-      "url": "https://www.producthunt.com/products/axari",
-      "tagline": "",
-      "pub_date": "2026-09-12T16:58:20-07:00"
-    },
-    {
-      "title": "Voiskey",
-      "url": "https://www.producthunt.com/products/voiskey",
-      "tagline": "",
-      "pub_date": "2026-08-31T04:01:15-07:00"
-    },
-    {
-      "title": "Mailyte",
-      "url": "https://www.producthunt.com/products/mailyte",
-      "tagline": "",
-      "pub_date": "2026-09-14T00:20:35-07:00"
-    },
-    {
-      "title": "Payflip",
-      "url": "https://www.producthunt.com/products/payflip",
-      "tagline": "",
-      "pub_date": "2026-09-14T06:25:02-07:00"
     },
     {
       "title": "Kodro",
@@ -296,10 +257,34 @@
       "pub_date": "2026-09-14T11:14:09-07:00"
     },
     {
+      "title": "Payflip",
+      "url": "https://www.producthunt.com/products/payflip",
+      "tagline": "",
+      "pub_date": "2026-09-14T06:25:02-07:00"
+    },
+    {
+      "title": "tiun.",
+      "url": "https://www.producthunt.com/products/tiun-2",
+      "tagline": "",
+      "pub_date": "2026-07-17T07:00:17-07:00"
+    },
+    {
       "title": "jurniti",
       "url": "https://www.producthunt.com/products/jurniti",
       "tagline": "",
       "pub_date": "2026-09-14T02:21:05-07:00"
+    },
+    {
+      "title": "Kilo Code for iOS and Android",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "tagline": "",
+      "pub_date": "2026-09-10T05:14:30-07:00"
+    },
+    {
+      "title": "PortAura",
+      "url": "https://www.producthunt.com/products/portaura",
+      "tagline": "",
+      "pub_date": "2026-09-12T09:13:43-07:00"
     },
     {
       "title": "Portfolio Frame",
@@ -308,28 +293,34 @@
       "pub_date": "2026-09-14T23:13:16-07:00"
     },
     {
-      "title": "Fifi",
-      "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
-      "tagline": "",
-      "pub_date": "2026-09-08T06:45:54-07:00"
-    },
-    {
-      "title": "Idlen",
-      "url": "https://www.producthunt.com/products/idlen",
-      "tagline": "",
-      "pub_date": "2026-09-03T01:23:32-07:00"
-    },
-    {
       "title": "Workshopy.io",
       "url": "https://www.producthunt.com/products/workshopy-io",
       "tagline": "",
       "pub_date": "2026-07-12T13:16:24-07:00"
     },
     {
-      "title": "PeekPaste",
-      "url": "https://www.producthunt.com/products/lucidbit",
+      "title": "Tangerine",
+      "url": "https://www.producthunt.com/products/tangerine-zero-click-file-converter",
       "tagline": "",
-      "pub_date": "2026-09-14T17:44:31-07:00"
+      "pub_date": "2026-09-14T16:27:05-07:00"
+    },
+    {
+      "title": "Grimo AI",
+      "url": "https://www.producthunt.com/products/grimo-ai",
+      "tagline": "",
+      "pub_date": "2026-09-10T15:27:36-07:00"
+    },
+    {
+      "title": "Mac Duo",
+      "url": "https://www.producthunt.com/products/mac-duo",
+      "tagline": "",
+      "pub_date": "2026-09-14T17:02:32-07:00"
+    },
+    {
+      "title": "Fifi",
+      "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
+      "tagline": "",
+      "pub_date": "2026-09-08T06:45:54-07:00"
     }
   ]
 }

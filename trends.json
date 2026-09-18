@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:48:19.973Z",
+  "generated_at": "2026-09-18T02:32:46.211Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49740105",
-      "points": 140,
-      "comments": 75,
+      "points": 190,
+      "comments": 103,
       "created_ts": 1789650104,
       "author": "steveybrown"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
       "url": "https://flat.social",
       "hn_url": "https://news.ycombinator.com/item?id=49740047",
-      "points": 89,
+      "points": 94,
       "comments": 52,
       "created_ts": 1789649829,
       "author": "pawelwentpawel"
@@ -25,17 +25,26 @@
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
       "url": "https://www.aclif.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49743382",
-      "points": 25,
+      "points": 30,
       "comments": 16,
       "created_ts": 1789663697,
       "author": "chris_marino"
     },
     {
+      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "url": "https://snapdrop.me",
+      "hn_url": "https://news.ycombinator.com/item?id=49746346",
+      "points": 24,
+      "comments": 19,
+      "created_ts": 1789678084,
+      "author": "Capira"
+    },
+    {
       "title": "Show HN: Craigslist for agent skills, curated by a human",
       "url": "https://skillbay.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=49743459",
-      "points": 13,
-      "comments": 11,
+      "points": 21,
+      "comments": 16,
       "created_ts": 1789664031,
       "author": "skeptrune"
     },
@@ -43,7 +52,7 @@
       "title": "Show HN: AutoBot – live voice control for long-running AI work",
       "url": "https://github.com/demeyer1/Autobot",
       "hn_url": "https://news.ycombinator.com/item?id=49743478",
-      "points": 12,
+      "points": 17,
       "comments": 3,
       "created_ts": 1789664097,
       "author": "demeyer1"
@@ -53,36 +62,18 @@
       "url": "https://diewithme.co/join",
       "hn_url": "https://news.ycombinator.com/item?id=49743095",
       "points": 11,
-      "comments": 15,
+      "comments": 17,
       "created_ts": 1789662328,
       "author": "monijz"
     }
   ],
   "hn_front": [
     {
-      "title": "One year of sponsored Servo development",
-      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "hn_url": "https://news.ycombinator.com/item?id=49737849",
-      "points": 328,
-      "comments": 132,
-      "created_ts": 1789632834,
-      "author": "AshleysBrain"
-    },
-    {
-      "title": "How GLM built its own inference infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "hn_url": "https://news.ycombinator.com/item?id=49737922",
-      "points": 326,
-      "comments": 244,
-      "created_ts": 1789633629,
-      "author": "whiteros_e"
-    },
-    {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "url": "https://github.com/asciimoo/hister",
       "hn_url": "https://news.ycombinator.com/item?id=49743097",
-      "points": 302,
-      "comments": 99,
+      "points": 484,
+      "comments": 138,
       "created_ts": 1789662337,
       "author": "bookofjoe"
     },
@@ -90,35 +81,53 @@
       "title": "CCC invites all model citizens to 40C3",
       "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
       "hn_url": "https://news.ycombinator.com/item?id=49737787",
-      "points": 295,
-      "comments": 153,
+      "points": 340,
+      "comments": 182,
       "created_ts": 1789632234,
       "author": "antonly"
+    },
+    {
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "hn_url": "https://news.ycombinator.com/item?id=49745940",
+      "points": 339,
+      "comments": 366,
+      "created_ts": 1789676268,
+      "author": "vertigoruntime"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49746163",
+      "points": 306,
+      "comments": 158,
+      "created_ts": 1789677373,
+      "author": "nicolas-siplis"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=49746618",
+      "points": 252,
+      "comments": 80,
+      "created_ts": 1789679611,
+      "author": "JonSchneider"
     },
     {
       "title": "Why I didn’t sign the Fields medallists’ letter",
       "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
       "hn_url": "https://news.ycombinator.com/item?id=49738091",
-      "points": 165,
-      "comments": 211,
+      "points": 217,
+      "comments": 315,
       "created_ts": 1789635111,
       "author": "simianwords"
-    },
-    {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "hn_url": "https://news.ycombinator.com/item?id=49734929",
-      "points": 158,
-      "comments": 116,
-      "created_ts": 1789604913,
-      "author": "gumby"
     },
     {
       "title": "The American Religion of Self-Storage Facilities",
       "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
       "hn_url": "https://news.ycombinator.com/item?id=49740260",
-      "points": 140,
-      "comments": 231,
+      "points": 196,
+      "comments": 345,
       "created_ts": 1789650748,
       "author": "pseudolus"
     },
@@ -126,8 +135,8 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49740105",
-      "points": 140,
-      "comments": 75,
+      "points": 190,
+      "comments": 103,
       "created_ts": 1789650104,
       "author": "steveybrown"
     },
@@ -135,90 +144,57 @@
       "title": "Rate limits on GitLab.com are changing",
       "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
       "hn_url": "https://news.ycombinator.com/item?id=49742353",
-      "points": 118,
-      "comments": 95,
+      "points": 158,
+      "comments": 106,
       "created_ts": 1789659234,
       "author": "darkwater"
     },
     {
-      "title": "Whoisinspace.com/",
-      "url": "https://whoisinspace.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49742714",
-      "points": 114,
-      "comments": 67,
-      "created_ts": 1789660777,
-      "author": "Egg-Man"
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+      "hn_url": "https://news.ycombinator.com/item?id=49746117",
+      "points": 135,
+      "comments": 127,
+      "created_ts": 1789677180,
+      "author": "karakoram"
     },
     {
       "title": "CrowdSec Source Code Leak",
       "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
       "hn_url": "https://news.ycombinator.com/item?id=49742355",
-      "points": 101,
-      "comments": 30,
+      "points": 130,
+      "comments": 40,
       "created_ts": 1789659241,
       "author": "eccgecko"
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "hn_url": "https://news.ycombinator.com/item?id=49743483",
+      "points": 117,
+      "comments": 34,
+      "created_ts": 1789664114,
+      "author": "Betelbuddy"
     }
   ],
   "ph_today": [
     {
-      "title": "TinyKPI",
-      "url": "https://www.producthunt.com/products/tinykpi",
+      "title": "Blanc",
+      "url": "https://www.producthunt.com/products/blanc-3",
       "tagline": "",
-      "pub_date": "2026-09-16T17:35:37-07:00"
+      "pub_date": "2026-09-04T13:40:02-07:00"
     },
     {
-      "title": "CREEM 2.0",
-      "url": "https://www.producthunt.com/products/creem",
+      "title": "MCPJam",
+      "url": "https://www.producthunt.com/products/mcpjam-inspector",
       "tagline": "",
-      "pub_date": "2026-08-24T01:43:54-07:00"
+      "pub_date": "2026-09-16T23:17:38-07:00"
     },
     {
-      "title": "Amy by Jellyfish",
-      "url": "https://www.producthunt.com/products/amy-by-jellyfish",
+      "title": "NavKey",
+      "url": "https://www.producthunt.com/products/navkey",
       "tagline": "",
-      "pub_date": "2026-09-16T22:23:24-07:00"
-    },
-    {
-      "title": "Figo",
-      "url": "https://www.producthunt.com/products/figo-3",
-      "tagline": "",
-      "pub_date": "2026-09-16T13:22:18-07:00"
-    },
-    {
-      "title": "Opyt",
-      "url": "https://www.producthunt.com/products/opyt",
-      "tagline": "",
-      "pub_date": "2026-09-16T02:21:38-07:00"
-    },
-    {
-      "title": "AskDeck",
-      "url": "https://www.producthunt.com/products/askdeck",
-      "tagline": "",
-      "pub_date": "2026-06-15T09:26:22-07:00"
-    },
-    {
-      "title": "The Forge by Bob's Workshop",
-      "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
-      "tagline": "",
-      "pub_date": "2026-09-16T15:42:59-07:00"
-    },
-    {
-      "title": "Pitchfire for Startups",
-      "url": "https://www.producthunt.com/products/pitchfire-for-startups",
-      "tagline": "",
-      "pub_date": "2026-09-16T19:48:27-07:00"
-    },
-    {
-      "title": "MacSentinel",
-      "url": "https://www.producthunt.com/products/macsentinel",
-      "tagline": "",
-      "pub_date": "2026-09-15T00:28:50-07:00"
-    },
-    {
-      "title": "Zella",
-      "url": "https://www.producthunt.com/products/zella",
-      "tagline": "",
-      "pub_date": "2026-09-16T20:56:55-07:00"
+      "pub_date": "2026-09-16T20:15:12-07:00"
     },
     {
       "title": "Die With Me",
@@ -227,10 +203,58 @@
       "pub_date": "2026-09-15T20:20:34-07:00"
     },
     {
-      "title": "NovaSynth by Noveum",
-      "url": "https://www.producthunt.com/products/novasynth-by-noveum",
+      "title": "Analytiics",
+      "url": "https://www.producthunt.com/products/analytiics",
       "tagline": "",
-      "pub_date": "2026-08-31T04:43:29-07:00"
+      "pub_date": "2026-09-07T20:03:51-07:00"
+    },
+    {
+      "title": "Compute:Arena",
+      "url": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
+      "tagline": "",
+      "pub_date": "2026-09-16T22:42:27-07:00"
+    },
+    {
+      "title": "TinyKPI",
+      "url": "https://www.producthunt.com/products/tinykpi",
+      "tagline": "",
+      "pub_date": "2026-09-16T17:35:37-07:00"
+    },
+    {
+      "title": "worldsplat",
+      "url": "https://www.producthunt.com/products/worldsplat",
+      "tagline": "",
+      "pub_date": "2026-09-16T21:03:29-07:00"
+    },
+    {
+      "title": "Axiom",
+      "url": "https://www.producthunt.com/products/axiomhq",
+      "tagline": "",
+      "pub_date": "2026-08-24T15:09:23-07:00"
+    },
+    {
+      "title": "MacSentinel",
+      "url": "https://www.producthunt.com/products/macsentinel",
+      "tagline": "",
+      "pub_date": "2026-09-15T00:28:50-07:00"
+    },
+    {
+      "title": "Pitchfire for Startups",
+      "url": "https://www.producthunt.com/products/pitchfire-for-startups",
+      "tagline": "",
+      "pub_date": "2026-09-16T19:48:27-07:00"
+    },
+    {
+      "title": "Zella",
+      "url": "https://www.producthunt.com/products/zella",
+      "tagline": "",
+      "pub_date": "2026-09-16T20:56:55-07:00"
+    },
+    {
+      "title": "CREEM 2.0",
+      "url": "https://www.producthunt.com/products/creem",
+      "tagline": "",
+      "pub_date": "2026-08-24T01:43:54-07:00"
     },
     {
       "title": "Higgsfield API",
@@ -239,10 +263,10 @@
       "pub_date": "2026-09-16T16:58:11-07:00"
     },
     {
-      "title": "MCPJam",
-      "url": "https://www.producthunt.com/products/mcpjam-inspector",
+      "title": "Figo",
+      "url": "https://www.producthunt.com/products/figo-3",
       "tagline": "",
-      "pub_date": "2026-09-16T23:17:38-07:00"
+      "pub_date": "2026-09-16T13:22:18-07:00"
     },
     {
       "title": "Modaal for Android",
@@ -257,28 +281,10 @@
       "pub_date": "2026-09-15T16:31:08-07:00"
     },
     {
-      "title": "S-Roll",
-      "url": "https://www.producthunt.com/products/s-roll",
+      "title": "Bitrise Remote Dev Environments",
+      "url": "https://www.producthunt.com/products/bitrise",
       "tagline": "",
-      "pub_date": "2026-09-16T23:40:23-07:00"
-    },
-    {
-      "title": "Analytiics",
-      "url": "https://www.producthunt.com/products/analytiics",
-      "tagline": "",
-      "pub_date": "2026-09-07T20:03:51-07:00"
-    },
-    {
-      "title": "Portal",
-      "url": "https://www.producthunt.com/products/portal-14",
-      "tagline": "",
-      "pub_date": "2026-09-05T11:23:55-07:00"
-    },
-    {
-      "title": "worldsplat",
-      "url": "https://www.producthunt.com/products/worldsplat",
-      "tagline": "",
-      "pub_date": "2026-09-16T21:03:29-07:00"
+      "pub_date": "2026-09-16T09:33:13-07:00"
     },
     {
       "title": "QuietHint®",
@@ -287,28 +293,52 @@
       "pub_date": "2026-09-15T11:14:58-07:00"
     },
     {
+      "title": "Amy by Jellyfish",
+      "url": "https://www.producthunt.com/products/amy-by-jellyfish",
+      "tagline": "",
+      "pub_date": "2026-09-16T22:23:24-07:00"
+    },
+    {
+      "title": "AskDeck",
+      "url": "https://www.producthunt.com/products/askdeck",
+      "tagline": "",
+      "pub_date": "2026-06-15T09:26:22-07:00"
+    },
+    {
       "title": "Ever Beyond: Space Conquest",
       "url": "https://www.producthunt.com/products/ever-beyond-space-conquest",
       "tagline": "",
       "pub_date": "2026-09-16T00:09:19-07:00"
     },
     {
-      "title": "Bitrise Remote Dev Environments",
-      "url": "https://www.producthunt.com/products/bitrise",
+      "title": "Portal",
+      "url": "https://www.producthunt.com/products/portal-14",
       "tagline": "",
-      "pub_date": "2026-09-16T09:33:13-07:00"
+      "pub_date": "2026-09-05T11:23:55-07:00"
     },
     {
-      "title": "NavKey",
-      "url": "https://www.producthunt.com/products/navkey",
+      "title": "S-Roll",
+      "url": "https://www.producthunt.com/products/s-roll",
       "tagline": "",
-      "pub_date": "2026-09-16T20:15:12-07:00"
+      "pub_date": "2026-09-16T23:40:23-07:00"
     },
     {
-      "title": "Compute:Arena",
-      "url": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
+      "title": "Opyt",
+      "url": "https://www.producthunt.com/products/opyt",
       "tagline": "",
-      "pub_date": "2026-09-16T22:42:27-07:00"
+      "pub_date": "2026-09-16T02:21:38-07:00"
+    },
+    {
+      "title": "The Forge by Bob's Workshop",
+      "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
+      "tagline": "",
+      "pub_date": "2026-09-16T15:42:59-07:00"
+    },
+    {
+      "title": "NovaSynth by Noveum",
+      "url": "https://www.producthunt.com/products/novasynth-by-noveum",
+      "tagline": "",
+      "pub_date": "2026-08-31T04:43:29-07:00"
     },
     {
       "title": "QAgent",
@@ -317,28 +347,16 @@
       "pub_date": "2026-09-16T07:12:17-07:00"
     },
     {
-      "title": "Axiom",
-      "url": "https://www.producthunt.com/products/axiomhq",
-      "tagline": "",
-      "pub_date": "2026-08-24T15:09:23-07:00"
-    },
-    {
-      "title": "Blanc",
-      "url": "https://www.producthunt.com/products/blanc-3",
-      "tagline": "",
-      "pub_date": "2026-09-04T13:40:02-07:00"
-    },
-    {
       "title": "PeakHour 6",
       "url": "https://www.producthunt.com/products/peak-hour",
       "tagline": "",
       "pub_date": "2026-09-13T19:26:27-07:00"
     },
     {
-      "title": "Gemini 3.8 &amp; 3.8 Live Extended Thinking",
-      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
+      "title": "flat.social",
+      "url": "https://www.producthunt.com/products/flat-social",
       "tagline": "",
-      "pub_date": "2026-09-15T11:28:06-07:00"
+      "pub_date": "2026-09-15T13:36:34-07:00"
     }
   ]
 }

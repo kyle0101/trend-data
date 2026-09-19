@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-19T02:31:39.767Z",
+  "generated_at": "2026-09-19T10:03:24.423Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
+    {
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "url": "https://liveworld.info/",
+      "hn_url": "https://news.ycombinator.com/item?id=49762099",
+      "points": 33,
+      "comments": 30,
+      "created_ts": 1789777834,
+      "author": "harisingh1612"
+    },
     {
       "title": "Show HN: Rickub – The Smartest Git in the Universe",
       "url": "https://rickub.com/",
@@ -16,248 +25,182 @@
       "title": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
       "url": "https://github.com/Alurith/jeff",
       "hn_url": "https://news.ycombinator.com/item?id=49757757",
-      "points": 15,
-      "comments": 1,
+      "points": 23,
+      "comments": 3,
       "created_ts": 1789753581,
       "author": "imalessandro"
-    },
-    {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "url": "https://liveworld.info/",
-      "hn_url": "https://news.ycombinator.com/item?id=49762099",
-      "points": 13,
-      "comments": 10,
-      "created_ts": 1789777834,
-      "author": "harisingh1612"
     }
   ],
   "hn_front": [
     {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49754785",
-      "points": 594,
-      "comments": 253,
-      "created_ts": 1789741121,
-      "author": "jcbhmr"
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "hn_url": "https://news.ycombinator.com/item?id=49758736",
-      "points": 568,
-      "comments": 270,
+      "points": 841,
+      "comments": 412,
       "created_ts": 1789758189,
       "author": "theanonymousone"
     },
     {
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49752041",
-      "points": 562,
-      "comments": 247,
-      "created_ts": 1789724542,
-      "author": "ilreb"
-    },
-    {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "hn_url": "https://news.ycombinator.com/item?id=49760187",
-      "points": 530,
-      "comments": 188,
-      "created_ts": 1789765232,
-      "author": "datadrivenangel"
-    },
-    {
-      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "hn_url": "https://news.ycombinator.com/item?id=49750694",
-      "points": 259,
-      "comments": 93,
-      "created_ts": 1789711877,
-      "author": "csmantle"
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49754785",
+      "points": 706,
+      "comments": 282,
+      "created_ts": 1789741121,
+      "author": "jcbhmr"
     },
     {
       "title": "Saving another 100TB of RAM",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "hn_url": "https://news.ycombinator.com/item?id=49758580",
-      "points": 241,
-      "comments": 46,
+      "points": 360,
+      "comments": 78,
       "created_ts": 1789757506,
       "author": "f311a"
     },
     {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "hn_url": "https://news.ycombinator.com/item?id=49755160",
-      "points": 184,
-      "comments": 152,
-      "created_ts": 1789742732,
-      "author": "rbanffy"
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49763697",
+      "points": 221,
+      "comments": 94,
+      "created_ts": 1789796930,
+      "author": "emigre"
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
       "hn_url": "https://news.ycombinator.com/item?id=49757050",
-      "points": 160,
-      "comments": 54,
+      "points": 193,
+      "comments": 70,
       "created_ts": 1789750458,
       "author": "synack"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "hn_url": "https://news.ycombinator.com/item?id=49758419",
-      "points": 117,
-      "comments": 68,
-      "created_ts": 1789756771,
-      "author": "CameronBanga"
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49763296",
+      "points": 193,
+      "comments": 66,
+      "created_ts": 1789791810,
+      "author": "z-mach9"
     },
     {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "hn_url": "https://news.ycombinator.com/item?id=49749724",
-      "points": 113,
-      "comments": 30,
-      "created_ts": 1789700208,
-      "author": "succinct_ideas"
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "hn_url": "https://news.ycombinator.com/item?id=49761432",
+      "points": 123,
+      "comments": 87,
+      "created_ts": 1789772657,
+      "author": "maxall4"
     },
     {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "hn_url": "https://news.ycombinator.com/item?id=49755533",
-      "points": 105,
-      "comments": 56,
-      "created_ts": 1789744327,
-      "author": "Jimmc414"
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "hn_url": "https://news.ycombinator.com/item?id=49763987",
+      "points": 109,
+      "comments": 48,
+      "created_ts": 1789800104,
+      "author": "nsoonhui"
     }
   ],
   "ph_today": [
     {
-      "title": "M9R",
-      "url": "https://www.producthunt.com/products/m9r",
+      "title": "Steam Frame",
+      "url": "https://www.producthunt.com/products/steam-machine",
       "tagline": "",
-      "pub_date": "2026-09-17T17:39:11-07:00"
+      "pub_date": "2026-09-18T06:28:57-07:00"
     },
     {
-      "title": "Ringo",
-      "url": "https://www.producthunt.com/products/ringo-5",
+      "title": "Mantra Timer",
+      "url": "https://www.producthunt.com/products/transcendence",
       "tagline": "",
-      "pub_date": "2026-09-17T02:29:35-07:00"
+      "pub_date": "2026-06-03T12:42:53-07:00"
     },
     {
-      "title": "Unvendor",
-      "url": "https://www.producthunt.com/products/unvendor",
+      "title": "VoiceCap",
+      "url": "https://www.producthunt.com/products/voicecap",
       "tagline": "",
-      "pub_date": "2026-09-17T16:34:12-07:00"
+      "pub_date": "2026-09-16T22:56:36-07:00"
     },
     {
-      "title": "illusions",
-      "url": "https://www.producthunt.com/products/illusions-2",
+      "title": "BiBimba",
+      "url": "https://www.producthunt.com/products/bibimba",
       "tagline": "",
-      "pub_date": "2026-09-14T21:12:10-07:00"
+      "pub_date": "2026-09-11T19:47:52-07:00"
     },
     {
-      "title": "Tab Doctor",
-      "url": "https://www.producthunt.com/products/tab-doctor",
+      "title": "Ruby UTCP",
+      "url": "https://www.producthunt.com/products/utcp",
       "tagline": "",
-      "pub_date": "2026-09-16T02:17:28-07:00"
+      "pub_date": "2026-09-16T07:18:43-07:00"
     },
     {
-      "title": "Snooze Files",
-      "url": "https://www.producthunt.com/products/snooze-files",
+      "title": "Doneit 3.2",
+      "url": "https://www.producthunt.com/products/doneit",
       "tagline": "",
-      "pub_date": "2026-09-13T13:18:35-07:00"
+      "pub_date": "2026-09-13T22:59:28-07:00"
     },
     {
-      "title": "MiRemoteBridge",
-      "url": "https://www.producthunt.com/products/miremotebridge",
+      "title": "Bolt Forge",
+      "url": "https://www.producthunt.com/products/bolt-new",
       "tagline": "",
-      "pub_date": "2026-09-17T22:56:45-07:00"
+      "pub_date": "2026-09-16T16:59:56-07:00"
     },
     {
-      "title": "RepoRoad",
-      "url": "https://www.producthunt.com/products/reporoad",
+      "title": "Squirrel",
+      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
       "tagline": "",
-      "pub_date": "2026-09-15T20:46:44-07:00"
+      "pub_date": "2026-09-15T19:59:25-07:00"
     },
     {
-      "title": "Kanverse GPU Borrow",
-      "url": "https://www.producthunt.com/products/kanverse-gpu-borrow",
+      "title": "Basedash Models",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-09-13T12:29:49-07:00"
+      "pub_date": "2026-09-18T09:18:15-07:00"
     },
     {
-      "title": "SmartCheck",
-      "url": "https://www.producthunt.com/products/smartcheck",
+      "title": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
       "tagline": "",
-      "pub_date": "2026-09-17T16:57:40-07:00"
+      "pub_date": "2026-09-14T00:08:16-07:00"
     },
     {
-      "title": "ZeroSphere",
-      "url": "https://www.producthunt.com/products/zerosphere",
+      "title": "Lull",
+      "url": "https://www.producthunt.com/products/lull-3",
       "tagline": "",
-      "pub_date": "2026-09-16T09:55:37-07:00"
+      "pub_date": "2026-09-14T22:14:46-07:00"
     },
     {
-      "title": "Mantle",
-      "url": "https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3",
+      "title": "Punch",
+      "url": "https://www.producthunt.com/products/punch-4",
       "tagline": "",
-      "pub_date": "2026-09-17T20:44:43-07:00"
+      "pub_date": "2026-09-18T06:56:07-07:00"
     },
     {
-      "title": "Verity Score",
-      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "title": "Mise",
+      "url": "https://www.producthunt.com/products/robot-recipes",
       "tagline": "",
-      "pub_date": "2026-09-17T18:28:31-07:00"
+      "pub_date": "2026-09-18T23:44:50-07:00"
     },
     {
-      "title": "ChinaMarketing.AI GEO Workspace",
-      "url": "https://www.producthunt.com/products/chinamarketing-ai-geo-workspace",
+      "title": "Maaa",
+      "url": "https://www.producthunt.com/products/maaa",
       "tagline": "",
-      "pub_date": "2026-09-14T06:52:06-07:00"
+      "pub_date": "2026-09-16T05:46:13-07:00"
     },
     {
-      "title": "Mela",
-      "url": "https://www.producthunt.com/products/mela-3",
+      "title": "cubicles.lol",
+      "url": "https://www.producthunt.com/products/cubicles-lol",
       "tagline": "",
-      "pub_date": "2026-09-16T11:58:57-07:00"
+      "pub_date": "2026-09-16T21:26:44-07:00"
     },
     {
-      "title": "Stile.iD",
-      "url": "https://www.producthunt.com/products/stile-id",
+      "title": "ReviewMix",
+      "url": "https://www.producthunt.com/products/reviewmix",
       "tagline": "",
-      "pub_date": "2026-09-17T20:10:28-07:00"
-    },
-    {
-      "title": "GameReverie",
-      "url": "https://www.producthunt.com/products/gamereverie",
-      "tagline": "",
-      "pub_date": "2026-09-15T22:54:03-07:00"
-    },
-    {
-      "title": "Infinomni",
-      "url": "https://www.producthunt.com/products/infinomni",
-      "tagline": "",
-      "pub_date": "2026-09-15T23:58:49-07:00"
-    },
-    {
-      "title": "TypeDash",
-      "url": "https://www.producthunt.com/products/typedash-2",
-      "tagline": "",
-      "pub_date": "2026-09-17T15:47:36-07:00"
-    },
-    {
-      "title": "CodaBridge",
-      "url": "https://www.producthunt.com/products/codabridge",
-      "tagline": "",
-      "pub_date": "2026-09-16T12:27:02-07:00"
-    },
-    {
-      "title": "omadesign",
-      "url": "https://www.producthunt.com/products/omadesign",
-      "tagline": "",
-      "pub_date": "2026-09-15T16:26:52-07:00"
+      "pub_date": "2026-09-16T04:37:39-07:00"
     },
     {
       "title": "Proto-Mind",
@@ -266,52 +209,82 @@
       "pub_date": "2026-09-17T09:57:25-07:00"
     },
     {
-      "title": "Banana Keyboard",
-      "url": "https://www.producthunt.com/products/banana-keyboard",
-      "tagline": "",
-      "pub_date": "2026-09-11T10:22:34-07:00"
-    },
-    {
-      "title": "Loci",
-      "url": "https://www.producthunt.com/products/loci-4",
-      "tagline": "",
-      "pub_date": "2026-09-16T00:26:14-07:00"
-    },
-    {
-      "title": "Foleyfy",
-      "url": "https://www.producthunt.com/products/foleyfy",
-      "tagline": "",
-      "pub_date": "2026-09-17T16:12:27-07:00"
-    },
-    {
-      "title": "MeshEdit",
-      "url": "https://www.producthunt.com/products/meshedit",
-      "tagline": "",
-      "pub_date": "2026-09-17T13:49:03-07:00"
-    },
-    {
       "title": "Galactic Receipt Scanner",
       "url": "https://www.producthunt.com/products/galactic-receipt-scanner",
       "tagline": "",
       "pub_date": "2026-09-17T12:10:52-07:00"
     },
     {
-      "title": "Sutura",
-      "url": "https://www.producthunt.com/products/sutura",
+      "title": "Eggshell",
+      "url": "https://www.producthunt.com/products/eggshell-2",
       "tagline": "",
-      "pub_date": "2026-09-17T08:37:13-07:00"
+      "pub_date": "2026-09-12T04:59:22-07:00"
     },
     {
-      "title": "Unfetch.com",
-      "url": "https://www.producthunt.com/products/unfetch-com",
+      "title": "Keysake",
+      "url": "https://www.producthunt.com/products/keysake-ai",
       "tagline": "",
-      "pub_date": "2026-09-14T02:16:41-07:00"
+      "pub_date": "2026-09-17T03:11:50-07:00"
     },
     {
-      "title": "OpenAlgo Charts",
-      "url": "https://www.producthunt.com/products/openalgo-charts",
+      "title": "Simple Commenter AI",
+      "url": "https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs",
       "tagline": "",
-      "pub_date": "2026-09-15T15:57:35-07:00"
+      "pub_date": "2026-09-14T11:46:32-07:00"
+    },
+    {
+      "title": "NM Signals",
+      "url": "https://www.producthunt.com/products/nyman-media-signals",
+      "tagline": "",
+      "pub_date": "2026-06-17T21:36:17-07:00"
+    },
+    {
+      "title": "AEXGrid",
+      "url": "https://www.producthunt.com/products/aexgrid",
+      "tagline": "",
+      "pub_date": "2026-09-17T22:42:36-07:00"
+    },
+    {
+      "title": "StillTalk",
+      "url": "https://www.producthunt.com/products/stilltalk",
+      "tagline": "",
+      "pub_date": "2026-09-17T09:47:51-07:00"
+    },
+    {
+      "title": "Infinomni",
+      "url": "https://www.producthunt.com/products/infinomni",
+      "tagline": "",
+      "pub_date": "2026-09-15T23:58:49-07:00"
+    },
+    {
+      "title": "Edgee Codex Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
+      "tagline": "",
+      "pub_date": "2026-09-17T03:24:36-07:00"
+    },
+    {
+      "title": "GameReverie",
+      "url": "https://www.producthunt.com/products/gamereverie",
+      "tagline": "",
+      "pub_date": "2026-09-15T22:54:03-07:00"
+    },
+    {
+      "title": "Lastbox",
+      "url": "https://www.producthunt.com/products/lastbox",
+      "tagline": "",
+      "pub_date": "2026-09-17T11:31:54-07:00"
+    },
+    {
+      "title": "WhaleRead",
+      "url": "https://www.producthunt.com/products/whaleread",
+      "tagline": "",
+      "pub_date": "2026-09-17T20:40:20-07:00"
+    },
+    {
+      "title": "Notch Design",
+      "url": "https://www.producthunt.com/products/notch-design-2",
+      "tagline": "",
+      "pub_date": "2026-09-17T23:11:48-07:00"
     }
   ]
 }

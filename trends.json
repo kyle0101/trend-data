@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-22T10:42:04.874Z",
+  "generated_at": "2026-09-22T16:01:56.128Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=49786419",
-      "points": 62,
-      "comments": 26,
-      "created_ts": 1789993697,
-      "author": "aru-labs"
+      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49801329",
+      "points": 72,
+      "comments": 17,
+      "created_ts": 1790085167,
+      "author": "mixedbit"
     },
     {
       "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
       "url": "https://github.com/naw103/foremerge",
       "hn_url": "https://news.ycombinator.com/item?id=49789356",
-      "points": 42,
-      "comments": 13,
+      "points": 44,
+      "comments": 15,
       "created_ts": 1790007726,
       "author": "naw103"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: A website that tracks US food prices every day",
       "url": "https://www.kadoa.com/food-prices",
       "hn_url": "https://news.ycombinator.com/item?id=49792076",
-      "points": 28,
-      "comments": 9,
+      "points": 29,
+      "comments": 10,
       "created_ts": 1790018650,
       "author": "hubraumhugo"
     },
@@ -34,8 +34,8 @@
       "title": "Show HN: Vellum, the best diagram editor you'll ever use",
       "url": "https://vellum.blueprintr.io",
       "hn_url": "https://news.ycombinator.com/item?id=49789066",
-      "points": 16,
-      "comments": 9,
+      "points": 18,
+      "comments": 14,
       "created_ts": 1790006742,
       "author": "JoshJamesAnthon"
     }
@@ -45,234 +45,126 @@
       "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "hn_url": "https://news.ycombinator.com/item?id=49792730",
-      "points": 916,
-      "comments": 411,
+      "points": 1022,
+      "comments": 455,
       "created_ts": 1790021532,
       "author": "volf_"
-    },
-    {
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "hn_url": "https://news.ycombinator.com/item?id=49787726",
-      "points": 826,
-      "comments": 245,
-      "created_ts": 1790000816,
-      "author": "zer0tonin"
     },
     {
       "title": "I don't want to read what you didn't write",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
       "hn_url": "https://news.ycombinator.com/item?id=49794330",
-      "points": 706,
-      "comments": 287,
+      "points": 906,
+      "comments": 382,
       "created_ts": 1790029841,
       "author": "mooreds"
-    },
-    {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "hn_url": "https://news.ycombinator.com/item?id=49787436",
-      "points": 596,
-      "comments": 345,
-      "created_ts": 1789999398,
-      "author": "chmaynard"
-    },
-    {
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "hn_url": "https://news.ycombinator.com/item?id=49788838",
-      "points": 579,
-      "comments": 489,
-      "created_ts": 1790005815,
-      "author": "meetpateltech"
     },
     {
       "title": "Spymarks, Not Watermarks",
       "url": "https://brand.io/article/spymarks/",
       "hn_url": "https://news.ycombinator.com/item?id=49794615",
-      "points": 457,
-      "comments": 117,
+      "points": 601,
+      "comments": 145,
       "created_ts": 1790031829,
       "author": "possibilistic"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "hn_url": "https://news.ycombinator.com/item?id=49792342",
-      "points": 426,
-      "comments": 66,
-      "created_ts": 1790019829,
-      "author": "aray07"
-    },
-    {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "hn_url": "https://news.ycombinator.com/item?id=49791939",
-      "points": 391,
-      "comments": 331,
-      "created_ts": 1790018052,
-      "author": "Muhammad523"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "hn_url": "https://news.ycombinator.com/item?id=49792067",
-      "points": 247,
-      "comments": 276,
-      "created_ts": 1790018613,
-      "author": "julian_digital"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "hn_url": "https://news.ycombinator.com/item?id=49787142",
-      "points": 232,
-      "comments": 38,
-      "created_ts": 1789997899,
-      "author": "torutofu"
     },
     {
       "title": "I said no and Apple said yes",
       "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
       "hn_url": "https://news.ycombinator.com/item?id=49797982",
-      "points": 187,
-      "comments": 113,
+      "points": 594,
+      "comments": 476,
       "created_ts": 1790064295,
       "author": "thatslast"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "hn_url": "https://news.ycombinator.com/item?id=49792342",
+      "points": 551,
+      "comments": 81,
+      "created_ts": 1790019829,
+      "author": "aray07"
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "hn_url": "https://news.ycombinator.com/item?id=49799965",
+      "points": 308,
+      "comments": 433,
+      "created_ts": 1790079069,
+      "author": "dimonomid"
     },
     {
       "title": "Can gzip be a language model?",
       "url": "https://nathan.rs/posts/gzip-lm/",
       "hn_url": "https://news.ycombinator.com/item?id=49797323",
-      "points": 159,
-      "comments": 66,
+      "points": 307,
+      "comments": 119,
       "created_ts": 1790057319,
       "author": "networked"
     },
     {
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "hn_url": "https://news.ycombinator.com/item?id=49789228",
-      "points": 143,
-      "comments": 61,
-      "created_ts": 1790007256,
-      "author": "SamuraiLion"
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "hn_url": "https://news.ycombinator.com/item?id=49792067",
+      "points": 293,
+      "comments": 357,
+      "created_ts": 1790018613,
+      "author": "julian_digital"
     },
     {
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "url": "https://www.pagetable.com/300",
-      "hn_url": "https://news.ycombinator.com/item?id=49791125",
-      "points": 143,
-      "comments": 41,
-      "created_ts": 1790014532,
-      "author": "luu"
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49801324",
+      "points": 219,
+      "comments": 221,
+      "created_ts": 1790085135,
+      "author": "sohkamyung"
     },
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=49791997",
-      "points": 141,
-      "comments": 67,
-      "created_ts": 1790018262,
-      "author": "digital55"
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "hn_url": "https://news.ycombinator.com/item?id=49801939",
+      "points": 212,
+      "comments": 129,
+      "created_ts": 1790087412,
+      "author": "MC995"
     },
     {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "hn_url": "https://news.ycombinator.com/item?id=49794736",
-      "points": 134,
-      "comments": 62,
-      "created_ts": 1790032611,
-      "author": "chmaynard"
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "hn_url": "https://news.ycombinator.com/item?id=49798204",
+      "points": 181,
+      "comments": 141,
+      "created_ts": 1790066383,
+      "author": "BruceEel"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "hn_url": "https://news.ycombinator.com/item?id=49795579",
-      "points": 117,
-      "comments": 85,
-      "created_ts": 1790039119,
-      "author": "corvad"
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49799083",
+      "points": 148,
+      "comments": 194,
+      "created_ts": 1790073404,
+      "author": "KellyCriterion"
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=49796660",
+      "points": 130,
+      "comments": 51,
+      "created_ts": 1790049729,
+      "author": "theanonymousone"
     }
   ],
   "ph_today": [
     {
-      "title": "Xem",
-      "url": "https://www.producthunt.com/products/xem",
+      "title": "Fulvid",
+      "url": "https://www.producthunt.com/products/fulvid",
       "tagline": "",
-      "pub_date": "2026-09-21T20:41:09-07:00"
-    },
-    {
-      "title": "Googlebook",
-      "url": "https://www.producthunt.com/products/googlebook-4",
-      "tagline": "",
-      "pub_date": "2026-09-21T09:42:06-07:00"
-    },
-    {
-      "title": "Keet",
-      "url": "https://www.producthunt.com/products/keet-2",
-      "tagline": "",
-      "pub_date": "2026-09-19T06:57:21-07:00"
-    },
-    {
-      "title": "Shootsolo 2.0",
-      "url": "https://www.producthunt.com/products/shootsolo",
-      "tagline": "",
-      "pub_date": "2026-09-21T17:59:17-07:00"
-    },
-    {
-      "title": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
-      "tagline": "",
-      "pub_date": "2026-08-10T08:05:56-07:00"
-    },
-    {
-      "title": "Jev Wrapped",
-      "url": "https://www.producthunt.com/products/jev-wrapped",
-      "tagline": "",
-      "pub_date": "2026-09-20T23:46:10-07:00"
-    },
-    {
-      "title": "2BA.AI",
-      "url": "https://www.producthunt.com/products/2ba-ai",
-      "tagline": "",
-      "pub_date": "2026-09-16T06:13:32-07:00"
-    },
-    {
-      "title": "OneStream Live 2.0",
-      "url": "https://www.producthunt.com/products/onestream",
-      "tagline": "",
-      "pub_date": "2026-09-01T02:31:35-07:00"
-    },
-    {
-      "title": "Pulsetic RUM",
-      "url": "https://www.producthunt.com/products/pulsetic",
-      "tagline": "",
-      "pub_date": "2026-09-14T05:52:58-07:00"
-    },
-    {
-      "title": "FeedsBar",
-      "url": "https://www.producthunt.com/products/feedsbar",
-      "tagline": "",
-      "pub_date": "2026-08-30T04:29:45-07:00"
-    },
-    {
-      "title": "Anomalo",
-      "url": "https://www.producthunt.com/products/anomalo",
-      "tagline": "",
-      "pub_date": "2026-09-09T15:10:12-07:00"
-    },
-    {
-      "title": "SereneDB",
-      "url": "https://www.producthunt.com/products/serenedb-krummelanke",
-      "tagline": "",
-      "pub_date": "2026-09-14T20:26:57-07:00"
-    },
-    {
-      "title": "Clueso MCP",
-      "url": "https://www.producthunt.com/products/clueso",
-      "tagline": "",
-      "pub_date": "2026-09-16T02:35:16-07:00"
+      "pub_date": "2026-09-19T21:12:19-07:00"
     },
     {
       "title": "Reeno",
@@ -281,28 +173,16 @@
       "pub_date": "2026-09-20T21:20:26-07:00"
     },
     {
-      "title": "Fulvid",
-      "url": "https://www.producthunt.com/products/fulvid",
+      "title": "thestory.run",
+      "url": "https://www.producthunt.com/products/thestory-run",
       "tagline": "",
-      "pub_date": "2026-09-19T21:12:19-07:00"
+      "pub_date": "2026-09-16T02:39:33-07:00"
     },
     {
-      "title": "ReallyFree",
-      "url": "https://www.producthunt.com/products/know-what-s-really-free-before-you-click",
+      "title": "QuietGlass",
+      "url": "https://www.producthunt.com/products/quietglass",
       "tagline": "",
-      "pub_date": "2026-09-15T16:34:46-07:00"
-    },
-    {
-      "title": "Brev",
-      "url": "https://www.producthunt.com/products/brev-io",
-      "tagline": "",
-      "pub_date": "2026-09-14T20:33:39-07:00"
-    },
-    {
-      "title": "VideoFlow Studio",
-      "url": "https://www.producthunt.com/products/videoflow-studio",
-      "tagline": "",
-      "pub_date": "2026-09-18T21:35:10-07:00"
+      "pub_date": "2026-09-21T17:40:01-07:00"
     },
     {
       "title": "Grok 4.7",
@@ -311,22 +191,28 @@
       "pub_date": "2026-09-21T11:48:33-07:00"
     },
     {
-      "title": "Freebuff Ads",
-      "url": "https://www.producthunt.com/products/freebuff-2",
+      "title": "Robot Voice Bridge",
+      "url": "https://www.producthunt.com/products/robot-voice-bridge",
       "tagline": "",
-      "pub_date": "2026-09-21T13:56:02-07:00"
+      "pub_date": "2026-09-19T15:41:39-07:00"
     },
     {
-      "title": "gg-friggin-ez",
-      "url": "https://www.producthunt.com/products/gg-friggin-ez",
+      "title": "VideoFlow Studio",
+      "url": "https://www.producthunt.com/products/videoflow-studio",
       "tagline": "",
-      "pub_date": "2026-09-19T18:38:42-07:00"
+      "pub_date": "2026-09-18T21:35:10-07:00"
     },
     {
-      "title": "Edyt",
-      "url": "https://www.producthunt.com/products/edyt",
+      "title": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
       "tagline": "",
-      "pub_date": "2026-09-02T19:52:58-07:00"
+      "pub_date": "2026-08-10T08:05:56-07:00"
+    },
+    {
+      "title": "FeedsBar",
+      "url": "https://www.producthunt.com/products/feedsbar",
+      "tagline": "",
+      "pub_date": "2026-08-30T04:29:45-07:00"
     },
     {
       "title": "Prowler Cloud",
@@ -335,22 +221,64 @@
       "pub_date": "2026-09-17T10:01:37-07:00"
     },
     {
-      "title": "WZRD",
-      "url": "https://www.producthunt.com/products/wzrd",
-      "tagline": "",
-      "pub_date": "2026-09-21T02:19:43-07:00"
-    },
-    {
       "title": "MiMo-V2.6",
       "url": "https://www.producthunt.com/products/mimo-3",
       "tagline": "",
       "pub_date": "2026-09-21T19:47:37-07:00"
     },
     {
-      "title": "Plane Agents",
-      "url": "https://www.producthunt.com/products/planehq",
+      "title": "Hola AI",
+      "url": "https://www.producthunt.com/products/hola-ai",
       "tagline": "",
-      "pub_date": "2026-09-21T08:36:35-07:00"
+      "pub_date": "2026-09-21T14:42:18-07:00"
+    },
+    {
+      "title": "Jev Wrapped",
+      "url": "https://www.producthunt.com/products/jev-wrapped",
+      "tagline": "",
+      "pub_date": "2026-09-20T23:46:10-07:00"
+    },
+    {
+      "title": "OneStream Live 2.0",
+      "url": "https://www.producthunt.com/products/onestream",
+      "tagline": "",
+      "pub_date": "2026-09-01T02:31:35-07:00"
+    },
+    {
+      "title": "WZRD",
+      "url": "https://www.producthunt.com/products/wzrd",
+      "tagline": "",
+      "pub_date": "2026-09-21T02:19:43-07:00"
+    },
+    {
+      "title": "Pulsetic RUM",
+      "url": "https://www.producthunt.com/products/pulsetic",
+      "tagline": "",
+      "pub_date": "2026-09-14T05:52:58-07:00"
+    },
+    {
+      "title": "Brev",
+      "url": "https://www.producthunt.com/products/brev-io",
+      "tagline": "",
+      "pub_date": "2026-09-14T20:33:39-07:00"
+    },
+    {
+      "title": "SereneDB",
+      "url": "https://www.producthunt.com/products/serenedb-krummelanke",
+      "tagline": "",
+      "pub_date": "2026-09-14T20:26:57-07:00"
+    },
+    {
+      "title": "Edyt",
+      "url": "https://www.producthunt.com/products/edyt",
+      "tagline": "",
+      "pub_date": "2026-09-02T19:52:58-07:00"
+    },
+    {
+      "title": "Anomalo",
+      "url": "https://www.producthunt.com/products/anomalo",
+      "tagline": "",
+      "pub_date": "2026-09-09T15:10:12-07:00"
     },
     {
       "title": "WeWeb MCP",
@@ -359,22 +287,58 @@
       "pub_date": "2026-07-06T03:03:58-07:00"
     },
     {
-      "title": "PewCB",
-      "url": "https://www.producthunt.com/products/pewcb-in-house-pcb-prototyping-machine",
+      "title": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso",
       "tagline": "",
-      "pub_date": "2026-09-21T07:35:40-07:00"
+      "pub_date": "2026-09-16T02:35:16-07:00"
     },
     {
-      "title": "thestory.run",
-      "url": "https://www.producthunt.com/products/thestory-run",
+      "title": "Freebuff Ads",
+      "url": "https://www.producthunt.com/products/freebuff-2",
       "tagline": "",
-      "pub_date": "2026-09-16T02:39:33-07:00"
+      "pub_date": "2026-09-21T13:56:02-07:00"
     },
     {
-      "title": "vgpu",
-      "url": "https://www.producthunt.com/products/vgpu",
+      "title": "Valori",
+      "url": "https://www.producthunt.com/products/valori-systems-deleted-1168484",
       "tagline": "",
-      "pub_date": "2026-09-21T20:05:59-07:00"
+      "pub_date": "2026-09-21T06:28:59-07:00"
+    },
+    {
+      "title": "Plane Agents",
+      "url": "https://www.producthunt.com/products/planehq",
+      "tagline": "",
+      "pub_date": "2026-09-21T08:36:35-07:00"
+    },
+    {
+      "title": "PixelCrew",
+      "url": "https://www.producthunt.com/products/pixelcrew",
+      "tagline": "",
+      "pub_date": "2026-09-18T21:11:25-07:00"
+    },
+    {
+      "title": "Keet",
+      "url": "https://www.producthunt.com/products/keet-2",
+      "tagline": "",
+      "pub_date": "2026-09-19T06:57:21-07:00"
+    },
+    {
+      "title": "Xem",
+      "url": "https://www.producthunt.com/products/xem",
+      "tagline": "",
+      "pub_date": "2026-09-21T20:41:09-07:00"
+    },
+    {
+      "title": "Shootsolo 2.0",
+      "url": "https://www.producthunt.com/products/shootsolo",
+      "tagline": "",
+      "pub_date": "2026-09-21T17:59:17-07:00"
+    },
+    {
+      "title": "Diurnal",
+      "url": "https://www.producthunt.com/products/diurnal",
+      "tagline": "",
+      "pub_date": "2026-09-14T07:18:25-07:00"
     }
   ]
 }

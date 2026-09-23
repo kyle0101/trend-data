@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-09-23T15:52:27.441Z",
+  "generated_at": "2026-09-23T20:54:56.436Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49803683",
-      "points": 40,
-      "comments": 4,
-      "created_ts": 1790093706,
-      "author": "ZaharaHussain"
-    },
-    {
       "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
       "url": "https://filmstudio.rxlab.app",
       "hn_url": "https://news.ycombinator.com/item?id=49815095",
-      "points": 18,
-      "comments": 9,
+      "points": 19,
+      "comments": 14,
       "created_ts": 1790166520,
       "author": "zilue"
     },
@@ -25,153 +16,159 @@
       "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
       "url": "https://ivesentit.com",
       "hn_url": "https://news.ycombinator.com/item?id=49815168",
-      "points": 16,
-      "comments": 18,
+      "points": 18,
+      "comments": 22,
       "created_ts": 1790166961,
       "author": "ivesentit"
     }
   ],
   "hn_front": [
     {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "hn_url": "https://news.ycombinator.com/item?id=49803892",
-      "points": 1682,
-      "comments": 1026,
-      "created_ts": 1790094545,
-      "author": "km144"
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "hn_url": "https://news.ycombinator.com/item?id=49805509",
-      "points": 1660,
-      "comments": 798,
-      "created_ts": 1790100034,
-      "author": "OfficialTurkey"
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "hn_url": "https://news.ycombinator.com/item?id=49806430",
-      "points": 795,
-      "comments": 417,
-      "created_ts": 1790103818,
-      "author": "devonnull"
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "hn_url": "https://news.ycombinator.com/item?id=49805278",
-      "points": 727,
-      "comments": 531,
-      "created_ts": 1790099162,
-      "author": "spenvo"
-    },
-    {
       "title": "Jev in 25 Lines of Python",
       "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
       "hn_url": "https://news.ycombinator.com/item?id=49812769",
-      "points": 451,
-      "comments": 138,
+      "points": 566,
+      "comments": 182,
       "created_ts": 1790148383,
       "author": "bashbjorn"
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49808023",
-      "points": 416,
-      "comments": 226,
-      "created_ts": 1790110830,
-      "author": "boredjohnny"
     },
     {
       "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "hn_url": "https://news.ycombinator.com/item?id=49814947",
-      "points": 336,
-      "comments": 181,
+      "points": 419,
+      "comments": 236,
       "created_ts": 1790165733,
       "author": "pszypowicz"
     },
     {
-      "title": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "hn_url": "https://news.ycombinator.com/item?id=49806335",
-      "points": 302,
-      "comments": 156,
-      "created_ts": 1790103437,
-      "author": "aray07"
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "hn_url": "https://news.ycombinator.com/item?id=49819221",
+      "points": 343,
+      "comments": 195,
+      "created_ts": 1790183176,
+      "author": "geox"
     },
     {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "hn_url": "https://news.ycombinator.com/item?id=49803959",
-      "points": 218,
-      "comments": 117,
-      "created_ts": 1790094825,
-      "author": "vntok"
-    },
-    {
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "hn_url": "https://news.ycombinator.com/item?id=49811065",
-      "points": 212,
-      "comments": 264,
-      "created_ts": 1790131949,
-      "author": "raybb"
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49817469",
+      "points": 320,
+      "comments": 71,
+      "created_ts": 1790176733,
+      "author": "avidly"
     },
     {
       "title": "I don't want the details",
       "url": "https://michaelheap.com/i-dont-want-the-details/",
       "hn_url": "https://news.ycombinator.com/item?id=49815466",
-      "points": 164,
-      "comments": 101,
+      "points": 288,
+      "comments": 173,
       "created_ts": 1790168684,
       "author": "mooreds"
     },
     {
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "hn_url": "https://news.ycombinator.com/item?id=49815381",
-      "points": 163,
-      "comments": 159,
-      "created_ts": 1790168279,
-      "author": "Markoff"
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "hn_url": "https://news.ycombinator.com/item?id=49820134",
+      "points": 256,
+      "comments": 252,
+      "created_ts": 1790186807,
+      "author": "raahelb"
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49817404",
+      "points": 249,
+      "comments": 213,
+      "created_ts": 1790176462,
+      "author": "plurby"
+    },
+    {
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "hn_url": "https://news.ycombinator.com/item?id=49811065",
+      "points": 243,
+      "comments": 304,
+      "created_ts": 1790131949,
+      "author": "raybb"
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "hn_url": "https://news.ycombinator.com/item?id=49816374",
+      "points": 221,
+      "comments": 123,
+      "created_ts": 1790172274,
+      "author": "ortusdux"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "hn_url": "https://news.ycombinator.com/item?id=49817615",
+      "points": 192,
+      "comments": 100,
+      "created_ts": 1790177363,
+      "author": "swolpers"
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "hn_url": "https://news.ycombinator.com/item?id=49813482",
+      "points": 185,
+      "comments": 153,
+      "created_ts": 1790155277,
+      "author": "teoruiz"
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "hn_url": "https://news.ycombinator.com/item?id=49818698",
+      "points": 162,
+      "comments": 245,
+      "created_ts": 1790181334,
+      "author": "rubatrejo"
+    },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "hn_url": "https://news.ycombinator.com/item?id=49815982",
+      "points": 152,
+      "comments": 97,
+      "created_ts": 1790170680,
+      "author": "ltononro"
+    },
+    {
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "hn_url": "https://news.ycombinator.com/item?id=49821608",
+      "points": 130,
+      "comments": 41,
+      "created_ts": 1790193314,
+      "author": "vrganj"
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49814236",
+      "points": 127,
+      "comments": 17,
+      "created_ts": 1790161492,
+      "author": "adunk"
+    },
+    {
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "hn_url": "https://news.ycombinator.com/item?id=49817289",
+      "points": 119,
+      "comments": 86,
+      "created_ts": 1790175946,
+      "author": "zuckerborg0101"
     }
   ],
   "ph_today": [
-    {
-      "title": "RankControl",
-      "url": "https://www.producthunt.com/products/rankcontrol",
-      "tagline": "",
-      "pub_date": "2026-07-31T23:42:27-07:00"
-    },
-    {
-      "title": "Naise AI",
-      "url": "https://www.producthunt.com/products/naise-ai",
-      "tagline": "",
-      "pub_date": "2026-08-26T06:23:59-07:00"
-    },
-    {
-      "title": "Alexandria by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-09-22T10:16:10-07:00"
-    },
-    {
-      "title": "AgentScore",
-      "url": "https://www.producthunt.com/products/latitude-4",
-      "tagline": "",
-      "pub_date": "2026-09-15T02:04:32-07:00"
-    },
-    {
-      "title": "Pactto",
-      "url": "https://www.producthunt.com/products/pactto-replay",
-      "tagline": "",
-      "pub_date": "2026-05-13T18:15:40-07:00"
-    },
     {
       "title": "ToneBird",
       "url": "https://www.producthunt.com/products/tonebird",
@@ -179,34 +176,10 @@
       "pub_date": "2026-09-21T17:23:50-07:00"
     },
     {
-      "title": "Jev State",
-      "url": "https://www.producthunt.com/products/jev-state",
+      "title": "Koreshield",
+      "url": "https://www.producthunt.com/products/koreshield",
       "tagline": "",
-      "pub_date": "2026-09-22T11:53:46-07:00"
-    },
-    {
-      "title": "Lightmeter",
-      "url": "https://www.producthunt.com/products/lightmeter-2",
-      "tagline": "",
-      "pub_date": "2026-09-21T21:06:00-07:00"
-    },
-    {
-      "title": "Solid",
-      "url": "https://www.producthunt.com/products/solid-3",
-      "tagline": "",
-      "pub_date": "2026-09-20T23:01:40-07:00"
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "tagline": "",
-      "pub_date": "2026-09-22T09:36:09-07:00"
-    },
-    {
-      "title": "Dub Program Marketplace",
-      "url": "https://www.producthunt.com/products/dub",
-      "tagline": "",
-      "pub_date": "2026-09-22T07:30:21-07:00"
+      "pub_date": "2026-09-22T05:47:36-07:00"
     },
     {
       "title": "Speechka",
@@ -221,16 +194,34 @@
       "pub_date": "2026-09-15T14:15:03-07:00"
     },
     {
-      "title": "Koreshield",
-      "url": "https://www.producthunt.com/products/koreshield",
+      "title": "RankControl",
+      "url": "https://www.producthunt.com/products/rankcontrol",
       "tagline": "",
-      "pub_date": "2026-09-22T05:47:36-07:00"
+      "pub_date": "2026-07-31T23:42:27-07:00"
     },
     {
-      "title": "CodeSpotlight",
-      "url": "https://www.producthunt.com/products/codespotlight",
+      "title": "Alexandria by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-09-21T05:59:06-07:00"
+      "pub_date": "2026-09-22T10:16:10-07:00"
+    },
+    {
+      "title": "Lightmeter",
+      "url": "https://www.producthunt.com/products/lightmeter-2",
+      "tagline": "",
+      "pub_date": "2026-09-21T21:06:00-07:00"
+    },
+    {
+      "title": "Dub Program Marketplace",
+      "url": "https://www.producthunt.com/products/dub",
+      "tagline": "",
+      "pub_date": "2026-09-22T07:30:21-07:00"
+    },
+    {
+      "title": "Jev State",
+      "url": "https://www.producthunt.com/products/jev-state",
+      "tagline": "",
+      "pub_date": "2026-09-22T11:53:46-07:00"
     },
     {
       "title": "Linguo Translate",
@@ -239,64 +230,46 @@
       "pub_date": "2026-09-21T10:44:45-07:00"
     },
     {
-      "title": "OneStream Live 2.0",
-      "url": "https://www.producthunt.com/products/onestream",
+      "title": "Solid",
+      "url": "https://www.producthunt.com/products/solid-3",
       "tagline": "",
-      "pub_date": "2026-09-01T02:31:35-07:00"
+      "pub_date": "2026-09-20T23:01:40-07:00"
     },
     {
-      "title": "FeedsBar",
-      "url": "https://www.producthunt.com/products/feedsbar",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
       "tagline": "",
-      "pub_date": "2026-08-30T04:29:45-07:00"
+      "pub_date": "2026-09-22T09:36:09-07:00"
     },
     {
-      "title": "SereneDB",
-      "url": "https://www.producthunt.com/products/serenedb-krummelanke",
+      "title": "AgentScore",
+      "url": "https://www.producthunt.com/products/latitude-4",
       "tagline": "",
-      "pub_date": "2026-09-14T20:26:57-07:00"
+      "pub_date": "2026-09-15T02:04:32-07:00"
     },
     {
-      "title": "Edyt",
-      "url": "https://www.producthunt.com/products/edyt",
+      "title": "Naise AI",
+      "url": "https://www.producthunt.com/products/naise-ai",
       "tagline": "",
-      "pub_date": "2026-09-02T19:52:58-07:00"
+      "pub_date": "2026-08-26T06:23:59-07:00"
     },
     {
-      "title": "Brev",
-      "url": "https://www.producthunt.com/products/brev-io",
+      "title": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay",
       "tagline": "",
-      "pub_date": "2026-09-14T20:33:39-07:00"
+      "pub_date": "2026-05-13T18:15:40-07:00"
     },
     {
-      "title": "Fez",
-      "url": "https://www.producthunt.com/products/fez-2",
+      "title": "CodeSpotlight",
+      "url": "https://www.producthunt.com/products/codespotlight",
       "tagline": "",
-      "pub_date": "2026-09-21T11:50:10-07:00"
+      "pub_date": "2026-09-21T05:59:06-07:00"
     },
     {
-      "title": "QuietGlass",
-      "url": "https://www.producthunt.com/products/quietglass",
+      "title": "2BA.AI",
+      "url": "https://www.producthunt.com/products/2ba-ai",
       "tagline": "",
-      "pub_date": "2026-09-21T17:40:01-07:00"
-    },
-    {
-      "title": "gg-friggin-ez",
-      "url": "https://www.producthunt.com/products/gg-friggin-ez",
-      "tagline": "",
-      "pub_date": "2026-09-19T18:38:42-07:00"
-    },
-    {
-      "title": "Hola AI",
-      "url": "https://www.producthunt.com/products/hola-ai",
-      "tagline": "",
-      "pub_date": "2026-09-21T14:42:18-07:00"
-    },
-    {
-      "title": "Pulsetic RUM",
-      "url": "https://www.producthunt.com/products/pulsetic",
-      "tagline": "",
-      "pub_date": "2026-09-14T05:52:58-07:00"
+      "pub_date": "2026-09-16T06:13:32-07:00"
     },
     {
       "title": "PixelCrew",
@@ -305,10 +278,52 @@
       "pub_date": "2026-09-18T21:11:25-07:00"
     },
     {
-      "title": "thestory.run",
-      "url": "https://www.producthunt.com/products/thestory-run",
+      "title": "ReallyFree",
+      "url": "https://www.producthunt.com/products/know-what-s-really-free-before-you-click",
       "tagline": "",
-      "pub_date": "2026-09-16T02:39:33-07:00"
+      "pub_date": "2026-09-15T16:34:46-07:00"
+    },
+    {
+      "title": "Clueprint",
+      "url": "https://www.producthunt.com/products/clueprint",
+      "tagline": "",
+      "pub_date": "2026-09-03T08:00:46-07:00"
+    },
+    {
+      "title": "OneStream Live 2.0",
+      "url": "https://www.producthunt.com/products/onestream",
+      "tagline": "",
+      "pub_date": "2026-09-01T02:31:35-07:00"
+    },
+    {
+      "title": "Pulsetic RUM",
+      "url": "https://www.producthunt.com/products/pulsetic",
+      "tagline": "",
+      "pub_date": "2026-09-14T05:52:58-07:00"
+    },
+    {
+      "title": "Prowler Cloud",
+      "url": "https://www.producthunt.com/products/prowler",
+      "tagline": "",
+      "pub_date": "2026-09-17T10:01:37-07:00"
+    },
+    {
+      "title": "Keet",
+      "url": "https://www.producthunt.com/products/keet-2",
+      "tagline": "",
+      "pub_date": "2026-09-19T06:57:21-07:00"
+    },
+    {
+      "title": "Xem",
+      "url": "https://www.producthunt.com/products/xem",
+      "tagline": "",
+      "pub_date": "2026-09-21T20:41:09-07:00"
+    },
+    {
+      "title": "Anomalo",
+      "url": "https://www.producthunt.com/products/anomalo",
+      "tagline": "",
+      "pub_date": "2026-09-09T15:10:12-07:00"
     },
     {
       "title": "WZRD",
@@ -317,10 +332,22 @@
       "pub_date": "2026-09-21T02:19:43-07:00"
     },
     {
-      "title": "WeWeb MCP",
-      "url": "https://www.producthunt.com/products/weweb-io",
+      "title": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso",
       "tagline": "",
-      "pub_date": "2026-07-06T03:03:58-07:00"
+      "pub_date": "2026-09-16T02:35:16-07:00"
+    },
+    {
+      "title": "Brev",
+      "url": "https://www.producthunt.com/products/brev-io",
+      "tagline": "",
+      "pub_date": "2026-09-14T20:33:39-07:00"
+    },
+    {
+      "title": "QuietGlass",
+      "url": "https://www.producthunt.com/products/quietglass",
+      "tagline": "",
+      "pub_date": "2026-09-21T17:40:01-07:00"
     }
   ]
 }

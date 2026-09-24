@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-24T02:31:37.490Z",
+  "generated_at": "2026-09-24T10:51:49.725Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+      "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+      "hn_url": "https://news.ycombinator.com/item?id=49826059",
+      "points": 47,
+      "comments": 61,
+      "created_ts": 1790222034,
+      "author": "karmanyaahm"
+    },
+    {
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "url": "https://carbon.ms/self-hosted",
+      "hn_url": "https://news.ycombinator.com/item?id=49824715",
+      "points": 39,
+      "comments": 17,
+      "created_ts": 1790210717,
+      "author": "barbinbrad"
+    },
+    {
       "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
       "url": "https://www.forensicdbg.com",
       "hn_url": "https://news.ycombinator.com/item?id=49821086",
-      "points": 29,
+      "points": 34,
       "comments": 5,
       "created_ts": 1790190955,
       "author": "Loren_SL"
@@ -17,7 +35,7 @@
       "url": "https://filmstudio.rxlab.app",
       "hn_url": "https://news.ycombinator.com/item?id=49815095",
       "points": 19,
-      "comments": 14,
+      "comments": 15,
       "created_ts": 1790166520,
       "author": "zilue"
     },
@@ -36,8 +54,8 @@
       "title": "Italian parliament votes for return to nuclear energy",
       "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
       "hn_url": "https://news.ycombinator.com/item?id=49819221",
-      "points": 607,
-      "comments": 388,
+      "points": 803,
+      "comments": 625,
       "created_ts": 1790183176,
       "author": "geox"
     },
@@ -45,8 +63,8 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "hn_url": "https://news.ycombinator.com/item?id=49820134",
-      "points": 519,
-      "comments": 541,
+      "points": 662,
+      "comments": 678,
       "created_ts": 1790186807,
       "author": "raahelb"
     },
@@ -54,105 +72,246 @@
       "title": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
       "hn_url": "https://news.ycombinator.com/item?id=49817469",
-      "points": 383,
-      "comments": 89,
+      "points": 452,
+      "comments": 102,
       "created_ts": 1790176733,
       "author": "avidly"
-    },
-    {
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "hn_url": "https://news.ycombinator.com/item?id=49815466",
-      "points": 360,
-      "comments": 200,
-      "created_ts": 1790168684,
-      "author": "mooreds"
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "hn_url": "https://news.ycombinator.com/item?id=49817615",
-      "points": 256,
-      "comments": 124,
-      "created_ts": 1790177363,
-      "author": "swolpers"
-    },
-    {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "hn_url": "https://news.ycombinator.com/item?id=49824268",
-      "points": 246,
-      "comments": 201,
-      "created_ts": 1790207276,
-      "author": "polymorph1sm"
-    },
-    {
-      "title": "Tokens too cheap to meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "hn_url": "https://news.ycombinator.com/item?id=49813482",
-      "points": 242,
-      "comments": 180,
-      "created_ts": 1790155277,
-      "author": "teoruiz"
     },
     {
       "title": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "hn_url": "https://news.ycombinator.com/item?id=49823582",
-      "points": 172,
-      "comments": 73,
+      "points": 432,
+      "comments": 180,
       "created_ts": 1790203096,
       "author": "aaronday"
     },
     {
-      "title": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49814236",
-      "points": 149,
-      "comments": 18,
-      "created_ts": 1790161492,
-      "author": "adunk"
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "hn_url": "https://news.ycombinator.com/item?id=49824268",
+      "points": 411,
+      "comments": 362,
+      "created_ts": 1790207276,
+      "author": "polymorph1sm"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "hn_url": "https://news.ycombinator.com/item?id=49817615",
+      "points": 309,
+      "comments": 137,
+      "created_ts": 1790177363,
+      "author": "swolpers"
     },
     {
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "hn_url": "https://news.ycombinator.com/item?id=49822555",
-      "points": 135,
-      "comments": 87,
+      "points": 237,
+      "comments": 150,
       "created_ts": 1790197308,
       "author": "Rapzid"
     },
     {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "hn_url": "https://news.ycombinator.com/item?id=49817524",
-      "points": 126,
-      "comments": 50,
-      "created_ts": 1790176985,
-      "author": "lostmsu"
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "hn_url": "https://news.ycombinator.com/item?id=49823664",
+      "points": 191,
+      "comments": 22,
+      "created_ts": 1790203549,
+      "author": "JohnHammersley"
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "hn_url": "https://news.ycombinator.com/item?id=49819880",
+      "points": 171,
+      "comments": 67,
+      "created_ts": 1790185747,
+      "author": "yarapavan"
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "hn_url": "https://news.ycombinator.com/item?id=49825642",
+      "points": 152,
+      "comments": 137,
+      "created_ts": 1790218329,
+      "author": "signa11"
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49827794",
+      "points": 146,
+      "comments": 63,
+      "created_ts": 1790238183,
+      "author": "pieterr"
     },
     {
       "title": "A brief history of Windows scroll bar shortcuts",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
       "hn_url": "https://news.ycombinator.com/item?id=49820065",
-      "points": 112,
-      "comments": 51,
+      "points": 145,
+      "comments": 85,
       "created_ts": 1790186528,
       "author": "tybulewicz"
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "hn_url": "https://news.ycombinator.com/item?id=49826565",
+      "points": 142,
+      "comments": 113,
+      "created_ts": 1790227270,
+      "author": "snikolaev"
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "hn_url": "https://news.ycombinator.com/item?id=49823348",
+      "points": 112,
+      "comments": 66,
+      "created_ts": 1790201779,
+      "author": "Retro_Dev"
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "hn_url": "https://news.ycombinator.com/item?id=49824864",
+      "points": 105,
+      "comments": 46,
+      "created_ts": 1790211743,
+      "author": "WanjohiRyan"
     }
   ],
   "ph_today": [
     {
-      "title": "Pactto",
-      "url": "https://www.producthunt.com/products/pactto-replay",
+      "title": "ChoreDivider",
+      "url": "https://www.producthunt.com/products/choredivider",
       "tagline": "",
-      "pub_date": "2026-05-13T18:15:40-07:00"
+      "pub_date": "2026-09-21T00:09:45-07:00"
     },
     {
-      "title": "Koreshield",
-      "url": "https://www.producthunt.com/products/koreshield",
+      "title": "NotchPop",
+      "url": "https://www.producthunt.com/products/notchpop",
       "tagline": "",
-      "pub_date": "2026-09-22T05:47:36-07:00"
+      "pub_date": "2026-09-23T23:32:47-07:00"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech models",
+      "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
+      "tagline": "",
+      "pub_date": "2026-09-23T12:11:12-07:00"
+    },
+    {
+      "title": "minimi 2.0",
+      "url": "https://www.producthunt.com/products/shram",
+      "tagline": "",
+      "pub_date": "2026-09-18T13:16:52-07:00"
+    },
+    {
+      "title": "Floot MCP",
+      "url": "https://www.producthunt.com/products/floot",
+      "tagline": "",
+      "pub_date": "2026-09-23T13:54:45-07:00"
+    },
+    {
+      "title": "CtrlOps 1.0",
+      "url": "https://www.producthunt.com/products/ctrlops",
+      "tagline": "",
+      "pub_date": "2026-09-22T03:20:30-07:00"
+    },
+    {
+      "title": "jev-seo",
+      "url": "https://www.producthunt.com/products/jev-seo",
+      "tagline": "",
+      "pub_date": "2026-09-22T22:02:48-07:00"
+    },
+    {
+      "title": "Scholé Learn by Building",
+      "url": "https://www.producthunt.com/products/schole-2",
+      "tagline": "",
+      "pub_date": "2026-09-12T21:23:14-07:00"
+    },
+    {
+      "title": "Subscrr",
+      "url": "https://www.producthunt.com/products/subscrrr",
+      "tagline": "",
+      "pub_date": "2026-09-23T05:37:30-07:00"
+    },
+    {
+      "title": "Maximem Synap",
+      "url": "https://www.producthunt.com/products/maximem-synap",
+      "tagline": "",
+      "pub_date": "2026-09-08T22:57:08-07:00"
+    },
+    {
+      "title": "Harness Manager",
+      "url": "https://www.producthunt.com/products/harness-manager",
+      "tagline": "",
+      "pub_date": "2026-09-23T11:17:40-07:00"
+    },
+    {
+      "title": "IntellAgents.io",
+      "url": "https://www.producthunt.com/products/intellagents-io",
+      "tagline": "",
+      "pub_date": "2026-09-23T03:45:46-07:00"
+    },
+    {
+      "title": "Autonomous Product Delivery",
+      "url": "https://www.producthunt.com/products/autonomyai",
+      "tagline": "",
+      "pub_date": "2026-09-08T08:13:35-07:00"
+    },
+    {
+      "title": "Opaline",
+      "url": "https://www.producthunt.com/products/rudel",
+      "tagline": "",
+      "pub_date": "2026-09-22T08:25:52-07:00"
+    },
+    {
+      "title": "Storytailor®",
+      "url": "https://www.producthunt.com/products/storytailor",
+      "tagline": "",
+      "pub_date": "2026-09-22T23:09:39-07:00"
+    },
+    {
+      "title": "LockLines",
+      "url": "https://www.producthunt.com/products/locklines",
+      "tagline": "",
+      "pub_date": "2026-09-23T13:09:03-07:00"
+    },
+    {
+      "title": "Parall",
+      "url": "https://www.producthunt.com/products/parall",
+      "tagline": "",
+      "pub_date": "2026-09-23T13:13:18-07:00"
+    },
+    {
+      "title": "Hookest",
+      "url": "https://www.producthunt.com/products/hookest",
+      "tagline": "",
+      "pub_date": "2026-09-07T04:34:38-07:00"
+    },
+    {
+      "title": "NOAN",
+      "url": "https://www.producthunt.com/products/noan-2",
+      "tagline": "",
+      "pub_date": "2026-09-18T17:04:02-07:00"
+    },
+    {
+      "title": "Opencontroller by lyzr",
+      "url": "https://www.producthunt.com/products/opencontroller-by-lyzr",
+      "tagline": "",
+      "pub_date": "2026-09-15T07:16:37-07:00"
+    },
+    {
+      "title": "Dub Program Marketplace",
+      "url": "https://www.producthunt.com/products/dub",
+      "tagline": "",
+      "pub_date": "2026-09-22T07:30:21-07:00"
     },
     {
       "title": "Lightmeter",
@@ -161,22 +320,10 @@
       "pub_date": "2026-09-21T21:06:00-07:00"
     },
     {
-      "title": "Jev State",
-      "url": "https://www.producthunt.com/products/jev-state",
+      "title": "Alexandria by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "tagline": "",
-      "pub_date": "2026-09-22T11:53:46-07:00"
-    },
-    {
-      "title": "CodeSpotlight",
-      "url": "https://www.producthunt.com/products/codespotlight",
-      "tagline": "",
-      "pub_date": "2026-09-21T05:59:06-07:00"
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "tagline": "",
-      "pub_date": "2026-09-22T09:36:09-07:00"
+      "pub_date": "2026-09-22T10:16:10-07:00"
     },
     {
       "title": "ToneBird",
@@ -185,34 +332,10 @@
       "pub_date": "2026-09-21T17:23:50-07:00"
     },
     {
-      "title": "RankControl",
-      "url": "https://www.producthunt.com/products/rankcontrol",
+      "title": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay",
       "tagline": "",
-      "pub_date": "2026-07-31T23:42:27-07:00"
-    },
-    {
-      "title": "Alexandria by Firecrawl",
-      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "tagline": "",
-      "pub_date": "2026-09-22T10:16:10-07:00"
-    },
-    {
-      "title": "Speechka",
-      "url": "https://www.producthunt.com/products/speechka",
-      "tagline": "",
-      "pub_date": "2026-09-22T11:07:06-07:00"
-    },
-    {
-      "title": "AgentScore",
-      "url": "https://www.producthunt.com/products/latitude-4",
-      "tagline": "",
-      "pub_date": "2026-09-15T02:04:32-07:00"
-    },
-    {
-      "title": "Dub Program Marketplace",
-      "url": "https://www.producthunt.com/products/dub",
-      "tagline": "",
-      "pub_date": "2026-09-22T07:30:21-07:00"
+      "pub_date": "2026-05-13T18:15:40-07:00"
     },
     {
       "title": "Naise AI",
@@ -227,100 +350,22 @@
       "pub_date": "2026-09-20T23:01:40-07:00"
     },
     {
-      "title": "Linguo Translate",
-      "url": "https://www.producthunt.com/products/linguo-translate-for-macos",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
       "tagline": "",
-      "pub_date": "2026-09-21T10:44:45-07:00"
+      "pub_date": "2026-09-22T09:36:09-07:00"
     },
     {
-      "title": "GBrain",
-      "url": "https://www.producthunt.com/products/gbrain",
+      "title": "CodeSpotlight",
+      "url": "https://www.producthunt.com/products/codespotlight",
       "tagline": "",
-      "pub_date": "2026-09-15T14:15:03-07:00"
+      "pub_date": "2026-09-21T05:59:06-07:00"
     },
     {
-      "title": "Prowler Cloud",
-      "url": "https://www.producthunt.com/products/prowler",
+      "title": "Koreshield",
+      "url": "https://www.producthunt.com/products/koreshield",
       "tagline": "",
-      "pub_date": "2026-09-17T10:01:37-07:00"
-    },
-    {
-      "title": "gg-friggin-ez",
-      "url": "https://www.producthunt.com/products/gg-friggin-ez",
-      "tagline": "",
-      "pub_date": "2026-09-19T18:38:42-07:00"
-    },
-    {
-      "title": "Robot Voice Bridge",
-      "url": "https://www.producthunt.com/products/robot-voice-bridge",
-      "tagline": "",
-      "pub_date": "2026-09-19T15:41:39-07:00"
-    },
-    {
-      "title": "2BA.AI",
-      "url": "https://www.producthunt.com/products/2ba-ai",
-      "tagline": "",
-      "pub_date": "2026-09-16T06:13:32-07:00"
-    },
-    {
-      "title": "Hola AI",
-      "url": "https://www.producthunt.com/products/hola-ai",
-      "tagline": "",
-      "pub_date": "2026-09-21T14:42:18-07:00"
-    },
-    {
-      "title": "Plane Agents",
-      "url": "https://www.producthunt.com/products/planehq",
-      "tagline": "",
-      "pub_date": "2026-09-21T08:36:35-07:00"
-    },
-    {
-      "title": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
-      "tagline": "",
-      "pub_date": "2026-08-10T08:05:56-07:00"
-    },
-    {
-      "title": "Fulvid",
-      "url": "https://www.producthunt.com/products/fulvid",
-      "tagline": "",
-      "pub_date": "2026-09-19T21:12:19-07:00"
-    },
-    {
-      "title": "Clueprint",
-      "url": "https://www.producthunt.com/products/clueprint",
-      "tagline": "",
-      "pub_date": "2026-09-03T08:00:46-07:00"
-    },
-    {
-      "title": "PewCB",
-      "url": "https://www.producthunt.com/products/pewcb-in-house-pcb-prototyping-machine",
-      "tagline": "",
-      "pub_date": "2026-09-21T07:35:40-07:00"
-    },
-    {
-      "title": "Freebuff Ads",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "tagline": "",
-      "pub_date": "2026-09-21T13:56:02-07:00"
-    },
-    {
-      "title": "MiMo-V2.6",
-      "url": "https://www.producthunt.com/products/mimo-3",
-      "tagline": "",
-      "pub_date": "2026-09-21T19:47:37-07:00"
-    },
-    {
-      "title": "Walkie",
-      "url": "https://www.producthunt.com/products/walkie-3",
-      "tagline": "",
-      "pub_date": "2026-09-21T13:34:24-07:00"
-    },
-    {
-      "title": "Keet",
-      "url": "https://www.producthunt.com/products/keet-2",
-      "tagline": "",
-      "pub_date": "2026-09-19T06:57:21-07:00"
+      "pub_date": "2026-09-22T05:47:36-07:00"
     }
   ]
 }

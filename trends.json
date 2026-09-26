@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-09-26T15:28:34.280Z",
+  "generated_at": "2026-09-26T20:27:45.432Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "url": "https://www.doom-or-bloom.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49846953",
-      "points": 56,
-      "comments": 48,
-      "created_ts": 1790355088,
-      "author": "transitivebs"
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "hn_url": "https://news.ycombinator.com/item?id=49857528",
+      "points": 67,
+      "comments": 46,
+      "created_ts": 1790436893,
+      "author": "brumar"
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "hn_url": "https://news.ycombinator.com/item?id=49858513",
+      "points": 50,
+      "comments": 12,
+      "created_ts": 1790442640,
+      "author": "jpwalsh234"
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "hn_url": "https://news.ycombinator.com/item?id=49849986",
+      "points": 18,
+      "comments": 4,
+      "created_ts": 1790370568,
+      "author": "kdautaj"
     },
     {
       "title": "Show HN: A game about fake news and memes",
       "url": "https://unspin.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49851776",
       "points": 15,
-      "comments": 11,
+      "comments": 21,
       "created_ts": 1790381493,
       "author": "azermite"
-    },
-    {
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "hn_url": "https://news.ycombinator.com/item?id=49849986",
-      "points": 15,
-      "comments": 4,
-      "created_ts": 1790370568,
-      "author": "kdautaj"
-    },
-    {
-      "title": "Show HN: I discovered roads in the US across > 1000 themes",
-      "url": "https://road-about-a-theme.pinedesk.biz/",
-      "hn_url": "https://news.ycombinator.com/item?id=49846409",
-      "points": 12,
-      "comments": 8,
-      "created_ts": 1790352308,
-      "author": "91awebsi"
     }
   ],
   "hn_front": [
@@ -45,123 +45,99 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49849985",
-      "points": 589,
-      "comments": 377,
+      "points": 669,
+      "comments": 425,
       "created_ts": 1790370567,
       "author": "specked-citrus"
-    },
-    {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49848269",
-      "points": 524,
-      "comments": 128,
-      "created_ts": 1790361230,
-      "author": "Ardakilic"
     },
     {
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
       "hn_url": "https://news.ycombinator.com/item?id=49855315",
-      "points": 338,
-      "comments": 130,
+      "points": 578,
+      "comments": 225,
       "created_ts": 1790420156,
       "author": "ezst"
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "hn_url": "https://news.ycombinator.com/item?id=49852302",
-      "points": 320,
-      "comments": 84,
-      "created_ts": 1790386610,
-      "author": "pseudolus"
-    },
-    {
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "hn_url": "https://news.ycombinator.com/item?id=49845998",
-      "points": 246,
-      "comments": 192,
-      "created_ts": 1790350262,
-      "author": "ibobev"
-    },
-    {
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "hn_url": "https://news.ycombinator.com/item?id=49850305",
-      "points": 240,
-      "comments": 344,
-      "created_ts": 1790372216,
-      "author": "fratellobigio"
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "hn_url": "https://news.ycombinator.com/item?id=49857899",
+      "points": 334,
+      "comments": 138,
+      "created_ts": 1790439138,
+      "author": "minimaxir"
     },
     {
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "hn_url": "https://news.ycombinator.com/item?id=49852717",
-      "points": 237,
-      "comments": 331,
+      "points": 322,
+      "comments": 424,
       "created_ts": 1790390814,
       "author": "srcreigh"
-    },
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "hn_url": "https://news.ycombinator.com/item?id=49849832",
-      "points": 229,
-      "comments": 156,
-      "created_ts": 1790369700,
-      "author": "luispa"
-    },
-    {
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "url": "https://news.ycombinator.com/item?id=49848955",
-      "hn_url": "https://news.ycombinator.com/item?id=49848955",
-      "points": 184,
-      "comments": 185,
-      "created_ts": 1790365075,
-      "author": "mlaux"
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "hn_url": "https://news.ycombinator.com/item?id=49854693",
-      "points": 173,
-      "comments": 25,
+      "points": 296,
+      "comments": 63,
       "created_ts": 1790414021,
       "author": "ksec"
     },
     {
-      "title": "One Month Without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49855018",
-      "points": 138,
-      "comments": 144,
-      "created_ts": 1790417301,
-      "author": "saibotk"
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "hn_url": "https://news.ycombinator.com/item?id=49850305",
+      "points": 280,
+      "comments": 425,
+      "created_ts": 1790372216,
+      "author": "fratellobigio"
     },
     {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49853175",
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "hn_url": "https://news.ycombinator.com/item?id=49854416",
+      "points": 136,
+      "comments": 27,
+      "created_ts": 1790411462,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "hn_url": "https://news.ycombinator.com/item?id=49857442",
+      "points": 124,
+      "comments": 237,
+      "created_ts": 1790436248,
+      "author": "vinni2"
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49854161",
       "points": 111,
-      "comments": 30,
-      "created_ts": 1790396458,
-      "author": "allanrbo"
+      "comments": 38,
+      "created_ts": 1790407992,
+      "author": "vira28"
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "hn_url": "https://news.ycombinator.com/item?id=49854875",
+      "points": 101,
+      "comments": 150,
+      "created_ts": 1790415718,
+      "author": "signa11"
     }
   ],
   "ph_today": [
     {
-      "title": "Lisen",
-      "url": "https://www.producthunt.com/products/lisen",
+      "title": "Paragraph Notes",
+      "url": "https://www.producthunt.com/products/paragraph-notes",
       "tagline": "",
-      "pub_date": "2026-09-22T23:59:19-07:00"
-    },
-    {
-      "title": "Hemory",
-      "url": "https://www.producthunt.com/products/hemory",
-      "tagline": "",
-      "pub_date": "2026-09-22T08:16:05-07:00"
+      "pub_date": "2026-09-07T09:31:09-07:00"
     },
     {
       "title": "Kleanly",
@@ -170,16 +146,40 @@
       "pub_date": "2026-09-18T18:42:25-07:00"
     },
     {
+      "title": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2",
+      "tagline": "",
+      "pub_date": "2026-09-17T23:58:09-07:00"
+    },
+    {
+      "title": "Hemory",
+      "url": "https://www.producthunt.com/products/hemory",
+      "tagline": "",
+      "pub_date": "2026-09-22T08:16:05-07:00"
+    },
+    {
       "title": "Psst",
       "url": "https://www.producthunt.com/products/psst-3",
       "tagline": "",
       "pub_date": "2026-09-03T11:48:30-07:00"
     },
     {
-      "title": "Chit",
-      "url": "https://www.producthunt.com/products/chit-2",
+      "title": "Eclatira",
+      "url": "https://www.producthunt.com/products/eclatira",
       "tagline": "",
-      "pub_date": "2026-09-17T23:58:09-07:00"
+      "pub_date": "2026-08-31T09:07:06-07:00"
+    },
+    {
+      "title": "GoodSocials",
+      "url": "https://www.producthunt.com/products/goodsocials",
+      "tagline": "",
+      "pub_date": "2026-09-25T03:43:48-07:00"
+    },
+    {
+      "title": "Lisen",
+      "url": "https://www.producthunt.com/products/lisen",
+      "tagline": "",
+      "pub_date": "2026-09-22T23:59:19-07:00"
     },
     {
       "title": "SOUND",
@@ -194,34 +194,10 @@
       "pub_date": "2026-09-21T08:37:50-07:00"
     },
     {
-      "title": "Eclatira",
-      "url": "https://www.producthunt.com/products/eclatira",
-      "tagline": "",
-      "pub_date": "2026-08-31T09:07:06-07:00"
-    },
-    {
-      "title": "Paragraph Notes",
-      "url": "https://www.producthunt.com/products/paragraph-notes",
-      "tagline": "",
-      "pub_date": "2026-09-07T09:31:09-07:00"
-    },
-    {
       "title": "MakerMap",
       "url": "https://www.producthunt.com/products/makermap",
       "tagline": "",
       "pub_date": "2026-09-25T16:58:29-07:00"
-    },
-    {
-      "title": "GoodSocials",
-      "url": "https://www.producthunt.com/products/goodsocials",
-      "tagline": "",
-      "pub_date": "2026-09-25T03:43:48-07:00"
-    },
-    {
-      "title": "Kapshot",
-      "url": "https://www.producthunt.com/products/kapshot",
-      "tagline": "",
-      "pub_date": "2026-09-24T03:25:27-07:00"
     },
     {
       "title": "SocialGPT",
@@ -230,58 +206,10 @@
       "pub_date": "2026-09-24T17:50:36-07:00"
     },
     {
-      "title": "Decktly",
-      "url": "https://www.producthunt.com/products/decktly",
+      "title": "Donna",
+      "url": "https://www.producthunt.com/products/donna-4",
       "tagline": "",
-      "pub_date": "2026-09-24T11:54:08-07:00"
-    },
-    {
-      "title": "Howseen AI",
-      "url": "https://www.producthunt.com/products/howseen-ai",
-      "tagline": "",
-      "pub_date": "2026-09-18T08:29:54-07:00"
-    },
-    {
-      "title": "10xJoy",
-      "url": "https://www.producthunt.com/products/10xjoy",
-      "tagline": "",
-      "pub_date": "2026-09-24T23:47:02-07:00"
-    },
-    {
-      "title": "Quiver GTM",
-      "url": "https://www.producthunt.com/products/quiver-gtm",
-      "tagline": "",
-      "pub_date": "2026-09-23T18:50:08-07:00"
-    },
-    {
-      "title": "DEV·TV",
-      "url": "https://www.producthunt.com/products/dev-tv",
-      "tagline": "",
-      "pub_date": "2026-09-24T07:29:20-07:00"
-    },
-    {
-      "title": "Bleetz Network",
-      "url": "https://www.producthunt.com/products/bleetz-network",
-      "tagline": "",
-      "pub_date": "2026-09-23T11:37:04-07:00"
-    },
-    {
-      "title": "Tellwe",
-      "url": "https://www.producthunt.com/products/tellwe",
-      "tagline": "",
-      "pub_date": "2026-09-24T22:54:02-07:00"
-    },
-    {
-      "title": "JevForAgents",
-      "url": "https://www.producthunt.com/products/jevforagents",
-      "tagline": "",
-      "pub_date": "2026-09-24T01:16:05-07:00"
-    },
-    {
-      "title": "Wand",
-      "url": "https://www.producthunt.com/products/wand-6",
-      "tagline": "",
-      "pub_date": "2026-09-24T19:17:21-07:00"
+      "pub_date": "2026-09-22T12:59:44-07:00"
     },
     {
       "title": "Kaiku",
@@ -296,28 +224,40 @@
       "pub_date": "2026-09-21T08:39:21-07:00"
     },
     {
-      "title": "Meta VR Glasses",
-      "url": "https://www.producthunt.com/products/meta-vr-glasses",
+      "title": "Wand",
+      "url": "https://www.producthunt.com/products/wand-6",
       "tagline": "",
-      "pub_date": "2026-09-23T20:53:44-07:00"
+      "pub_date": "2026-09-24T19:17:21-07:00"
     },
     {
-      "title": "Pair2FA",
-      "url": "https://www.producthunt.com/products/pair2fa",
+      "title": "FRCTL",
+      "url": "https://www.producthunt.com/products/frctl",
       "tagline": "",
-      "pub_date": "2026-09-21T09:44:17-07:00"
+      "pub_date": "2026-09-20T22:27:25-07:00"
     },
     {
-      "title": "HireOtto",
-      "url": "https://www.producthunt.com/products/hireotto",
+      "title": "Jango",
+      "url": "https://www.producthunt.com/products/jango",
       "tagline": "",
-      "pub_date": "2026-09-24T01:10:10-07:00"
+      "pub_date": "2026-09-24T19:16:38-07:00"
     },
     {
-      "title": "OmniNotch",
-      "url": "https://www.producthunt.com/products/omninotch",
+      "title": "Kairn",
+      "url": "https://www.producthunt.com/products/kairn-2",
       "tagline": "",
-      "pub_date": "2026-09-20T13:50:25-07:00"
+      "pub_date": "2026-09-21T21:06:05-07:00"
+    },
+    {
+      "title": "Howseen AI",
+      "url": "https://www.producthunt.com/products/howseen-ai",
+      "tagline": "",
+      "pub_date": "2026-09-18T08:29:54-07:00"
+    },
+    {
+      "title": "Quiver GTM",
+      "url": "https://www.producthunt.com/products/quiver-gtm",
+      "tagline": "",
+      "pub_date": "2026-09-23T18:50:08-07:00"
     },
     {
       "title": "PixVerse R2",
@@ -326,10 +266,52 @@
       "pub_date": "2026-09-23T02:26:05-07:00"
     },
     {
-      "title": "DemoScreen",
-      "url": "https://www.producthunt.com/products/demoscreen",
+      "title": "Hyperdream",
+      "url": "https://www.producthunt.com/products/hyperdream",
       "tagline": "",
-      "pub_date": "2026-09-24T03:35:43-07:00"
+      "pub_date": "2026-09-24T08:47:40-07:00"
+    },
+    {
+      "title": "Bleetz Network",
+      "url": "https://www.producthunt.com/products/bleetz-network",
+      "tagline": "",
+      "pub_date": "2026-09-23T11:37:04-07:00"
+    },
+    {
+      "title": "OmniNotch",
+      "url": "https://www.producthunt.com/products/omninotch",
+      "tagline": "",
+      "pub_date": "2026-09-20T13:50:25-07:00"
+    },
+    {
+      "title": "Token Forecaster",
+      "url": "https://www.producthunt.com/products/token-forecaster",
+      "tagline": "",
+      "pub_date": "2026-09-24T21:40:57-07:00"
+    },
+    {
+      "title": "Promptic",
+      "url": "https://www.producthunt.com/products/promptic-3",
+      "tagline": "",
+      "pub_date": "2026-09-17T05:06:48-07:00"
+    },
+    {
+      "title": "Squints",
+      "url": "https://www.producthunt.com/products/squints",
+      "tagline": "",
+      "pub_date": "2026-09-24T15:46:20-07:00"
+    },
+    {
+      "title": "WebDecoy for Vercel",
+      "url": "https://www.producthunt.com/products/webdecoy",
+      "tagline": "",
+      "pub_date": "2026-09-21T16:53:56-07:00"
+    },
+    {
+      "title": "Meta VR Glasses",
+      "url": "https://www.producthunt.com/products/meta-vr-glasses",
+      "tagline": "",
+      "pub_date": "2026-09-23T20:53:44-07:00"
     }
   ]
 }

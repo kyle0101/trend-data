@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:51:52.515Z",
+  "generated_at": "2026-09-26T10:35:07.547Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,209 +7,236 @@
       "title": "Show HN: Jev Plays Pokémon Red",
       "url": "https://jev-pokemon.vercel.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49845172",
-      "points": 162,
-      "comments": 71,
+      "points": 203,
+      "comments": 85,
       "created_ts": 1790346487,
       "author": "pancomplex"
-    },
-    {
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "url": "https://www.doom-or-bloom.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49846953",
-      "points": 55,
-      "comments": 43,
-      "created_ts": 1790355088,
-      "author": "transitivebs"
-    },
-    {
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "hn_url": "https://news.ycombinator.com/item?id=49842596",
-      "points": 32,
-      "comments": 11,
-      "created_ts": 1790332378,
-      "author": "bertaye"
-    },
-    {
-      "title": "Show HN: Avoid smooth spinners, use low-FPS spinners",
-      "url": "https://nh2.me/low-fps-spinners/low-fps-spinners.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49839672",
-      "points": 21,
-      "comments": 27,
-      "created_ts": 1790304732,
-      "author": "nh2"
-    },
-    {
-      "title": "Show HN: The last day of the dinosaurs, as an interactive painting",
-      "url": "https://www.echohive.ai/experiments/dinosaurs",
-      "hn_url": "https://news.ycombinator.com/item?id=49841912",
-      "points": 18,
-      "comments": 17,
-      "created_ts": 1790326693,
-      "author": "echohive42"
     },
     {
       "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
       "url": "https://hackeratlas.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49844497",
-      "points": 16,
-      "comments": 6,
+      "points": 62,
+      "comments": 20,
       "created_ts": 1790343474,
       "author": "andrearitossa"
+    },
+    {
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "url": "https://www.doom-or-bloom.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49846953",
+      "points": 56,
+      "comments": 45,
+      "created_ts": 1790355088,
+      "author": "transitivebs"
+    },
+    {
+      "title": "Show HN: A game about fake news and memes",
+      "url": "https://unspin.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49851776",
+      "points": 15,
+      "comments": 10,
+      "created_ts": 1790381493,
+      "author": "azermite"
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "hn_url": "https://news.ycombinator.com/item?id=49849986",
+      "points": 14,
+      "comments": 2,
+      "created_ts": 1790370568,
+      "author": "kdautaj"
+    },
+    {
+      "title": "Show HN: I discovered roads in the US across > 1000 themes",
+      "url": "https://road-about-a-theme.pinedesk.biz/",
+      "hn_url": "https://news.ycombinator.com/item?id=49846409",
+      "points": 12,
+      "comments": 7,
+      "created_ts": 1790352308,
+      "author": "91awebsi"
     }
   ],
   "hn_front": [
     {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49845977",
-      "points": 401,
-      "comments": 712,
-      "created_ts": 1790350165,
-      "author": "cramer4next"
-    },
-    {
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "hn_url": "https://news.ycombinator.com/item?id=49843269",
-      "points": 365,
-      "comments": 136,
-      "created_ts": 1790336826,
-      "author": "yurivish"
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49849985",
+      "points": 495,
+      "comments": 301,
+      "created_ts": 1790370567,
+      "author": "specked-citrus"
     },
     {
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=49848269",
-      "points": 353,
-      "comments": 101,
+      "points": 466,
+      "comments": 117,
       "created_ts": 1790361230,
       "author": "Ardakilic"
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "hn_url": "https://news.ycombinator.com/item?id=49843174",
-      "points": 317,
-      "comments": 101,
-      "created_ts": 1790336311,
-      "author": "alentred"
-    },
-    {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49849985",
-      "points": 245,
-      "comments": 153,
-      "created_ts": 1790370567,
-      "author": "specked-citrus"
     },
     {
       "title": "First Principles Thinking",
       "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
       "hn_url": "https://news.ycombinator.com/item?id=49844736",
-      "points": 226,
-      "comments": 99,
+      "points": 266,
+      "comments": 112,
       "created_ts": 1790344537,
       "author": "sunils34"
     },
     {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=49845172",
-      "points": 162,
-      "comments": 71,
-      "created_ts": 1790346487,
-      "author": "pancomplex"
-    },
-    {
-      "title": "How we learned to stop worrying and love campus surveillance",
-      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-      "hn_url": "https://news.ycombinator.com/item?id=49849141",
-      "points": 127,
-      "comments": 78,
-      "created_ts": 1790366217,
-      "author": "cdrnsf"
-    },
-    {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "hn_url": "https://news.ycombinator.com/item?id=49848295",
-      "points": 127,
-      "comments": 24,
-      "created_ts": 1790361425,
-      "author": "behoove"
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "hn_url": "https://news.ycombinator.com/item?id=49852302",
+      "points": 237,
+      "comments": 56,
+      "created_ts": 1790386610,
+      "author": "pseudolus"
     },
     {
       "title": "Gravity seems holographic. What does that mean for reality?",
       "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
       "hn_url": "https://news.ycombinator.com/item?id=49845998",
-      "points": 123,
-      "comments": 133,
+      "points": 204,
+      "comments": 173,
       "created_ts": 1790350262,
       "author": "ibobev"
     },
     {
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49840054",
-      "points": 117,
-      "comments": 130,
-      "created_ts": 1790308751,
-      "author": "jmvldz"
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "hn_url": "https://news.ycombinator.com/item?id=49850305",
+      "points": 203,
+      "comments": 285,
+      "created_ts": 1790372216,
+      "author": "fratellobigio"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49845172",
+      "points": 203,
+      "comments": 85,
+      "created_ts": 1790346487,
+      "author": "pancomplex"
     },
     {
       "title": "Excel now supports multiple values in a single cell",
       "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
       "hn_url": "https://news.ycombinator.com/item?id=49849832",
-      "points": 110,
-      "comments": 83,
+      "points": 193,
+      "comments": 139,
       "created_ts": 1790369700,
       "author": "luispa"
+    },
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "hn_url": "https://news.ycombinator.com/item?id=49852065",
+      "points": 180,
+      "comments": 78,
+      "created_ts": 1790384342,
+      "author": "HotGarbage"
+    },
+    {
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "hn_url": "https://news.ycombinator.com/item?id=49852717",
+      "points": 142,
+      "comments": 172,
+      "created_ts": 1790390814,
+      "author": "srcreigh"
+    },
+    {
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "hn_url": "https://news.ycombinator.com/item?id=49848955",
+      "points": 126,
+      "comments": 118,
+      "created_ts": 1790365075,
+      "author": "mlaux"
     }
   ],
   "ph_today": [
     {
-      "title": "ShroomPen",
-      "url": "https://www.producthunt.com/products/shroompen",
+      "title": "Kleanly",
+      "url": "https://www.producthunt.com/products/kleanly",
       "tagline": "",
-      "pub_date": "2026-09-21T19:41:06-07:00"
+      "pub_date": "2026-09-18T18:42:25-07:00"
     },
     {
-      "title": "SocialGPT",
-      "url": "https://www.producthunt.com/products/socialgpt",
+      "title": "SOUND",
+      "url": "https://www.producthunt.com/products/sound",
       "tagline": "",
-      "pub_date": "2026-09-24T17:50:36-07:00"
+      "pub_date": "2026-09-18T04:40:22-07:00"
     },
     {
-      "title": "Howseen AI",
-      "url": "https://www.producthunt.com/products/howseen-ai",
+      "title": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2",
       "tagline": "",
-      "pub_date": "2026-09-18T08:29:54-07:00"
+      "pub_date": "2026-09-17T23:58:09-07:00"
     },
     {
-      "title": "Wand",
-      "url": "https://www.producthunt.com/products/wand-6",
+      "title": "Paragraph Notes",
+      "url": "https://www.producthunt.com/products/paragraph-notes",
       "tagline": "",
-      "pub_date": "2026-09-24T19:17:21-07:00"
+      "pub_date": "2026-09-07T09:31:09-07:00"
     },
     {
-      "title": "DEV·TV",
-      "url": "https://www.producthunt.com/products/dev-tv",
+      "title": "Psst",
+      "url": "https://www.producthunt.com/products/psst-3",
       "tagline": "",
-      "pub_date": "2026-09-24T07:29:20-07:00"
+      "pub_date": "2026-09-03T11:48:30-07:00"
     },
     {
-      "title": "10xJoy",
-      "url": "https://www.producthunt.com/products/10xjoy",
+      "title": "GoodSocials",
+      "url": "https://www.producthunt.com/products/goodsocials",
       "tagline": "",
-      "pub_date": "2026-09-24T23:47:02-07:00"
+      "pub_date": "2026-09-25T03:43:48-07:00"
     },
     {
-      "title": "Quiver GTM",
-      "url": "https://www.producthunt.com/products/quiver-gtm",
+      "title": "Eclatira",
+      "url": "https://www.producthunt.com/products/eclatira",
       "tagline": "",
-      "pub_date": "2026-09-23T18:50:08-07:00"
+      "pub_date": "2026-08-31T09:07:06-07:00"
+    },
+    {
+      "title": "Fewer",
+      "url": "https://www.producthunt.com/products/fewer",
+      "tagline": "",
+      "pub_date": "2026-09-21T08:37:50-07:00"
+    },
+    {
+      "title": "Lisen",
+      "url": "https://www.producthunt.com/products/lisen",
+      "tagline": "",
+      "pub_date": "2026-09-22T23:59:19-07:00"
+    },
+    {
+      "title": "MakerMap",
+      "url": "https://www.producthunt.com/products/makermap",
+      "tagline": "",
+      "pub_date": "2026-09-25T16:58:29-07:00"
+    },
+    {
+      "title": "Hemory",
+      "url": "https://www.producthunt.com/products/hemory",
+      "tagline": "",
+      "pub_date": "2026-09-22T08:16:05-07:00"
+    },
+    {
+      "title": "Forkest",
+      "url": "https://www.producthunt.com/products/forkest",
+      "tagline": "",
+      "pub_date": "2026-09-24T14:18:23-07:00"
+    },
+    {
+      "title": "Decktly",
+      "url": "https://www.producthunt.com/products/decktly",
+      "tagline": "",
+      "pub_date": "2026-09-24T11:54:08-07:00"
     },
     {
       "title": "Bleetz Network",
@@ -218,16 +245,10 @@
       "pub_date": "2026-09-23T11:37:04-07:00"
     },
     {
-      "title": "RemoteConsole",
-      "url": "https://www.producthunt.com/products/remoteconsole",
+      "title": "HireOtto",
+      "url": "https://www.producthunt.com/products/hireotto",
       "tagline": "",
-      "pub_date": "2026-09-24T02:20:27-07:00"
-    },
-    {
-      "title": "COOLDOWN",
-      "url": "https://www.producthunt.com/products/cooldown-5",
-      "tagline": "",
-      "pub_date": "2026-09-24T03:50:49-07:00"
+      "pub_date": "2026-09-24T01:10:10-07:00"
     },
     {
       "title": "Evvery",
@@ -236,34 +257,28 @@
       "pub_date": "2026-09-14T18:33:31-07:00"
     },
     {
-      "title": "Aks.ai",
-      "url": "https://www.producthunt.com/products/aks-ai",
+      "title": "Fivemetrics",
+      "url": "https://www.producthunt.com/products/fivemetrics",
       "tagline": "",
-      "pub_date": "2026-09-23T07:53:06-07:00"
+      "pub_date": "2026-09-17T01:35:17-07:00"
     },
     {
-      "title": "Stimly",
-      "url": "https://www.producthunt.com/products/stimly",
+      "title": "World Signal",
+      "url": "https://www.producthunt.com/products/world-signal",
       "tagline": "",
-      "pub_date": "2026-09-24T16:40:41-07:00"
+      "pub_date": "2026-09-18T02:35:44-07:00"
     },
     {
-      "title": "NexusAXI",
-      "url": "https://www.producthunt.com/products/nexusaxi",
+      "title": "Promptic",
+      "url": "https://www.producthunt.com/products/promptic-3",
       "tagline": "",
-      "pub_date": "2026-09-19T03:22:50-07:00"
+      "pub_date": "2026-09-17T05:06:48-07:00"
     },
     {
-      "title": "UIDCaption",
-      "url": "https://www.producthunt.com/products/uidcaption",
+      "title": "RemoteConsole",
+      "url": "https://www.producthunt.com/products/remoteconsole",
       "tagline": "",
-      "pub_date": "2026-09-24T10:15:54-07:00"
-    },
-    {
-      "title": "JevForAgents",
-      "url": "https://www.producthunt.com/products/jevforagents",
-      "tagline": "",
-      "pub_date": "2026-09-24T01:16:05-07:00"
+      "pub_date": "2026-09-24T02:20:27-07:00"
     },
     {
       "title": "FinalFrame",
@@ -272,34 +287,40 @@
       "pub_date": "2026-09-08T03:33:54-07:00"
     },
     {
+      "title": "layernote",
+      "url": "https://www.producthunt.com/products/layernote",
+      "tagline": "",
+      "pub_date": "2026-09-24T03:00:44-07:00"
+    },
+    {
+      "title": "DEV·TV",
+      "url": "https://www.producthunt.com/products/dev-tv",
+      "tagline": "",
+      "pub_date": "2026-09-24T07:29:20-07:00"
+    },
+    {
+      "title": "Howseen AI",
+      "url": "https://www.producthunt.com/products/howseen-ai",
+      "tagline": "",
+      "pub_date": "2026-09-18T08:29:54-07:00"
+    },
+    {
       "title": "LaterOn v2: The agentic email plaftform",
       "url": "https://www.producthunt.com/products/lateron-email",
       "tagline": "",
       "pub_date": "2026-09-22T21:57:38-07:00"
     },
     {
-      "title": "DemoScreen",
-      "url": "https://www.producthunt.com/products/demoscreen",
+      "title": "Jango",
+      "url": "https://www.producthunt.com/products/jango",
       "tagline": "",
-      "pub_date": "2026-09-24T03:35:43-07:00"
+      "pub_date": "2026-09-24T19:16:38-07:00"
     },
     {
-      "title": "AgreeGuard",
-      "url": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
+      "title": "Donna",
+      "url": "https://www.producthunt.com/products/donna-4",
       "tagline": "",
-      "pub_date": "2026-09-22T13:11:59-07:00"
-    },
-    {
-      "title": "Kairn",
-      "url": "https://www.producthunt.com/products/kairn-2",
-      "tagline": "",
-      "pub_date": "2026-09-21T21:06:05-07:00"
-    },
-    {
-      "title": "Once UI 2.0",
-      "url": "https://www.producthunt.com/products/once-ui-for-figma",
-      "tagline": "",
-      "pub_date": "2026-09-24T16:05:08-07:00"
+      "pub_date": "2026-09-22T12:59:44-07:00"
     },
     {
       "title": "Basedash MCP write",
@@ -314,40 +335,10 @@
       "pub_date": "2026-09-22T18:58:30-07:00"
     },
     {
-      "title": "Promptic",
-      "url": "https://www.producthunt.com/products/promptic-3",
+      "title": "Once UI 2.0",
+      "url": "https://www.producthunt.com/products/once-ui-for-figma",
       "tagline": "",
-      "pub_date": "2026-09-17T05:06:48-07:00"
-    },
-    {
-      "title": "Donna",
-      "url": "https://www.producthunt.com/products/donna-4",
-      "tagline": "",
-      "pub_date": "2026-09-22T12:59:44-07:00"
-    },
-    {
-      "title": "Jango",
-      "url": "https://www.producthunt.com/products/jango",
-      "tagline": "",
-      "pub_date": "2026-09-24T19:16:38-07:00"
-    },
-    {
-      "title": "Designeer",
-      "url": "https://www.producthunt.com/products/designeer",
-      "tagline": "",
-      "pub_date": "2026-09-21T11:06:08-07:00"
-    },
-    {
-      "title": "FLYBOX",
-      "url": "https://www.producthunt.com/products/flybox-2",
-      "tagline": "",
-      "pub_date": "2026-09-24T11:32:19-07:00"
-    },
-    {
-      "title": "Relium",
-      "url": "https://www.producthunt.com/products/relium",
-      "tagline": "",
-      "pub_date": "2026-09-21T12:07:19-07:00"
+      "pub_date": "2026-09-24T16:05:08-07:00"
     }
   ]
 }

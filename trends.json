@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:54:01.912Z",
+  "generated_at": "2026-09-27T11:07:23.978Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "hn_url": "https://news.ycombinator.com/item?id=49858513",
-      "points": 201,
-      "comments": 57,
+      "points": 318,
+      "comments": 85,
       "created_ts": 1790442640,
       "author": "jpwalsh234"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: A Claude Code skill to analyze your chess games",
       "url": "https://github.com/brumar/chess-postmortem-skills",
       "hn_url": "https://news.ycombinator.com/item?id=49857528",
-      "points": 72,
+      "points": 73,
       "comments": 53,
       "created_ts": 1790436893,
       "author": "brumar"
@@ -25,7 +25,7 @@
       "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
       "url": "https://github.com/stormj-UH/spivak-lean",
       "hn_url": "https://news.ycombinator.com/item?id=49858409",
-      "points": 12,
+      "points": 16,
       "comments": 2,
       "created_ts": 1790442023,
       "author": "jsLavaGoat"
@@ -33,29 +33,11 @@
   ],
   "hn_front": [
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "hn_url": "https://news.ycombinator.com/item?id=49855315",
-      "points": 647,
-      "comments": 256,
-      "created_ts": 1790420156,
-      "author": "ezst"
-    },
-    {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "hn_url": "https://news.ycombinator.com/item?id=49854693",
-      "points": 350,
-      "comments": 90,
-      "created_ts": 1790414021,
-      "author": "ksec"
-    },
-    {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "hn_url": "https://news.ycombinator.com/item?id=49858513",
-      "points": 201,
-      "comments": 57,
+      "points": 318,
+      "comments": 85,
       "created_ts": 1790442640,
       "author": "jpwalsh234"
     },
@@ -63,42 +45,111 @@
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
       "hn_url": "https://news.ycombinator.com/item?id=49859112",
-      "points": 168,
-      "comments": 53,
+      "points": 255,
+      "comments": 85,
       "created_ts": 1790446961,
       "author": "shenli3514"
     },
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "hn_url": "https://news.ycombinator.com/item?id=49854875",
-      "points": 166,
-      "comments": 217,
-      "created_ts": 1790415718,
-      "author": "signa11"
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "hn_url": "https://news.ycombinator.com/item?id=49863864",
+      "points": 239,
+      "comments": 203,
+      "created_ts": 1790489973,
+      "author": "papergirl"
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "hn_url": "https://news.ycombinator.com/item?id=49856988",
+      "points": 232,
+      "comments": 91,
+      "created_ts": 1790433289,
+      "author": "chmaynard"
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "hn_url": "https://news.ycombinator.com/item?id=49864642",
+      "points": 184,
+      "comments": 99,
+      "created_ts": 1790498644,
+      "author": "rbanffy"
+    },
+    {
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "hn_url": "https://news.ycombinator.com/item?id=49862809",
+      "points": 178,
+      "comments": 60,
+      "created_ts": 1790476826,
+      "author": "kspacewalk2"
     },
     {
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "hn_url": "https://news.ycombinator.com/item?id=49857729",
-      "points": 113,
-      "comments": 32,
+      "points": 156,
+      "comments": 42,
       "created_ts": 1790438194,
       "author": "parasitid"
     }
   ],
   "ph_today": [
     {
+      "title": "Superhuman Go",
+      "url": "https://www.producthunt.com/products/superhuman-go",
+      "tagline": "",
+      "pub_date": "2026-09-21T23:48:30-07:00"
+    },
+    {
+      "title": "KiwiDesk",
+      "url": "https://www.producthunt.com/products/kiwidesk",
+      "tagline": "",
+      "pub_date": "2026-09-13T09:31:36-07:00"
+    },
+    {
+      "title": "Clicks Communicator",
+      "url": "https://www.producthunt.com/products/clicks",
+      "tagline": "",
+      "pub_date": "2026-09-20T22:16:54-07:00"
+    },
+    {
+      "title": "Cuey",
+      "url": "https://www.producthunt.com/products/cuey-2",
+      "tagline": "",
+      "pub_date": "2026-07-22T14:39:59-07:00"
+    },
+    {
+      "title": "Harmony",
+      "url": "https://www.producthunt.com/products/harmony-it",
+      "tagline": "",
+      "pub_date": "2026-09-19T07:01:14-07:00"
+    },
+    {
+      "title": "GPT-6 Sol &amp; Luna",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-09-22T14:59:44-07:00"
+    },
+    {
+      "title": "Humalike x GTA RP",
+      "url": "https://www.producthunt.com/products/humalike-2",
+      "tagline": "",
+      "pub_date": "2026-09-01T10:19:53-07:00"
+    },
+    {
+      "title": "Lisen",
+      "url": "https://www.producthunt.com/products/lisen",
+      "tagline": "",
+      "pub_date": "2026-09-22T23:59:19-07:00"
+    },
+    {
       "title": "Hemory",
       "url": "https://www.producthunt.com/products/hemory",
       "tagline": "",
       "pub_date": "2026-09-22T08:16:05-07:00"
-    },
-    {
-      "title": "Fewer",
-      "url": "https://www.producthunt.com/products/fewer",
-      "tagline": "",
-      "pub_date": "2026-09-21T08:37:50-07:00"
     },
     {
       "title": "Kleanly",
@@ -113,10 +164,22 @@
       "pub_date": "2026-09-03T11:48:30-07:00"
     },
     {
+      "title": "Fewer",
+      "url": "https://www.producthunt.com/products/fewer",
+      "tagline": "",
+      "pub_date": "2026-09-21T08:37:50-07:00"
+    },
+    {
       "title": "Paragraph Notes",
       "url": "https://www.producthunt.com/products/paragraph-notes",
       "tagline": "",
       "pub_date": "2026-09-07T09:31:09-07:00"
+    },
+    {
+      "title": "MakerMap",
+      "url": "https://www.producthunt.com/products/makermap",
+      "tagline": "",
+      "pub_date": "2026-09-25T16:58:29-07:00"
     },
     {
       "title": "Eclatira",
@@ -143,130 +206,76 @@
       "pub_date": "2026-09-25T03:43:48-07:00"
     },
     {
-      "title": "MakerMap",
-      "url": "https://www.producthunt.com/products/makermap",
+      "title": "shadow-planner",
+      "url": "https://www.producthunt.com/products/shadow-planner",
       "tagline": "",
-      "pub_date": "2026-09-25T16:58:29-07:00"
+      "pub_date": "2026-08-23T03:08:25-07:00"
     },
     {
-      "title": "Lisen",
-      "url": "https://www.producthunt.com/products/lisen",
+      "title": "WebDecoy for Vercel",
+      "url": "https://www.producthunt.com/products/webdecoy",
       "tagline": "",
-      "pub_date": "2026-09-22T23:59:19-07:00"
+      "pub_date": "2026-09-21T16:53:56-07:00"
     },
     {
-      "title": "FRCTL",
-      "url": "https://www.producthunt.com/products/frctl",
+      "title": "InfraGrid3D",
+      "url": "https://www.producthunt.com/products/infragrid3d-civil-engineering-design",
       "tagline": "",
-      "pub_date": "2026-09-20T22:27:25-07:00"
+      "pub_date": "2026-09-24T15:29:24-07:00"
     },
     {
-      "title": "Once UI 2.0",
-      "url": "https://www.producthunt.com/products/once-ui-for-figma",
+      "title": "Tellwe",
+      "url": "https://www.producthunt.com/products/tellwe",
       "tagline": "",
-      "pub_date": "2026-09-24T16:05:08-07:00"
+      "pub_date": "2026-09-24T22:54:02-07:00"
     },
     {
-      "title": "Fit Receipt",
-      "url": "https://www.producthunt.com/products/fit-receipt",
+      "title": "Token Forecaster",
+      "url": "https://www.producthunt.com/products/token-forecaster",
       "tagline": "",
-      "pub_date": "2026-09-21T08:39:21-07:00"
+      "pub_date": "2026-09-24T21:40:57-07:00"
     },
     {
-      "title": "Kapshot",
-      "url": "https://www.producthunt.com/products/kapshot",
+      "title": "MIDIpad",
+      "url": "https://www.producthunt.com/products/midipad",
       "tagline": "",
-      "pub_date": "2026-09-24T03:25:27-07:00"
+      "pub_date": "2026-09-08T04:45:08-07:00"
     },
     {
-      "title": "Kaiku",
-      "url": "https://www.producthunt.com/products/kaiku",
+      "title": "AgreeGuard",
+      "url": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
       "tagline": "",
-      "pub_date": "2026-09-22T18:58:30-07:00"
+      "pub_date": "2026-09-22T13:11:59-07:00"
     },
     {
-      "title": "Basedash MCP write",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "World Signal",
+      "url": "https://www.producthunt.com/products/world-signal",
       "tagline": "",
-      "pub_date": "2026-09-24T15:20:29-07:00"
+      "pub_date": "2026-09-18T02:35:44-07:00"
     },
     {
-      "title": "Donna",
-      "url": "https://www.producthunt.com/products/donna-4",
+      "title": "Decktly",
+      "url": "https://www.producthunt.com/products/decktly",
       "tagline": "",
-      "pub_date": "2026-09-22T12:59:44-07:00"
+      "pub_date": "2026-09-24T11:54:08-07:00"
     },
     {
-      "title": "Jango",
-      "url": "https://www.producthunt.com/products/jango",
+      "title": "Fivemetrics",
+      "url": "https://www.producthunt.com/products/fivemetrics",
       "tagline": "",
-      "pub_date": "2026-09-24T19:16:38-07:00"
+      "pub_date": "2026-09-17T01:35:17-07:00"
     },
     {
-      "title": "ShroomPen",
-      "url": "https://www.producthunt.com/products/shroompen",
+      "title": "OmniNotch",
+      "url": "https://www.producthunt.com/products/omninotch",
       "tagline": "",
-      "pub_date": "2026-09-21T19:41:06-07:00"
+      "pub_date": "2026-09-20T13:50:25-07:00"
     },
     {
-      "title": "Promptic",
-      "url": "https://www.producthunt.com/products/promptic-3",
+      "title": "CrbonFree",
+      "url": "https://www.producthunt.com/products/crbonfree",
       "tagline": "",
-      "pub_date": "2026-09-17T05:06:48-07:00"
-    },
-    {
-      "title": "Howseen AI",
-      "url": "https://www.producthunt.com/products/howseen-ai",
-      "tagline": "",
-      "pub_date": "2026-09-18T08:29:54-07:00"
-    },
-    {
-      "title": "Wand",
-      "url": "https://www.producthunt.com/products/wand-6",
-      "tagline": "",
-      "pub_date": "2026-09-24T19:17:21-07:00"
-    },
-    {
-      "title": "Designeer",
-      "url": "https://www.producthunt.com/products/designeer",
-      "tagline": "",
-      "pub_date": "2026-09-21T11:06:08-07:00"
-    },
-    {
-      "title": "DEV·TV",
-      "url": "https://www.producthunt.com/products/dev-tv",
-      "tagline": "",
-      "pub_date": "2026-09-24T07:29:20-07:00"
-    },
-    {
-      "title": "10xJoy",
-      "url": "https://www.producthunt.com/products/10xjoy",
-      "tagline": "",
-      "pub_date": "2026-09-24T23:47:02-07:00"
-    },
-    {
-      "title": "Quiver GTM",
-      "url": "https://www.producthunt.com/products/quiver-gtm",
-      "tagline": "",
-      "pub_date": "2026-09-23T18:50:08-07:00"
-    },
-    {
-      "title": "Bleetz Network",
-      "url": "https://www.producthunt.com/products/bleetz-network",
-      "tagline": "",
-      "pub_date": "2026-09-23T11:37:04-07:00"
-    },
-    {
-      "title": "PixVerse R2",
-      "url": "https://www.producthunt.com/products/pixverse-r2",
-      "tagline": "",
-      "pub_date": "2026-09-23T02:26:05-07:00"
-    },
-    {
-      "title": "Kairn",
-      "url": "https://www.producthunt.com/products/kairn-2",
-      "tagline": "",
-      "pub_date": "2026-09-21T21:06:05-07:00"
+      "pub_date": "2026-09-21T10:32:44-07:00"
     }
   ]
 }

@@ -1,293 +1,161 @@
 {
-  "generated_at": "2026-09-29T11:53:57.512Z",
+  "generated_at": "2026-09-29T17:23:56.631Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-      "url": "https://hn.watch/",
-      "hn_url": "https://news.ycombinator.com/item?id=49879401",
-      "points": 194,
-      "comments": 96,
-      "created_ts": 1790608573,
-      "author": "mrborgen"
-    },
-    {
-      "title": "Show HN: Destroy Any Website with Stickman",
-      "url": "https://destroy.spritefusion.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49880601",
-      "points": 145,
-      "comments": 36,
-      "created_ts": 1790613088,
-      "author": "HugoDz"
-    },
-    {
-      "title": "Show HN: Hntui – A TUI for Hacker News",
-      "url": "https://github.com/ahmd-sh/hntui",
-      "hn_url": "https://news.ycombinator.com/item?id=49876760",
-      "points": 110,
-      "comments": 64,
-      "created_ts": 1790597480,
-      "author": "ahmd-sh"
-    },
-    {
       "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
       "url": "https://jonclegg.github.io/pacman-bakeoff/",
       "hn_url": "https://news.ycombinator.com/item?id=49885493",
-      "points": 67,
-      "comments": 41,
+      "points": 77,
+      "comments": 46,
       "created_ts": 1790635392,
       "author": "thefourthchime"
     },
     {
-      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-      "url": "https://www.openappa.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49877515",
-      "points": 23,
-      "comments": 12,
-      "created_ts": 1790601644,
-      "author": "motakuk"
+      "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "hn_url": "https://news.ycombinator.com/item?id=49890647",
+      "points": 49,
+      "comments": 43,
+      "created_ts": 1790675904,
+      "author": "cyfyifanchen"
     },
     {
-      "title": "Show HN: Durable Actor Session Protocol",
-      "url": "https://dasp-protocol.github.io/dasp/",
-      "hn_url": "https://news.ycombinator.com/item?id=49877270",
-      "points": 16,
-      "comments": 7,
-      "created_ts": 1790600413,
-      "author": "mikehostetler"
+      "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+      "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+      "hn_url": "https://news.ycombinator.com/item?id=49891769",
+      "points": 36,
+      "comments": 5,
+      "created_ts": 1790683507,
+      "author": "tgluck"
+    },
+    {
+      "title": "Show HN: NSL – WSL for Linux",
+      "url": "https://frostyard.github.io/nsl/",
+      "hn_url": "https://news.ycombinator.com/item?id=49894351",
+      "points": 27,
+      "comments": 26,
+      "created_ts": 1790693496,
+      "author": "bketelsen"
     }
   ],
   "hn_front": [
     {
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "hn_url": "https://news.ycombinator.com/item?id=49881850",
-      "points": 824,
-      "comments": 552,
-      "created_ts": 1790618291,
-      "author": "D2OQZG8l5BI1S06"
+      "title": "You are no longer invited to dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "hn_url": "https://news.ycombinator.com/item?id=49891295",
+      "points": 542,
+      "comments": 478,
+      "created_ts": 1790680485,
+      "author": "barry-cotter"
     },
     {
-      "title": "Updated Google Maps shows destruction of the city of Rafah",
-      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "hn_url": "https://news.ycombinator.com/item?id=49879645",
-      "points": 642,
-      "comments": 520,
-      "created_ts": 1790609538,
-      "author": "slowin"
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "hn_url": "https://news.ycombinator.com/item?id=49891480",
+      "points": 376,
+      "comments": 232,
+      "created_ts": 1790681718,
+      "author": "ilamont"
     },
     {
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "hn_url": "https://news.ycombinator.com/item?id=49880036",
-      "points": 612,
-      "comments": 310,
-      "created_ts": 1790610855,
-      "author": "piotrgrabowski"
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "hn_url": "https://news.ycombinator.com/item?id=49883844",
-      "points": 516,
-      "comments": 196,
-      "created_ts": 1790627016,
-      "author": "firelex"
-    },
-    {
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "url": "https://www.thisamericanlife.org/897/transcript",
-      "hn_url": "https://news.ycombinator.com/item?id=49879697",
-      "points": 428,
-      "comments": 226,
-      "created_ts": 1790609709,
-      "author": "simonpure"
-    },
-    {
-      "title": "World Labs is Joining AMD",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "hn_url": "https://news.ycombinator.com/item?id=49883760",
-      "points": 284,
-      "comments": 111,
-      "created_ts": 1790626685,
-      "author": "mfiguiere"
-    },
-    {
-      "title": "Hijacking the PS5's RTMP stream",
-      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "hn_url": "https://news.ycombinator.com/item?id=49879702",
-      "points": 264,
-      "comments": 87,
-      "created_ts": 1790609723,
-      "author": "ibobev"
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "hn_url": "https://news.ycombinator.com/item?id=49882781",
-      "points": 254,
-      "comments": 88,
-      "created_ts": 1790621933,
-      "author": "logicallee"
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49890226",
+      "points": 372,
+      "comments": 121,
+      "created_ts": 1790672621,
+      "author": "damaru2"
     },
     {
       "title": "California farmers are struggling to sell grapes as demand for wine drops",
       "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
       "hn_url": "https://news.ycombinator.com/item?id=49883539",
-      "points": 252,
-      "comments": 641,
+      "points": 341,
+      "comments": 820,
       "created_ts": 1790625606,
       "author": "randycupertino"
     },
     {
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "hn_url": "https://news.ycombinator.com/item?id=49877678",
-      "points": 244,
-      "comments": 302,
-      "created_ts": 1790602254,
-      "author": "p-s-v"
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "hn_url": "https://news.ycombinator.com/item?id=49894005",
+      "points": 310,
+      "comments": 215,
+      "created_ts": 1790692353,
+      "author": "SquareOrbits"
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49879883",
-      "points": 189,
-      "comments": 235,
-      "created_ts": 1790610396,
-      "author": "jonbaer"
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "hn_url": "https://news.ycombinator.com/item?id=49892245",
+      "points": 299,
+      "comments": 172,
+      "created_ts": 1790685809,
+      "author": "rbanffy"
     },
     {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "hn_url": "https://news.ycombinator.com/item?id=49880411",
-      "points": 163,
-      "comments": 21,
-      "created_ts": 1790612337,
-      "author": "evakhoury"
-    },
-    {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49890226",
-      "points": 146,
-      "comments": 35,
-      "created_ts": 1790672621,
-      "author": "damaru2"
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "hn_url": "https://news.ycombinator.com/item?id=49891290",
+      "points": 178,
+      "comments": 75,
+      "created_ts": 1790680434,
+      "author": "nicowaltz"
     },
     {
       "title": "Tank Body Problem",
       "url": "http://www.jimsitu.com",
       "hn_url": "https://news.ycombinator.com/item?id=49886482",
-      "points": 128,
-      "comments": 30,
+      "points": 171,
+      "comments": 40,
       "created_ts": 1790642505,
       "author": "jimbooonooo"
     },
     {
-      "title": "Scientists solve 1840s space weather mystery",
-      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "hn_url": "https://news.ycombinator.com/item?id=49883536",
-      "points": 112,
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49890051",
+      "points": 136,
       "comments": 48,
-      "created_ts": 1790625603,
-      "author": "gumby"
+      "created_ts": 1790671237,
+      "author": "czoido"
     },
     {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "hn_url": "https://news.ycombinator.com/item?id=49884625",
-      "points": 108,
-      "comments": 23,
-      "created_ts": 1790630801,
-      "author": "nkko"
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "url": "https://www.cbc.ca/lite/story/9.7361622",
+      "hn_url": "https://news.ycombinator.com/item?id=49892120",
+      "points": 135,
+      "comments": 87,
+      "created_ts": 1790685230,
+      "author": "colinprince"
+    },
+    {
+      "title": "GPT 6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49896586",
+      "points": 135,
+      "comments": 63,
+      "created_ts": 1790701605,
+      "author": "crorella"
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "hn_url": "https://news.ycombinator.com/item?id=49893653",
+      "points": 105,
+      "comments": 77,
+      "created_ts": 1790691135,
+      "author": "rbanffy"
     }
   ],
   "ph_today": [
     {
-      "title": "LUCI Desktop",
-      "url": "https://www.producthunt.com/products/luci-desktop",
+      "title": "GroupShelf",
+      "url": "https://www.producthunt.com/products/groupshelf",
       "tagline": "",
-      "pub_date": "2026-09-19T22:10:19-07:00"
-    },
-    {
-      "title": "Arsaze",
-      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
-      "tagline": "",
-      "pub_date": "2026-09-27T09:56:45-07:00"
-    },
-    {
-      "title": "Supertake",
-      "url": "https://www.producthunt.com/products/supertake",
-      "tagline": "",
-      "pub_date": "2026-09-28T19:05:11-07:00"
-    },
-    {
-      "title": "Gladys Assistant 5",
-      "url": "https://www.producthunt.com/products/gladys-assistant",
-      "tagline": "",
-      "pub_date": "2026-09-28T08:17:40-07:00"
-    },
-    {
-      "title": "ShipHappens:",
-      "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization",
-      "tagline": "",
-      "pub_date": "2026-09-28T16:43:10-07:00"
-    },
-    {
-      "title": "Would you pay?",
-      "url": "https://www.producthunt.com/products/would-you-pay",
-      "tagline": "",
-      "pub_date": "2026-09-28T07:35:04-07:00"
-    },
-    {
-      "title": "Pokébinder",
-      "url": "https://www.producthunt.com/products/pokebinder",
-      "tagline": "",
-      "pub_date": "2026-09-16T02:15:27-07:00"
-    },
-    {
-      "title": "ooon.ai",
-      "url": "https://www.producthunt.com/products/ooon-ai",
-      "tagline": "",
-      "pub_date": "2026-09-19T15:05:34-07:00"
-    },
-    {
-      "title": "ZenABM - Create LinkedIn Ads with AI",
-      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
-      "tagline": "",
-      "pub_date": "2026-09-25T15:31:56-07:00"
-    },
-    {
-      "title": "Declutr",
-      "url": "https://www.producthunt.com/products/declutr",
-      "tagline": "",
-      "pub_date": "2026-09-24T08:33:36-07:00"
-    },
-    {
-      "title": "Hopscotch AI",
-      "url": "https://www.producthunt.com/products/hopscotch-7",
-      "tagline": "",
-      "pub_date": "2026-09-21T08:42:28-07:00"
-    },
-    {
-      "title": "ColdIQ x Slack",
-      "url": "https://www.producthunt.com/products/coldiq-x-slack",
-      "tagline": "",
-      "pub_date": "2026-09-23T04:06:48-07:00"
-    },
-    {
-      "title": "Curie",
-      "url": "https://www.producthunt.com/products/curie-4",
-      "tagline": "",
-      "pub_date": "2026-09-09T10:29:29-07:00"
-    },
-    {
-      "title": "Jotform Sign for ChatGPT and Claude",
-      "url": "https://www.producthunt.com/products/jotform",
-      "tagline": "",
-      "pub_date": "2026-09-17T05:01:24-07:00"
+      "pub_date": "2026-09-26T09:31:13-07:00"
     },
     {
       "title": "Clink",
@@ -296,82 +164,22 @@
       "pub_date": "2026-09-28T05:11:38-07:00"
     },
     {
-      "title": "Enter Space 7",
-      "url": "https://www.producthunt.com/products/enter-space",
+      "title": "Declutr",
+      "url": "https://www.producthunt.com/products/declutr",
       "tagline": "",
-      "pub_date": "2026-09-22T12:31:17-07:00"
+      "pub_date": "2026-09-24T08:33:36-07:00"
     },
     {
-      "title": "FFFFinder",
-      "url": "https://www.producthunt.com/products/ffffinder",
+      "title": "ooon.ai",
+      "url": "https://www.producthunt.com/products/ooon-ai",
       "tagline": "",
-      "pub_date": "2026-09-26T08:19:39-07:00"
-    },
-    {
-      "title": "Paste 7",
-      "url": "https://www.producthunt.com/products/paste",
-      "tagline": "",
-      "pub_date": "2026-09-11T05:52:29-07:00"
+      "pub_date": "2026-09-19T15:05:34-07:00"
     },
     {
       "title": "Flotnote",
       "url": "https://www.producthunt.com/products/flotnote",
       "tagline": "",
       "pub_date": "2026-09-03T01:37:44-07:00"
-    },
-    {
-      "title": "Timeful",
-      "url": "https://www.producthunt.com/products/timeful",
-      "tagline": "",
-      "pub_date": "2026-09-28T06:17:05-07:00"
-    },
-    {
-      "title": "Imejis.io",
-      "url": "https://www.producthunt.com/products/imejis-io",
-      "tagline": "",
-      "pub_date": "2026-08-17T03:42:00-07:00"
-    },
-    {
-      "title": "GroupShelf",
-      "url": "https://www.producthunt.com/products/groupshelf",
-      "tagline": "",
-      "pub_date": "2026-09-26T09:31:13-07:00"
-    },
-    {
-      "title": "Ricly",
-      "url": "https://www.producthunt.com/products/ricly",
-      "tagline": "",
-      "pub_date": "2026-09-21T06:32:13-07:00"
-    },
-    {
-      "title": "Codex Remote",
-      "url": "https://www.producthunt.com/products/codex-remote",
-      "tagline": "",
-      "pub_date": "2026-09-28T02:56:03-07:00"
-    },
-    {
-      "title": "Timeless Code",
-      "url": "https://www.producthunt.com/products/timeos",
-      "tagline": "",
-      "pub_date": "2026-09-28T03:37:27-07:00"
-    },
-    {
-      "title": "Claude Sonnet 5.5",
-      "url": "https://www.producthunt.com/products/claude",
-      "tagline": "",
-      "pub_date": "2026-09-28T11:27:48-07:00"
-    },
-    {
-      "title": "GhostDeck",
-      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
-      "tagline": "",
-      "pub_date": "2026-09-27T23:30:53-07:00"
-    },
-    {
-      "title": "Szept",
-      "url": "https://www.producthunt.com/products/szept",
-      "tagline": "",
-      "pub_date": "2026-09-24T04:58:29-07:00"
     },
     {
       "title": "Semos.ai Manager Agents",
@@ -384,6 +192,144 @@
       "url": "https://www.producthunt.com/products/engine-room-media",
       "tagline": "",
       "pub_date": "2026-09-16T05:48:40-07:00"
+    },
+    {
+      "title": "Gladys Assistant 5",
+      "url": "https://www.producthunt.com/products/gladys-assistant",
+      "tagline": "",
+      "pub_date": "2026-09-28T08:17:40-07:00"
+    },
+    {
+      "title": "Would you pay?",
+      "url": "https://www.producthunt.com/products/would-you-pay",
+      "tagline": "",
+      "pub_date": "2026-09-28T07:35:04-07:00"
+    },
+    {
+      "title": "GhostDeck",
+      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
+      "tagline": "",
+      "pub_date": "2026-09-27T23:30:53-07:00"
+    },
+    {
+      "title": "Timeless Code",
+      "url": "https://www.producthunt.com/products/timeos",
+      "tagline": "",
+      "pub_date": "2026-09-28T03:37:27-07:00"
+    },
+    {
+      "title": "LUCI Desktop",
+      "url": "https://www.producthunt.com/products/luci-desktop",
+      "tagline": "",
+      "pub_date": "2026-09-19T22:10:19-07:00"
+    },
+    {
+      "title": "Hopscotch AI",
+      "url": "https://www.producthunt.com/products/hopscotch-7",
+      "tagline": "",
+      "pub_date": "2026-09-21T08:42:28-07:00"
+    },
+    {
+      "title": "iFixAi",
+      "url": "https://www.producthunt.com/products/ifixai",
+      "tagline": "",
+      "pub_date": "2026-09-16T11:44:42-07:00"
+    },
+    {
+      "title": "Supertake",
+      "url": "https://www.producthunt.com/products/supertake",
+      "tagline": "",
+      "pub_date": "2026-09-28T19:05:11-07:00"
+    },
+    {
+      "title": "Curie",
+      "url": "https://www.producthunt.com/products/curie-4",
+      "tagline": "",
+      "pub_date": "2026-09-09T10:29:29-07:00"
+    },
+    {
+      "title": "Imejis.io",
+      "url": "https://www.producthunt.com/products/imejis-io",
+      "tagline": "",
+      "pub_date": "2026-08-17T03:42:00-07:00"
+    },
+    {
+      "title": "Jotform Sign for ChatGPT and Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "tagline": "",
+      "pub_date": "2026-09-17T05:01:24-07:00"
+    },
+    {
+      "title": "Pokébinder",
+      "url": "https://www.producthunt.com/products/pokebinder",
+      "tagline": "",
+      "pub_date": "2026-09-16T02:15:27-07:00"
+    },
+    {
+      "title": "ZenABM",
+      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+      "tagline": "",
+      "pub_date": "2026-09-25T15:31:56-07:00"
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.producthunt.com/products/claude",
+      "tagline": "",
+      "pub_date": "2026-09-28T11:27:48-07:00"
+    },
+    {
+      "title": "Paste 7",
+      "url": "https://www.producthunt.com/products/paste",
+      "tagline": "",
+      "pub_date": "2026-09-11T05:52:29-07:00"
+    },
+    {
+      "title": "Arsaze",
+      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+      "tagline": "",
+      "pub_date": "2026-09-27T09:56:45-07:00"
+    },
+    {
+      "title": "Szept",
+      "url": "https://www.producthunt.com/products/szept",
+      "tagline": "",
+      "pub_date": "2026-09-24T04:58:29-07:00"
+    },
+    {
+      "title": "Codex Remote",
+      "url": "https://www.producthunt.com/products/codex-remote",
+      "tagline": "",
+      "pub_date": "2026-09-28T02:56:03-07:00"
+    },
+    {
+      "title": "ShipHappens:",
+      "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization",
+      "tagline": "",
+      "pub_date": "2026-09-28T16:43:10-07:00"
+    },
+    {
+      "title": "Timeful",
+      "url": "https://www.producthunt.com/products/timeful",
+      "tagline": "",
+      "pub_date": "2026-09-28T06:17:05-07:00"
+    },
+    {
+      "title": "Iris",
+      "url": "https://www.producthunt.com/products/ihermes",
+      "tagline": "",
+      "pub_date": "2026-09-18T00:10:09-07:00"
+    },
+    {
+      "title": "FFFFinder",
+      "url": "https://www.producthunt.com/products/ffffinder",
+      "tagline": "",
+      "pub_date": "2026-09-26T08:19:39-07:00"
+    },
+    {
+      "title": "Enter Space 7",
+      "url": "https://www.producthunt.com/products/enter-space",
+      "tagline": "",
+      "pub_date": "2026-09-22T12:31:17-07:00"
     }
   ]
 }

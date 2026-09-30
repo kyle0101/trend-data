@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-29T21:43:09.485Z",
+  "generated_at": "2026-09-30T03:19:53.181Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "hn_url": "https://news.ycombinator.com/item?id=49885493",
-      "points": 77,
-      "comments": 50,
-      "created_ts": 1790635392,
-      "author": "thefourthchime"
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49898778",
+      "points": 135,
+      "comments": 32,
+      "created_ts": 1790708881,
+      "author": "wanick"
     },
     {
       "title": "Show HN: NSL – WSL for Linux",
       "url": "https://frostyard.github.io/nsl/",
       "hn_url": "https://news.ycombinator.com/item?id=49894351",
-      "points": 60,
-      "comments": 48,
+      "points": 97,
+      "comments": 67,
       "created_ts": 1790693496,
       "author": "bketelsen"
     },
@@ -25,8 +25,8 @@
       "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
       "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
       "hn_url": "https://news.ycombinator.com/item?id=49891769",
-      "points": 59,
-      "comments": 8,
+      "points": 62,
+      "comments": 14,
       "created_ts": 1790683507,
       "author": "tgluck"
     },
@@ -34,73 +34,64 @@
       "title": "Show HN: Raven – The harness of harnesses, built for RSI",
       "url": "https://github.com/EverMind-AI/Raven",
       "hn_url": "https://news.ycombinator.com/item?id=49890647",
-      "points": 53,
-      "comments": 46,
+      "points": 54,
+      "comments": 49,
       "created_ts": 1790675904,
       "author": "cyfyifanchen"
-    },
-    {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "hn_url": "https://news.ycombinator.com/item?id=49898778",
-      "points": 21,
-      "comments": 7,
-      "created_ts": 1790708881,
-      "author": "wanick"
     },
     {
       "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
       "url": "https://github.com/lostmsu/TurboGPT",
       "hn_url": "https://news.ycombinator.com/item?id=49898931",
-      "points": 17,
-      "comments": 1,
+      "points": 45,
+      "comments": 10,
       "created_ts": 1790709602,
       "author": "lostmsu"
+    },
+    {
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "hn_url": "https://news.ycombinator.com/item?id=49896757",
+      "points": 42,
+      "comments": 3,
+      "created_ts": 1790702156,
+      "author": "primitivesuave"
+    },
+    {
+      "title": "Show HN: Sezwhere – Ask any document \"where does it say that?\" (built on Jev)",
+      "url": "https://sezwhere.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49894301",
+      "points": 16,
+      "comments": 4,
+      "created_ts": 1790693334,
+      "author": "irs"
     }
   ],
   "hn_front": [
     {
-      "title": "You are no longer invited to dinner",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "hn_url": "https://news.ycombinator.com/item?id=49891295",
-      "points": 674,
-      "comments": 615,
-      "created_ts": 1790680485,
-      "author": "barry-cotter"
-    },
-    {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "hn_url": "https://news.ycombinator.com/item?id=49896586",
-      "points": 658,
-      "comments": 591,
+      "points": 819,
+      "comments": 751,
       "created_ts": 1790701605,
       "author": "crorella"
     },
     {
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "hn_url": "https://news.ycombinator.com/item?id=49896050",
-      "points": 491,
-      "comments": 340,
-      "created_ts": 1790699448,
-      "author": "paimapi"
-    },
-    {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49890226",
-      "points": 397,
-      "comments": 126,
-      "created_ts": 1790672621,
-      "author": "damaru2"
+      "title": "Everybody’s home. No one’s coming over",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "hn_url": "https://news.ycombinator.com/item?id=49891295",
+      "points": 750,
+      "comments": 679,
+      "created_ts": 1790680485,
+      "author": "barry-cotter"
     },
     {
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
       "hn_url": "https://news.ycombinator.com/item?id=49896604",
-      "points": 396,
-      "comments": 304,
+      "points": 477,
+      "comments": 357,
       "created_ts": 1790701677,
       "author": "alvis"
     },
@@ -108,35 +99,35 @@
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
       "hn_url": "https://news.ycombinator.com/item?id=49892245",
-      "points": 395,
-      "comments": 227,
+      "points": 452,
+      "comments": 265,
       "created_ts": 1790685809,
       "author": "rbanffy"
     },
     {
-      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-      "url": "https://www.cbc.ca/lite/story/9.7361622",
-      "hn_url": "https://news.ycombinator.com/item?id=49892120",
-      "points": 217,
-      "comments": 122,
-      "created_ts": 1790685230,
-      "author": "colinprince"
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "hn_url": "https://news.ycombinator.com/item?id=49893509",
+      "points": 403,
+      "comments": 329,
+      "created_ts": 1790690697,
+      "author": "plesiv"
     },
     {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "hn_url": "https://news.ycombinator.com/item?id=49891290",
-      "points": 212,
-      "comments": 85,
-      "created_ts": 1790680434,
-      "author": "nicowaltz"
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "hn_url": "https://news.ycombinator.com/item?id=49901736",
+      "points": 315,
+      "comments": 136,
+      "created_ts": 1790721374,
+      "author": "bryan0"
     },
     {
       "title": "Tcl/Tk 9.1",
       "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
       "hn_url": "https://news.ycombinator.com/item?id=49896712",
-      "points": 201,
-      "comments": 64,
+      "points": 249,
+      "comments": 90,
       "created_ts": 1790702018,
       "author": "dmux"
     },
@@ -144,87 +135,72 @@
       "title": "PS5 Relapse Exploit",
       "url": "https://github.com/ntfargo/Relapse-Exploit",
       "hn_url": "https://news.ycombinator.com/item?id=49895304",
-      "points": 169,
-      "comments": 89,
+      "points": 246,
+      "comments": 133,
       "created_ts": 1790696681,
       "author": "therepanic"
     },
     {
-      "title": "Using any C++ library in Godot",
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49890051",
-      "points": 151,
-      "comments": 52,
-      "created_ts": 1790671237,
-      "author": "czoido"
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "hn_url": "https://news.ycombinator.com/item?id=49891290",
+      "points": 232,
+      "comments": 88,
+      "created_ts": 1790680434,
+      "author": "nicowaltz"
     },
     {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "hn_url": "https://news.ycombinator.com/item?id=49893509",
-      "points": 148,
-      "comments": 115,
-      "created_ts": 1790690697,
-      "author": "plesiv"
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "hn_url": "https://news.ycombinator.com/item?id=49899090",
+      "points": 183,
+      "comments": 108,
+      "created_ts": 1790710217,
+      "author": "ilamont"
     },
     {
-      "title": "Without the Hot Air",
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "hn_url": "https://news.ycombinator.com/item?id=49893157",
+      "points": 164,
+      "comments": 411,
+      "created_ts": 1790689483,
+      "author": "dan-bailey"
+    },
+    {
+      "title": "Sustainable energy without the hot air (2008)",
       "url": "https://www.withouthotair.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49892175",
-      "points": 125,
-      "comments": 65,
+      "points": 138,
+      "comments": 80,
       "created_ts": 1790685498,
       "author": "0sake_rs"
     },
     {
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "hn_url": "https://news.ycombinator.com/item?id=49897075",
-      "points": 119,
-      "comments": 88,
-      "created_ts": 1790703086,
-      "author": "Philpax"
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49898778",
+      "points": 135,
+      "comments": 32,
+      "created_ts": 1790708881,
+      "author": "wanick"
     },
     {
-      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-      "hn_url": "https://news.ycombinator.com/item?id=49898877",
-      "points": 108,
-      "comments": 75,
-      "created_ts": 1790709358,
-      "author": "zaik"
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "hn_url": "https://news.ycombinator.com/item?id=49897993",
+      "points": 110,
+      "comments": 99,
+      "created_ts": 1790705942,
+      "author": "devonnull"
     }
   ],
   "ph_today": [
-    {
-      "title": "ShipHappens:",
-      "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization",
-      "tagline": "",
-      "pub_date": "2026-09-28T16:43:10-07:00"
-    },
-    {
-      "title": "Pokébinder",
-      "url": "https://www.producthunt.com/products/pokebinder",
-      "tagline": "",
-      "pub_date": "2026-09-16T02:15:27-07:00"
-    },
     {
       "title": "Hopscotch AI",
       "url": "https://www.producthunt.com/products/hopscotch-7",
       "tagline": "",
       "pub_date": "2026-09-21T08:42:28-07:00"
-    },
-    {
-      "title": "Paste 7",
-      "url": "https://www.producthunt.com/products/paste",
-      "tagline": "",
-      "pub_date": "2026-09-11T05:52:29-07:00"
-    },
-    {
-      "title": "Claude Sonnet 5.5",
-      "url": "https://www.producthunt.com/products/claude",
-      "tagline": "",
-      "pub_date": "2026-09-28T11:27:48-07:00"
     },
     {
       "title": "iFixAi",
@@ -233,106 +209,10 @@
       "pub_date": "2026-09-16T11:44:42-07:00"
     },
     {
-      "title": "LUCI Desktop",
-      "url": "https://www.producthunt.com/products/luci-desktop",
+      "title": "Codex Remote",
+      "url": "https://www.producthunt.com/products/codex-remote",
       "tagline": "",
-      "pub_date": "2026-09-19T22:10:19-07:00"
-    },
-    {
-      "title": "Supertake",
-      "url": "https://www.producthunt.com/products/supertake",
-      "tagline": "",
-      "pub_date": "2026-09-28T19:05:11-07:00"
-    },
-    {
-      "title": "Timeful",
-      "url": "https://www.producthunt.com/products/timeful",
-      "tagline": "",
-      "pub_date": "2026-09-28T06:17:05-07:00"
-    },
-    {
-      "title": "Would you pay?",
-      "url": "https://www.producthunt.com/products/would-you-pay",
-      "tagline": "",
-      "pub_date": "2026-09-28T07:35:04-07:00"
-    },
-    {
-      "title": "Gladys Assistant 5",
-      "url": "https://www.producthunt.com/products/gladys-assistant",
-      "tagline": "",
-      "pub_date": "2026-09-28T08:17:40-07:00"
-    },
-    {
-      "title": "Curie",
-      "url": "https://www.producthunt.com/products/curie-4",
-      "tagline": "",
-      "pub_date": "2026-09-09T10:29:29-07:00"
-    },
-    {
-      "title": "ColdIQ x Slack",
-      "url": "https://www.producthunt.com/products/coldiq-x-slack",
-      "tagline": "",
-      "pub_date": "2026-09-23T04:06:48-07:00"
-    },
-    {
-      "title": "Jotform Sign for ChatGPT and Claude",
-      "url": "https://www.producthunt.com/products/jotform",
-      "tagline": "",
-      "pub_date": "2026-09-17T05:01:24-07:00"
-    },
-    {
-      "title": "GroupShelf",
-      "url": "https://www.producthunt.com/products/groupshelf",
-      "tagline": "",
-      "pub_date": "2026-09-26T09:31:13-07:00"
-    },
-    {
-      "title": "GhostDeck",
-      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
-      "tagline": "",
-      "pub_date": "2026-09-27T23:30:53-07:00"
-    },
-    {
-      "title": "Semos.ai Manager Agents",
-      "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
-      "tagline": "",
-      "pub_date": "2026-08-14T04:23:03-07:00"
-    },
-    {
-      "title": "Flotnote",
-      "url": "https://www.producthunt.com/products/flotnote",
-      "tagline": "",
-      "pub_date": "2026-09-03T01:37:44-07:00"
-    },
-    {
-      "title": "Ricly",
-      "url": "https://www.producthunt.com/products/ricly",
-      "tagline": "",
-      "pub_date": "2026-09-21T06:32:13-07:00"
-    },
-    {
-      "title": "Iris",
-      "url": "https://www.producthunt.com/products/ihermes",
-      "tagline": "",
-      "pub_date": "2026-09-18T00:10:09-07:00"
-    },
-    {
-      "title": "Enter Space 7",
-      "url": "https://www.producthunt.com/products/enter-space",
-      "tagline": "",
-      "pub_date": "2026-09-22T12:31:17-07:00"
-    },
-    {
-      "title": "Imejis.io",
-      "url": "https://www.producthunt.com/products/imejis-io",
-      "tagline": "",
-      "pub_date": "2026-08-17T03:42:00-07:00"
-    },
-    {
-      "title": "ZenABM",
-      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
-      "tagline": "",
-      "pub_date": "2026-09-25T15:31:56-07:00"
+      "pub_date": "2026-09-28T02:56:03-07:00"
     },
     {
       "title": "ooon.ai",
@@ -341,16 +221,64 @@
       "pub_date": "2026-09-19T15:05:34-07:00"
     },
     {
-      "title": "Declutr",
-      "url": "https://www.producthunt.com/products/declutr",
+      "title": "ColdIQ x Slack",
+      "url": "https://www.producthunt.com/products/coldiq-x-slack",
       "tagline": "",
-      "pub_date": "2026-09-24T08:33:36-07:00"
+      "pub_date": "2026-09-23T04:06:48-07:00"
     },
     {
-      "title": "Codex Remote",
-      "url": "https://www.producthunt.com/products/codex-remote",
+      "title": "Timeful",
+      "url": "https://www.producthunt.com/products/timeful",
       "tagline": "",
-      "pub_date": "2026-09-28T02:56:03-07:00"
+      "pub_date": "2026-09-28T06:17:05-07:00"
+    },
+    {
+      "title": "Imejis.io",
+      "url": "https://www.producthunt.com/products/imejis-io",
+      "tagline": "",
+      "pub_date": "2026-08-17T03:42:00-07:00"
+    },
+    {
+      "title": "Curie",
+      "url": "https://www.producthunt.com/products/curie-4",
+      "tagline": "",
+      "pub_date": "2026-09-09T10:29:29-07:00"
+    },
+    {
+      "title": "Pokébinder",
+      "url": "https://www.producthunt.com/products/pokebinder",
+      "tagline": "",
+      "pub_date": "2026-09-16T02:15:27-07:00"
+    },
+    {
+      "title": "Supertake",
+      "url": "https://www.producthunt.com/products/supertake",
+      "tagline": "",
+      "pub_date": "2026-09-28T19:05:11-07:00"
+    },
+    {
+      "title": "Paste 7",
+      "url": "https://www.producthunt.com/products/paste",
+      "tagline": "",
+      "pub_date": "2026-09-11T05:52:29-07:00"
+    },
+    {
+      "title": "ShipHappens:",
+      "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization",
+      "tagline": "",
+      "pub_date": "2026-09-28T16:43:10-07:00"
+    },
+    {
+      "title": "ZenABM",
+      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+      "tagline": "",
+      "pub_date": "2026-09-25T15:31:56-07:00"
+    },
+    {
+      "title": "Enter Space 7",
+      "url": "https://www.producthunt.com/products/enter-space",
+      "tagline": "",
+      "pub_date": "2026-09-22T12:31:17-07:00"
     },
     {
       "title": "Engine Room Media",
@@ -359,10 +287,58 @@
       "pub_date": "2026-09-16T05:48:40-07:00"
     },
     {
+      "title": "Semos.ai Manager Agents",
+      "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
+      "tagline": "",
+      "pub_date": "2026-08-14T04:23:03-07:00"
+    },
+    {
+      "title": "Jotform Sign for ChatGPT and Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "tagline": "",
+      "pub_date": "2026-09-17T05:01:24-07:00"
+    },
+    {
       "title": "Timeless Code",
       "url": "https://www.producthunt.com/products/timeos",
       "tagline": "",
       "pub_date": "2026-09-28T03:37:27-07:00"
+    },
+    {
+      "title": "GhostDeck",
+      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
+      "tagline": "",
+      "pub_date": "2026-09-27T23:30:53-07:00"
+    },
+    {
+      "title": "LUCI Desktop",
+      "url": "https://www.producthunt.com/products/luci-desktop",
+      "tagline": "",
+      "pub_date": "2026-09-19T22:10:19-07:00"
+    },
+    {
+      "title": "Arsaze",
+      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+      "tagline": "",
+      "pub_date": "2026-09-27T09:56:45-07:00"
+    },
+    {
+      "title": "Gladys Assistant 5",
+      "url": "https://www.producthunt.com/products/gladys-assistant",
+      "tagline": "",
+      "pub_date": "2026-09-28T08:17:40-07:00"
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.producthunt.com/products/claude",
+      "tagline": "",
+      "pub_date": "2026-09-28T11:27:48-07:00"
+    },
+    {
+      "title": "Iris",
+      "url": "https://www.producthunt.com/products/ihermes",
+      "tagline": "",
+      "pub_date": "2026-09-18T00:10:09-07:00"
     },
     {
       "title": "Szept",
@@ -371,10 +347,34 @@
       "pub_date": "2026-09-24T04:58:29-07:00"
     },
     {
-      "title": "Arsaze",
-      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+      "title": "Ricly",
+      "url": "https://www.producthunt.com/products/ricly",
       "tagline": "",
-      "pub_date": "2026-09-27T09:56:45-07:00"
+      "pub_date": "2026-09-21T06:32:13-07:00"
+    },
+    {
+      "title": "Would you pay?",
+      "url": "https://www.producthunt.com/products/would-you-pay",
+      "tagline": "",
+      "pub_date": "2026-09-28T07:35:04-07:00"
+    },
+    {
+      "title": "Declutr",
+      "url": "https://www.producthunt.com/products/declutr",
+      "tagline": "",
+      "pub_date": "2026-09-24T08:33:36-07:00"
+    },
+    {
+      "title": "FFFFinder",
+      "url": "https://www.producthunt.com/products/ffffinder",
+      "tagline": "",
+      "pub_date": "2026-09-26T08:19:39-07:00"
+    },
+    {
+      "title": "Flotnote",
+      "url": "https://www.producthunt.com/products/flotnote",
+      "tagline": "",
+      "pub_date": "2026-09-03T01:37:44-07:00"
     }
   ]
 }

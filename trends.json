@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-02T11:40:13.528Z",
+  "generated_at": "2026-10-02T17:10:17.815Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "hn_url": "https://news.ycombinator.com/item?id=49931031",
+      "points": 109,
+      "comments": 38,
+      "created_ts": 1790928348,
+      "author": "vltmrkls"
+    },
+    {
       "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
       "url": "https://github.com/Vibra-Ingenn/Janus",
       "hn_url": "https://news.ycombinator.com/item?id=49926773",
-      "points": 79,
-      "comments": 14,
+      "points": 93,
+      "comments": 17,
       "created_ts": 1790887007,
       "author": "Maverick617"
     },
@@ -16,35 +25,17 @@
       "title": "Show HN: Rhun, an open-source code editor written in assembly",
       "url": "https://rhun.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49926726",
-      "points": 55,
-      "comments": 32,
+      "points": 59,
+      "comments": 41,
       "created_ts": 1790886738,
       "author": "vladcodes"
-    },
-    {
-      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-      "url": "https://github.com/kvoltmer/Audionaut",
-      "hn_url": "https://news.ycombinator.com/item?id=49931031",
-      "points": 28,
-      "comments": 8,
-      "created_ts": 1790928348,
-      "author": "vltmrkls"
-    },
-    {
-      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-      "url": "https://innerloop.works/breadcrumb",
-      "hn_url": "https://news.ycombinator.com/item?id=49924943",
-      "points": 20,
-      "comments": 3,
-      "created_ts": 1790877517,
-      "author": "jv22222"
     },
     {
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://stillwet.art/",
       "hn_url": "https://news.ycombinator.com/item?id=49928566",
-      "points": 19,
-      "comments": 6,
+      "points": 52,
+      "comments": 11,
       "created_ts": 1790900876,
       "author": "alstonite"
     },
@@ -52,28 +43,19 @@
       "title": "Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
       "url": "https://www.billmender.com/hospital-prices",
       "hn_url": "https://news.ycombinator.com/item?id=49926185",
-      "points": 17,
-      "comments": 4,
+      "points": 23,
+      "comments": 6,
       "created_ts": 1790883729,
       "author": "curatedmcp"
     },
     {
-      "title": "Show HN: Engrams, an open source alternative to Devin",
-      "url": "https://github.com/cortexapps/engrams",
-      "hn_url": "https://news.ycombinator.com/item?id=49923064",
-      "points": 17,
-      "comments": 0,
-      "created_ts": 1790868851,
-      "author": "nikhilunni"
-    },
-    {
-      "title": "Show HN: Helo – An email API from former Postmark folks",
-      "url": "https://www.helohq.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49921801",
-      "points": 15,
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "hn_url": "https://news.ycombinator.com/item?id=49924943",
+      "points": 21,
       "comments": 4,
-      "created_ts": 1790863132,
-      "author": "Archanian"
+      "created_ts": 1790877517,
+      "author": "jv22222"
     }
   ],
   "hn_front": [
@@ -81,255 +63,114 @@
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "hn_url": "https://news.ycombinator.com/item?id=49926069",
-      "points": 1366,
-      "comments": 431,
+      "points": 1606,
+      "comments": 548,
       "created_ts": 1790883185,
       "author": "sergiotapia"
-    },
-    {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "hn_url": "https://news.ycombinator.com/item?id=49923692",
-      "points": 529,
-      "comments": 186,
-      "created_ts": 1790871537,
-      "author": "jasondavies"
-    },
-    {
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "hn_url": "https://news.ycombinator.com/item?id=49924179",
-      "points": 403,
-      "comments": 373,
-      "created_ts": 1790873823,
-      "author": "chmaynard"
-    },
-    {
-      "title": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "hn_url": "https://news.ycombinator.com/item?id=49925969",
-      "points": 403,
-      "comments": 51,
-      "created_ts": 1790882648,
-      "author": "paulsmith"
     },
     {
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "url": "https://lwn.net/Articles/1097401/",
       "hn_url": "https://news.ycombinator.com/item?id=49928121",
-      "points": 345,
-      "comments": 253,
+      "points": 499,
+      "comments": 358,
       "created_ts": 1790896244,
       "author": "luispa"
     },
     {
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "hn_url": "https://news.ycombinator.com/item?id=49923466",
-      "points": 342,
-      "comments": 89,
-      "created_ts": 1790870516,
-      "author": "razin"
-    },
-    {
-      "title": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "hn_url": "https://news.ycombinator.com/item?id=49926536",
-      "points": 296,
-      "comments": 116,
-      "created_ts": 1790885663,
-      "author": "sampsn"
-    },
-    {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49920896",
-      "points": 260,
-      "comments": 143,
-      "created_ts": 1790858678,
-      "author": "trickypr"
-    },
-    {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
-      "hn_url": "https://news.ycombinator.com/item?id=49929489",
-      "points": 257,
-      "comments": 126,
-      "created_ts": 1790910680,
-      "author": "Kuyawa"
-    },
-    {
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "hn_url": "https://news.ycombinator.com/item?id=49921923",
-      "points": 250,
-      "comments": 91,
-      "created_ts": 1790863750,
-      "author": "elffjs"
-    },
-    {
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "hn_url": "https://news.ycombinator.com/item?id=49922674",
-      "points": 237,
-      "comments": 43,
-      "created_ts": 1790867262,
-      "author": "nkw"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "hn_url": "https://news.ycombinator.com/item?id=49922569",
-      "points": 212,
-      "comments": 209,
-      "created_ts": 1790866927,
-      "author": "whoishiring"
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "hn_url": "https://news.ycombinator.com/item?id=49925969",
+      "points": 469,
+      "comments": 65,
+      "created_ts": 1790882648,
+      "author": "paulsmith"
     },
     {
       "title": "Frog and Toad and the Increasingly Capable Machines",
       "url": "https://www.frogandtoad.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49927760",
-      "points": 210,
-      "comments": 45,
+      "points": 468,
+      "comments": 108,
       "created_ts": 1790893418,
       "author": "supermdguy"
     },
     {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49926628",
-      "points": 200,
-      "comments": 173,
-      "created_ts": 1790886207,
-      "author": "rafaelc"
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "hn_url": "https://news.ycombinator.com/item?id=49926536",
+      "points": 374,
+      "comments": 159,
+      "created_ts": 1790885663,
+      "author": "sampsn"
     },
     {
-      "title": "How Singapore's government-run dating service works",
-      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "hn_url": "https://news.ycombinator.com/item?id=49929113",
-      "points": 186,
-      "comments": 163,
-      "created_ts": 1790906212,
-      "author": "danielfoster"
-    },
-    {
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "hn_url": "https://news.ycombinator.com/item?id=49926917",
-      "points": 158,
-      "comments": 44,
-      "created_ts": 1790887717,
-      "author": "benbreen"
-    },
-    {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "hn_url": "https://news.ycombinator.com/item?id=49924618",
-      "points": 155,
-      "comments": 183,
-      "created_ts": 1790875963,
-      "author": "stabbles"
-    },
-    {
-      "title": "RacketCon Is Saturday",
-      "url": "https://con.racket-lang.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=49922515",
-      "points": 150,
-      "comments": 38,
-      "created_ts": 1790866693,
-      "author": "spdegabrielle"
-    },
-    {
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "hn_url": "https://news.ycombinator.com/item?id=49922437",
-      "points": 149,
-      "comments": 39,
-      "created_ts": 1790866293,
-      "author": "emersonmacro"
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "hn_url": "https://news.ycombinator.com/item?id=49929489",
+      "points": 367,
+      "comments": 188,
+      "created_ts": 1790910680,
+      "author": "Kuyawa"
     },
     {
       "title": "Shimano Bicycle Museum Review",
       "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
       "hn_url": "https://news.ycombinator.com/item?id=49930047",
-      "points": 137,
-      "comments": 24,
+      "points": 259,
+      "comments": 61,
       "created_ts": 1790917978,
       "author": "pietroppeter"
     },
     {
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "hn_url": "https://news.ycombinator.com/item?id=49926512",
-      "points": 125,
-      "comments": 60,
-      "created_ts": 1790885535,
-      "author": "50kIters"
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49933235",
+      "points": 151,
+      "comments": 82,
+      "created_ts": 1790947112,
+      "author": "suopspaces"
     },
     {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "url": "https://www.cssbed.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49927212",
-      "points": 119,
-      "comments": 30,
-      "created_ts": 1790889692,
-      "author": "sea-gold"
-    },
-    {
-      "title": "Turbo Haskell",
-      "url": "https://comonad.com/reader/2026/turbo-haskell/",
-      "hn_url": "https://news.ycombinator.com/item?id=49921798",
-      "points": 114,
-      "comments": 23,
-      "created_ts": 1790863105,
-      "author": "pjmlp"
-    },
-    {
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "hn_url": "https://news.ycombinator.com/item?id=49925742",
-      "points": 105,
-      "comments": 14,
-      "created_ts": 1790881422,
-      "author": "gumby"
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "hn_url": "https://news.ycombinator.com/item?id=49931031",
+      "points": 109,
+      "comments": 38,
+      "created_ts": 1790928348,
+      "author": "vltmrkls"
     }
   ],
   "ph_today": [
     {
-      "title": "Cue by Manus",
-      "url": "https://www.producthunt.com/products/cue-by-manus",
+      "title": "Famulor",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai",
       "tagline": "",
-      "pub_date": "2026-09-28T14:53:09-07:00"
+      "pub_date": "2026-08-31T06:27:59-07:00"
     },
     {
-      "title": "Globestudio",
-      "url": "https://www.producthunt.com/products/globestudio",
+      "title": "Teachoo",
+      "url": "https://www.producthunt.com/products/teachoo-2",
       "tagline": "",
-      "pub_date": "2026-09-29T01:07:08-07:00"
+      "pub_date": "2026-09-15T12:39:59-07:00"
     },
     {
-      "title": "WeftCut",
-      "url": "https://www.producthunt.com/products/weftcut",
+      "title": "esigna",
+      "url": "https://www.producthunt.com/products/esigna",
       "tagline": "",
-      "pub_date": "2026-09-30T14:25:16-07:00"
+      "pub_date": "2026-09-30T09:04:43-07:00"
     },
     {
-      "title": "Wu",
-      "url": "https://www.producthunt.com/products/wu",
+      "title": "Mintlify Desktop",
+      "url": "https://www.producthunt.com/products/mintlify",
       "tagline": "",
-      "pub_date": "2026-10-01T05:25:28-07:00"
+      "pub_date": "2026-09-29T17:08:54-07:00"
     },
     {
-      "title": "Clef",
-      "url": "https://www.producthunt.com/products/cloudflare-clef",
+      "title": "Moxie",
+      "url": "https://www.producthunt.com/products/moxie-2",
       "tagline": "",
-      "pub_date": "2026-10-01T13:58:54-07:00"
-    },
-    {
-      "title": "JarvisCore",
-      "url": "https://www.producthunt.com/products/jarviscore",
-      "tagline": "",
-      "pub_date": "2026-09-29T22:40:59-07:00"
+      "pub_date": "2026-09-30T23:39:40-07:00"
     },
     {
       "title": "Veltrix AI for E-commerce",
@@ -350,118 +191,16 @@
       "pub_date": "2026-09-17T00:24:53-07:00"
     },
     {
-      "title": "ShipHQ",
-      "url": "https://www.producthunt.com/products/shiphq",
+      "title": "Finbar",
+      "url": "https://www.producthunt.com/products/finbar-2",
       "tagline": "",
-      "pub_date": "2026-10-01T09:57:17-07:00"
+      "pub_date": "2026-10-01T09:40:49-07:00"
     },
     {
-      "title": "Mintlify Desktop",
-      "url": "https://www.producthunt.com/products/mintlify",
+      "title": "WeftCut",
+      "url": "https://www.producthunt.com/products/weftcut",
       "tagline": "",
-      "pub_date": "2026-09-29T17:08:54-07:00"
-    },
-    {
-      "title": "Codync",
-      "url": "https://www.producthunt.com/products/codync",
-      "tagline": "",
-      "pub_date": "2026-10-01T21:45:31-07:00"
-    },
-    {
-      "title": "Bambu Lab R1",
-      "url": "https://www.producthunt.com/products/bambu-lab-r1",
-      "tagline": "",
-      "pub_date": "2026-10-01T09:11:06-07:00"
-    },
-    {
-      "title": "Open Inspector",
-      "url": "https://www.producthunt.com/products/open-inspector",
-      "tagline": "",
-      "pub_date": "2026-10-01T06:30:35-07:00"
-    },
-    {
-      "title": "Famulor",
-      "url": "https://www.producthunt.com/products/famulor-telephony-ai",
-      "tagline": "",
-      "pub_date": "2026-08-31T06:27:59-07:00"
-    },
-    {
-      "title": "Sayonic",
-      "url": "https://www.producthunt.com/products/sayonic",
-      "tagline": "",
-      "pub_date": "2026-09-29T01:24:16-07:00"
-    },
-    {
-      "title": "Earlyn",
-      "url": "https://www.producthunt.com/products/earlyn",
-      "tagline": "",
-      "pub_date": "2026-10-01T19:00:35-07:00"
-    },
-    {
-      "title": "Lloyal",
-      "url": "https://www.producthunt.com/products/lloyal",
-      "tagline": "",
-      "pub_date": "2026-09-30T08:18:28-07:00"
-    },
-    {
-      "title": "Communicate",
-      "url": "https://www.producthunt.com/products/communicate",
-      "tagline": "",
-      "pub_date": "2026-10-01T00:51:46-07:00"
-    },
-    {
-      "title": "Never Boring AI",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "tagline": "",
-      "pub_date": "2026-10-01T03:21:53-07:00"
-    },
-    {
-      "title": "Eleven v4 and Eleven v4 Turbo",
-      "url": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo",
-      "tagline": "",
-      "pub_date": "2026-09-28T13:49:50-07:00"
-    },
-    {
-      "title": "Moxie",
-      "url": "https://www.producthunt.com/products/moxie-2",
-      "tagline": "",
-      "pub_date": "2026-09-30T23:39:40-07:00"
-    },
-    {
-      "title": "Audryo",
-      "url": "https://www.producthunt.com/products/audryo",
-      "tagline": "",
-      "pub_date": "2026-09-29T09:45:35-07:00"
-    },
-    {
-      "title": "slash-editor",
-      "url": "https://www.producthunt.com/products/slash-editor",
-      "tagline": "",
-      "pub_date": "2026-09-30T07:40:42-07:00"
-    },
-    {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
-      "tagline": "",
-      "pub_date": "2026-10-01T06:31:12-07:00"
-    },
-    {
-      "title": "GitSync",
-      "url": "https://www.producthunt.com/products/gitsync",
-      "tagline": "",
-      "pub_date": "2026-10-01T14:29:07-07:00"
-    },
-    {
-      "title": "Pastily",
-      "url": "https://www.producthunt.com/products/pastily",
-      "tagline": "",
-      "pub_date": "2026-10-01T03:09:16-07:00"
-    },
-    {
-      "title": "esigna",
-      "url": "https://www.producthunt.com/products/esigna",
-      "tagline": "",
-      "pub_date": "2026-09-30T09:04:43-07:00"
+      "pub_date": "2026-09-30T14:25:16-07:00"
     },
     {
       "title": "CodeAF",
@@ -470,10 +209,118 @@
       "pub_date": "2026-10-01T09:53:06-07:00"
     },
     {
-      "title": "Finbar",
-      "url": "https://www.producthunt.com/products/finbar-2",
+      "title": "Sayonic",
+      "url": "https://www.producthunt.com/products/sayonic",
       "tagline": "",
-      "pub_date": "2026-10-01T09:40:49-07:00"
+      "pub_date": "2026-09-29T01:24:16-07:00"
+    },
+    {
+      "title": "GitSync",
+      "url": "https://www.producthunt.com/products/gitsync",
+      "tagline": "",
+      "pub_date": "2026-10-01T14:29:07-07:00"
+    },
+    {
+      "title": "Earlyn",
+      "url": "https://www.producthunt.com/products/earlyn",
+      "tagline": "",
+      "pub_date": "2026-10-01T19:00:35-07:00"
+    },
+    {
+      "title": "Communicate",
+      "url": "https://www.producthunt.com/products/communicate",
+      "tagline": "",
+      "pub_date": "2026-10-01T00:51:46-07:00"
+    },
+    {
+      "title": "Clef",
+      "url": "https://www.producthunt.com/products/cloudflare-clef",
+      "tagline": "",
+      "pub_date": "2026-10-01T13:58:54-07:00"
+    },
+    {
+      "title": "Codync",
+      "url": "https://www.producthunt.com/products/codync",
+      "tagline": "",
+      "pub_date": "2026-10-01T21:45:31-07:00"
+    },
+    {
+      "title": "JarvisCore",
+      "url": "https://www.producthunt.com/products/jarviscore",
+      "tagline": "",
+      "pub_date": "2026-09-29T22:40:59-07:00"
+    },
+    {
+      "title": "Never Boring AI",
+      "url": "https://www.producthunt.com/products/never-boring-ai",
+      "tagline": "",
+      "pub_date": "2026-10-01T03:21:53-07:00"
+    },
+    {
+      "title": "ShipHQ",
+      "url": "https://www.producthunt.com/products/shiphq",
+      "tagline": "",
+      "pub_date": "2026-10-01T09:57:17-07:00"
+    },
+    {
+      "title": "Halo",
+      "url": "https://www.producthunt.com/products/halo-11",
+      "tagline": "",
+      "pub_date": "2026-10-01T06:31:12-07:00"
+    },
+    {
+      "title": "Lloyal",
+      "url": "https://www.producthunt.com/products/lloyal",
+      "tagline": "",
+      "pub_date": "2026-09-30T08:18:28-07:00"
+    },
+    {
+      "title": "Anthroposcaper",
+      "url": "https://www.producthunt.com/products/anthroposcaper",
+      "tagline": "",
+      "pub_date": "2026-10-01T06:38:00-07:00"
+    },
+    {
+      "title": "Open Inspector",
+      "url": "https://www.producthunt.com/products/open-inspector",
+      "tagline": "",
+      "pub_date": "2026-10-01T06:30:35-07:00"
+    },
+    {
+      "title": "slash-editor",
+      "url": "https://www.producthunt.com/products/slash-editor",
+      "tagline": "",
+      "pub_date": "2026-09-30T07:40:42-07:00"
+    },
+    {
+      "title": "Eleven v4 and Eleven v4 Turbo",
+      "url": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo",
+      "tagline": "",
+      "pub_date": "2026-09-28T13:49:50-07:00"
+    },
+    {
+      "title": "WMail",
+      "url": "https://www.producthunt.com/products/wmail-3",
+      "tagline": "",
+      "pub_date": "2026-09-28T01:15:42-07:00"
+    },
+    {
+      "title": "Audryo",
+      "url": "https://www.producthunt.com/products/audryo",
+      "tagline": "",
+      "pub_date": "2026-09-29T09:45:35-07:00"
+    },
+    {
+      "title": "Pastily",
+      "url": "https://www.producthunt.com/products/pastily",
+      "tagline": "",
+      "pub_date": "2026-10-01T03:09:16-07:00"
+    },
+    {
+      "title": "Wu",
+      "url": "https://www.producthunt.com/products/wu",
+      "tagline": "",
+      "pub_date": "2026-10-01T05:25:28-07:00"
     }
   ]
 }

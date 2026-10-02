@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-10-01T22:11:31.589Z",
+  "generated_at": "2026-10-02T03:26:41.159Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "url": "https://github.com/TantrixAuto/yantra",
-      "hn_url": "https://news.ycombinator.com/item?id=49916997",
-      "points": 31,
-      "comments": 15,
-      "created_ts": 1790821848,
-      "author": "renjipanicker"
-    },
-    {
       "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
       "url": "https://github.com/Vibra-Ingenn/Janus",
       "hn_url": "https://news.ycombinator.com/item?id=49926773",
-      "points": 19,
-      "comments": 2,
+      "points": 56,
+      "comments": 8,
       "created_ts": 1790887007,
       "author": "Maverick617"
+    },
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "url": "https://rhun.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=49926726",
+      "points": 38,
+      "comments": 15,
+      "created_ts": 1790886738,
+      "author": "vladcodes"
+    },
+    {
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "hn_url": "https://news.ycombinator.com/item?id=49924943",
+      "points": 17,
+      "comments": 2,
+      "created_ts": 1790877517,
+      "author": "jv22222"
     },
     {
       "title": "Show HN: Engrams, an open source alternative to Devin",
@@ -34,7 +43,7 @@
       "title": "Show HN: Helo – An email API from former Postmark folks",
       "url": "https://www.helohq.com",
       "hn_url": "https://news.ycombinator.com/item?id=49921801",
-      "points": 13,
+      "points": 15,
       "comments": 3,
       "created_ts": 1790863132,
       "author": "Archanian"
@@ -42,29 +51,29 @@
   ],
   "hn_front": [
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "hn_url": "https://news.ycombinator.com/item?id=49920160",
-      "points": 487,
-      "comments": 109,
-      "created_ts": 1790852397,
-      "author": "Snowly"
-    },
-    {
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "hn_url": "https://news.ycombinator.com/item?id=49926069",
-      "points": 458,
-      "comments": 160,
+      "points": 846,
+      "comments": 289,
       "created_ts": 1790883185,
       "author": "sergiotapia"
     },
     {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "hn_url": "https://news.ycombinator.com/item?id=49920160",
+      "points": 533,
+      "comments": 135,
+      "created_ts": 1790852397,
+      "author": "Snowly"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "hn_url": "https://news.ycombinator.com/item?id=49923692",
-      "points": 360,
-      "comments": 142,
+      "points": 450,
+      "comments": 165,
       "created_ts": 1790871537,
       "author": "jasondavies"
     },
@@ -72,17 +81,35 @@
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
       "hn_url": "https://news.ycombinator.com/item?id=49923466",
-      "points": 239,
-      "comments": 63,
+      "points": 287,
+      "comments": 78,
       "created_ts": 1790870516,
       "author": "razin"
+    },
+    {
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "hn_url": "https://news.ycombinator.com/item?id=49925969",
+      "points": 261,
+      "comments": 31,
+      "created_ts": 1790882648,
+      "author": "paulsmith"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "hn_url": "https://news.ycombinator.com/item?id=49924179",
+      "points": 248,
+      "comments": 255,
+      "created_ts": 1790873823,
+      "author": "chmaynard"
     },
     {
       "title": "How to speed up the Rust compiler in September 2026",
       "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
       "hn_url": "https://news.ycombinator.com/item?id=49920896",
-      "points": 217,
-      "comments": 107,
+      "points": 236,
+      "comments": 119,
       "created_ts": 1790858678,
       "author": "trickypr"
     },
@@ -90,75 +117,111 @@
       "title": "Cloudflare K2: serverless event streams",
       "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
       "hn_url": "https://news.ycombinator.com/item?id=49921923",
-      "points": 168,
-      "comments": 72,
+      "points": 207,
+      "comments": 86,
       "created_ts": 1790863750,
       "author": "elffjs"
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "hn_url": "https://news.ycombinator.com/item?id=49919910",
-      "points": 155,
-      "comments": 90,
-      "created_ts": 1790850096,
-      "author": "giuliomagnifico"
     },
     {
       "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
       "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
       "hn_url": "https://news.ycombinator.com/item?id=49922674",
-      "points": 133,
-      "comments": 22,
+      "points": 180,
+      "comments": 27,
       "created_ts": 1790867262,
       "author": "nkw"
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "hn_url": "https://news.ycombinator.com/item?id=49919910",
+      "points": 174,
+      "comments": 102,
+      "created_ts": 1790850096,
+      "author": "giuliomagnifico"
     },
     {
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922569",
       "hn_url": "https://news.ycombinator.com/item?id=49922569",
-      "points": 125,
-      "comments": 126,
+      "points": 164,
+      "comments": 172,
       "created_ts": 1790866927,
       "author": "whoishiring"
     },
     {
-      "title": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "hn_url": "https://news.ycombinator.com/item?id=49925969",
-      "points": 122,
-      "comments": 10,
-      "created_ts": 1790882648,
-      "author": "paulsmith"
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49926628",
+      "points": 146,
+      "comments": 140,
+      "created_ts": 1790886207,
+      "author": "rafaelc"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "hn_url": "https://news.ycombinator.com/item?id=49928121",
+      "points": 146,
+      "comments": 80,
+      "created_ts": 1790896244,
+      "author": "luispa"
+    },
+    {
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "hn_url": "https://news.ycombinator.com/item?id=49926536",
+      "points": 146,
+      "comments": 56,
+      "created_ts": 1790885663,
+      "author": "sampsn"
     },
     {
       "title": "RacketCon Is Saturday",
       "url": "https://con.racket-lang.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49922515",
-      "points": 117,
-      "comments": 31,
+      "points": 126,
+      "comments": 36,
       "created_ts": 1790866693,
       "author": "spdegabrielle"
+    },
+    {
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "hn_url": "https://news.ycombinator.com/item?id=49922437",
+      "points": 117,
+      "comments": 26,
+      "created_ts": 1790866293,
+      "author": "emersonmacro"
+    },
+    {
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "hn_url": "https://news.ycombinator.com/item?id=49924618",
+      "points": 106,
+      "comments": 114,
+      "created_ts": 1790875963,
+      "author": "stabbles"
     }
   ],
   "ph_today": [
     {
-      "title": "Phare C1®",
-      "url": "https://www.producthunt.com/products/phare-c1",
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-3",
       "tagline": "",
-      "pub_date": "2026-09-29T05:51:48-07:00"
+      "pub_date": "2026-09-29T07:14:41-07:00"
     },
     {
-      "title": "Buddy Drop",
-      "url": "https://www.producthunt.com/products/buddy",
+      "title": "Dots by OpenAI",
+      "url": "https://www.producthunt.com/products/dots-by-openai",
       "tagline": "",
-      "pub_date": "2026-09-30T02:20:05-07:00"
+      "pub_date": "2026-09-29T11:35:29-07:00"
     },
     {
-      "title": "Starlie",
-      "url": "https://www.producthunt.com/products/starlie",
+      "title": "America.gov",
+      "url": "https://www.producthunt.com/products/america-gov",
       "tagline": "",
-      "pub_date": "2026-08-28T07:25:05-07:00"
+      "pub_date": "2026-09-29T11:38:12-07:00"
     },
     {
       "title": "Bracket",
@@ -173,22 +236,40 @@
       "pub_date": "2026-09-29T22:27:50-07:00"
     },
     {
-      "title": "Polylane",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "DSH Desktop",
+      "url": "https://www.producthunt.com/products/deepseek",
       "tagline": "",
-      "pub_date": "2026-09-29T14:28:58-07:00"
+      "pub_date": "2026-09-29T19:21:19-07:00"
     },
     {
-      "title": "AuthMonster",
-      "url": "https://www.producthunt.com/products/authmonster",
+      "title": "Omnia Agent",
+      "url": "https://www.producthunt.com/products/omnia-2",
       "tagline": "",
-      "pub_date": "2026-07-25T18:53:02-07:00"
+      "pub_date": "2026-09-28T09:47:47-07:00"
     },
     {
-      "title": "UTTER IN",
-      "url": "https://www.producthunt.com/products/utter-in",
+      "title": "Yedric.ai",
+      "url": "https://www.producthunt.com/products/yedric-ai",
       "tagline": "",
-      "pub_date": "2026-09-30T13:31:27-07:00"
+      "pub_date": "2026-09-18T07:46:27-07:00"
+    },
+    {
+      "title": "Monospace from Directus",
+      "url": "https://www.producthunt.com/products/directus",
+      "tagline": "",
+      "pub_date": "2026-09-15T10:47:11-07:00"
+    },
+    {
+      "title": "Semitexa",
+      "url": "https://www.producthunt.com/products/semitexa",
+      "tagline": "",
+      "pub_date": "2026-09-28T08:35:07-07:00"
+    },
+    {
+      "title": "Twin",
+      "url": "https://www.producthunt.com/products/twin-2",
+      "tagline": "",
+      "pub_date": "2026-09-30T03:03:29-07:00"
     },
     {
       "title": "OpenCompanion",
@@ -203,40 +284,10 @@
       "pub_date": "2026-09-29T16:21:44-07:00"
     },
     {
-      "title": "Semitexa",
-      "url": "https://www.producthunt.com/products/semitexa",
+      "title": "JevGPT",
+      "url": "https://www.producthunt.com/products/jevgpt",
       "tagline": "",
-      "pub_date": "2026-09-28T08:35:07-07:00"
-    },
-    {
-      "title": "Scape",
-      "url": "https://www.producthunt.com/products/scape-3",
-      "tagline": "",
-      "pub_date": "2026-09-29T07:14:41-07:00"
-    },
-    {
-      "title": "Formalini",
-      "url": "https://www.producthunt.com/products/formalini",
-      "tagline": "",
-      "pub_date": "2026-09-29T13:14:12-07:00"
-    },
-    {
-      "title": "rhun",
-      "url": "https://www.producthunt.com/products/rhun",
-      "tagline": "",
-      "pub_date": "2026-09-30T16:24:19-07:00"
-    },
-    {
-      "title": "Otter Vault",
-      "url": "https://www.producthunt.com/products/otter-vault",
-      "tagline": "",
-      "pub_date": "2026-09-28T23:52:39-07:00"
-    },
-    {
-      "title": "Kholo",
-      "url": "https://www.producthunt.com/products/kholo",
-      "tagline": "",
-      "pub_date": "2026-09-20T09:30:10-07:00"
+      "pub_date": "2026-09-28T09:36:26-07:00"
     },
     {
       "title": "Stardrift for iOS",
@@ -245,28 +296,10 @@
       "pub_date": "2026-09-30T12:57:48-07:00"
     },
     {
-      "title": "Twin",
-      "url": "https://www.producthunt.com/products/twin-2",
+      "title": "NotchMind",
+      "url": "https://www.producthunt.com/products/notchmind",
       "tagline": "",
-      "pub_date": "2026-09-30T03:03:29-07:00"
-    },
-    {
-      "title": "Rate.fm",
-      "url": "https://www.producthunt.com/products/rate-fm",
-      "tagline": "",
-      "pub_date": "2026-09-29T16:04:07-07:00"
-    },
-    {
-      "title": "Clarity",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "tagline": "",
-      "pub_date": "2026-09-30T05:32:48-07:00"
-    },
-    {
-      "title": "Basedash chat dashboard preview",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-09-29T12:14:03-07:00"
+      "pub_date": "2026-09-29T04:53:58-07:00"
     },
     {
       "title": "Vitra.ai",
@@ -275,16 +308,46 @@
       "pub_date": "2026-09-30T12:36:03-07:00"
     },
     {
-      "title": "JevGPT",
-      "url": "https://www.producthunt.com/products/jevgpt",
+      "title": "Starlie",
+      "url": "https://www.producthunt.com/products/starlie",
       "tagline": "",
-      "pub_date": "2026-09-28T09:36:26-07:00"
+      "pub_date": "2026-08-28T07:25:05-07:00"
     },
     {
-      "title": "Vorker",
-      "url": "https://www.producthunt.com/products/vorker-ai",
+      "title": "Helo",
+      "url": "https://www.producthunt.com/products/helo-2",
       "tagline": "",
-      "pub_date": "2026-09-30T09:47:18-07:00"
+      "pub_date": "2026-09-30T12:57:02-07:00"
+    },
+    {
+      "title": "Phare C1®",
+      "url": "https://www.producthunt.com/products/phare-c1",
+      "tagline": "",
+      "pub_date": "2026-09-29T05:51:48-07:00"
+    },
+    {
+      "title": "Formalini",
+      "url": "https://www.producthunt.com/products/formalini",
+      "tagline": "",
+      "pub_date": "2026-09-29T13:14:12-07:00"
+    },
+    {
+      "title": "AuthMonster",
+      "url": "https://www.producthunt.com/products/authmonster",
+      "tagline": "",
+      "pub_date": "2026-07-25T18:53:02-07:00"
+    },
+    {
+      "title": "Basedash chat dashboard preview",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-09-29T12:14:03-07:00"
+    },
+    {
+      "title": "Otter Vault",
+      "url": "https://www.producthunt.com/products/otter-vault",
+      "tagline": "",
+      "pub_date": "2026-09-28T23:52:39-07:00"
     },
     {
       "title": "Lume",
@@ -293,10 +356,10 @@
       "pub_date": "2026-09-29T22:20:55-07:00"
     },
     {
-      "title": "NotchMind",
-      "url": "https://www.producthunt.com/products/notchmind",
+      "title": "Clarity",
+      "url": "https://www.producthunt.com/products/kugelaudio",
       "tagline": "",
-      "pub_date": "2026-09-29T04:53:58-07:00"
+      "pub_date": "2026-09-30T05:32:48-07:00"
     },
     {
       "title": "Brink",
@@ -305,22 +368,22 @@
       "pub_date": "2026-09-30T05:37:39-07:00"
     },
     {
-      "title": "Firetower",
-      "url": "https://www.producthunt.com/products/firetower",
+      "title": "Rate.fm",
+      "url": "https://www.producthunt.com/products/rate-fm",
       "tagline": "",
-      "pub_date": "2026-09-28T09:32:01-07:00"
+      "pub_date": "2026-09-29T16:04:07-07:00"
     },
     {
-      "title": "DSH Desktop",
-      "url": "https://www.producthunt.com/products/deepseek",
+      "title": "UTTER IN",
+      "url": "https://www.producthunt.com/products/utter-in",
       "tagline": "",
-      "pub_date": "2026-09-29T19:21:19-07:00"
+      "pub_date": "2026-09-30T13:31:27-07:00"
     },
     {
-      "title": "Helo",
-      "url": "https://www.producthunt.com/products/helo-2",
+      "title": "Kholo",
+      "url": "https://www.producthunt.com/products/kholo",
       "tagline": "",
-      "pub_date": "2026-09-30T12:57:02-07:00"
+      "pub_date": "2026-09-20T09:30:10-07:00"
     }
   ]
 }

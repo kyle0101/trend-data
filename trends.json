@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-10-03T10:54:04.256Z",
+  "generated_at": "2026-10-03T15:30:51.881Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "hn_url": "https://news.ycombinator.com/item?id=49943034",
+      "points": 201,
+      "comments": 101,
+      "created_ts": 1791024231,
+      "author": "tejaskumar__"
+    },
+    {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
       "hn_url": "https://news.ycombinator.com/item?id=49937916",
-      "points": 115,
-      "comments": 45,
+      "points": 126,
+      "comments": 47,
       "created_ts": 1790971215,
       "author": "antelocnova"
+    },
+    {
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49942434",
+      "points": 38,
+      "comments": 15,
+      "created_ts": 1791016817,
+      "author": "arunbhatia"
+    },
+    {
+      "title": "Show HN: Timeline of the Far Future",
+      "url": "https://rivendell.dmitrybrant.com/farfuture/",
+      "hn_url": "https://news.ycombinator.com/item?id=49940317",
+      "points": 11,
+      "comments": 2,
+      "created_ts": 1790988048,
+      "author": "dmitrybrant"
     }
   ],
   "hn_front": [
@@ -18,8 +45,8 @@
       "title": "Apple Pass Designer",
       "url": "https://developer.apple.com/pass-designer/",
       "hn_url": "https://news.ycombinator.com/item?id=49937276",
-      "points": 436,
-      "comments": 269,
+      "points": 492,
+      "comments": 299,
       "created_ts": 1790968016,
       "author": "soheilpro"
     },
@@ -27,71 +54,35 @@
       "title": "Extra Big Ass Intelligence",
       "url": "https://www.extrabigassintelligence.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49941114",
-      "points": 310,
-      "comments": 67,
+      "points": 387,
+      "comments": 85,
       "created_ts": 1790997550,
       "author": "34679"
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "hn_url": "https://news.ycombinator.com/item?id=49932147",
-      "points": 295,
-      "comments": 57,
-      "created_ts": 1790939237,
-      "author": "mariuz"
-    },
-    {
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49933235",
-      "points": 286,
-      "comments": 150,
-      "created_ts": 1790947112,
-      "author": "suopspaces"
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=49936575",
-      "points": 249,
-      "comments": 68,
-      "created_ts": 1790964076,
-      "author": "fibo"
     },
     {
       "title": "Newgrounds.com – A community of games, music, and art",
       "url": "https://www.newgrounds.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49940394",
-      "points": 242,
-      "comments": 63,
+      "points": 347,
+      "comments": 96,
       "created_ts": 1790988925,
       "author": "azhenley"
     },
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49933869",
-      "points": 222,
-      "comments": 149,
-      "created_ts": 1790950932,
-      "author": "signa11"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "hn_url": "https://news.ycombinator.com/item?id=49933740",
-      "points": 221,
-      "comments": 109,
-      "created_ts": 1790950284,
-      "author": "PaulHoule"
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=49936575",
+      "points": 295,
+      "comments": 89,
+      "created_ts": 1790964076,
+      "author": "fibo"
     },
     {
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://developer.apple.com/news/?id=p6zjojqw",
       "hn_url": "https://news.ycombinator.com/item?id=49937631",
-      "points": 208,
-      "comments": 141,
+      "points": 245,
+      "comments": 166,
       "created_ts": 1790969821,
       "author": "notfirstpost"
     },
@@ -99,60 +90,72 @@
       "title": "Muse Gadgets",
       "url": "https://gadgets.muse.ai",
       "hn_url": "https://news.ycombinator.com/item?id=49937504",
-      "points": 202,
-      "comments": 87,
+      "points": 218,
+      "comments": 98,
       "created_ts": 1790969214,
       "author": "anant"
     },
     {
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "hn_url": "https://news.ycombinator.com/item?id=49934620",
-      "points": 165,
-      "comments": 125,
-      "created_ts": 1790954955,
-      "author": "ThibWeb"
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "hn_url": "https://news.ycombinator.com/item?id=49943034",
+      "points": 201,
+      "comments": 101,
+      "created_ts": 1791024231,
+      "author": "tejaskumar__"
     },
     {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "hn_url": "https://news.ycombinator.com/item?id=49933230",
-      "points": 123,
-      "comments": 37,
-      "created_ts": 1790947067,
-      "author": "RickJWagner"
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "hn_url": "https://news.ycombinator.com/item?id=49941091",
+      "points": 136,
+      "comments": 57,
+      "created_ts": 1790997305,
+      "author": "est"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "hn_url": "https://news.ycombinator.com/item?id=49941447",
+      "points": 129,
+      "comments": 65,
+      "created_ts": 1791003237,
+      "author": "pentagrama"
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "hn_url": "https://news.ycombinator.com/item?id=49942706",
+      "points": 129,
+      "comments": 22,
+      "created_ts": 1791020164,
+      "author": "bastitx"
+    },
+    {
+      "title": "Make Tmux the OS",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "hn_url": "https://news.ycombinator.com/item?id=49937540",
+      "points": 126,
+      "comments": 65,
+      "created_ts": 1790969347,
+      "author": "weaksauce"
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "hn_url": "https://news.ycombinator.com/item?id=49943451",
+      "points": 102,
+      "comments": 86,
+      "created_ts": 1791028464,
+      "author": "mooreds"
     }
   ],
   "ph_today": [
     {
-      "title": "Thanor AI",
-      "url": "https://www.producthunt.com/products/thanor-ai",
+      "title": "Prefer",
+      "url": "https://www.producthunt.com/products/prefer-2",
       "tagline": "",
-      "pub_date": "2026-09-30T15:07:19-07:00"
-    },
-    {
-      "title": "Crowny!",
-      "url": "https://www.producthunt.com/products/crowny-2",
-      "tagline": "",
-      "pub_date": "2026-10-01T00:14:59-07:00"
-    },
-    {
-      "title": "Muse Gadgets",
-      "url": "https://www.producthunt.com/products/muse-22",
-      "tagline": "",
-      "pub_date": "2026-10-02T19:07:11-07:00"
-    },
-    {
-      "title": "FoundrRadio",
-      "url": "https://www.producthunt.com/products/foundrradio",
-      "tagline": "",
-      "pub_date": "2026-10-01T02:34:01-07:00"
-    },
-    {
-      "title": "SCMD",
-      "url": "https://www.producthunt.com/products/scmd",
-      "tagline": "",
-      "pub_date": "2026-09-21T14:15:45-07:00"
+      "pub_date": "2026-09-29T06:37:08-07:00"
     },
     {
       "title": "ZooWork",
@@ -161,46 +164,16 @@
       "pub_date": "2026-09-23T21:22:40-07:00"
     },
     {
-      "title": "eu/jev",
-      "url": "https://www.producthunt.com/products/bevel-software",
+      "title": "miso.com",
+      "url": "https://www.producthunt.com/products/miso-com",
       "tagline": "",
-      "pub_date": "2026-10-02T06:47:50-07:00"
+      "pub_date": "2026-09-18T08:06:57-07:00"
     },
     {
-      "title": "Kilo",
-      "url": "https://www.producthunt.com/products/kilo",
+      "title": "Thanor AI",
+      "url": "https://www.producthunt.com/products/thanor-ai",
       "tagline": "",
-      "pub_date": "2026-09-21T17:11:54-07:00"
-    },
-    {
-      "title": "bmux",
-      "url": "https://www.producthunt.com/products/bmux",
-      "tagline": "",
-      "pub_date": "2026-10-01T04:34:50-07:00"
-    },
-    {
-      "title": "WattMate",
-      "url": "https://www.producthunt.com/products/wattmate",
-      "tagline": "",
-      "pub_date": "2026-09-25T04:11:29-07:00"
-    },
-    {
-      "title": "Deskcord.chat",
-      "url": "https://www.producthunt.com/products/deskcord-chat",
-      "tagline": "",
-      "pub_date": "2026-07-17T02:11:13-07:00"
-    },
-    {
-      "title": "Notchware",
-      "url": "https://www.producthunt.com/products/notchware",
-      "tagline": "",
-      "pub_date": "2026-09-26T13:51:19-07:00"
-    },
-    {
-      "title": "bawkterm: an open-source SSH/sFTP client",
-      "url": "https://www.producthunt.com/products/bawkterm-an-open-source-ssh-sftp-client",
-      "tagline": "",
-      "pub_date": "2026-09-29T08:32:10-07:00"
+      "pub_date": "2026-09-30T15:07:19-07:00"
     },
     {
       "title": "FeelMyMac",
@@ -209,16 +182,10 @@
       "pub_date": "2026-09-28T14:07:30-07:00"
     },
     {
-      "title": "Singularity",
-      "url": "https://www.producthunt.com/products/singularity-2",
+      "title": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22",
       "tagline": "",
-      "pub_date": "2026-10-01T06:12:28-07:00"
-    },
-    {
-      "title": "Prefer",
-      "url": "https://www.producthunt.com/products/prefer-2",
-      "tagline": "",
-      "pub_date": "2026-09-29T06:37:08-07:00"
+      "pub_date": "2026-10-02T19:07:11-07:00"
     },
     {
       "title": "MacCam",
@@ -227,28 +194,16 @@
       "pub_date": "2026-09-25T04:00:07-07:00"
     },
     {
+      "title": "Kindle 2026",
+      "url": "https://www.producthunt.com/products/kindle-2026",
+      "tagline": "",
+      "pub_date": "2026-10-02T09:02:19-07:00"
+    },
+    {
       "title": "Sapien",
       "url": "https://www.producthunt.com/products/sapien-4",
       "tagline": "",
       "pub_date": "2026-10-02T19:30:10-07:00"
-    },
-    {
-      "title": "Cubicle",
-      "url": "https://www.producthunt.com/products/cubicle-2",
-      "tagline": "",
-      "pub_date": "2026-09-29T12:41:10-07:00"
-    },
-    {
-      "title": "Yubi",
-      "url": "https://www.producthunt.com/products/yubi-2",
-      "tagline": "",
-      "pub_date": "2026-10-02T09:37:26-07:00"
-    },
-    {
-      "title": "miso.com",
-      "url": "https://www.producthunt.com/products/miso-com",
-      "tagline": "",
-      "pub_date": "2026-09-18T08:06:57-07:00"
     },
     {
       "title": "Agent Activity",
@@ -257,10 +212,82 @@
       "pub_date": "2026-09-30T09:56:38-07:00"
     },
     {
+      "title": "Cubicle",
+      "url": "https://www.producthunt.com/products/cubicle-2",
+      "tagline": "",
+      "pub_date": "2026-09-29T12:41:10-07:00"
+    },
+    {
+      "title": "Notchware",
+      "url": "https://www.producthunt.com/products/notchware",
+      "tagline": "",
+      "pub_date": "2026-09-26T13:51:19-07:00"
+    },
+    {
+      "title": "SCMD",
+      "url": "https://www.producthunt.com/products/scmd",
+      "tagline": "",
+      "pub_date": "2026-09-21T14:15:45-07:00"
+    },
+    {
+      "title": "Yubi",
+      "url": "https://www.producthunt.com/products/yubi-2",
+      "tagline": "",
+      "pub_date": "2026-10-02T09:37:26-07:00"
+    },
+    {
+      "title": "FoundrRadio",
+      "url": "https://www.producthunt.com/products/foundrradio",
+      "tagline": "",
+      "pub_date": "2026-10-01T02:34:01-07:00"
+    },
+    {
+      "title": "Deskcord.chat",
+      "url": "https://www.producthunt.com/products/deskcord-chat",
+      "tagline": "",
+      "pub_date": "2026-07-17T02:11:13-07:00"
+    },
+    {
+      "title": "eu/jev",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "tagline": "",
+      "pub_date": "2026-10-02T06:47:50-07:00"
+    },
+    {
+      "title": "Singularity",
+      "url": "https://www.producthunt.com/products/singularity-2",
+      "tagline": "",
+      "pub_date": "2026-10-01T06:12:28-07:00"
+    },
+    {
       "title": "una mano",
       "url": "https://www.producthunt.com/products/una-mano",
       "tagline": "",
       "pub_date": "2026-09-27T01:29:08-07:00"
+    },
+    {
+      "title": "WattMate",
+      "url": "https://www.producthunt.com/products/wattmate",
+      "tagline": "",
+      "pub_date": "2026-09-25T04:11:29-07:00"
+    },
+    {
+      "title": "Crowny!",
+      "url": "https://www.producthunt.com/products/crowny-2",
+      "tagline": "",
+      "pub_date": "2026-10-01T00:14:59-07:00"
+    },
+    {
+      "title": "Kilo",
+      "url": "https://www.producthunt.com/products/kilo",
+      "tagline": "",
+      "pub_date": "2026-09-21T17:11:54-07:00"
+    },
+    {
+      "title": "bawkterm",
+      "url": "https://www.producthunt.com/products/bawkterm-an-open-source-ssh-sftp-client",
+      "tagline": "",
+      "pub_date": "2026-09-29T08:32:10-07:00"
     },
     {
       "title": "OTPfill",
@@ -269,40 +296,40 @@
       "pub_date": "2026-09-29T01:55:04-07:00"
     },
     {
-      "title": "Kindle 2026",
-      "url": "https://www.producthunt.com/products/kindle-2026",
+      "title": "bmux",
+      "url": "https://www.producthunt.com/products/bmux",
       "tagline": "",
-      "pub_date": "2026-10-02T09:02:19-07:00"
+      "pub_date": "2026-10-01T04:34:50-07:00"
     },
     {
-      "title": "Pastily",
-      "url": "https://www.producthunt.com/products/pastily",
+      "title": "Cue by Manus",
+      "url": "https://www.producthunt.com/products/cue-by-manus",
       "tagline": "",
-      "pub_date": "2026-10-01T03:09:16-07:00"
+      "pub_date": "2026-09-28T14:53:09-07:00"
     },
     {
-      "title": "Famulor",
-      "url": "https://www.producthunt.com/products/famulor-telephony-ai",
+      "title": "Open Inspector",
+      "url": "https://www.producthunt.com/products/open-inspector",
       "tagline": "",
-      "pub_date": "2026-08-31T06:27:59-07:00"
+      "pub_date": "2026-10-01T06:30:35-07:00"
     },
     {
-      "title": "GitSync",
-      "url": "https://www.producthunt.com/products/gitsync",
+      "title": "Clef",
+      "url": "https://www.producthunt.com/products/cloudflare-clef",
       "tagline": "",
-      "pub_date": "2026-10-01T14:29:07-07:00"
+      "pub_date": "2026-10-01T13:58:54-07:00"
     },
     {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
+      "title": "Bambu Lab R1",
+      "url": "https://www.producthunt.com/products/bambu-lab-r1",
       "tagline": "",
-      "pub_date": "2026-10-01T06:31:12-07:00"
+      "pub_date": "2026-10-01T09:11:06-07:00"
     },
     {
-      "title": "Audryo",
-      "url": "https://www.producthunt.com/products/audryo",
+      "title": "ShipHQ",
+      "url": "https://www.producthunt.com/products/shiphq",
       "tagline": "",
-      "pub_date": "2026-09-29T09:45:35-07:00"
+      "pub_date": "2026-10-01T09:57:17-07:00"
     }
   ]
 }

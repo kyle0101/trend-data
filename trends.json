@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:14:49.159Z",
+  "generated_at": "2026-10-04T20:43:47.398Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,19 @@
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "hn_url": "https://news.ycombinator.com/item?id=49952111",
-      "points": 58,
-      "comments": 36,
+      "points": 114,
+      "comments": 58,
       "created_ts": 1791105892,
       "author": "allenleee"
+    },
+    {
+      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+      "url": "https://awesomedataviz.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49956183",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1791136489,
+      "author": "javierluraschi"
     }
   ],
   "hn_front": [
@@ -18,71 +27,17 @@
       "title": "Tell HN: Bob Cringely has died",
       "url": "https://news.ycombinator.com/item?id=49949438",
       "hn_url": "https://news.ycombinator.com/item?id=49949438",
-      "points": 669,
-      "comments": 133,
+      "points": 758,
+      "comments": 159,
       "created_ts": 1791075052,
       "author": "paveworld"
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "hn_url": "https://news.ycombinator.com/item?id=49949235",
-      "points": 535,
-      "comments": 279,
-      "created_ts": 1791073216,
-      "author": "elffjs"
-    },
-    {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "hn_url": "https://news.ycombinator.com/item?id=49946895",
-      "points": 382,
-      "comments": 67,
-      "created_ts": 1791054888,
-      "author": "speckx"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "hn_url": "https://news.ycombinator.com/item?id=49946393",
-      "points": 328,
-      "comments": 81,
-      "created_ts": 1791050805,
-      "author": "trwhite"
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=49945933",
-      "points": 280,
-      "comments": 162,
-      "created_ts": 1791047017,
-      "author": "kmeh"
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "hn_url": "https://news.ycombinator.com/item?id=49946228",
-      "points": 264,
-      "comments": 416,
-      "created_ts": 1791049469,
-      "author": "Anon84"
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "hn_url": "https://news.ycombinator.com/item?id=49946355",
-      "points": 261,
-      "comments": 134,
-      "created_ts": 1791050487,
-      "author": "CosmoWenman"
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
       "hn_url": "https://news.ycombinator.com/item?id=49953495",
-      "points": 240,
-      "comments": 117,
+      "points": 465,
+      "comments": 241,
       "created_ts": 1791118313,
       "author": "snehesht"
     },
@@ -90,51 +45,54 @@
       "title": "Why don't more developers “use the platform”?",
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "hn_url": "https://news.ycombinator.com/item?id=49950554",
-      "points": 223,
-      "comments": 219,
+      "points": 259,
+      "comments": 262,
       "created_ts": 1791087047,
       "author": "vinhnx"
     },
     {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "hn_url": "https://news.ycombinator.com/item?id=49947631",
-      "points": 199,
-      "comments": 85,
-      "created_ts": 1791060555,
-      "author": "citelao"
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "hn_url": "https://news.ycombinator.com/item?id=49952111",
+      "points": 114,
+      "comments": 58,
+      "created_ts": 1791105892,
+      "author": "allenleee"
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "hn_url": "https://news.ycombinator.com/item?id=49947051",
-      "points": 181,
-      "comments": 156,
-      "created_ts": 1791055996,
-      "author": "geoffbp"
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "hn_url": "https://news.ycombinator.com/item?id=49949588",
-      "points": 132,
-      "comments": 70,
-      "created_ts": 1791076342,
-      "author": "droidjj"
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "url": "https://github.com/PowderworksCode/headstart",
+      "hn_url": "https://news.ycombinator.com/item?id=49951218",
+      "points": 108,
+      "comments": 28,
+      "created_ts": 1791095217,
+      "author": "knuckleheads"
     }
   ],
   "ph_today": [
     {
-      "title": "CoreSpeed",
-      "url": "https://www.producthunt.com/products/corespeed",
+      "title": "Capybara Court",
+      "url": "https://www.producthunt.com/products/capybara-court",
       "tagline": "",
-      "pub_date": "2026-09-24T01:34:40-07:00"
+      "pub_date": "2026-10-03T12:47:47-07:00"
     },
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://www.producthunt.com/products/gemini-4-argon",
+      "title": "WikiFix for Confluence",
+      "url": "https://www.producthunt.com/products/wikifix",
       "tagline": "",
-      "pub_date": "2026-09-30T13:08:45-07:00"
+      "pub_date": "2026-08-07T06:20:11-07:00"
+    },
+    {
+      "title": "Clair",
+      "url": "https://www.producthunt.com/products/clair-3",
+      "tagline": "",
+      "pub_date": "2026-09-30T14:29:31-07:00"
+    },
+    {
+      "title": "Pass Designer",
+      "url": "https://www.producthunt.com/products/apple",
+      "tagline": "",
+      "pub_date": "2026-10-02T21:13:21-07:00"
     },
     {
       "title": "Rival Workshop",
@@ -143,40 +101,10 @@
       "pub_date": "2026-09-26T17:15:04-07:00"
     },
     {
-      "title": "opensend.cc",
-      "url": "https://www.producthunt.com/products/opensend-cc",
+      "title": "TinyFolder",
+      "url": "https://www.producthunt.com/products/tinyfolder",
       "tagline": "",
-      "pub_date": "2026-09-30T16:13:28-07:00"
-    },
-    {
-      "title": "ChatGPT Space",
-      "url": "https://www.producthunt.com/products/chatgpt-space",
-      "tagline": "",
-      "pub_date": "2026-09-29T11:04:19-07:00"
-    },
-    {
-      "title": "Sorcrr",
-      "url": "https://www.producthunt.com/products/sorcrr",
-      "tagline": "",
-      "pub_date": "2026-09-12T10:05:39-07:00"
-    },
-    {
-      "title": "Angebotsmeister",
-      "url": "https://www.producthunt.com/products/angebotsmeister",
-      "tagline": "",
-      "pub_date": "2026-10-01T03:22:53-07:00"
-    },
-    {
-      "title": "FlexChords",
-      "url": "https://www.producthunt.com/products/flexchords",
-      "tagline": "",
-      "pub_date": "2026-10-03T05:22:08-07:00"
-    },
-    {
-      "title": "Poddle",
-      "url": "https://www.producthunt.com/products/poddle-3",
-      "tagline": "",
-      "pub_date": "2026-10-03T21:39:18-07:00"
+      "pub_date": "2026-10-02T14:27:59-07:00"
     },
     {
       "title": "Sente",
@@ -185,28 +113,16 @@
       "pub_date": "2026-09-15T17:38:07-07:00"
     },
     {
-      "title": "NotchMate",
-      "url": "https://www.producthunt.com/products/notchmate",
+      "title": "Thinking Orbs",
+      "url": "https://www.producthunt.com/products/thinking-orbs",
       "tagline": "",
-      "pub_date": "2026-10-03T12:41:20-07:00"
+      "pub_date": "2026-10-03T01:11:16-07:00"
     },
     {
-      "title": "Pixel Soup",
-      "url": "https://www.producthunt.com/products/pixel-soup",
+      "title": "LaunchReel",
+      "url": "https://www.producthunt.com/products/launchreel-2",
       "tagline": "",
-      "pub_date": "2026-10-02T08:44:25-07:00"
-    },
-    {
-      "title": "Control My Mac",
-      "url": "https://www.producthunt.com/products/control-my-mac",
-      "tagline": "",
-      "pub_date": "2026-09-28T12:52:21-07:00"
-    },
-    {
-      "title": "JOGAK",
-      "url": "https://www.producthunt.com/products/jogak",
-      "tagline": "",
-      "pub_date": "2026-09-29T01:42:25-07:00"
+      "pub_date": "2026-10-03T14:31:56-07:00"
     },
     {
       "title": "DocsAlot MCP Connector",
@@ -215,16 +131,46 @@
       "pub_date": "2026-09-29T07:43:58-07:00"
     },
     {
-      "title": "Capybara Court",
-      "url": "https://www.producthunt.com/products/capybara-court",
+      "title": "CoreSpeed",
+      "url": "https://www.producthunt.com/products/corespeed",
       "tagline": "",
-      "pub_date": "2026-10-03T12:47:47-07:00"
+      "pub_date": "2026-09-24T01:34:40-07:00"
+    },
+    {
+      "title": "ChatGPT Space",
+      "url": "https://www.producthunt.com/products/chatgpt-space",
+      "tagline": "",
+      "pub_date": "2026-09-29T11:04:19-07:00"
+    },
+    {
+      "title": "Blume 2.0",
+      "url": "https://www.producthunt.com/products/blume-3",
+      "tagline": "",
+      "pub_date": "2026-09-25T15:30:43-07:00"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://www.producthunt.com/products/gemini-4-argon",
+      "tagline": "",
+      "pub_date": "2026-09-30T13:08:45-07:00"
     },
     {
       "title": "Smooth Recorder",
       "url": "https://www.producthunt.com/products/smooth-recorder",
       "tagline": "",
       "pub_date": "2026-10-03T11:36:22-07:00"
+    },
+    {
+      "title": "Octri.dev",
+      "url": "https://www.producthunt.com/products/octri",
+      "tagline": "",
+      "pub_date": "2026-09-21T07:26:18-07:00"
+    },
+    {
+      "title": "Sellio",
+      "url": "https://www.producthunt.com/products/sellio-2",
+      "tagline": "",
+      "pub_date": "2026-10-03T16:54:19-07:00"
     },
     {
       "title": "Blenny",
@@ -239,70 +185,70 @@
       "pub_date": "2026-10-03T12:44:58-07:00"
     },
     {
-      "title": "LaunchReel",
-      "url": "https://www.producthunt.com/products/launchreel-2",
-      "tagline": "",
-      "pub_date": "2026-10-03T14:31:56-07:00"
-    },
-    {
-      "title": "Calnio",
-      "url": "https://www.producthunt.com/products/calnio",
-      "tagline": "",
-      "pub_date": "2026-09-28T19:26:52-07:00"
-    },
-    {
-      "title": "Quven",
-      "url": "https://www.producthunt.com/products/quven",
-      "tagline": "",
-      "pub_date": "2026-09-29T09:33:34-07:00"
-    },
-    {
-      "title": "TinyFolder",
-      "url": "https://www.producthunt.com/products/tinyfolder",
-      "tagline": "",
-      "pub_date": "2026-10-02T14:27:59-07:00"
-    },
-    {
-      "title": "Thinking Orbs",
-      "url": "https://www.producthunt.com/products/thinking-orbs",
-      "tagline": "",
-      "pub_date": "2026-10-03T01:11:16-07:00"
-    },
-    {
-      "title": "Snapset",
-      "url": "https://www.producthunt.com/products/snapset",
-      "tagline": "",
-      "pub_date": "2026-09-30T19:13:29-07:00"
-    },
-    {
-      "title": "Art4",
-      "url": "https://www.producthunt.com/products/art4",
-      "tagline": "",
-      "pub_date": "2026-07-25T08:36:00-07:00"
-    },
-    {
       "title": "Translate Like Me",
       "url": "https://www.producthunt.com/products/translate-like-me",
       "tagline": "",
       "pub_date": "2026-09-26T18:06:06-07:00"
     },
     {
-      "title": "Blume 2.0",
-      "url": "https://www.producthunt.com/products/blume-3",
+      "title": "Eat Train Feel",
+      "url": "https://www.producthunt.com/products/eat-train-feel",
       "tagline": "",
-      "pub_date": "2026-09-25T15:30:43-07:00"
+      "pub_date": "2026-10-03T01:47:10-07:00"
     },
     {
-      "title": "Pass Designer",
-      "url": "https://www.producthunt.com/products/apple",
+      "title": "FlexChords",
+      "url": "https://www.producthunt.com/products/flexchords",
       "tagline": "",
-      "pub_date": "2026-10-02T21:13:21-07:00"
+      "pub_date": "2026-10-03T05:22:08-07:00"
     },
     {
-      "title": "Octri.dev",
-      "url": "https://www.producthunt.com/products/octri",
+      "title": "Sorcrr",
+      "url": "https://www.producthunt.com/products/sorcrr",
       "tagline": "",
-      "pub_date": "2026-09-21T07:26:18-07:00"
+      "pub_date": "2026-09-12T10:05:39-07:00"
+    },
+    {
+      "title": "Poddle",
+      "url": "https://www.producthunt.com/products/poddle-3",
+      "tagline": "",
+      "pub_date": "2026-10-03T21:39:18-07:00"
+    },
+    {
+      "title": "JOGAK",
+      "url": "https://www.producthunt.com/products/jogak",
+      "tagline": "",
+      "pub_date": "2026-09-29T01:42:25-07:00"
+    },
+    {
+      "title": "Cursor Remote Lite",
+      "url": "https://www.producthunt.com/products/cursor-remote-lite",
+      "tagline": "",
+      "pub_date": "2026-10-01T03:05:49-07:00"
+    },
+    {
+      "title": "NotchMate",
+      "url": "https://www.producthunt.com/products/notchmate",
+      "tagline": "",
+      "pub_date": "2026-10-03T12:41:20-07:00"
+    },
+    {
+      "title": "opensend.cc",
+      "url": "https://www.producthunt.com/products/opensend-cc",
+      "tagline": "",
+      "pub_date": "2026-09-30T16:13:28-07:00"
+    },
+    {
+      "title": "Pixel Soup",
+      "url": "https://www.producthunt.com/products/pixel-soup",
+      "tagline": "",
+      "pub_date": "2026-10-02T08:44:25-07:00"
+    },
+    {
+      "title": "Control My Mac",
+      "url": "https://www.producthunt.com/products/control-my-mac",
+      "tagline": "",
+      "pub_date": "2026-09-28T12:52:21-07:00"
     }
   ]
 }

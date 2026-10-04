@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:25:20.407Z",
+  "generated_at": "2026-10-04T03:39:45.397Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,107 +7,146 @@
       "title": "Show HN: Offrun – manage every coding agent from one workspace",
       "url": "https://offrun.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=49942434",
-      "points": 71,
-      "comments": 57,
+      "points": 74,
+      "comments": 61,
       "created_ts": 1791016817,
       "author": "arunbhatia"
     },
     {
-      "title": "Show HN: Timeline of the Far Future",
-      "url": "https://rivendell.dmitrybrant.com/farfuture/",
-      "hn_url": "https://news.ycombinator.com/item?id=49940317",
-      "points": 14,
-      "comments": 3,
-      "created_ts": 1790988048,
-      "author": "dmitrybrant"
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49942103",
+      "points": 38,
+      "comments": 13,
+      "created_ts": 1791012534,
+      "author": "Gorsefound"
     },
     {
-      "title": "Show HN: Rank every HN \"Who is hiring?\" post against your resume, locally",
-      "url": "https://github.com/MaxwellVolz/hn_whos_hiring",
-      "hn_url": "https://news.ycombinator.com/item?id=49938748",
-      "points": 12,
-      "comments": 3,
-      "created_ts": 1790976074,
-      "author": "intervolz"
+      "title": "Show HN: Factorio but with unreliable components",
+      "url": "https://think-twice.me/public/rely/",
+      "hn_url": "https://news.ycombinator.com/item?id=49945058",
+      "points": 15,
+      "comments": 17,
+      "created_ts": 1791040789,
+      "author": "zug_zug"
     }
   ],
   "hn_front": [
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49940394",
-      "points": 412,
-      "comments": 121,
-      "created_ts": 1790988925,
-      "author": "azhenley"
-    },
-    {
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "hn_url": "https://news.ycombinator.com/item?id=49942706",
-      "points": 378,
-      "comments": 251,
+      "points": 537,
+      "comments": 307,
       "created_ts": 1791020164,
       "author": "bastitx"
     },
     {
-      "title": "Cloudflare OHTTP gateway",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "hn_url": "https://news.ycombinator.com/item?id=49941091",
-      "points": 174,
-      "comments": 81,
-      "created_ts": 1790997305,
-      "author": "est"
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "hn_url": "https://news.ycombinator.com/item?id=49948254",
+      "points": 352,
+      "comments": 211,
+      "created_ts": 1791065233,
+      "author": "sbulaev"
     },
     {
-      "title": "ADHD, autism or complex trauma? [pdf]",
-      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=49946403",
-      "points": 157,
-      "comments": 125,
-      "created_ts": 1791050908,
-      "author": "skeptical1884"
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "hn_url": "https://news.ycombinator.com/item?id=49949235",
+      "points": 260,
+      "comments": 139,
+      "created_ts": 1791073216,
+      "author": "elffjs"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "hn_url": "https://news.ycombinator.com/item?id=49946393",
+      "points": 251,
+      "comments": 62,
+      "created_ts": 1791050805,
+      "author": "trwhite"
+    },
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "hn_url": "https://news.ycombinator.com/item?id=49948332",
+      "points": 219,
+      "comments": 174,
+      "created_ts": 1791065893,
+      "author": "jethronethro"
+    },
+    {
+      "title": "Bob Cringely Has Died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "hn_url": "https://news.ycombinator.com/item?id=49949438",
+      "points": 200,
+      "comments": 30,
+      "created_ts": 1791075052,
+      "author": "paveworld"
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=49946567",
+      "points": 179,
+      "comments": 128,
+      "created_ts": 1791052170,
+      "author": "saikatsg"
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "hn_url": "https://news.ycombinator.com/item?id=49946895",
+      "points": 175,
+      "comments": 21,
+      "created_ts": 1791054888,
+      "author": "speckx"
     },
     {
       "title": "FTL: A new operating system for clouds",
       "url": "https://ftl-os.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49944912",
-      "points": 115,
-      "comments": 49,
+      "points": 154,
+      "comments": 63,
       "created_ts": 1791039756,
       "author": "romac"
     },
     {
-      "title": "City building games have a Soul Problem pt.2",
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "hn_url": "https://news.ycombinator.com/item?id=49945323",
-      "points": 114,
-      "comments": 109,
-      "created_ts": 1791042727,
-      "author": "lexx"
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "hn_url": "https://news.ycombinator.com/item?id=49947631",
+      "points": 116,
+      "comments": 57,
+      "created_ts": 1791060555,
+      "author": "citelao"
     },
     {
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "hn_url": "https://news.ycombinator.com/item?id=49938399",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "hn_url": "https://news.ycombinator.com/item?id=49946355",
+      "points": 111,
+      "comments": 57,
+      "created_ts": 1791050487,
+      "author": "CosmoWenman"
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "hn_url": "https://news.ycombinator.com/item?id=49947051",
       "points": 107,
-      "comments": 18,
-      "created_ts": 1790973878,
-      "author": "NaOH"
+      "comments": 97,
+      "created_ts": 1791055996,
+      "author": "geoffbp"
     }
   ],
   "ph_today": [
     {
-      "title": "OTPfill",
-      "url": "https://www.producthunt.com/products/otpfill",
+      "title": "miso.com",
+      "url": "https://www.producthunt.com/products/miso-com",
       "tagline": "",
-      "pub_date": "2026-09-29T01:55:04-07:00"
-    },
-    {
-      "title": "Agent Activity",
-      "url": "https://www.producthunt.com/products/agent-activity",
-      "tagline": "",
-      "pub_date": "2026-09-30T09:56:38-07:00"
+      "pub_date": "2026-09-18T08:06:57-07:00"
     },
     {
       "title": "Muse Gadgets",
@@ -116,28 +155,10 @@
       "pub_date": "2026-10-02T19:07:11-07:00"
     },
     {
-      "title": "eu/jev",
-      "url": "https://www.producthunt.com/products/bevel-software",
+      "title": "Prefer",
+      "url": "https://www.producthunt.com/products/prefer-2",
       "tagline": "",
-      "pub_date": "2026-10-02T06:47:50-07:00"
-    },
-    {
-      "title": "FeelMyMac",
-      "url": "https://www.producthunt.com/products/feelmymac",
-      "tagline": "",
-      "pub_date": "2026-09-28T14:07:30-07:00"
-    },
-    {
-      "title": "SCMD",
-      "url": "https://www.producthunt.com/products/scmd",
-      "tagline": "",
-      "pub_date": "2026-09-21T14:15:45-07:00"
-    },
-    {
-      "title": "Notchware",
-      "url": "https://www.producthunt.com/products/notchware",
-      "tagline": "",
-      "pub_date": "2026-09-26T13:51:19-07:00"
+      "pub_date": "2026-09-29T06:37:08-07:00"
     },
     {
       "title": "Cubicle",
@@ -146,10 +167,58 @@
       "pub_date": "2026-09-29T12:41:10-07:00"
     },
     {
-      "title": "Prefer",
-      "url": "https://www.producthunt.com/products/prefer-2",
+      "title": "FeelMyMac",
+      "url": "https://www.producthunt.com/products/feelmymac",
       "tagline": "",
-      "pub_date": "2026-09-29T06:37:08-07:00"
+      "pub_date": "2026-09-28T14:07:30-07:00"
+    },
+    {
+      "title": "Reassign",
+      "url": "https://www.producthunt.com/products/reassign",
+      "tagline": "",
+      "pub_date": "2026-10-02T15:49:04-07:00"
+    },
+    {
+      "title": "Thanor AI",
+      "url": "https://www.producthunt.com/products/thanor-ai",
+      "tagline": "",
+      "pub_date": "2026-09-30T15:07:19-07:00"
+    },
+    {
+      "title": "eu/jev",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "tagline": "",
+      "pub_date": "2026-10-02T06:47:50-07:00"
+    },
+    {
+      "title": "Deskcord.chat",
+      "url": "https://www.producthunt.com/products/deskcord-chat",
+      "tagline": "",
+      "pub_date": "2026-07-17T02:11:13-07:00"
+    },
+    {
+      "title": "Agent Activity",
+      "url": "https://www.producthunt.com/products/agent-activity",
+      "tagline": "",
+      "pub_date": "2026-09-30T09:56:38-07:00"
+    },
+    {
+      "title": "SCMD",
+      "url": "https://www.producthunt.com/products/scmd",
+      "tagline": "",
+      "pub_date": "2026-09-21T14:15:45-07:00"
+    },
+    {
+      "title": "MacCam",
+      "url": "https://www.producthunt.com/products/maccam",
+      "tagline": "",
+      "pub_date": "2026-09-25T04:00:07-07:00"
+    },
+    {
+      "title": "una mano",
+      "url": "https://www.producthunt.com/products/una-mano",
+      "tagline": "",
+      "pub_date": "2026-09-27T01:29:08-07:00"
     },
     {
       "title": "ZooWork",
@@ -158,16 +227,28 @@
       "pub_date": "2026-09-23T21:22:40-07:00"
     },
     {
-      "title": "miso.com",
-      "url": "https://www.producthunt.com/products/miso-com",
+      "title": "WattMate",
+      "url": "https://www.producthunt.com/products/wattmate",
       "tagline": "",
-      "pub_date": "2026-09-18T08:06:57-07:00"
+      "pub_date": "2026-09-25T04:11:29-07:00"
     },
     {
-      "title": "Deskcord.chat",
-      "url": "https://www.producthunt.com/products/deskcord-chat",
+      "title": "Notchware",
+      "url": "https://www.producthunt.com/products/notchware",
       "tagline": "",
-      "pub_date": "2026-07-17T02:11:13-07:00"
+      "pub_date": "2026-09-26T13:51:19-07:00"
+    },
+    {
+      "title": "Kindle 2026",
+      "url": "https://www.producthunt.com/products/kindle-2026",
+      "tagline": "",
+      "pub_date": "2026-10-02T09:02:19-07:00"
+    },
+    {
+      "title": "bmux",
+      "url": "https://www.producthunt.com/products/bmux",
+      "tagline": "",
+      "pub_date": "2026-10-01T04:34:50-07:00"
     },
     {
       "title": "FoundrRadio",
@@ -182,34 +263,16 @@
       "pub_date": "2026-10-02T19:30:10-07:00"
     },
     {
+      "title": "Singularity",
+      "url": "https://www.producthunt.com/products/singularity-2",
+      "tagline": "",
+      "pub_date": "2026-10-01T06:12:28-07:00"
+    },
+    {
       "title": "Yubi",
       "url": "https://www.producthunt.com/products/yubi-2",
       "tagline": "",
       "pub_date": "2026-10-02T09:37:26-07:00"
-    },
-    {
-      "title": "MacCam",
-      "url": "https://www.producthunt.com/products/maccam",
-      "tagline": "",
-      "pub_date": "2026-09-25T04:00:07-07:00"
-    },
-    {
-      "title": "Crowny!",
-      "url": "https://www.producthunt.com/products/crowny-2",
-      "tagline": "",
-      "pub_date": "2026-10-01T00:14:59-07:00"
-    },
-    {
-      "title": "Thanor AI",
-      "url": "https://www.producthunt.com/products/thanor-ai",
-      "tagline": "",
-      "pub_date": "2026-09-30T15:07:19-07:00"
-    },
-    {
-      "title": "bmux",
-      "url": "https://www.producthunt.com/products/bmux",
-      "tagline": "",
-      "pub_date": "2026-10-01T04:34:50-07:00"
     },
     {
       "title": "Kilo",
@@ -218,64 +281,46 @@
       "pub_date": "2026-09-21T17:11:54-07:00"
     },
     {
+      "title": "Crowny!",
+      "url": "https://www.producthunt.com/products/crowny-2",
+      "tagline": "",
+      "pub_date": "2026-10-01T00:14:59-07:00"
+    },
+    {
       "title": "bawkterm",
       "url": "https://www.producthunt.com/products/bawkterm-an-open-source-ssh-sftp-client",
       "tagline": "",
       "pub_date": "2026-09-29T08:32:10-07:00"
     },
     {
-      "title": "Singularity",
-      "url": "https://www.producthunt.com/products/singularity-2",
+      "title": "OTPfill",
+      "url": "https://www.producthunt.com/products/otpfill",
       "tagline": "",
-      "pub_date": "2026-10-01T06:12:28-07:00"
+      "pub_date": "2026-09-29T01:55:04-07:00"
     },
     {
-      "title": "Kindle 2026",
-      "url": "https://www.producthunt.com/products/kindle-2026",
+      "title": "Earlyn",
+      "url": "https://www.producthunt.com/products/earlyn",
       "tagline": "",
-      "pub_date": "2026-10-02T09:02:19-07:00"
+      "pub_date": "2026-10-01T19:00:35-07:00"
     },
     {
-      "title": "WattMate",
-      "url": "https://www.producthunt.com/products/wattmate",
+      "title": "Veltrix AI for E-commerce",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
       "tagline": "",
-      "pub_date": "2026-09-25T04:11:29-07:00"
+      "pub_date": "2026-09-17T08:49:25-07:00"
     },
     {
-      "title": "una mano",
-      "url": "https://www.producthunt.com/products/una-mano",
+      "title": "Mintlify Desktop",
+      "url": "https://www.producthunt.com/products/mintlify",
       "tagline": "",
-      "pub_date": "2026-09-27T01:29:08-07:00"
+      "pub_date": "2026-09-29T17:08:54-07:00"
     },
     {
-      "title": "Communicate",
-      "url": "https://www.producthunt.com/products/communicate",
+      "title": "Audryo",
+      "url": "https://www.producthunt.com/products/audryo",
       "tagline": "",
-      "pub_date": "2026-10-01T00:51:46-07:00"
-    },
-    {
-      "title": "Lloyal",
-      "url": "https://www.producthunt.com/products/lloyal",
-      "tagline": "",
-      "pub_date": "2026-09-30T08:18:28-07:00"
-    },
-    {
-      "title": "Never Boring AI",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "tagline": "",
-      "pub_date": "2026-10-01T03:21:53-07:00"
-    },
-    {
-      "title": "Finbar",
-      "url": "https://www.producthunt.com/products/finbar-2",
-      "tagline": "",
-      "pub_date": "2026-10-01T09:40:49-07:00"
-    },
-    {
-      "title": "Globestudio",
-      "url": "https://www.producthunt.com/products/globestudio",
-      "tagline": "",
-      "pub_date": "2026-09-29T01:07:08-07:00"
+      "pub_date": "2026-09-29T09:45:35-07:00"
     }
   ]
 }

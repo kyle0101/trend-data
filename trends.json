@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-10-06T04:09:47.992Z",
+  "generated_at": "2026-10-06T12:31:43.428Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
-      "url": "https://github.com/project-minigraf/minigraf",
-      "hn_url": "https://news.ycombinator.com/item?id=49963394",
-      "points": 32,
-      "comments": 29,
-      "created_ts": 1791199098,
-      "author": "adityamukho"
-    },
-    {
       "title": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
       "url": "https://pumpkins.sh/",
       "hn_url": "https://news.ycombinator.com/item?id=49965227",
-      "points": 20,
-      "comments": 7,
+      "points": 24,
+      "comments": 8,
       "created_ts": 1791209889,
       "author": "linesofcode"
     },
@@ -25,8 +16,8 @@
       "title": "Show HN: Steve Jobs died 15 years ago today. I built an interactive tribute",
       "url": "https://thankyousteve.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49964102",
-      "points": 14,
-      "comments": 18,
+      "points": 15,
+      "comments": 24,
       "created_ts": 1791204165,
       "author": "akashbangad"
     },
@@ -42,294 +33,276 @@
   ],
   "hn_front": [
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49961057",
-      "points": 598,
-      "comments": 494,
-      "created_ts": 1791178660,
-      "author": "emptybits"
-    },
-    {
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "hn_url": "https://news.ycombinator.com/item?id=49963171",
-      "points": 502,
-      "comments": 232,
-      "created_ts": 1791197226,
-      "author": "tosh"
-    },
-    {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
       "hn_url": "https://news.ycombinator.com/item?id=49969183",
-      "points": 364,
-      "comments": 108,
+      "points": 481,
+      "comments": 155,
       "created_ts": 1791227795,
       "author": "Philpax"
-    },
-    {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "hn_url": "https://news.ycombinator.com/item?id=49971846",
-      "points": 336,
-      "comments": 240,
-      "created_ts": 1791240405,
-      "author": "rdmuser"
     },
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "hn_url": "https://news.ycombinator.com/item?id=49970667",
-      "points": 251,
-      "comments": 179,
+      "points": 389,
+      "comments": 263,
       "created_ts": 1791234021,
       "author": "outlier99"
-    },
-    {
-      "title": "Apple and a hacker's future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "hn_url": "https://news.ycombinator.com/item?id=49962857",
-      "points": 228,
-      "comments": 199,
-      "created_ts": 1791194702,
-      "author": "maguay"
-    },
-    {
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "hn_url": "https://news.ycombinator.com/item?id=49965152",
-      "points": 150,
-      "comments": 75,
-      "created_ts": 1791209534,
-      "author": "farslan"
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "hn_url": "https://news.ycombinator.com/item?id=49965308",
-      "points": 140,
-      "comments": 37,
-      "created_ts": 1791210227,
-      "author": "Vosporos"
-    },
-    {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49971230",
-      "points": 139,
-      "comments": 46,
-      "created_ts": 1791236450,
-      "author": "ishan0102"
-    },
-    {
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "hn_url": "https://news.ycombinator.com/item?id=49971523",
-      "points": 138,
-      "comments": 21,
-      "created_ts": 1791237957,
-      "author": "01-_-"
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "hn_url": "https://news.ycombinator.com/item?id=49970871",
-      "points": 131,
-      "comments": 27,
-      "created_ts": 1791234907,
-      "author": "E-Reverance"
     },
     {
       "title": "Example.com just launched the biggest redesign in decades",
       "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "hn_url": "https://news.ycombinator.com/item?id=49971921",
-      "points": 120,
-      "comments": 75,
+      "points": 257,
+      "comments": 163,
       "created_ts": 1791240911,
       "author": "jgx0"
+    },
+    {
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "hn_url": "https://news.ycombinator.com/item?id=49965152",
+      "points": 239,
+      "comments": 102,
+      "created_ts": 1791209534,
+      "author": "farslan"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971230",
+      "points": 231,
+      "comments": 79,
+      "created_ts": 1791236450,
+      "author": "ishan0102"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "hn_url": "https://news.ycombinator.com/item?id=49970871",
+      "points": 225,
+      "comments": 59,
+      "created_ts": 1791234907,
+      "author": "E-Reverance"
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "hn_url": "https://news.ycombinator.com/item?id=49973598",
+      "points": 220,
+      "comments": 275,
+      "created_ts": 1791255111,
+      "author": "misterchocolat"
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "hn_url": "https://news.ycombinator.com/item?id=49971719",
+      "points": 210,
+      "comments": 125,
+      "created_ts": 1791239402,
+      "author": "ibobev"
+    },
+    {
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=49976265",
+      "points": 173,
+      "comments": 45,
+      "created_ts": 1791280126,
+      "author": "solarist"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49965308",
+      "points": 164,
+      "comments": 46,
+      "created_ts": 1791210227,
+      "author": "Vosporos"
     }
   ],
   "ph_today": [
     {
-      "title": "Marv",
-      "url": "https://www.producthunt.com/products/marv-3",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3",
       "tagline": "",
-      "pub_date": "2026-10-04T18:14:08-07:00"
+      "pub_date": "2026-09-29T05:36:29-07:00"
     },
     {
-      "title": "Opengeni",
-      "url": "https://www.producthunt.com/products/opengeni",
+      "title": "Fuse AI",
+      "url": "https://www.producthunt.com/products/fuseai",
       "tagline": "",
-      "pub_date": "2026-09-14T21:52:53-07:00"
+      "pub_date": "2026-10-01T12:31:47-07:00"
     },
     {
-      "title": "FastRouter.ai",
-      "url": "https://www.producthunt.com/products/fastrouter-ai",
+      "title": "Rill Browser",
+      "url": "https://www.producthunt.com/products/rill-3",
       "tagline": "",
-      "pub_date": "2026-09-30T15:36:38-07:00"
+      "pub_date": "2026-10-04T23:40:56-07:00"
     },
     {
-      "title": "Reactive Resume v6",
-      "url": "https://www.producthunt.com/products/reactive-resume",
+      "title": "Cosmic AI Support Agent",
+      "url": "https://www.producthunt.com/products/cosmic",
       "tagline": "",
-      "pub_date": "2026-10-03T17:44:32-07:00"
+      "pub_date": "2026-10-05T08:33:20-07:00"
     },
     {
-      "title": "Invofox Self Serve",
-      "url": "https://www.producthunt.com/products/invofox",
+      "title": "Incredible",
+      "url": "https://www.producthunt.com/products/incredible",
       "tagline": "",
-      "pub_date": "2026-09-23T12:54:18-07:00"
+      "pub_date": "2026-09-28T22:23:32-07:00"
     },
     {
-      "title": "devpit",
-      "url": "https://www.producthunt.com/products/devpit",
+      "title": "Lecta",
+      "url": "https://www.producthunt.com/products/lecta",
       "tagline": "",
-      "pub_date": "2026-10-02T12:16:12-07:00"
+      "pub_date": "2026-10-04T19:21:59-07:00"
     },
     {
-      "title": "Siteprint",
-      "url": "https://www.producthunt.com/products/siteprint",
+      "title": "Ranktune",
+      "url": "https://www.producthunt.com/products/ranktune",
       "tagline": "",
-      "pub_date": "2026-10-02T12:52:43-07:00"
+      "pub_date": "2026-10-03T10:46:59-07:00"
     },
     {
-      "title": "Spira Maxima",
-      "url": "https://www.producthunt.com/products/spira-ai",
+      "title": "Chunk",
+      "url": "https://www.producthunt.com/products/chunk-2",
       "tagline": "",
-      "pub_date": "2026-10-04T18:32:19-07:00"
+      "pub_date": "2026-10-05T15:42:56-07:00"
     },
     {
-      "title": "Oogwai Beacon",
-      "url": "https://www.producthunt.com/products/oogwai-beacon",
+      "title": "Doco",
+      "url": "https://www.producthunt.com/products/doco-4",
       "tagline": "",
-      "pub_date": "2026-10-01T03:06:14-07:00"
+      "pub_date": "2026-09-25T06:37:23-07:00"
     },
     {
-      "title": "HyperFrames Studio (Desktop)",
-      "url": "https://www.producthunt.com/products/heygen",
+      "title": "Review",
+      "url": "https://www.producthunt.com/products/review-2",
       "tagline": "",
-      "pub_date": "2026-10-04T23:03:02-07:00"
+      "pub_date": "2026-10-05T14:01:00-07:00"
     },
     {
-      "title": "Jarq",
-      "url": "https://www.producthunt.com/products/jarq",
+      "title": "EasyCut",
+      "url": "https://www.producthunt.com/products/easycut-2",
       "tagline": "",
-      "pub_date": "2026-10-04T19:39:41-07:00"
+      "pub_date": "2026-10-05T10:11:09-07:00"
     },
     {
-      "title": "DailyHelm",
-      "url": "https://www.producthunt.com/products/dailyhelm",
+      "title": "ruOS",
+      "url": "https://www.producthunt.com/products/ruos",
       "tagline": "",
-      "pub_date": "2026-09-29T11:28:04-07:00"
+      "pub_date": "2026-10-05T10:07:19-07:00"
     },
     {
-      "title": "crosswalk",
-      "url": "https://www.producthunt.com/products/crosswalk",
+      "title": "The Sentient World",
+      "url": "https://www.producthunt.com/products/the-sentient-world",
       "tagline": "",
-      "pub_date": "2026-10-04T20:48:12-07:00"
+      "pub_date": "2026-10-04T08:01:46-07:00"
     },
     {
-      "title": "Web Search API",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "title": "iphone-use",
+      "url": "https://www.producthunt.com/products/iphone-use",
       "tagline": "",
-      "pub_date": "2026-10-04T11:43:14-07:00"
+      "pub_date": "2026-10-05T09:24:48-07:00"
     },
     {
-      "title": "Pilot5 Legal",
-      "url": "https://www.producthunt.com/products/pilot5-ai",
+      "title": "Customer Service AI for Etsy",
+      "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
       "tagline": "",
-      "pub_date": "2026-10-04T13:12:37-07:00"
+      "pub_date": "2026-10-05T14:26:37-07:00"
     },
     {
-      "title": "Dots UI",
-      "url": "https://www.producthunt.com/products/dots-ui",
+      "title": "Haptiker",
+      "url": "https://www.producthunt.com/products/haptiker",
       "tagline": "",
-      "pub_date": "2026-10-04T09:18:38-07:00"
+      "pub_date": "2026-10-03T05:18:49-07:00"
     },
     {
-      "title": "CirclePanel",
-      "url": "https://www.producthunt.com/products/circle-panel",
+      "title": "mcpgawk",
+      "url": "https://www.producthunt.com/products/mcpgawk",
       "tagline": "",
-      "pub_date": "2026-07-14T05:47:15-07:00"
+      "pub_date": "2026-09-23T11:15:25-07:00"
     },
     {
-      "title": "Xtracticle",
-      "url": "https://www.producthunt.com/products/xtracticle",
+      "title": "Banger",
+      "url": "https://www.producthunt.com/products/banger-mail",
       "tagline": "",
-      "pub_date": "2026-10-04T05:53:37-07:00"
+      "pub_date": "2026-10-02T10:59:37-07:00"
     },
     {
-      "title": "Unscary AI",
-      "url": "https://www.producthunt.com/products/unscary-ai",
+      "title": "MeetNote",
+      "url": "https://www.producthunt.com/products/meetnote-3",
       "tagline": "",
-      "pub_date": "2026-10-03T11:10:16-07:00"
+      "pub_date": "2026-10-02T10:43:51-07:00"
     },
     {
-      "title": "Netra",
-      "url": "https://www.producthunt.com/products/netra",
+      "title": "GeckIt",
+      "url": "https://www.producthunt.com/products/geckit",
       "tagline": "",
-      "pub_date": "2026-10-03T14:57:34-07:00"
+      "pub_date": "2026-09-27T21:13:17-07:00"
     },
     {
-      "title": "SpeechShield",
-      "url": "https://www.producthunt.com/products/speechshield",
+      "title": "Notch Radio",
+      "url": "https://www.producthunt.com/products/notch-radio",
       "tagline": "",
-      "pub_date": "2026-10-04T08:59:56-07:00"
+      "pub_date": "2026-09-23T05:27:31-07:00"
     },
     {
-      "title": "iLand",
-      "url": "https://www.producthunt.com/products/iland",
+      "title": "Ari Helper 7",
+      "url": "https://www.producthunt.com/products/ari-helper",
       "tagline": "",
-      "pub_date": "2026-10-04T02:04:53-07:00"
+      "pub_date": "2026-09-22T12:38:26-07:00"
     },
     {
-      "title": "Reviu",
-      "url": "https://www.producthunt.com/products/reviu",
+      "title": "Ghostifier",
+      "url": "https://www.producthunt.com/products/ghostifier",
       "tagline": "",
-      "pub_date": "2026-10-04T09:27:10-07:00"
+      "pub_date": "2026-09-29T10:36:28-07:00"
     },
     {
-      "title": "Bentomux",
-      "url": "https://www.producthunt.com/products/bentomux",
+      "title": "Coddy",
+      "url": "https://www.producthunt.com/products/coddy",
       "tagline": "",
-      "pub_date": "2026-10-02T02:41:58-07:00"
+      "pub_date": "2026-09-09T03:59:53-07:00"
     },
     {
-      "title": "Chain Exchange",
-      "url": "https://www.producthunt.com/products/chain-exchange",
+      "title": "Aster by AsterWise",
+      "url": "https://www.producthunt.com/products/aster-by-asterwise",
       "tagline": "",
-      "pub_date": "2026-10-04T06:38:40-07:00"
+      "pub_date": "2026-10-01T21:53:42-07:00"
     },
     {
-      "title": "Cursor Remote Lite",
-      "url": "https://www.producthunt.com/products/cursor-remote-lite",
+      "title": "NoteWorthy",
+      "url": "https://www.producthunt.com/products/noteworthy",
       "tagline": "",
-      "pub_date": "2026-10-01T03:05:49-07:00"
+      "pub_date": "2026-09-28T10:22:27-07:00"
     },
     {
-      "title": "DocsAlot MCP Connector",
-      "url": "https://www.producthunt.com/products/docsalot-2",
+      "title": "Pheebs",
+      "url": "https://www.producthunt.com/products/pheebs",
       "tagline": "",
-      "pub_date": "2026-09-29T07:43:58-07:00"
+      "pub_date": "2026-09-29T15:39:00-07:00"
     },
     {
-      "title": "Sente",
-      "url": "https://www.producthunt.com/products/sente-2",
+      "title": "Patchcord",
+      "url": "https://www.producthunt.com/products/patchcord-2",
       "tagline": "",
-      "pub_date": "2026-09-15T17:38:07-07:00"
+      "pub_date": "2026-10-04T16:45:11-07:00"
     },
     {
-      "title": "Translate Like Me",
-      "url": "https://www.producthunt.com/products/translate-like-me",
+      "title": "Willow Knowledge",
+      "url": "https://www.producthunt.com/products/willow-voice",
       "tagline": "",
-      "pub_date": "2026-09-26T18:06:06-07:00"
+      "pub_date": "2026-10-05T09:56:56-07:00"
     },
     {
-      "title": "Aperture",
-      "url": "https://www.producthunt.com/products/aperture-7",
+      "title": "Floani",
+      "url": "https://www.producthunt.com/products/floani",
       "tagline": "",
-      "pub_date": "2026-10-03T12:44:58-07:00"
+      "pub_date": "2026-10-04T18:59:25-07:00"
     }
   ]
 }

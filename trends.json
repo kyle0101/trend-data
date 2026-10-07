@@ -1,52 +1,61 @@
 {
-  "generated_at": "2026-10-07T03:37:00.114Z",
+  "generated_at": "2026-10-07T12:24:48.228Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-      "url": "https://www.parseable.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49978171",
-      "points": 82,
-      "comments": 18,
-      "created_ts": 1791293450,
-      "author": "yashdotrv"
-    },
-    {
       "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
       "url": "https://peterszentkiralyi.eu/darkplug/",
       "hn_url": "https://news.ycombinator.com/item?id=49978595",
-      "points": 73,
-      "comments": 23,
+      "points": 83,
+      "comments": 35,
       "created_ts": 1791295087,
       "author": "pentakkusu"
     },
     {
-      "title": "Show HN: MailAccess – the true Email OSINT framework",
-      "url": "https://mailaccess.pro",
-      "hn_url": "https://news.ycombinator.com/item?id=49977385",
-      "points": 66,
-      "comments": 0,
-      "created_ts": 1791289458,
-      "author": "coding-maniac"
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "url": "https://www.parseable.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49978171",
+      "points": 83,
+      "comments": 23,
+      "created_ts": 1791293450,
+      "author": "yashdotrv"
     },
     {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "url": "https://github.com/longsurf-ai/openchart",
       "hn_url": "https://news.ycombinator.com/item?id=49979793",
-      "points": 38,
-      "comments": 15,
+      "points": 42,
+      "comments": 19,
       "created_ts": 1791299805,
       "author": "Warren93"
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "hn_url": "https://news.ycombinator.com/item?id=49987765",
+      "points": 29,
+      "comments": 7,
+      "created_ts": 1791343844,
+      "author": "ilreb"
     },
     {
       "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
       "url": "https://jotbus.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49978401",
-      "points": 22,
-      "comments": 13,
+      "points": 27,
+      "comments": 14,
       "created_ts": 1791294304,
       "author": "shake-n-fries"
+    },
+    {
+      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+      "url": "https://agentability.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984736",
+      "points": 13,
+      "comments": 1,
+      "created_ts": 1791324058,
+      "author": "khalidsaidi"
     },
     {
       "title": "Show HN: ChatGPT answers calls on a normal SIM. No Twilio, just a $6 ESP32",
@@ -63,273 +72,309 @@
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "hn_url": "https://news.ycombinator.com/item?id=49977979",
-      "points": 1626,
-      "comments": 974,
+      "points": 1878,
+      "comments": 1128,
       "created_ts": 1791292549,
       "author": "Philpax"
-    },
-    {
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=49976265",
-      "points": 539,
-      "comments": 184,
-      "created_ts": 1791280126,
-      "author": "solarist"
     },
     {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "hn_url": "https://news.ycombinator.com/item?id=49984923",
-      "points": 534,
-      "comments": 459,
+      "points": 998,
+      "comments": 971,
       "created_ts": 1791325041,
       "author": "OfficialTurkey"
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "hn_url": "https://news.ycombinator.com/item?id=49980715",
-      "points": 251,
-      "comments": 308,
-      "created_ts": 1791303805,
-      "author": "fsbonetto"
     },
     {
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "hn_url": "https://news.ycombinator.com/item?id=49980487",
-      "points": 247,
-      "comments": 31,
+      "points": 356,
+      "comments": 35,
       "created_ts": 1791302629,
       "author": "ilreb"
-    },
-    {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "hn_url": "https://news.ycombinator.com/item?id=49983703",
-      "points": 192,
-      "comments": 315,
-      "created_ts": 1791318827,
-      "author": "Mgtyalx"
     },
     {
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
       "hn_url": "https://news.ycombinator.com/item?id=49984025",
-      "points": 181,
-      "comments": 76,
+      "points": 334,
+      "comments": 177,
       "created_ts": 1791320245,
       "author": "chiefstorm"
     },
     {
-      "title": "What's Earth's dominant species by mass?",
-      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-      "hn_url": "https://news.ycombinator.com/item?id=49977531",
-      "points": 171,
-      "comments": 112,
-      "created_ts": 1791290403,
-      "author": "surprisetalk"
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "hn_url": "https://news.ycombinator.com/item?id=49982498",
+      "points": 327,
+      "comments": 178,
+      "created_ts": 1791312841,
+      "author": "IvanK_net"
     },
     {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "hn_url": "https://news.ycombinator.com/item?id=49985664",
-      "points": 138,
-      "comments": 104,
-      "created_ts": 1791329288,
-      "author": "Fe2O3"
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "hn_url": "https://news.ycombinator.com/item?id=49980715",
+      "points": 304,
+      "comments": 353,
+      "created_ts": 1791303805,
+      "author": "fsbonetto"
     },
     {
       "title": "Claude Code’s suggested message feature: I think the real customer is the model",
       "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "hn_url": "https://news.ycombinator.com/item?id=49981905",
-      "points": 127,
-      "comments": 64,
+      "points": 224,
+      "comments": 130,
       "created_ts": 1791309634,
       "author": "zed_labs_dev"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "hn_url": "https://news.ycombinator.com/item?id=49987076",
+      "points": 213,
+      "comments": 57,
+      "created_ts": 1791338531,
+      "author": "gmays"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984716",
+      "points": 209,
+      "comments": 135,
+      "created_ts": 1791323983,
+      "author": "kavourias"
+    },
+    {
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "hn_url": "https://news.ycombinator.com/item?id=49985643",
+      "points": 201,
+      "comments": 104,
+      "created_ts": 1791329190,
+      "author": "sgdesign"
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "hn_url": "https://news.ycombinator.com/item?id=49990224",
+      "points": 139,
+      "comments": 23,
+      "created_ts": 1791364675,
+      "author": "sohkamyung"
+    },
+    {
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "hn_url": "https://news.ycombinator.com/item?id=49986862",
+      "points": 130,
+      "comments": 51,
+      "created_ts": 1791337161,
+      "author": "jayhoon"
+    },
+    {
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "hn_url": "https://news.ycombinator.com/item?id=49978333",
+      "points": 106,
+      "comments": 48,
+      "created_ts": 1791294063,
+      "author": "Tomte"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "hn_url": "https://news.ycombinator.com/item?id=49988230",
+      "points": 103,
+      "comments": 35,
+      "created_ts": 1791347825,
+      "author": "colinprince"
     }
   ],
   "ph_today": [
     {
-      "title": "EasyCut",
-      "url": "https://www.producthunt.com/products/easycut-2",
+      "title": "Figma Agent",
+      "url": "https://www.producthunt.com/products/figma",
       "tagline": "",
-      "pub_date": "2026-10-05T10:11:09-07:00"
+      "pub_date": "2026-10-06T07:29:06-07:00"
     },
     {
-      "title": "Doco",
-      "url": "https://www.producthunt.com/products/doco-4",
+      "title": "Nano Banana 2.1",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-09-25T06:37:23-07:00"
+      "pub_date": "2026-10-06T11:54:11-07:00"
     },
     {
-      "title": "OpenBot",
-      "url": "https://www.producthunt.com/products/openbot-3",
+      "title": "DevAlly AI Agent",
+      "url": "https://www.producthunt.com/products/devally",
       "tagline": "",
-      "pub_date": "2026-09-29T05:36:29-07:00"
+      "pub_date": "2026-10-05T09:46:44-07:00"
     },
     {
-      "title": "Appto",
-      "url": "https://www.producthunt.com/products/appto",
+      "title": "Plugins Radar",
+      "url": "https://www.producthunt.com/products/plugins-radar",
       "tagline": "",
-      "pub_date": "2026-10-05T13:24:41-07:00"
+      "pub_date": "2026-10-05T08:45:50-07:00"
     },
     {
-      "title": "Brnch",
-      "url": "https://www.producthunt.com/products/brnch",
+      "title": "Rool",
+      "url": "https://www.producthunt.com/products/rool",
       "tagline": "",
-      "pub_date": "2026-10-05T08:30:20-07:00"
+      "pub_date": "2026-09-26T18:59:00-07:00"
     },
     {
-      "title": "Cosmic AI Support Agent",
-      "url": "https://www.producthunt.com/products/cosmic",
+      "title": "Mistral Large 4",
+      "url": "https://www.producthunt.com/products/mistral-7b",
       "tagline": "",
-      "pub_date": "2026-10-05T08:33:20-07:00"
+      "pub_date": "2026-10-06T08:07:45-07:00"
     },
     {
-      "title": "Floani",
-      "url": "https://www.producthunt.com/products/floani",
+      "title": "ParakeetAI 2.0",
+      "url": "https://www.producthunt.com/products/parakeetai",
       "tagline": "",
-      "pub_date": "2026-10-04T18:59:25-07:00"
+      "pub_date": "2026-10-01T23:57:29-07:00"
     },
     {
-      "title": "Notch Radio",
-      "url": "https://www.producthunt.com/products/notch-radio",
+      "title": "Walrus Console",
+      "url": "https://www.producthunt.com/products/walrus-console",
       "tagline": "",
-      "pub_date": "2026-09-23T05:27:31-07:00"
+      "pub_date": "2026-10-06T09:33:14-07:00"
     },
     {
-      "title": "mcpgawk",
-      "url": "https://www.producthunt.com/products/mcpgawk",
+      "title": "Viibeo",
+      "url": "https://www.producthunt.com/products/viibeo",
       "tagline": "",
-      "pub_date": "2026-09-23T11:15:25-07:00"
+      "pub_date": "2026-09-29T12:55:31-07:00"
     },
     {
-      "title": "Banger",
-      "url": "https://www.producthunt.com/products/banger-mail",
+      "title": "Rhem Labs",
+      "url": "https://www.producthunt.com/products/rhem-labs",
       "tagline": "",
-      "pub_date": "2026-10-02T10:59:37-07:00"
+      "pub_date": "2026-10-06T10:34:45-07:00"
     },
     {
-      "title": "Aster by AsterWise",
-      "url": "https://www.producthunt.com/products/aster-by-asterwise",
+      "title": "Zavi",
+      "url": "https://www.producthunt.com/products/zavi",
       "tagline": "",
-      "pub_date": "2026-10-01T21:53:42-07:00"
+      "pub_date": "2026-10-01T02:31:03-07:00"
     },
     {
-      "title": "Patchcord",
-      "url": "https://www.producthunt.com/products/patchcord-2",
+      "title": "ImageFlow",
+      "url": "https://www.producthunt.com/products/imageflow-6",
       "tagline": "",
-      "pub_date": "2026-10-04T16:45:11-07:00"
+      "pub_date": "2026-09-29T07:43:09-07:00"
     },
     {
-      "title": "Review",
-      "url": "https://www.producthunt.com/products/review-2",
+      "title": "SunSed",
+      "url": "https://www.producthunt.com/products/sunsed",
       "tagline": "",
-      "pub_date": "2026-10-05T14:01:00-07:00"
+      "pub_date": "2026-10-06T00:48:03-07:00"
     },
     {
-      "title": "The Sentient World",
-      "url": "https://www.producthunt.com/products/the-sentient-world",
+      "title": "Vanoor",
+      "url": "https://www.producthunt.com/products/vanoor-running-pacer-map",
       "tagline": "",
-      "pub_date": "2026-10-04T08:01:46-07:00"
+      "pub_date": "2026-10-05T04:51:09-07:00"
     },
     {
-      "title": "Lecta",
-      "url": "https://www.producthunt.com/products/lecta",
+      "title": "Basedash Mobile",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-10-04T19:21:59-07:00"
+      "pub_date": "2026-10-06T09:38:41-07:00"
     },
     {
-      "title": "Customer Service AI for Etsy",
-      "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
+      "title": "Thalia",
+      "url": "https://www.producthunt.com/products/thalia",
       "tagline": "",
-      "pub_date": "2026-10-05T14:26:37-07:00"
+      "pub_date": "2026-10-03T09:05:22-07:00"
     },
     {
-      "title": "Ari Helper 7",
-      "url": "https://www.producthunt.com/products/ari-helper",
+      "title": "Cinch – Reminders &amp; Tasks",
+      "url": "https://www.producthunt.com/products/cinch-reminders-tasks",
       "tagline": "",
-      "pub_date": "2026-09-22T12:38:26-07:00"
+      "pub_date": "2026-09-25T03:31:01-07:00"
     },
     {
-      "title": "Chunk",
-      "url": "https://www.producthunt.com/products/chunk-2",
+      "title": "Flowo",
+      "url": "https://www.producthunt.com/products/flowo-2",
       "tagline": "",
-      "pub_date": "2026-10-05T15:42:56-07:00"
+      "pub_date": "2026-09-29T17:08:15-07:00"
     },
     {
-      "title": "NoteWorthy",
-      "url": "https://www.producthunt.com/products/noteworthy",
+      "title": "Lofi Desk 2.0",
+      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
       "tagline": "",
-      "pub_date": "2026-09-28T10:22:27-07:00"
+      "pub_date": "2026-10-06T14:50:59-07:00"
     },
     {
-      "title": "iphone-use",
-      "url": "https://www.producthunt.com/products/iphone-use",
+      "title": "Postquel",
+      "url": "https://www.producthunt.com/products/postquel",
       "tagline": "",
-      "pub_date": "2026-10-05T09:24:48-07:00"
+      "pub_date": "2026-10-05T09:36:31-07:00"
     },
     {
-      "title": "AUDR by Chargebee",
-      "url": "https://www.producthunt.com/products/chargebee",
+      "title": "Aura by Neural",
+      "url": "https://www.producthunt.com/products/aura-by-neural",
       "tagline": "",
-      "pub_date": "2026-09-27T06:41:17-07:00"
+      "pub_date": "2026-10-06T19:05:50-07:00"
     },
     {
-      "title": "Fuse AI",
-      "url": "https://www.producthunt.com/products/fuseai",
+      "title": "Takweem AI",
+      "url": "https://www.producthunt.com/products/takweem-ai",
       "tagline": "",
-      "pub_date": "2026-10-01T12:31:47-07:00"
+      "pub_date": "2026-10-02T02:54:28-07:00"
     },
     {
-      "title": "Scumble",
-      "url": "https://www.producthunt.com/products/scumble",
+      "title": "Ana by Vertice",
+      "url": "https://www.producthunt.com/products/ana-by-vertice",
       "tagline": "",
-      "pub_date": "2026-10-05T14:08:37-07:00"
+      "pub_date": "2026-10-01T03:34:32-07:00"
     },
     {
-      "title": "Incredible",
-      "url": "https://www.producthunt.com/products/incredible",
+      "title": "Knuff App",
+      "url": "https://www.producthunt.com/products/knuff-app",
       "tagline": "",
-      "pub_date": "2026-09-28T22:23:32-07:00"
+      "pub_date": "2026-10-06T07:32:47-07:00"
     },
     {
-      "title": "ruOS",
-      "url": "https://www.producthunt.com/products/ruos",
+      "title": "Temp Mail",
+      "url": "https://www.producthunt.com/products/temp-mail-370",
       "tagline": "",
-      "pub_date": "2026-10-05T10:07:19-07:00"
+      "pub_date": "2026-06-23T23:16:49-07:00"
     },
     {
-      "title": "Ghostifier",
-      "url": "https://www.producthunt.com/products/ghostifier",
+      "title": "Proofsource",
+      "url": "https://www.producthunt.com/products/proofsource",
       "tagline": "",
-      "pub_date": "2026-09-29T10:36:28-07:00"
+      "pub_date": "2026-10-05T22:51:24-07:00"
     },
     {
-      "title": "Coddy",
-      "url": "https://www.producthunt.com/products/coddy",
+      "title": "Pegasus 1.6 by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
       "tagline": "",
-      "pub_date": "2026-09-09T03:59:53-07:00"
+      "pub_date": "2026-09-29T05:44:00-07:00"
     },
     {
-      "title": "Willow Knowledge",
-      "url": "https://www.producthunt.com/products/willow-voice",
+      "title": "Albie",
+      "url": "https://www.producthunt.com/products/albie",
       "tagline": "",
-      "pub_date": "2026-10-05T09:56:56-07:00"
+      "pub_date": "2026-10-05T13:26:27-07:00"
     },
     {
-      "title": "Rill Browser",
-      "url": "https://www.producthunt.com/products/rill-3",
+      "title": "Supademo AI Demo Agent",
+      "url": "https://www.producthunt.com/products/supademo",
       "tagline": "",
-      "pub_date": "2026-10-04T23:40:56-07:00"
+      "pub_date": "2025-09-03T18:12:43-07:00"
     },
     {
-      "title": "Pheebs",
-      "url": "https://www.producthunt.com/products/pheebs",
+      "title": "Velozity",
+      "url": "https://www.producthunt.com/products/velozity-2",
       "tagline": "",
-      "pub_date": "2026-09-29T15:39:00-07:00"
+      "pub_date": "2026-09-18T07:18:53-07:00"
     }
   ]
 }

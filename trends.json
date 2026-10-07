@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:05:14.115Z",
+  "generated_at": "2026-10-07T03:37:00.114Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,35 +7,35 @@
       "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
       "url": "https://www.parseable.com",
       "hn_url": "https://news.ycombinator.com/item?id=49978171",
-      "points": 70,
+      "points": 82,
       "comments": 18,
       "created_ts": 1791293450,
       "author": "yashdotrv"
     },
     {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "hn_url": "https://news.ycombinator.com/item?id=49978595",
+      "points": 73,
+      "comments": 23,
+      "created_ts": 1791295087,
+      "author": "pentakkusu"
+    },
+    {
       "title": "Show HN: MailAccess – the true Email OSINT framework",
       "url": "https://mailaccess.pro",
       "hn_url": "https://news.ycombinator.com/item?id=49977385",
-      "points": 65,
+      "points": 66,
       "comments": 0,
       "created_ts": 1791289458,
       "author": "coding-maniac"
     },
     {
-      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-      "url": "https://peterszentkiralyi.eu/darkplug/",
-      "hn_url": "https://news.ycombinator.com/item?id=49978595",
-      "points": 55,
-      "comments": 13,
-      "created_ts": 1791295087,
-      "author": "pentakkusu"
-    },
-    {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "url": "https://github.com/longsurf-ai/openchart",
       "hn_url": "https://news.ycombinator.com/item?id=49979793",
-      "points": 34,
-      "comments": 12,
+      "points": 38,
+      "comments": 15,
       "created_ts": 1791299805,
       "author": "Warren93"
     },
@@ -43,7 +43,7 @@
       "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
       "url": "https://jotbus.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49978401",
-      "points": 21,
+      "points": 22,
       "comments": 13,
       "created_ts": 1791294304,
       "author": "shake-n-fries"
@@ -63,8 +63,8 @@
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "hn_url": "https://news.ycombinator.com/item?id=49977979",
-      "points": 1455,
-      "comments": 906,
+      "points": 1626,
+      "comments": 974,
       "created_ts": 1791292549,
       "author": "Philpax"
     },
@@ -72,135 +72,90 @@
       "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "hn_url": "https://news.ycombinator.com/item?id=49976265",
-      "points": 491,
-      "comments": 159,
+      "points": 539,
+      "comments": 184,
       "created_ts": 1791280126,
       "author": "solarist"
     },
     {
-      "title": "Polars 2.0",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=49977177",
-      "points": 391,
-      "comments": 91,
-      "created_ts": 1791287941,
-      "author": "simicd"
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "hn_url": "https://news.ycombinator.com/item?id=49971921",
-      "points": 336,
-      "comments": 223,
-      "created_ts": 1791240911,
-      "author": "jgx0"
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "hn_url": "https://news.ycombinator.com/item?id=49971719",
-      "points": 303,
-      "comments": 228,
-      "created_ts": 1791239402,
-      "author": "ibobev"
-    },
-    {
-      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49976823",
-      "points": 292,
-      "comments": 147,
-      "created_ts": 1791285111,
-      "author": "pseudolus"
-    },
-    {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "hn_url": "https://news.ycombinator.com/item?id=49975619",
-      "points": 278,
-      "comments": 115,
-      "created_ts": 1791274100,
-      "author": "ingve"
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984923",
+      "points": 534,
+      "comments": 459,
+      "created_ts": 1791325041,
+      "author": "OfficialTurkey"
     },
     {
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "hn_url": "https://news.ycombinator.com/item?id=49980715",
-      "points": 181,
-      "comments": 234,
+      "points": 251,
+      "comments": 308,
       "created_ts": 1791303805,
       "author": "fsbonetto"
     },
     {
-      "title": "I'm the AGI that's wiping out humanity",
-      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
-      "hn_url": "https://news.ycombinator.com/item?id=49976751",
-      "points": 140,
-      "comments": 83,
-      "created_ts": 1791284395,
-      "author": "alex-moon"
-    },
-    {
-      "title": "EmbeddingGemma 2",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "hn_url": "https://news.ycombinator.com/item?id=49980487",
-      "points": 140,
-      "comments": 20,
+      "points": 247,
+      "comments": 31,
       "created_ts": 1791302629,
       "author": "ilreb"
+    },
+    {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "hn_url": "https://news.ycombinator.com/item?id=49983703",
+      "points": 192,
+      "comments": 315,
+      "created_ts": 1791318827,
+      "author": "Mgtyalx"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "hn_url": "https://news.ycombinator.com/item?id=49984025",
+      "points": 181,
+      "comments": 76,
+      "created_ts": 1791320245,
+      "author": "chiefstorm"
     },
     {
       "title": "What's Earth's dominant species by mass?",
       "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
       "hn_url": "https://news.ycombinator.com/item?id=49977531",
-      "points": 101,
-      "comments": 53,
+      "points": 171,
+      "comments": 112,
       "created_ts": 1791290403,
       "author": "surprisetalk"
+    },
+    {
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "hn_url": "https://news.ycombinator.com/item?id=49985664",
+      "points": 138,
+      "comments": 104,
+      "created_ts": 1791329288,
+      "author": "Fe2O3"
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "hn_url": "https://news.ycombinator.com/item?id=49981905",
+      "points": 127,
+      "comments": 64,
+      "created_ts": 1791309634,
+      "author": "zed_labs_dev"
     }
   ],
   "ph_today": [
     {
-      "title": "Aster by AsterWise",
-      "url": "https://www.producthunt.com/products/aster-by-asterwise",
+      "title": "EasyCut",
+      "url": "https://www.producthunt.com/products/easycut-2",
       "tagline": "",
-      "pub_date": "2026-10-01T21:53:42-07:00"
-    },
-    {
-      "title": "GeckIt",
-      "url": "https://www.producthunt.com/products/geckit",
-      "tagline": "",
-      "pub_date": "2026-09-27T21:13:17-07:00"
-    },
-    {
-      "title": "Ranktune",
-      "url": "https://www.producthunt.com/products/ranktune",
-      "tagline": "",
-      "pub_date": "2026-10-03T10:46:59-07:00"
-    },
-    {
-      "title": "MeetNote",
-      "url": "https://www.producthunt.com/products/meetnote-3",
-      "tagline": "",
-      "pub_date": "2026-10-02T10:43:51-07:00"
-    },
-    {
-      "title": "Awakado",
-      "url": "https://www.producthunt.com/products/awakado",
-      "tagline": "",
-      "pub_date": "2026-10-03T00:11:38-07:00"
-    },
-    {
-      "title": "Kishi Notch",
-      "url": "https://www.producthunt.com/products/kishi-notch",
-      "tagline": "",
-      "pub_date": "2026-10-05T07:10:32-07:00"
-    },
-    {
-      "title": "Rill Browser",
-      "url": "https://www.producthunt.com/products/rill-3",
-      "tagline": "",
-      "pub_date": "2026-10-04T23:40:56-07:00"
+      "pub_date": "2026-10-05T10:11:09-07:00"
     },
     {
       "title": "Doco",
@@ -209,10 +164,10 @@
       "pub_date": "2026-09-25T06:37:23-07:00"
     },
     {
-      "title": "Pheebs",
-      "url": "https://www.producthunt.com/products/pheebs",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3",
       "tagline": "",
-      "pub_date": "2026-09-29T15:39:00-07:00"
+      "pub_date": "2026-09-29T05:36:29-07:00"
     },
     {
       "title": "Appto",
@@ -221,34 +176,10 @@
       "pub_date": "2026-10-05T13:24:41-07:00"
     },
     {
-      "title": "Ghostifier",
-      "url": "https://www.producthunt.com/products/ghostifier",
+      "title": "Brnch",
+      "url": "https://www.producthunt.com/products/brnch",
       "tagline": "",
-      "pub_date": "2026-09-29T10:36:28-07:00"
-    },
-    {
-      "title": "Incredible",
-      "url": "https://www.producthunt.com/products/incredible",
-      "tagline": "",
-      "pub_date": "2026-09-28T22:23:32-07:00"
-    },
-    {
-      "title": "Fuse AI",
-      "url": "https://www.producthunt.com/products/fuseai",
-      "tagline": "",
-      "pub_date": "2026-10-01T12:31:47-07:00"
-    },
-    {
-      "title": "Willow Knowledge",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "tagline": "",
-      "pub_date": "2026-10-05T09:56:56-07:00"
-    },
-    {
-      "title": "Chunk",
-      "url": "https://www.producthunt.com/products/chunk-2",
-      "tagline": "",
-      "pub_date": "2026-10-05T15:42:56-07:00"
+      "pub_date": "2026-10-05T08:30:20-07:00"
     },
     {
       "title": "Cosmic AI Support Agent",
@@ -257,28 +188,10 @@
       "pub_date": "2026-10-05T08:33:20-07:00"
     },
     {
-      "title": "Review",
-      "url": "https://www.producthunt.com/products/review-2",
+      "title": "Floani",
+      "url": "https://www.producthunt.com/products/floani",
       "tagline": "",
-      "pub_date": "2026-10-05T14:01:00-07:00"
-    },
-    {
-      "title": "OpenBot",
-      "url": "https://www.producthunt.com/products/openbot-3",
-      "tagline": "",
-      "pub_date": "2026-09-29T05:36:29-07:00"
-    },
-    {
-      "title": "Brnch",
-      "url": "https://www.producthunt.com/products/brnch",
-      "tagline": "",
-      "pub_date": "2026-10-05T08:30:20-07:00"
-    },
-    {
-      "title": "iphone-use",
-      "url": "https://www.producthunt.com/products/iphone-use",
-      "tagline": "",
-      "pub_date": "2026-10-05T09:24:48-07:00"
+      "pub_date": "2026-10-04T18:59:25-07:00"
     },
     {
       "title": "Notch Radio",
@@ -287,10 +200,22 @@
       "pub_date": "2026-09-23T05:27:31-07:00"
     },
     {
-      "title": "Floani",
-      "url": "https://www.producthunt.com/products/floani",
+      "title": "mcpgawk",
+      "url": "https://www.producthunt.com/products/mcpgawk",
       "tagline": "",
-      "pub_date": "2026-10-04T18:59:25-07:00"
+      "pub_date": "2026-09-23T11:15:25-07:00"
+    },
+    {
+      "title": "Banger",
+      "url": "https://www.producthunt.com/products/banger-mail",
+      "tagline": "",
+      "pub_date": "2026-10-02T10:59:37-07:00"
+    },
+    {
+      "title": "Aster by AsterWise",
+      "url": "https://www.producthunt.com/products/aster-by-asterwise",
+      "tagline": "",
+      "pub_date": "2026-10-01T21:53:42-07:00"
     },
     {
       "title": "Patchcord",
@@ -299,10 +224,10 @@
       "pub_date": "2026-10-04T16:45:11-07:00"
     },
     {
-      "title": "Ari Helper 7",
-      "url": "https://www.producthunt.com/products/ari-helper",
+      "title": "Review",
+      "url": "https://www.producthunt.com/products/review-2",
       "tagline": "",
-      "pub_date": "2026-09-22T12:38:26-07:00"
+      "pub_date": "2026-10-05T14:01:00-07:00"
     },
     {
       "title": "The Sentient World",
@@ -311,22 +236,28 @@
       "pub_date": "2026-10-04T08:01:46-07:00"
     },
     {
+      "title": "Lecta",
+      "url": "https://www.producthunt.com/products/lecta",
+      "tagline": "",
+      "pub_date": "2026-10-04T19:21:59-07:00"
+    },
+    {
       "title": "Customer Service AI for Etsy",
       "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
       "tagline": "",
       "pub_date": "2026-10-05T14:26:37-07:00"
     },
     {
-      "title": "AUDR by Chargebee",
-      "url": "https://www.producthunt.com/products/chargebee",
+      "title": "Ari Helper 7",
+      "url": "https://www.producthunt.com/products/ari-helper",
       "tagline": "",
-      "pub_date": "2026-09-27T06:41:17-07:00"
+      "pub_date": "2026-09-22T12:38:26-07:00"
     },
     {
-      "title": "Lecta",
-      "url": "https://www.producthunt.com/products/lecta",
+      "title": "Chunk",
+      "url": "https://www.producthunt.com/products/chunk-2",
       "tagline": "",
-      "pub_date": "2026-10-04T19:21:59-07:00"
+      "pub_date": "2026-10-05T15:42:56-07:00"
     },
     {
       "title": "NoteWorthy",
@@ -335,10 +266,70 @@
       "pub_date": "2026-09-28T10:22:27-07:00"
     },
     {
-      "title": "EasyCut",
-      "url": "https://www.producthunt.com/products/easycut-2",
+      "title": "iphone-use",
+      "url": "https://www.producthunt.com/products/iphone-use",
       "tagline": "",
-      "pub_date": "2026-10-05T10:11:09-07:00"
+      "pub_date": "2026-10-05T09:24:48-07:00"
+    },
+    {
+      "title": "AUDR by Chargebee",
+      "url": "https://www.producthunt.com/products/chargebee",
+      "tagline": "",
+      "pub_date": "2026-09-27T06:41:17-07:00"
+    },
+    {
+      "title": "Fuse AI",
+      "url": "https://www.producthunt.com/products/fuseai",
+      "tagline": "",
+      "pub_date": "2026-10-01T12:31:47-07:00"
+    },
+    {
+      "title": "Scumble",
+      "url": "https://www.producthunt.com/products/scumble",
+      "tagline": "",
+      "pub_date": "2026-10-05T14:08:37-07:00"
+    },
+    {
+      "title": "Incredible",
+      "url": "https://www.producthunt.com/products/incredible",
+      "tagline": "",
+      "pub_date": "2026-09-28T22:23:32-07:00"
+    },
+    {
+      "title": "ruOS",
+      "url": "https://www.producthunt.com/products/ruos",
+      "tagline": "",
+      "pub_date": "2026-10-05T10:07:19-07:00"
+    },
+    {
+      "title": "Ghostifier",
+      "url": "https://www.producthunt.com/products/ghostifier",
+      "tagline": "",
+      "pub_date": "2026-09-29T10:36:28-07:00"
+    },
+    {
+      "title": "Coddy",
+      "url": "https://www.producthunt.com/products/coddy",
+      "tagline": "",
+      "pub_date": "2026-09-09T03:59:53-07:00"
+    },
+    {
+      "title": "Willow Knowledge",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "tagline": "",
+      "pub_date": "2026-10-05T09:56:56-07:00"
+    },
+    {
+      "title": "Rill Browser",
+      "url": "https://www.producthunt.com/products/rill-3",
+      "tagline": "",
+      "pub_date": "2026-10-04T23:40:56-07:00"
+    },
+    {
+      "title": "Pheebs",
+      "url": "https://www.producthunt.com/products/pheebs",
+      "tagline": "",
+      "pub_date": "2026-09-29T15:39:00-07:00"
     }
   ]
 }

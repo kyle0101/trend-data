@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:29:25.992Z",
+  "generated_at": "2026-10-08T03:51:11.929Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
       "hn_url": "https://news.ycombinator.com/item?id=49994443",
-      "points": 274,
-      "comments": 92,
+      "points": 404,
+      "comments": 117,
       "created_ts": 1791387861,
       "author": "SpeakingOfBrad"
     },
@@ -16,26 +16,26 @@
       "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
       "url": "https://artmuseum.artfrompixels.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49992057",
-      "points": 137,
-      "comments": 60,
+      "points": 145,
+      "comments": 61,
       "created_ts": 1791377468,
       "author": "jasontr"
     },
     {
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "hn_url": "https://news.ycombinator.com/item?id=49987765",
-      "points": 54,
-      "comments": 20,
-      "created_ts": 1791343844,
-      "author": "ilreb"
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "hn_url": "https://news.ycombinator.com/item?id=49995539",
+      "points": 50,
+      "comments": 43,
+      "created_ts": 1791392351,
+      "author": "screm"
     },
     {
       "title": "Show HN: Procinsh – A 3D Linux process inspector",
       "url": "https://github.com/akawashiro/procinsh",
       "hn_url": "https://news.ycombinator.com/item?id=49991986",
-      "points": 48,
-      "comments": 13,
+      "points": 50,
+      "comments": 21,
       "created_ts": 1791377106,
       "author": "a_kawashiro"
     },
@@ -43,35 +43,17 @@
       "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
       "url": "https://gtlds.fyi/",
       "hn_url": "https://news.ycombinator.com/item?id=49997971",
-      "points": 35,
-      "comments": 46,
+      "points": 38,
+      "comments": 56,
       "created_ts": 1791402797,
       "author": "irs"
-    },
-    {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "hn_url": "https://news.ycombinator.com/item?id=49995539",
-      "points": 21,
-      "comments": 29,
-      "created_ts": 1791392351,
-      "author": "screm"
-    },
-    {
-      "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
-      "url": "https://news.ycombinator.lol",
-      "hn_url": "https://news.ycombinator.com/item?id=49996495",
-      "points": 13,
-      "comments": 5,
-      "created_ts": 1791396335,
-      "author": "sillysaurusx"
     },
     {
       "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
       "url": "https://github.com/forgeplane/pinrail",
       "hn_url": "https://news.ycombinator.com/item?id=49995778",
-      "points": 13,
-      "comments": 1,
+      "points": 21,
+      "comments": 4,
       "created_ts": 1791393303,
       "author": "pnezis"
     },
@@ -79,28 +61,55 @@
       "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
       "url": "https://github.com/lowenbjer/claude-terse",
       "hn_url": "https://news.ycombinator.com/item?id=49995809",
-      "points": 12,
+      "points": 15,
       "comments": 0,
       "created_ts": 1791393408,
       "author": "lowenbjer"
+    },
+    {
+      "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
+      "url": "https://news.ycombinator.lol",
+      "hn_url": "https://news.ycombinator.com/item?id=49996495",
+      "points": 14,
+      "comments": 5,
+      "created_ts": 1791396335,
+      "author": "sillysaurusx"
     }
   ],
   "hn_front": [
     {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "hn_url": "https://news.ycombinator.com/item?id=49998895",
+      "points": 964,
+      "comments": 109,
+      "created_ts": 1791407778,
+      "author": "muglug"
+    },
+    {
       "title": "Claude Haiku 5.5",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "hn_url": "https://news.ycombinator.com/item?id=49996437",
-      "points": 554,
-      "comments": 258,
+      "points": 734,
+      "comments": 373,
       "created_ts": 1791396092,
       "author": "sfkgtbor"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "hn_url": "https://news.ycombinator.com/item?id=49996425",
+      "points": 540,
+      "comments": 280,
+      "created_ts": 1791396058,
+      "author": "joshuawright11"
     },
     {
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
       "hn_url": "https://news.ycombinator.com/item?id=49991227",
-      "points": 455,
-      "comments": 290,
+      "points": 508,
+      "comments": 344,
       "created_ts": 1791372302,
       "author": "AshleysBrain"
     },
@@ -108,44 +117,17 @@
       "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
       "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
       "hn_url": "https://news.ycombinator.com/item?id=49993914",
-      "points": 434,
-      "comments": 295,
+      "points": 503,
+      "comments": 362,
       "created_ts": 1791385799,
       "author": "DeepLogin"
-    },
-    {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "hn_url": "https://news.ycombinator.com/item?id=49996425",
-      "points": 397,
-      "comments": 198,
-      "created_ts": 1791396058,
-      "author": "joshuawright11"
-    },
-    {
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "hn_url": "https://news.ycombinator.com/item?id=49990224",
-      "points": 364,
-      "comments": 62,
-      "created_ts": 1791364675,
-      "author": "sohkamyung"
-    },
-    {
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "hn_url": "https://news.ycombinator.com/item?id=49990470",
-      "points": 277,
-      "comments": 53,
-      "created_ts": 1791366703,
-      "author": "sasvari"
     },
     {
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
       "hn_url": "https://news.ycombinator.com/item?id=49994443",
-      "points": 274,
-      "comments": 92,
+      "points": 404,
+      "comments": 117,
       "created_ts": 1791387861,
       "author": "SpeakingOfBrad"
     },
@@ -153,53 +135,44 @@
       "title": "Animated ASCII Art for Web Pages",
       "url": "https://ascii.rest/",
       "hn_url": "https://news.ycombinator.com/item?id=49993857",
-      "points": 244,
-      "comments": 55,
+      "points": 311,
+      "comments": 59,
       "created_ts": 1791385537,
       "author": "turrini"
-    },
-    {
-      "title": "Navier–Stokes Lost in Translation",
-      "url": "https://arxiv.org/abs/2610.08144",
-      "hn_url": "https://news.ycombinator.com/item?id=49994145",
-      "points": 203,
-      "comments": 138,
-      "created_ts": 1791386678,
-      "author": "nill0"
     },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49997161",
-      "points": 194,
-      "comments": 205,
+      "points": 303,
+      "comments": 292,
       "created_ts": 1791398980,
       "author": "speckx"
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "hn_url": "https://news.ycombinator.com/item?id=49994145",
+      "points": 269,
+      "comments": 168,
+      "created_ts": 1791386678,
+      "author": "nill0"
     },
     {
       "title": "Anti-patterns in software blogging",
       "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
       "hn_url": "https://news.ycombinator.com/item?id=49992257",
-      "points": 180,
-      "comments": 101,
+      "points": 223,
+      "comments": 125,
       "created_ts": 1791378506,
       "author": "ilreb"
-    },
-    {
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "hn_url": "https://news.ycombinator.com/item?id=49997718",
-      "points": 153,
-      "comments": 161,
-      "created_ts": 1791401620,
-      "author": "6bitquant"
     },
     {
       "title": "Docker Agent",
       "url": "https://github.com/docker/docker-agent",
       "hn_url": "https://news.ycombinator.com/item?id=49996259",
-      "points": 137,
-      "comments": 57,
+      "points": 197,
+      "comments": 87,
       "created_ts": 1791395318,
       "author": "saikatsg"
     },
@@ -207,33 +180,72 @@
       "title": "House with 15m underground tunnels for sale for 300k",
       "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
       "hn_url": "https://news.ycombinator.com/item?id=49992125",
-      "points": 127,
-      "comments": 146,
+      "points": 176,
+      "comments": 165,
       "created_ts": 1791377830,
       "author": "librasteve"
     },
     {
-      "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "hn_url": "https://news.ycombinator.com/item?id=49998895",
-      "points": 105,
-      "comments": 5,
-      "created_ts": 1791407778,
-      "author": "muglug"
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "hn_url": "https://news.ycombinator.com/item?id=49991243",
+      "points": 171,
+      "comments": 94,
+      "created_ts": 1791372447,
+      "author": "sn001"
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "hn_url": "https://news.ycombinator.com/item?id=49991823",
+      "points": 126,
+      "comments": 207,
+      "created_ts": 1791376116,
+      "author": "acossta"
+    },
+    {
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "hn_url": "https://news.ycombinator.com/item?id=49997073",
+      "points": 117,
+      "comments": 57,
+      "created_ts": 1791398598,
+      "author": "speckx"
+    },
+    {
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "hn_url": "https://news.ycombinator.com/item?id=49993908",
+      "points": 108,
+      "comments": 180,
+      "created_ts": 1791385773,
+      "author": "karakoram"
     }
   ],
   "ph_today": [
     {
-      "title": "ImageFlow",
-      "url": "https://www.producthunt.com/products/imageflow-6",
+      "title": "GenPage 3.0",
+      "url": "https://www.producthunt.com/products/genpage",
       "tagline": "",
-      "pub_date": "2026-09-29T07:43:09-07:00"
+      "pub_date": "2026-09-30T11:17:55-07:00"
     },
     {
-      "title": "Databench by Alkera",
-      "url": "https://www.producthunt.com/products/alkera",
+      "title": "Mistral Large 4",
+      "url": "https://www.producthunt.com/products/mistral-7b",
       "tagline": "",
-      "pub_date": "2026-09-17T07:08:31-07:00"
+      "pub_date": "2026-10-06T08:07:45-07:00"
+    },
+    {
+      "title": "Ownfeed",
+      "url": "https://www.producthunt.com/products/ownfeed",
+      "tagline": "",
+      "pub_date": "2026-10-06T14:35:43-07:00"
+    },
+    {
+      "title": "Rool",
+      "url": "https://www.producthunt.com/products/rool",
+      "tagline": "",
+      "pub_date": "2026-09-26T18:59:00-07:00"
     },
     {
       "title": "Velozity",
@@ -248,58 +260,16 @@
       "pub_date": "2026-09-29T05:44:00-07:00"
     },
     {
-      "title": "Introducing Video Editor in Manus 2.0",
-      "url": "https://www.producthunt.com/products/manus",
+      "title": "Databench by Alkera",
+      "url": "https://www.producthunt.com/products/alkera",
       "tagline": "",
-      "pub_date": "2026-10-06T00:31:08-07:00"
+      "pub_date": "2026-09-17T07:08:31-07:00"
     },
     {
-      "title": "Rhem Labs",
-      "url": "https://www.producthunt.com/products/rhem-labs",
+      "title": "Supademo AI Demo Agent",
+      "url": "https://www.producthunt.com/products/supademo",
       "tagline": "",
-      "pub_date": "2026-10-06T10:34:45-07:00"
-    },
-    {
-      "title": "Unprompt",
-      "url": "https://www.producthunt.com/products/unprompt-2",
-      "tagline": "",
-      "pub_date": "2026-10-01T04:16:21-07:00"
-    },
-    {
-      "title": "IrisGo for Solopreneurs",
-      "url": "https://www.producthunt.com/products/irisgo-public-beta",
-      "tagline": "",
-      "pub_date": "2026-10-05T15:45:07-07:00"
-    },
-    {
-      "title": "Lofi Desk 2.0",
-      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
-      "tagline": "",
-      "pub_date": "2026-10-06T14:50:59-07:00"
-    },
-    {
-      "title": "Featherweight Dictation",
-      "url": "https://www.producthunt.com/products/featherweight-dictation",
-      "tagline": "",
-      "pub_date": "2026-10-06T05:12:07-07:00"
-    },
-    {
-      "title": "DailyHub",
-      "url": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
-      "tagline": "",
-      "pub_date": "2026-10-06T13:45:05-07:00"
-    },
-    {
-      "title": "Nano Banana 2.1",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-10-06T11:54:11-07:00"
-    },
-    {
-      "title": "Aura by Neural",
-      "url": "https://www.producthunt.com/products/aura-by-neural",
-      "tagline": "",
-      "pub_date": "2026-10-06T19:05:50-07:00"
+      "pub_date": "2025-09-03T18:12:43-07:00"
     },
     {
       "title": "Proofsource",
@@ -308,16 +278,34 @@
       "pub_date": "2026-10-05T22:51:24-07:00"
     },
     {
-      "title": "Vresk",
-      "url": "https://www.producthunt.com/products/vresk",
+      "title": "Nano Banana 2.1",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-10-05T15:47:06-07:00"
+      "pub_date": "2026-10-06T11:54:11-07:00"
     },
     {
-      "title": "Flowo",
-      "url": "https://www.producthunt.com/products/flowo-2",
+      "title": "ParakeetAI 2.0",
+      "url": "https://www.producthunt.com/products/parakeetai",
       "tagline": "",
-      "pub_date": "2026-09-29T17:08:15-07:00"
+      "pub_date": "2026-10-01T23:57:29-07:00"
+    },
+    {
+      "title": "DevAlly AI Agent",
+      "url": "https://www.producthunt.com/products/devally",
+      "tagline": "",
+      "pub_date": "2026-10-05T09:46:44-07:00"
+    },
+    {
+      "title": "Rhem Labs",
+      "url": "https://www.producthunt.com/products/rhem-labs",
+      "tagline": "",
+      "pub_date": "2026-10-06T10:34:45-07:00"
+    },
+    {
+      "title": "Lofi Desk 2.0",
+      "url": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+      "tagline": "",
+      "pub_date": "2026-10-06T14:50:59-07:00"
     },
     {
       "title": "Basedash Mobile",
@@ -326,10 +314,16 @@
       "pub_date": "2026-10-06T09:38:41-07:00"
     },
     {
-      "title": "Viibeo",
-      "url": "https://www.producthunt.com/products/viibeo",
+      "title": "Vresk",
+      "url": "https://www.producthunt.com/products/vresk",
       "tagline": "",
-      "pub_date": "2026-09-29T12:55:31-07:00"
+      "pub_date": "2026-10-05T15:47:06-07:00"
+    },
+    {
+      "title": "Ana by Vertice",
+      "url": "https://www.producthunt.com/products/ana-by-vertice",
+      "tagline": "",
+      "pub_date": "2026-10-01T03:34:32-07:00"
     },
     {
       "title": "Plugins Radar",
@@ -350,22 +344,16 @@
       "pub_date": "2026-10-05T04:51:09-07:00"
     },
     {
-      "title": "Supademo AI Demo Agent",
-      "url": "https://www.producthunt.com/products/supademo",
+      "title": "DailyHub",
+      "url": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
       "tagline": "",
-      "pub_date": "2025-09-03T18:12:43-07:00"
+      "pub_date": "2026-10-06T13:45:05-07:00"
     },
     {
-      "title": "ParakeetAI 2.0",
-      "url": "https://www.producthunt.com/products/parakeetai",
+      "title": "Temp Mail",
+      "url": "https://www.producthunt.com/products/temp-mail-370",
       "tagline": "",
-      "pub_date": "2026-10-01T23:57:29-07:00"
-    },
-    {
-      "title": "DevAlly AI Agent",
-      "url": "https://www.producthunt.com/products/devally",
-      "tagline": "",
-      "pub_date": "2026-10-05T09:46:44-07:00"
+      "pub_date": "2026-06-23T23:16:49-07:00"
     },
     {
       "title": "Reika",
@@ -374,10 +362,34 @@
       "pub_date": "2026-10-06T20:36:08-07:00"
     },
     {
-      "title": "Ana by Vertice",
-      "url": "https://www.producthunt.com/products/ana-by-vertice",
+      "title": "SunSed",
+      "url": "https://www.producthunt.com/products/sunsed",
       "tagline": "",
-      "pub_date": "2026-10-01T03:34:32-07:00"
+      "pub_date": "2026-10-06T00:48:03-07:00"
+    },
+    {
+      "title": "Featherweight Dictation",
+      "url": "https://www.producthunt.com/products/featherweight-dictation",
+      "tagline": "",
+      "pub_date": "2026-10-06T05:12:07-07:00"
+    },
+    {
+      "title": "Cinch – Reminders &amp; Tasks",
+      "url": "https://www.producthunt.com/products/cinch-reminders-tasks",
+      "tagline": "",
+      "pub_date": "2026-09-25T03:31:01-07:00"
+    },
+    {
+      "title": "Viibeo",
+      "url": "https://www.producthunt.com/products/viibeo",
+      "tagline": "",
+      "pub_date": "2026-09-29T12:55:31-07:00"
+    },
+    {
+      "title": "Zavi",
+      "url": "https://www.producthunt.com/products/zavi",
+      "tagline": "",
+      "pub_date": "2026-10-01T02:31:03-07:00"
     },
     {
       "title": "Linda",
@@ -386,22 +398,10 @@
       "pub_date": "2026-10-03T08:00:25-07:00"
     },
     {
-      "title": "SunSed",
-      "url": "https://www.producthunt.com/products/sunsed",
+      "title": "Unprompt",
+      "url": "https://www.producthunt.com/products/unprompt-2",
       "tagline": "",
-      "pub_date": "2026-10-06T00:48:03-07:00"
-    },
-    {
-      "title": "Figma Agent",
-      "url": "https://www.producthunt.com/products/figma",
-      "tagline": "",
-      "pub_date": "2026-10-06T07:29:06-07:00"
-    },
-    {
-      "title": "Thalia",
-      "url": "https://www.producthunt.com/products/thalia",
-      "tagline": "",
-      "pub_date": "2026-10-03T09:05:22-07:00"
+      "pub_date": "2026-10-01T04:16:21-07:00"
     }
   ]
 }

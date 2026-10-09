@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-09T03:56:38.923Z",
+  "generated_at": "2026-10-09T12:22:02.849Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50016312",
+      "points": 184,
+      "comments": 143,
+      "created_ts": 1791523378,
+      "author": "ilreb"
+    },
+    {
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
       "hn_url": "https://news.ycombinator.com/item?id=50008047",
-      "points": 125,
-      "comments": 24,
+      "points": 182,
+      "comments": 32,
       "created_ts": 1791477444,
       "author": "scottbez1"
     },
@@ -16,8 +25,8 @@
       "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
       "url": "https://github.com/p10node/k10s",
       "hn_url": "https://news.ycombinator.com/item?id=50009904",
-      "points": 62,
-      "comments": 47,
+      "points": 65,
+      "comments": 50,
       "created_ts": 1791484146,
       "author": "pierreneter"
     },
@@ -25,8 +34,8 @@
       "title": "Show HN: Jevman – AI decision models play Pac-Man",
       "url": "https://opper.ai/jevman-benchmark/",
       "hn_url": "https://news.ycombinator.com/item?id=50007993",
-      "points": 44,
-      "comments": 6,
+      "points": 65,
+      "comments": 16,
       "created_ts": 1791477253,
       "author": "felix089"
     },
@@ -34,8 +43,8 @@
       "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
       "url": "https://github.com/thesnarkitecht/rembrandt",
       "hn_url": "https://news.ycombinator.com/item?id=50012199",
-      "points": 42,
-      "comments": 51,
+      "points": 47,
+      "comments": 52,
       "created_ts": 1791493255,
       "author": "thesnarkitecht"
     },
@@ -43,44 +52,44 @@
       "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
       "url": "https://svg-spark.vercel.app/",
       "hn_url": "https://news.ycombinator.com/item?id=50013931",
-      "points": 34,
-      "comments": 6,
+      "points": 41,
+      "comments": 7,
       "created_ts": 1791502369,
       "author": "Zeus808"
-    },
-    {
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "url": "https://pocketty.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50009634",
-      "points": 27,
-      "comments": 12,
-      "created_ts": 1791483112,
-      "author": "lukeed"
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "hn_url": "https://news.ycombinator.com/item?id=50006114",
-      "points": 27,
-      "comments": 11,
-      "created_ts": 1791469131,
-      "author": "anupray"
     },
     {
       "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
       "url": "https://github.com/edrisranjbar/lifeos",
       "hn_url": "https://news.ycombinator.com/item?id=50014150",
-      "points": 25,
-      "comments": 4,
+      "points": 38,
+      "comments": 12,
       "created_ts": 1791504139,
       "author": "edris0077"
+    },
+    {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "hn_url": "https://news.ycombinator.com/item?id=50006114",
+      "points": 29,
+      "comments": 14,
+      "created_ts": 1791469131,
+      "author": "anupray"
+    },
+    {
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "url": "https://pocketty.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50009634",
+      "points": 28,
+      "comments": 15,
+      "created_ts": 1791483112,
+      "author": "lukeed"
     },
     {
       "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
       "url": "https://github.com/edgedelta/project-arena",
       "hn_url": "https://news.ycombinator.com/item?id=50008642",
       "points": 22,
-      "comments": 8,
+      "comments": 9,
       "created_ts": 1791479588,
       "author": "emrahsamdan"
     },
@@ -88,8 +97,8 @@
       "title": "Show HN: Wordminos – Crosswords Meet Dominos",
       "url": "https://wordminos.com/play-en.html",
       "hn_url": "https://news.ycombinator.com/item?id=50005276",
-      "points": 18,
-      "comments": 7,
+      "points": 19,
+      "comments": 8,
       "created_ts": 1791464206,
       "author": "dyarosla"
     },
@@ -97,10 +106,19 @@
       "title": "Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
       "url": "https://pivotlake.io/",
       "hn_url": "https://news.ycombinator.com/item?id=50006760",
-      "points": 11,
-      "comments": 1,
+      "points": 14,
+      "comments": 2,
       "created_ts": 1791472122,
       "author": "dkgs"
+    },
+    {
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "url": "https://www.oldroll.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50016840",
+      "points": 11,
+      "comments": 2,
+      "created_ts": 1791528014,
+      "author": "awa11"
     }
   ],
   "hn_front": [
@@ -108,8 +126,8 @@
       "title": "Whistle: Speech to Text in 16.9 MB",
       "url": "https://cactuscompute.com/blog/whistle",
       "hn_url": "https://news.ycombinator.com/item?id=50008427",
-      "points": 607,
-      "comments": 135,
+      "points": 807,
+      "comments": 160,
       "created_ts": 1791478779,
       "author": "gmays"
     },
@@ -117,53 +135,62 @@
       "title": "Theranos.world",
       "url": "https://www.theranos.world/",
       "hn_url": "https://news.ycombinator.com/item?id=50009295",
-      "points": 333,
-      "comments": 124,
+      "points": 477,
+      "comments": 165,
       "created_ts": 1791481909,
       "author": "kbyatnal"
-    },
-    {
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "hn_url": "https://news.ycombinator.com/item?id=50005527",
-      "points": 276,
-      "comments": 153,
-      "created_ts": 1791465721,
-      "author": "speckx"
-    },
-    {
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "hn_url": "https://news.ycombinator.com/item?id=50003796",
-      "points": 245,
-      "comments": 80,
-      "created_ts": 1791452898,
-      "author": "Michelangelo11"
     },
     {
       "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
       "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
       "hn_url": "https://news.ycombinator.com/item?id=50011928",
-      "points": 206,
-      "comments": 137,
+      "points": 333,
+      "comments": 211,
       "created_ts": 1791492136,
       "author": "bookofjoe"
     },
     {
-      "title": "Orkut.com",
-      "url": "https://orkut.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50006012",
-      "points": 157,
-      "comments": 119,
-      "created_ts": 1791468593,
-      "author": "andreynering"
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "hn_url": "https://news.ycombinator.com/item?id=50005527",
+      "points": 313,
+      "comments": 167,
+      "created_ts": 1791465721,
+      "author": "speckx"
+    },
+    {
+      "title": "Bevy 0.20",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "hn_url": "https://news.ycombinator.com/item?id=50013610",
+      "points": 196,
+      "comments": 45,
+      "created_ts": 1791500270,
+      "author": "Philpax"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "hn_url": "https://news.ycombinator.com/item?id=50015515",
+      "points": 186,
+      "comments": 161,
+      "created_ts": 1791515285,
+      "author": "sohkamyung"
+    },
+    {
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50016312",
+      "points": 184,
+      "comments": 143,
+      "created_ts": 1791523378,
+      "author": "ilreb"
     },
     {
       "title": "The value of not getting to the point (2015)",
       "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
       "hn_url": "https://news.ycombinator.com/item?id=50010470",
-      "points": 137,
-      "comments": 43,
+      "points": 183,
+      "comments": 63,
       "created_ts": 1791486296,
       "author": "NaOH"
     },
@@ -171,201 +198,237 @@
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
       "hn_url": "https://news.ycombinator.com/item?id=50008047",
-      "points": 125,
-      "comments": 24,
+      "points": 182,
+      "comments": 32,
       "created_ts": 1791477444,
       "author": "scottbez1"
+    },
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50013902",
+      "points": 138,
+      "comments": 211,
+      "created_ts": 1791502183,
+      "author": "md224"
     },
     {
       "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
       "url": "https://openrouter.ai/stepfun/step-5-preview",
       "hn_url": "https://news.ycombinator.com/item?id=50007764",
-      "points": 115,
-      "comments": 26,
+      "points": 132,
+      "comments": 32,
       "created_ts": 1791476420,
       "author": "AnneWodell"
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "hn_url": "https://news.ycombinator.com/item?id=50011999",
+      "points": 132,
+      "comments": 19,
+      "created_ts": 1791492385,
+      "author": "ray__"
+    },
+    {
+      "title": "What should we tell our students?",
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "hn_url": "https://news.ycombinator.com/item?id=50015236",
+      "points": 129,
+      "comments": 173,
+      "created_ts": 1791512865,
+      "author": "sajid"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "hn_url": "https://news.ycombinator.com/item?id=50018420",
+      "points": 126,
+      "comments": 53,
+      "created_ts": 1791540731,
+      "author": "Anon84"
     }
   ],
   "ph_today": [
     {
-      "title": "Liquid Inference",
-      "url": "https://www.producthunt.com/products/liquid-inference",
+      "title": "Playground by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
       "tagline": "",
-      "pub_date": "2026-10-07T01:14:41-07:00"
+      "pub_date": "2026-10-07T20:24:04-07:00"
     },
     {
-      "title": "Hark",
-      "url": "https://www.producthunt.com/products/hark-3",
+      "title": "Zernio",
+      "url": "https://www.producthunt.com/products/zernio",
       "tagline": "",
-      "pub_date": "2026-10-06T18:29:22-07:00"
+      "pub_date": "2026-10-07T04:56:43-07:00"
     },
     {
-      "title": "Mailwell",
-      "url": "https://www.producthunt.com/products/mailwell-2",
+      "title": "Staffcoder",
+      "url": "https://www.producthunt.com/products/staffcoder",
       "tagline": "",
-      "pub_date": "2026-10-06T16:47:34-07:00"
+      "pub_date": "2026-10-08T01:53:59-07:00"
     },
     {
-      "title": "NOVA CLI v1.0",
-      "url": "https://www.producthunt.com/products/nova-18",
+      "title": "Phonable",
+      "url": "https://www.producthunt.com/products/phonable",
       "tagline": "",
-      "pub_date": "2026-10-07T08:00:40-07:00"
+      "pub_date": "2026-10-05T06:03:57-07:00"
     },
     {
-      "title": "Polylane for Vercel",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Thravik",
+      "url": "https://www.producthunt.com/products/thravik",
       "tagline": "",
-      "pub_date": "2026-10-07T15:05:44-07:00"
+      "pub_date": "2026-10-08T13:52:59-07:00"
     },
     {
-      "title": "Claude for Google Workspace",
-      "url": "https://www.producthunt.com/products/claude-for-google-workspace",
+      "title": "BrightBean Studio",
+      "url": "https://www.producthunt.com/products/brightbean-studio-social-media",
       "tagline": "",
-      "pub_date": "2026-10-07T19:20:15-07:00"
+      "pub_date": "2026-10-08T05:58:25-07:00"
     },
     {
-      "title": "Semwright",
-      "url": "https://www.producthunt.com/products/semwright",
+      "title": "iwant",
+      "url": "https://www.producthunt.com/products/iwant",
       "tagline": "",
-      "pub_date": "2026-10-07T18:08:23-07:00"
+      "pub_date": "2026-10-08T21:20:47-07:00"
     },
     {
-      "title": "Cekura Bench",
-      "url": "https://www.producthunt.com/products/vocera",
+      "title": "Trophy MCP Servers",
+      "url": "https://www.producthunt.com/products/trophy-1-0",
       "tagline": "",
-      "pub_date": "2026-10-06T10:39:40-07:00"
+      "pub_date": "2026-10-08T08:06:32-07:00"
     },
     {
-      "title": "Clippo",
-      "url": "https://www.producthunt.com/products/clippo-2",
+      "title": "OpenPilot",
+      "url": "https://www.producthunt.com/products/openpilot",
       "tagline": "",
-      "pub_date": "2026-10-07T12:03:43-07:00"
+      "pub_date": "2026-10-08T22:53:51-07:00"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.producthunt.com/products/claude-haiku-5-5",
+      "title": "Murmur",
+      "url": "https://www.producthunt.com/products/murmur-15",
       "tagline": "",
-      "pub_date": "2026-10-07T11:11:57-07:00"
+      "pub_date": "2026-09-25T09:13:21-07:00"
     },
     {
-      "title": "OpenSwarm",
-      "url": "https://www.producthunt.com/products/openswarm-3",
+      "title": "Regunow",
+      "url": "https://www.producthunt.com/products/regunow",
       "tagline": "",
-      "pub_date": "2026-10-05T16:22:58-07:00"
+      "pub_date": "2026-10-06T07:09:06-07:00"
     },
     {
-      "title": "offstage",
-      "url": "https://www.producthunt.com/products/offstage",
+      "title": "Melete",
+      "url": "https://www.producthunt.com/products/melete",
       "tagline": "",
-      "pub_date": "2026-10-06T18:49:22-07:00"
+      "pub_date": "2026-09-29T23:38:46-07:00"
     },
     {
-      "title": "Simple Workout Log",
-      "url": "https://www.producthunt.com/products/simple-workout-log",
+      "title": "Pine Computer",
+      "url": "https://www.producthunt.com/products/pine-computer",
       "tagline": "",
-      "pub_date": "2026-10-07T07:44:21-07:00"
+      "pub_date": "2026-10-07T23:42:34-07:00"
     },
     {
-      "title": "Paw-Paw",
-      "url": "https://www.producthunt.com/products/paw-paw",
+      "title": "Rune",
+      "url": "https://www.producthunt.com/products/rune",
       "tagline": "",
-      "pub_date": "2026-10-05T03:12:26-07:00"
+      "pub_date": "2026-10-08T17:55:27-07:00"
     },
     {
-      "title": "KloudMate 2.0",
-      "url": "https://www.producthunt.com/products/kloudmate",
+      "title": "Amazon Alexa Tablets",
+      "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
       "tagline": "",
-      "pub_date": "2026-08-31T02:31:23-07:00"
+      "pub_date": "2026-10-08T08:51:14-07:00"
     },
     {
-      "title": "ChickyTutor",
-      "url": "https://www.producthunt.com/products/chickytutor",
+      "title": "De Stash",
+      "url": "https://www.producthunt.com/products/de-stash",
       "tagline": "",
-      "pub_date": "2026-09-17T15:04:19-07:00"
+      "pub_date": "2026-10-05T22:57:22-07:00"
     },
     {
-      "title": "Side",
-      "url": "https://www.producthunt.com/products/side",
+      "title": "Request Eagle",
+      "url": "https://www.producthunt.com/products/request-eagle",
       "tagline": "",
-      "pub_date": "2026-10-06T06:42:28-07:00"
+      "pub_date": "2026-10-08T22:58:24-07:00"
     },
     {
-      "title": "judged.systems",
-      "url": "https://www.producthunt.com/products/judged-systems",
+      "title": "Cakie",
+      "url": "https://www.producthunt.com/products/cakie-2",
       "tagline": "",
-      "pub_date": "2026-10-07T12:10:29-07:00"
+      "pub_date": "2026-10-05T18:16:50-07:00"
     },
     {
-      "title": "ClawCall",
-      "url": "https://www.producthunt.com/products/clawcall",
+      "title": "Microsoft Surface Laptop Ultra",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
       "tagline": "",
-      "pub_date": "2026-10-07T22:27:12-07:00"
+      "pub_date": "2026-10-07T19:29:49-07:00"
     },
     {
-      "title": "pmtui",
-      "url": "https://www.producthunt.com/products/pmtui",
+      "title": "OpenVids",
+      "url": "https://www.producthunt.com/products/openvids",
       "tagline": "",
-      "pub_date": "2026-10-07T21:13:17-07:00"
+      "pub_date": "2026-10-08T12:58:50-07:00"
     },
     {
-      "title": "aegis",
-      "url": "https://www.producthunt.com/products/aegis-14",
+      "title": "Sorted",
+      "url": "https://www.producthunt.com/products/sorted-6",
       "tagline": "",
-      "pub_date": "2026-10-07T11:33:50-07:00"
+      "pub_date": "2026-10-08T15:52:23-07:00"
     },
     {
-      "title": "SineFrame M3",
-      "url": "https://www.producthunt.com/products/sineframe-m3",
+      "title": "HeyPi",
+      "url": "https://www.producthunt.com/products/heypi",
       "tagline": "",
-      "pub_date": "2026-10-07T08:54:49-07:00"
+      "pub_date": "2026-10-06T04:02:06-07:00"
     },
     {
-      "title": "ProcBoss",
-      "url": "https://www.producthunt.com/products/procboss",
+      "title": "Comcent",
+      "url": "https://www.producthunt.com/products/comcent",
       "tagline": "",
-      "pub_date": "2026-10-02T19:06:29-07:00"
+      "pub_date": "2026-10-07T03:05:19-07:00"
     },
     {
-      "title": "tunnl.gg",
-      "url": "https://www.producthunt.com/products/tunnl-gg",
+      "title": "Opposable",
+      "url": "https://www.producthunt.com/products/opposable",
       "tagline": "",
-      "pub_date": "2026-10-05T12:11:58-07:00"
+      "pub_date": "2026-10-07T13:54:42-07:00"
     },
     {
-      "title": "Ahem! Unmissable Meeting Reminders",
-      "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
+      "title": "Gemini Agent for Google Cloud",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-10-05T02:39:44-07:00"
+      "pub_date": "2026-10-08T05:31:02-07:00"
     },
     {
-      "title": "Strac Comply",
-      "url": "https://www.producthunt.com/products/strac-comply",
+      "title": "VocaScript",
+      "url": "https://www.producthunt.com/products/vocascript",
       "tagline": "",
-      "pub_date": "2026-10-07T18:39:46-07:00"
+      "pub_date": "2026-07-02T11:54:20-07:00"
     },
     {
-      "title": "Chime",
-      "url": "https://www.producthunt.com/products/chime-sms-categorized-on-device",
+      "title": "Porch",
+      "url": "https://www.producthunt.com/products/porch-6",
       "tagline": "",
-      "pub_date": "2026-10-07T01:22:31-07:00"
+      "pub_date": "2026-10-08T21:53:12-07:00"
     },
     {
-      "title": "BotBus",
-      "url": "https://www.producthunt.com/products/botbus",
+      "title": "Together Link",
+      "url": "https://www.producthunt.com/products/together-ai",
       "tagline": "",
-      "pub_date": "2026-10-07T01:49:08-07:00"
+      "pub_date": "2026-10-05T10:52:00-07:00"
     },
     {
-      "title": "tide",
-      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
+      "title": "Refs",
+      "url": "https://www.producthunt.com/products/refs",
       "tagline": "",
-      "pub_date": "2026-10-07T03:31:31-07:00"
+      "pub_date": "2026-10-08T07:22:26-07:00"
     },
     {
-      "title": "Revela",
-      "url": "https://www.producthunt.com/products/revela",
+      "title": "AgentSDR",
+      "url": "https://www.producthunt.com/products/agentsdr",
       "tagline": "",
-      "pub_date": "2026-09-22T13:16:28-07:00"
+      "pub_date": "2026-10-06T02:07:53-07:00"
     }
   ]
 }

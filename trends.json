@@ -1,59 +1,50 @@
 {
-  "generated_at": "2026-10-09T12:22:02.849Z",
+  "generated_at": "2026-10-09T22:04:26.114Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "hn_url": "https://news.ycombinator.com/item?id=50018817",
+      "points": 354,
+      "comments": 150,
+      "created_ts": 1791543828,
+      "author": "franze"
+    },
+    {
       "title": "Show HN: Quake ported to safe Rust, playable in browser",
       "url": "https://quake-srp.pages.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50016312",
-      "points": 184,
-      "comments": 143,
+      "points": 218,
+      "comments": 175,
       "created_ts": 1791523378,
       "author": "ilreb"
     },
     {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50008047",
-      "points": 182,
-      "comments": 32,
-      "created_ts": 1791477444,
-      "author": "scottbez1"
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50024499",
+      "points": 141,
+      "comments": 14,
+      "created_ts": 1791569455,
+      "author": "simplyalec"
     },
     {
-      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
-      "url": "https://github.com/p10node/k10s",
-      "hn_url": "https://news.ycombinator.com/item?id=50009904",
-      "points": 65,
-      "comments": 50,
-      "created_ts": 1791484146,
-      "author": "pierreneter"
-    },
-    {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "hn_url": "https://news.ycombinator.com/item?id=50007993",
-      "points": 65,
-      "comments": 16,
-      "created_ts": 1791477253,
-      "author": "felix089"
-    },
-    {
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "url": "https://github.com/thesnarkitecht/rembrandt",
-      "hn_url": "https://news.ycombinator.com/item?id=50012199",
-      "points": 47,
-      "comments": 52,
-      "created_ts": 1791493255,
-      "author": "thesnarkitecht"
+      "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+      "url": "https://github.com/darshi1337/apogee",
+      "hn_url": "https://news.ycombinator.com/item?id=50017301",
+      "points": 52,
+      "comments": 2,
+      "created_ts": 1791531379,
+      "author": "zxdc7896"
     },
     {
       "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
       "url": "https://svg-spark.vercel.app/",
       "hn_url": "https://news.ycombinator.com/item?id=50013931",
-      "points": 41,
-      "comments": 7,
+      "points": 44,
+      "comments": 8,
       "created_ts": 1791502369,
       "author": "Zeus808"
     },
@@ -61,332 +52,191 @@
       "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
       "url": "https://github.com/edrisranjbar/lifeos",
       "hn_url": "https://news.ycombinator.com/item?id=50014150",
-      "points": 38,
-      "comments": 12,
+      "points": 39,
+      "comments": 15,
       "created_ts": 1791504139,
       "author": "edris0077"
     },
     {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "hn_url": "https://news.ycombinator.com/item?id=50006114",
-      "points": 29,
-      "comments": 14,
-      "created_ts": 1791469131,
-      "author": "anupray"
-    },
-    {
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "url": "https://pocketty.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50009634",
-      "points": 28,
-      "comments": 15,
-      "created_ts": 1791483112,
-      "author": "lukeed"
-    },
-    {
-      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-      "url": "https://github.com/edgedelta/project-arena",
-      "hn_url": "https://news.ycombinator.com/item?id=50008642",
-      "points": 22,
-      "comments": 9,
-      "created_ts": 1791479588,
-      "author": "emrahsamdan"
-    },
-    {
-      "title": "Show HN: Wordminos – Crosswords Meet Dominos",
-      "url": "https://wordminos.com/play-en.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50005276",
-      "points": 19,
-      "comments": 8,
-      "created_ts": 1791464206,
-      "author": "dyarosla"
-    },
-    {
-      "title": "Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
-      "url": "https://pivotlake.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=50006760",
-      "points": 14,
-      "comments": 2,
-      "created_ts": 1791472122,
-      "author": "dkgs"
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50024055",
+      "points": 26,
+      "comments": 3,
+      "created_ts": 1791567584,
+      "author": "miletus"
     },
     {
       "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
       "url": "https://www.oldroll.io/",
       "hn_url": "https://news.ycombinator.com/item?id=50016840",
-      "points": 11,
-      "comments": 2,
+      "points": 16,
+      "comments": 4,
       "created_ts": 1791528014,
       "author": "awa11"
     }
   ],
   "hn_front": [
     {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "hn_url": "https://news.ycombinator.com/item?id=50008427",
-      "points": 807,
-      "comments": 160,
-      "created_ts": 1791478779,
-      "author": "gmays"
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "hn_url": "https://news.ycombinator.com/item?id=50019911",
+      "points": 961,
+      "comments": 505,
+      "created_ts": 1791551028,
+      "author": "ilreb"
     },
     {
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "hn_url": "https://news.ycombinator.com/item?id=50009295",
-      "points": 477,
-      "comments": 165,
-      "created_ts": 1791481909,
-      "author": "kbyatnal"
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50018088",
+      "points": 675,
+      "comments": 215,
+      "created_ts": 1791537708,
+      "author": "splintersio"
     },
     {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "hn_url": "https://news.ycombinator.com/item?id=50011928",
-      "points": 333,
-      "comments": 211,
-      "created_ts": 1791492136,
-      "author": "bookofjoe"
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "hn_url": "https://news.ycombinator.com/item?id=50020014",
+      "points": 533,
+      "comments": 230,
+      "created_ts": 1791551567,
+      "author": "ahlCVA"
     },
     {
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "hn_url": "https://news.ycombinator.com/item?id=50005527",
-      "points": 313,
-      "comments": 167,
-      "created_ts": 1791465721,
-      "author": "speckx"
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "hn_url": "https://news.ycombinator.com/item?id=50018420",
+      "points": 411,
+      "comments": 210,
+      "created_ts": 1791540731,
+      "author": "Anon84"
     },
     {
-      "title": "Bevy 0.20",
-      "url": "https://bevy.org/news/bevy-0-20/",
-      "hn_url": "https://news.ycombinator.com/item?id=50013610",
-      "points": 196,
-      "comments": 45,
-      "created_ts": 1791500270,
-      "author": "Philpax"
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50022292",
+      "points": 400,
+      "comments": 86,
+      "created_ts": 1791561065,
+      "author": "robin_reala"
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "hn_url": "https://news.ycombinator.com/item?id=50018817",
+      "points": 354,
+      "comments": 150,
+      "created_ts": 1791543828,
+      "author": "franze"
     },
     {
       "title": "Keyboard differences between Windows and Macs",
       "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
       "hn_url": "https://news.ycombinator.com/item?id=50015515",
-      "points": 186,
-      "comments": 161,
+      "points": 313,
+      "comments": 254,
       "created_ts": 1791515285,
       "author": "sohkamyung"
     },
     {
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50016312",
-      "points": 184,
-      "comments": 143,
-      "created_ts": 1791523378,
-      "author": "ilreb"
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "hn_url": "https://news.ycombinator.com/item?id=50018350",
+      "points": 287,
+      "comments": 189,
+      "created_ts": 1791540026,
+      "author": "trakkstar"
     },
     {
-      "title": "The value of not getting to the point (2015)",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "hn_url": "https://news.ycombinator.com/item?id=50010470",
-      "points": 183,
-      "comments": 63,
-      "created_ts": 1791486296,
-      "author": "NaOH"
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50023450",
+      "points": 200,
+      "comments": 159,
+      "created_ts": 1791565351,
+      "author": "tosh"
     },
     {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50008047",
-      "points": 182,
-      "comments": 32,
-      "created_ts": 1791477444,
-      "author": "scottbez1"
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "hn_url": "https://news.ycombinator.com/item?id=50025935",
+      "points": 177,
+      "comments": 84,
+      "created_ts": 1791576240,
+      "author": "zetalyrae"
     },
     {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "hn_url": "https://news.ycombinator.com/item?id=50013902",
-      "points": 138,
-      "comments": 211,
-      "created_ts": 1791502183,
-      "author": "md224"
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "hn_url": "https://news.ycombinator.com/item?id=50016489",
+      "points": 166,
+      "comments": 78,
+      "created_ts": 1791525089,
+      "author": "nreece"
     },
     {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "hn_url": "https://news.ycombinator.com/item?id=50007764",
-      "points": 132,
-      "comments": 32,
-      "created_ts": 1791476420,
-      "author": "AnneWodell"
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "hn_url": "https://news.ycombinator.com/item?id=50021540",
+      "points": 164,
+      "comments": 91,
+      "created_ts": 1791558324,
+      "author": "ohjeez"
     },
     {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "hn_url": "https://news.ycombinator.com/item?id=50011999",
-      "points": 132,
-      "comments": 19,
-      "created_ts": 1791492385,
-      "author": "ray__"
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "hn_url": "https://news.ycombinator.com/item?id=50026555",
+      "points": 155,
+      "comments": 78,
+      "created_ts": 1791580019,
+      "author": "gumby"
     },
     {
-      "title": "What should we tell our students?",
-      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-      "hn_url": "https://news.ycombinator.com/item?id=50015236",
-      "points": 129,
-      "comments": 173,
-      "created_ts": 1791512865,
-      "author": "sajid"
+      "title": "Programming Isn't Special",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50017357",
+      "points": 150,
+      "comments": 167,
+      "created_ts": 1791531876,
+      "author": "ingve"
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "hn_url": "https://news.ycombinator.com/item?id=50018420",
-      "points": 126,
-      "comments": 53,
-      "created_ts": 1791540731,
-      "author": "Anon84"
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50024499",
+      "points": 141,
+      "comments": 14,
+      "created_ts": 1791569455,
+      "author": "simplyalec"
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "hn_url": "https://news.ycombinator.com/item?id=50020533",
+      "points": 113,
+      "comments": 15,
+      "created_ts": 1791553771,
+      "author": "vinhnx"
+    },
+    {
+      "title": "M7.6 Earthquake in Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+      "hn_url": "https://news.ycombinator.com/item?id=50024669",
+      "points": 106,
+      "comments": 33,
+      "created_ts": 1791570140,
+      "author": "gslin"
     }
   ],
   "ph_today": [
     {
-      "title": "Playground by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
+      "title": "Odyssey 3",
+      "url": "https://www.producthunt.com/products/odyssey-3",
       "tagline": "",
-      "pub_date": "2026-10-07T20:24:04-07:00"
-    },
-    {
-      "title": "Zernio",
-      "url": "https://www.producthunt.com/products/zernio",
-      "tagline": "",
-      "pub_date": "2026-10-07T04:56:43-07:00"
-    },
-    {
-      "title": "Staffcoder",
-      "url": "https://www.producthunt.com/products/staffcoder",
-      "tagline": "",
-      "pub_date": "2026-10-08T01:53:59-07:00"
-    },
-    {
-      "title": "Phonable",
-      "url": "https://www.producthunt.com/products/phonable",
-      "tagline": "",
-      "pub_date": "2026-10-05T06:03:57-07:00"
-    },
-    {
-      "title": "Thravik",
-      "url": "https://www.producthunt.com/products/thravik",
-      "tagline": "",
-      "pub_date": "2026-10-08T13:52:59-07:00"
-    },
-    {
-      "title": "BrightBean Studio",
-      "url": "https://www.producthunt.com/products/brightbean-studio-social-media",
-      "tagline": "",
-      "pub_date": "2026-10-08T05:58:25-07:00"
-    },
-    {
-      "title": "iwant",
-      "url": "https://www.producthunt.com/products/iwant",
-      "tagline": "",
-      "pub_date": "2026-10-08T21:20:47-07:00"
-    },
-    {
-      "title": "Trophy MCP Servers",
-      "url": "https://www.producthunt.com/products/trophy-1-0",
-      "tagline": "",
-      "pub_date": "2026-10-08T08:06:32-07:00"
-    },
-    {
-      "title": "OpenPilot",
-      "url": "https://www.producthunt.com/products/openpilot",
-      "tagline": "",
-      "pub_date": "2026-10-08T22:53:51-07:00"
-    },
-    {
-      "title": "Murmur",
-      "url": "https://www.producthunt.com/products/murmur-15",
-      "tagline": "",
-      "pub_date": "2026-09-25T09:13:21-07:00"
-    },
-    {
-      "title": "Regunow",
-      "url": "https://www.producthunt.com/products/regunow",
-      "tagline": "",
-      "pub_date": "2026-10-06T07:09:06-07:00"
-    },
-    {
-      "title": "Melete",
-      "url": "https://www.producthunt.com/products/melete",
-      "tagline": "",
-      "pub_date": "2026-09-29T23:38:46-07:00"
-    },
-    {
-      "title": "Pine Computer",
-      "url": "https://www.producthunt.com/products/pine-computer",
-      "tagline": "",
-      "pub_date": "2026-10-07T23:42:34-07:00"
-    },
-    {
-      "title": "Rune",
-      "url": "https://www.producthunt.com/products/rune",
-      "tagline": "",
-      "pub_date": "2026-10-08T17:55:27-07:00"
-    },
-    {
-      "title": "Amazon Alexa Tablets",
-      "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
-      "tagline": "",
-      "pub_date": "2026-10-08T08:51:14-07:00"
-    },
-    {
-      "title": "De Stash",
-      "url": "https://www.producthunt.com/products/de-stash",
-      "tagline": "",
-      "pub_date": "2026-10-05T22:57:22-07:00"
-    },
-    {
-      "title": "Request Eagle",
-      "url": "https://www.producthunt.com/products/request-eagle",
-      "tagline": "",
-      "pub_date": "2026-10-08T22:58:24-07:00"
-    },
-    {
-      "title": "Cakie",
-      "url": "https://www.producthunt.com/products/cakie-2",
-      "tagline": "",
-      "pub_date": "2026-10-05T18:16:50-07:00"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra",
-      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
-      "tagline": "",
-      "pub_date": "2026-10-07T19:29:49-07:00"
-    },
-    {
-      "title": "OpenVids",
-      "url": "https://www.producthunt.com/products/openvids",
-      "tagline": "",
-      "pub_date": "2026-10-08T12:58:50-07:00"
-    },
-    {
-      "title": "Sorted",
-      "url": "https://www.producthunt.com/products/sorted-6",
-      "tagline": "",
-      "pub_date": "2026-10-08T15:52:23-07:00"
-    },
-    {
-      "title": "HeyPi",
-      "url": "https://www.producthunt.com/products/heypi",
-      "tagline": "",
-      "pub_date": "2026-10-06T04:02:06-07:00"
-    },
-    {
-      "title": "Comcent",
-      "url": "https://www.producthunt.com/products/comcent",
-      "tagline": "",
-      "pub_date": "2026-10-07T03:05:19-07:00"
+      "pub_date": "2026-10-08T09:51:49-07:00"
     },
     {
       "title": "Opposable",
@@ -395,16 +245,34 @@
       "pub_date": "2026-10-07T13:54:42-07:00"
     },
     {
-      "title": "Gemini Agent for Google Cloud",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Phonable",
+      "url": "https://www.producthunt.com/products/phonable",
       "tagline": "",
-      "pub_date": "2026-10-08T05:31:02-07:00"
+      "pub_date": "2026-10-05T06:03:57-07:00"
     },
     {
-      "title": "VocaScript",
-      "url": "https://www.producthunt.com/products/vocascript",
+      "title": "Assist",
+      "url": "https://www.producthunt.com/products/assist-5",
       "tagline": "",
-      "pub_date": "2026-07-02T11:54:20-07:00"
+      "pub_date": "2026-10-08T19:44:37-07:00"
+    },
+    {
+      "title": "Staffcoder",
+      "url": "https://www.producthunt.com/products/staffcoder",
+      "tagline": "",
+      "pub_date": "2026-10-08T01:53:59-07:00"
+    },
+    {
+      "title": "Microsoft Surface Laptop Ultra",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "tagline": "",
+      "pub_date": "2026-10-07T19:29:49-07:00"
+    },
+    {
+      "title": "Murmur",
+      "url": "https://www.producthunt.com/products/murmur-15",
+      "tagline": "",
+      "pub_date": "2026-09-25T09:13:21-07:00"
     },
     {
       "title": "Porch",
@@ -413,10 +281,34 @@
       "pub_date": "2026-10-08T21:53:12-07:00"
     },
     {
-      "title": "Together Link",
-      "url": "https://www.producthunt.com/products/together-ai",
+      "title": "De Stash",
+      "url": "https://www.producthunt.com/products/de-stash",
       "tagline": "",
-      "pub_date": "2026-10-05T10:52:00-07:00"
+      "pub_date": "2026-10-05T22:57:22-07:00"
+    },
+    {
+      "title": "Busabase",
+      "url": "https://www.producthunt.com/products/busabase",
+      "tagline": "",
+      "pub_date": "2026-07-06T01:40:40-07:00"
+    },
+    {
+      "title": "Zernio",
+      "url": "https://www.producthunt.com/products/zernio",
+      "tagline": "",
+      "pub_date": "2026-10-07T04:56:43-07:00"
+    },
+    {
+      "title": "HeyPi",
+      "url": "https://www.producthunt.com/products/heypi",
+      "tagline": "",
+      "pub_date": "2026-10-06T04:02:06-07:00"
+    },
+    {
+      "title": "Playground by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "tagline": "",
+      "pub_date": "2026-10-07T20:24:04-07:00"
     },
     {
       "title": "Refs",
@@ -425,10 +317,100 @@
       "pub_date": "2026-10-08T07:22:26-07:00"
     },
     {
+      "title": "Pine Computer",
+      "url": "https://www.producthunt.com/products/pine-computer",
+      "tagline": "",
+      "pub_date": "2026-10-07T23:42:34-07:00"
+    },
+    {
+      "title": "Ambiguous Workspace",
+      "url": "https://www.producthunt.com/products/ambiguous-workspace",
+      "tagline": "",
+      "pub_date": "2026-10-06T22:46:52-07:00"
+    },
+    {
+      "title": "Regunow",
+      "url": "https://www.producthunt.com/products/regunow",
+      "tagline": "",
+      "pub_date": "2026-10-06T07:09:06-07:00"
+    },
+    {
+      "title": "Sorted",
+      "url": "https://www.producthunt.com/products/sorted-6",
+      "tagline": "",
+      "pub_date": "2026-10-08T15:52:23-07:00"
+    },
+    {
+      "title": "Comcent",
+      "url": "https://www.producthunt.com/products/comcent",
+      "tagline": "",
+      "pub_date": "2026-10-07T03:05:19-07:00"
+    },
+    {
+      "title": "Melete",
+      "url": "https://www.producthunt.com/products/melete",
+      "tagline": "",
+      "pub_date": "2026-09-29T23:38:46-07:00"
+    },
+    {
+      "title": "VocaScript",
+      "url": "https://www.producthunt.com/products/vocascript",
+      "tagline": "",
+      "pub_date": "2026-07-02T11:54:20-07:00"
+    },
+    {
+      "title": "Gemini Agent for Google Cloud",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-10-08T05:31:02-07:00"
+    },
+    {
+      "title": "Amazon Alexa Tablets",
+      "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
+      "tagline": "",
+      "pub_date": "2026-10-08T08:51:14-07:00"
+    },
+    {
+      "title": "Voicera",
+      "url": "https://www.producthunt.com/products/voicera-3",
+      "tagline": "",
+      "pub_date": "2026-10-02T05:20:23-07:00"
+    },
+    {
+      "title": "OpenPilot",
+      "url": "https://www.producthunt.com/products/openpilot",
+      "tagline": "",
+      "pub_date": "2026-10-08T22:53:51-07:00"
+    },
+    {
+      "title": "iwant",
+      "url": "https://www.producthunt.com/products/iwant",
+      "tagline": "",
+      "pub_date": "2026-10-08T21:20:47-07:00"
+    },
+    {
+      "title": "Request Eagle",
+      "url": "https://www.producthunt.com/products/request-eagle",
+      "tagline": "",
+      "pub_date": "2026-10-08T22:58:24-07:00"
+    },
+    {
       "title": "AgentSDR",
       "url": "https://www.producthunt.com/products/agentsdr",
       "tagline": "",
       "pub_date": "2026-10-06T02:07:53-07:00"
+    },
+    {
+      "title": "BrightBean Studio",
+      "url": "https://www.producthunt.com/products/brightbean-studio-social-media",
+      "tagline": "",
+      "pub_date": "2026-10-08T05:58:25-07:00"
+    },
+    {
+      "title": "Together Link",
+      "url": "https://www.producthunt.com/products/together-ai",
+      "tagline": "",
+      "pub_date": "2026-10-05T10:52:00-07:00"
     }
   ]
 }

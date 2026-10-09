@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:42:24.703Z",
+  "generated_at": "2026-10-09T03:56:38.923Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
       "hn_url": "https://news.ycombinator.com/item?id=50008047",
-      "points": 76,
-      "comments": 14,
+      "points": 125,
+      "comments": 24,
       "created_ts": 1791477444,
       "author": "scottbez1"
     },
@@ -16,28 +16,64 @@
       "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
       "url": "https://github.com/p10node/k10s",
       "hn_url": "https://news.ycombinator.com/item?id=50009904",
-      "points": 59,
-      "comments": 43,
+      "points": 62,
+      "comments": 47,
       "created_ts": 1791484146,
       "author": "pierreneter"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "hn_url": "https://news.ycombinator.com/item?id=50007993",
+      "points": 44,
+      "comments": 6,
+      "created_ts": 1791477253,
+      "author": "felix089"
     },
     {
       "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
       "url": "https://github.com/thesnarkitecht/rembrandt",
       "hn_url": "https://news.ycombinator.com/item?id=50012199",
-      "points": 28,
-      "comments": 22,
+      "points": 42,
+      "comments": 51,
       "created_ts": 1791493255,
       "author": "thesnarkitecht"
+    },
+    {
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "url": "https://svg-spark.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50013931",
+      "points": 34,
+      "comments": 6,
+      "created_ts": 1791502369,
+      "author": "Zeus808"
+    },
+    {
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "url": "https://pocketty.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50009634",
+      "points": 27,
+      "comments": 12,
+      "created_ts": 1791483112,
+      "author": "lukeed"
     },
     {
       "title": "Show HN: I Put an AI Agent on a Nokia 110",
       "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
       "hn_url": "https://news.ycombinator.com/item?id=50006114",
-      "points": 24,
-      "comments": 7,
+      "points": 27,
+      "comments": 11,
       "created_ts": 1791469131,
       "author": "anupray"
+    },
+    {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "hn_url": "https://news.ycombinator.com/item?id=50014150",
+      "points": 25,
+      "comments": 4,
+      "created_ts": 1791504139,
+      "author": "edris0077"
     },
     {
       "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
@@ -52,135 +88,105 @@
       "title": "Show HN: Wordminos – Crosswords Meet Dominos",
       "url": "https://wordminos.com/play-en.html",
       "hn_url": "https://news.ycombinator.com/item?id=50005276",
-      "points": 15,
+      "points": 18,
       "comments": 7,
       "created_ts": 1791464206,
       "author": "dyarosla"
     },
     {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "hn_url": "https://news.ycombinator.com/item?id=50007993",
-      "points": 12,
+      "title": "Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
+      "url": "https://pivotlake.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50006760",
+      "points": 11,
       "comments": 1,
-      "created_ts": 1791477253,
-      "author": "felix089"
+      "created_ts": 1791472122,
+      "author": "dkgs"
     }
   ],
   "hn_front": [
     {
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "hn_url": "https://news.ycombinator.com/item?id=50006832",
-      "points": 768,
-      "comments": 1343,
-      "created_ts": 1791472500,
-      "author": "alephnerd"
-    },
-    {
       "title": "Whistle: Speech to Text in 16.9 MB",
       "url": "https://cactuscompute.com/blog/whistle",
       "hn_url": "https://news.ycombinator.com/item?id=50008427",
-      "points": 417,
-      "comments": 100,
+      "points": 607,
+      "comments": 135,
       "created_ts": 1791478779,
       "author": "gmays"
-    },
-    {
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-      "hn_url": "https://news.ycombinator.com/item?id=50004790",
-      "points": 330,
-      "comments": 171,
-      "created_ts": 1791460820,
-      "author": "stared"
-    },
-    {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "hn_url": "https://news.ycombinator.com/item?id=50000488",
-      "points": 283,
-      "comments": 245,
-      "created_ts": 1791418488,
-      "author": "jonotime"
-    },
-    {
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "hn_url": "https://news.ycombinator.com/item?id=50005527",
-      "points": 231,
-      "comments": 141,
-      "created_ts": 1791465721,
-      "author": "speckx"
     },
     {
       "title": "Theranos.world",
       "url": "https://www.theranos.world/",
       "hn_url": "https://news.ycombinator.com/item?id=50009295",
-      "points": 181,
-      "comments": 91,
+      "points": 333,
+      "comments": 124,
       "created_ts": 1791481909,
       "author": "kbyatnal"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "hn_url": "https://news.ycombinator.com/item?id=50005527",
+      "points": 276,
+      "comments": 153,
+      "created_ts": 1791465721,
+      "author": "speckx"
+    },
+    {
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "hn_url": "https://news.ycombinator.com/item?id=50003796",
+      "points": 245,
+      "comments": 80,
+      "created_ts": 1791452898,
+      "author": "Michelangelo11"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "hn_url": "https://news.ycombinator.com/item?id=50011928",
+      "points": 206,
+      "comments": 137,
+      "created_ts": 1791492136,
+      "author": "bookofjoe"
     },
     {
       "title": "Orkut.com",
       "url": "https://orkut.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50006012",
-      "points": 125,
-      "comments": 85,
+      "points": 157,
+      "comments": 119,
       "created_ts": 1791468593,
       "author": "andreynering"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "hn_url": "https://news.ycombinator.com/item?id=50010470",
+      "points": 137,
+      "comments": 43,
+      "created_ts": 1791486296,
+      "author": "NaOH"
+    },
+    {
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50008047",
+      "points": 125,
+      "comments": 24,
+      "created_ts": 1791477444,
+      "author": "scottbez1"
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=50007764",
+      "points": 115,
+      "comments": 26,
+      "created_ts": 1791476420,
+      "author": "AnneWodell"
     }
   ],
   "ph_today": [
-    {
-      "title": "Hark",
-      "url": "https://www.producthunt.com/products/hark-3",
-      "tagline": "",
-      "pub_date": "2026-10-06T18:29:22-07:00"
-    },
-    {
-      "title": "Isle Notch",
-      "url": "https://www.producthunt.com/products/isle-notch",
-      "tagline": "",
-      "pub_date": "2026-10-05T07:06:57-07:00"
-    },
-    {
-      "title": "OpenSEO",
-      "url": "https://www.producthunt.com/products/openseo",
-      "tagline": "",
-      "pub_date": "2026-10-06T21:29:30-07:00"
-    },
-    {
-      "title": "Cekura Bench",
-      "url": "https://www.producthunt.com/products/vocera",
-      "tagline": "",
-      "pub_date": "2026-10-06T10:39:40-07:00"
-    },
-    {
-      "title": "Typeling",
-      "url": "https://www.producthunt.com/products/typeling",
-      "tagline": "",
-      "pub_date": "2026-10-07T00:50:58-07:00"
-    },
-    {
-      "title": "NOVA CLI v1.0",
-      "url": "https://www.producthunt.com/products/nova-18",
-      "tagline": "",
-      "pub_date": "2026-10-07T08:00:40-07:00"
-    },
-    {
-      "title": "tide",
-      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
-      "tagline": "",
-      "pub_date": "2026-10-07T03:31:31-07:00"
-    },
-    {
-      "title": "Semwright",
-      "url": "https://www.producthunt.com/products/semwright",
-      "tagline": "",
-      "pub_date": "2026-10-07T18:08:23-07:00"
-    },
     {
       "title": "Liquid Inference",
       "url": "https://www.producthunt.com/products/liquid-inference",
@@ -188,40 +194,10 @@
       "pub_date": "2026-10-07T01:14:41-07:00"
     },
     {
-      "title": "Strac Comply",
-      "url": "https://www.producthunt.com/products/strac-comply",
+      "title": "Hark",
+      "url": "https://www.producthunt.com/products/hark-3",
       "tagline": "",
-      "pub_date": "2026-10-07T18:39:46-07:00"
-    },
-    {
-      "title": "judged.systems",
-      "url": "https://www.producthunt.com/products/judged-systems",
-      "tagline": "",
-      "pub_date": "2026-10-07T12:10:29-07:00"
-    },
-    {
-      "title": "Chime",
-      "url": "https://www.producthunt.com/products/chime-sms-categorized-on-device",
-      "tagline": "",
-      "pub_date": "2026-10-07T01:22:31-07:00"
-    },
-    {
-      "title": "SineFrame M3",
-      "url": "https://www.producthunt.com/products/sineframe-m3",
-      "tagline": "",
-      "pub_date": "2026-10-07T08:54:49-07:00"
-    },
-    {
-      "title": "Ahem! Unmissable Meeting Reminders",
-      "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
-      "tagline": "",
-      "pub_date": "2026-10-05T02:39:44-07:00"
-    },
-    {
-      "title": "KloudMate 2.0",
-      "url": "https://www.producthunt.com/products/kloudmate",
-      "tagline": "",
-      "pub_date": "2026-08-31T02:31:23-07:00"
+      "pub_date": "2026-10-06T18:29:22-07:00"
     },
     {
       "title": "Mailwell",
@@ -230,52 +206,10 @@
       "pub_date": "2026-10-06T16:47:34-07:00"
     },
     {
-      "title": "Simple Workout Log",
-      "url": "https://www.producthunt.com/products/simple-workout-log",
+      "title": "NOVA CLI v1.0",
+      "url": "https://www.producthunt.com/products/nova-18",
       "tagline": "",
-      "pub_date": "2026-10-07T07:44:21-07:00"
-    },
-    {
-      "title": "Clippo",
-      "url": "https://www.producthunt.com/products/clippo-2",
-      "tagline": "",
-      "pub_date": "2026-10-07T12:03:43-07:00"
-    },
-    {
-      "title": "ProcBoss",
-      "url": "https://www.producthunt.com/products/procboss",
-      "tagline": "",
-      "pub_date": "2026-10-02T19:06:29-07:00"
-    },
-    {
-      "title": "ClawCall",
-      "url": "https://www.producthunt.com/products/clawcall",
-      "tagline": "",
-      "pub_date": "2026-10-07T22:27:12-07:00"
-    },
-    {
-      "title": "tunnl.gg",
-      "url": "https://www.producthunt.com/products/tunnl-gg",
-      "tagline": "",
-      "pub_date": "2026-10-05T12:11:58-07:00"
-    },
-    {
-      "title": "Side",
-      "url": "https://www.producthunt.com/products/side",
-      "tagline": "",
-      "pub_date": "2026-10-06T06:42:28-07:00"
-    },
-    {
-      "title": "Markdoc",
-      "url": "https://www.producthunt.com/products/markdoc-3",
-      "tagline": "",
-      "pub_date": "2026-10-07T11:21:19-07:00"
-    },
-    {
-      "title": "offstage",
-      "url": "https://www.producthunt.com/products/offstage",
-      "tagline": "",
-      "pub_date": "2026-10-06T18:49:22-07:00"
+      "pub_date": "2026-10-07T08:00:40-07:00"
     },
     {
       "title": "Polylane for Vercel",
@@ -284,16 +218,136 @@
       "pub_date": "2026-10-07T15:05:44-07:00"
     },
     {
-      "title": "Revela",
-      "url": "https://www.producthunt.com/products/revela",
-      "tagline": "",
-      "pub_date": "2026-09-22T13:16:28-07:00"
-    },
-    {
       "title": "Claude for Google Workspace",
       "url": "https://www.producthunt.com/products/claude-for-google-workspace",
       "tagline": "",
       "pub_date": "2026-10-07T19:20:15-07:00"
+    },
+    {
+      "title": "Semwright",
+      "url": "https://www.producthunt.com/products/semwright",
+      "tagline": "",
+      "pub_date": "2026-10-07T18:08:23-07:00"
+    },
+    {
+      "title": "Cekura Bench",
+      "url": "https://www.producthunt.com/products/vocera",
+      "tagline": "",
+      "pub_date": "2026-10-06T10:39:40-07:00"
+    },
+    {
+      "title": "Clippo",
+      "url": "https://www.producthunt.com/products/clippo-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T12:03:43-07:00"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.producthunt.com/products/claude-haiku-5-5",
+      "tagline": "",
+      "pub_date": "2026-10-07T11:11:57-07:00"
+    },
+    {
+      "title": "OpenSwarm",
+      "url": "https://www.producthunt.com/products/openswarm-3",
+      "tagline": "",
+      "pub_date": "2026-10-05T16:22:58-07:00"
+    },
+    {
+      "title": "offstage",
+      "url": "https://www.producthunt.com/products/offstage",
+      "tagline": "",
+      "pub_date": "2026-10-06T18:49:22-07:00"
+    },
+    {
+      "title": "Simple Workout Log",
+      "url": "https://www.producthunt.com/products/simple-workout-log",
+      "tagline": "",
+      "pub_date": "2026-10-07T07:44:21-07:00"
+    },
+    {
+      "title": "Paw-Paw",
+      "url": "https://www.producthunt.com/products/paw-paw",
+      "tagline": "",
+      "pub_date": "2026-10-05T03:12:26-07:00"
+    },
+    {
+      "title": "KloudMate 2.0",
+      "url": "https://www.producthunt.com/products/kloudmate",
+      "tagline": "",
+      "pub_date": "2026-08-31T02:31:23-07:00"
+    },
+    {
+      "title": "ChickyTutor",
+      "url": "https://www.producthunt.com/products/chickytutor",
+      "tagline": "",
+      "pub_date": "2026-09-17T15:04:19-07:00"
+    },
+    {
+      "title": "Side",
+      "url": "https://www.producthunt.com/products/side",
+      "tagline": "",
+      "pub_date": "2026-10-06T06:42:28-07:00"
+    },
+    {
+      "title": "judged.systems",
+      "url": "https://www.producthunt.com/products/judged-systems",
+      "tagline": "",
+      "pub_date": "2026-10-07T12:10:29-07:00"
+    },
+    {
+      "title": "ClawCall",
+      "url": "https://www.producthunt.com/products/clawcall",
+      "tagline": "",
+      "pub_date": "2026-10-07T22:27:12-07:00"
+    },
+    {
+      "title": "pmtui",
+      "url": "https://www.producthunt.com/products/pmtui",
+      "tagline": "",
+      "pub_date": "2026-10-07T21:13:17-07:00"
+    },
+    {
+      "title": "aegis",
+      "url": "https://www.producthunt.com/products/aegis-14",
+      "tagline": "",
+      "pub_date": "2026-10-07T11:33:50-07:00"
+    },
+    {
+      "title": "SineFrame M3",
+      "url": "https://www.producthunt.com/products/sineframe-m3",
+      "tagline": "",
+      "pub_date": "2026-10-07T08:54:49-07:00"
+    },
+    {
+      "title": "ProcBoss",
+      "url": "https://www.producthunt.com/products/procboss",
+      "tagline": "",
+      "pub_date": "2026-10-02T19:06:29-07:00"
+    },
+    {
+      "title": "tunnl.gg",
+      "url": "https://www.producthunt.com/products/tunnl-gg",
+      "tagline": "",
+      "pub_date": "2026-10-05T12:11:58-07:00"
+    },
+    {
+      "title": "Ahem! Unmissable Meeting Reminders",
+      "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
+      "tagline": "",
+      "pub_date": "2026-10-05T02:39:44-07:00"
+    },
+    {
+      "title": "Strac Comply",
+      "url": "https://www.producthunt.com/products/strac-comply",
+      "tagline": "",
+      "pub_date": "2026-10-07T18:39:46-07:00"
+    },
+    {
+      "title": "Chime",
+      "url": "https://www.producthunt.com/products/chime-sms-categorized-on-device",
+      "tagline": "",
+      "pub_date": "2026-10-07T01:22:31-07:00"
     },
     {
       "title": "BotBus",
@@ -302,16 +356,16 @@
       "pub_date": "2026-10-07T01:49:08-07:00"
     },
     {
-      "title": "Udon",
-      "url": "https://www.producthunt.com/products/udon",
+      "title": "tide",
+      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
       "tagline": "",
-      "pub_date": "2026-10-05T13:32:48-07:00"
+      "pub_date": "2026-10-07T03:31:31-07:00"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.producthunt.com/products/claude-haiku-5-5",
+      "title": "Revela",
+      "url": "https://www.producthunt.com/products/revela",
       "tagline": "",
-      "pub_date": "2026-10-07T11:11:57-07:00"
+      "pub_date": "2026-09-22T13:16:28-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:40:56.022Z",
+  "generated_at": "2026-10-10T16:42:37.417Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50024499",
-      "points": 337,
-      "comments": 43,
+      "points": 379,
+      "comments": 45,
       "created_ts": 1791569455,
       "author": "simplyalec"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: The rarest tech books and docs you've probably never read",
       "url": "https://readrare.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50024055",
-      "points": 139,
-      "comments": 51,
+      "points": 154,
+      "comments": 59,
       "created_ts": 1791567584,
       "author": "miletus"
     },
@@ -25,73 +25,37 @@
       "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
       "url": "https://ilia.page/writing/introducing-nagare",
       "hn_url": "https://news.ycombinator.com/item?id=50029607",
-      "points": 13,
-      "comments": 11,
+      "points": 14,
+      "comments": 15,
       "created_ts": 1791607033,
       "author": "shmilia"
-    },
-    {
-      "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
-      "url": "https://github.com/tlack/babytalk",
-      "hn_url": "https://news.ycombinator.com/item?id=50026819",
-      "points": 11,
-      "comments": 6,
-      "created_ts": 1791581636,
-      "author": "tlack"
     },
     {
       "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
       "url": "https://yeahnah.lol/",
       "hn_url": "https://news.ycombinator.com/item?id=50028283",
-      "points": 11,
+      "points": 13,
       "comments": 3,
       "created_ts": 1791592698,
       "author": "veilmux"
+    },
+    {
+      "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
+      "url": "https://github.com/tlack/babytalk",
+      "hn_url": "https://news.ycombinator.com/item?id=50026819",
+      "points": 12,
+      "comments": 6,
+      "created_ts": 1791581636,
+      "author": "tlack"
     }
   ],
   "hn_front": [
     {
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "hn_url": "https://news.ycombinator.com/item?id=50019911",
-      "points": 1255,
-      "comments": 635,
-      "created_ts": 1791551028,
-      "author": "ilreb"
-    },
-    {
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50022292",
-      "points": 1040,
-      "comments": 199,
-      "created_ts": 1791561065,
-      "author": "robin_reala"
-    },
-    {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "hn_url": "https://news.ycombinator.com/item?id=50020014",
-      "points": 664,
-      "comments": 299,
-      "created_ts": 1791551567,
-      "author": "ahlCVA"
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "hn_url": "https://news.ycombinator.com/item?id=50026555",
-      "points": 589,
-      "comments": 317,
-      "created_ts": 1791580019,
-      "author": "gumby"
-    },
-    {
       "title": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
       "hn_url": "https://news.ycombinator.com/item?id=50028275",
-      "points": 464,
-      "comments": 184,
+      "points": 579,
+      "comments": 252,
       "created_ts": 1791592627,
       "author": "modinfo"
     },
@@ -99,8 +63,8 @@
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50023450",
-      "points": 380,
-      "comments": 286,
+      "points": 413,
+      "comments": 332,
       "created_ts": 1791565351,
       "author": "tosh"
     },
@@ -108,62 +72,26 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50024499",
-      "points": 337,
-      "comments": 43,
+      "points": 379,
+      "comments": 45,
       "created_ts": 1791569455,
       "author": "simplyalec"
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "hn_url": "https://news.ycombinator.com/item?id=50020533",
-      "points": 226,
-      "comments": 29,
-      "created_ts": 1791553771,
-      "author": "vinhnx"
     },
     {
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "hn_url": "https://news.ycombinator.com/item?id=50029123",
-      "points": 205,
-      "comments": 96,
+      "points": 314,
+      "comments": 158,
       "created_ts": 1791601367,
       "author": "g-b-r"
-    },
-    {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50024055",
-      "points": 139,
-      "comments": 51,
-      "created_ts": 1791567584,
-      "author": "miletus"
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50024090",
-      "points": 130,
-      "comments": 25,
-      "created_ts": 1791567732,
-      "author": "matt_d"
-    },
-    {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "hn_url": "https://news.ycombinator.com/item?id=50023995",
-      "points": 127,
-      "comments": 144,
-      "created_ts": 1791567340,
-      "author": "bilsbie"
     },
     {
       "title": "`123456' password used in Danish CPR data breach",
       "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "hn_url": "https://news.ycombinator.com/item?id=50031269",
-      "points": 115,
-      "comments": 75,
+      "points": 306,
+      "comments": 170,
       "created_ts": 1791625909,
       "author": "baal80spam"
     },
@@ -171,39 +99,72 @@
       "title": "Computers Cannot Make Decisions",
       "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
       "hn_url": "https://news.ycombinator.com/item?id=50029982",
-      "points": 110,
-      "comments": 90,
+      "points": 168,
+      "comments": 139,
       "created_ts": 1791611266,
       "author": "heavensteeth"
     },
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "hn_url": "https://news.ycombinator.com/item?id=50021410",
-      "points": 101,
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50024090",
+      "points": 168,
+      "comments": 44,
+      "created_ts": 1791567732,
+      "author": "matt_d"
+    },
+    {
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "hn_url": "https://news.ycombinator.com/item?id=50033407",
+      "points": 158,
+      "comments": 103,
+      "created_ts": 1791642770,
+      "author": "Cider9986"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "hn_url": "https://news.ycombinator.com/item?id=50031614",
+      "points": 140,
+      "comments": 71,
+      "created_ts": 1791629529,
+      "author": "rociiu"
+    },
+    {
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "hn_url": "https://news.ycombinator.com/item?id=50031653",
+      "points": 134,
+      "comments": 136,
+      "created_ts": 1791629851,
+      "author": "john_alan"
+    },
+    {
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "hn_url": "https://news.ycombinator.com/item?id=50028027",
+      "points": 131,
       "comments": 31,
-      "created_ts": 1791557773,
-      "author": "jsomers"
+      "created_ts": 1791589988,
+      "author": "luu"
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "hn_url": "https://news.ycombinator.com/item?id=50027853",
+      "points": 117,
+      "comments": 33,
+      "created_ts": 1791588516,
+      "author": "peter_d_sherman"
     }
   ],
   "ph_today": [
     {
-      "title": "Skymir",
-      "url": "https://www.producthunt.com/products/skymir",
+      "title": "Baby Desk",
+      "url": "https://www.producthunt.com/products/baby-desk",
       "tagline": "",
-      "pub_date": "2026-09-29T14:35:05-07:00"
-    },
-    {
-      "title": "Onepin",
-      "url": "https://www.producthunt.com/products/onepin",
-      "tagline": "",
-      "pub_date": "2026-09-21T16:58:07-07:00"
-    },
-    {
-      "title": "History Monk",
-      "url": "https://www.producthunt.com/products/history-monk-better-history-search",
-      "tagline": "",
-      "pub_date": "2026-10-09T10:05:55-07:00"
+      "pub_date": "2026-10-06T11:22:22-07:00"
     },
     {
       "title": "ReSO AI",
@@ -212,88 +173,10 @@
       "pub_date": "2026-09-09T08:34:33-07:00"
     },
     {
-      "title": "Skreno",
-      "url": "https://www.producthunt.com/products/skreno",
+      "title": "Onepin",
+      "url": "https://www.producthunt.com/products/onepin",
       "tagline": "",
-      "pub_date": "2026-09-29T00:15:58-07:00"
-    },
-    {
-      "title": "Letra",
-      "url": "https://www.producthunt.com/products/letra-3",
-      "tagline": "",
-      "pub_date": "2026-10-09T12:26:30-07:00"
-    },
-    {
-      "title": "Microsoft-Decision-1",
-      "url": "https://www.producthunt.com/products/microsoft-decision-1",
-      "tagline": "",
-      "pub_date": "2026-10-09T11:50:17-07:00"
-    },
-    {
-      "title": "Claude Dashboards &amp; Motion",
-      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
-      "tagline": "",
-      "pub_date": "2026-10-09T08:13:51-07:00"
-    },
-    {
-      "title": "Tuck",
-      "url": "https://www.producthunt.com/products/tuck-6",
-      "tagline": "",
-      "pub_date": "2026-10-07T09:06:35-07:00"
-    },
-    {
-      "title": "Buffer",
-      "url": "https://www.producthunt.com/products/buffer-3",
-      "tagline": "",
-      "pub_date": "2026-03-17T11:39:17-07:00"
-    },
-    {
-      "title": "Isly",
-      "url": "https://www.producthunt.com/products/isly",
-      "tagline": "",
-      "pub_date": "2026-10-06T13:50:38-07:00"
-    },
-    {
-      "title": "Fluence",
-      "url": "https://www.producthunt.com/products/fluence",
-      "tagline": "",
-      "pub_date": "2026-09-20T02:51:47-07:00"
-    },
-    {
-      "title": "Cue",
-      "url": "https://www.producthunt.com/products/cue-26",
-      "tagline": "",
-      "pub_date": "2026-10-07T21:36:03-07:00"
-    },
-    {
-      "title": "TapNoise",
-      "url": "https://www.producthunt.com/products/tapnoise",
-      "tagline": "",
-      "pub_date": "2026-10-09T00:16:56-07:00"
-    },
-    {
-      "title": "Baby Desk",
-      "url": "https://www.producthunt.com/products/baby-desk",
-      "tagline": "",
-      "pub_date": "2026-10-06T11:22:22-07:00"
-    },
-    {
-      "title": "Naarchy",
-      "url": "https://www.producthunt.com/products/naarchy",
-      "tagline": "",
-      "pub_date": "2026-10-05T05:08:18-07:00"
-    },
-    {
-      "title": "put·here",
-      "url": "https://www.producthunt.com/products/put-here",
-      "tagline": "",
-      "pub_date": "2026-10-09T14:15:23-07:00"
-    },
-    {
-      "title": "Toolaby",
-      "url": "https://www.producthunt.com/products/toolaby",
-      "tagline": "",
-      "pub_date": "2026-09-30T17:37:33-07:00"
+      "pub_date": "2026-09-21T16:58:07-07:00"
     },
     {
       "title": "GitGlow",
@@ -302,16 +185,70 @@
       "pub_date": "2026-10-09T07:21:14-07:00"
     },
     {
-      "title": "Maildun for Mac",
-      "url": "https://www.producthunt.com/products/maildun-for-mac",
+      "title": "The Computer Game",
+      "url": "https://www.producthunt.com/products/the-computer-game",
       "tagline": "",
-      "pub_date": "2026-10-09T18:06:33-07:00"
+      "pub_date": "2026-10-09T10:52:22-07:00"
+    },
+    {
+      "title": "Microsoft-Decision-1",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1",
+      "tagline": "",
+      "pub_date": "2026-10-09T11:50:17-07:00"
+    },
+    {
+      "title": "ej",
+      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+      "tagline": "",
+      "pub_date": "2026-10-09T11:42:37-07:00"
+    },
+    {
+      "title": "Underplane",
+      "url": "https://www.producthunt.com/products/underplane-deleted-1312891",
+      "tagline": "",
+      "pub_date": "2026-10-07T07:55:37-07:00"
+    },
+    {
+      "title": "Cue",
+      "url": "https://www.producthunt.com/products/cue-26",
+      "tagline": "",
+      "pub_date": "2026-10-07T21:36:03-07:00"
+    },
+    {
+      "title": "Claude Dashboards &amp; Motion",
+      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
+      "tagline": "",
+      "pub_date": "2026-10-09T08:13:51-07:00"
+    },
+    {
+      "title": "AgentDock",
+      "url": "https://www.producthunt.com/products/agentdock",
+      "tagline": "",
+      "pub_date": "2026-10-09T14:55:39-07:00"
+    },
+    {
+      "title": "TapNoise",
+      "url": "https://www.producthunt.com/products/tapnoise",
+      "tagline": "",
+      "pub_date": "2026-10-09T00:16:56-07:00"
+    },
+    {
+      "title": "put·here",
+      "url": "https://www.producthunt.com/products/put-here",
+      "tagline": "",
+      "pub_date": "2026-10-09T14:15:23-07:00"
     },
     {
       "title": "Lune",
       "url": "https://www.producthunt.com/products/lune-research",
       "tagline": "",
       "pub_date": "2026-10-09T20:56:36-07:00"
+    },
+    {
+      "title": "Hypervibe",
+      "url": "https://www.producthunt.com/products/hypervibe-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T17:23:22-07:00"
     },
     {
       "title": "PixRater",
@@ -326,10 +263,10 @@
       "pub_date": "2026-10-09T09:58:13-07:00"
     },
     {
-      "title": "ej",
-      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+      "title": "AdsNotch",
+      "url": "https://www.producthunt.com/products/adsnotch",
       "tagline": "",
-      "pub_date": "2026-10-09T11:42:37-07:00"
+      "pub_date": "2026-10-06T10:59:04-07:00"
     },
     {
       "title": "PocketWebTools for Mac",
@@ -338,28 +275,64 @@
       "pub_date": "2026-10-09T00:00:05-07:00"
     },
     {
+      "title": "Isly",
+      "url": "https://www.producthunt.com/products/isly",
+      "tagline": "",
+      "pub_date": "2026-10-06T13:50:38-07:00"
+    },
+    {
+      "title": "Museum of Models",
+      "url": "https://www.producthunt.com/products/museum-of-models",
+      "tagline": "",
+      "pub_date": "2026-10-07T19:10:32-07:00"
+    },
+    {
+      "title": "Buffer",
+      "url": "https://www.producthunt.com/products/buffer-3",
+      "tagline": "",
+      "pub_date": "2026-03-17T11:39:17-07:00"
+    },
+    {
+      "title": "Naarchy",
+      "url": "https://www.producthunt.com/products/naarchy",
+      "tagline": "",
+      "pub_date": "2026-10-05T05:08:18-07:00"
+    },
+    {
+      "title": "Fluence",
+      "url": "https://www.producthunt.com/products/fluence",
+      "tagline": "",
+      "pub_date": "2026-09-20T02:51:47-07:00"
+    },
+    {
+      "title": "Toolaby",
+      "url": "https://www.producthunt.com/products/toolaby",
+      "tagline": "",
+      "pub_date": "2026-09-30T17:37:33-07:00"
+    },
+    {
+      "title": "Pawse",
+      "url": "https://www.producthunt.com/products/pawse-2",
+      "tagline": "",
+      "pub_date": "2026-10-04T23:30:04-07:00"
+    },
+    {
       "title": "New Windows Search",
       "url": "https://www.producthunt.com/products/new-windows-search",
       "tagline": "",
       "pub_date": "2026-10-08T20:50:14-07:00"
     },
     {
-      "title": "AgentDock",
-      "url": "https://www.producthunt.com/products/agentdock",
+      "title": "Maildun for Mac",
+      "url": "https://www.producthunt.com/products/maildun-for-mac",
       "tagline": "",
-      "pub_date": "2026-10-09T14:55:39-07:00"
+      "pub_date": "2026-10-09T18:06:33-07:00"
     },
     {
-      "title": "The Computer Game",
-      "url": "https://www.producthunt.com/products/the-computer-game",
+      "title": "Skymir",
+      "url": "https://www.producthunt.com/products/skymir",
       "tagline": "",
-      "pub_date": "2026-10-09T10:52:22-07:00"
-    },
-    {
-      "title": "Underplane",
-      "url": "https://www.producthunt.com/products/underplane-deleted-1312891",
-      "tagline": "",
-      "pub_date": "2026-10-07T07:55:37-07:00"
+      "pub_date": "2026-09-29T14:35:05-07:00"
     },
     {
       "title": "Kitbar",

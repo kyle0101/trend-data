@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:53:51.161Z",
+  "generated_at": "2026-10-11T17:08:29.353Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,19 @@
       "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
       "url": "https://wallhop.io/",
       "hn_url": "https://news.ycombinator.com/item?id=50038634",
-      "points": 253,
-      "comments": 104,
+      "points": 264,
+      "comments": 114,
       "created_ts": 1791679608,
       "author": "TheWaffleHax"
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50042333",
+      "points": 59,
+      "comments": 31,
+      "created_ts": 1791720088,
+      "author": "kartik017"
     },
     {
       "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
@@ -20,15 +29,33 @@
       "comments": 0,
       "created_ts": 1791681558,
       "author": "herval"
+    },
+    {
+      "title": "Show HN: A functioning Celery Man computer",
+      "url": "https://celeryman.fun/",
+      "hn_url": "https://news.ycombinator.com/item?id=50035527",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1791655716,
+      "author": "turtlesoup"
     }
   ],
   "hn_front": [
     {
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "hn_url": "https://news.ycombinator.com/item?id=50041619",
+      "points": 504,
+      "comments": 193,
+      "created_ts": 1791714473,
+      "author": "walrus01"
+    },
+    {
       "title": "A city-building game in which the city would prefer you didn't",
       "url": "https://housing.over.pizza/",
       "hn_url": "https://news.ycombinator.com/item?id=50036864",
-      "points": 376,
-      "comments": 128,
+      "points": 471,
+      "comments": 157,
       "created_ts": 1791664310,
       "author": "JumpCrisscross"
     },
@@ -36,8 +63,8 @@
       "title": "Build your own decision model",
       "url": "https://nishtahir.com/build-your-own-decision-model/",
       "hn_url": "https://news.ycombinator.com/item?id=50037949",
-      "points": 339,
-      "comments": 77,
+      "points": 423,
+      "comments": 96,
       "created_ts": 1791672610,
       "author": "softwaredoug"
     },
@@ -45,64 +72,76 @@
       "title": "3rd Yandex Cloud Data Center Was Hit",
       "url": "https://status.yandex.cloud/en/incidents/2136",
       "hn_url": "https://news.ycombinator.com/item?id=50040547",
-      "points": 247,
-      "comments": 315,
+      "points": 395,
+      "comments": 483,
       "created_ts": 1791704085,
       "author": "defly"
-    },
-    {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "hn_url": "https://news.ycombinator.com/item?id=50034081",
-      "points": 198,
-      "comments": 71,
-      "created_ts": 1791647221,
-      "author": "Curiositry"
-    },
-    {
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "hn_url": "https://news.ycombinator.com/item?id=50033357",
-      "points": 170,
-      "comments": 83,
-      "created_ts": 1791642429,
-      "author": "ghuntley"
-    },
-    {
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "hn_url": "https://news.ycombinator.com/item?id=50040276",
-      "points": 145,
-      "comments": 39,
-      "created_ts": 1791699539,
-      "author": "timschumi"
     },
     {
       "title": "Nitter: Update Oct 10th seeking funding and legal help",
       "url": "https://nitter.net",
       "hn_url": "https://news.ycombinator.com/item?id=50041682",
-      "points": 118,
-      "comments": 14,
+      "points": 322,
+      "comments": 154,
       "created_ts": 1791715075,
       "author": "ForHackernews"
+    },
+    {
+      "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "hn_url": "https://news.ycombinator.com/item?id=50043682",
+      "points": 313,
+      "comments": 155,
+      "created_ts": 1791728919,
+      "author": "gumby"
+    },
+    {
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "hn_url": "https://news.ycombinator.com/item?id=50040276",
+      "points": 299,
+      "comments": 106,
+      "created_ts": 1791699539,
+      "author": "timschumi"
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "hn_url": "https://news.ycombinator.com/item?id=50042219",
+      "points": 244,
+      "comments": 124,
+      "created_ts": 1791719249,
+      "author": "edent"
     },
     {
       "title": "IRCv3",
       "url": "https://ircv3.net/",
       "hn_url": "https://news.ycombinator.com/item?id=50041540",
-      "points": 102,
-      "comments": 84,
+      "points": 228,
+      "comments": 209,
       "created_ts": 1791713487,
       "author": "basilikum"
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "hn_url": "https://news.ycombinator.com/item?id=50042425",
+      "points": 130,
+      "comments": 74,
+      "created_ts": 1791720793,
+      "author": "arusekk"
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "hn_url": "https://news.ycombinator.com/item?id=50038623",
+      "points": 122,
+      "comments": 12,
+      "created_ts": 1791679549,
+      "author": "therepanic"
     }
   ],
   "ph_today": [
-    {
-      "title": "kōdlo",
-      "url": "https://www.producthunt.com/products/kodlo",
-      "tagline": "",
-      "pub_date": "2026-10-07T02:46:27-07:00"
-    },
     {
       "title": "Ghost Core",
       "url": "https://www.producthunt.com/products/ghost-core",
@@ -110,10 +149,22 @@
       "pub_date": "2026-10-05T10:44:06-07:00"
     },
     {
-      "title": "Pickle Sensei",
-      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
+      "title": "FocusWrite",
+      "url": "https://www.producthunt.com/products/focuswrite",
       "tagline": "",
-      "pub_date": "2026-10-02T18:00:11-07:00"
+      "pub_date": "2026-10-10T00:08:24-07:00"
+    },
+    {
+      "title": "Poke Finder",
+      "url": "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web",
+      "tagline": "",
+      "pub_date": "2026-10-05T06:10:39-07:00"
+    },
+    {
+      "title": "SimpleSpread",
+      "url": "https://www.producthunt.com/products/simplespread",
+      "tagline": "",
+      "pub_date": "2026-10-08T17:21:08-07:00"
     },
     {
       "title": "HireKey",
@@ -128,52 +179,10 @@
       "pub_date": "2026-10-10T06:04:39-07:00"
     },
     {
-      "title": "Tori",
-      "url": "https://www.producthunt.com/products/tori-japanese-listening-srs",
+      "title": "Pickle Sensei",
+      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
       "tagline": "",
-      "pub_date": "2026-10-05T07:55:26-07:00"
-    },
-    {
-      "title": "Ayven",
-      "url": "https://www.producthunt.com/products/ayven",
-      "tagline": "",
-      "pub_date": "2026-09-09T11:19:36-07:00"
-    },
-    {
-      "title": "Foley",
-      "url": "https://www.producthunt.com/products/foley",
-      "tagline": "",
-      "pub_date": "2026-10-04T23:48:55-07:00"
-    },
-    {
-      "title": "OpenScreen 2",
-      "url": "https://www.producthunt.com/products/openscreen-2",
-      "tagline": "",
-      "pub_date": "2026-09-28T01:10:44-07:00"
-    },
-    {
-      "title": "Automations in Perplexity Computer",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
-      "tagline": "",
-      "pub_date": "2026-09-29T09:52:38-07:00"
-    },
-    {
-      "title": "NotchPit",
-      "url": "https://www.producthunt.com/products/notchpit",
-      "tagline": "",
-      "pub_date": "2026-10-10T06:31:03-07:00"
-    },
-    {
-      "title": "Farol",
-      "url": "https://www.producthunt.com/products/farol-3",
-      "tagline": "",
-      "pub_date": "2026-10-10T03:38:06-07:00"
-    },
-    {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
-      "tagline": "",
-      "pub_date": "2026-10-08T01:48:13-07:00"
+      "pub_date": "2026-10-02T18:00:11-07:00"
     },
     {
       "title": "NewMinecraftServers",
@@ -182,10 +191,16 @@
       "pub_date": "2026-10-07T09:29:22-07:00"
     },
     {
-      "title": "Unboom",
-      "url": "https://www.producthunt.com/products/unboom",
+      "title": "Kooler",
+      "url": "https://www.producthunt.com/products/kooler-2",
       "tagline": "",
-      "pub_date": "2026-10-07T06:07:27-07:00"
+      "pub_date": "2026-10-07T18:10:54-07:00"
+    },
+    {
+      "title": "Foley",
+      "url": "https://www.producthunt.com/products/foley",
+      "tagline": "",
+      "pub_date": "2026-10-04T23:48:55-07:00"
     },
     {
       "title": "MePersona",
@@ -194,34 +209,10 @@
       "pub_date": "2026-09-15T02:25:39-07:00"
     },
     {
-      "title": "shippedit.me",
-      "url": "https://www.producthunt.com/products/shippedit-me",
+      "title": "OpenScreen 2",
+      "url": "https://www.producthunt.com/products/openscreen-2",
       "tagline": "",
-      "pub_date": "2026-10-07T18:41:14-07:00"
-    },
-    {
-      "title": "Kooler",
-      "url": "https://www.producthunt.com/products/kooler-2",
-      "tagline": "",
-      "pub_date": "2026-10-07T18:10:54-07:00"
-    },
-    {
-      "title": "SimpleSpread",
-      "url": "https://www.producthunt.com/products/simplespread",
-      "tagline": "",
-      "pub_date": "2026-10-08T17:21:08-07:00"
-    },
-    {
-      "title": "DevTerminal",
-      "url": "https://www.producthunt.com/products/devterminal",
-      "tagline": "",
-      "pub_date": "2026-10-08T06:33:51-07:00"
-    },
-    {
-      "title": "FloorGen",
-      "url": "https://www.producthunt.com/products/floorgen",
-      "tagline": "",
-      "pub_date": "2026-10-09T11:19:20-07:00"
+      "pub_date": "2026-09-28T01:10:44-07:00"
     },
     {
       "title": "Gboard Kurukuru Version",
@@ -230,22 +221,58 @@
       "pub_date": "2026-10-10T21:14:18-07:00"
     },
     {
+      "title": "Tori",
+      "url": "https://www.producthunt.com/products/tori-japanese-listening-srs",
+      "tagline": "",
+      "pub_date": "2026-10-05T07:55:26-07:00"
+    },
+    {
+      "title": "Farol",
+      "url": "https://www.producthunt.com/products/farol-3",
+      "tagline": "",
+      "pub_date": "2026-10-10T03:38:06-07:00"
+    },
+    {
       "title": "KarmaBoard",
       "url": "https://www.producthunt.com/products/karmaboard",
       "tagline": "",
       "pub_date": "2026-10-08T13:49:49-07:00"
     },
     {
-      "title": "EdgeVolume",
-      "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+      "title": "shippedit.me",
+      "url": "https://www.producthunt.com/products/shippedit-me",
       "tagline": "",
-      "pub_date": "2026-10-10T00:58:12-07:00"
+      "pub_date": "2026-10-07T18:41:14-07:00"
     },
     {
-      "title": "FocusWrite",
-      "url": "https://www.producthunt.com/products/focuswrite",
+      "title": "Automations in Perplexity Computer",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
       "tagline": "",
-      "pub_date": "2026-10-10T00:08:24-07:00"
+      "pub_date": "2026-09-29T09:52:38-07:00"
+    },
+    {
+      "title": "Ayven",
+      "url": "https://www.producthunt.com/products/ayven",
+      "tagline": "",
+      "pub_date": "2026-09-09T11:19:36-07:00"
+    },
+    {
+      "title": "NotchPit",
+      "url": "https://www.producthunt.com/products/notchpit",
+      "tagline": "",
+      "pub_date": "2026-10-10T06:31:03-07:00"
+    },
+    {
+      "title": "DevTerminal",
+      "url": "https://www.producthunt.com/products/devterminal",
+      "tagline": "",
+      "pub_date": "2026-10-08T06:33:51-07:00"
+    },
+    {
+      "title": "Halo",
+      "url": "https://www.producthunt.com/products/halo-11",
+      "tagline": "",
+      "pub_date": "2026-10-08T01:48:13-07:00"
     },
     {
       "title": "Edgee Mod for Claude Code",
@@ -254,28 +281,46 @@
       "pub_date": "2026-10-08T01:41:39-07:00"
     },
     {
-      "title": "Poke Finder",
-      "url": "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web",
+      "title": "EdgeVolume",
+      "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
       "tagline": "",
-      "pub_date": "2026-10-05T06:10:39-07:00"
+      "pub_date": "2026-10-10T00:58:12-07:00"
     },
     {
-      "title": "Letra",
-      "url": "https://www.producthunt.com/products/letra-3",
+      "title": "kōdlo",
+      "url": "https://www.producthunt.com/products/kodlo",
       "tagline": "",
-      "pub_date": "2026-10-09T12:26:30-07:00"
+      "pub_date": "2026-10-07T02:46:27-07:00"
     },
     {
-      "title": "GitGlow",
-      "url": "https://www.producthunt.com/products/gitglow-2",
+      "title": "FloorGen",
+      "url": "https://www.producthunt.com/products/floorgen",
       "tagline": "",
-      "pub_date": "2026-10-09T07:21:14-07:00"
+      "pub_date": "2026-10-09T11:19:20-07:00"
     },
     {
-      "title": "The Computer Game",
-      "url": "https://www.producthunt.com/products/the-computer-game",
+      "title": "Unboom",
+      "url": "https://www.producthunt.com/products/unboom",
       "tagline": "",
-      "pub_date": "2026-10-09T10:52:22-07:00"
+      "pub_date": "2026-10-07T06:07:27-07:00"
+    },
+    {
+      "title": "Hypervibe",
+      "url": "https://www.producthunt.com/products/hypervibe-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T17:23:22-07:00"
+    },
+    {
+      "title": "Toolaby",
+      "url": "https://www.producthunt.com/products/toolaby",
+      "tagline": "",
+      "pub_date": "2026-09-30T17:37:33-07:00"
+    },
+    {
+      "title": "Onepin",
+      "url": "https://www.producthunt.com/products/onepin",
+      "tagline": "",
+      "pub_date": "2026-09-21T16:58:07-07:00"
     }
   ]
 }

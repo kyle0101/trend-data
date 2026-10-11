@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:57:54.230Z",
+  "generated_at": "2026-10-11T03:14:12.688Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,116 +7,128 @@
       "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
       "url": "https://ilia.page/writing/introducing-nagare",
       "hn_url": "https://news.ycombinator.com/item?id=50029607",
-      "points": 15,
-      "comments": 21,
+      "points": 16,
+      "comments": 22,
       "created_ts": 1791607033,
       "author": "shmilia"
     },
     {
-      "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
-      "url": "https://yeahnah.lol/",
-      "hn_url": "https://news.ycombinator.com/item?id=50028283",
-      "points": 13,
-      "comments": 3,
-      "created_ts": 1791592698,
-      "author": "veilmux"
-    },
-    {
-      "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
-      "url": "https://github.com/tlack/babytalk",
-      "hn_url": "https://news.ycombinator.com/item?id=50026819",
-      "points": 12,
-      "comments": 7,
-      "created_ts": 1791581636,
-      "author": "tlack"
+      "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+      "url": "https://littleguys.hervalicio.us",
+      "hn_url": "https://news.ycombinator.com/item?id=50038883",
+      "points": 14,
+      "comments": 0,
+      "created_ts": 1791681558,
+      "author": "herval"
     }
   ],
   "hn_front": [
     {
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
-      "hn_url": "https://news.ycombinator.com/item?id=50028275",
-      "points": 646,
-      "comments": 273,
-      "created_ts": 1791592627,
-      "author": "modinfo"
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "hn_url": "https://news.ycombinator.com/item?id=50029123",
-      "points": 374,
-      "comments": 211,
-      "created_ts": 1791601367,
-      "author": "g-b-r"
-    },
-    {
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "hn_url": "https://news.ycombinator.com/item?id=50031269",
-      "points": 357,
-      "comments": 184,
-      "created_ts": 1791625909,
-      "author": "baal80spam"
-    },
-    {
-      "title": "Bitwarden Dual License Model",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "hn_url": "https://news.ycombinator.com/item?id=50033407",
-      "points": 295,
-      "comments": 219,
-      "created_ts": 1791642770,
-      "author": "Cider9986"
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50029487",
+      "points": 280,
+      "comments": 45,
+      "created_ts": 1791605546,
+      "author": "oskarth"
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
       "hn_url": "https://news.ycombinator.com/item?id=50031614",
-      "points": 209,
-      "comments": 106,
+      "points": 261,
+      "comments": 123,
       "created_ts": 1791629529,
       "author": "rociiu"
-    },
-    {
-      "title": "Apple/macOS removed from official Unix registry",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "hn_url": "https://news.ycombinator.com/item?id=50031653",
-      "points": 198,
-      "comments": 191,
-      "created_ts": 1791629851,
-      "author": "john_alan"
     },
     {
       "title": "I would like the value of my home to rise, while my property taxes fall",
       "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
       "hn_url": "https://news.ycombinator.com/item?id=50032758",
-      "points": 164,
-      "comments": 379,
+      "points": 222,
+      "comments": 522,
       "created_ts": 1791638943,
       "author": "colinprince"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "hn_url": "https://news.ycombinator.com/item?id=50036864",
+      "points": 209,
+      "comments": 80,
+      "created_ts": 1791664310,
+      "author": "JumpCrisscross"
     },
     {
       "title": "Knuth reward check",
       "url": "https://www.thomas-huehn.com/knuth-reward-check/",
       "hn_url": "https://news.ycombinator.com/item?id=50034081",
-      "points": 104,
-      "comments": 37,
+      "points": 161,
+      "comments": 61,
       "created_ts": 1791647221,
       "author": "Curiositry"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "hn_url": "https://news.ycombinator.com/item?id=50035530",
+      "points": 158,
+      "comments": 51,
+      "created_ts": 1791655729,
+      "author": "tosh"
+    },
+    {
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "hn_url": "https://news.ycombinator.com/item?id=50037949",
+      "points": 145,
+      "comments": 30,
+      "created_ts": 1791672610,
+      "author": "softwaredoug"
+    },
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50038634",
+      "points": 138,
+      "comments": 58,
+      "created_ts": 1791679608,
+      "author": "TheWaffleHax"
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "hn_url": "https://news.ycombinator.com/item?id=50035886",
+      "points": 131,
+      "comments": 90,
+      "created_ts": 1791658115,
+      "author": "arkj"
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50029830",
+      "points": 117,
+      "comments": 88,
+      "created_ts": 1791609750,
+      "author": "gmays"
+    },
+    {
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
+      "hn_url": "https://news.ycombinator.com/item?id=50033357",
+      "points": 115,
+      "comments": 47,
+      "created_ts": 1791642429,
+      "author": "ghuntley"
     }
   ],
   "ph_today": [
     {
-      "title": "Lune",
-      "url": "https://www.producthunt.com/products/lune-research",
+      "title": "Onepin",
+      "url": "https://www.producthunt.com/products/onepin",
       "tagline": "",
-      "pub_date": "2026-10-09T20:56:36-07:00"
-    },
-    {
-      "title": "Cue",
-      "url": "https://www.producthunt.com/products/cue-26",
-      "tagline": "",
-      "pub_date": "2026-10-07T21:36:03-07:00"
+      "pub_date": "2026-09-21T16:58:07-07:00"
     },
     {
       "title": "Claude Dashboards &amp; Motion",
@@ -125,22 +137,10 @@
       "pub_date": "2026-10-09T08:13:51-07:00"
     },
     {
-      "title": "Skreno",
-      "url": "https://www.producthunt.com/products/skreno",
+      "title": "Lune",
+      "url": "https://www.producthunt.com/products/lune-research",
       "tagline": "",
-      "pub_date": "2026-09-29T00:15:58-07:00"
-    },
-    {
-      "title": "Underplane",
-      "url": "https://www.producthunt.com/products/underplane-deleted-1312891",
-      "tagline": "",
-      "pub_date": "2026-10-07T07:55:37-07:00"
-    },
-    {
-      "title": "TapNoise",
-      "url": "https://www.producthunt.com/products/tapnoise",
-      "tagline": "",
-      "pub_date": "2026-10-09T00:16:56-07:00"
+      "pub_date": "2026-10-09T20:56:36-07:00"
     },
     {
       "title": "Maildun for Mac",
@@ -155,34 +155,10 @@
       "pub_date": "2026-09-29T14:35:05-07:00"
     },
     {
-      "title": "Microsoft-Decision-1",
-      "url": "https://www.producthunt.com/products/microsoft-decision-1",
+      "title": "Skreno",
+      "url": "https://www.producthunt.com/products/skreno",
       "tagline": "",
-      "pub_date": "2026-10-09T11:50:17-07:00"
-    },
-    {
-      "title": "AgentDock",
-      "url": "https://www.producthunt.com/products/agentdock",
-      "tagline": "",
-      "pub_date": "2026-10-09T14:55:39-07:00"
-    },
-    {
-      "title": "put·here",
-      "url": "https://www.producthunt.com/products/put-here",
-      "tagline": "",
-      "pub_date": "2026-10-09T14:15:23-07:00"
-    },
-    {
-      "title": "Hypervibe",
-      "url": "https://www.producthunt.com/products/hypervibe-2",
-      "tagline": "",
-      "pub_date": "2026-10-07T17:23:22-07:00"
-    },
-    {
-      "title": "KernelAI",
-      "url": "https://www.producthunt.com/products/kernelai",
-      "tagline": "",
-      "pub_date": "2026-10-09T09:58:13-07:00"
+      "pub_date": "2026-09-29T00:15:58-07:00"
     },
     {
       "title": "Firefox 157",
@@ -191,82 +167,16 @@
       "pub_date": "2026-10-03T15:18:17-07:00"
     },
     {
-      "title": "GitGlow",
-      "url": "https://www.producthunt.com/products/gitglow-2",
+      "title": "Cue",
+      "url": "https://www.producthunt.com/products/cue-26",
       "tagline": "",
-      "pub_date": "2026-10-09T07:21:14-07:00"
+      "pub_date": "2026-10-07T21:36:03-07:00"
     },
     {
-      "title": "PocketWebTools for Mac",
-      "url": "https://www.producthunt.com/products/pocketwebtools",
+      "title": "Microsoft-Decision-1",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1",
       "tagline": "",
-      "pub_date": "2026-10-09T00:00:05-07:00"
-    },
-    {
-      "title": "ej",
-      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
-      "tagline": "",
-      "pub_date": "2026-10-09T11:42:37-07:00"
-    },
-    {
-      "title": "AdsNotch",
-      "url": "https://www.producthunt.com/products/adsnotch",
-      "tagline": "",
-      "pub_date": "2026-10-06T10:59:04-07:00"
-    },
-    {
-      "title": "Onepin",
-      "url": "https://www.producthunt.com/products/onepin",
-      "tagline": "",
-      "pub_date": "2026-09-21T16:58:07-07:00"
-    },
-    {
-      "title": "New Windows Search",
-      "url": "https://www.producthunt.com/products/new-windows-search",
-      "tagline": "",
-      "pub_date": "2026-10-08T20:50:14-07:00"
-    },
-    {
-      "title": "Fluence",
-      "url": "https://www.producthunt.com/products/fluence",
-      "tagline": "",
-      "pub_date": "2026-09-20T02:51:47-07:00"
-    },
-    {
-      "title": "Tuck",
-      "url": "https://www.producthunt.com/products/tuck-6",
-      "tagline": "",
-      "pub_date": "2026-10-07T09:06:35-07:00"
-    },
-    {
-      "title": "PixRater",
-      "url": "https://www.producthunt.com/products/pixrater",
-      "tagline": "",
-      "pub_date": "2026-10-09T15:26:44-07:00"
-    },
-    {
-      "title": "Letra",
-      "url": "https://www.producthunt.com/products/letra-3",
-      "tagline": "",
-      "pub_date": "2026-10-09T12:26:30-07:00"
-    },
-    {
-      "title": "Naarchy",
-      "url": "https://www.producthunt.com/products/naarchy",
-      "tagline": "",
-      "pub_date": "2026-10-05T05:08:18-07:00"
-    },
-    {
-      "title": "Baby Desk",
-      "url": "https://www.producthunt.com/products/baby-desk",
-      "tagline": "",
-      "pub_date": "2026-10-06T11:22:22-07:00"
-    },
-    {
-      "title": "Buffer",
-      "url": "https://www.producthunt.com/products/buffer-3",
-      "tagline": "",
-      "pub_date": "2026-03-17T11:39:17-07:00"
+      "pub_date": "2026-10-09T11:50:17-07:00"
     },
     {
       "title": "ReSO AI",
@@ -275,16 +185,124 @@
       "pub_date": "2026-09-09T08:34:33-07:00"
     },
     {
-      "title": "Toolaby",
-      "url": "https://www.producthunt.com/products/toolaby",
+      "title": "AgentDock",
+      "url": "https://www.producthunt.com/products/agentdock",
       "tagline": "",
-      "pub_date": "2026-09-30T17:37:33-07:00"
+      "pub_date": "2026-10-09T14:55:39-07:00"
     },
     {
-      "title": "Rank Kiwi",
-      "url": "https://www.producthunt.com/products/rank-kiwi",
+      "title": "Isly",
+      "url": "https://www.producthunt.com/products/isly",
       "tagline": "",
-      "pub_date": "2026-10-05T11:36:36-07:00"
+      "pub_date": "2026-10-06T13:50:38-07:00"
+    },
+    {
+      "title": "PocketWebTools for Mac",
+      "url": "https://www.producthunt.com/products/pocketwebtools",
+      "tagline": "",
+      "pub_date": "2026-10-09T00:00:05-07:00"
+    },
+    {
+      "title": "Underplane",
+      "url": "https://www.producthunt.com/products/underplane-deleted-1312891",
+      "tagline": "",
+      "pub_date": "2026-10-07T07:55:37-07:00"
+    },
+    {
+      "title": "ej",
+      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+      "tagline": "",
+      "pub_date": "2026-10-09T11:42:37-07:00"
+    },
+    {
+      "title": "Letra",
+      "url": "https://www.producthunt.com/products/letra-3",
+      "tagline": "",
+      "pub_date": "2026-10-09T12:26:30-07:00"
+    },
+    {
+      "title": "Buffer",
+      "url": "https://www.producthunt.com/products/buffer-3",
+      "tagline": "",
+      "pub_date": "2026-03-17T11:39:17-07:00"
+    },
+    {
+      "title": "Naarchy",
+      "url": "https://www.producthunt.com/products/naarchy",
+      "tagline": "",
+      "pub_date": "2026-10-05T05:08:18-07:00"
+    },
+    {
+      "title": "KernelAI",
+      "url": "https://www.producthunt.com/products/kernelai",
+      "tagline": "",
+      "pub_date": "2026-10-09T09:58:13-07:00"
+    },
+    {
+      "title": "Fluence",
+      "url": "https://www.producthunt.com/products/fluence",
+      "tagline": "",
+      "pub_date": "2026-09-20T02:51:47-07:00"
+    },
+    {
+      "title": "put·here",
+      "url": "https://www.producthunt.com/products/put-here",
+      "tagline": "",
+      "pub_date": "2026-10-09T14:15:23-07:00"
+    },
+    {
+      "title": "History Monk",
+      "url": "https://www.producthunt.com/products/history-monk-better-history-search",
+      "tagline": "",
+      "pub_date": "2026-10-09T10:05:55-07:00"
+    },
+    {
+      "title": "Baby Desk",
+      "url": "https://www.producthunt.com/products/baby-desk",
+      "tagline": "",
+      "pub_date": "2026-10-06T11:22:22-07:00"
+    },
+    {
+      "title": "New Windows Search",
+      "url": "https://www.producthunt.com/products/new-windows-search",
+      "tagline": "",
+      "pub_date": "2026-10-08T20:50:14-07:00"
+    },
+    {
+      "title": "Hypervibe",
+      "url": "https://www.producthunt.com/products/hypervibe-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T17:23:22-07:00"
+    },
+    {
+      "title": "TapNoise",
+      "url": "https://www.producthunt.com/products/tapnoise",
+      "tagline": "",
+      "pub_date": "2026-10-09T00:16:56-07:00"
+    },
+    {
+      "title": "GitGlow",
+      "url": "https://www.producthunt.com/products/gitglow-2",
+      "tagline": "",
+      "pub_date": "2026-10-09T07:21:14-07:00"
+    },
+    {
+      "title": "The Computer Game",
+      "url": "https://www.producthunt.com/products/the-computer-game",
+      "tagline": "",
+      "pub_date": "2026-10-09T10:52:22-07:00"
+    },
+    {
+      "title": "API Claws by Buda",
+      "url": "https://www.producthunt.com/products/buda-2",
+      "tagline": "",
+      "pub_date": "2026-07-06T02:04:47-07:00"
+    },
+    {
+      "title": "Tuck",
+      "url": "https://www.producthunt.com/products/tuck-6",
+      "tagline": "",
+      "pub_date": "2026-10-07T09:06:35-07:00"
     }
   ]
 }

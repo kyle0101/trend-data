@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-10-12T03:37:04.413Z",
+  "generated_at": "2026-10-12T14:03:05.959Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "url": "https://betterwispr.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50042333",
-      "points": 168,
-      "comments": 95,
-      "created_ts": 1791720088,
-      "author": "kartik017"
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "hn_url": "https://news.ycombinator.com/item?id=50052251",
+      "points": 114,
+      "comments": 63,
+      "created_ts": 1791787613,
+      "author": "deadxwarrior"
+    },
+    {
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "hn_url": "https://news.ycombinator.com/item?id=50049588",
+      "points": 33,
+      "comments": 4,
+      "created_ts": 1791764112,
+      "author": "SaarthRanka"
     },
     {
       "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
       "url": "https://github.com/swimmingbrain/brainotes",
       "hn_url": "https://news.ycombinator.com/item?id=50049132",
-      "points": 18,
-      "comments": 0,
+      "points": 32,
+      "comments": 2,
       "created_ts": 1791760949,
       "author": "swimmingbrain"
     },
@@ -34,137 +43,287 @@
       "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
       "url": "https://github.com/plimsollmark/plimsoll",
       "hn_url": "https://news.ycombinator.com/item?id=50049388",
-      "points": 12,
-      "comments": 2,
+      "points": 15,
+      "comments": 3,
       "created_ts": 1791762479,
       "author": "cagster"
     }
   ],
   "hn_front": [
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "hn_url": "https://news.ycombinator.com/item?id=50045984",
-      "points": 405,
-      "comments": 171,
-      "created_ts": 1791741887,
-      "author": "jttnr"
-    },
-    {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "hn_url": "https://news.ycombinator.com/item?id=50045946",
-      "points": 384,
-      "comments": 191,
-      "created_ts": 1791741676,
-      "author": "gregsadetsky"
-    },
-    {
       "title": "Passkeys are a trap",
       "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
       "hn_url": "https://news.ycombinator.com/item?id=50048312",
-      "points": 350,
-      "comments": 199,
+      "points": 791,
+      "comments": 428,
       "created_ts": 1791755988,
       "author": "laurex"
     },
     {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=50043026",
-      "points": 340,
-      "comments": 388,
-      "created_ts": 1791724605,
-      "author": "Anon84"
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "hn_url": "https://news.ycombinator.com/item?id=50045984",
+      "points": 581,
+      "comments": 221,
+      "created_ts": 1791741887,
+      "author": "jttnr"
     },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "hn_url": "https://news.ycombinator.com/item?id=50047422",
-      "points": 295,
-      "comments": 470,
+      "points": 544,
+      "comments": 785,
       "created_ts": 1791750052,
       "author": "albertzeyer"
     },
     {
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "hn_url": "https://news.ycombinator.com/item?id=50047055",
-      "points": 272,
-      "comments": 36,
-      "created_ts": 1791747812,
-      "author": "mooreds"
-    },
-    {
-      "title": "The tilde in your PATH may not be your HOME",
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "hn_url": "https://news.ycombinator.com/item?id=50042425",
-      "points": 226,
-      "comments": 144,
-      "created_ts": 1791720793,
-      "author": "arusekk"
-    },
-    {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "hn_url": "https://news.ycombinator.com/item?id=50048638",
-      "points": 221,
-      "comments": 48,
-      "created_ts": 1791758010,
-      "author": "heyimada"
-    },
-    {
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "hn_url": "https://news.ycombinator.com/item?id=50047091",
-      "points": 203,
-      "comments": 38,
-      "created_ts": 1791748000,
-      "author": "edent"
-    },
-    {
-      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "url": "https://betterwispr.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50042333",
-      "points": 168,
-      "comments": 95,
-      "created_ts": 1791720088,
-      "author": "kartik017"
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "hn_url": "https://news.ycombinator.com/item?id=50042362",
-      "points": 145,
-      "comments": 80,
-      "created_ts": 1791720382,
-      "author": "verdagon"
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "hn_url": "https://news.ycombinator.com/item?id=50045946",
+      "points": 527,
+      "comments": 262,
+      "created_ts": 1791741676,
+      "author": "gregsadetsky"
     },
     {
       "title": "Fingerprints are the new cookies",
       "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "hn_url": "https://news.ycombinator.com/item?id=50048642",
-      "points": 144,
-      "comments": 57,
+      "points": 510,
+      "comments": 250,
       "created_ts": 1791758019,
       "author": "royfish"
     },
     {
-      "title": "How I reverse engineered a commercial spatial audio effect",
-      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-      "hn_url": "https://news.ycombinator.com/item?id=50044272",
-      "points": 109,
-      "comments": 34,
-      "created_ts": 1791732118,
-      "author": "epestr"
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "hn_url": "https://news.ycombinator.com/item?id=50054207",
+      "points": 424,
+      "comments": 135,
+      "created_ts": 1791800487,
+      "author": "Betelbuddy"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "hn_url": "https://news.ycombinator.com/item?id=50047091",
+      "points": 291,
+      "comments": 58,
+      "created_ts": 1791748000,
+      "author": "edent"
+    },
+    {
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "hn_url": "https://news.ycombinator.com/item?id=50054751",
+      "points": 218,
+      "comments": 203,
+      "created_ts": 1791804144,
+      "author": "bwnkl"
+    },
+    {
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "hn_url": "https://news.ycombinator.com/item?id=50051530",
+      "points": 215,
+      "comments": 237,
+      "created_ts": 1791780840,
+      "author": "amosbatto"
+    },
+    {
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50051583",
+      "points": 188,
+      "comments": 133,
+      "created_ts": 1791781427,
+      "author": "m463"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50051573",
+      "points": 160,
+      "comments": 66,
+      "created_ts": 1791781354,
+      "author": "lukaslalinsky"
+    },
+    {
+      "title": "Zod 4.6.6 compromised by malware?",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "hn_url": "https://news.ycombinator.com/item?id=50052814",
+      "points": 160,
+      "comments": 46,
+      "created_ts": 1791791249,
+      "author": "luggage_bazooka"
+    },
+    {
+      "title": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "hn_url": "https://news.ycombinator.com/item?id=50049872",
+      "points": 156,
+      "comments": 59,
+      "created_ts": 1791766107,
+      "author": "acley"
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "hn_url": "https://news.ycombinator.com/item?id=50049411",
+      "points": 155,
+      "comments": 79,
+      "created_ts": 1791762634,
+      "author": "cainxinth"
+    },
+    {
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "hn_url": "https://news.ycombinator.com/item?id=50052163",
+      "points": 145,
+      "comments": 144,
+      "created_ts": 1791787013,
+      "author": "saisrirampur"
+    },
+    {
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "hn_url": "https://news.ycombinator.com/item?id=50046241",
+      "points": 123,
+      "comments": 30,
+      "created_ts": 1791743184,
+      "author": "rafael859"
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "hn_url": "https://news.ycombinator.com/item?id=50052251",
+      "points": 114,
+      "comments": 63,
+      "created_ts": 1791787613,
+      "author": "deadxwarrior"
     }
   ],
   "ph_today": [
     {
-      "title": "shippedit.me",
-      "url": "https://www.producthunt.com/products/shippedit-me",
+      "title": "guilds.run",
+      "url": "https://www.producthunt.com/products/guilds-run",
       "tagline": "",
-      "pub_date": "2026-10-07T18:41:14-07:00"
+      "pub_date": "2026-10-09T02:50:52-07:00"
+    },
+    {
+      "title": "Invited - AI Reminder Scanner",
+      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+      "tagline": "",
+      "pub_date": "2026-10-07T22:56:58-07:00"
+    },
+    {
+      "title": "Cube Forms",
+      "url": "https://www.producthunt.com/products/cube-forms",
+      "tagline": "",
+      "pub_date": "2026-10-11T01:49:11-07:00"
+    },
+    {
+      "title": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "tagline": "",
+      "pub_date": "2026-10-11T18:58:06-07:00"
+    },
+    {
+      "title": "Manifold MCP",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "tagline": "",
+      "pub_date": "2026-10-11T14:01:27-07:00"
+    },
+    {
+      "title": "Knocket",
+      "url": "https://www.producthunt.com/products/knocket-2",
+      "tagline": "",
+      "pub_date": "2026-09-22T23:42:46-07:00"
+    },
+    {
+      "title": "Codemind",
+      "url": "https://www.producthunt.com/products/codemind-2",
+      "tagline": "",
+      "pub_date": "2026-10-08T06:07:17-07:00"
+    },
+    {
+      "title": "Hexis Cloud",
+      "url": "https://www.producthunt.com/products/bevel-software",
+      "tagline": "",
+      "pub_date": "2026-10-08T07:08:07-07:00"
+    },
+    {
+      "title": "ExcaliClaw",
+      "url": "https://www.producthunt.com/products/excaliclaw",
+      "tagline": "",
+      "pub_date": "2026-10-11T14:09:34-07:00"
+    },
+    {
+      "title": "Dropstone CLI",
+      "url": "https://www.producthunt.com/products/dropstone-cli",
+      "tagline": "",
+      "pub_date": "2026-10-11T12:00:02-07:00"
+    },
+    {
+      "title": "Understory Notes",
+      "url": "https://www.producthunt.com/products/understory-notes",
+      "tagline": "",
+      "pub_date": "2026-10-08T13:51:38-07:00"
+    },
+    {
+      "title": "ngram 2.0",
+      "url": "https://www.producthunt.com/products/ngram",
+      "tagline": "",
+      "pub_date": "2026-10-01T10:34:14-07:00"
+    },
+    {
+      "title": "SalesRep.com",
+      "url": "https://www.producthunt.com/products/salesrep-com",
+      "tagline": "",
+      "pub_date": "2026-10-08T15:03:36-07:00"
+    },
+    {
+      "title": "Google EmbeddingGemma 2",
+      "url": "https://www.producthunt.com/products/embeddinggemma-2",
+      "tagline": "",
+      "pub_date": "2026-10-06T09:08:17-07:00"
+    },
+    {
+      "title": "Ancher 2.0",
+      "url": "https://www.producthunt.com/products/ancher-ai",
+      "tagline": "",
+      "pub_date": "2026-10-01T07:14:23-07:00"
+    },
+    {
+      "title": "SquadRoom",
+      "url": "https://www.producthunt.com/products/squadroom",
+      "tagline": "",
+      "pub_date": "2026-10-07T10:56:39-07:00"
+    },
+    {
+      "title": "Scrape Anything by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-10-11T12:23:53-07:00"
+    },
+    {
+      "title": "Bearconnect 2.0",
+      "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
+      "tagline": "",
+      "pub_date": "2026-09-29T07:54:49-07:00"
+    },
+    {
+      "title": "Milepost",
+      "url": "https://www.producthunt.com/products/milepost-2",
+      "tagline": "",
+      "pub_date": "2026-09-30T01:07:14-07:00"
+    },
+    {
+      "title": "Base Code",
+      "url": "https://www.producthunt.com/products/base44",
+      "tagline": "",
+      "pub_date": "2026-09-28T16:15:26-07:00"
     },
     {
       "title": "HireKey",
@@ -173,88 +332,10 @@
       "pub_date": "2026-10-02T01:43:03-07:00"
     },
     {
-      "title": "Agibot",
-      "url": "https://www.producthunt.com/products/agibot",
+      "title": "Ghost Core",
+      "url": "https://www.producthunt.com/products/ghost-core",
       "tagline": "",
-      "pub_date": "2026-10-10T06:04:39-07:00"
-    },
-    {
-      "title": "Ayven",
-      "url": "https://www.producthunt.com/products/ayven",
-      "tagline": "",
-      "pub_date": "2026-09-09T11:19:36-07:00"
-    },
-    {
-      "title": "MePersona",
-      "url": "https://www.producthunt.com/products/mepersona",
-      "tagline": "",
-      "pub_date": "2026-09-15T02:25:39-07:00"
-    },
-    {
-      "title": "Automations in Perplexity Computer",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
-      "tagline": "",
-      "pub_date": "2026-09-29T09:52:38-07:00"
-    },
-    {
-      "title": "EdgeVolume",
-      "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
-      "tagline": "",
-      "pub_date": "2026-10-10T00:58:12-07:00"
-    },
-    {
-      "title": "Gboard Kurukuru Version",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-10-10T21:14:18-07:00"
-    },
-    {
-      "title": "SimpleSpread",
-      "url": "https://www.producthunt.com/products/simplespread",
-      "tagline": "",
-      "pub_date": "2026-10-08T17:21:08-07:00"
-    },
-    {
-      "title": "Kooler",
-      "url": "https://www.producthunt.com/products/kooler-2",
-      "tagline": "",
-      "pub_date": "2026-10-07T18:10:54-07:00"
-    },
-    {
-      "title": "DevTerminal",
-      "url": "https://www.producthunt.com/products/devterminal",
-      "tagline": "",
-      "pub_date": "2026-10-08T06:33:51-07:00"
-    },
-    {
-      "title": "Farol",
-      "url": "https://www.producthunt.com/products/farol-3",
-      "tagline": "",
-      "pub_date": "2026-10-10T03:38:06-07:00"
-    },
-    {
-      "title": "Tori",
-      "url": "https://www.producthunt.com/products/tori-japanese-listening-srs",
-      "tagline": "",
-      "pub_date": "2026-10-05T07:55:26-07:00"
-    },
-    {
-      "title": "Pickle Sensei",
-      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
-      "tagline": "",
-      "pub_date": "2026-10-02T18:00:11-07:00"
-    },
-    {
-      "title": "Foley",
-      "url": "https://www.producthunt.com/products/foley",
-      "tagline": "",
-      "pub_date": "2026-10-04T23:48:55-07:00"
-    },
-    {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
-      "tagline": "",
-      "pub_date": "2026-10-08T01:48:13-07:00"
+      "pub_date": "2026-10-05T10:44:06-07:00"
     },
     {
       "title": "NotchPit",
@@ -263,10 +344,22 @@
       "pub_date": "2026-10-10T06:31:03-07:00"
     },
     {
+      "title": "Pickle Sensei",
+      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
+      "tagline": "",
+      "pub_date": "2026-10-02T18:00:11-07:00"
+    },
+    {
       "title": "KarmaBoard",
       "url": "https://www.producthunt.com/products/karmaboard",
       "tagline": "",
       "pub_date": "2026-10-08T13:49:49-07:00"
+    },
+    {
+      "title": "Farol",
+      "url": "https://www.producthunt.com/products/farol-3",
+      "tagline": "",
+      "pub_date": "2026-10-10T03:38:06-07:00"
     },
     {
       "title": "NewMinecraftServers",
@@ -275,70 +368,22 @@
       "pub_date": "2026-10-07T09:29:22-07:00"
     },
     {
-      "title": "Edgee Mod for Claude Code",
-      "url": "https://www.producthunt.com/products/edgee",
+      "title": "Halo",
+      "url": "https://www.producthunt.com/products/halo-11",
       "tagline": "",
-      "pub_date": "2026-10-08T01:41:39-07:00"
+      "pub_date": "2026-10-08T01:48:13-07:00"
     },
     {
-      "title": "Ghost Core",
-      "url": "https://www.producthunt.com/products/ghost-core",
+      "title": "shippedit.me",
+      "url": "https://www.producthunt.com/products/shippedit-me",
       "tagline": "",
-      "pub_date": "2026-10-05T10:44:06-07:00"
-    },
-    {
-      "title": "kōdlo",
-      "url": "https://www.producthunt.com/products/kodlo",
-      "tagline": "",
-      "pub_date": "2026-10-07T02:46:27-07:00"
-    },
-    {
-      "title": "OpenScreen 2",
-      "url": "https://www.producthunt.com/products/openscreen-2",
-      "tagline": "",
-      "pub_date": "2026-09-28T01:10:44-07:00"
+      "pub_date": "2026-10-07T18:41:14-07:00"
     },
     {
       "title": "Poke Finder",
       "url": "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web",
       "tagline": "",
       "pub_date": "2026-10-05T06:10:39-07:00"
-    },
-    {
-      "title": "FloorGen",
-      "url": "https://www.producthunt.com/products/floorgen",
-      "tagline": "",
-      "pub_date": "2026-10-09T11:19:20-07:00"
-    },
-    {
-      "title": "Unboom",
-      "url": "https://www.producthunt.com/products/unboom",
-      "tagline": "",
-      "pub_date": "2026-10-07T06:07:27-07:00"
-    },
-    {
-      "title": "FocusWrite",
-      "url": "https://www.producthunt.com/products/focuswrite",
-      "tagline": "",
-      "pub_date": "2026-10-10T00:08:24-07:00"
-    },
-    {
-      "title": "New Windows Search",
-      "url": "https://www.producthunt.com/products/new-windows-search",
-      "tagline": "",
-      "pub_date": "2026-10-08T20:50:14-07:00"
-    },
-    {
-      "title": "TapNoise",
-      "url": "https://www.producthunt.com/products/tapnoise",
-      "tagline": "",
-      "pub_date": "2026-10-09T00:16:56-07:00"
-    },
-    {
-      "title": "Claude Dashboards &amp; Motion",
-      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
-      "tagline": "",
-      "pub_date": "2026-10-09T08:13:51-07:00"
     }
   ]
 }

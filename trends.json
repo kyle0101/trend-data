@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:59:49.279Z",
+  "generated_at": "2026-10-13T06:21:08.691Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,37 +7,46 @@
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
       "url": "https://github.com/snuri00/ps2-web-recomp",
       "hn_url": "https://news.ycombinator.com/item?id=50052251",
-      "points": 260,
-      "comments": 140,
+      "points": 285,
+      "comments": 147,
       "created_ts": 1791787613,
       "author": "deadxwarrior"
     },
     {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "hn_url": "https://news.ycombinator.com/item?id=50049588",
-      "points": 55,
-      "comments": 6,
-      "created_ts": 1791764112,
-      "author": "SaarthRanka"
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "url": "https://brickbrag.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063042",
+      "points": 50,
+      "comments": 27,
+      "created_ts": 1791839016,
+      "author": "neuling"
+    },
+    {
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "hn_url": "https://news.ycombinator.com/item?id=50064438",
+      "points": 41,
+      "comments": 19,
+      "created_ts": 1791847272,
+      "author": "androsynth89"
     },
     {
       "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
       "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
       "hn_url": "https://news.ycombinator.com/item?id=50060311",
       "points": 39,
-      "comments": 41,
+      "comments": 43,
       "created_ts": 1791828236,
       "author": "behzadhaghgoo"
     },
     {
-      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-      "url": "https://brickbrag.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50063042",
-      "points": 18,
-      "comments": 9,
-      "created_ts": 1791839016,
-      "author": "neuling"
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "hn_url": "https://news.ycombinator.com/item?id=50064840",
+      "points": 28,
+      "comments": 1,
+      "created_ts": 1791850264,
+      "author": "bherbruck"
     },
     {
       "title": "Show HN: I rewrote my website in Swift",
@@ -54,17 +63,26 @@
       "title": "Muse Wonder",
       "url": "https://research.meta.ai/blog/muse-wonder",
       "hn_url": "https://news.ycombinator.com/item?id=50059115",
-      "points": 499,
-      "comments": 269,
+      "points": 599,
+      "comments": 324,
       "created_ts": 1791823681,
       "author": "meetpateltech"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50055304",
+      "points": 578,
+      "comments": 747,
+      "created_ts": 1791807402,
+      "author": "Zeekaas"
     },
     {
       "title": "Codex CLI installs a persistent, self-updating background daemon by default",
       "url": "https://github.com/openai/codex/issues/48195",
       "hn_url": "https://news.ycombinator.com/item?id=50060694",
-      "points": 424,
-      "comments": 222,
+      "points": 525,
+      "comments": 268,
       "created_ts": 1791829744,
       "author": "whimblepop"
     },
@@ -72,178 +90,139 @@
       "title": "GLM-Legal",
       "url": "https://z.ai/blog/glm-legal",
       "hn_url": "https://news.ycombinator.com/item?id=50058507",
-      "points": 399,
-      "comments": 225,
+      "points": 510,
+      "comments": 298,
       "created_ts": 1791821505,
       "author": "ilreb"
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "hn_url": "https://news.ycombinator.com/item?id=50055304",
-      "points": 389,
-      "comments": 615,
-      "created_ts": 1791807402,
-      "author": "Zeekaas"
     },
     {
       "title": "A Modern Web App in C",
       "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "hn_url": "https://news.ycombinator.com/item?id=50058528",
-      "points": 357,
-      "comments": 155,
+      "points": 491,
+      "comments": 203,
       "created_ts": 1791821590,
       "author": "prophittcorey"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "hn_url": "https://news.ycombinator.com/item?id=50059523",
-      "points": 297,
-      "comments": 254,
-      "created_ts": 1791825241,
-      "author": "gumby"
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "hn_url": "https://news.ycombinator.com/item?id=50052251",
-      "points": 260,
-      "comments": 140,
-      "created_ts": 1791787613,
-      "author": "deadxwarrior"
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "hn_url": "https://news.ycombinator.com/item?id=50055220",
-      "points": 246,
-      "comments": 299,
-      "created_ts": 1791806949,
-      "author": "scrlk"
-    },
-    {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "hn_url": "https://news.ycombinator.com/item?id=50055593",
-      "points": 242,
-      "comments": 61,
-      "created_ts": 1791808918,
-      "author": "djfergus"
-    },
-    {
-      "title": "Thinking will become a hobby",
-      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "hn_url": "https://news.ycombinator.com/item?id=50059204",
-      "points": 208,
-      "comments": 272,
-      "created_ts": 1791824048,
-      "author": "pranitha_m"
     },
     {
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "hn_url": "https://news.ycombinator.com/item?id=50063427",
-      "points": 178,
-      "comments": 165,
+      "points": 328,
+      "comments": 274,
       "created_ts": 1791841218,
       "author": "layer8"
     },
     {
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "hn_url": "https://news.ycombinator.com/item?id=50060269",
-      "points": 172,
-      "comments": 80,
-      "created_ts": 1791828025,
-      "author": "svieira"
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "hn_url": "https://news.ycombinator.com/item?id=50055593",
+      "points": 315,
+      "comments": 89,
+      "created_ts": 1791808918,
+      "author": "djfergus"
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "hn_url": "https://news.ycombinator.com/item?id=50055220",
+      "points": 304,
+      "comments": 341,
+      "created_ts": 1791806949,
+      "author": "scrlk"
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
       "url": "https://taylor.town/kk-ai-2026",
       "hn_url": "https://news.ycombinator.com/item?id=50057668",
-      "points": 118,
-      "comments": 36,
+      "points": 172,
+      "comments": 63,
       "created_ts": 1791818205,
       "author": "surprisetalk"
     },
     {
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-      "hn_url": "https://news.ycombinator.com/item?id=50060674",
-      "points": 101,
-      "comments": 67,
-      "created_ts": 1791829646,
-      "author": "PaulHoule"
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063138",
+      "points": 168,
+      "comments": 16,
+      "created_ts": 1791839563,
+      "author": "pngmangi"
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "hn_url": "https://news.ycombinator.com/item?id=50056822",
+      "points": 163,
+      "comments": 151,
+      "created_ts": 1791814744,
+      "author": "speckx"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50063365",
+      "points": 154,
+      "comments": 68,
+      "created_ts": 1791840935,
+      "author": "hurricanepootis"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50061791",
+      "points": 153,
+      "comments": 56,
+      "created_ts": 1791833762,
+      "author": "speckx"
+    },
+    {
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "url": "https://doi.org/10.1111/acel.70751",
+      "hn_url": "https://news.ycombinator.com/item?id=50064536",
+      "points": 140,
+      "comments": 93,
+      "created_ts": 1791848062,
+      "author": "arunc"
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "hn_url": "https://news.ycombinator.com/item?id=50059096",
+      "points": 126,
+      "comments": 84,
+      "created_ts": 1791823594,
+      "author": "vishnukool"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "hn_url": "https://news.ycombinator.com/item?id=50065692",
+      "points": 114,
+      "comments": 56,
+      "created_ts": 1791857228,
+      "author": "sbulaev"
+    },
+    {
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://phreak.ing/",
+      "hn_url": "https://news.ycombinator.com/item?id=50063417",
+      "points": 112,
+      "comments": 29,
+      "created_ts": 1791841172,
+      "author": "rickcarlino"
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "hn_url": "https://news.ycombinator.com/item?id=50061859",
+      "points": 104,
+      "comments": 17,
+      "created_ts": 1791834000,
+      "author": "zdw"
     }
   ],
   "ph_today": [
-    {
-      "title": "Kudos 3.0",
-      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
-      "tagline": "",
-      "pub_date": "2026-10-11T18:58:06-07:00"
-    },
-    {
-      "title": "Ancher 2.0",
-      "url": "https://www.producthunt.com/products/ancher-ai",
-      "tagline": "",
-      "pub_date": "2026-10-01T07:14:23-07:00"
-    },
-    {
-      "title": "Google EmbeddingGemma 2",
-      "url": "https://www.producthunt.com/products/embeddinggemma-2",
-      "tagline": "",
-      "pub_date": "2026-10-06T09:08:17-07:00"
-    },
-    {
-      "title": "Scrape Anything by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "tagline": "",
-      "pub_date": "2026-10-11T12:23:53-07:00"
-    },
-    {
-      "title": "Knocket",
-      "url": "https://www.producthunt.com/products/knocket-2",
-      "tagline": "",
-      "pub_date": "2026-09-22T23:42:46-07:00"
-    },
-    {
-      "title": "Manifold MCP",
-      "url": "https://www.producthunt.com/products/manifold-mcp",
-      "tagline": "",
-      "pub_date": "2026-10-11T14:01:27-07:00"
-    },
-    {
-      "title": "Cube Forms",
-      "url": "https://www.producthunt.com/products/cube-forms",
-      "tagline": "",
-      "pub_date": "2026-10-11T01:49:11-07:00"
-    },
-    {
-      "title": "ExcaliClaw",
-      "url": "https://www.producthunt.com/products/excaliclaw",
-      "tagline": "",
-      "pub_date": "2026-10-11T14:09:34-07:00"
-    },
-    {
-      "title": "Milepost",
-      "url": "https://www.producthunt.com/products/milepost-2",
-      "tagline": "",
-      "pub_date": "2026-09-30T01:07:14-07:00"
-    },
-    {
-      "title": "Dropstone CLI",
-      "url": "https://www.producthunt.com/products/dropstone-cli",
-      "tagline": "",
-      "pub_date": "2026-10-11T12:00:02-07:00"
-    },
-    {
-      "title": "SquadRoom",
-      "url": "https://www.producthunt.com/products/squadroom",
-      "tagline": "",
-      "pub_date": "2026-10-07T10:56:39-07:00"
-    },
     {
       "title": "Understory Notes",
       "url": "https://www.producthunt.com/products/understory-notes",
@@ -257,34 +236,16 @@
       "pub_date": "2026-10-08T07:08:07-07:00"
     },
     {
-      "title": "SalesRep.com",
-      "url": "https://www.producthunt.com/products/salesrep-com",
+      "title": "Bearconnect 2.0",
+      "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
       "tagline": "",
-      "pub_date": "2026-10-08T15:03:36-07:00"
+      "pub_date": "2026-09-29T07:54:49-07:00"
     },
     {
-      "title": "guilds.run",
-      "url": "https://www.producthunt.com/products/guilds-run",
+      "title": "Dropstone CLI",
+      "url": "https://www.producthunt.com/products/dropstone-cli",
       "tagline": "",
-      "pub_date": "2026-10-09T02:50:52-07:00"
-    },
-    {
-      "title": "ngram 2.0",
-      "url": "https://www.producthunt.com/products/ngram",
-      "tagline": "",
-      "pub_date": "2026-10-01T10:34:14-07:00"
-    },
-    {
-      "title": "Invited - AI Reminder Scanner",
-      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
-      "tagline": "",
-      "pub_date": "2026-10-07T22:56:58-07:00"
-    },
-    {
-      "title": "Base Code",
-      "url": "https://www.producthunt.com/products/base44",
-      "tagline": "",
-      "pub_date": "2026-09-28T16:15:26-07:00"
+      "pub_date": "2026-10-11T12:00:02-07:00"
     },
     {
       "title": "Codemind",
@@ -293,10 +254,100 @@
       "pub_date": "2026-10-08T06:07:17-07:00"
     },
     {
-      "title": "Bearconnect 2.0",
-      "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
+      "title": "SalesRep.com",
+      "url": "https://www.producthunt.com/products/salesrep-com",
       "tagline": "",
-      "pub_date": "2026-09-29T07:54:49-07:00"
+      "pub_date": "2026-10-08T15:03:36-07:00"
+    },
+    {
+      "title": "SquadRoom",
+      "url": "https://www.producthunt.com/products/squadroom",
+      "tagline": "",
+      "pub_date": "2026-10-07T10:56:39-07:00"
+    },
+    {
+      "title": "Milepost",
+      "url": "https://www.producthunt.com/products/milepost-2",
+      "tagline": "",
+      "pub_date": "2026-09-30T01:07:14-07:00"
+    },
+    {
+      "title": "Invited - AI Reminder Scanner",
+      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+      "tagline": "",
+      "pub_date": "2026-10-07T22:56:58-07:00"
+    },
+    {
+      "title": "ExcaliClaw",
+      "url": "https://www.producthunt.com/products/excaliclaw",
+      "tagline": "",
+      "pub_date": "2026-10-11T14:09:34-07:00"
+    },
+    {
+      "title": "Scrape Anything by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-10-11T12:23:53-07:00"
+    },
+    {
+      "title": "Manifold MCP",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "tagline": "",
+      "pub_date": "2026-10-11T14:01:27-07:00"
+    },
+    {
+      "title": "Ancher 2.0",
+      "url": "https://www.producthunt.com/products/ancher-ai",
+      "tagline": "",
+      "pub_date": "2026-10-01T07:14:23-07:00"
+    },
+    {
+      "title": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "tagline": "",
+      "pub_date": "2026-10-11T18:58:06-07:00"
+    },
+    {
+      "title": "ngram 2.0",
+      "url": "https://www.producthunt.com/products/ngram",
+      "tagline": "",
+      "pub_date": "2026-10-01T10:34:14-07:00"
+    },
+    {
+      "title": "Google EmbeddingGemma 2",
+      "url": "https://www.producthunt.com/products/embeddinggemma-2",
+      "tagline": "",
+      "pub_date": "2026-10-06T09:08:17-07:00"
+    },
+    {
+      "title": "guilds.run",
+      "url": "https://www.producthunt.com/products/guilds-run",
+      "tagline": "",
+      "pub_date": "2026-10-09T02:50:52-07:00"
+    },
+    {
+      "title": "Base Code",
+      "url": "https://www.producthunt.com/products/base44",
+      "tagline": "",
+      "pub_date": "2026-09-28T16:15:26-07:00"
+    },
+    {
+      "title": "Cube Forms",
+      "url": "https://www.producthunt.com/products/cube-forms",
+      "tagline": "",
+      "pub_date": "2026-10-11T01:49:11-07:00"
+    },
+    {
+      "title": "EdgeVolume",
+      "url": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+      "tagline": "",
+      "pub_date": "2026-10-10T00:58:12-07:00"
+    },
+    {
+      "title": "FloorGen",
+      "url": "https://www.producthunt.com/products/floorgen",
+      "tagline": "",
+      "pub_date": "2026-10-09T11:19:20-07:00"
     },
     {
       "title": "NotchPit",
@@ -305,40 +356,10 @@
       "pub_date": "2026-10-10T06:31:03-07:00"
     },
     {
-      "title": "FocusWrite",
-      "url": "https://www.producthunt.com/products/focuswrite",
+      "title": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google",
       "tagline": "",
-      "pub_date": "2026-10-10T00:08:24-07:00"
-    },
-    {
-      "title": "DevTerminal",
-      "url": "https://www.producthunt.com/products/devterminal",
-      "tagline": "",
-      "pub_date": "2026-10-08T06:33:51-07:00"
-    },
-    {
-      "title": "Ayven",
-      "url": "https://www.producthunt.com/products/ayven",
-      "tagline": "",
-      "pub_date": "2026-09-09T11:19:36-07:00"
-    },
-    {
-      "title": "NewMinecraftServers",
-      "url": "https://www.producthunt.com/products/newminecraftservers",
-      "tagline": "",
-      "pub_date": "2026-10-07T09:29:22-07:00"
-    },
-    {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
-      "tagline": "",
-      "pub_date": "2026-10-08T01:48:13-07:00"
-    },
-    {
-      "title": "Pickle Sensei",
-      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
-      "tagline": "",
-      "pub_date": "2026-10-02T18:00:11-07:00"
+      "pub_date": "2026-10-10T21:14:18-07:00"
     },
     {
       "title": "Tori",
@@ -347,16 +368,40 @@
       "pub_date": "2026-10-05T07:55:26-07:00"
     },
     {
-      "title": "HireKey",
-      "url": "https://www.producthunt.com/products/hirekey",
+      "title": "Farol",
+      "url": "https://www.producthunt.com/products/farol-3",
       "tagline": "",
-      "pub_date": "2026-10-02T01:43:03-07:00"
+      "pub_date": "2026-10-10T03:38:06-07:00"
     },
     {
-      "title": "Agibot",
-      "url": "https://www.producthunt.com/products/agibot",
+      "title": "Pickle Sensei",
+      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
       "tagline": "",
-      "pub_date": "2026-10-10T06:04:39-07:00"
+      "pub_date": "2026-10-02T18:00:11-07:00"
+    },
+    {
+      "title": "SimpleSpread",
+      "url": "https://www.producthunt.com/products/simplespread",
+      "tagline": "",
+      "pub_date": "2026-10-08T17:21:08-07:00"
+    },
+    {
+      "title": "NewMinecraftServers",
+      "url": "https://www.producthunt.com/products/newminecraftservers",
+      "tagline": "",
+      "pub_date": "2026-10-07T09:29:22-07:00"
+    },
+    {
+      "title": "Kooler",
+      "url": "https://www.producthunt.com/products/kooler-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T18:10:54-07:00"
+    },
+    {
+      "title": "Foley",
+      "url": "https://www.producthunt.com/products/foley",
+      "tagline": "",
+      "pub_date": "2026-10-04T23:48:55-07:00"
     }
   ]
 }

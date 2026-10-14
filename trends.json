@@ -1,52 +1,88 @@
 {
-  "generated_at": "2026-10-13T18:43:05.721Z",
+  "generated_at": "2026-10-14T02:58:02.862Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50077020",
+      "points": 310,
+      "comments": 92,
+      "created_ts": 1791918708,
+      "author": "talccc"
+    },
+    {
       "title": "Show HN: Use your OpenAI subscription to create audiobooks",
       "url": "https://pdftomp3.com/connect-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50069337",
-      "points": 139,
-      "comments": 71,
+      "points": 159,
+      "comments": 80,
       "created_ts": 1791886114,
       "author": "janpmz"
     },
     {
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "url": "https://github.com/bherbruck/solidcraft",
-      "hn_url": "https://news.ycombinator.com/item?id=50064840",
-      "points": 123,
-      "comments": 34,
-      "created_ts": 1791850264,
-      "author": "bherbruck"
-    },
-    {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "url": "https://github.com/andrewfader/blokkily",
-      "hn_url": "https://news.ycombinator.com/item?id=50064438",
-      "points": 82,
-      "comments": 32,
-      "created_ts": 1791847272,
-      "author": "androsynth89"
-    },
-    {
-      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-      "url": "https://brickbrag.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50063042",
-      "points": 71,
-      "comments": 40,
-      "created_ts": 1791839016,
-      "author": "neuling"
-    },
-    {
-      "title": "Show HN: How Random Are You?",
+      "title": "Show HN: How random are you?",
       "url": "https://lab.specr.net/rigged-draw/",
       "hn_url": "https://news.ycombinator.com/item?id=50074909",
-      "points": 24,
-      "comments": 11,
+      "points": 80,
+      "comments": 47,
       "created_ts": 1791910677,
       "author": "vunderba"
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "hn_url": "https://news.ycombinator.com/item?id=50080275",
+      "points": 70,
+      "comments": 32,
+      "created_ts": 1791933203,
+      "author": "niztk"
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "hn_url": "https://news.ycombinator.com/item?id=50070010",
+      "points": 58,
+      "comments": 9,
+      "created_ts": 1791891120,
+      "author": "LargeModGames"
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50077619",
+      "points": 54,
+      "comments": 7,
+      "created_ts": 1791921031,
+      "author": "lasu"
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50075665",
+      "points": 51,
+      "comments": 40,
+      "created_ts": 1791913385,
+      "author": "jmole"
+    },
+    {
+      "title": "Show HN: Opensidian",
+      "url": "https://opensidian.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50070286",
+      "points": 39,
+      "comments": 40,
+      "created_ts": 1791892800,
+      "author": "jpzk"
+    },
+    {
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "url": "https://github.com/maharshi365/deslop",
+      "hn_url": "https://news.ycombinator.com/item?id=50075809",
+      "points": 27,
+      "comments": 6,
+      "created_ts": 1791913977,
+      "author": "maharshi365"
     },
     {
       "title": "Show HN: MemorySync – Memory for AI Agents",
@@ -58,40 +94,31 @@
       "author": "mohd_rafay"
     },
     {
-      "title": "Show HN: Opensidian",
-      "url": "https://opensidian.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=50070286",
-      "points": 20,
-      "comments": 12,
-      "created_ts": 1791892800,
-      "author": "jpzk"
+      "title": "Show HN: Sayso, free open source dictation for Mac, Windows, and Linux",
+      "url": "https://github.com/watzon/sayso",
+      "hn_url": "https://news.ycombinator.com/item?id=50073755",
+      "points": 17,
+      "comments": 7,
+      "created_ts": 1791906990,
+      "author": "watzon"
+    },
+    {
+      "title": "Show HN: Built a Rome City Builder",
+      "url": "https://tiberava.pages.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50081186",
+      "points": 14,
+      "comments": 0,
+      "created_ts": 1791940468,
+      "author": "granga"
     }
   ],
   "hn_front": [
     {
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "hn_url": "https://news.ycombinator.com/item?id=50063427",
-      "points": 597,
-      "comments": 474,
-      "created_ts": 1791841218,
-      "author": "layer8"
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "hn_url": "https://news.ycombinator.com/item?id=50069499",
-      "points": 576,
-      "comments": 333,
-      "created_ts": 1791887220,
-      "author": "formerly_proven"
-    },
-    {
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "hn_url": "https://news.ycombinator.com/item?id=50073879",
-      "points": 533,
-      "comments": 408,
+      "points": 1056,
+      "comments": 785,
       "created_ts": 1791907396,
       "author": "737max"
     },
@@ -99,8 +126,8 @@
       "title": "Apple HomeView",
       "url": "https://www.apple.com/apple-homeview/",
       "hn_url": "https://news.ycombinator.com/item?id=50071017",
-      "points": 493,
-      "comments": 619,
+      "points": 684,
+      "comments": 795,
       "created_ts": 1791896532,
       "author": "etothet"
     },
@@ -108,94 +135,133 @@
       "title": "Firefox Enterprise",
       "url": "https://www.firefox.com/en-US/enterprise/",
       "hn_url": "https://news.ycombinator.com/item?id=50070302",
-      "points": 440,
-      "comments": 178,
+      "points": 667,
+      "comments": 270,
       "created_ts": 1791892842,
       "author": "recvonline"
-    },
-    {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=50069971",
-      "points": 320,
-      "comments": 79,
-      "created_ts": 1791890834,
-      "author": "amrrs"
-    },
-    {
-      "title": "Hittite royal archive found in Turkey",
-      "url": "https://www.thehistoryblog.com/archives/77107",
-      "hn_url": "https://news.ycombinator.com/item?id=50067414",
-      "points": 296,
-      "comments": 75,
-      "created_ts": 1791871371,
-      "author": "benbreen"
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50068036",
-      "points": 196,
-      "comments": 215,
-      "created_ts": 1791876514,
-      "author": "nryoo"
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "hn_url": "https://news.ycombinator.com/item?id=50072913",
-      "points": 185,
-      "comments": 72,
-      "created_ts": 1791904057,
-      "author": "mjorgers"
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "hn_url": "https://news.ycombinator.com/item?id=50070593",
-      "points": 183,
-      "comments": 79,
-      "created_ts": 1791894396,
-      "author": "acossta"
-    },
-    {
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "hn_url": "https://news.ycombinator.com/item?id=50071310",
-      "points": 180,
-      "comments": 353,
-      "created_ts": 1791897695,
-      "author": "corvad"
     },
     {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "hn_url": "https://news.ycombinator.com/item?id=50073633",
-      "points": 147,
-      "comments": 108,
+      "points": 578,
+      "comments": 549,
       "created_ts": 1791906596,
       "author": "Philpax"
     },
     {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50069337",
-      "points": 139,
-      "comments": 71,
-      "created_ts": 1791886114,
-      "author": "janpmz"
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "hn_url": "https://news.ycombinator.com/item?id=50078141",
+      "points": 439,
+      "comments": 386,
+      "created_ts": 1791923035,
+      "author": "forthwall"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "hn_url": "https://news.ycombinator.com/item?id=50072913",
+      "points": 357,
+      "comments": 161,
+      "created_ts": 1791904057,
+      "author": "mjorgers"
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50077020",
+      "points": 310,
+      "comments": 92,
+      "created_ts": 1791918708,
+      "author": "talccc"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "hn_url": "https://news.ycombinator.com/item?id=50071310",
+      "points": 303,
+      "comments": 564,
+      "created_ts": 1791897695,
+      "author": "corvad"
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50068036",
+      "points": 299,
+      "comments": 270,
+      "created_ts": 1791876514,
+      "author": "nryoo"
     },
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "hn_url": "https://news.ycombinator.com/item?id=50073221",
-      "points": 129,
-      "comments": 74,
+      "points": 270,
+      "comments": 152,
       "created_ts": 1791905150,
       "author": "sammy0910"
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "hn_url": "https://news.ycombinator.com/item?id=50070593",
+      "points": 235,
+      "comments": 96,
+      "created_ts": 1791894396,
+      "author": "acossta"
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "hn_url": "https://news.ycombinator.com/item?id=50072994",
+      "points": 219,
+      "comments": 313,
+      "created_ts": 1791904377,
+      "author": "karakoram"
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "hn_url": "https://news.ycombinator.com/item?id=50072286",
+      "points": 203,
+      "comments": 343,
+      "created_ts": 1791901568,
+      "author": "ivell"
     }
   ],
   "ph_today": [
+    {
+      "title": "vibesmonitor.com",
+      "url": "https://www.producthunt.com/products/vibesmonitor",
+      "tagline": "",
+      "pub_date": "2026-10-12T11:25:03-07:00"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://www.producthunt.com/products/opencode",
+      "tagline": "",
+      "pub_date": "2026-10-12T13:08:47-07:00"
+    },
+    {
+      "title": "Vincentt",
+      "url": "https://www.producthunt.com/products/vincentt",
+      "tagline": "",
+      "pub_date": "2026-10-05T12:49:13-07:00"
+    },
+    {
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "tagline": "",
+      "pub_date": "2026-10-12T23:49:28-07:00"
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "tagline": "",
+      "pub_date": "2026-10-12T09:59:33-07:00"
+    },
     {
       "title": "Remocn Studio",
       "url": "https://www.producthunt.com/products/remocn-studio",
@@ -203,10 +269,40 @@
       "pub_date": "2026-10-05T06:15:43-07:00"
     },
     {
-      "title": "Fina Business",
-      "url": "https://www.producthunt.com/products/fina",
+      "title": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
       "tagline": "",
-      "pub_date": "2026-09-18T08:27:41-07:00"
+      "pub_date": "2026-10-12T22:39:15-07:00"
+    },
+    {
+      "title": "AdHelm CLI",
+      "url": "https://www.producthunt.com/products/adhelm-cli",
+      "tagline": "",
+      "pub_date": "2026-10-12T14:24:56-07:00"
+    },
+    {
+      "title": "Servor",
+      "url": "https://www.producthunt.com/products/servor",
+      "tagline": "",
+      "pub_date": "2026-10-12T03:15:09-07:00"
+    },
+    {
+      "title": "MausBot",
+      "url": "https://www.producthunt.com/products/mausbot",
+      "tagline": "",
+      "pub_date": "2026-10-06T05:05:48-07:00"
+    },
+    {
+      "title": "Upsolve Row-Level Security",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "tagline": "",
+      "pub_date": "2026-10-07T14:50:34-07:00"
+    },
+    {
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-3",
+      "tagline": "",
+      "pub_date": "2026-10-11T15:09:39-07:00"
     },
     {
       "title": "Music Dawn",
@@ -221,28 +317,16 @@
       "pub_date": "2026-10-05T17:56:41-07:00"
     },
     {
+      "title": "CLI Manager",
+      "url": "https://www.producthunt.com/products/cli-manager",
+      "tagline": "",
+      "pub_date": "2026-10-10T00:57:49-07:00"
+    },
+    {
       "title": "Kai",
       "url": "https://www.producthunt.com/products/hirekai",
       "tagline": "",
       "pub_date": "2026-09-23T09:20:03-07:00"
-    },
-    {
-      "title": "The Drive AI",
-      "url": "https://www.producthunt.com/products/the-drive-ai-2",
-      "tagline": "",
-      "pub_date": "2026-10-12T22:39:15-07:00"
-    },
-    {
-      "title": "Toby",
-      "url": "https://www.producthunt.com/products/toby-5",
-      "tagline": "",
-      "pub_date": "2026-10-12T19:51:31-07:00"
-    },
-    {
-      "title": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "tagline": "",
-      "pub_date": "2026-10-12T23:49:28-07:00"
     },
     {
       "title": "MentionBird",
@@ -251,82 +335,28 @@
       "pub_date": "2026-10-05T23:13:08-07:00"
     },
     {
-      "title": "Upsolve Row-Level Security",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "title": "Toby",
+      "url": "https://www.producthunt.com/products/toby-5",
       "tagline": "",
-      "pub_date": "2026-10-07T14:50:34-07:00"
+      "pub_date": "2026-10-12T19:51:31-07:00"
     },
     {
-      "title": "Vincentt",
-      "url": "https://www.producthunt.com/products/vincentt",
+      "title": "Takes for Mac",
+      "url": "https://www.producthunt.com/products/takes-for-mac",
       "tagline": "",
-      "pub_date": "2026-10-05T12:49:13-07:00"
+      "pub_date": "2026-10-11T12:12:39-07:00"
     },
     {
-      "title": "Scape",
-      "url": "https://www.producthunt.com/products/scape-3",
+      "title": "PostNitro for Agents",
+      "url": "https://www.producthunt.com/products/postnitro",
       "tagline": "",
-      "pub_date": "2026-10-11T15:09:39-07:00"
+      "pub_date": "2026-10-07T11:23:37-07:00"
     },
     {
-      "title": "Servor",
-      "url": "https://www.producthunt.com/products/servor",
+      "title": "Fina Business",
+      "url": "https://www.producthunt.com/products/fina",
       "tagline": "",
-      "pub_date": "2026-10-12T03:15:09-07:00"
-    },
-    {
-      "title": "HarnessHive",
-      "url": "https://www.producthunt.com/products/harnesshive",
-      "tagline": "",
-      "pub_date": "2026-10-12T19:17:03-07:00"
-    },
-    {
-      "title": "Google Fitbit Edge",
-      "url": "https://www.producthunt.com/products/google-fit-2",
-      "tagline": "",
-      "pub_date": "2026-10-12T09:19:58-07:00"
-    },
-    {
-      "title": "vibesmonitor.com",
-      "url": "https://www.producthunt.com/products/vibesmonitor",
-      "tagline": "",
-      "pub_date": "2026-10-12T11:25:03-07:00"
-    },
-    {
-      "title": "Articos MCP",
-      "url": "https://www.producthunt.com/products/articos",
-      "tagline": "",
-      "pub_date": "2026-10-02T04:57:48-07:00"
-    },
-    {
-      "title": "Muse Wonder",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "tagline": "",
-      "pub_date": "2026-10-12T09:59:33-07:00"
-    },
-    {
-      "title": "OpenCode 2.0",
-      "url": "https://www.producthunt.com/products/opencode",
-      "tagline": "",
-      "pub_date": "2026-10-12T13:08:47-07:00"
-    },
-    {
-      "title": "MausBot",
-      "url": "https://www.producthunt.com/products/mausbot",
-      "tagline": "",
-      "pub_date": "2026-10-06T05:05:48-07:00"
-    },
-    {
-      "title": "Agent Craft",
-      "url": "https://www.producthunt.com/products/agent-craft",
-      "tagline": "",
-      "pub_date": "2026-10-06T02:44:32-07:00"
-    },
-    {
-      "title": "OpenFlowKit 2",
-      "url": "https://www.producthunt.com/products/openflowkit",
-      "tagline": "",
-      "pub_date": "2026-10-12T20:05:36-07:00"
+      "pub_date": "2026-09-18T08:27:41-07:00"
     },
     {
       "title": "Xiryn",
@@ -341,40 +371,46 @@
       "pub_date": "2026-09-22T12:45:38-07:00"
     },
     {
+      "title": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "tagline": "",
+      "pub_date": "2026-10-12T19:17:03-07:00"
+    },
+    {
+      "title": "OpenFlowKit 2",
+      "url": "https://www.producthunt.com/products/openflowkit",
+      "tagline": "",
+      "pub_date": "2026-10-12T20:05:36-07:00"
+    },
+    {
+      "title": "Agent Craft",
+      "url": "https://www.producthunt.com/products/agent-craft",
+      "tagline": "",
+      "pub_date": "2026-10-06T02:44:32-07:00"
+    },
+    {
       "title": "Genchi",
       "url": "https://www.producthunt.com/products/genchi",
       "tagline": "",
       "pub_date": "2026-10-08T15:18:54-07:00"
     },
     {
-      "title": "Takes for Mac",
-      "url": "https://www.producthunt.com/products/takes-for-mac",
+      "title": "Google Fitbit Edge",
+      "url": "https://www.producthunt.com/products/google-fit-2",
       "tagline": "",
-      "pub_date": "2026-10-11T12:12:39-07:00"
+      "pub_date": "2026-10-12T09:19:58-07:00"
     },
     {
-      "title": "AdHelm CLI",
-      "url": "https://www.producthunt.com/products/adhelm-cli",
+      "title": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos",
       "tagline": "",
-      "pub_date": "2026-10-12T14:24:56-07:00"
+      "pub_date": "2026-10-02T04:57:48-07:00"
     },
     {
-      "title": "PostNitro for Agents",
-      "url": "https://www.producthunt.com/products/postnitro",
+      "title": "Invited - AI Reminder Scanner",
+      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
       "tagline": "",
-      "pub_date": "2026-10-07T11:23:37-07:00"
-    },
-    {
-      "title": "CLI Manager",
-      "url": "https://www.producthunt.com/products/cli-manager",
-      "tagline": "",
-      "pub_date": "2026-10-10T00:57:49-07:00"
-    },
-    {
-      "title": "Kudos 3.0",
-      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
-      "tagline": "",
-      "pub_date": "2026-10-11T18:58:06-07:00"
+      "pub_date": "2026-10-07T22:56:58-07:00"
     }
   ]
 }

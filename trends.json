@@ -1,176 +1,134 @@
 {
-  "generated_at": "2026-10-16T15:51:42.759Z",
+  "generated_at": "2026-10-16T20:20:35.496Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-      "url": "https://proa.so/",
-      "hn_url": "https://news.ycombinator.com/item?id=50105467",
-      "points": 104,
-      "comments": 32,
-      "created_ts": 1792079528,
-      "author": "burnrate"
-    },
-    {
-      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
-      "url": "https://sygal.app",
-      "hn_url": "https://news.ycombinator.com/item?id=50106054",
-      "points": 43,
-      "comments": 15,
-      "created_ts": 1792081576,
-      "author": "cyrillsemah"
-    },
-    {
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
       "hn_url": "https://news.ycombinator.com/item?id=50118688",
-      "points": 41,
-      "comments": 17,
+      "points": 153,
+      "comments": 70,
       "created_ts": 1792160324,
       "author": "__cayenne__"
     },
     {
-      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
-      "url": "https://github.com/rlshaw-ml/BlastLoop",
-      "hn_url": "https://news.ycombinator.com/item?id=50106062",
-      "points": 14,
-      "comments": 1,
-      "created_ts": 1792081599,
-      "author": "rossleeshaw"
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50118876",
+      "points": 42,
+      "comments": 18,
+      "created_ts": 1792161343,
+      "author": "stephenchung"
     },
     {
-      "title": "Show HN: Just gave Claude Code the website and ad budget to see what it would do",
-      "url": "https://snitch.alphaventure.com/gate.php",
-      "hn_url": "https://news.ycombinator.com/item?id=50107586",
-      "points": 11,
-      "comments": 6,
-      "created_ts": 1792087251,
-      "author": "HamadMalikKhan"
+      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+      "url": "https://onedeploy.co",
+      "hn_url": "https://news.ycombinator.com/item?id=50119752",
+      "points": 20,
+      "comments": 11,
+      "created_ts": 1792165115,
+      "author": "relatedcode"
     }
   ],
   "hn_front": [
     {
-      "title": "What I self-host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "hn_url": "https://news.ycombinator.com/item?id=50109715",
-      "points": 605,
-      "comments": 385,
-      "created_ts": 1792095805,
-      "author": "BrunoBernardino"
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "hn_url": "https://news.ycombinator.com/item?id=50112657",
+      "points": 778,
+      "comments": 1411,
+      "created_ts": 1792114365,
+      "author": "shekhar101"
     },
     {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "hn_url": "https://news.ycombinator.com/item?id=50111852",
-      "points": 424,
-      "comments": 152,
-      "created_ts": 1792107462,
-      "author": "0in"
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "hn_url": "https://news.ycombinator.com/item?id=50122800",
+      "points": 285,
+      "comments": 113,
+      "created_ts": 1792176959,
+      "author": "ahlCVA"
     },
     {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "hn_url": "https://news.ycombinator.com/item?id=50112739",
-      "points": 220,
-      "comments": 59,
-      "created_ts": 1792114997,
-      "author": "chanana"
-    },
-    {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "hn_url": "https://news.ycombinator.com/item?id=50112330",
-      "points": 203,
-      "comments": 86,
-      "created_ts": 1792111955,
-      "author": "emot"
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "hn_url": "https://news.ycombinator.com/item?id=50121179",
+      "points": 262,
+      "comments": 229,
+      "created_ts": 1792170518,
+      "author": "speckx"
     },
     {
       "title": "I Love Software Rendering",
       "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
       "hn_url": "https://news.ycombinator.com/item?id=50117746",
-      "points": 169,
-      "comments": 111,
+      "points": 257,
+      "comments": 176,
       "created_ts": 1792155128,
       "author": "speckx"
     },
     {
-      "title": "The Folders Programming Language",
-      "url": "https://danieltemkin.com/esolangs/folders",
-      "hn_url": "https://news.ycombinator.com/item?id=50114342",
-      "points": 166,
-      "comments": 30,
-      "created_ts": 1792127488,
-      "author": "gurst"
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=50118320",
+      "points": 215,
+      "comments": 101,
+      "created_ts": 1792158228,
+      "author": "antipaul"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "hn_url": "https://news.ycombinator.com/item?id=50118981",
+      "points": 155,
+      "comments": 267,
+      "created_ts": 1792161857,
+      "author": "ChrisArchitect"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=50118688",
+      "points": 153,
+      "comments": 70,
+      "created_ts": 1792160324,
+      "author": "__cayenne__"
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "hn_url": "https://news.ycombinator.com/item?id=50118977",
+      "points": 139,
+      "comments": 39,
+      "created_ts": 1792161842,
+      "author": "rs_rs_rs_rs_rs"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "hn_url": "https://news.ycombinator.com/item?id=50120224",
+      "points": 133,
+      "comments": 91,
+      "created_ts": 1792167122,
+      "author": "farlight"
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "hn_url": "https://news.ycombinator.com/item?id=50118828",
+      "points": 104,
+      "comments": 37,
+      "created_ts": 1792161103,
+      "author": "wawayanda"
     }
   ],
   "ph_today": [
     {
-      "title": "Firefox Enterprise",
-      "url": "https://www.producthunt.com/products/mozilla",
+      "title": "Palomino",
+      "url": "https://www.producthunt.com/products/palomino",
       "tagline": "",
-      "pub_date": "2026-10-13T00:41:17-07:00"
-    },
-    {
-      "title": "Taim",
-      "url": "https://www.producthunt.com/products/taim-4",
-      "tagline": "",
-      "pub_date": "2026-10-07T12:36:42-07:00"
-    },
-    {
-      "title": "Fish Audio Drama 3",
-      "url": "https://www.producthunt.com/products/fish-speech",
-      "tagline": "",
-      "pub_date": "2026-10-13T17:37:36-07:00"
-    },
-    {
-      "title": "Tetriz Harness",
-      "url": "https://www.producthunt.com/products/tetriz-harness",
-      "tagline": "",
-      "pub_date": "2026-10-15T04:55:43-07:00"
-    },
-    {
-      "title": "Harness by Autonomous",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
-      "tagline": "",
-      "pub_date": "2026-10-15T06:27:08-07:00"
-    },
-    {
-      "title": "Nemotron 3.5 Super VL",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "tagline": "",
-      "pub_date": "2026-10-15T08:27:13-07:00"
-    },
-    {
-      "title": "iKnowMyMac",
-      "url": "https://www.producthunt.com/products/iknowmymac",
-      "tagline": "",
-      "pub_date": "2026-10-13T10:56:28-07:00"
-    },
-    {
-      "title": "Dottr",
-      "url": "https://www.producthunt.com/products/dottr",
-      "tagline": "",
-      "pub_date": "2026-10-14T19:37:55-07:00"
-    },
-    {
-      "title": "Memory Chess",
-      "url": "https://www.producthunt.com/products/memory-chess",
-      "tagline": "",
-      "pub_date": "2026-10-14T11:39:26-07:00"
-    },
-    {
-      "title": "BOSS Console",
-      "url": "https://www.producthunt.com/products/boss-console",
-      "tagline": "",
-      "pub_date": "2026-10-15T04:37:49-07:00"
-    },
-    {
-      "title": "SignWith",
-      "url": "https://www.producthunt.com/products/signwith",
-      "tagline": "",
-      "pub_date": "2026-10-12T12:10:41-07:00"
+      "pub_date": "2026-10-10T17:10:42-07:00"
     },
     {
       "title": "Lovable Growth Tools",
@@ -179,88 +137,10 @@
       "pub_date": "2026-10-14T06:16:56-07:00"
     },
     {
-      "title": "Pomerado",
-      "url": "https://www.producthunt.com/products/pomerado",
+      "title": "SignWith",
+      "url": "https://www.producthunt.com/products/signwith",
       "tagline": "",
-      "pub_date": "2026-10-12T01:56:29-07:00"
-    },
-    {
-      "title": "Hintly for Google Meet™",
-      "url": "https://www.producthunt.com/products/hintly-for-google-meet",
-      "tagline": "",
-      "pub_date": "2026-10-09T02:00:24-07:00"
-    },
-    {
-      "title": "Holm",
-      "url": "https://www.producthunt.com/products/holm",
-      "tagline": "",
-      "pub_date": "2026-10-14T06:00:52-07:00"
-    },
-    {
-      "title": "Calenteri",
-      "url": "https://www.producthunt.com/products/calenteri",
-      "tagline": "",
-      "pub_date": "2026-10-13T00:17:21-07:00"
-    },
-    {
-      "title": "DOYT",
-      "url": "https://www.producthunt.com/products/doyt",
-      "tagline": "",
-      "pub_date": "2026-10-15T00:10:19-07:00"
-    },
-    {
-      "title": "Parallax",
-      "url": "https://www.producthunt.com/products/parallax-5",
-      "tagline": "",
-      "pub_date": "2026-10-15T12:25:02-07:00"
-    },
-    {
-      "title": "Atelier",
-      "url": "https://www.producthunt.com/products/atelier-9",
-      "tagline": "",
-      "pub_date": "2026-10-14T15:43:03-07:00"
-    },
-    {
-      "title": "Maybloc",
-      "url": "https://www.producthunt.com/products/maybloc",
-      "tagline": "",
-      "pub_date": "2026-10-15T09:51:59-07:00"
-    },
-    {
-      "title": "Grablo Spot",
-      "url": "https://www.producthunt.com/products/grablo-spot",
-      "tagline": "",
-      "pub_date": "2026-10-15T04:36:40-07:00"
-    },
-    {
-      "title": "NANI???",
-      "url": "https://www.producthunt.com/products/nani-2",
-      "tagline": "",
-      "pub_date": "2026-10-15T03:46:22-07:00"
-    },
-    {
-      "title": "Neophyte",
-      "url": "https://www.producthunt.com/products/neophyte",
-      "tagline": "",
-      "pub_date": "2026-10-12T18:43:19-07:00"
-    },
-    {
-      "title": "Nudgebox",
-      "url": "https://www.producthunt.com/products/nudgebox",
-      "tagline": "",
-      "pub_date": "2026-10-12T11:39:33-07:00"
-    },
-    {
-      "title": "Skisso",
-      "url": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
-      "tagline": "",
-      "pub_date": "2026-10-15T02:09:12-07:00"
-    },
-    {
-      "title": "FinderGit",
-      "url": "https://www.producthunt.com/products/findergit",
-      "tagline": "",
-      "pub_date": "2026-10-05T08:13:15-07:00"
+      "pub_date": "2026-10-12T12:10:41-07:00"
     },
     {
       "title": "Jockey by TwelveLabs",
@@ -269,22 +149,160 @@
       "pub_date": "2026-10-09T01:49:45-07:00"
     },
     {
+      "title": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "tagline": "",
+      "pub_date": "2026-10-15T17:51:53-07:00"
+    },
+    {
+      "title": "NANI???",
+      "url": "https://www.producthunt.com/products/nani-2",
+      "tagline": "",
+      "pub_date": "2026-10-15T03:46:22-07:00"
+    },
+    {
+      "title": "Pomerado",
+      "url": "https://www.producthunt.com/products/pomerado",
+      "tagline": "",
+      "pub_date": "2026-10-12T01:56:29-07:00"
+    },
+    {
+      "title": "Parallax",
+      "url": "https://www.producthunt.com/products/parallax-5",
+      "tagline": "",
+      "pub_date": "2026-10-15T12:25:02-07:00"
+    },
+    {
+      "title": "Dottr",
+      "url": "https://www.producthunt.com/products/dottr",
+      "tagline": "",
+      "pub_date": "2026-10-14T19:37:55-07:00"
+    },
+    {
+      "title": "Taim",
+      "url": "https://www.producthunt.com/products/taim-4",
+      "tagline": "",
+      "pub_date": "2026-10-07T12:36:42-07:00"
+    },
+    {
+      "title": "Grablo Spot",
+      "url": "https://www.producthunt.com/products/grablo-spot",
+      "tagline": "",
+      "pub_date": "2026-10-15T04:36:40-07:00"
+    },
+    {
+      "title": "Atelier",
+      "url": "https://www.producthunt.com/products/atelier-9",
+      "tagline": "",
+      "pub_date": "2026-10-14T15:43:03-07:00"
+    },
+    {
+      "title": "Calenteri",
+      "url": "https://www.producthunt.com/products/calenteri",
+      "tagline": "",
+      "pub_date": "2026-10-13T00:17:21-07:00"
+    },
+    {
+      "title": "Kalesh Judge",
+      "url": "https://www.producthunt.com/products/kalesh-judge",
+      "tagline": "",
+      "pub_date": "2026-10-15T01:19:50-07:00"
+    },
+    {
+      "title": "Maybloc",
+      "url": "https://www.producthunt.com/products/maybloc",
+      "tagline": "",
+      "pub_date": "2026-10-15T09:51:59-07:00"
+    },
+    {
+      "title": "Helicon",
+      "url": "https://www.producthunt.com/products/helicon",
+      "tagline": "",
+      "pub_date": "2026-10-09T11:06:38-07:00"
+    },
+    {
+      "title": "Mermaid",
+      "url": "https://www.producthunt.com/products/mermaid",
+      "tagline": "",
+      "pub_date": "2026-10-14T16:06:13-07:00"
+    },
+    {
+      "title": "FinderGit",
+      "url": "https://www.producthunt.com/products/findergit",
+      "tagline": "",
+      "pub_date": "2026-10-05T08:13:15-07:00"
+    },
+    {
+      "title": "Memory Chess",
+      "url": "https://www.producthunt.com/products/memory-chess",
+      "tagline": "",
+      "pub_date": "2026-10-14T11:39:26-07:00"
+    },
+    {
+      "title": "Skisso",
+      "url": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
+      "tagline": "",
+      "pub_date": "2026-10-15T02:09:12-07:00"
+    },
+    {
+      "title": "Tetriz Harness",
+      "url": "https://www.producthunt.com/products/tetriz-harness",
+      "tagline": "",
+      "pub_date": "2026-10-15T04:55:43-07:00"
+    },
+    {
       "title": "Muse Spark Open",
       "url": "https://www.producthunt.com/products/muse-spark-open",
       "tagline": "",
       "pub_date": "2026-10-15T13:13:34-07:00"
     },
     {
-      "title": "Palomino",
-      "url": "https://www.producthunt.com/products/palomino",
+      "title": "DOYT",
+      "url": "https://www.producthunt.com/products/doyt",
       "tagline": "",
-      "pub_date": "2026-10-10T17:10:42-07:00"
+      "pub_date": "2026-10-15T00:10:19-07:00"
     },
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "title": "Fish Audio Drama 3",
+      "url": "https://www.producthunt.com/products/fish-speech",
       "tagline": "",
-      "pub_date": "2026-10-15T19:49:42-07:00"
+      "pub_date": "2026-10-13T17:37:36-07:00"
+    },
+    {
+      "title": "Harness by Autonomous",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "tagline": "",
+      "pub_date": "2026-10-15T06:27:08-07:00"
+    },
+    {
+      "title": "Toad",
+      "url": "https://www.producthunt.com/products/toad-4",
+      "tagline": "",
+      "pub_date": "2026-10-15T09:36:36-07:00"
+    },
+    {
+      "title": "Sparrow",
+      "url": "https://www.producthunt.com/products/sparrow-10",
+      "tagline": "",
+      "pub_date": "2026-10-15T03:10:10-07:00"
+    },
+    {
+      "title": "iKnowMyMac",
+      "url": "https://www.producthunt.com/products/iknowmymac",
+      "tagline": "",
+      "pub_date": "2026-10-13T10:56:28-07:00"
+    },
+    {
+      "title": "Holm",
+      "url": "https://www.producthunt.com/products/holm",
+      "tagline": "",
+      "pub_date": "2026-10-14T06:00:52-07:00"
+    },
+    {
+      "title": "Nemotron 3.5 Super VL",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "tagline": "",
+      "pub_date": "2026-10-15T08:27:13-07:00"
     }
   ]
 }

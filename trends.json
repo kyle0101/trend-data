@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:45:01.772Z",
+  "generated_at": "2026-10-17T19:55:11.897Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,37 +7,37 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50127979",
-      "points": 160,
-      "comments": 52,
+      "points": 215,
+      "comments": 68,
       "created_ts": 1792211813,
       "author": "albinstman"
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "hn_url": "https://news.ycombinator.com/item?id=50131189",
+      "points": 72,
+      "comments": 10,
+      "created_ts": 1792245068,
+      "author": "joakimeriksson"
     },
     {
       "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
       "url": "https://fakeipedia.org",
       "hn_url": "https://news.ycombinator.com/item?id=50126334",
-      "points": 31,
-      "comments": 20,
+      "points": 39,
+      "comments": 22,
       "created_ts": 1792194724,
       "author": "darajava"
     },
     {
-      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-      "url": "https://stoke.money",
-      "hn_url": "https://news.ycombinator.com/item?id=50122776",
-      "points": 30,
-      "comments": 19,
-      "created_ts": 1792176887,
-      "author": "_wesley"
-    },
-    {
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
-      "hn_url": "https://news.ycombinator.com/item?id=50119752",
-      "points": 27,
-      "comments": 11,
-      "created_ts": 1792165115,
-      "author": "relatedcode"
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "hn_url": "https://news.ycombinator.com/item?id=50131006",
+      "points": 38,
+      "comments": 8,
+      "created_ts": 1792243726,
+      "author": "celphase"
     },
     {
       "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
@@ -49,167 +49,113 @@
       "author": "cloaky233"
     },
     {
-      "title": "Show HN: 2026 Midterms Tracker blends polls and Kalshi/Poymarket odds",
-      "url": "https://pressaudit.org/midterms-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=50122231",
-      "points": 12,
-      "comments": 4,
-      "created_ts": 1792174768,
-      "author": "SLHamlet"
+      "title": "Show HN: Things to Do API",
+      "url": "https://thingstodoapi.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50126384",
+      "points": 14,
+      "comments": 3,
+      "created_ts": 1792195114,
+      "author": "invalidmonk"
     },
     {
-      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
-      "url": "https://www.kapwing.com/ai/prompt-generator/camera",
-      "hn_url": "https://news.ycombinator.com/item?id=50122324",
+      "title": "Show HN: Online Piano – Play a Free Virtual Piano Keyboard",
+      "url": "https://urpiano.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50127889",
       "points": 11,
       "comments": 1,
-      "created_ts": 1792175151,
-      "author": "jenthoven"
+      "created_ts": 1792210646,
+      "author": "artiomartiom"
     }
   ],
   "hn_front": [
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "hn_url": "https://news.ycombinator.com/item?id=50122800",
-      "points": 942,
-      "comments": 342,
-      "created_ts": 1792176959,
-      "author": "ahlCVA"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "hn_url": "https://news.ycombinator.com/item?id=50121179",
-      "points": 552,
-      "comments": 488,
-      "created_ts": 1792170518,
-      "author": "speckx"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "hn_url": "https://news.ycombinator.com/item?id=50122951",
-      "points": 410,
-      "comments": 386,
-      "created_ts": 1792177487,
-      "author": "pretext"
-    },
-    {
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "hn_url": "https://news.ycombinator.com/item?id=50129121",
-      "points": 400,
-      "comments": 187,
-      "created_ts": 1792226266,
-      "author": "theanonymousone"
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "hn_url": "https://news.ycombinator.com/item?id=50122878",
-      "points": 375,
-      "comments": 85,
-      "created_ts": 1792177277,
-      "author": "speckx"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "hn_url": "https://news.ycombinator.com/item?id=50122431",
-      "points": 325,
-      "comments": 78,
-      "created_ts": 1792175555,
-      "author": "Anon84"
-    },
-    {
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "hn_url": "https://news.ycombinator.com/item?id=50127274",
-      "points": 312,
-      "comments": 181,
-      "created_ts": 1792203668,
-      "author": "wetwater"
-    },
-    {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "hn_url": "https://news.ycombinator.com/item?id=50129045",
-      "points": 302,
-      "comments": 117,
+      "points": 536,
+      "comments": 492,
       "created_ts": 1792225285,
       "author": "theykk"
     },
     {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "hn_url": "https://news.ycombinator.com/item?id=50120224",
-      "points": 292,
-      "comments": 192,
-      "created_ts": 1792167122,
-      "author": "farlight"
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "hn_url": "https://news.ycombinator.com/item?id=50131256",
+      "points": 369,
+      "comments": 210,
+      "created_ts": 1792245661,
+      "author": "xbmcuser"
     },
     {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "hn_url": "https://news.ycombinator.com/item?id=50122034",
-      "points": 243,
-      "comments": 219,
-      "created_ts": 1792173977,
-      "author": "7402"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "hn_url": "https://news.ycombinator.com/item?id=50123580",
-      "points": 186,
-      "comments": 53,
-      "created_ts": 1792180033,
-      "author": "gmays"
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "hn_url": "https://news.ycombinator.com/item?id=50133401",
+      "points": 253,
+      "comments": 49,
+      "created_ts": 1792260101,
+      "author": "pranshuchittora"
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50127979",
-      "points": 160,
-      "comments": 52,
+      "points": 215,
+      "comments": 68,
       "created_ts": 1792211813,
       "author": "albinstman"
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "hn_url": "https://news.ycombinator.com/item?id=50121939",
-      "points": 158,
-      "comments": 33,
-      "created_ts": 1792173618,
-      "author": "pretext"
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "hn_url": "https://news.ycombinator.com/item?id=50131213",
+      "points": 193,
+      "comments": 55,
+      "created_ts": 1792245328,
+      "author": "crescit_eundo"
     }
   ],
   "ph_today": [
     {
-      "title": "LooGo",
-      "url": "https://www.producthunt.com/products/loogo",
+      "title": "Earnote",
+      "url": "https://www.producthunt.com/products/earnote",
       "tagline": "",
-      "pub_date": "2026-10-11T09:02:08-07:00"
+      "pub_date": "2026-10-08T07:46:15-07:00"
     },
     {
-      "title": "Craft Agents",
-      "url": "https://www.producthunt.com/products/craft-agents",
+      "title": "GPU Terminal by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "tagline": "",
-      "pub_date": "2026-10-14T21:48:37-07:00"
+      "pub_date": "2026-10-16T18:32:08-07:00"
     },
     {
-      "title": "Notion: Context for your agents",
-      "url": "https://www.producthunt.com/products/notion",
+      "title": "Salience",
+      "url": "https://www.producthunt.com/products/salience",
       "tagline": "",
-      "pub_date": "2026-10-14T00:00:19-07:00"
+      "pub_date": "2026-10-16T20:46:40-07:00"
     },
     {
-      "title": "Emochi",
-      "url": "https://www.producthunt.com/products/emochi-2",
+      "title": "Draper",
+      "url": "https://www.producthunt.com/products/draper",
       "tagline": "",
-      "pub_date": "2026-10-16T00:43:37-07:00"
+      "pub_date": "2026-10-15T21:41:40-07:00"
+    },
+    {
+      "title": "Korinotch",
+      "url": "https://www.producthunt.com/products/korinotch",
+      "tagline": "",
+      "pub_date": "2026-10-11T10:41:58-07:00"
+    },
+    {
+      "title": "CrewTower Mod for Claude Code",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "tagline": "",
+      "pub_date": "2026-10-14T14:15:16-07:00"
+    },
+    {
+      "title": "NitroStack",
+      "url": "https://www.producthunt.com/products/nitrostack",
+      "tagline": "",
+      "pub_date": "2026-10-08T08:53:30-07:00"
     },
     {
       "title": "Caldera",
@@ -218,22 +164,46 @@
       "pub_date": "2026-10-12T12:38:09-07:00"
     },
     {
+      "title": "Emochi",
+      "url": "https://www.producthunt.com/products/emochi-2",
+      "tagline": "",
+      "pub_date": "2026-10-16T00:43:37-07:00"
+    },
+    {
+      "title": "Notion: Context for your agents",
+      "url": "https://www.producthunt.com/products/notion",
+      "tagline": "",
+      "pub_date": "2026-10-14T00:00:19-07:00"
+    },
+    {
+      "title": "Craft Agents",
+      "url": "https://www.producthunt.com/products/craft-agents",
+      "tagline": "",
+      "pub_date": "2026-10-14T21:48:37-07:00"
+    },
+    {
       "title": "Spiralens",
       "url": "https://www.producthunt.com/products/spiralens",
       "tagline": "",
       "pub_date": "2026-10-13T01:22:09-07:00"
     },
     {
-      "title": "Ultracite v8",
-      "url": "https://www.producthunt.com/products/ultracite",
+      "title": "LooGo",
+      "url": "https://www.producthunt.com/products/loogo",
       "tagline": "",
-      "pub_date": "2026-10-12T14:05:50-07:00"
+      "pub_date": "2026-10-11T09:02:08-07:00"
     },
     {
-      "title": "GPU Terminal by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
+      "title": "Parrot",
+      "url": "https://www.producthunt.com/products/parrot-10",
       "tagline": "",
-      "pub_date": "2026-10-16T18:32:08-07:00"
+      "pub_date": "2026-09-24T11:02:58-07:00"
+    },
+    {
+      "title": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "tagline": "",
+      "pub_date": "2026-10-16T08:06:14-07:00"
     },
     {
       "title": "Train with Pasta",
@@ -248,82 +218,10 @@
       "pub_date": "2026-10-13T14:16:19-07:00"
     },
     {
-      "title": "Parrot",
-      "url": "https://www.producthunt.com/products/parrot-10",
+      "title": "Ultracite v8",
+      "url": "https://www.producthunt.com/products/ultracite",
       "tagline": "",
-      "pub_date": "2026-09-24T11:02:58-07:00"
-    },
-    {
-      "title": "Earnote",
-      "url": "https://www.producthunt.com/products/earnote",
-      "tagline": "",
-      "pub_date": "2026-10-08T07:46:15-07:00"
-    },
-    {
-      "title": "Step 5 Preview",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
-      "tagline": "",
-      "pub_date": "2026-10-16T08:06:14-07:00"
-    },
-    {
-      "title": "Korinotch",
-      "url": "https://www.producthunt.com/products/korinotch",
-      "tagline": "",
-      "pub_date": "2026-10-11T10:41:58-07:00"
-    },
-    {
-      "title": "Draper",
-      "url": "https://www.producthunt.com/products/draper",
-      "tagline": "",
-      "pub_date": "2026-10-15T21:41:40-07:00"
-    },
-    {
-      "title": "NitroStack",
-      "url": "https://www.producthunt.com/products/nitrostack",
-      "tagline": "",
-      "pub_date": "2026-10-08T08:53:30-07:00"
-    },
-    {
-      "title": "Salience",
-      "url": "https://www.producthunt.com/products/salience",
-      "tagline": "",
-      "pub_date": "2026-10-16T20:46:40-07:00"
-    },
-    {
-      "title": "CrewTower Mod for Claude Code",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "tagline": "",
-      "pub_date": "2026-10-14T14:15:16-07:00"
-    },
-    {
-      "title": "Scalebrowser",
-      "url": "https://www.producthunt.com/products/scalebrowser",
-      "tagline": "",
-      "pub_date": "2026-09-25T14:11:39-07:00"
-    },
-    {
-      "title": "Agent Vault",
-      "url": "https://www.producthunt.com/products/agent-vault-2",
-      "tagline": "",
-      "pub_date": "2026-10-14T16:12:59-07:00"
-    },
-    {
-      "title": "Maybloc",
-      "url": "https://www.producthunt.com/products/maybloc",
-      "tagline": "",
-      "pub_date": "2026-10-15T09:51:59-07:00"
-    },
-    {
-      "title": "Holm",
-      "url": "https://www.producthunt.com/products/holm",
-      "tagline": "",
-      "pub_date": "2026-10-14T06:00:52-07:00"
-    },
-    {
-      "title": "Harness by Autonomous",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
-      "tagline": "",
-      "pub_date": "2026-10-15T06:27:08-07:00"
+      "pub_date": "2026-10-12T14:05:50-07:00"
     },
     {
       "title": "Nudgebox",
@@ -332,10 +230,46 @@
       "pub_date": "2026-10-12T11:39:33-07:00"
     },
     {
-      "title": "DOYT",
-      "url": "https://www.producthunt.com/products/doyt",
+      "title": "Neophyte",
+      "url": "https://www.producthunt.com/products/neophyte",
       "tagline": "",
-      "pub_date": "2026-10-15T00:10:19-07:00"
+      "pub_date": "2026-10-12T18:43:19-07:00"
+    },
+    {
+      "title": "Grablo Spot",
+      "url": "https://www.producthunt.com/products/grablo-spot",
+      "tagline": "",
+      "pub_date": "2026-10-15T04:36:40-07:00"
+    },
+    {
+      "title": "Harness by Autonomous",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "tagline": "",
+      "pub_date": "2026-10-15T06:27:08-07:00"
+    },
+    {
+      "title": "BOSS Console",
+      "url": "https://www.producthunt.com/products/boss-console",
+      "tagline": "",
+      "pub_date": "2026-10-15T04:37:49-07:00"
+    },
+    {
+      "title": "Atelier",
+      "url": "https://www.producthunt.com/products/atelier-9",
+      "tagline": "",
+      "pub_date": "2026-10-14T15:43:03-07:00"
+    },
+    {
+      "title": "Scalebrowser",
+      "url": "https://www.producthunt.com/products/scalebrowser",
+      "tagline": "",
+      "pub_date": "2026-09-25T14:11:39-07:00"
+    },
+    {
+      "title": "Jockey by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "tagline": "",
+      "pub_date": "2026-10-09T01:49:45-07:00"
     },
     {
       "title": "Taim",
@@ -344,28 +278,22 @@
       "pub_date": "2026-10-07T12:36:42-07:00"
     },
     {
-      "title": "Nemotron 3.5 Super VL",
-      "url": "https://www.producthunt.com/products/nvidia",
+      "title": "Fish Audio Drama 3",
+      "url": "https://www.producthunt.com/products/fish-speech",
       "tagline": "",
-      "pub_date": "2026-10-15T08:27:13-07:00"
+      "pub_date": "2026-10-13T17:37:36-07:00"
     },
     {
-      "title": "Lovable Growth Tools",
-      "url": "https://www.producthunt.com/products/lovable",
+      "title": "Helicon",
+      "url": "https://www.producthunt.com/products/helicon",
       "tagline": "",
-      "pub_date": "2026-10-14T06:16:56-07:00"
+      "pub_date": "2026-10-09T11:06:38-07:00"
     },
     {
-      "title": "Firefox Enterprise",
-      "url": "https://www.producthunt.com/products/mozilla",
+      "title": "Hintly for Google Meet™",
+      "url": "https://www.producthunt.com/products/hintly-for-google-meet",
       "tagline": "",
-      "pub_date": "2026-10-13T00:41:17-07:00"
-    },
-    {
-      "title": "Parallax",
-      "url": "https://www.producthunt.com/products/parallax-5",
-      "tagline": "",
-      "pub_date": "2026-10-15T12:25:02-07:00"
+      "pub_date": "2026-10-09T02:00:24-07:00"
     }
   ]
 }

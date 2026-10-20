@@ -1,43 +1,34 @@
 {
-  "generated_at": "2026-10-20T10:44:32.524Z",
+  "generated_at": "2026-10-20T16:06:59.489Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "hn_url": "https://news.ycombinator.com/item?id=50151928",
-      "points": 148,
-      "comments": 109,
-      "created_ts": 1792414847,
-      "author": "erikkannike"
+      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "hn_url": "https://news.ycombinator.com/item?id=50167286",
+      "points": 91,
+      "comments": 7,
+      "created_ts": 1792507773,
+      "author": "coding-maniac"
     },
     {
       "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
       "url": "https://deathplanswitch.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50161408",
-      "points": 70,
-      "comments": 49,
+      "points": 82,
+      "comments": 61,
       "created_ts": 1792471063,
       "author": "romeo19361"
     },
     {
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "url": "https://github.com/kividbio/kividb",
-      "hn_url": "https://news.ycombinator.com/item?id=50152541",
-      "points": 68,
-      "comments": 40,
-      "created_ts": 1792418032,
-      "author": "murtazayusuf"
-    },
-    {
-      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "url": "https://3anddoneapp.com/try",
-      "hn_url": "https://news.ycombinator.com/item?id=50151980",
-      "points": 55,
-      "comments": 49,
-      "created_ts": 1792415227,
-      "author": "dmayle"
+      "title": "Show HN: RoadRash ported to Three.js to run in the browser",
+      "url": "https://roadrash.pages.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=50158684",
+      "points": 26,
+      "comments": 8,
+      "created_ts": 1792447314,
+      "author": "olucurious"
     },
     {
       "title": "Show HN: Open-source early-reading reader with phonics help",
@@ -49,182 +40,161 @@
       "author": "zoozla"
     },
     {
-      "title": "Show HN: RoadRash ported to Three.js to run in the browser",
-      "url": "https://roadrash.pages.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=50158684",
-      "points": 22,
-      "comments": 6,
-      "created_ts": 1792447314,
-      "author": "olucurious"
-    },
-    {
       "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
       "url": "https://github.com/gojko/lights-on-software-factory",
       "hn_url": "https://news.ycombinator.com/item?id=50160198",
-      "points": 13,
-      "comments": 7,
+      "points": 15,
+      "comments": 8,
       "created_ts": 1792459320,
       "author": "gojkoa"
+    },
+    {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50167617",
+      "points": 12,
+      "comments": 2,
+      "created_ts": 1792509116,
+      "author": "totisjosema"
+    },
+    {
+      "title": "Show HN: Make AI coding agents verify its own work",
+      "url": "https://github.com/reticlehq/reticle",
+      "hn_url": "https://news.ycombinator.com/item?id=50163896",
+      "points": 11,
+      "comments": 6,
+      "created_ts": 1792491633,
+      "author": "dshekhar17"
     }
   ],
   "hn_front": [
     {
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "hn_url": "https://news.ycombinator.com/item?id=50152307",
-      "points": 572,
-      "comments": 195,
-      "created_ts": 1792416934,
-      "author": "iamnothere"
-    },
-    {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "hn_url": "https://news.ycombinator.com/item?id=50154540",
-      "points": 468,
-      "comments": 199,
-      "created_ts": 1792427949,
-      "author": "jtg"
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "hn_url": "https://news.ycombinator.com/item?id=50151036",
-      "points": 465,
-      "comments": 609,
-      "created_ts": 1792409074,
-      "author": "rzk"
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "hn_url": "https://news.ycombinator.com/item?id=50163277",
+      "points": 1600,
+      "comments": 581,
+      "created_ts": 1792487334,
+      "author": "ggcr"
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "hn_url": "https://news.ycombinator.com/item?id=50159341",
-      "points": 455,
-      "comments": 131,
+      "points": 659,
+      "comments": 183,
       "created_ts": 1792452138,
       "author": "ds"
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50160494",
-      "points": 315,
-      "comments": 98,
-      "created_ts": 1792462000,
-      "author": "privong"
-    },
-    {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "hn_url": "https://news.ycombinator.com/item?id=50153664",
-      "points": 298,
-      "comments": 233,
-      "created_ts": 1792423894,
-      "author": "yzydserd"
     },
     {
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
       "hn_url": "https://news.ycombinator.com/item?id=50154244",
-      "points": 275,
-      "comments": 230,
+      "points": 471,
+      "comments": 390,
       "created_ts": 1792426606,
       "author": "cmrdporcupine"
     },
     {
-      "title": "An ad-free Android TV",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "hn_url": "https://news.ycombinator.com/item?id=50158942",
-      "points": 228,
-      "comments": 75,
-      "created_ts": 1792449157,
-      "author": "CraftThatBlock"
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50160494",
+      "points": 419,
+      "comments": 133,
+      "created_ts": 1792462000,
+      "author": "privong"
     },
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "hn_url": "https://news.ycombinator.com/item?id=50163277",
-      "points": 227,
-      "comments": 78,
-      "created_ts": 1792487334,
-      "author": "ggcr"
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "hn_url": "https://news.ycombinator.com/item?id=50162177",
+      "points": 264,
+      "comments": 24,
+      "created_ts": 1792478227,
+      "author": "theanonymousone"
     },
     {
-      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-      "hn_url": "https://news.ycombinator.com/item?id=50163502",
-      "points": 186,
-      "comments": 138,
-      "created_ts": 1792488940,
-      "author": "firefax"
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "hn_url": "https://news.ycombinator.com/item?id=50165208",
+      "points": 233,
+      "comments": 121,
+      "created_ts": 1792498648,
+      "author": "evanb"
     },
     {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "hn_url": "https://news.ycombinator.com/item?id=50159616",
-      "points": 177,
-      "comments": 158,
-      "created_ts": 1792454449,
-      "author": "emot"
+      "title": "Facebook now charging to post more than 2 links a month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "hn_url": "https://news.ycombinator.com/item?id=50167536",
+      "points": 144,
+      "comments": 70,
+      "created_ts": 1792508768,
+      "author": "AshleysBrain"
     },
     {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "hn_url": "https://news.ycombinator.com/item?id=50158138",
-      "points": 157,
-      "comments": 36,
-      "created_ts": 1792444305,
-      "author": "doener"
-    },
-    {
-      "title": "How abliterated models can get you pwned",
-      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "hn_url": "https://news.ycombinator.com/item?id=50159245",
-      "points": 139,
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "hn_url": "https://news.ycombinator.com/item?id=50165801",
+      "points": 140,
       "comments": 80,
-      "created_ts": 1792451332,
-      "author": "chatmasta"
+      "created_ts": 1792501582,
+      "author": "robtherobber"
     },
     {
-      "title": "One Hash Bloom Filters",
-      "url": "https://calabro.io/ohbf",
-      "hn_url": "https://news.ycombinator.com/item?id=50157865",
-      "points": 110,
-      "comments": 12,
-      "created_ts": 1792443008,
-      "author": "jcalabro"
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50166579",
+      "points": 133,
+      "comments": 47,
+      "created_ts": 1792504713,
+      "author": "galadran"
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "hn_url": "https://news.ycombinator.com/item?id=50165953",
+      "points": 111,
+      "comments": 61,
+      "created_ts": 1792502287,
+      "author": "hnisjafx40"
     }
   ],
   "ph_today": [
     {
-      "title": "Stage",
-      "url": "https://www.producthunt.com/products/stage-9",
+      "title": "/dev/null",
+      "url": "https://www.producthunt.com/products/dev-null",
       "tagline": "",
-      "pub_date": "2026-10-19T14:29:47-07:00"
+      "pub_date": "2026-10-19T05:27:05-07:00"
     },
     {
-      "title": "Inflight",
-      "url": "https://www.producthunt.com/products/inflight-2",
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
       "tagline": "",
-      "pub_date": "2026-10-16T16:27:35-07:00"
+      "pub_date": "2026-10-19T22:55:14-07:00"
     },
     {
-      "title": "Asimov 1",
-      "url": "https://www.producthunt.com/products/asimov-1",
+      "title": "snyvi",
+      "url": "https://www.producthunt.com/products/snyvi",
       "tagline": "",
-      "pub_date": "2026-10-19T07:30:18-07:00"
+      "pub_date": "2026-10-19T11:36:44-07:00"
     },
     {
-      "title": "Jotform App Builder for ChatGPT &amp; Claude",
-      "url": "https://www.producthunt.com/products/jotform",
+      "title": "Kling 4.0",
+      "url": "https://www.producthunt.com/products/kling-4-0-4",
       "tagline": "",
-      "pub_date": "2026-10-12T05:34:44-07:00"
+      "pub_date": "2026-10-19T10:51:17-07:00"
     },
     {
-      "title": "ESP-Mosaico",
-      "url": "https://www.producthunt.com/products/esp-mosaico",
+      "title": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
       "tagline": "",
-      "pub_date": "2026-09-14T19:00:38-07:00"
+      "pub_date": "2026-10-17T11:04:38-07:00"
+    },
+    {
+      "title": "Lugh Xtudio",
+      "url": "https://www.producthunt.com/products/lugh-xtudio",
+      "tagline": "",
+      "pub_date": "2026-10-19T20:08:40-07:00"
     },
     {
       "title": "RunInfra",
@@ -233,10 +203,100 @@
       "pub_date": "2026-10-19T16:12:51-07:00"
     },
     {
-      "title": "Intel® GPU D-series",
-      "url": "https://www.producthunt.com/products/intel",
+      "title": "ESP-Mosaico",
+      "url": "https://www.producthunt.com/products/esp-mosaico",
       "tagline": "",
-      "pub_date": "2026-10-19T19:46:24-07:00"
+      "pub_date": "2026-09-14T19:00:38-07:00"
+    },
+    {
+      "title": "Composio Instant",
+      "url": "https://www.producthunt.com/products/composio",
+      "tagline": "",
+      "pub_date": "2026-09-30T07:02:39-07:00"
+    },
+    {
+      "title": "Praex",
+      "url": "https://www.producthunt.com/products/praex",
+      "tagline": "",
+      "pub_date": "2026-10-19T14:26:11-07:00"
+    },
+    {
+      "title": "Panza",
+      "url": "https://www.producthunt.com/products/panza-2",
+      "tagline": "",
+      "pub_date": "2026-10-11T13:12:08-07:00"
+    },
+    {
+      "title": "OpenShip Cloud",
+      "url": "https://www.producthunt.com/products/openship-2",
+      "tagline": "",
+      "pub_date": "2026-10-19T01:26:58-07:00"
+    },
+    {
+      "title": "Stella",
+      "url": "https://www.producthunt.com/products/stella-5",
+      "tagline": "",
+      "pub_date": "2026-10-18T20:42:11-07:00"
+    },
+    {
+      "title": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "tagline": "",
+      "pub_date": "2026-10-12T07:56:55-07:00"
+    },
+    {
+      "title": "reception",
+      "url": "https://www.producthunt.com/products/reception",
+      "tagline": "",
+      "pub_date": "2026-10-19T10:02:56-07:00"
+    },
+    {
+      "title": "Jotform App Builder for ChatGPT &amp; Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "tagline": "",
+      "pub_date": "2026-10-12T05:34:44-07:00"
+    },
+    {
+      "title": "xtty",
+      "url": "https://www.producthunt.com/products/xtty",
+      "tagline": "",
+      "pub_date": "2026-10-19T00:19:34-07:00"
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://www.producthunt.com/products/tiny-little-office",
+      "tagline": "",
+      "pub_date": "2026-10-19T11:42:09-07:00"
+    },
+    {
+      "title": "Asimov 1",
+      "url": "https://www.producthunt.com/products/asimov-1",
+      "tagline": "",
+      "pub_date": "2026-10-19T07:30:18-07:00"
+    },
+    {
+      "title": "ToDo.is",
+      "url": "https://www.producthunt.com/products/todo-is",
+      "tagline": "",
+      "pub_date": "2026-10-15T17:10:20-07:00"
+    },
+    {
+      "title": "Mintlify Autopilot",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "tagline": "",
+      "pub_date": "2026-10-19T11:29:25-07:00"
+    },
+    {
+      "title": "Inflight",
+      "url": "https://www.producthunt.com/products/inflight-2",
+      "tagline": "",
+      "pub_date": "2026-10-16T16:27:35-07:00"
+    },
+    {
+      "title": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104",
+      "tagline": "",
+      "pub_date": "2026-10-19T12:43:26-07:00"
     },
     {
       "title": "Hoistbay",
@@ -251,100 +311,22 @@
       "pub_date": "2026-10-18T01:53:17-07:00"
     },
     {
-      "title": "Kling 4.0",
-      "url": "https://www.producthunt.com/products/kling-4-0-4",
-      "tagline": "",
-      "pub_date": "2026-10-19T10:51:17-07:00"
-    },
-    {
-      "title": "reception",
-      "url": "https://www.producthunt.com/products/reception",
-      "tagline": "",
-      "pub_date": "2026-10-19T10:02:56-07:00"
-    },
-    {
-      "title": "Stella",
-      "url": "https://www.producthunt.com/products/stella-5",
-      "tagline": "",
-      "pub_date": "2026-10-18T20:42:11-07:00"
-    },
-    {
-      "title": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "tagline": "",
-      "pub_date": "2026-10-17T11:04:38-07:00"
-    },
-    {
-      "title": "Composio Instant",
-      "url": "https://www.producthunt.com/products/composio",
-      "tagline": "",
-      "pub_date": "2026-09-30T07:02:39-07:00"
-    },
-    {
       "title": "Capitol Alpha Machine",
       "url": "https://www.producthunt.com/products/capitol-alpha-machine",
       "tagline": "",
       "pub_date": "2026-10-19T06:40:34-07:00"
     },
     {
-      "title": "OpenShip Cloud",
-      "url": "https://www.producthunt.com/products/openship-2",
+      "title": "The New Beings",
+      "url": "https://www.producthunt.com/products/the-new-beings",
       "tagline": "",
-      "pub_date": "2026-10-19T01:26:58-07:00"
+      "pub_date": "2026-10-19T11:03:58-07:00"
     },
     {
-      "title": "Rovalty",
-      "url": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
+      "title": "Intel® GPU D-series",
+      "url": "https://www.producthunt.com/products/intel",
       "tagline": "",
-      "pub_date": "2026-10-19T14:33:50-07:00"
-    },
-    {
-      "title": "ToDo.is",
-      "url": "https://www.producthunt.com/products/todo-is",
-      "tagline": "",
-      "pub_date": "2026-10-15T17:10:20-07:00"
-    },
-    {
-      "title": "Panza",
-      "url": "https://www.producthunt.com/products/panza-2",
-      "tagline": "",
-      "pub_date": "2026-10-11T13:12:08-07:00"
-    },
-    {
-      "title": "xtty",
-      "url": "https://www.producthunt.com/products/xtty",
-      "tagline": "",
-      "pub_date": "2026-10-19T00:19:34-07:00"
-    },
-    {
-      "title": "snyvi",
-      "url": "https://www.producthunt.com/products/snyvi",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:36:44-07:00"
-    },
-    {
-      "title": "Harness²",
-      "url": "https://www.producthunt.com/products/harness-104",
-      "tagline": "",
-      "pub_date": "2026-10-19T12:43:26-07:00"
-    },
-    {
-      "title": "/dev/null",
-      "url": "https://www.producthunt.com/products/dev-null",
-      "tagline": "",
-      "pub_date": "2026-10-19T05:27:05-07:00"
-    },
-    {
-      "title": "yggy",
-      "url": "https://www.producthunt.com/products/yggy",
-      "tagline": "",
-      "pub_date": "2026-10-12T07:56:55-07:00"
-    },
-    {
-      "title": "Sorcerer",
-      "url": "https://www.producthunt.com/products/sorcerer",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:20:54-07:00"
+      "pub_date": "2026-10-19T19:46:24-07:00"
     },
     {
       "title": "call4me",
@@ -353,28 +335,10 @@
       "pub_date": "2026-10-19T11:24:29-07:00"
     },
     {
-      "title": "Glance for Mac",
-      "url": "https://www.producthunt.com/products/glance-for-mac",
+      "title": "Exa 3.0",
+      "url": "https://www.producthunt.com/products/exa-ai",
       "tagline": "",
-      "pub_date": "2026-10-17T12:18:19-07:00"
-    },
-    {
-      "title": "Tiny Little Office",
-      "url": "https://www.producthunt.com/products/tiny-little-office",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:42:09-07:00"
-    },
-    {
-      "title": "Praex",
-      "url": "https://www.producthunt.com/products/praex",
-      "tagline": "",
-      "pub_date": "2026-10-19T14:26:11-07:00"
-    },
-    {
-      "title": "The New Beings",
-      "url": "https://www.producthunt.com/products/the-new-beings",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:03:58-07:00"
+      "pub_date": "2026-10-19T13:05:52-07:00"
     }
   ]
 }

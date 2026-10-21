@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:56:13.214Z",
+  "generated_at": "2026-10-21T16:23:02.135Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,228 +7,147 @@
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50170593",
-      "points": 811,
-      "comments": 381,
+      "points": 882,
+      "comments": 396,
       "created_ts": 1792520949,
       "author": "pcai"
     },
     {
-      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-      "url": "https://github.com/KatrielMoses/voidaccess",
-      "hn_url": "https://news.ycombinator.com/item?id=50167286",
-      "points": 185,
-      "comments": 13,
-      "created_ts": 1792507773,
-      "author": "coding-maniac"
-    },
-    {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "url": "https://jevcards.com",
-      "hn_url": "https://news.ycombinator.com/item?id=50167617",
-      "points": 62,
-      "comments": 50,
-      "created_ts": 1792509116,
-      "author": "totisjosema"
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "hn_url": "https://news.ycombinator.com/item?id=50167604",
-      "points": 61,
+      "title": "Show HN: Sumi.css – CSS Framework",
+      "url": "https://github.com/vladocar/Sumi.css",
+      "hn_url": "https://news.ycombinator.com/item?id=50180039",
+      "points": 27,
       "comments": 7,
-      "created_ts": 1792509054,
-      "author": "abdullahalharir"
+      "created_ts": 1792587033,
+      "author": "bepero"
     },
     {
-      "title": "Show HN: Clerkenwell – A Handwritten Clojure Notebook",
-      "url": "https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50167657",
-      "points": 24,
-      "comments": 4,
-      "created_ts": 1792509254,
-      "author": "nathell"
-    },
-    {
-      "title": "Show HN: Snitch – my Mac talked to 347 servers in one idle hour, so I built this",
-      "url": "https://github.com/aixisstudio/Snitch",
-      "hn_url": "https://news.ycombinator.com/item?id=50165146",
-      "points": 12,
-      "comments": 3,
-      "created_ts": 1792498371,
-      "author": "aiXis"
-    },
-    {
-      "title": "Show HN: Another Blog Search Engine",
-      "url": "https://outerweb.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=50166987",
-      "points": 12,
-      "comments": 2,
-      "created_ts": 1792506453,
-      "author": "cosmicgadget"
-    },
-    {
-      "title": "Show HN: Shazam but for AI Slop Music",
-      "url": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
-      "hn_url": "https://news.ycombinator.com/item?id=50165533",
+      "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+      "url": "https://github.com/blue-idea/linkit",
+      "hn_url": "https://news.ycombinator.com/item?id=50178218",
       "points": 11,
-      "comments": 3,
-      "created_ts": 1792500381,
-      "author": "obrhoff"
+      "comments": 6,
+      "created_ts": 1792576301,
+      "author": "manbudezhu"
     }
   ],
   "hn_front": [
     {
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50166579",
-      "points": 985,
-      "comments": 414,
-      "created_ts": 1792504713,
-      "author": "galadran"
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "hn_url": "https://news.ycombinator.com/item?id=50177916",
+      "points": 587,
+      "comments": 258,
+      "created_ts": 1792573688,
+      "author": "hkc"
     },
     {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "url": "https://news-web.php.net/php.announce/509",
-      "hn_url": "https://news.ycombinator.com/item?id=50172041",
-      "points": 950,
-      "comments": 380,
-      "created_ts": 1792527350,
-      "author": "xd"
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50170593",
-      "points": 811,
-      "comments": 381,
-      "created_ts": 1792520949,
-      "author": "pcai"
-    },
-    {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "hn_url": "https://news.ycombinator.com/item?id=50168396",
-      "points": 688,
-      "comments": 172,
-      "created_ts": 1792512127,
-      "author": "ilreb"
-    },
-    {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "hn_url": "https://news.ycombinator.com/item?id=50165208",
-      "points": 562,
-      "comments": 274,
-      "created_ts": 1792498648,
-      "author": "evanb"
-    },
-    {
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "hn_url": "https://news.ycombinator.com/item?id=50169707",
-      "points": 409,
-      "comments": 478,
-      "created_ts": 1792517107,
-      "author": "Curiositry"
-    },
-    {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "hn_url": "https://news.ycombinator.com/item?id=50167028",
-      "points": 399,
-      "comments": 312,
-      "created_ts": 1792506631,
-      "author": "iamnothere"
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "hn_url": "https://news.ycombinator.com/item?id=50180873",
+      "points": 585,
+      "comments": 236,
+      "created_ts": 1792590333,
+      "author": "tuyuri"
     },
     {
       "title": "The Future of CSS",
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
       "hn_url": "https://news.ycombinator.com/item?id=50175070",
-      "points": 393,
-      "comments": 163,
+      "points": 533,
+      "comments": 224,
       "created_ts": 1792547248,
       "author": "soheilpro"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "hn_url": "https://news.ycombinator.com/item?id=50169053",
-      "points": 344,
-      "comments": 73,
-      "created_ts": 1792514424,
-      "author": "ilreb"
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "hn_url": "https://news.ycombinator.com/item?id=50180836",
+      "points": 339,
+      "comments": 113,
+      "created_ts": 1792590199,
+      "author": "danlark1"
     },
     {
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "hn_url": "https://news.ycombinator.com/item?id=50168357",
-      "points": 285,
-      "comments": 163,
-      "created_ts": 1792511946,
-      "author": "speckx"
-    },
-    {
-      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "hn_url": "https://news.ycombinator.com/item?id=50177911",
-      "points": 228,
-      "comments": 237,
-      "created_ts": 1792573669,
-      "author": "velo_aprx"
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "hn_url": "https://news.ycombinator.com/item?id=50173487",
-      "points": 211,
-      "comments": 97,
-      "created_ts": 1792534865,
-      "author": "Bender"
-    },
-    {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "hn_url": "https://news.ycombinator.com/item?id=50173891",
-      "points": 202,
-      "comments": 152,
-      "created_ts": 1792537449,
-      "author": "gaplong"
+      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "hn_url": "https://news.ycombinator.com/item?id=50181137",
+      "points": 316,
+      "comments": 229,
+      "created_ts": 1792591285,
+      "author": "robtherobber"
     },
     {
       "title": "Muse exposes users' personal and business secrets when they share conversations",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "hn_url": "https://news.ycombinator.com/item?id=50174687",
-      "points": 194,
-      "comments": 89,
+      "points": 307,
+      "comments": 144,
       "created_ts": 1792543559,
       "author": "gumby"
     },
     {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "hn_url": "https://news.ycombinator.com/item?id=50175059",
-      "points": 135,
-      "comments": 12,
-      "created_ts": 1792547107,
-      "author": "firloop"
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "hn_url": "https://news.ycombinator.com/item?id=50173487",
+      "points": 254,
+      "comments": 126,
+      "created_ts": 1792534865,
+      "author": "Bender"
     },
     {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "hn_url": "https://news.ycombinator.com/item?id=50177916",
-      "points": 123,
-      "comments": 53,
-      "created_ts": 1792573688,
-      "author": "hkc"
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "hn_url": "https://news.ycombinator.com/item?id=50179828",
+      "points": 238,
+      "comments": 80,
+      "created_ts": 1792585888,
+      "author": "jacquesm"
     },
     {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "hn_url": "https://news.ycombinator.com/item?id=50175185",
-      "points": 101,
-      "comments": 54,
-      "created_ts": 1792548255,
-      "author": "unprovable"
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "hn_url": "https://news.ycombinator.com/item?id=50179706",
+      "points": 220,
+      "comments": 108,
+      "created_ts": 1792585359,
+      "author": "mattifrank"
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "hn_url": "https://news.ycombinator.com/item?id=50181136",
+      "points": 172,
+      "comments": 16,
+      "created_ts": 1792591282,
+      "author": "nnx"
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "hn_url": "https://news.ycombinator.com/item?id=50178455",
+      "points": 143,
+      "comments": 99,
+      "created_ts": 1792577683,
+      "author": "sohkamyung"
+    },
+    {
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=50180444",
+      "points": 120,
+      "comments": 94,
+      "created_ts": 1792588653,
+      "author": "rohanm93"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "hn_url": "https://news.ycombinator.com/item?id=50181175",
+      "points": 114,
+      "comments": 62,
+      "created_ts": 1792591423,
+      "author": "nr378"
     }
   ],
   "ph_today": [
@@ -239,10 +158,16 @@
       "pub_date": "2026-10-20T08:00:08-07:00"
     },
     {
-      "title": "Hotly",
-      "url": "https://www.producthunt.com/products/hotly",
+      "title": "Woven Video",
+      "url": "https://www.producthunt.com/products/woven-video",
       "tagline": "",
-      "pub_date": "2026-10-20T08:36:39-07:00"
+      "pub_date": "2026-10-20T02:27:15-07:00"
+    },
+    {
+      "title": "Notion Auto",
+      "url": "https://www.producthunt.com/products/notion-99",
+      "tagline": "",
+      "pub_date": "2026-10-20T11:01:39-07:00"
     },
     {
       "title": "UseIt Studio",
@@ -251,22 +176,10 @@
       "pub_date": "2026-10-14T06:11:39-07:00"
     },
     {
-      "title": "Nimbalyst Wiki",
-      "url": "https://www.producthunt.com/products/nimbalyst-wiki",
+      "title": "TwinMind for Desktop",
+      "url": "https://www.producthunt.com/products/twinmind",
       "tagline": "",
-      "pub_date": "2026-10-20T08:19:17-07:00"
-    },
-    {
-      "title": "Flagsmith Experiments",
-      "url": "https://www.producthunt.com/products/flagsmith",
-      "tagline": "",
-      "pub_date": "2026-10-20T06:37:39-07:00"
-    },
-    {
-      "title": "hibi",
-      "url": "https://www.producthunt.com/products/hibi",
-      "tagline": "",
-      "pub_date": "2026-10-20T18:17:58-07:00"
+      "pub_date": "2026-07-13T15:31:57-07:00"
     },
     {
       "title": "Scout by Fini",
@@ -275,34 +188,22 @@
       "pub_date": "2026-10-19T03:51:19-07:00"
     },
     {
-      "title": "TwinMind for Desktop",
-      "url": "https://www.producthunt.com/products/twinmind",
-      "tagline": "",
-      "pub_date": "2026-07-13T15:31:57-07:00"
-    },
-    {
-      "title": "PrivOS",
-      "url": "https://www.producthunt.com/products/privos",
-      "tagline": "",
-      "pub_date": "2026-10-20T03:54:16-07:00"
-    },
-    {
-      "title": "LearnExcel",
-      "url": "https://www.producthunt.com/products/learnexcel",
-      "tagline": "",
-      "pub_date": "2026-10-20T02:04:03-07:00"
-    },
-    {
       "title": "ilha",
       "url": "https://www.producthunt.com/products/ilha",
       "tagline": "",
       "pub_date": "2026-10-17T18:10:27-07:00"
     },
     {
-      "title": "Woven Video",
-      "url": "https://www.producthunt.com/products/woven-video",
+      "title": "Yarite",
+      "url": "https://www.producthunt.com/products/yarite",
       "tagline": "",
-      "pub_date": "2026-10-20T02:27:15-07:00"
+      "pub_date": "2026-10-14T10:21:37-07:00"
+    },
+    {
+      "title": "Tend",
+      "url": "https://www.producthunt.com/products/tend-5",
+      "tagline": "",
+      "pub_date": "2026-10-20T11:30:09-07:00"
     },
     {
       "title": "Agent Pets",
@@ -311,28 +212,34 @@
       "pub_date": "2026-10-20T21:55:21-07:00"
     },
     {
+      "title": "Mouse-1",
+      "url": "https://www.producthunt.com/products/mouse-1",
+      "tagline": "",
+      "pub_date": "2026-10-20T19:01:18-07:00"
+    },
+    {
       "title": "The Library",
       "url": "https://www.producthunt.com/products/querri",
       "tagline": "",
       "pub_date": "2026-10-06T00:23:15-07:00"
     },
     {
-      "title": "Flyweel",
-      "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
+      "title": "The Brains",
+      "url": "https://www.producthunt.com/products/the-brains",
       "tagline": "",
-      "pub_date": "2026-10-08T19:20:42-07:00"
+      "pub_date": "2026-10-20T01:27:13-07:00"
+    },
+    {
+      "title": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "tagline": "",
+      "pub_date": "2026-10-12T14:02:39-07:00"
     },
     {
       "title": "iglass",
       "url": "https://www.producthunt.com/products/iglass",
       "tagline": "",
       "pub_date": "2026-10-17T06:25:23-07:00"
-    },
-    {
-      "title": "Notion Auto",
-      "url": "https://www.producthunt.com/products/notion-99",
-      "tagline": "",
-      "pub_date": "2026-10-20T11:01:39-07:00"
     },
     {
       "title": "Needle",
@@ -347,46 +254,16 @@
       "pub_date": "2026-10-20T23:17:05-07:00"
     },
     {
-      "title": "Intelli for ChatGPT &amp; Claude",
-      "url": "https://www.producthunt.com/products/intelli",
+      "title": "LearnExcel",
+      "url": "https://www.producthunt.com/products/learnexcel",
       "tagline": "",
-      "pub_date": "2026-10-20T00:04:54-07:00"
+      "pub_date": "2026-10-20T02:04:03-07:00"
     },
     {
-      "title": "AskDoozy",
-      "url": "https://www.producthunt.com/products/askdoozy",
+      "title": "PrivOS",
+      "url": "https://www.producthunt.com/products/privos",
       "tagline": "",
-      "pub_date": "2026-10-20T06:14:45-07:00"
-    },
-    {
-      "title": "The Brains",
-      "url": "https://www.producthunt.com/products/the-brains",
-      "tagline": "",
-      "pub_date": "2026-10-20T01:27:13-07:00"
-    },
-    {
-      "title": "Mouse-1",
-      "url": "https://www.producthunt.com/products/mouse-1",
-      "tagline": "",
-      "pub_date": "2026-10-20T19:01:18-07:00"
-    },
-    {
-      "title": "NativeShip",
-      "url": "https://www.producthunt.com/products/nativeship",
-      "tagline": "",
-      "pub_date": "2026-10-08T08:02:57-07:00"
-    },
-    {
-      "title": "Yarite",
-      "url": "https://www.producthunt.com/products/yarite",
-      "tagline": "",
-      "pub_date": "2026-10-14T10:21:37-07:00"
-    },
-    {
-      "title": "Lea by LeanAIOS",
-      "url": "https://www.producthunt.com/products/lea-by-leanaios",
-      "tagline": "",
-      "pub_date": "2026-10-20T03:15:05-07:00"
+      "pub_date": "2026-10-20T03:54:16-07:00"
     },
     {
       "title": "Blooio",
@@ -395,22 +272,64 @@
       "pub_date": "2026-10-12T22:53:14-07:00"
     },
     {
-      "title": "Tend",
-      "url": "https://www.producthunt.com/products/tend-5",
+      "title": "Nimbalyst Wiki",
+      "url": "https://www.producthunt.com/products/nimbalyst-wiki",
       "tagline": "",
-      "pub_date": "2026-10-20T11:30:09-07:00"
+      "pub_date": "2026-10-20T08:19:17-07:00"
     },
     {
-      "title": "Triage by Chodeberg",
-      "url": "https://www.producthunt.com/products/triage-by-chodeberg",
+      "title": "Intelli for ChatGPT &amp; Claude",
+      "url": "https://www.producthunt.com/products/intelli",
       "tagline": "",
-      "pub_date": "2026-10-20T15:59:42-07:00"
+      "pub_date": "2026-10-20T00:04:54-07:00"
+    },
+    {
+      "title": "Flyweel",
+      "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
+      "tagline": "",
+      "pub_date": "2026-10-08T19:20:42-07:00"
+    },
+    {
+      "title": "NativeShip",
+      "url": "https://www.producthunt.com/products/nativeship",
+      "tagline": "",
+      "pub_date": "2026-10-08T08:02:57-07:00"
+    },
+    {
+      "title": "AskDoozy",
+      "url": "https://www.producthunt.com/products/askdoozy",
+      "tagline": "",
+      "pub_date": "2026-10-20T06:14:45-07:00"
     },
     {
       "title": "Animatica Marionette",
       "url": "https://www.producthunt.com/products/animatica-autoposer-pro",
       "tagline": "",
       "pub_date": "2026-10-05T15:09:35-07:00"
+    },
+    {
+      "title": "hibi",
+      "url": "https://www.producthunt.com/products/hibi",
+      "tagline": "",
+      "pub_date": "2026-10-20T18:17:58-07:00"
+    },
+    {
+      "title": "Lea by LeanAIOS",
+      "url": "https://www.producthunt.com/products/lea-by-leanaios",
+      "tagline": "",
+      "pub_date": "2026-10-20T03:15:05-07:00"
+    },
+    {
+      "title": "Flagsmith Experiments",
+      "url": "https://www.producthunt.com/products/flagsmith",
+      "tagline": "",
+      "pub_date": "2026-10-20T06:37:39-07:00"
+    },
+    {
+      "title": "Triage by Chodeberg",
+      "url": "https://www.producthunt.com/products/triage-by-chodeberg",
+      "tagline": "",
+      "pub_date": "2026-10-20T15:59:42-07:00"
     }
   ]
 }

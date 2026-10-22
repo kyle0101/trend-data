@@ -1,124 +1,97 @@
 {
-  "generated_at": "2026-10-22T10:55:40.162Z",
+  "generated_at": "2026-10-22T16:23:39.689Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Sumi.css – CSS Framework",
-      "url": "https://github.com/vladocar/Sumi.css",
-      "hn_url": "https://news.ycombinator.com/item?id=50180039",
-      "points": 88,
-      "comments": 27,
-      "created_ts": 1792587033,
-      "author": "bepero"
-    },
-    {
       "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
       "url": "https://github.com/omnara-ai/omnara",
       "hn_url": "https://news.ycombinator.com/item?id=50183892",
-      "points": 82,
-      "comments": 25,
+      "points": 102,
+      "comments": 29,
       "created_ts": 1792601093,
       "author": "kmansm27"
+    },
+    {
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "hn_url": "https://news.ycombinator.com/item?id=50196718",
+      "points": 32,
+      "comments": 9,
+      "created_ts": 1792682782,
+      "author": "aghuang"
     },
     {
       "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
       "url": "https://bloffy.co/en",
       "hn_url": "https://news.ycombinator.com/item?id=50189175",
-      "points": 21,
-      "comments": 18,
+      "points": 25,
+      "comments": 23,
       "created_ts": 1792626095,
       "author": "textlanes33"
     },
     {
-      "title": "Show HN: Computer use on the phone itself: a 2B model that operates Android apps",
-      "url": "https://getopposable.com/blog/computer-use-on-the-phone",
-      "hn_url": "https://news.ycombinator.com/item?id=50180190",
-      "points": 15,
-      "comments": 3,
-      "created_ts": 1792587598,
-      "author": "erikkannike"
+      "title": "Show HN: agent-marketplace",
+      "url": "https://www.adyen.com/knowledge-hub/agent-marketplace",
+      "hn_url": "https://news.ycombinator.com/item?id=50194210",
+      "points": 13,
+      "comments": 1,
+      "created_ts": 1792670879,
+      "author": "AlexanderGrooff"
     }
   ],
   "hn_front": [
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "hn_url": "https://news.ycombinator.com/item?id=50182987",
-      "points": 743,
-      "comments": 368,
-      "created_ts": 1792597736,
-      "author": "ejohnso49"
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50184820",
-      "points": 576,
-      "comments": 330,
-      "created_ts": 1792604713,
-      "author": "cbg0"
-    },
-    {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "hn_url": "https://news.ycombinator.com/item?id=50188948",
-      "points": 538,
-      "comments": 329,
-      "created_ts": 1792624407,
-      "author": "zkldi"
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "hn_url": "https://news.ycombinator.com/item?id=50181114",
-      "points": 529,
-      "comments": 172,
-      "created_ts": 1792591226,
-      "author": "abhisek"
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "hn_url": "https://news.ycombinator.com/item?id=50189232",
-      "points": 492,
-      "comments": 117,
-      "created_ts": 1792626697,
-      "author": "ahlCVA"
-    },
-    {
       "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "hn_url": "https://news.ycombinator.com/item?id=50188228",
-      "points": 477,
-      "comments": 279,
+      "points": 550,
+      "comments": 318,
       "created_ts": 1792619883,
       "author": "passenger"
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "hn_url": "https://news.ycombinator.com/item?id=50181136",
-      "points": 424,
-      "comments": 56,
-      "created_ts": 1792591282,
-      "author": "nnx"
     },
     {
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
       "hn_url": "https://news.ycombinator.com/item?id=50186037",
-      "points": 399,
-      "comments": 364,
+      "points": 507,
+      "comments": 465,
       "created_ts": 1792610041,
       "author": "kuberwastaken"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "hn_url": "https://news.ycombinator.com/item?id=50192536",
+      "points": 450,
+      "comments": 164,
+      "created_ts": 1792656112,
+      "author": "ledoge"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "hn_url": "https://news.ycombinator.com/item?id=50195110",
+      "points": 445,
+      "comments": 305,
+      "created_ts": 1792676019,
+      "author": "bo0tzz"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "hn_url": "https://news.ycombinator.com/item?id=50190363",
+      "points": 411,
+      "comments": 129,
+      "created_ts": 1792635521,
+      "author": "alphax314"
     },
     {
       "title": "GitLab critical patch release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "hn_url": "https://news.ycombinator.com/item?id=50185869",
-      "points": 358,
-      "comments": 84,
+      "points": 395,
+      "comments": 90,
       "created_ts": 1792609272,
       "author": "artooro"
     },
@@ -126,55 +99,64 @@
       "title": "Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
       "hn_url": "https://news.ycombinator.com/item?id=50186010",
-      "points": 317,
-      "comments": 191,
+      "points": 361,
+      "comments": 218,
       "created_ts": 1792609917,
       "author": "kaycebasques"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "hn_url": "https://news.ycombinator.com/item?id=50180079",
-      "points": 294,
-      "comments": 122,
-      "created_ts": 1792587191,
-      "author": "armcat"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "hn_url": "https://news.ycombinator.com/item?id=50190363",
-      "points": 239,
-      "comments": 76,
-      "created_ts": 1792635521,
-      "author": "alphax314"
     },
     {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=50190455",
-      "points": 213,
-      "comments": 144,
+      "points": 278,
+      "comments": 233,
       "created_ts": 1792636252,
       "author": "craigcitro"
     },
     {
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=50191507",
-      "points": 132,
-      "comments": 73,
-      "created_ts": 1792646591,
-      "author": "armcat"
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "hn_url": "https://news.ycombinator.com/item?id=50193804",
+      "points": 194,
+      "comments": 55,
+      "created_ts": 1792667557,
+      "author": "mrkn1"
     },
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "hn_url": "https://news.ycombinator.com/item?id=50192900",
-      "points": 120,
-      "comments": 31,
-      "created_ts": 1792659091,
-      "author": "keks24"
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "hn_url": "https://news.ycombinator.com/item?id=50195959",
+      "points": 190,
+      "comments": 59,
+      "created_ts": 1792679558,
+      "author": "farrokhi"
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "hn_url": "https://news.ycombinator.com/item?id=50194070",
+      "points": 179,
+      "comments": 52,
+      "created_ts": 1792669836,
+      "author": "cubefox"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "hn_url": "https://news.ycombinator.com/item?id=50193170",
+      "points": 142,
+      "comments": 30,
+      "created_ts": 1792661478,
+      "author": "molind"
+    },
+    {
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "hn_url": "https://news.ycombinator.com/item?id=50195543",
+      "points": 125,
+      "comments": 82,
+      "created_ts": 1792678092,
+      "author": "mrkd"
     }
   ],
   "ph_today": [
@@ -185,28 +167,10 @@
       "pub_date": "2026-10-09T00:54:38-07:00"
     },
     {
-      "title": "Mistral Voxtral 3",
-      "url": "https://www.producthunt.com/products/mistral-7b",
+      "title": "Kugel Ear",
+      "url": "https://www.producthunt.com/products/kugelaudio",
       "tagline": "",
-      "pub_date": "2026-10-20T09:09:31-07:00"
-    },
-    {
-      "title": "DeepCell",
-      "url": "https://www.producthunt.com/products/deepcell",
-      "tagline": "",
-      "pub_date": "2026-10-20T07:39:01-07:00"
-    },
-    {
-      "title": "ElevenLabs Realtime Translation",
-      "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
-      "tagline": "",
-      "pub_date": "2026-10-21T07:36:07-07:00"
-    },
-    {
-      "title": "Teclo",
-      "url": "https://www.producthunt.com/products/teclo",
-      "tagline": "",
-      "pub_date": "2026-10-21T13:56:53-07:00"
+      "pub_date": "2026-10-21T06:11:30-07:00"
     },
     {
       "title": "Playad",
@@ -215,52 +179,16 @@
       "pub_date": "2026-10-12T03:56:22-07:00"
     },
     {
-      "title": "Sponkly",
-      "url": "https://www.producthunt.com/products/sponkly",
+      "title": "Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
       "tagline": "",
-      "pub_date": "2026-10-21T16:31:26-07:00"
+      "pub_date": "2026-10-21T12:40:23-07:00"
     },
     {
-      "title": "Agentic CleanSlop",
-      "url": "https://www.producthunt.com/products/cleanslop",
+      "title": "DeepCell",
+      "url": "https://www.producthunt.com/products/deepcell",
       "tagline": "",
-      "pub_date": "2026-10-21T23:28:58-07:00"
-    },
-    {
-      "title": "Kalender Sync",
-      "url": "https://www.producthunt.com/products/kalender-sync",
-      "tagline": "",
-      "pub_date": "2026-10-14T02:47:34-07:00"
-    },
-    {
-      "title": "heal.dev",
-      "url": "https://www.producthunt.com/products/heal-dev",
-      "tagline": "",
-      "pub_date": "2026-10-01T09:52:42-07:00"
-    },
-    {
-      "title": "Kugel Ear",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "tagline": "",
-      "pub_date": "2026-10-21T06:11:30-07:00"
-    },
-    {
-      "title": "Whiteboard",
-      "url": "https://www.producthunt.com/products/whiteboard-5",
-      "tagline": "",
-      "pub_date": "2026-10-19T06:59:26-07:00"
-    },
-    {
-      "title": "Record for agents",
-      "url": "https://www.producthunt.com/products/loom",
-      "tagline": "",
-      "pub_date": "2026-10-09T10:00:25-07:00"
-    },
-    {
-      "title": "Mercury 3",
-      "url": "https://www.producthunt.com/products/mercury-412",
-      "tagline": "",
-      "pub_date": "2026-10-21T02:51:21-07:00"
+      "pub_date": "2026-10-20T07:39:01-07:00"
     },
     {
       "title": "Causo",
@@ -269,28 +197,34 @@
       "pub_date": "2026-10-19T10:22:39-07:00"
     },
     {
-      "title": "Claire Mail",
-      "url": "https://www.producthunt.com/products/claire-mail",
+      "title": "ElevenLabs Realtime Translation",
+      "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
       "tagline": "",
-      "pub_date": "2026-10-13T14:42:50-07:00"
+      "pub_date": "2026-10-21T07:36:07-07:00"
     },
     {
-      "title": "Fastlane 2.0",
-      "url": "https://www.producthunt.com/products/fastlane-3",
+      "title": "Sponkly",
+      "url": "https://www.producthunt.com/products/sponkly",
       "tagline": "",
-      "pub_date": "2026-10-14T21:55:03-07:00"
-    },
-    {
-      "title": "Resend Inboxes",
-      "url": "https://www.producthunt.com/products/resend",
-      "tagline": "",
-      "pub_date": "2026-10-21T22:25:49-07:00"
+      "pub_date": "2026-10-21T16:31:26-07:00"
     },
     {
       "title": "Concierge by Juniors AI",
       "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
       "tagline": "",
       "pub_date": "2026-10-11T03:21:34-07:00"
+    },
+    {
+      "title": "Archivist",
+      "url": "https://www.producthunt.com/products/archivist",
+      "tagline": "",
+      "pub_date": "2026-10-21T12:16:09-07:00"
+    },
+    {
+      "title": "CutBay",
+      "url": "https://www.producthunt.com/products/cutbay",
+      "tagline": "",
+      "pub_date": "2026-10-09T20:52:57-07:00"
     },
     {
       "title": "Bits",
@@ -305,10 +239,22 @@
       "pub_date": "2026-10-20T17:54:33-07:00"
     },
     {
-      "title": "Archivist",
-      "url": "https://www.producthunt.com/products/archivist",
+      "title": "Loom Record for agents",
+      "url": "https://www.producthunt.com/products/loom",
       "tagline": "",
-      "pub_date": "2026-10-21T12:16:09-07:00"
+      "pub_date": "2026-10-09T10:00:25-07:00"
+    },
+    {
+      "title": "Fastlane 2.0",
+      "url": "https://www.producthunt.com/products/fastlane-3",
+      "tagline": "",
+      "pub_date": "2026-10-14T21:55:03-07:00"
+    },
+    {
+      "title": "Claire Mail",
+      "url": "https://www.producthunt.com/products/claire-mail",
+      "tagline": "",
+      "pub_date": "2026-10-13T14:42:50-07:00"
     },
     {
       "title": "Voxelo 3.0",
@@ -317,28 +263,34 @@
       "pub_date": "2026-10-20T06:15:43-07:00"
     },
     {
+      "title": "Resend Inboxes",
+      "url": "https://www.producthunt.com/products/resend",
+      "tagline": "",
+      "pub_date": "2026-10-21T22:25:49-07:00"
+    },
+    {
+      "title": "Kalender Sync",
+      "url": "https://www.producthunt.com/products/kalender-sync",
+      "tagline": "",
+      "pub_date": "2026-10-14T02:47:34-07:00"
+    },
+    {
+      "title": "Agentic CleanSlop",
+      "url": "https://www.producthunt.com/products/cleanslop",
+      "tagline": "",
+      "pub_date": "2026-10-21T23:28:58-07:00"
+    },
+    {
       "title": "Dadan",
       "url": "https://www.producthunt.com/products/dadan",
       "tagline": "",
       "pub_date": "2026-10-20T04:49:27-07:00"
     },
     {
-      "title": "Claude Duet",
-      "url": "https://www.producthunt.com/products/claude",
+      "title": "Teclo",
+      "url": "https://www.producthunt.com/products/teclo",
       "tagline": "",
-      "pub_date": "2026-10-21T12:40:23-07:00"
-    },
-    {
-      "title": "Tetriz Engg Intelligence + Connectors",
-      "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
-      "tagline": "",
-      "pub_date": "2026-10-21T23:09:23-07:00"
-    },
-    {
-      "title": "CutBay",
-      "url": "https://www.producthunt.com/products/cutbay",
-      "tagline": "",
-      "pub_date": "2026-10-09T20:52:57-07:00"
+      "pub_date": "2026-10-21T13:56:53-07:00"
     },
     {
       "title": "Radaric",
@@ -347,16 +299,46 @@
       "pub_date": "2026-10-21T13:48:58-07:00"
     },
     {
-      "title": "Triage by Chodeberg",
-      "url": "https://www.producthunt.com/products/triage-by-chodeberg",
+      "title": "Mistral Voxtral 3",
+      "url": "https://www.producthunt.com/products/mistral-7b",
       "tagline": "",
-      "pub_date": "2026-10-20T15:59:42-07:00"
+      "pub_date": "2026-10-20T09:09:31-07:00"
     },
     {
-      "title": "Needle",
-      "url": "https://www.producthunt.com/products/needle-3",
+      "title": "Mercury 3",
+      "url": "https://www.producthunt.com/products/mercury-412",
       "tagline": "",
-      "pub_date": "2026-10-09T00:45:28-07:00"
+      "pub_date": "2026-10-21T02:51:21-07:00"
+    },
+    {
+      "title": "heal.dev",
+      "url": "https://www.producthunt.com/products/heal-dev",
+      "tagline": "",
+      "pub_date": "2026-10-01T09:52:42-07:00"
+    },
+    {
+      "title": "Whiteboard",
+      "url": "https://www.producthunt.com/products/whiteboard-5",
+      "tagline": "",
+      "pub_date": "2026-10-19T06:59:26-07:00"
+    },
+    {
+      "title": "Tetriz Engg Intelligence + Connectors",
+      "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+      "tagline": "",
+      "pub_date": "2026-10-21T23:09:23-07:00"
+    },
+    {
+      "title": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "tagline": "",
+      "pub_date": "2026-10-12T14:02:39-07:00"
+    },
+    {
+      "title": "SuperCMO AI",
+      "url": "https://www.producthunt.com/products/supercmo-ai",
+      "tagline": "",
+      "pub_date": "2026-10-20T05:21:29-07:00"
     }
   ]
 }

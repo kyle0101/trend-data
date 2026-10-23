@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-10-23T16:12:18.233Z",
+  "generated_at": "2026-10-23T20:50:37.024Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "url": "https://www.typeui.sh/micro-interactions",
-      "hn_url": "https://news.ycombinator.com/item?id=50199290",
-      "points": 77,
-      "comments": 43,
-      "created_ts": 1792693977,
-      "author": "elwingo1"
-    },
-    {
       "title": "Show HN: Making a smart TV dumb and then smart",
       "url": "https://github.com/anubhavmalhotra/r2d2-tv",
       "hn_url": "https://news.ycombinator.com/item?id=50202865",
-      "points": 72,
-      "comments": 43,
+      "points": 82,
+      "comments": 61,
       "created_ts": 1792714245,
       "author": "animalhot"
-    },
-    {
-      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-      "url": "https://github.com/rbartoli/agent-usage-guard",
-      "hn_url": "https://news.ycombinator.com/item?id=50198936",
-      "points": 24,
-      "comments": 9,
-      "created_ts": 1792692158,
-      "author": "zzyyxx332211"
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
       "url": "https://www.thisandthat.chat/enron/",
       "hn_url": "https://news.ycombinator.com/item?id=50207620",
-      "points": 22,
-      "comments": 15,
+      "points": 54,
+      "comments": 52,
       "created_ts": 1792756973,
       "author": "jreynar"
     },
     {
-      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-      "url": "https://3d.camilleworld.com/play/",
-      "hn_url": "https://news.ycombinator.com/item?id=50199349",
-      "points": 13,
-      "comments": 8,
-      "created_ts": 1792694379,
-      "author": "suejunghuh0"
+      "title": "Show HN: Impossible Machines: declaratively program the physical world",
+      "url": "https://www.impossiblemachines.xyz",
+      "hn_url": "https://news.ycombinator.com/item?id=50202746",
+      "points": 43,
+      "comments": 12,
+      "created_ts": 1792713268,
+      "author": "bhaprayan"
+    },
+    {
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "url": "https://swurf.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50205320",
+      "points": 31,
+      "comments": 15,
+      "created_ts": 1792738492,
+      "author": "webtjb096"
+    },
+    {
+      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+      "url": "https://drop7.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=50212292",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1792775607,
+      "author": "primitivesuave"
     }
   ],
   "hn_front": [
@@ -54,168 +54,90 @@
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "hn_url": "https://news.ycombinator.com/item?id=50202285",
-      "points": 875,
-      "comments": 171,
+      "points": 1101,
+      "comments": 212,
       "created_ts": 1792710078,
       "author": "sohkamyung"
     },
     {
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "hn_url": "https://news.ycombinator.com/item?id=50202681",
-      "points": 716,
-      "comments": 289,
-      "created_ts": 1792712756,
-      "author": "psxuaw"
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "hn_url": "https://news.ycombinator.com/item?id=50198675",
-      "points": 467,
-      "comments": 205,
-      "created_ts": 1792691046,
-      "author": "niemandhier"
-    },
-    {
-      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-      "hn_url": "https://news.ycombinator.com/item?id=50208837",
-      "points": 409,
-      "comments": 290,
-      "created_ts": 1792762870,
-      "author": "hubraumhugo"
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "hn_url": "https://news.ycombinator.com/item?id=50202217",
-      "points": 402,
-      "comments": 245,
-      "created_ts": 1792709683,
-      "author": "johnbender"
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "hn_url": "https://news.ycombinator.com/item?id=50211474",
+      "points": 568,
+      "comments": 390,
+      "created_ts": 1792772510,
+      "author": "pavel_lishin"
     },
     {
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "hn_url": "https://news.ycombinator.com/item?id=50200997",
-      "points": 366,
-      "comments": 398,
+      "points": 536,
+      "comments": 587,
       "created_ts": 1792703035,
       "author": "ex-aws-dude"
     },
     {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50197404",
-      "points": 342,
-      "comments": 155,
-      "created_ts": 1792685671,
-      "author": "dewey"
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=50212065",
+      "points": 491,
+      "comments": 286,
+      "created_ts": 1792774748,
+      "author": "Jowsey"
     },
     {
-      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=50205934",
-      "points": 306,
-      "comments": 301,
-      "created_ts": 1792743689,
-      "author": "robtherobber"
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "hn_url": "https://news.ycombinator.com/item?id=50207910",
+      "points": 272,
+      "comments": 97,
+      "created_ts": 1792758527,
+      "author": "frizlab"
     },
     {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50203161",
-      "points": 300,
-      "comments": 197,
-      "created_ts": 1792716721,
-      "author": "xiaoyu2006"
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "hn_url": "https://news.ycombinator.com/item?id=50202114",
+      "points": 204,
+      "comments": 85,
+      "created_ts": 1792708999,
+      "author": "hn_acker"
     },
     {
       "title": "How does Fable 5.1 hide messages in images?",
       "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
       "hn_url": "https://news.ycombinator.com/item?id=50201445",
-      "points": 172,
-      "comments": 54,
+      "points": 188,
+      "comments": 69,
       "created_ts": 1792705273,
       "author": "gmays"
     },
     {
-      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
-      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
-      "hn_url": "https://news.ycombinator.com/item?id=50205816",
+      "title": "Job loss and cortisone mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "hn_url": "https://news.ycombinator.com/item?id=50206840",
       "points": 151,
       "comments": 86,
-      "created_ts": 1792742733,
-      "author": "f311a"
+      "created_ts": 1792751484,
+      "author": "speckx"
     },
     {
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "url": "https://jank-lang.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=50202762",
-      "points": 147,
-      "comments": 26,
-      "created_ts": 1792713396,
-      "author": "giancarlostoro"
-    },
-    {
-      "title": "OpenSSL 4.1.0",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-      "hn_url": "https://news.ycombinator.com/item?id=50208099",
-      "points": 139,
-      "comments": 38,
-      "created_ts": 1792759364,
-      "author": "petecooper"
-    },
-    {
-      "title": "This I Believe (1952)",
-      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "hn_url": "https://news.ycombinator.com/item?id=50203759",
-      "points": 131,
-      "comments": 58,
-      "created_ts": 1792721978,
-      "author": "ctoth"
-    },
-    {
-      "title": "Shitter – A Nitter Fork",
-      "url": "https://codeberg.org/shitter/shitter",
-      "hn_url": "https://news.ycombinator.com/item?id=50208343",
-      "points": 128,
-      "comments": 80,
-      "created_ts": 1792760543,
-      "author": "eustoria"
-    },
-    {
-      "title": "Is this the new cyber normal?",
-      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-      "hn_url": "https://news.ycombinator.com/item?id=50207115",
-      "points": 125,
-      "comments": 136,
-      "created_ts": 1792753493,
-      "author": "drewsberry"
-    },
-    {
-      "title": "The HTML-in-Canvas API origin trial",
-      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-      "hn_url": "https://news.ycombinator.com/item?id=50200164",
-      "points": 104,
-      "comments": 44,
-      "created_ts": 1792698844,
-      "author": "andrewstuart"
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=50213337",
+      "points": 110,
+      "comments": 25,
+      "created_ts": 1792779894,
+      "author": "theanonymousone"
     }
   ],
   "ph_today": [
     {
-      "title": "ElevenLabs Realtime",
-      "url": "https://www.producthunt.com/products/realtime-max-mini",
+      "title": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
       "tagline": "",
-      "pub_date": "2026-10-20T07:31:02-07:00"
-    },
-    {
-      "title": "ShogunAI",
-      "url": "https://www.producthunt.com/products/shogunai",
-      "tagline": "",
-      "pub_date": "2026-10-22T23:32:57-07:00"
+      "pub_date": "2026-10-22T23:03:38-07:00"
     },
     {
       "title": "MOVO AI",
@@ -224,40 +146,16 @@
       "pub_date": "2026-09-18T22:45:58-07:00"
     },
     {
-      "title": "Product Hunt Visual Launch Editor",
-      "url": "https://www.producthunt.com/products/producthunt",
+      "title": "ElevenLabs Realtime",
+      "url": "https://www.producthunt.com/products/realtime-max-mini",
       "tagline": "",
-      "pub_date": "2026-10-22T23:03:38-07:00"
-    },
-    {
-      "title": "Polylane for Cloudflare",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-10-21T09:40:31-07:00"
-    },
-    {
-      "title": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "tagline": "",
-      "pub_date": "2026-10-19T03:05:22-07:00"
+      "pub_date": "2026-10-20T07:31:02-07:00"
     },
     {
       "title": "FLUX 3 Max",
       "url": "https://www.producthunt.com/products/fal-ai",
       "tagline": "",
       "pub_date": "2026-10-19T13:10:40-07:00"
-    },
-    {
-      "title": "Ovren Live Preview",
-      "url": "https://www.producthunt.com/products/ovren",
-      "tagline": "",
-      "pub_date": "2026-10-08T03:53:51-07:00"
-    },
-    {
-      "title": "Agent Hunt",
-      "url": "https://www.producthunt.com/products/monid",
-      "tagline": "",
-      "pub_date": "2026-10-22T21:03:20-07:00"
     },
     {
       "title": "Cloudflare Clairic",
@@ -272,52 +170,10 @@
       "pub_date": "2026-10-16T03:57:59-07:00"
     },
     {
-      "title": "Monish",
-      "url": "https://www.producthunt.com/products/monish",
-      "tagline": "",
-      "pub_date": "2026-10-22T07:38:26-07:00"
-    },
-    {
-      "title": "Gerty",
-      "url": "https://www.producthunt.com/products/gerty",
-      "tagline": "",
-      "pub_date": "2026-10-22T07:14:10-07:00"
-    },
-    {
-      "title": "Termi Protocol",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "tagline": "",
-      "pub_date": "2026-10-22T21:32:57-07:00"
-    },
-    {
-      "title": "Headroom",
-      "url": "https://www.producthunt.com/products/headroom-5",
-      "tagline": "",
-      "pub_date": "2026-10-13T00:06:46-07:00"
-    },
-    {
-      "title": "Instant Search",
-      "url": "https://www.producthunt.com/products/instant-search-2",
-      "tagline": "",
-      "pub_date": "2026-10-22T22:36:03-07:00"
-    },
-    {
       "title": "Peras",
       "url": "https://www.producthunt.com/products/peras",
       "tagline": "",
       "pub_date": "2026-10-22T14:38:15-07:00"
-    },
-    {
-      "title": "Dots",
-      "url": "https://www.producthunt.com/products/dots-7",
-      "tagline": "",
-      "pub_date": "2026-10-22T06:15:51-07:00"
-    },
-    {
-      "title": "Dots Phone",
-      "url": "https://www.producthunt.com/products/dots-phone",
-      "tagline": "",
-      "pub_date": "2026-10-20T17:32:17-07:00"
     },
     {
       "title": "Truffle",
@@ -326,16 +182,34 @@
       "pub_date": "2026-10-22T00:48:52-07:00"
     },
     {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
+      "title": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
       "tagline": "",
-      "pub_date": "2026-10-22T14:03:15-07:00"
+      "pub_date": "2026-10-22T07:14:10-07:00"
     },
     {
-      "title": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
+      "title": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
       "tagline": "",
-      "pub_date": "2026-10-22T02:49:27-07:00"
+      "pub_date": "2026-10-22T22:36:03-07:00"
+    },
+    {
+      "title": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "tagline": "",
+      "pub_date": "2026-10-22T21:03:20-07:00"
+    },
+    {
+      "title": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren",
+      "tagline": "",
+      "pub_date": "2026-10-08T03:53:51-07:00"
+    },
+    {
+      "title": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
+      "tagline": "",
+      "pub_date": "2026-10-19T03:05:22-07:00"
     },
     {
       "title": "DotMD",
@@ -344,16 +218,64 @@
       "pub_date": "2026-10-20T11:09:25-07:00"
     },
     {
+      "title": "Headroom",
+      "url": "https://www.producthunt.com/products/headroom-5",
+      "tagline": "",
+      "pub_date": "2026-10-13T00:06:46-07:00"
+    },
+    {
+      "title": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "tagline": "",
+      "pub_date": "2026-10-22T23:32:57-07:00"
+    },
+    {
+      "title": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-10-21T09:40:31-07:00"
+    },
+    {
+      "title": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
+      "tagline": "",
+      "pub_date": "2026-10-22T06:15:51-07:00"
+    },
+    {
+      "title": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "tagline": "",
+      "pub_date": "2026-10-22T14:03:15-07:00"
+    },
+    {
+      "title": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "tagline": "",
+      "pub_date": "2026-10-22T21:32:57-07:00"
+    },
+    {
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "tagline": "",
+      "pub_date": "2026-10-22T07:38:26-07:00"
+    },
+    {
+      "title": "Bloblings",
+      "url": "https://www.producthunt.com/products/bloblings",
+      "tagline": "",
+      "pub_date": "2026-10-22T02:49:27-07:00"
+    },
+    {
+      "title": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "tagline": "",
+      "pub_date": "2026-10-20T17:32:17-07:00"
+    },
+    {
       "title": "Dub Startup Program",
       "url": "https://www.producthunt.com/products/dub",
       "tagline": "",
       "pub_date": "2026-10-20T03:46:27-07:00"
-    },
-    {
-      "title": "Doneas",
-      "url": "https://www.producthunt.com/products/doneas",
-      "tagline": "",
-      "pub_date": "2026-10-09T00:54:38-07:00"
     },
     {
       "title": "Mercury 3",
@@ -368,22 +290,28 @@
       "pub_date": "2026-10-21T13:56:53-07:00"
     },
     {
-      "title": "Whiteboard",
-      "url": "https://www.producthunt.com/products/whiteboard-5",
+      "title": "Notif",
+      "url": "https://www.producthunt.com/products/notif-2",
       "tagline": "",
-      "pub_date": "2026-10-19T06:59:26-07:00"
+      "pub_date": "2026-10-20T17:54:33-07:00"
     },
     {
-      "title": "Playad",
-      "url": "https://www.producthunt.com/products/playad",
+      "title": "Archivist",
+      "url": "https://www.producthunt.com/products/archivist",
       "tagline": "",
-      "pub_date": "2026-10-12T03:56:22-07:00"
+      "pub_date": "2026-10-21T12:16:09-07:00"
     },
     {
-      "title": "Kugel Ear",
-      "url": "https://www.producthunt.com/products/kugelaudio",
+      "title": "Sponkly",
+      "url": "https://www.producthunt.com/products/sponkly",
       "tagline": "",
-      "pub_date": "2026-10-21T06:11:30-07:00"
+      "pub_date": "2026-10-21T16:31:26-07:00"
+    },
+    {
+      "title": "Agentic CleanSlop",
+      "url": "https://www.producthunt.com/products/cleanslop",
+      "tagline": "",
+      "pub_date": "2026-10-21T23:28:58-07:00"
     }
   ]
 }

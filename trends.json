@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-10-24T02:45:27.158Z",
+  "generated_at": "2026-10-24T10:03:35.922Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Swurf – Swipe through the real web",
-      "url": "https://swurf.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=50205320",
-      "points": 60,
-      "comments": 29,
-      "created_ts": 1792738492,
-      "author": "webtjb096"
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "hn_url": "https://news.ycombinator.com/item?id=50214373",
+      "points": 83,
+      "comments": 23,
+      "created_ts": 1792784798,
+      "author": "eiopa"
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
       "url": "https://www.thisandthat.chat/enron/",
       "hn_url": "https://news.ycombinator.com/item?id=50207620",
-      "points": 57,
+      "points": 62,
       "comments": 53,
       "created_ts": 1792756973,
       "author": "jreynar"
-    },
-    {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "hn_url": "https://news.ycombinator.com/item?id=50214373",
-      "points": 43,
-      "comments": 7,
-      "created_ts": 1792784798,
-      "author": "eiopa"
     },
     {
       "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
@@ -42,138 +33,189 @@
   ],
   "hn_front": [
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "hn_url": "https://news.ycombinator.com/item?id=50211474",
-      "points": 764,
-      "comments": 517,
-      "created_ts": 1792772510,
-      "author": "pavel_lishin"
-    },
-    {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "hn_url": "https://news.ycombinator.com/item?id=50212065",
-      "points": 748,
-      "comments": 467,
+      "points": 915,
+      "comments": 533,
       "created_ts": 1792774748,
       "author": "Jowsey"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "hn_url": "https://news.ycombinator.com/item?id=50211474",
+      "points": 884,
+      "comments": 577,
+      "created_ts": 1792772510,
+      "author": "pavel_lishin"
     },
     {
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
       "hn_url": "https://news.ycombinator.com/item?id=50207910",
-      "points": 614,
-      "comments": 199,
+      "points": 764,
+      "comments": 232,
       "created_ts": 1792758527,
       "author": "frizlab"
     },
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "hn_url": "https://news.ycombinator.com/item?id=50214218",
-      "points": 293,
-      "comments": 158,
-      "created_ts": 1792784055,
-      "author": "JustSkyfall"
-    },
-    {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
       "hn_url": "https://news.ycombinator.com/item?id=50213925",
-      "points": 257,
-      "comments": 104,
+      "points": 389,
+      "comments": 139,
       "created_ts": 1792782594,
       "author": "dsr12"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "hn_url": "https://news.ycombinator.com/item?id=50217500",
+      "points": 202,
+      "comments": 25,
+      "created_ts": 1792804618,
+      "author": "otoolep"
     },
     {
       "title": "CVE Tracker",
       "url": "https://cve.0xosprey.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50215530",
-      "points": 114,
-      "comments": 43,
+      "points": 171,
+      "comments": 61,
       "created_ts": 1792790507,
       "author": "Group_B"
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=50218430",
+      "points": 155,
+      "comments": 43,
+      "created_ts": 1792817398,
+      "author": "pentagrama"
+    },
+    {
+      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "hn_url": "https://news.ycombinator.com/item?id=50211746",
+      "points": 147,
+      "comments": 119,
+      "created_ts": 1792773585,
+      "author": "ibobev"
+    },
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "hn_url": "https://news.ycombinator.com/item?id=50218633",
+      "points": 134,
+      "comments": 23,
+      "created_ts": 1792820997,
+      "author": "testing22321"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "hn_url": "https://news.ycombinator.com/item?id=50212507",
+      "points": 131,
+      "comments": 119,
+      "created_ts": 1792776516,
+      "author": "luu"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "hn_url": "https://news.ycombinator.com/item?id=50218195",
+      "points": 121,
+      "comments": 12,
+      "created_ts": 1792813434,
+      "author": "stmonty"
     }
   ],
   "ph_today": [
     {
-      "title": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
+      "title": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
       "tagline": "",
-      "pub_date": "2026-10-22T02:49:27-07:00"
+      "pub_date": "2026-10-21T09:47:39-07:00"
     },
     {
-      "title": "Cloudflare Clairic",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "title": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
       "tagline": "",
-      "pub_date": "2026-10-20T19:18:07-07:00"
+      "pub_date": "2026-10-21T21:20:49-07:00"
     },
     {
-      "title": "FLUX 3 Max",
-      "url": "https://www.producthunt.com/products/fal-ai",
+      "title": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
       "tagline": "",
-      "pub_date": "2026-10-19T13:10:40-07:00"
+      "pub_date": "2026-10-17T07:01:02-07:00"
     },
     {
-      "title": "ElevenLabs Realtime",
-      "url": "https://www.producthunt.com/products/realtime-max-mini",
+      "title": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
       "tagline": "",
-      "pub_date": "2026-10-20T07:31:02-07:00"
+      "pub_date": "2026-10-14T06:26:54-07:00"
     },
     {
-      "title": "MOVO AI",
-      "url": "https://www.producthunt.com/products/movo-ai",
+      "title": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
       "tagline": "",
-      "pub_date": "2026-09-18T22:45:58-07:00"
+      "pub_date": "2026-10-15T08:16:27-07:00"
     },
     {
-      "title": "Product Hunt Visual Launch Editor",
-      "url": "https://www.producthunt.com/products/producthunt",
+      "title": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
       "tagline": "",
-      "pub_date": "2026-10-22T23:03:38-07:00"
+      "pub_date": "2026-10-22T11:14:06-07:00"
     },
     {
-      "title": "Headroom",
-      "url": "https://www.producthunt.com/products/headroom-5",
+      "title": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
       "tagline": "",
-      "pub_date": "2026-10-13T00:06:46-07:00"
+      "pub_date": "2026-10-20T05:55:46-07:00"
     },
     {
-      "title": "Dots",
-      "url": "https://www.producthunt.com/products/dots-7",
+      "title": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
       "tagline": "",
-      "pub_date": "2026-10-22T06:15:51-07:00"
+      "pub_date": "2026-10-23T01:41:59-07:00"
     },
     {
-      "title": "Inyon",
-      "url": "https://www.producthunt.com/products/inyon",
+      "title": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
       "tagline": "",
-      "pub_date": "2026-10-16T03:57:59-07:00"
+      "pub_date": "2026-10-14T14:47:26-07:00"
     },
     {
-      "title": "Gerty",
-      "url": "https://www.producthunt.com/products/gerty",
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-10-22T07:14:10-07:00"
+      "pub_date": "2026-10-23T10:51:50-07:00"
     },
     {
-      "title": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
+      "title": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
       "tagline": "",
-      "pub_date": "2026-10-20T11:09:25-07:00"
+      "pub_date": "2026-10-15T10:34:35-07:00"
     },
     {
-      "title": "Termi Protocol",
-      "url": "https://www.producthunt.com/products/termi-protocol",
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
       "tagline": "",
-      "pub_date": "2026-10-22T21:32:57-07:00"
+      "pub_date": "2026-10-23T06:28:40-07:00"
     },
     {
-      "title": "Peras",
-      "url": "https://www.producthunt.com/products/peras",
+      "title": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
       "tagline": "",
-      "pub_date": "2026-10-22T14:38:15-07:00"
+      "pub_date": "2026-10-20T23:38:11-07:00"
+    },
+    {
+      "title": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "tagline": "",
+      "pub_date": "2026-10-22T10:23:21-07:00"
     },
     {
       "title": "ShogunAI",
@@ -182,10 +224,10 @@
       "pub_date": "2026-10-22T23:32:57-07:00"
     },
     {
-      "title": "Monish",
-      "url": "https://www.producthunt.com/products/monish",
+      "title": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
       "tagline": "",
-      "pub_date": "2026-10-22T07:38:26-07:00"
+      "pub_date": "2026-10-20T17:32:17-07:00"
     },
     {
       "title": "Ovren Live Preview",
@@ -194,28 +236,28 @@
       "pub_date": "2026-10-08T03:53:51-07:00"
     },
     {
-      "title": "Agent Hunt",
-      "url": "https://www.producthunt.com/products/monid",
+      "title": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
       "tagline": "",
-      "pub_date": "2026-10-22T21:03:20-07:00"
+      "pub_date": "2026-10-22T07:14:10-07:00"
     },
     {
-      "title": "Polylane for Cloudflare",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Inyon",
+      "url": "https://www.producthunt.com/products/inyon",
       "tagline": "",
-      "pub_date": "2026-10-21T09:40:31-07:00"
+      "pub_date": "2026-10-16T03:57:59-07:00"
     },
     {
-      "title": "Dots Phone",
-      "url": "https://www.producthunt.com/products/dots-phone",
+      "title": "ElevenLabs Realtime",
+      "url": "https://www.producthunt.com/products/realtime-max-mini",
       "tagline": "",
-      "pub_date": "2026-10-20T17:32:17-07:00"
+      "pub_date": "2026-10-20T07:31:02-07:00"
     },
     {
-      "title": "Truffle",
-      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "title": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
       "tagline": "",
-      "pub_date": "2026-10-22T00:48:52-07:00"
+      "pub_date": "2026-10-20T11:09:25-07:00"
     },
     {
       "title": "Dub Startup Program",
@@ -224,58 +266,52 @@
       "pub_date": "2026-10-20T03:46:27-07:00"
     },
     {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
+      "title": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
       "tagline": "",
-      "pub_date": "2026-10-22T14:03:15-07:00"
+      "pub_date": "2026-10-19T13:10:40-07:00"
     },
     {
-      "title": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
+      "title": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
       "tagline": "",
-      "pub_date": "2026-10-19T03:05:22-07:00"
+      "pub_date": "2026-10-22T21:32:57-07:00"
     },
     {
-      "title": "Instant Search",
-      "url": "https://www.producthunt.com/products/instant-search-2",
+      "title": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
       "tagline": "",
-      "pub_date": "2026-10-22T22:36:03-07:00"
+      "pub_date": "2026-10-22T00:48:52-07:00"
     },
     {
-      "title": "Fastlane 2.0",
-      "url": "https://www.producthunt.com/products/fastlane-3",
+      "title": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
       "tagline": "",
-      "pub_date": "2026-10-14T21:55:03-07:00"
+      "pub_date": "2026-10-22T14:38:15-07:00"
     },
     {
-      "title": "Mistral Voxtral 3",
-      "url": "https://www.producthunt.com/products/mistral-7b",
+      "title": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
       "tagline": "",
-      "pub_date": "2026-10-20T09:09:31-07:00"
+      "pub_date": "2026-09-18T22:45:58-07:00"
     },
     {
-      "title": "CutBay",
-      "url": "https://www.producthunt.com/products/cutbay",
+      "title": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
       "tagline": "",
-      "pub_date": "2026-10-09T20:52:57-07:00"
+      "pub_date": "2026-10-22T06:15:51-07:00"
     },
     {
-      "title": "Loom Record for agents",
-      "url": "https://www.producthunt.com/products/loom",
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
       "tagline": "",
-      "pub_date": "2026-10-09T10:00:25-07:00"
+      "pub_date": "2026-10-22T07:38:26-07:00"
     },
     {
-      "title": "heal.dev",
-      "url": "https://www.producthunt.com/products/heal-dev",
+      "title": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
       "tagline": "",
-      "pub_date": "2026-10-01T09:52:42-07:00"
-    },
-    {
-      "title": "DeepCell",
-      "url": "https://www.producthunt.com/products/deepcell",
-      "tagline": "",
-      "pub_date": "2026-10-20T07:39:01-07:00"
+      "pub_date": "2026-10-21T09:40:31-07:00"
     }
   ]
 }

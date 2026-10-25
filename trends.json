@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-10-24T20:01:55.008Z",
+  "generated_at": "2026-10-25T02:35:56.531Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50224916",
+      "points": 417,
+      "comments": 257,
+      "created_ts": 1792873831,
+      "author": "cloudlandsdev"
+    },
+    {
       "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
       "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
       "hn_url": "https://news.ycombinator.com/item?id=50220042",
-      "points": 47,
-      "comments": 13,
+      "points": 51,
+      "comments": 17,
       "created_ts": 1792839095,
       "author": "t20n"
-    },
-    {
-      "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
-      "url": "https://github.com/thomasunise/argus",
-      "hn_url": "https://news.ycombinator.com/item?id=50223201",
-      "points": 16,
-      "comments": 4,
-      "created_ts": 1792862037,
-      "author": "thomasunise"
     },
     {
       "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
       "url": "https://github.com/byenzyme/enzyme",
       "hn_url": "https://news.ycombinator.com/item?id=50221066",
-      "points": 15,
-      "comments": 8,
+      "points": 20,
+      "comments": 9,
       "created_ts": 1792848618,
       "author": "earllee"
+    },
+    {
+      "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
+      "url": "https://github.com/thomasunise/argus",
+      "hn_url": "https://news.ycombinator.com/item?id=50223201",
+      "points": 17,
+      "comments": 4,
+      "created_ts": 1792862037,
+      "author": "thomasunise"
+    },
+    {
+      "title": "Show HN: Encarta 95 Web",
+      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+      "hn_url": "https://news.ycombinator.com/item?id=50218975",
+      "points": 12,
+      "comments": 7,
+      "created_ts": 1792826317,
+      "author": "gitgud"
     },
     {
       "title": "Show HN: Orisuji, a maze you solve by folding your phone",
@@ -42,29 +60,29 @@
   ],
   "hn_front": [
     {
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "hn_url": "https://news.ycombinator.com/item?id=50218430",
-      "points": 409,
-      "comments": 145,
-      "created_ts": 1792817398,
-      "author": "pentagrama"
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "hn_url": "https://news.ycombinator.com/item?id=50224463",
+      "points": 495,
+      "comments": 492,
+      "created_ts": 1792871239,
+      "author": "the-mitr"
     },
     {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "hn_url": "https://news.ycombinator.com/item?id=50217500",
-      "points": 345,
-      "comments": 51,
-      "created_ts": 1792804618,
-      "author": "otoolep"
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50224916",
+      "points": 417,
+      "comments": 257,
+      "created_ts": 1792873831,
+      "author": "cloudlandsdev"
     },
     {
       "title": "I don't understand quantum physics (2018)",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50219666",
-      "points": 234,
-      "comments": 170,
+      "points": 288,
+      "comments": 218,
       "created_ts": 1792835606,
       "author": "rramadass"
     },
@@ -72,17 +90,26 @@
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
       "hn_url": "https://news.ycombinator.com/item?id=50219177",
-      "points": 232,
-      "comments": 115,
+      "points": 281,
+      "comments": 140,
       "created_ts": 1792829199,
       "author": "theanonymousone"
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "hn_url": "https://news.ycombinator.com/item?id=50222622",
+      "points": 268,
+      "comments": 179,
+      "created_ts": 1792857986,
+      "author": "cxr"
     },
     {
       "title": "How close can pure functional programming get to C?",
       "url": "https://rtfeldman.com/fp-vs-c",
       "hn_url": "https://news.ycombinator.com/item?id=50218195",
-      "points": 232,
-      "comments": 67,
+      "points": 257,
+      "comments": 87,
       "created_ts": 1792813434,
       "author": "stmonty"
     },
@@ -90,28 +117,55 @@
       "title": "FreeDNS",
       "url": "https://freedns.afraid.org/",
       "hn_url": "https://news.ycombinator.com/item?id=50222133",
-      "points": 187,
-      "comments": 48,
+      "points": 257,
+      "comments": 65,
       "created_ts": 1792855201,
       "author": "esher"
     },
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "hn_url": "https://news.ycombinator.com/item?id=50222622",
-      "points": 185,
-      "comments": 125,
-      "created_ts": 1792857986,
-      "author": "cxr"
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "hn_url": "https://news.ycombinator.com/item?id=50224100",
+      "points": 256,
+      "comments": 173,
+      "created_ts": 1792868815,
+      "author": "bobbydigitales"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "hn_url": "https://news.ycombinator.com/item?id=50225695",
+      "points": 196,
+      "comments": 161,
+      "created_ts": 1792878451,
+      "author": "ltratt"
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "hn_url": "https://news.ycombinator.com/item?id=50219700",
-      "points": 128,
-      "comments": 49,
+      "points": 195,
+      "comments": 61,
       "created_ts": 1792835907,
       "author": "fragebogen"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419",
+      "points": 190,
+      "comments": 160,
+      "created_ts": 1792883514,
+      "author": "gnabgib"
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "hn_url": "https://news.ycombinator.com/item?id=50224422",
+      "points": 127,
+      "comments": 82,
+      "created_ts": 1792871007,
+      "author": "liotier"
     }
   ],
   "ph_today": [
@@ -122,16 +176,40 @@
       "pub_date": "2026-10-15T08:16:27-07:00"
     },
     {
-      "title": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "tagline": "",
-      "pub_date": "2026-10-22T11:14:06-07:00"
-    },
-    {
       "title": "LinkIntel",
       "url": "https://www.producthunt.com/products/linkintel",
       "tagline": "",
       "pub_date": "2026-10-14T14:47:26-07:00"
+    },
+    {
+      "title": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
+      "tagline": "",
+      "pub_date": "2026-10-14T06:26:54-07:00"
+    },
+    {
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-10-23T10:51:50-07:00"
+    },
+    {
+      "title": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
+      "tagline": "",
+      "pub_date": "2026-10-21T09:47:39-07:00"
+    },
+    {
+      "title": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "tagline": "",
+      "pub_date": "2026-10-21T21:20:49-07:00"
+    },
+    {
+      "title": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "tagline": "",
+      "pub_date": "2026-10-22T11:14:06-07:00"
     },
     {
       "title": "myPip",
@@ -146,40 +224,10 @@
       "pub_date": "2026-10-22T10:23:21-07:00"
     },
     {
-      "title": "Penta",
-      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "title": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
       "tagline": "",
-      "pub_date": "2026-10-21T21:20:49-07:00"
-    },
-    {
-      "title": "Many Displays",
-      "url": "https://www.producthunt.com/products/many-displays",
-      "tagline": "",
-      "pub_date": "2026-10-14T06:26:54-07:00"
-    },
-    {
-      "title": "Byter",
-      "url": "https://www.producthunt.com/products/byter",
-      "tagline": "",
-      "pub_date": "2026-10-21T09:47:39-07:00"
-    },
-    {
-      "title": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "tagline": "",
-      "pub_date": "2026-10-23T06:28:40-07:00"
-    },
-    {
-      "title": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-10-23T10:51:50-07:00"
-    },
-    {
-      "title": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "tagline": "",
-      "pub_date": "2026-10-23T01:41:59-07:00"
+      "pub_date": "2026-10-20T23:38:11-07:00"
     },
     {
       "title": "How It Went",
@@ -188,16 +236,58 @@
       "pub_date": "2026-10-17T07:01:02-07:00"
     },
     {
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "tagline": "",
+      "pub_date": "2026-10-23T06:28:40-07:00"
+    },
+    {
+      "title": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "tagline": "",
+      "pub_date": "2026-10-23T01:41:59-07:00"
+    },
+    {
       "title": "AgentValley",
       "url": "https://www.producthunt.com/products/agentvalley",
       "tagline": "",
       "pub_date": "2026-10-20T05:55:46-07:00"
     },
     {
-      "title": "Shedi",
-      "url": "https://www.producthunt.com/products/shedi",
+      "title": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
       "tagline": "",
-      "pub_date": "2026-10-20T23:38:11-07:00"
+      "pub_date": "2026-10-19T03:05:22-07:00"
+    },
+    {
+      "title": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "tagline": "",
+      "pub_date": "2026-10-22T00:48:52-07:00"
+    },
+    {
+      "title": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "tagline": "",
+      "pub_date": "2026-10-22T21:03:20-07:00"
+    },
+    {
+      "title": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-10-21T09:40:31-07:00"
+    },
+    {
+      "title": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "tagline": "",
+      "pub_date": "2026-10-20T17:32:17-07:00"
+    },
+    {
+      "title": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "tagline": "",
+      "pub_date": "2026-10-22T23:32:57-07:00"
     },
     {
       "title": "Dub Startup Program",
@@ -206,28 +296,16 @@
       "pub_date": "2026-10-20T03:46:27-07:00"
     },
     {
+      "title": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "tagline": "",
+      "pub_date": "2026-10-19T13:10:40-07:00"
+    },
+    {
       "title": "Plango",
       "url": "https://www.producthunt.com/products/plango",
       "tagline": "",
       "pub_date": "2026-10-22T14:03:15-07:00"
-    },
-    {
-      "title": "Product Hunt Visual Launch Editor",
-      "url": "https://www.producthunt.com/products/producthunt",
-      "tagline": "",
-      "pub_date": "2026-10-22T23:03:38-07:00"
-    },
-    {
-      "title": "Dots",
-      "url": "https://www.producthunt.com/products/dots-7",
-      "tagline": "",
-      "pub_date": "2026-10-22T06:15:51-07:00"
-    },
-    {
-      "title": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
-      "tagline": "",
-      "pub_date": "2026-10-20T11:09:25-07:00"
     },
     {
       "title": "Termi Protocol",
@@ -242,28 +320,16 @@
       "pub_date": "2026-10-22T14:38:15-07:00"
     },
     {
-      "title": "Truffle",
-      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "title": "Inyon",
+      "url": "https://www.producthunt.com/products/inyon",
       "tagline": "",
-      "pub_date": "2026-10-22T00:48:52-07:00"
+      "pub_date": "2026-10-16T03:57:59-07:00"
     },
     {
-      "title": "Cloudflare Clairic",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "title": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
       "tagline": "",
-      "pub_date": "2026-10-20T19:18:07-07:00"
-    },
-    {
-      "title": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "tagline": "",
-      "pub_date": "2026-10-19T03:05:22-07:00"
-    },
-    {
-      "title": "ElevenLabs Realtime",
-      "url": "https://www.producthunt.com/products/realtime-max-mini",
-      "tagline": "",
-      "pub_date": "2026-10-20T07:31:02-07:00"
+      "pub_date": "2026-10-22T06:15:51-07:00"
     },
     {
       "title": "Gerty",
@@ -272,28 +338,16 @@
       "pub_date": "2026-10-22T07:14:10-07:00"
     },
     {
-      "title": "Ovren Live Preview",
-      "url": "https://www.producthunt.com/products/ovren",
+      "title": "Cloudflare Clairic",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-10-08T03:53:51-07:00"
+      "pub_date": "2026-10-20T19:18:07-07:00"
     },
     {
-      "title": "Inyon",
-      "url": "https://www.producthunt.com/products/inyon",
+      "title": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
       "tagline": "",
-      "pub_date": "2026-10-16T03:57:59-07:00"
-    },
-    {
-      "title": "Headroom",
-      "url": "https://www.producthunt.com/products/headroom-5",
-      "tagline": "",
-      "pub_date": "2026-10-13T00:06:46-07:00"
-    },
-    {
-      "title": "MOVO AI",
-      "url": "https://www.producthunt.com/products/movo-ai",
-      "tagline": "",
-      "pub_date": "2026-09-18T22:45:58-07:00"
+      "pub_date": "2026-10-20T11:09:25-07:00"
     }
   ]
 }

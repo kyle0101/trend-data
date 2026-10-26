@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-26T02:34:33.045Z",
+  "generated_at": "2026-10-26T12:00:08.206Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50238708",
+      "points": 272,
+      "comments": 44,
+      "created_ts": 1792985037,
+      "author": "davidbarker"
+    },
+    {
       "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
       "url": "https://bigwhalehunting.com/workforce/",
       "hn_url": "https://news.ycombinator.com/item?id=50232312",
-      "points": 167,
+      "points": 174,
       "comments": 47,
       "created_ts": 1792940739,
       "author": "vfxGer"
@@ -22,6 +31,15 @@
       "author": "ericholiveira"
     },
     {
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "hn_url": "https://news.ycombinator.com/item?id=50237813",
+      "points": 21,
+      "comments": 1,
+      "created_ts": 1792977223,
+      "author": "i_strelov"
+    },
+    {
       "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
       "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
       "hn_url": "https://news.ycombinator.com/item?id=50231486",
@@ -31,6 +49,15 @@
       "author": "modern_cmo"
     },
     {
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50239041",
+      "points": 14,
+      "comments": 2,
+      "created_ts": 1792988075,
+      "author": "yazeedaloyoun"
+    },
+    {
       "title": "Show HN: CaseCite – Free RAG caselaw research and document analysis for lawyers",
       "url": "https://github.com/thomasunise/casecite",
       "hn_url": "https://news.ycombinator.com/item?id=50235915",
@@ -38,6 +65,15 @@
       "comments": 2,
       "created_ts": 1792961246,
       "author": "thomasunise"
+    },
+    {
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://github.com/SRN0129/Agenttrust",
+      "hn_url": "https://news.ycombinator.com/item?id=50235909",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1792961210,
+      "author": "SRN0129"
     }
   ],
   "hn_front": [
@@ -45,8 +81,8 @@
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "hn_url": "https://news.ycombinator.com/item?id=50233779",
-      "points": 453,
-      "comments": 215,
+      "points": 581,
+      "comments": 246,
       "created_ts": 1792948538,
       "author": "sungam"
     },
@@ -54,26 +90,17 @@
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50234474",
-      "points": 406,
-      "comments": 71,
+      "points": 570,
+      "comments": 96,
       "created_ts": 1792952634,
       "author": "jumploops"
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "hn_url": "https://news.ycombinator.com/item?id=50234232",
-      "points": 404,
-      "comments": 106,
-      "created_ts": 1792951451,
-      "author": "tdeck"
     },
     {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "url": "https://talkweb.eu/openweb/4558/",
       "hn_url": "https://news.ycombinator.com/item?id=50233929",
-      "points": 401,
-      "comments": 201,
+      "points": 495,
+      "comments": 241,
       "created_ts": 1792949455,
       "author": "Tomte"
     },
@@ -81,36 +108,273 @@
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "hn_url": "https://news.ycombinator.com/item?id=50236102",
-      "points": 166,
-      "comments": 194,
+      "points": 344,
+      "comments": 333,
       "created_ts": 1792962691,
       "author": "minimaxir"
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "hn_url": "https://news.ycombinator.com/item?id=50238088",
+      "points": 291,
+      "comments": 198,
+      "created_ts": 1792979266,
+      "author": "Betelbuddy"
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50238708",
+      "points": 272,
+      "comments": 44,
+      "created_ts": 1792985037,
+      "author": "davidbarker"
     },
     {
       "title": "Why I Am a Programmer",
       "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
       "hn_url": "https://news.ycombinator.com/item?id=50235017",
-      "points": 145,
-      "comments": 54,
+      "points": 252,
+      "comments": 79,
       "created_ts": 1792955491,
       "author": "jruohonen"
+    },
+    {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "hn_url": "https://news.ycombinator.com/item?id=50240922",
+      "points": 199,
+      "comments": 78,
+      "created_ts": 1793004369,
+      "author": "theanonymousone"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50235780",
+      "points": 198,
+      "comments": 48,
+      "created_ts": 1792960351,
+      "author": "pchristensen"
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "hn_url": "https://news.ycombinator.com/item?id=50238739",
+      "points": 160,
+      "comments": 51,
+      "created_ts": 1792985345,
+      "author": "vardhan1237"
     },
     {
       "title": "Active incident at Dreamhost forcing password reset",
       "url": "https://www.dreamhoststatus.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50231166",
-      "points": 125,
-      "comments": 53,
+      "points": 157,
+      "comments": 62,
       "created_ts": 1792933756,
       "author": "greenchair"
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "hn_url": "https://news.ycombinator.com/item?id=50237712",
+      "points": 153,
+      "comments": 91,
+      "created_ts": 1792976619,
+      "author": "textlanes33"
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "hn_url": "https://news.ycombinator.com/item?id=50238763",
+      "points": 150,
+      "comments": 73,
+      "created_ts": 1792985471,
+      "author": "Austin_Conlon"
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50237078",
+      "points": 132,
+      "comments": 68,
+      "created_ts": 1792970850,
+      "author": "bpierre"
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "hn_url": "https://news.ycombinator.com/item?id=50237224",
+      "points": 131,
+      "comments": 42,
+      "created_ts": 1792972325,
+      "author": "westurner"
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "hn_url": "https://news.ycombinator.com/item?id=50237379",
+      "points": 129,
+      "comments": 34,
+      "created_ts": 1792973717,
+      "author": "davikr"
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "hn_url": "https://news.ycombinator.com/item?id=50234879",
+      "points": 113,
+      "comments": 45,
+      "created_ts": 1792954694,
+      "author": "endorphine"
     }
   ],
   "ph_today": [
     {
-      "title": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
+      "title": "SurgePix",
+      "url": "https://www.producthunt.com/products/surgepix",
       "tagline": "",
-      "pub_date": "2026-10-18T11:03:42-07:00"
+      "pub_date": "2026-10-16T00:19:17-07:00"
+    },
+    {
+      "title": "CloudKnife",
+      "url": "https://www.producthunt.com/products/cloudknife",
+      "tagline": "",
+      "pub_date": "2026-10-19T00:32:37-07:00"
+    },
+    {
+      "title": "PDF Accessibility Checker by WebYes",
+      "url": "https://www.producthunt.com/products/pdf-accessibility-checker",
+      "tagline": "",
+      "pub_date": "2026-10-21T22:52:07-07:00"
+    },
+    {
+      "title": "Kiwi",
+      "url": "https://www.producthunt.com/products/kiwi-7",
+      "tagline": "",
+      "pub_date": "2026-10-24T16:19:29-07:00"
+    },
+    {
+      "title": "tabsh",
+      "url": "https://www.producthunt.com/products/tabsh",
+      "tagline": "",
+      "pub_date": "2026-10-25T02:18:55-07:00"
+    },
+    {
+      "title": "N8N Chat UI",
+      "url": "https://www.producthunt.com/products/n8n-chat-ui-2",
+      "tagline": "",
+      "pub_date": "2026-10-07T19:43:27-07:00"
+    },
+    {
+      "title": "AI Bridge",
+      "url": "https://www.producthunt.com/products/ai-bridge",
+      "tagline": "",
+      "pub_date": "2026-10-21T01:10:28-07:00"
+    },
+    {
+      "title": "2G",
+      "url": "https://www.producthunt.com/products/2g",
+      "tagline": "",
+      "pub_date": "2026-10-24T12:44:28-07:00"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.producthunt.com/products/minimax-4",
+      "tagline": "",
+      "pub_date": "2026-10-19T05:54:36-07:00"
+    },
+    {
+      "title": "Strawberry 1.0",
+      "url": "https://www.producthunt.com/products/strawberry",
+      "tagline": "",
+      "pub_date": "2026-10-12T09:12:24-07:00"
+    },
+    {
+      "title": "Flipcorder",
+      "url": "https://www.producthunt.com/products/flipcorder",
+      "tagline": "",
+      "pub_date": "2026-10-09T17:08:18-07:00"
+    },
+    {
+      "title": "Knock",
+      "url": "https://www.producthunt.com/products/knock-7",
+      "tagline": "",
+      "pub_date": "2026-10-23T23:07:32-07:00"
+    },
+    {
+      "title": "AllModels",
+      "url": "https://www.producthunt.com/products/allmodels-io",
+      "tagline": "",
+      "pub_date": "2026-10-25T22:15:29-07:00"
+    },
+    {
+      "title": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "tagline": "",
+      "pub_date": "2026-10-25T15:59:42-07:00"
+    },
+    {
+      "title": "Helio",
+      "url": "https://www.producthunt.com/products/helio-7",
+      "tagline": "",
+      "pub_date": "2026-10-18T22:41:25-07:00"
+    },
+    {
+      "title": "Loqui",
+      "url": "https://www.producthunt.com/products/loqui-2",
+      "tagline": "",
+      "pub_date": "2026-10-24T05:53:55-07:00"
+    },
+    {
+      "title": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
+      "tagline": "",
+      "pub_date": "2026-10-25T14:45:54-07:00"
+    },
+    {
+      "title": "omerta",
+      "url": "https://www.producthunt.com/products/omerta",
+      "tagline": "",
+      "pub_date": "2026-10-25T14:11:05-07:00"
+    },
+    {
+      "title": "ManyAgents",
+      "url": "https://www.producthunt.com/products/manyagents",
+      "tagline": "",
+      "pub_date": "2026-10-25T12:55:39-07:00"
+    },
+    {
+      "title": "desigma",
+      "url": "https://www.producthunt.com/products/desigma",
+      "tagline": "",
+      "pub_date": "2026-10-25T12:20:38-07:00"
+    },
+    {
+      "title": "VibeiDE",
+      "url": "https://www.producthunt.com/products/vibeide",
+      "tagline": "",
+      "pub_date": "2026-10-25T14:30:48-07:00"
+    },
+    {
+      "title": "Standfast",
+      "url": "https://www.producthunt.com/products/standfast",
+      "tagline": "",
+      "pub_date": "2026-10-25T19:50:33-07:00"
+    },
+    {
+      "title": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "tagline": "",
+      "pub_date": "2026-10-25T15:53:07-07:00"
+    },
+    {
+      "title": "Mozy",
+      "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
+      "tagline": "",
+      "pub_date": "2026-10-25T09:15:13-07:00"
     },
     {
       "title": "Badgey",
@@ -119,34 +383,10 @@
       "pub_date": "2026-10-08T03:03:51-07:00"
     },
     {
-      "title": "Clips by Plastic",
-      "url": "https://www.producthunt.com/products/clips-by-plastic",
+      "title": "Yourcast 2.0",
+      "url": "https://www.producthunt.com/products/yourcast",
       "tagline": "",
-      "pub_date": "2026-10-17T09:42:43-07:00"
-    },
-    {
-      "title": "MRRaudit",
-      "url": "https://www.producthunt.com/products/mrraudit",
-      "tagline": "",
-      "pub_date": "2026-10-22T04:47:53-07:00"
-    },
-    {
-      "title": "Papermark Data Rooms",
-      "url": "https://www.producthunt.com/products/papermark-2",
-      "tagline": "",
-      "pub_date": "2026-10-24T12:09:46-07:00"
-    },
-    {
-      "title": "pawl",
-      "url": "https://www.producthunt.com/products/pawl",
-      "tagline": "",
-      "pub_date": "2026-10-20T18:23:11-07:00"
-    },
-    {
-      "title": "AgentGrid.io",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
-      "tagline": "",
-      "pub_date": "2026-10-24T22:39:16-07:00"
+      "pub_date": "2026-10-24T07:42:59-07:00"
     },
     {
       "title": "Moli by Lexmount",
@@ -155,136 +395,22 @@
       "pub_date": "2026-10-12T23:39:58-07:00"
     },
     {
-      "title": "Yourcast 2.0",
-      "url": "https://www.producthunt.com/products/yourcast",
+      "title": "Clips by Plastic",
+      "url": "https://www.producthunt.com/products/clips-by-plastic",
       "tagline": "",
-      "pub_date": "2026-10-24T07:42:59-07:00"
+      "pub_date": "2026-10-17T09:42:43-07:00"
     },
     {
-      "title": "git-flow-next",
-      "url": "https://www.producthunt.com/products/tower",
+      "title": "pawl",
+      "url": "https://www.producthunt.com/products/pawl",
       "tagline": "",
-      "pub_date": "2026-10-19T06:39:44-07:00"
+      "pub_date": "2026-10-20T18:23:11-07:00"
     },
     {
-      "title": "Llama Windows",
-      "url": "https://www.producthunt.com/products/llama-windows",
+      "title": "MRRaudit",
+      "url": "https://www.producthunt.com/products/mrraudit",
       "tagline": "",
-      "pub_date": "2026-10-23T19:40:27-07:00"
-    },
-    {
-      "title": "How It Spread",
-      "url": "https://www.producthunt.com/products/how-it-spread",
-      "tagline": "",
-      "pub_date": "2026-10-19T18:40:44-07:00"
-    },
-    {
-      "title": "Openstatus Incident Management",
-      "url": "https://www.producthunt.com/products/openstatus-2",
-      "tagline": "",
-      "pub_date": "2026-10-17T08:11:58-07:00"
-    },
-    {
-      "title": "Byter",
-      "url": "https://www.producthunt.com/products/byter",
-      "tagline": "",
-      "pub_date": "2026-10-21T09:47:39-07:00"
-    },
-    {
-      "title": "Penta",
-      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
-      "tagline": "",
-      "pub_date": "2026-10-21T21:20:49-07:00"
-    },
-    {
-      "title": "Shedi",
-      "url": "https://www.producthunt.com/products/shedi",
-      "tagline": "",
-      "pub_date": "2026-10-20T23:38:11-07:00"
-    },
-    {
-      "title": "AgentValley",
-      "url": "https://www.producthunt.com/products/agentvalley",
-      "tagline": "",
-      "pub_date": "2026-10-20T05:55:46-07:00"
-    },
-    {
-      "title": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "tagline": "",
-      "pub_date": "2026-10-22T11:14:06-07:00"
-    },
-    {
-      "title": "River Writer",
-      "url": "https://www.producthunt.com/products/river-writer",
-      "tagline": "",
-      "pub_date": "2026-10-22T10:23:21-07:00"
-    },
-    {
-      "title": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2",
-      "tagline": "",
-      "pub_date": "2026-10-15T10:34:35-07:00"
-    },
-    {
-      "title": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "tagline": "",
-      "pub_date": "2026-10-23T01:41:59-07:00"
-    },
-    {
-      "title": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "tagline": "",
-      "pub_date": "2026-10-23T06:28:40-07:00"
-    },
-    {
-      "title": "How It Went",
-      "url": "https://www.producthunt.com/products/how-it-went",
-      "tagline": "",
-      "pub_date": "2026-10-17T07:01:02-07:00"
-    },
-    {
-      "title": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
-      "tagline": "",
-      "pub_date": "2026-10-14T14:47:26-07:00"
-    },
-    {
-      "title": "Many Displays",
-      "url": "https://www.producthunt.com/products/many-displays",
-      "tagline": "",
-      "pub_date": "2026-10-14T06:26:54-07:00"
-    },
-    {
-      "title": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "tagline": "",
-      "pub_date": "2026-10-15T08:16:27-07:00"
-    },
-    {
-      "title": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-10-23T10:51:50-07:00"
-    },
-    {
-      "title": "Peras",
-      "url": "https://www.producthunt.com/products/peras",
-      "tagline": "",
-      "pub_date": "2026-10-22T14:38:15-07:00"
-    },
-    {
-      "title": "Truffle",
-      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
-      "tagline": "",
-      "pub_date": "2026-10-22T00:48:52-07:00"
-    },
-    {
-      "title": "Polylane for Cloudflare",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-10-21T09:40:31-07:00"
+      "pub_date": "2026-10-22T04:47:53-07:00"
     }
   ]
 }

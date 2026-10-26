@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-10-25T20:13:04.055Z",
+  "generated_at": "2026-10-26T02:34:33.045Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50224916",
-      "points": 570,
-      "comments": 382,
-      "created_ts": 1792873831,
-      "author": "cloudlandsdev"
-    },
-    {
       "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
       "url": "https://bigwhalehunting.com/workforce/",
       "hn_url": "https://news.ycombinator.com/item?id=50232312",
-      "points": 149,
-      "comments": 46,
+      "points": 167,
+      "comments": 47,
       "created_ts": 1792940739,
       "author": "vfxGer"
     },
@@ -25,8 +16,8 @@
       "title": "Show HN: Farol – A risk map of a pull request for the person who approves it",
       "url": "https://github.com/winnin/farol",
       "hn_url": "https://news.ycombinator.com/item?id=50231349",
-      "points": 56,
-      "comments": 36,
+      "points": 60,
+      "comments": 37,
       "created_ts": 1792934886,
       "author": "ericholiveira"
     },
@@ -40,122 +31,98 @@
       "author": "modern_cmo"
     },
     {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "hn_url": "https://news.ycombinator.com/item?id=50227330",
-      "points": 13,
-      "comments": 7,
-      "created_ts": 1792891813,
-      "author": "Gcarter08"
+      "title": "Show HN: CaseCite – Free RAG caselaw research and document analysis for lawyers",
+      "url": "https://github.com/thomasunise/casecite",
+      "hn_url": "https://news.ycombinator.com/item?id=50235915",
+      "points": 14,
+      "comments": 2,
+      "created_ts": 1792961246,
+      "author": "thomasunise"
     }
   ],
   "hn_front": [
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "hn_url": "https://news.ycombinator.com/item?id=50225695",
-      "points": 699,
-      "comments": 644,
-      "created_ts": 1792878451,
-      "author": "ltratt"
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "hn_url": "https://news.ycombinator.com/item?id=50227356",
-      "points": 334,
-      "comments": 118,
-      "created_ts": 1792892029,
-      "author": "gmays"
-    },
-    {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "hn_url": "https://news.ycombinator.com/item?id=50233779",
-      "points": 248,
-      "comments": 118,
+      "points": 453,
+      "comments": 215,
       "created_ts": 1792948538,
       "author": "sungam"
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "hn_url": "https://news.ycombinator.com/item?id=50233929",
-      "points": 236,
-      "comments": 113,
-      "created_ts": 1792949455,
-      "author": "Tomte"
-    },
-    {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "hn_url": "https://news.ycombinator.com/item?id=50230384",
-      "points": 184,
-      "comments": 64,
-      "created_ts": 1792926552,
-      "author": "tosh"
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "hn_url": "https://news.ycombinator.com/item?id=50234232",
-      "points": 177,
-      "comments": 45,
-      "created_ts": 1792951451,
-      "author": "tdeck"
     },
     {
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50234474",
-      "points": 152,
-      "comments": 24,
+      "points": 406,
+      "comments": 71,
       "created_ts": 1792952634,
       "author": "jumploops"
     },
     {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "hn_url": "https://news.ycombinator.com/item?id=50232312",
-      "points": 149,
-      "comments": 46,
-      "created_ts": 1792940739,
-      "author": "vfxGer"
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "hn_url": "https://news.ycombinator.com/item?id=50234232",
+      "points": 404,
+      "comments": 106,
+      "created_ts": 1792951451,
+      "author": "tdeck"
     },
     {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50233304",
-      "points": 123,
-      "comments": 189,
-      "created_ts": 1792945706,
-      "author": "romanhn"
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "hn_url": "https://news.ycombinator.com/item?id=50233929",
+      "points": 401,
+      "comments": 201,
+      "created_ts": 1792949455,
+      "author": "Tomte"
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=50236102",
+      "points": 166,
+      "comments": 194,
+      "created_ts": 1792962691,
+      "author": "minimaxir"
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50235017",
+      "points": 145,
+      "comments": 54,
+      "created_ts": 1792955491,
+      "author": "jruohonen"
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50231166",
+      "points": 125,
+      "comments": 53,
+      "created_ts": 1792933756,
+      "author": "greenchair"
     }
   ],
   "ph_today": [
     {
-      "title": "Moli by Lexmount",
-      "url": "https://www.producthunt.com/products/lexmount-browser",
+      "title": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
       "tagline": "",
-      "pub_date": "2026-10-12T23:39:58-07:00"
+      "pub_date": "2026-10-18T11:03:42-07:00"
     },
     {
-      "title": "AgentGrid.io",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "title": "Badgey",
+      "url": "https://www.producthunt.com/products/badgey",
       "tagline": "",
-      "pub_date": "2026-10-24T22:39:16-07:00"
+      "pub_date": "2026-10-08T03:03:51-07:00"
     },
     {
-      "title": "Openstatus Incident Management",
-      "url": "https://www.producthunt.com/products/openstatus-2",
+      "title": "Clips by Plastic",
+      "url": "https://www.producthunt.com/products/clips-by-plastic",
       "tagline": "",
-      "pub_date": "2026-10-17T08:11:58-07:00"
-    },
-    {
-      "title": "git-flow-next",
-      "url": "https://www.producthunt.com/products/tower",
-      "tagline": "",
-      "pub_date": "2026-10-19T06:39:44-07:00"
+      "pub_date": "2026-10-17T09:42:43-07:00"
     },
     {
       "title": "MRRaudit",
@@ -176,28 +143,28 @@
       "pub_date": "2026-10-20T18:23:11-07:00"
     },
     {
+      "title": "AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "tagline": "",
+      "pub_date": "2026-10-24T22:39:16-07:00"
+    },
+    {
+      "title": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
+      "tagline": "",
+      "pub_date": "2026-10-12T23:39:58-07:00"
+    },
+    {
       "title": "Yourcast 2.0",
       "url": "https://www.producthunt.com/products/yourcast",
       "tagline": "",
       "pub_date": "2026-10-24T07:42:59-07:00"
     },
     {
-      "title": "Badgey",
-      "url": "https://www.producthunt.com/products/badgey",
+      "title": "git-flow-next",
+      "url": "https://www.producthunt.com/products/tower",
       "tagline": "",
-      "pub_date": "2026-10-08T03:03:51-07:00"
-    },
-    {
-      "title": "Clips by Plastic",
-      "url": "https://www.producthunt.com/products/clips-by-plastic",
-      "tagline": "",
-      "pub_date": "2026-10-17T09:42:43-07:00"
-    },
-    {
-      "title": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
-      "tagline": "",
-      "pub_date": "2026-10-18T11:03:42-07:00"
+      "pub_date": "2026-10-19T06:39:44-07:00"
     },
     {
       "title": "Llama Windows",
@@ -212,58 +179,16 @@
       "pub_date": "2026-10-19T18:40:44-07:00"
     },
     {
-      "title": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
+      "title": "Openstatus Incident Management",
+      "url": "https://www.producthunt.com/products/openstatus-2",
       "tagline": "",
-      "pub_date": "2026-10-14T14:47:26-07:00"
-    },
-    {
-      "title": "River Writer",
-      "url": "https://www.producthunt.com/products/river-writer",
-      "tagline": "",
-      "pub_date": "2026-10-22T10:23:21-07:00"
-    },
-    {
-      "title": "How It Went",
-      "url": "https://www.producthunt.com/products/how-it-went",
-      "tagline": "",
-      "pub_date": "2026-10-17T07:01:02-07:00"
-    },
-    {
-      "title": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-10-23T10:51:50-07:00"
-    },
-    {
-      "title": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2",
-      "tagline": "",
-      "pub_date": "2026-10-15T10:34:35-07:00"
+      "pub_date": "2026-10-17T08:11:58-07:00"
     },
     {
       "title": "Byter",
       "url": "https://www.producthunt.com/products/byter",
       "tagline": "",
       "pub_date": "2026-10-21T09:47:39-07:00"
-    },
-    {
-      "title": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "tagline": "",
-      "pub_date": "2026-10-23T01:41:59-07:00"
-    },
-    {
-      "title": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "tagline": "",
-      "pub_date": "2026-10-15T08:16:27-07:00"
-    },
-    {
-      "title": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "tagline": "",
-      "pub_date": "2026-10-23T06:28:40-07:00"
     },
     {
       "title": "Penta",
@@ -278,16 +203,52 @@
       "pub_date": "2026-10-20T23:38:11-07:00"
     },
     {
+      "title": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
+      "tagline": "",
+      "pub_date": "2026-10-20T05:55:46-07:00"
+    },
+    {
       "title": "1Password for Agents",
       "url": "https://www.producthunt.com/products/1password",
       "tagline": "",
       "pub_date": "2026-10-22T11:14:06-07:00"
     },
     {
-      "title": "AgentValley",
-      "url": "https://www.producthunt.com/products/agentvalley",
+      "title": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
       "tagline": "",
-      "pub_date": "2026-10-20T05:55:46-07:00"
+      "pub_date": "2026-10-22T10:23:21-07:00"
+    },
+    {
+      "title": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
+      "tagline": "",
+      "pub_date": "2026-10-15T10:34:35-07:00"
+    },
+    {
+      "title": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "tagline": "",
+      "pub_date": "2026-10-23T01:41:59-07:00"
+    },
+    {
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "tagline": "",
+      "pub_date": "2026-10-23T06:28:40-07:00"
+    },
+    {
+      "title": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
+      "tagline": "",
+      "pub_date": "2026-10-17T07:01:02-07:00"
+    },
+    {
+      "title": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "tagline": "",
+      "pub_date": "2026-10-14T14:47:26-07:00"
     },
     {
       "title": "Many Displays",
@@ -296,22 +257,34 @@
       "pub_date": "2026-10-14T06:26:54-07:00"
     },
     {
-      "title": "Dots Phone",
-      "url": "https://www.producthunt.com/products/dots-phone",
+      "title": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
       "tagline": "",
-      "pub_date": "2026-10-20T17:32:17-07:00"
+      "pub_date": "2026-10-15T08:16:27-07:00"
     },
     {
-      "title": "Dub Startup Program",
-      "url": "https://www.producthunt.com/products/dub",
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-10-20T03:46:27-07:00"
+      "pub_date": "2026-10-23T10:51:50-07:00"
     },
     {
-      "title": "Headroom",
-      "url": "https://www.producthunt.com/products/headroom-5",
+      "title": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
       "tagline": "",
-      "pub_date": "2026-10-13T00:06:46-07:00"
+      "pub_date": "2026-10-22T14:38:15-07:00"
+    },
+    {
+      "title": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "tagline": "",
+      "pub_date": "2026-10-22T00:48:52-07:00"
+    },
+    {
+      "title": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-10-21T09:40:31-07:00"
     }
   ]
 }

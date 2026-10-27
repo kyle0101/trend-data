@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-10-27T11:20:56.767Z",
+  "generated_at": "2026-10-27T17:08:33.008Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
-    {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "hn_url": "https://news.ycombinator.com/item?id=50246238",
-      "points": 148,
-      "comments": 33,
-      "created_ts": 1793031149,
-      "author": "pancomplex"
-    },
     {
       "title": "Show HN: Wraps – Resend-style email on your own AWS SES, open source",
       "url": "https://wraps.dev",
@@ -20,6 +11,15 @@
       "comments": 1,
       "created_ts": 1793041593,
       "author": "stewartjarod"
+    },
+    {
+      "title": "Show HN: Cryo – A language whose programs live forever",
+      "url": "https://play.endothermic.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261093",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1793116139,
+      "author": "zwad3"
     },
     {
       "title": "Show HN: Hatamoto batteries-included CMS in Go",
@@ -33,135 +33,126 @@
   ],
   "hn_front": [
     {
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "hn_url": "https://news.ycombinator.com/item?id=50242939",
-      "points": 1624,
-      "comments": 1553,
-      "created_ts": 1793019890,
-      "author": "SiNTEx"
-    },
-    {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "hn_url": "https://news.ycombinator.com/item?id=50251344",
-      "points": 946,
-      "comments": 473,
-      "created_ts": 1793050528,
-      "author": "jonluca"
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "hn_url": "https://news.ycombinator.com/item?id=50245138",
-      "points": 723,
-      "comments": 101,
-      "created_ts": 1793027519,
-      "author": "sgiannopoulos"
-    },
-    {
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=50251661",
-      "points": 648,
-      "comments": 240,
+      "points": 755,
+      "comments": 271,
       "created_ts": 1793051955,
       "author": "vok"
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "hn_url": "https://news.ycombinator.com/item?id=50245831",
-      "points": 490,
-      "comments": 106,
-      "created_ts": 1793029883,
-      "author": "edent"
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "hn_url": "https://news.ycombinator.com/item?id=50248055",
-      "points": 449,
-      "comments": 259,
-      "created_ts": 1793037415,
-      "author": "enlyth"
-    },
-    {
-      "title": "Solar power is becoming bigger than nuclear",
-      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-      "hn_url": "https://news.ycombinator.com/item?id=50245385",
-      "points": 353,
-      "comments": 521,
-      "created_ts": 1793028377,
-      "author": "geox"
-    },
-    {
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "hn_url": "https://news.ycombinator.com/item?id=50248371",
-      "points": 248,
-      "comments": 166,
-      "created_ts": 1793038489,
-      "author": "adamnemecek"
-    },
-    {
-      "title": "New iPad mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "hn_url": "https://news.ycombinator.com/item?id=50243061",
-      "points": 214,
-      "comments": 526,
-      "created_ts": 1793020416,
-      "author": "soheilpro"
-    },
-    {
-      "title": "Nietzschian Debugger",
-      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "hn_url": "https://news.ycombinator.com/item?id=50247493",
-      "points": 185,
-      "comments": 53,
-      "created_ts": 1793035530,
-      "author": "dilawargopang"
-    },
-    {
-      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50247928",
-      "points": 181,
-      "comments": 83,
-      "created_ts": 1793036995,
-      "author": "aray07"
     },
     {
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50255298",
-      "points": 178,
-      "comments": 129,
+      "points": 358,
+      "comments": 236,
       "created_ts": 1793082337,
       "author": "ilreb"
     },
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "hn_url": "https://news.ycombinator.com/item?id=50252159",
-      "points": 142,
-      "comments": 46,
-      "created_ts": 1793054508,
-      "author": "wondersky"
+      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "hn_url": "https://news.ycombinator.com/item?id=50259604",
+      "points": 347,
+      "comments": 97,
+      "created_ts": 1793110002,
+      "author": "helterskelter2"
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "hn_url": "https://news.ycombinator.com/item?id=50257419",
+      "points": 298,
+      "comments": 153,
+      "created_ts": 1793099877,
+      "author": "f311a"
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "hn_url": "https://news.ycombinator.com/item?id=50257326",
+      "points": 282,
+      "comments": 126,
+      "created_ts": 1793099295,
+      "author": "rbanffy"
+    },
+    {
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "hn_url": "https://news.ycombinator.com/item?id=50257548",
+      "points": 230,
+      "comments": 189,
+      "created_ts": 1793100635,
+      "author": "jakevoytko"
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319",
+      "points": 182,
+      "comments": 91,
+      "created_ts": 1793117161,
+      "author": "acossta"
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "hn_url": "https://news.ycombinator.com/item?id=50258538",
+      "points": 166,
+      "comments": 160,
+      "created_ts": 1793106122,
+      "author": "notfried"
+    },
+    {
+      "title": "Is my data used for model training?",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "hn_url": "https://news.ycombinator.com/item?id=50259406",
+      "points": 163,
+      "comments": 75,
+      "created_ts": 1793109375,
+      "author": "jonpizza"
+    },
+    {
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "hn_url": "https://news.ycombinator.com/item?id=50259343",
+      "points": 148,
+      "comments": 50,
+      "created_ts": 1793109132,
+      "author": "acossta"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "hn_url": "https://news.ycombinator.com/item?id=50258521",
+      "points": 132,
+      "comments": 144,
+      "created_ts": 1793106067,
+      "author": "meetpateltech"
+    },
+    {
+      "title": "Gforth 1.0",
+      "url": "https://gforth.org/manual/1.0/NEWS.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50256952",
+      "points": 115,
+      "comments": 6,
+      "created_ts": 1793096601,
+      "author": "joshcsimmons"
     }
   ],
   "ph_today": [
     {
-      "title": "Spacesheep",
-      "url": "https://www.producthunt.com/products/spacesheep",
+      "title": "OpenRadView",
+      "url": "https://www.producthunt.com/products/openradview",
       "tagline": "",
-      "pub_date": "2026-10-22T21:03:25-07:00"
+      "pub_date": "2026-10-26T10:57:31-07:00"
     },
     {
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
+      "title": "GPT-6.1 Terra",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-10-26T21:48:43-07:00"
+      "pub_date": "2026-10-26T16:33:48-07:00"
     },
     {
       "title": "Nuvio 5.0",
@@ -170,52 +161,16 @@
       "pub_date": "2026-10-26T13:06:22-07:00"
     },
     {
-      "title": "TheySaid 4.0",
-      "url": "https://www.producthunt.com/products/theysaid",
+      "title": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3",
       "tagline": "",
-      "pub_date": "2026-10-16T10:22:22-07:00"
+      "pub_date": "2026-09-12T09:45:52-07:00"
     },
     {
-      "title": "Coachare",
-      "url": "https://www.producthunt.com/products/coachare",
+      "title": "ContextGem 1.0",
+      "url": "https://www.producthunt.com/products/contextgem",
       "tagline": "",
-      "pub_date": "2026-10-20T06:39:05-07:00"
-    },
-    {
-      "title": "Orbit",
-      "url": "https://www.producthunt.com/products/orbit-app-blocker",
-      "tagline": "",
-      "pub_date": "2026-10-14T07:54:42-07:00"
-    },
-    {
-      "title": "Overmind",
-      "url": "https://www.producthunt.com/products/overmind-2",
-      "tagline": "",
-      "pub_date": "2026-10-06T06:56:18-07:00"
-    },
-    {
-      "title": "NuPlay",
-      "url": "https://www.producthunt.com/products/nuplay",
-      "tagline": "",
-      "pub_date": "2026-10-22T07:16:30-07:00"
-    },
-    {
-      "title": "NINX",
-      "url": "https://www.producthunt.com/products/ninx-2",
-      "tagline": "",
-      "pub_date": "2026-07-21T12:34:05-07:00"
-    },
-    {
-      "title": "OpenRadView",
-      "url": "https://www.producthunt.com/products/openradview",
-      "tagline": "",
-      "pub_date": "2026-10-26T10:57:31-07:00"
-    },
-    {
-      "title": "Revix AI",
-      "url": "https://www.producthunt.com/products/revix-ai-2",
-      "tagline": "",
-      "pub_date": "2026-10-26T14:29:10-07:00"
+      "pub_date": "2026-10-26T21:48:43-07:00"
     },
     {
       "title": "PulseDev",
@@ -224,40 +179,40 @@
       "pub_date": "2026-10-26T15:47:46-07:00"
     },
     {
+      "title": "TheySaid 4.0",
+      "url": "https://www.producthunt.com/products/theysaid",
+      "tagline": "",
+      "pub_date": "2026-10-16T10:22:22-07:00"
+    },
+    {
+      "title": "Overmind",
+      "url": "https://www.producthunt.com/products/overmind-2",
+      "tagline": "",
+      "pub_date": "2026-10-06T06:56:18-07:00"
+    },
+    {
+      "title": "NINX",
+      "url": "https://www.producthunt.com/products/ninx-2",
+      "tagline": "",
+      "pub_date": "2026-07-21T12:34:05-07:00"
+    },
+    {
       "title": "Off Grid AI",
       "url": "https://www.producthunt.com/products/off-grid-ai",
       "tagline": "",
       "pub_date": "2026-10-26T05:12:10-07:00"
     },
     {
-      "title": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
+      "title": "Coachare",
+      "url": "https://www.producthunt.com/products/coachare",
       "tagline": "",
-      "pub_date": "2026-09-12T09:45:52-07:00"
+      "pub_date": "2026-10-20T06:39:05-07:00"
     },
     {
-      "title": "Paddock",
-      "url": "https://www.producthunt.com/products/paddock-2",
+      "title": "NuPlay",
+      "url": "https://www.producthunt.com/products/nuplay",
       "tagline": "",
-      "pub_date": "2026-10-26T19:46:50-07:00"
-    },
-    {
-      "title": "Notra",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "tagline": "",
-      "pub_date": "2026-10-23T13:02:20-07:00"
-    },
-    {
-      "title": "Arcade Controller Pro",
-      "url": "https://www.producthunt.com/products/bluetooth-snes-controller",
-      "tagline": "",
-      "pub_date": "2026-10-26T07:01:45-07:00"
-    },
-    {
-      "title": "iPad mini 8",
-      "url": "https://www.producthunt.com/products/apple",
-      "tagline": "",
-      "pub_date": "2026-10-26T07:59:19-07:00"
+      "pub_date": "2026-10-22T07:16:30-07:00"
     },
     {
       "title": "fswitcher",
@@ -266,16 +221,70 @@
       "pub_date": "2026-10-26T13:26:31-07:00"
     },
     {
-      "title": "AVP",
-      "url": "https://www.producthunt.com/products/avp",
+      "title": "Arcade Controller Pro",
+      "url": "https://www.producthunt.com/products/bluetooth-snes-controller",
       "tagline": "",
-      "pub_date": "2026-10-25T15:53:07-07:00"
+      "pub_date": "2026-10-26T07:01:45-07:00"
     },
     {
-      "title": "Loqui",
-      "url": "https://www.producthunt.com/products/loqui-2",
+      "title": "Spacesheep",
+      "url": "https://www.producthunt.com/products/spacesheep",
       "tagline": "",
-      "pub_date": "2026-10-24T05:53:55-07:00"
+      "pub_date": "2026-10-22T21:03:25-07:00"
+    },
+    {
+      "title": "Notra",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "tagline": "",
+      "pub_date": "2026-10-23T13:02:20-07:00"
+    },
+    {
+      "title": "Orbit",
+      "url": "https://www.producthunt.com/products/orbit-app-blocker",
+      "tagline": "",
+      "pub_date": "2026-10-14T07:54:42-07:00"
+    },
+    {
+      "title": "Revix AI",
+      "url": "https://www.producthunt.com/products/revix-ai-2",
+      "tagline": "",
+      "pub_date": "2026-10-26T14:29:10-07:00"
+    },
+    {
+      "title": "iPad mini 8",
+      "url": "https://www.producthunt.com/products/apple",
+      "tagline": "",
+      "pub_date": "2026-10-26T07:59:19-07:00"
+    },
+    {
+      "title": "Paddock",
+      "url": "https://www.producthunt.com/products/paddock-2",
+      "tagline": "",
+      "pub_date": "2026-10-26T19:46:50-07:00"
+    },
+    {
+      "title": "VibeiDE",
+      "url": "https://www.producthunt.com/products/vibeide",
+      "tagline": "",
+      "pub_date": "2026-10-25T14:30:48-07:00"
+    },
+    {
+      "title": "2G",
+      "url": "https://www.producthunt.com/products/2g",
+      "tagline": "",
+      "pub_date": "2026-10-24T12:44:28-07:00"
+    },
+    {
+      "title": "Kiwi",
+      "url": "https://www.producthunt.com/products/kiwi-7",
+      "tagline": "",
+      "pub_date": "2026-10-24T16:19:29-07:00"
+    },
+    {
+      "title": "desigma",
+      "url": "https://www.producthunt.com/products/desigma",
+      "tagline": "",
+      "pub_date": "2026-10-25T12:20:38-07:00"
     },
     {
       "title": "Strawberry 1.0",
@@ -284,10 +293,10 @@
       "pub_date": "2026-10-12T09:12:24-07:00"
     },
     {
-      "title": "Flipcorder",
-      "url": "https://www.producthunt.com/products/flipcorder",
+      "title": "tabsh",
+      "url": "https://www.producthunt.com/products/tabsh",
       "tagline": "",
-      "pub_date": "2026-10-09T17:08:18-07:00"
+      "pub_date": "2026-10-25T02:18:55-07:00"
     },
     {
       "title": "Helio",
@@ -296,40 +305,22 @@
       "pub_date": "2026-10-18T22:41:25-07:00"
     },
     {
-      "title": "ManyAgents",
-      "url": "https://www.producthunt.com/products/manyagents",
+      "title": "AI Bridge",
+      "url": "https://www.producthunt.com/products/ai-bridge",
       "tagline": "",
-      "pub_date": "2026-10-25T12:55:39-07:00"
+      "pub_date": "2026-10-21T01:10:28-07:00"
     },
     {
-      "title": "Standfast",
-      "url": "https://www.producthunt.com/products/standfast",
+      "title": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
       "tagline": "",
-      "pub_date": "2026-10-25T19:50:33-07:00"
+      "pub_date": "2026-10-25T14:45:54-07:00"
     },
     {
-      "title": "tabsh",
-      "url": "https://www.producthunt.com/products/tabsh",
+      "title": "Knock",
+      "url": "https://www.producthunt.com/products/knock-7",
       "tagline": "",
-      "pub_date": "2026-10-25T02:18:55-07:00"
-    },
-    {
-      "title": "Mozy",
-      "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
-      "tagline": "",
-      "pub_date": "2026-10-25T09:15:13-07:00"
-    },
-    {
-      "title": "Jobmate AI",
-      "url": "https://www.producthunt.com/products/jobmate-ai-3",
-      "tagline": "",
-      "pub_date": "2026-10-25T15:59:42-07:00"
-    },
-    {
-      "title": "CloudKnife",
-      "url": "https://www.producthunt.com/products/cloudknife",
-      "tagline": "",
-      "pub_date": "2026-10-19T00:32:37-07:00"
+      "pub_date": "2026-10-23T23:07:32-07:00"
     }
   ]
 }

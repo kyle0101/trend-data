@@ -1,161 +1,275 @@
 {
-  "generated_at": "2026-10-28T11:54:52.644Z",
+  "generated_at": "2026-10-28T17:43:56.920Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50260571",
-      "points": 31,
-      "comments": 28,
-      "created_ts": 1793113940,
-      "author": "hleichsenring"
+      "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
+      "url": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=50273201",
+      "points": 20,
+      "comments": 16,
+      "created_ts": 1793194112,
+      "author": "Nasser-13"
     },
     {
       "title": "Show HN: A Lego-like composable Framework for RSI",
       "url": "https://rsi-gear.github.io/",
       "hn_url": "https://news.ycombinator.com/item?id=50270229",
-      "points": 15,
+      "points": 18,
       "comments": 0,
       "created_ts": 1793172308,
       "author": "ethan1998"
-    },
-    {
-      "title": "Show HN: Cryo – A language whose programs live forever",
-      "url": "https://play.endothermic.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50261093",
-      "points": 12,
-      "comments": 0,
-      "created_ts": 1793116139,
-      "author": "zwad3"
     }
   ],
   "hn_front": [
     {
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "hn_url": "https://news.ycombinator.com/item?id=50261998",
-      "points": 1080,
-      "comments": 343,
-      "created_ts": 1793119882,
-      "author": "deaux"
-    },
-    {
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "hn_url": "https://news.ycombinator.com/item?id=50259604",
-      "points": 962,
-      "comments": 366,
-      "created_ts": 1793110002,
-      "author": "helterskelter2"
-    },
-    {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "hn_url": "https://news.ycombinator.com/item?id=50261319",
-      "points": 918,
-      "comments": 532,
-      "created_ts": 1793117161,
-      "author": "acossta"
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50271640",
+      "points": 808,
+      "comments": 316,
+      "created_ts": 1793185420,
+      "author": "galadran"
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
       "hn_url": "https://news.ycombinator.com/item?id=50264853",
-      "points": 384,
-      "comments": 147,
+      "points": 481,
+      "comments": 175,
       "created_ts": 1793130906,
       "author": "Luc"
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "hn_url": "https://news.ycombinator.com/item?id=50261352",
-      "points": 377,
-      "comments": 516,
-      "created_ts": 1793117312,
-      "author": "beex"
-    },
-    {
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "hn_url": "https://news.ycombinator.com/item?id=50258538",
-      "points": 343,
-      "comments": 431,
-      "created_ts": 1793106122,
-      "author": "notfried"
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "hn_url": "https://news.ycombinator.com/item?id=50264857",
-      "points": 301,
-      "comments": 161,
-      "created_ts": 1793130921,
-      "author": "figmert"
     },
     {
       "title": "Git for the US Code",
       "url": "https://lexifina.com/blog/git-for-the-us-code",
       "hn_url": "https://news.ycombinator.com/item?id=50268380",
-      "points": 301,
-      "comments": 145,
+      "points": 381,
+      "comments": 201,
       "created_ts": 1793152070,
       "author": "alansaber"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50264857",
+      "points": 347,
+      "comments": 179,
+      "created_ts": 1793130921,
+      "author": "figmert"
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "hn_url": "https://news.ycombinator.com/item?id=50265609",
-      "points": 242,
-      "comments": 238,
+      "points": 298,
+      "comments": 290,
       "created_ts": 1793134242,
       "author": "dataking"
     },
     {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50261647",
-      "points": 216,
-      "comments": 67,
-      "created_ts": 1793118542,
-      "author": "pfdietz"
-    },
-    {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "hn_url": "https://news.ycombinator.com/item?id=50265594",
-      "points": 175,
-      "comments": 98,
-      "created_ts": 1793134129,
-      "author": "sthlmb"
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50273396",
+      "points": 266,
+      "comments": 315,
+      "created_ts": 1793194890,
+      "author": "danso"
     },
     {
       "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "hn_url": "https://news.ycombinator.com/item?id=50265393",
-      "points": 167,
-      "comments": 98,
+      "points": 266,
+      "comments": 163,
       "created_ts": 1793133309,
       "author": "DamnInteresting"
     },
     {
-      "title": "Four Months of Zig",
-      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "hn_url": "https://news.ycombinator.com/item?id=50265128",
-      "points": 141,
-      "comments": 93,
-      "created_ts": 1793132007,
-      "author": "ibobev"
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "hn_url": "https://news.ycombinator.com/item?id=50273171",
+      "points": 234,
+      "comments": 97,
+      "created_ts": 1793193911,
+      "author": "internet_points"
+    },
+    {
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "hn_url": "https://news.ycombinator.com/item?id=50274409",
+      "points": 211,
+      "comments": 69,
+      "created_ts": 1793198302,
+      "author": "bschne"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "hn_url": "https://news.ycombinator.com/item?id=50276792",
+      "points": 205,
+      "comments": 129,
+      "created_ts": 1793206883,
+      "author": "acossta"
+    },
+    {
+      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "hn_url": "https://news.ycombinator.com/item?id=50272145",
+      "points": 178,
+      "comments": 87,
+      "created_ts": 1793188463,
+      "author": "noptd"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "hn_url": "https://news.ycombinator.com/item?id=50276940",
+      "points": 119,
+      "comments": 160,
+      "created_ts": 1793207437,
+      "author": "etothet"
     }
   ],
   "ph_today": [
+    {
+      "title": "Zro: Uncensored Security Models",
+      "url": "https://www.producthunt.com/products/zro",
+      "tagline": "",
+      "pub_date": "2026-10-11T02:32:19-07:00"
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "tagline": "",
+      "pub_date": "2026-10-27T09:08:37-07:00"
+    },
+    {
+      "title": "Congress Trades",
+      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "tagline": "",
+      "pub_date": "2026-10-27T13:23:42-07:00"
+    },
+    {
+      "title": "Tulu",
+      "url": "https://www.producthunt.com/products/tulu",
+      "tagline": "",
+      "pub_date": "2026-07-19T08:47:40-07:00"
+    },
+    {
+      "title": "bytemail",
+      "url": "https://www.producthunt.com/products/bytemail",
+      "tagline": "",
+      "pub_date": "2026-10-21T03:38:17-07:00"
+    },
+    {
+      "title": "AirPosture",
+      "url": "https://www.producthunt.com/products/airposture-2",
+      "tagline": "",
+      "pub_date": "2026-10-24T09:16:51-07:00"
+    },
+    {
+      "title": "throxy",
+      "url": "https://www.producthunt.com/products/throxy-yc-p25",
+      "tagline": "",
+      "pub_date": "2026-10-26T12:23:12-07:00"
+    },
+    {
+      "title": "OneDeploy",
+      "url": "https://www.producthunt.com/products/onedeploy",
+      "tagline": "",
+      "pub_date": "2026-10-27T08:57:20-07:00"
+    },
+    {
+      "title": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "tagline": "",
+      "pub_date": "2026-10-23T07:44:56-07:00"
+    },
     {
       "title": "BotGauge",
       "url": "https://www.producthunt.com/products/botgauge-2",
       "tagline": "",
       "pub_date": "2026-10-15T11:04:55-07:00"
+    },
+    {
+      "title": "Mudroom",
+      "url": "https://www.producthunt.com/products/mudroom-3",
+      "tagline": "",
+      "pub_date": "2026-10-12T12:30:09-07:00"
+    },
+    {
+      "title": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "tagline": "",
+      "pub_date": "2026-10-27T17:45:35-07:00"
+    },
+    {
+      "title": "Trigger.dev: Webhooks for your AI agents",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "tagline": "",
+      "pub_date": "2026-10-16T02:30:22-07:00"
+    },
+    {
+      "title": "App Store Screenshots",
+      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "tagline": "",
+      "pub_date": "2026-10-04T00:57:55-07:00"
+    },
+    {
+      "title": "RageLayer",
+      "url": "https://www.producthunt.com/products/ragelayer",
+      "tagline": "",
+      "pub_date": "2026-10-04T00:59:54-07:00"
+    },
+    {
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "tagline": "",
+      "pub_date": "2026-10-27T23:14:57-07:00"
+    },
+    {
+      "title": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "tagline": "",
+      "pub_date": "2026-10-27T23:46:15-07:00"
+    },
+    {
+      "title": "Our Silly Games",
+      "url": "https://www.producthunt.com/products/our-silly-games",
+      "tagline": "",
+      "pub_date": "2026-10-27T09:11:14-07:00"
+    },
+    {
+      "title": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "tagline": "",
+      "pub_date": "2026-10-27T10:20:52-07:00"
+    },
+    {
+      "title": "Trellis",
+      "url": "https://www.producthunt.com/products/trellis-4",
+      "tagline": "",
+      "pub_date": "2026-10-23T11:39:17-07:00"
+    },
+    {
+      "title": "Hob",
+      "url": "https://www.producthunt.com/products/hob-3",
+      "tagline": "",
+      "pub_date": "2026-10-26T09:38:07-07:00"
+    },
+    {
+      "title": "Open For sales",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "tagline": "",
+      "pub_date": "2026-10-27T08:27:12-07:00"
+    },
+    {
+      "title": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "tagline": "",
+      "pub_date": "2026-10-27T11:33:40-07:00"
     },
     {
       "title": "TONKO",
@@ -170,46 +284,10 @@
       "pub_date": "2026-10-27T19:28:19-07:00"
     },
     {
-      "title": "AirPosture",
-      "url": "https://www.producthunt.com/products/airposture-2",
+      "title": "Yardlet",
+      "url": "https://www.producthunt.com/products/yardlet-2",
       "tagline": "",
-      "pub_date": "2026-10-24T09:16:51-07:00"
-    },
-    {
-      "title": "NotiKeep",
-      "url": "https://www.producthunt.com/products/notikeep",
-      "tagline": "",
-      "pub_date": "2026-10-27T09:02:40-07:00"
-    },
-    {
-      "title": "Dedica",
-      "url": "https://www.producthunt.com/products/dedica",
-      "tagline": "",
-      "pub_date": "2026-10-27T17:45:35-07:00"
-    },
-    {
-      "title": "throxy (yc p25)",
-      "url": "https://www.producthunt.com/products/throxy-yc-p25",
-      "tagline": "",
-      "pub_date": "2026-10-26T12:23:12-07:00"
-    },
-    {
-      "title": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "tagline": "",
-      "pub_date": "2026-10-26T09:38:07-07:00"
-    },
-    {
-      "title": "LFM3 by Liquid AI",
-      "url": "https://www.producthunt.com/products/lfm2",
-      "tagline": "",
-      "pub_date": "2026-10-27T10:20:52-07:00"
-    },
-    {
-      "title": "Trigger.dev: Webhooks for your AI agents",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "tagline": "",
-      "pub_date": "2026-10-16T02:30:22-07:00"
+      "pub_date": "2026-10-27T02:15:28-07:00"
     },
     {
       "title": "Agent Handshake by Fini",
@@ -218,88 +296,10 @@
       "pub_date": "2026-10-26T09:08:44-07:00"
     },
     {
-      "title": "Tulu",
-      "url": "https://www.producthunt.com/products/tulu",
-      "tagline": "",
-      "pub_date": "2026-07-19T08:47:40-07:00"
-    },
-    {
-      "title": "Genie 4",
-      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
-      "tagline": "",
-      "pub_date": "2026-10-27T09:08:37-07:00"
-    },
-    {
-      "title": "bytemail",
-      "url": "https://www.producthunt.com/products/bytemail",
-      "tagline": "",
-      "pub_date": "2026-10-21T03:38:17-07:00"
-    },
-    {
       "title": "Basedash View-only members",
       "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
       "pub_date": "2026-10-27T14:26:34-07:00"
-    },
-    {
-      "title": "OneDeploy",
-      "url": "https://www.producthunt.com/products/onedeploy",
-      "tagline": "",
-      "pub_date": "2026-10-27T08:57:20-07:00"
-    },
-    {
-      "title": "OpenLLM",
-      "url": "https://www.producthunt.com/products/openllm",
-      "tagline": "",
-      "pub_date": "2026-10-27T23:14:57-07:00"
-    },
-    {
-      "title": "Congress Trades",
-      "url": "https://www.producthunt.com/products/alpha-vantage",
-      "tagline": "",
-      "pub_date": "2026-10-27T13:23:42-07:00"
-    },
-    {
-      "title": "App Store Screenshots",
-      "url": "https://www.producthunt.com/products/app-store-screenshots",
-      "tagline": "",
-      "pub_date": "2026-10-04T00:57:55-07:00"
-    },
-    {
-      "title": "Open For sales",
-      "url": "https://www.producthunt.com/products/open-for-sales",
-      "tagline": "",
-      "pub_date": "2026-10-27T08:27:12-07:00"
-    },
-    {
-      "title": "RageLayer",
-      "url": "https://www.producthunt.com/products/ragelayer",
-      "tagline": "",
-      "pub_date": "2026-10-04T00:59:54-07:00"
-    },
-    {
-      "title": "Zro: Uncensored Security Models",
-      "url": "https://www.producthunt.com/products/zro",
-      "tagline": "",
-      "pub_date": "2026-10-11T02:32:19-07:00"
-    },
-    {
-      "title": "Yardlet",
-      "url": "https://www.producthunt.com/products/yardlet-2",
-      "tagline": "",
-      "pub_date": "2026-10-27T02:15:28-07:00"
-    },
-    {
-      "title": "Fraud Blocker",
-      "url": "https://www.producthunt.com/products/fraud-blocker",
-      "tagline": "",
-      "pub_date": "2026-10-23T07:44:56-07:00"
-    },
-    {
-      "title": "Trellis",
-      "url": "https://www.producthunt.com/products/trellis-4",
-      "tagline": "",
-      "pub_date": "2026-10-23T11:39:17-07:00"
     },
     {
       "title": "Zest",
@@ -308,28 +308,10 @@
       "pub_date": "2026-10-25T04:30:16-07:00"
     },
     {
-      "title": "Boltbar",
-      "url": "https://www.producthunt.com/products/boltbar",
+      "title": "NotiKeep",
+      "url": "https://www.producthunt.com/products/notikeep",
       "tagline": "",
-      "pub_date": "2026-10-27T11:33:40-07:00"
-    },
-    {
-      "title": "Mudroom",
-      "url": "https://www.producthunt.com/products/mudroom-3",
-      "tagline": "",
-      "pub_date": "2026-10-12T12:30:09-07:00"
-    },
-    {
-      "title": "Our Silly Games",
-      "url": "https://www.producthunt.com/products/our-silly-games",
-      "tagline": "",
-      "pub_date": "2026-10-27T09:11:14-07:00"
-    },
-    {
-      "title": "WebAI by Opera",
-      "url": "https://www.producthunt.com/products/opera",
-      "tagline": "",
-      "pub_date": "2026-10-27T23:46:15-07:00"
+      "pub_date": "2026-10-27T09:02:40-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:39:40.344Z",
+  "generated_at": "2026-10-28T03:22:50.885Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Specification First Agentic Development Plugin and Prove",
       "url": "https://spec-first.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50260571",
-      "points": 25,
-      "comments": 14,
+      "points": 28,
+      "comments": 18,
       "created_ts": 1793113940,
       "author": "hleichsenring"
     },
@@ -36,71 +36,44 @@
       "title": "US Government is hiding a secret court ruling about how it spies on Americans",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
       "hn_url": "https://news.ycombinator.com/item?id=50259604",
-      "points": 658,
-      "comments": 231,
+      "points": 827,
+      "comments": 297,
       "created_ts": 1793110002,
       "author": "helterskelter2"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998",
+      "points": 820,
+      "comments": 246,
+      "created_ts": 1793119882,
+      "author": "deaux"
     },
     {
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "hn_url": "https://news.ycombinator.com/item?id=50261319",
-      "points": 569,
-      "comments": 341,
+      "points": 774,
+      "comments": 469,
       "created_ts": 1793117161,
       "author": "acossta"
-    },
-    {
-      "title": "Ghostty 1.4.0",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "hn_url": "https://news.ycombinator.com/item?id=50261998",
-      "points": 514,
-      "comments": 152,
-      "created_ts": 1793119882,
-      "author": "deaux"
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "hn_url": "https://news.ycombinator.com/item?id=50257326",
-      "points": 403,
-      "comments": 182,
-      "created_ts": 1793099295,
-      "author": "rbanffy"
     },
     {
       "title": "Python's experimental JIT to be removed",
       "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
       "hn_url": "https://news.ycombinator.com/item?id=50257419",
-      "points": 394,
-      "comments": 205,
+      "points": 459,
+      "comments": 247,
       "created_ts": 1793099877,
       "author": "f311a"
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "hn_url": "https://news.ycombinator.com/item?id=50260814",
-      "points": 357,
-      "comments": 191,
-      "created_ts": 1793114906,
-      "author": "car"
-    },
-    {
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "hn_url": "https://news.ycombinator.com/item?id=50261819",
-      "points": 295,
-      "comments": 227,
-      "created_ts": 1793119215,
-      "author": "gumby"
     },
     {
       "title": "New iMac with M6",
       "url": "https://www.apple.com/imac/",
       "hn_url": "https://news.ycombinator.com/item?id=50258538",
-      "points": 267,
-      "comments": 321,
+      "points": 317,
+      "comments": 387,
       "created_ts": 1793106122,
       "author": "notfried"
     },
@@ -108,55 +81,64 @@
       "title": "New 14‑inch MacBook Pro with M6",
       "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "hn_url": "https://news.ycombinator.com/item?id=50261352",
-      "points": 204,
-      "comments": 237,
+      "points": 298,
+      "comments": 382,
       "created_ts": 1793117312,
       "author": "beex"
     },
     {
-      "title": "PHP2Shell: Exploitation attempts and remediation trends",
-      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "hn_url": "https://news.ycombinator.com/item?id=50259343",
-      "points": 174,
-      "comments": 56,
-      "created_ts": 1793109132,
-      "author": "acossta"
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "hn_url": "https://news.ycombinator.com/item?id=50264857",
+      "points": 218,
+      "comments": 114,
+      "created_ts": 1793130921,
+      "author": "figmert"
     },
     {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "hn_url": "https://news.ycombinator.com/item?id=50261589",
-      "points": 158,
-      "comments": 75,
-      "created_ts": 1793118330,
-      "author": "dpflan"
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "hn_url": "https://news.ycombinator.com/item?id=50264853",
+      "points": 216,
+      "comments": 112,
+      "created_ts": 1793130906,
+      "author": "Luc"
     },
     {
       "title": "Classification of Finite Simple Groups Formalized in Lean",
       "url": "https://cfsg.axiommath.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50261647",
-      "points": 135,
-      "comments": 30,
+      "points": 178,
+      "comments": 45,
       "created_ts": 1793118542,
       "author": "pfdietz"
     },
     {
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "hn_url": "https://news.ycombinator.com/item?id=50263854",
-      "points": 131,
-      "comments": 91,
-      "created_ts": 1793126657,
-      "author": "DeepLogin"
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "hn_url": "https://news.ycombinator.com/item?id=50265609",
+      "points": 154,
+      "comments": 141,
+      "created_ts": 1793134242,
+      "author": "dataking"
     },
     {
-      "title": "Here be monsters: What do you still need to know when agents do the work?",
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "hn_url": "https://news.ycombinator.com/item?id=50258868",
-      "points": 130,
-      "comments": 63,
-      "created_ts": 1793107402,
-      "author": "adrq"
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "hn_url": "https://news.ycombinator.com/item?id=50262229",
+      "points": 127,
+      "comments": 51,
+      "created_ts": 1793120690,
+      "author": "Philpax"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "hn_url": "https://news.ycombinator.com/item?id=50265594",
+      "points": 113,
+      "comments": 45,
+      "created_ts": 1793134129,
+      "author": "sthlmb"
     }
   ],
   "ph_today": [
@@ -167,22 +149,28 @@
       "pub_date": "2026-10-26T13:06:22-07:00"
     },
     {
-      "title": "Off Grid AI",
-      "url": "https://www.producthunt.com/products/off-grid-ai",
+      "title": "Revix AI",
+      "url": "https://www.producthunt.com/products/revix-ai-2",
       "tagline": "",
-      "pub_date": "2026-10-26T05:12:10-07:00"
+      "pub_date": "2026-10-26T14:29:10-07:00"
     },
     {
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
+      "title": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3",
       "tagline": "",
-      "pub_date": "2026-10-26T21:48:43-07:00"
+      "pub_date": "2026-09-12T09:45:52-07:00"
     },
     {
-      "title": "fswitcher",
-      "url": "https://www.producthunt.com/products/fswitcher",
+      "title": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
       "tagline": "",
-      "pub_date": "2026-10-26T13:26:31-07:00"
+      "pub_date": "2026-10-26T15:47:46-07:00"
+    },
+    {
+      "title": "Orbit",
+      "url": "https://www.producthunt.com/products/orbit-app-blocker",
+      "tagline": "",
+      "pub_date": "2026-10-14T07:54:42-07:00"
     },
     {
       "title": "NINX",
@@ -203,46 +191,10 @@
       "pub_date": "2026-10-20T06:39:05-07:00"
     },
     {
-      "title": "NuPlay",
-      "url": "https://www.producthunt.com/products/nuplay",
+      "title": "ContextGem 1.0",
+      "url": "https://www.producthunt.com/products/contextgem",
       "tagline": "",
-      "pub_date": "2026-10-22T07:16:30-07:00"
-    },
-    {
-      "title": "PulseDev",
-      "url": "https://www.producthunt.com/products/pulsedev",
-      "tagline": "",
-      "pub_date": "2026-10-26T15:47:46-07:00"
-    },
-    {
-      "title": "Notra",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "tagline": "",
-      "pub_date": "2026-10-23T13:02:20-07:00"
-    },
-    {
-      "title": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
-      "tagline": "",
-      "pub_date": "2026-09-12T09:45:52-07:00"
-    },
-    {
-      "title": "Orbit",
-      "url": "https://www.producthunt.com/products/orbit-app-blocker",
-      "tagline": "",
-      "pub_date": "2026-10-14T07:54:42-07:00"
-    },
-    {
-      "title": "TheySaid 4.0",
-      "url": "https://www.producthunt.com/products/theysaid",
-      "tagline": "",
-      "pub_date": "2026-10-16T10:22:22-07:00"
-    },
-    {
-      "title": "iPad mini 8",
-      "url": "https://www.producthunt.com/products/apple",
-      "tagline": "",
-      "pub_date": "2026-10-26T07:59:19-07:00"
+      "pub_date": "2026-10-26T21:48:43-07:00"
     },
     {
       "title": "OpenRadView",
@@ -251,10 +203,52 @@
       "pub_date": "2026-10-26T10:57:31-07:00"
     },
     {
+      "title": "Off Grid AI",
+      "url": "https://www.producthunt.com/products/off-grid-ai",
+      "tagline": "",
+      "pub_date": "2026-10-26T05:12:10-07:00"
+    },
+    {
+      "title": "NuPlay",
+      "url": "https://www.producthunt.com/products/nuplay",
+      "tagline": "",
+      "pub_date": "2026-10-22T07:16:30-07:00"
+    },
+    {
       "title": "Overmind",
       "url": "https://www.producthunt.com/products/overmind-2",
       "tagline": "",
       "pub_date": "2026-10-06T06:56:18-07:00"
+    },
+    {
+      "title": "Notra",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "tagline": "",
+      "pub_date": "2026-10-23T13:02:20-07:00"
+    },
+    {
+      "title": "iPad mini 8",
+      "url": "https://www.producthunt.com/products/apple",
+      "tagline": "",
+      "pub_date": "2026-10-26T07:59:19-07:00"
+    },
+    {
+      "title": "TheySaid 4.0",
+      "url": "https://www.producthunt.com/products/theysaid",
+      "tagline": "",
+      "pub_date": "2026-10-16T10:22:22-07:00"
+    },
+    {
+      "title": "fswitcher",
+      "url": "https://www.producthunt.com/products/fswitcher",
+      "tagline": "",
+      "pub_date": "2026-10-26T13:26:31-07:00"
+    },
+    {
+      "title": "Paddock",
+      "url": "https://www.producthunt.com/products/paddock-2",
+      "tagline": "",
+      "pub_date": "2026-10-26T19:46:50-07:00"
     },
     {
       "title": "Spacesheep",
@@ -269,58 +263,16 @@
       "pub_date": "2026-10-26T07:01:45-07:00"
     },
     {
-      "title": "Paddock",
-      "url": "https://www.producthunt.com/products/paddock-2",
+      "title": "Strawberry 1.0",
+      "url": "https://www.producthunt.com/products/strawberry",
       "tagline": "",
-      "pub_date": "2026-10-26T19:46:50-07:00"
+      "pub_date": "2026-10-12T09:12:24-07:00"
     },
     {
-      "title": "Revix AI",
-      "url": "https://www.producthunt.com/products/revix-ai-2",
+      "title": "SurgePix",
+      "url": "https://www.producthunt.com/products/surgepix",
       "tagline": "",
-      "pub_date": "2026-10-26T14:29:10-07:00"
-    },
-    {
-      "title": "desigma",
-      "url": "https://www.producthunt.com/products/desigma",
-      "tagline": "",
-      "pub_date": "2026-10-25T12:20:38-07:00"
-    },
-    {
-      "title": "AVP",
-      "url": "https://www.producthunt.com/products/avp",
-      "tagline": "",
-      "pub_date": "2026-10-25T15:53:07-07:00"
-    },
-    {
-      "title": "Mozy",
-      "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
-      "tagline": "",
-      "pub_date": "2026-10-25T09:15:13-07:00"
-    },
-    {
-      "title": "omerta",
-      "url": "https://www.producthunt.com/products/omerta",
-      "tagline": "",
-      "pub_date": "2026-10-25T14:11:05-07:00"
-    },
-    {
-      "title": "Flipcorder",
-      "url": "https://www.producthunt.com/products/flipcorder",
-      "tagline": "",
-      "pub_date": "2026-10-09T17:08:18-07:00"
-    },
-    {
-      "title": "Helio",
-      "url": "https://www.producthunt.com/products/helio-7",
-      "tagline": "",
-      "pub_date": "2026-10-18T22:41:25-07:00"
-    },
-    {
-      "title": "Jobmate AI",
-      "url": "https://www.producthunt.com/products/jobmate-ai-3",
-      "tagline": "",
-      "pub_date": "2026-10-25T15:59:42-07:00"
+      "pub_date": "2026-10-16T00:19:17-07:00"
     },
     {
       "title": "AI Bridge",
@@ -329,16 +281,46 @@
       "pub_date": "2026-10-21T01:10:28-07:00"
     },
     {
+      "title": "Knock",
+      "url": "https://www.producthunt.com/products/knock-7",
+      "tagline": "",
+      "pub_date": "2026-10-23T23:07:32-07:00"
+    },
+    {
+      "title": "Loqui",
+      "url": "https://www.producthunt.com/products/loqui-2",
+      "tagline": "",
+      "pub_date": "2026-10-24T05:53:55-07:00"
+    },
+    {
       "title": "tabsh",
       "url": "https://www.producthunt.com/products/tabsh",
       "tagline": "",
       "pub_date": "2026-10-25T02:18:55-07:00"
     },
     {
-      "title": "CloudKnife",
-      "url": "https://www.producthunt.com/products/cloudknife",
+      "title": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
       "tagline": "",
-      "pub_date": "2026-10-19T00:32:37-07:00"
+      "pub_date": "2026-10-25T14:45:54-07:00"
+    },
+    {
+      "title": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "tagline": "",
+      "pub_date": "2026-10-25T15:59:42-07:00"
+    },
+    {
+      "title": "omerta",
+      "url": "https://www.producthunt.com/products/omerta",
+      "tagline": "",
+      "pub_date": "2026-10-25T14:11:05-07:00"
+    },
+    {
+      "title": "desigma",
+      "url": "https://www.producthunt.com/products/desigma",
+      "tagline": "",
+      "pub_date": "2026-10-25T12:20:38-07:00"
     }
   ]
 }

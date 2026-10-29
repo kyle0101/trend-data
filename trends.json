@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-10-29T12:02:40.394Z",
+  "generated_at": "2026-10-29T22:14:58.428Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "url": "https://slidebyside.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50276883",
-      "points": 74,
-      "comments": 31,
-      "created_ts": 1793207229,
-      "author": "denismenace"
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "hn_url": "https://news.ycombinator.com/item?id=50294506",
+      "points": 61,
+      "comments": 52,
+      "created_ts": 1793302064,
+      "author": "johncassil"
     },
     {
-      "title": "Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days",
-      "url": "https://yavashark.dev/blog/announcing-yavashark/",
-      "hn_url": "https://news.ycombinator.com/item?id=50274300",
-      "points": 33,
-      "comments": 3,
-      "created_ts": 1793197949,
-      "author": "sharktheone"
+      "title": "Show HN: UK Farming Simulator",
+      "url": "https://butterbean.farm/",
+      "hn_url": "https://news.ycombinator.com/item?id=50287255",
+      "points": 41,
+      "comments": 45,
+      "created_ts": 1793272559,
+      "author": "pattle"
     },
     {
-      "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
-      "url": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
-      "hn_url": "https://news.ycombinator.com/item?id=50273201",
-      "points": 24,
-      "comments": 23,
-      "created_ts": 1793194112,
-      "author": "Nasser-13"
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "url": "https://github.com/lonthq/overtone-captions",
+      "hn_url": "https://news.ycombinator.com/item?id=50293115",
+      "points": 19,
+      "comments": 2,
+      "created_ts": 1793296097,
+      "author": "rvanderlinden"
     },
     {
-      "title": "Show HN: Popkern – open-source CAD kernel with G2 corner blends, browser IDE",
-      "url": "https://popkern.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50272515",
+      "title": "Show HN: GenesisDB – The event sourcing database, is now open source",
+      "url": "https://www.genesisdb.io/blog/posts/2026-10-24/genesisdb-2-is-open-source",
+      "hn_url": "https://news.ycombinator.com/item?id=50294300",
       "points": 13,
+      "comments": 0,
+      "created_ts": 1793301086,
+      "author": "patriceckhart"
+    },
+    {
+      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+      "hn_url": "https://news.ycombinator.com/item?id=50293361",
+      "points": 11,
       "comments": 3,
-      "created_ts": 1793190387,
-      "author": "geedy"
+      "created_ts": 1793297182,
+      "author": "akashpatel7204"
+    },
+    {
+      "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
+      "url": "https://pypi.org/project/capo-s3/",
+      "hn_url": "https://news.ycombinator.com/item?id=50293303",
+      "points": 11,
+      "comments": 2,
+      "created_ts": 1793296923,
+      "author": "karpetrosyan"
     },
     {
       "title": "Show HN: Uji – Gentoo of Coding Agents",
@@ -51,189 +69,156 @@
   ],
   "hn_front": [
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "hn_url": "https://news.ycombinator.com/item?id=50276998",
-      "points": 1318,
-      "comments": 246,
-      "created_ts": 1793207609,
-      "author": "hazebooth"
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50294702",
+      "points": 1711,
+      "comments": 334,
+      "created_ts": 1793302899,
+      "author": "j4mie"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "hn_url": "https://news.ycombinator.com/item?id=50276792",
-      "points": 955,
-      "comments": 763,
-      "created_ts": 1793206883,
-      "author": "acossta"
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "hn_url": "https://news.ycombinator.com/item?id=50289418",
+      "points": 1056,
+      "comments": 305,
+      "created_ts": 1793283201,
+      "author": "kuberwastaken"
     },
     {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "hn_url": "https://news.ycombinator.com/item?id=50276940",
-      "points": 595,
-      "comments": 994,
-      "created_ts": 1793207437,
-      "author": "etothet"
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "hn_url": "https://news.ycombinator.com/item?id=50287919",
+      "points": 369,
+      "comments": 567,
+      "created_ts": 1793277185,
+      "author": "WalterSobchak"
     },
     {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "hn_url": "https://news.ycombinator.com/item?id=50282454",
-      "points": 536,
-      "comments": 443,
-      "created_ts": 1793230502,
-      "author": "babelfish"
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50290177",
+      "points": 286,
+      "comments": 155,
+      "created_ts": 1793285875,
+      "author": "ibobev"
     },
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "hn_url": "https://news.ycombinator.com/item?id=50282838",
-      "points": 533,
-      "comments": 108,
-      "created_ts": 1793233545,
-      "author": "csmantle"
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "hn_url": "https://news.ycombinator.com/item?id=50291054",
+      "points": 269,
+      "comments": 112,
+      "created_ts": 1793289183,
+      "author": "ea016"
     },
     {
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "hn_url": "https://news.ycombinator.com/item?id=50274409",
-      "points": 485,
-      "comments": 133,
-      "created_ts": 1793198302,
-      "author": "bschne"
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "hn_url": "https://news.ycombinator.com/item?id=50286987",
+      "points": 253,
+      "comments": 116,
+      "created_ts": 1793270561,
+      "author": "882542F3884314B"
     },
     {
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "hn_url": "https://news.ycombinator.com/item?id=50284255",
-      "points": 430,
-      "comments": 161,
-      "created_ts": 1793244822,
-      "author": "NikZaal"
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "hn_url": "https://news.ycombinator.com/item?id=50293047",
+      "points": 223,
+      "comments": 149,
+      "created_ts": 1793295828,
+      "author": "mgh2"
     },
     {
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "hn_url": "https://news.ycombinator.com/item?id=50280974",
-      "points": 285,
-      "comments": 44,
-      "created_ts": 1793222001,
-      "author": "frizlab"
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "hn_url": "https://news.ycombinator.com/item?id=50287775",
+      "points": 208,
+      "comments": 243,
+      "created_ts": 1793276340,
+      "author": "rokostik"
     },
     {
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
-      "hn_url": "https://news.ycombinator.com/item?id=50274251",
-      "points": 231,
-      "comments": 215,
-      "created_ts": 1793197826,
-      "author": "bradley_taunt"
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "hn_url": "https://news.ycombinator.com/item?id=50296470",
+      "points": 164,
+      "comments": 74,
+      "created_ts": 1793309939,
+      "author": "Tiberium"
     },
     {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "hn_url": "https://news.ycombinator.com/item?id=50281044",
-      "points": 197,
-      "comments": 131,
-      "created_ts": 1793222370,
-      "author": "mhb"
+      "title": "NetBSD adds a new text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "hn_url": "https://news.ycombinator.com/item?id=50287599",
+      "points": 156,
+      "comments": 121,
+      "created_ts": 1793275141,
+      "author": "luke8086"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50282544",
-      "points": 194,
-      "comments": 89,
-      "created_ts": 1793231146,
-      "author": "sashk"
+      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "hn_url": "https://news.ycombinator.com/item?id=50292233",
+      "points": 156,
+      "comments": 15,
+      "created_ts": 1793293014,
+      "author": "armcat"
     },
     {
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50285452",
-      "points": 135,
-      "comments": 87,
-      "created_ts": 1793257730,
-      "author": "MarkBlah"
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "hn_url": "https://news.ycombinator.com/item?id=50290283",
+      "points": 127,
+      "comments": 59,
+      "created_ts": 1793286377,
+      "author": "mektrik"
     },
     {
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "hn_url": "https://news.ycombinator.com/item?id=50285319",
-      "points": 108,
-      "comments": 19,
-      "created_ts": 1793256448,
-      "author": "austinallegro"
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "hn_url": "https://news.ycombinator.com/item?id=50286197",
+      "points": 122,
+      "comments": 258,
+      "created_ts": 1793264108,
+      "author": "ZeljkoS"
+    },
+    {
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "hn_url": "https://news.ycombinator.com/item?id=50290912",
+      "points": 109,
+      "comments": 18,
+      "created_ts": 1793288705,
+      "author": "wondersky"
     }
   ],
   "ph_today": [
+    {
+      "title": "ChatInbox",
+      "url": "https://www.producthunt.com/products/chatinbox-2",
+      "tagline": "",
+      "pub_date": "2026-09-04T22:49:48-07:00"
+    },
+    {
+      "title": "Kin",
+      "url": "https://www.producthunt.com/products/kin-6",
+      "tagline": "",
+      "pub_date": "2026-10-28T03:24:00-07:00"
+    },
+    {
+      "title": "AfterLid",
+      "url": "https://www.producthunt.com/products/afterlid",
+      "tagline": "",
+      "pub_date": "2026-10-15T10:41:52-07:00"
+    },
     {
       "title": "AutoShelf 2.6",
       "url": "https://www.producthunt.com/products/autoshelf",
       "tagline": "",
       "pub_date": "2026-10-28T15:19:51-07:00"
-    },
-    {
-      "title": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
-      "tagline": "",
-      "pub_date": "2026-10-27T13:41:59-07:00"
-    },
-    {
-      "title": "Polylane for ChatGPT",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-10-28T15:04:42-07:00"
-    },
-    {
-      "title": "Gologin Cloud Browser",
-      "url": "https://www.producthunt.com/products/gologin",
-      "tagline": "",
-      "pub_date": "2026-10-22T10:53:59-07:00"
-    },
-    {
-      "title": "Empacer",
-      "url": "https://www.producthunt.com/products/empacer",
-      "tagline": "",
-      "pub_date": "2026-10-27T06:56:57-07:00"
-    },
-    {
-      "title": "Arco",
-      "url": "https://www.producthunt.com/products/arco-4",
-      "tagline": "",
-      "pub_date": "2026-10-28T22:31:15-07:00"
-    },
-    {
-      "title": "Confetti",
-      "url": "https://www.producthunt.com/products/confetti-5",
-      "tagline": "",
-      "pub_date": "2026-10-27T16:51:07-07:00"
-    },
-    {
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
-      "tagline": "",
-      "pub_date": "2026-10-28T11:26:21-07:00"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "url": "https://www.producthunt.com/products/gemini-4-carbon",
-      "tagline": "",
-      "pub_date": "2026-10-28T10:27:14-07:00"
-    },
-    {
-      "title": "Viggle JST-2",
-      "url": "https://www.producthunt.com/products/viggle-ai",
-      "tagline": "",
-      "pub_date": "2026-10-19T12:59:38-07:00"
-    },
-    {
-      "title": "Floot in ChatGPT",
-      "url": "https://www.producthunt.com/products/floot",
-      "tagline": "",
-      "pub_date": "2026-10-28T13:14:10-07:00"
     },
     {
       "title": "StoreLocale",
@@ -242,10 +227,58 @@
       "pub_date": "2026-10-28T04:24:39-07:00"
     },
     {
-      "title": "Smart Jelly",
-      "url": "https://www.producthunt.com/products/smart-jelly",
+      "title": "Suno MCP",
+      "url": "https://www.producthunt.com/products/suno",
       "tagline": "",
-      "pub_date": "2026-10-28T03:57:05-07:00"
+      "pub_date": "2026-10-28T11:33:54-07:00"
+    },
+    {
+      "title": "Voxel51 Multimodal",
+      "url": "https://www.producthunt.com/products/voxel51",
+      "tagline": "",
+      "pub_date": "2026-10-27T10:03:15-07:00"
+    },
+    {
+      "title": "Viggle JST-2",
+      "url": "https://www.producthunt.com/products/viggle-ai",
+      "tagline": "",
+      "pub_date": "2026-10-19T12:59:38-07:00"
+    },
+    {
+      "title": "Intrascope 2.0",
+      "url": "https://www.producthunt.com/products/intrascope-app",
+      "tagline": "",
+      "pub_date": "2026-10-26T06:58:42-07:00"
+    },
+    {
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "tagline": "",
+      "pub_date": "2026-10-28T11:26:21-07:00"
+    },
+    {
+      "title": "TopAgent",
+      "url": "https://www.producthunt.com/products/topmessage",
+      "tagline": "",
+      "pub_date": "2026-10-19T05:56:25-07:00"
+    },
+    {
+      "title": "Gologin Cloud Browser",
+      "url": "https://www.producthunt.com/products/gologin",
+      "tagline": "",
+      "pub_date": "2026-10-22T10:53:59-07:00"
+    },
+    {
+      "title": "Floot in ChatGPT",
+      "url": "https://www.producthunt.com/products/floot",
+      "tagline": "",
+      "pub_date": "2026-10-28T13:14:10-07:00"
+    },
+    {
+      "title": "Empacer",
+      "url": "https://www.producthunt.com/products/empacer",
+      "tagline": "",
+      "pub_date": "2026-10-27T06:56:57-07:00"
     },
     {
       "title": "Enclave",
@@ -260,52 +293,28 @@
       "pub_date": "2026-10-21T07:59:42-07:00"
     },
     {
-      "title": "AfterLid",
-      "url": "https://www.producthunt.com/products/afterlid",
+      "title": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
       "tagline": "",
-      "pub_date": "2026-10-15T10:41:52-07:00"
+      "pub_date": "2026-10-28T22:31:15-07:00"
     },
     {
-      "title": "Voxel51 Multimodal",
-      "url": "https://www.producthunt.com/products/voxel51",
+      "title": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
       "tagline": "",
-      "pub_date": "2026-10-27T10:03:15-07:00"
+      "pub_date": "2026-10-27T13:41:59-07:00"
     },
     {
-      "title": "Suno MCP",
-      "url": "https://www.producthunt.com/products/suno",
+      "title": "Confetti",
+      "url": "https://www.producthunt.com/products/confetti-5",
       "tagline": "",
-      "pub_date": "2026-10-28T11:33:54-07:00"
+      "pub_date": "2026-10-27T16:51:07-07:00"
     },
     {
-      "title": "Kin",
-      "url": "https://www.producthunt.com/products/kin-6",
+      "title": "Polylane for ChatGPT",
+      "url": "https://www.producthunt.com/products/polylane",
       "tagline": "",
-      "pub_date": "2026-10-28T03:24:00-07:00"
-    },
-    {
-      "title": "Flatbread",
-      "url": "https://www.producthunt.com/products/flatbread",
-      "tagline": "",
-      "pub_date": "2026-10-28T16:47:45-07:00"
-    },
-    {
-      "title": "AssemblyAI",
-      "url": "https://www.producthunt.com/products/assemblyai",
-      "tagline": "",
-      "pub_date": "2026-10-28T15:35:24-07:00"
-    },
-    {
-      "title": "ChatInbox",
-      "url": "https://www.producthunt.com/products/chatinbox-2",
-      "tagline": "",
-      "pub_date": "2026-09-04T22:49:48-07:00"
-    },
-    {
-      "title": "Intrascope 2.0",
-      "url": "https://www.producthunt.com/products/intrascope-app",
-      "tagline": "",
-      "pub_date": "2026-10-26T06:58:42-07:00"
+      "pub_date": "2026-10-28T15:04:42-07:00"
     },
     {
       "title": "JIMMY",
@@ -314,28 +323,10 @@
       "pub_date": "2026-10-24T22:01:48-07:00"
     },
     {
-      "title": "OutreachGuy",
-      "url": "https://www.producthunt.com/products/outreachguy",
-      "tagline": "",
-      "pub_date": "2026-10-19T01:05:16-07:00"
-    },
-    {
       "title": "Recall for Mac",
       "url": "https://www.producthunt.com/products/recall-for-mac",
       "tagline": "",
       "pub_date": "2026-10-27T23:10:13-07:00"
-    },
-    {
-      "title": "Reset Alerts",
-      "url": "https://www.producthunt.com/products/reset-alerts",
-      "tagline": "",
-      "pub_date": "2026-10-27T12:57:18-07:00"
-    },
-    {
-      "title": "MAO",
-      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-      "tagline": "",
-      "pub_date": "2026-10-28T04:27:28-07:00"
     },
     {
       "title": "Notch Metrics",
@@ -344,10 +335,46 @@
       "pub_date": "2026-10-28T02:57:56-07:00"
     },
     {
-      "title": "bytemail",
-      "url": "https://www.producthunt.com/products/bytemail",
+      "title": "Smart Jelly",
+      "url": "https://www.producthunt.com/products/smart-jelly",
       "tagline": "",
-      "pub_date": "2026-10-21T03:38:17-07:00"
+      "pub_date": "2026-10-28T03:57:05-07:00"
+    },
+    {
+      "title": "Reset Alerts",
+      "url": "https://www.producthunt.com/products/reset-alerts",
+      "tagline": "",
+      "pub_date": "2026-10-27T12:57:18-07:00"
+    },
+    {
+      "title": "Flatbread",
+      "url": "https://www.producthunt.com/products/flatbread",
+      "tagline": "",
+      "pub_date": "2026-10-28T16:47:45-07:00"
+    },
+    {
+      "title": "MAO",
+      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+      "tagline": "",
+      "pub_date": "2026-10-28T04:27:28-07:00"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://www.producthunt.com/products/gemini-4-carbon",
+      "tagline": "",
+      "pub_date": "2026-10-28T10:27:14-07:00"
+    },
+    {
+      "title": "AssemblyAI",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "tagline": "",
+      "pub_date": "2026-10-28T15:35:24-07:00"
+    },
+    {
+      "title": "OutreachGuy",
+      "url": "https://www.producthunt.com/products/outreachguy",
+      "tagline": "",
+      "pub_date": "2026-10-19T01:05:16-07:00"
     }
   ]
 }

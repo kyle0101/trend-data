@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-10-30T17:37:53.478Z",
+  "generated_at": "2026-10-30T21:50:20.042Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "hn_url": "https://news.ycombinator.com/item?id=50294506",
-      "points": 147,
-      "comments": 119,
-      "created_ts": 1793302064,
-      "author": "johncassil"
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "hn_url": "https://news.ycombinator.com/item?id=50306442",
+      "points": 148,
+      "comments": 97,
+      "created_ts": 1793378422,
+      "author": "dbreunig"
     },
     {
       "title": "Show HN: I Turned DOOM into a Transformer",
       "url": "https://github.com/mottopanikeiku/doomformer",
       "hn_url": "https://news.ycombinator.com/item?id=50297697",
-      "points": 121,
-      "comments": 35,
+      "points": 122,
+      "comments": 36,
       "created_ts": 1793316346,
       "author": "falperc"
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "url": "https://catcopter.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50305320",
+      "points": 74,
+      "comments": 34,
+      "created_ts": 1793374180,
+      "author": "pawelwentpawel"
     },
     {
       "title": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
@@ -31,194 +40,185 @@
       "author": "ArshadAzeezM"
     },
     {
-      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
-      "url": "https://github.com/lonthq/overtone-captions",
-      "hn_url": "https://news.ycombinator.com/item?id=50293115",
-      "points": 41,
-      "comments": 3,
-      "created_ts": 1793296097,
-      "author": "rvanderlinden"
-    },
-    {
       "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
       "url": "https://github.com/Millillion/lasm",
       "hn_url": "https://news.ycombinator.com/item?id=50299004",
-      "points": 33,
+      "points": 34,
       "comments": 20,
       "created_ts": 1793325941,
       "author": "lastmjs"
     },
     {
-      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-      "url": "https://catcopter.com",
-      "hn_url": "https://news.ycombinator.com/item?id=50305320",
-      "points": 23,
-      "comments": 13,
-      "created_ts": 1793374180,
-      "author": "pawelwentpawel"
-    },
-    {
-      "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
-      "url": "https://pypi.org/project/capo-s3/",
-      "hn_url": "https://news.ycombinator.com/item?id=50293303",
+      "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+      "url": "https://github.com/spinfinc/spinf-serve",
+      "hn_url": "https://news.ycombinator.com/item?id=50306815",
       "points": 16,
       "comments": 3,
-      "created_ts": 1793296923,
-      "author": "karpetrosyan"
+      "created_ts": 1793379792,
+      "author": "giarec"
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "hn_url": "https://news.ycombinator.com/item?id=50305218",
+      "points": 15,
+      "comments": 6,
+      "created_ts": 1793373791,
+      "author": "ericlevine"
     },
     {
       "title": "Show HN: hyperbin – This Halloween, take out your Trash before monsters move in",
       "url": "https://hypernuclear.com/hyperbin/",
       "hn_url": "https://news.ycombinator.com/item?id=50303908",
-      "points": 13,
+      "points": 14,
       "comments": 2,
       "created_ts": 1793368372,
       "author": "leonardsouza"
     },
     {
-      "title": "Show HN: GenesisDB – The event sourcing database, is now open source",
-      "url": "https://www.genesisdb.io/blog/posts/2026-10-24/genesisdb-2-is-open-source",
-      "hn_url": "https://news.ycombinator.com/item?id=50294300",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1793301086,
-      "author": "patriceckhart"
-    },
-    {
-      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "hn_url": "https://news.ycombinator.com/item?id=50293361",
-      "points": 12,
-      "comments": 4,
-      "created_ts": 1793297182,
-      "author": "akashpatel7204"
-    },
-    {
       "title": "Show HN: Fraktur, a DJ mixing app in the browser",
       "url": "https://greenvitriol.com/posts/fraktur",
       "hn_url": "https://news.ycombinator.com/item?id=50303832",
-      "points": 11,
+      "points": 14,
       "comments": 0,
       "created_ts": 1793368069,
       "author": "janesconference"
+    },
+    {
+      "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
+      "url": "https://github.com/zacharybenson/arken-protocol",
+      "hn_url": "https://news.ycombinator.com/item?id=50298738",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1793323358,
+      "author": "zachbenson817"
+    },
+    {
+      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+      "hn_url": "https://news.ycombinator.com/item?id=50309479",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1793390987,
+      "author": "alxmrs"
     }
   ],
   "hn_front": [
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "hn_url": "https://news.ycombinator.com/item?id=50296470",
-      "points": 1699,
-      "comments": 1158,
-      "created_ts": 1793309939,
-      "author": "Tiberium"
-    },
-    {
-      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-      "hn_url": "https://news.ycombinator.com/item?id=50302814",
-      "points": 559,
-      "comments": 394,
-      "created_ts": 1793362080,
-      "author": "DeepLogin"
-    },
-    {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "hn_url": "https://news.ycombinator.com/item?id=50300683",
-      "points": 418,
-      "comments": 367,
+      "points": 665,
+      "comments": 428,
       "created_ts": 1793344152,
       "author": "_chall"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50296486",
-      "points": 377,
-      "comments": 159,
-      "created_ts": 1793310028,
-      "author": "sandslash"
-    },
-    {
-      "title": "Herdr has released native app",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "hn_url": "https://news.ycombinator.com/item?id=50298436",
-      "points": 321,
-      "comments": 214,
-      "created_ts": 1793320961,
-      "author": "cherioo"
     },
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "hn_url": "https://news.ycombinator.com/item?id=50305693",
-      "points": 222,
-      "comments": 175,
+      "points": 425,
+      "comments": 318,
       "created_ts": 1793375538,
       "author": "dorianniemiec"
-    },
-    {
-      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "hn_url": "https://news.ycombinator.com/item?id=50303172",
-      "points": 207,
-      "comments": 145,
-      "created_ts": 1793364601,
-      "author": "domhudson"
-    },
-    {
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "hn_url": "https://news.ycombinator.com/item?id=50301854",
-      "points": 192,
-      "comments": 29,
-      "created_ts": 1793354775,
-      "author": "swq115"
-    },
-    {
-      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-      "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-      "hn_url": "https://news.ycombinator.com/item?id=50304419",
-      "points": 182,
-      "comments": 168,
-      "created_ts": 1793370464,
-      "author": "brandonb"
     },
     {
       "title": "Northflank Breached",
       "url": "https://status.northflank.com",
       "hn_url": "https://news.ycombinator.com/item?id=50305025",
-      "points": 114,
-      "comments": 73,
+      "points": 298,
+      "comments": 220,
       "created_ts": 1793373031,
       "author": "js4ever"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "hn_url": "https://news.ycombinator.com/item?id=50301854",
+      "points": 241,
+      "comments": 45,
+      "created_ts": 1793354775,
+      "author": "swq115"
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "hn_url": "https://news.ycombinator.com/item?id=50307219",
+      "points": 230,
+      "comments": 164,
+      "created_ts": 1793381245,
+      "author": "petethomas"
+    },
+    {
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "hn_url": "https://news.ycombinator.com/item?id=50305573",
+      "points": 182,
+      "comments": 65,
+      "created_ts": 1793375069,
+      "author": "zlliang"
+    },
+    {
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "hn_url": "https://news.ycombinator.com/item?id=50305480",
+      "points": 173,
+      "comments": 110,
+      "created_ts": 1793374745,
+      "author": "paulpauper"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "hn_url": "https://news.ycombinator.com/item?id=50307190",
+      "points": 169,
+      "comments": 47,
+      "created_ts": 1793381115,
+      "author": "DHowett"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "hn_url": "https://news.ycombinator.com/item?id=50305637",
+      "points": 165,
+      "comments": 31,
+      "created_ts": 1793375292,
+      "author": "nanna"
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "hn_url": "https://news.ycombinator.com/item?id=50306442",
+      "points": 148,
+      "comments": 97,
+      "created_ts": 1793378422,
+      "author": "dbreunig"
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "hn_url": "https://news.ycombinator.com/item?id=50307723",
+      "points": 123,
+      "comments": 46,
+      "created_ts": 1793383055,
+      "author": "damontal"
+    },
+    {
+      "title": "Bunny CDN Security Incident",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "hn_url": "https://news.ycombinator.com/item?id=50308697",
+      "points": 106,
+      "comments": 24,
+      "created_ts": 1793387122,
+      "author": "SondreDag"
     }
   ],
   "ph_today": [
     {
-      "title": "Norah Studio",
-      "url": "https://www.producthunt.com/products/norah-studio",
+      "title": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
       "tagline": "",
-      "pub_date": "2026-10-29T15:05:03-07:00"
-    },
-    {
-      "title": "Nocto",
-      "url": "https://www.producthunt.com/products/nocto",
-      "tagline": "",
-      "pub_date": "2026-10-29T14:10:07-07:00"
-    },
-    {
-      "title": "Faylee",
-      "url": "https://www.producthunt.com/products/faylee",
-      "tagline": "",
-      "pub_date": "2026-10-29T10:54:14-07:00"
-    },
-    {
-      "title": "ilse",
-      "url": "https://www.producthunt.com/products/ilse",
-      "tagline": "",
-      "pub_date": "2026-10-29T12:42:40-07:00"
+      "pub_date": "2026-10-25T10:43:45-07:00"
     },
     {
       "title": "Canva Brush",
@@ -233,16 +233,22 @@
       "pub_date": "2026-10-27T22:20:54-07:00"
     },
     {
+      "title": "fastbrowse",
+      "url": "https://www.producthunt.com/products/fastbrowse",
+      "tagline": "",
+      "pub_date": "2026-10-28T20:25:09-07:00"
+    },
+    {
       "title": "StepGrab",
       "url": "https://www.producthunt.com/products/stepgrab",
       "tagline": "",
       "pub_date": "2026-10-29T15:03:45-07:00"
     },
     {
-      "title": "SparkBots AI (Powered by Jev)",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "title": "sitesolide",
+      "url": "https://www.producthunt.com/products/sitesolide",
       "tagline": "",
-      "pub_date": "2026-10-26T22:29:14-07:00"
+      "pub_date": "2026-10-29T08:27:44-07:00"
     },
     {
       "title": "Cluinn",
@@ -251,16 +257,22 @@
       "pub_date": "2026-10-16T08:08:14-07:00"
     },
     {
-      "title": "SpeakON Agent",
-      "url": "https://www.producthunt.com/products/speakon",
+      "title": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
       "tagline": "",
-      "pub_date": "2026-10-29T03:44:31-07:00"
+      "pub_date": "2026-10-29T12:42:40-07:00"
     },
     {
-      "title": "Knocket AI",
-      "url": "https://www.producthunt.com/products/knocket-ai",
+      "title": "Kestrix",
+      "url": "https://www.producthunt.com/products/kestrix",
       "tagline": "",
-      "pub_date": "2026-10-26T00:29:10-07:00"
+      "pub_date": "2026-10-28T13:26:10-07:00"
+    },
+    {
+      "title": "iSurge",
+      "url": "https://www.producthunt.com/products/isurge",
+      "tagline": "",
+      "pub_date": "2026-10-28T23:15:46-07:00"
     },
     {
       "title": "Teable Mobile",
@@ -269,10 +281,28 @@
       "pub_date": "2026-10-27T02:21:00-07:00"
     },
     {
-      "title": "fastbrowse",
-      "url": "https://www.producthunt.com/products/fastbrowse",
+      "title": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai",
       "tagline": "",
-      "pub_date": "2026-10-28T20:25:09-07:00"
+      "pub_date": "2026-10-26T00:29:10-07:00"
+    },
+    {
+      "title": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "tagline": "",
+      "pub_date": "2026-10-26T22:29:14-07:00"
+    },
+    {
+      "title": "SpeakON Agent",
+      "url": "https://www.producthunt.com/products/speakon",
+      "tagline": "",
+      "pub_date": "2026-10-29T03:44:31-07:00"
+    },
+    {
+      "title": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
+      "tagline": "",
+      "pub_date": "2026-10-20T01:15:05-07:00"
     },
     {
       "title": "Axonnic",
@@ -287,76 +317,58 @@
       "pub_date": "2026-10-29T00:38:23-07:00"
     },
     {
-      "title": "sitesolide",
-      "url": "https://www.producthunt.com/products/sitesolide",
+      "title": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
       "tagline": "",
-      "pub_date": "2026-10-29T08:27:44-07:00"
+      "pub_date": "2026-10-29T14:10:07-07:00"
     },
     {
-      "title": "MCP Server by XWiki",
-      "url": "https://www.producthunt.com/products/xwiki",
+      "title": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
       "tagline": "",
-      "pub_date": "2026-10-20T01:15:05-07:00"
+      "pub_date": "2026-10-29T10:54:14-07:00"
     },
     {
-      "title": "iSurge",
-      "url": "https://www.producthunt.com/products/isurge",
+      "title": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
       "tagline": "",
-      "pub_date": "2026-10-28T23:15:46-07:00"
+      "pub_date": "2026-10-29T15:05:03-07:00"
     },
     {
-      "title": "StereoLift Live",
-      "url": "https://www.producthunt.com/products/stereolift-live",
+      "title": "AutoShelf 2.6",
+      "url": "https://www.producthunt.com/products/autoshelf",
       "tagline": "",
-      "pub_date": "2026-10-25T10:43:45-07:00"
+      "pub_date": "2026-10-28T15:19:51-07:00"
     },
     {
-      "title": "Kestrix",
-      "url": "https://www.producthunt.com/products/kestrix",
+      "title": "Gemini 4 Carbon",
+      "url": "https://www.producthunt.com/products/gemini-4-carbon",
       "tagline": "",
-      "pub_date": "2026-10-28T13:26:10-07:00"
+      "pub_date": "2026-10-28T10:27:14-07:00"
     },
     {
-      "title": "Polylane for ChatGPT",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Enclave",
+      "url": "https://www.producthunt.com/products/enclave-2",
       "tagline": "",
-      "pub_date": "2026-10-28T15:04:42-07:00"
+      "pub_date": "2026-10-27T08:45:58-07:00"
     },
     {
-      "title": "TopAgent",
-      "url": "https://www.producthunt.com/products/topmessage",
+      "title": "AfterLid",
+      "url": "https://www.producthunt.com/products/afterlid",
       "tagline": "",
-      "pub_date": "2026-10-19T05:56:25-07:00"
+      "pub_date": "2026-10-15T10:41:52-07:00"
     },
     {
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
+      "title": "AssemblyAI",
+      "url": "https://www.producthunt.com/products/assemblyai",
       "tagline": "",
-      "pub_date": "2026-10-28T11:26:21-07:00"
+      "pub_date": "2026-10-28T15:35:24-07:00"
     },
     {
-      "title": "StoreLocale",
-      "url": "https://www.producthunt.com/products/storelocale",
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-4",
       "tagline": "",
-      "pub_date": "2026-10-28T04:24:39-07:00"
-    },
-    {
-      "title": "OutreachGuy",
-      "url": "https://www.producthunt.com/products/outreachguy",
-      "tagline": "",
-      "pub_date": "2026-10-19T01:05:16-07:00"
-    },
-    {
-      "title": "Intrascope 2.0",
-      "url": "https://www.producthunt.com/products/intrascope-app",
-      "tagline": "",
-      "pub_date": "2026-10-26T06:58:42-07:00"
-    },
-    {
-      "title": "Confetti",
-      "url": "https://www.producthunt.com/products/confetti-5",
-      "tagline": "",
-      "pub_date": "2026-10-27T16:51:07-07:00"
+      "pub_date": "2026-10-21T07:59:42-07:00"
     },
     {
       "title": "Voxel51 Multimodal",
@@ -365,16 +377,22 @@
       "pub_date": "2026-10-27T10:03:15-07:00"
     },
     {
-      "title": "Viggle JST-2",
-      "url": "https://www.producthunt.com/products/viggle-ai",
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
       "tagline": "",
-      "pub_date": "2026-10-19T12:59:38-07:00"
+      "pub_date": "2026-10-28T11:26:21-07:00"
     },
     {
-      "title": "Empacer",
-      "url": "https://www.producthunt.com/products/empacer",
+      "title": "Gologin Cloud Browser",
+      "url": "https://www.producthunt.com/products/gologin",
       "tagline": "",
-      "pub_date": "2026-10-27T06:56:57-07:00"
+      "pub_date": "2026-10-22T10:53:59-07:00"
+    },
+    {
+      "title": "Reset Alerts",
+      "url": "https://www.producthunt.com/products/reset-alerts",
+      "tagline": "",
+      "pub_date": "2026-10-27T12:57:18-07:00"
     }
   ]
 }

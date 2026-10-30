@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:55:55.003Z",
+  "generated_at": "2026-10-30T17:37:53.478Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
       "url": "https://github.com/johncassil/dontallow",
       "hn_url": "https://news.ycombinator.com/item?id=50294506",
-      "points": 144,
-      "comments": 106,
+      "points": 147,
+      "comments": 119,
       "created_ts": 1793302064,
       "author": "johncassil"
     },
@@ -16,8 +16,8 @@
       "title": "Show HN: I Turned DOOM into a Transformer",
       "url": "https://github.com/mottopanikeiku/doomformer",
       "hn_url": "https://news.ycombinator.com/item?id=50297697",
-      "points": 99,
-      "comments": 31,
+      "points": 121,
+      "comments": 35,
       "created_ts": 1793316346,
       "author": "falperc"
     },
@@ -25,7 +25,7 @@
       "title": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
       "url": "https://www.arsaze.com",
       "hn_url": "https://news.ycombinator.com/item?id=50300618",
-      "points": 54,
+      "points": 60,
       "comments": 0,
       "created_ts": 1793343333,
       "author": "ArshadAzeezM"
@@ -34,7 +34,7 @@
       "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
       "url": "https://github.com/lonthq/overtone-captions",
       "hn_url": "https://news.ycombinator.com/item?id=50293115",
-      "points": 40,
+      "points": 41,
       "comments": 3,
       "created_ts": 1793296097,
       "author": "rvanderlinden"
@@ -43,19 +43,37 @@
       "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
       "url": "https://github.com/Millillion/lasm",
       "hn_url": "https://news.ycombinator.com/item?id=50299004",
-      "points": 31,
-      "comments": 13,
+      "points": 33,
+      "comments": 20,
       "created_ts": 1793325941,
       "author": "lastmjs"
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "url": "https://catcopter.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50305320",
+      "points": 23,
+      "comments": 13,
+      "created_ts": 1793374180,
+      "author": "pawelwentpawel"
     },
     {
       "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
       "url": "https://pypi.org/project/capo-s3/",
       "hn_url": "https://news.ycombinator.com/item?id=50293303",
-      "points": 15,
-      "comments": 2,
+      "points": 16,
+      "comments": 3,
       "created_ts": 1793296923,
       "author": "karpetrosyan"
+    },
+    {
+      "title": "Show HN: hyperbin – This Halloween, take out your Trash before monsters move in",
+      "url": "https://hypernuclear.com/hyperbin/",
+      "hn_url": "https://news.ycombinator.com/item?id=50303908",
+      "points": 13,
+      "comments": 2,
+      "created_ts": 1793368372,
+      "author": "leonardsouza"
     },
     {
       "title": "Show HN: GenesisDB – The event sourcing database, is now open source",
@@ -76,143 +94,113 @@
       "author": "akashpatel7204"
     },
     {
-      "title": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
-      "url": "https://sparkjs.dev/radix/",
-      "hn_url": "https://news.ycombinator.com/item?id=50292475",
+      "title": "Show HN: Fraktur, a DJ mixing app in the browser",
+      "url": "https://greenvitriol.com/posts/fraktur",
+      "hn_url": "https://news.ycombinator.com/item?id=50303832",
       "points": 11,
       "comments": 0,
-      "created_ts": 1793293849,
-      "author": "dmarcos"
+      "created_ts": 1793368069,
+      "author": "janesconference"
     }
   ],
   "hn_front": [
     {
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50294702",
-      "points": 3068,
-      "comments": 653,
-      "created_ts": 1793302899,
-      "author": "j4mie"
-    },
-    {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "hn_url": "https://news.ycombinator.com/item?id=50289418",
-      "points": 1538,
-      "comments": 403,
-      "created_ts": 1793283201,
-      "author": "kuberwastaken"
-    },
-    {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "hn_url": "https://news.ycombinator.com/item?id=50296470",
-      "points": 1470,
-      "comments": 952,
+      "points": 1699,
+      "comments": 1158,
       "created_ts": 1793309939,
       "author": "Tiberium"
     },
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "points": 503,
-      "comments": 263,
-      "created_ts": 1793285875,
-      "author": "ibobev"
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "hn_url": "https://news.ycombinator.com/item?id=50302814",
+      "points": 559,
+      "comments": 394,
+      "created_ts": 1793362080,
+      "author": "DeepLogin"
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "hn_url": "https://news.ycombinator.com/item?id=50291054",
-      "points": 453,
-      "comments": 151,
-      "created_ts": 1793289183,
-      "author": "ea016"
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "points": 418,
+      "comments": 367,
+      "created_ts": 1793344152,
+      "author": "_chall"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
-      "points": 310,
-      "comments": 113,
+      "points": 377,
+      "comments": 159,
       "created_ts": 1793310028,
       "author": "sandslash"
-    },
-    {
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "hn_url": "https://news.ycombinator.com/item?id=50287775",
-      "points": 296,
-      "comments": 413,
-      "created_ts": 1793276340,
-      "author": "rokostik"
     },
     {
       "title": "Herdr has released native app",
       "url": "https://github.com/herdrdev/herdr-app",
       "hn_url": "https://news.ycombinator.com/item?id=50298436",
-      "points": 240,
-      "comments": 158,
+      "points": 321,
+      "comments": 214,
       "created_ts": 1793320961,
       "author": "cherioo"
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "hn_url": "https://news.ycombinator.com/item?id=50295450",
-      "points": 232,
-      "comments": 15,
-      "created_ts": 1793305948,
-      "author": "airinei"
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "points": 222,
+      "comments": 175,
+      "created_ts": 1793375538,
+      "author": "dorianniemiec"
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "hn_url": "https://news.ycombinator.com/item?id=50298964",
-      "points": 157,
-      "comments": 72,
-      "created_ts": 1793325524,
-      "author": "henrid"
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "hn_url": "https://news.ycombinator.com/item?id=50303172",
+      "points": 207,
+      "comments": 145,
+      "created_ts": 1793364601,
+      "author": "domhudson"
     },
     {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "hn_url": "https://news.ycombinator.com/item?id=50297089",
-      "points": 126,
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "hn_url": "https://news.ycombinator.com/item?id=50301854",
+      "points": 192,
       "comments": 29,
-      "created_ts": 1793312798,
-      "author": "simonebrunozzi"
+      "created_ts": 1793354775,
+      "author": "swq115"
     },
     {
-      "title": "Backdoors in official Claude Code extensions",
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "hn_url": "https://news.ycombinator.com/item?id=50302334",
-      "points": 108,
-      "comments": 17,
-      "created_ts": 1793358353,
-      "author": "dsr_"
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "hn_url": "https://news.ycombinator.com/item?id=50304419",
+      "points": 182,
+      "comments": 168,
+      "created_ts": 1793370464,
+      "author": "brandonb"
+    },
+    {
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50305025",
+      "points": 114,
+      "comments": 73,
+      "created_ts": 1793373031,
+      "author": "js4ever"
     }
   ],
   "ph_today": [
     {
-      "title": "Canva Brush",
-      "url": "https://www.producthunt.com/products/canva",
+      "title": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
       "tagline": "",
-      "pub_date": "2026-10-29T12:23:23-07:00"
-    },
-    {
-      "title": "Axonnic",
-      "url": "https://www.producthunt.com/products/axonnic",
-      "tagline": "",
-      "pub_date": "2026-10-29T18:11:16-07:00"
-    },
-    {
-      "title": "Vaani Developer Platform",
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
-      "tagline": "",
-      "pub_date": "2026-10-27T22:20:54-07:00"
+      "pub_date": "2026-10-29T15:05:03-07:00"
     },
     {
       "title": "Nocto",
@@ -221,46 +209,10 @@
       "pub_date": "2026-10-29T14:10:07-07:00"
     },
     {
-      "title": "Kestrix",
-      "url": "https://www.producthunt.com/products/kestrix",
+      "title": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
       "tagline": "",
-      "pub_date": "2026-10-28T13:26:10-07:00"
-    },
-    {
-      "title": "sitesolide",
-      "url": "https://www.producthunt.com/products/sitesolide",
-      "tagline": "",
-      "pub_date": "2026-10-29T08:27:44-07:00"
-    },
-    {
-      "title": "StereoLift Live",
-      "url": "https://www.producthunt.com/products/stereolift-live",
-      "tagline": "",
-      "pub_date": "2026-10-25T10:43:45-07:00"
-    },
-    {
-      "title": "StepGrab",
-      "url": "https://www.producthunt.com/products/stepgrab",
-      "tagline": "",
-      "pub_date": "2026-10-29T15:03:45-07:00"
-    },
-    {
-      "title": "Norah Studio",
-      "url": "https://www.producthunt.com/products/norah-studio",
-      "tagline": "",
-      "pub_date": "2026-10-29T15:05:03-07:00"
-    },
-    {
-      "title": "Cluinn",
-      "url": "https://www.producthunt.com/products/cluinn",
-      "tagline": "",
-      "pub_date": "2026-10-16T08:08:14-07:00"
-    },
-    {
-      "title": "SparkBots AI (Powered by Jev)",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "tagline": "",
-      "pub_date": "2026-10-26T22:29:14-07:00"
+      "pub_date": "2026-10-29T10:54:14-07:00"
     },
     {
       "title": "ilse",
@@ -269,40 +221,34 @@
       "pub_date": "2026-10-29T12:42:40-07:00"
     },
     {
-      "title": "Faylee",
-      "url": "https://www.producthunt.com/products/faylee",
+      "title": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
       "tagline": "",
-      "pub_date": "2026-10-29T10:54:14-07:00"
+      "pub_date": "2026-10-29T12:23:23-07:00"
     },
     {
-      "title": "Teable Mobile",
-      "url": "https://www.producthunt.com/products/teable-4",
+      "title": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
       "tagline": "",
-      "pub_date": "2026-10-27T02:21:00-07:00"
+      "pub_date": "2026-10-27T22:20:54-07:00"
     },
     {
-      "title": "iSurge",
-      "url": "https://www.producthunt.com/products/isurge",
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
       "tagline": "",
-      "pub_date": "2026-10-28T23:15:46-07:00"
+      "pub_date": "2026-10-29T15:03:45-07:00"
     },
     {
-      "title": "fastbrowse",
-      "url": "https://www.producthunt.com/products/fastbrowse",
+      "title": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
       "tagline": "",
-      "pub_date": "2026-10-28T20:25:09-07:00"
+      "pub_date": "2026-10-26T22:29:14-07:00"
     },
     {
-      "title": "MCP Server by XWiki",
-      "url": "https://www.producthunt.com/products/xwiki",
+      "title": "Cluinn",
+      "url": "https://www.producthunt.com/products/cluinn",
       "tagline": "",
-      "pub_date": "2026-10-20T01:15:05-07:00"
-    },
-    {
-      "title": "Knocket AI",
-      "url": "https://www.producthunt.com/products/knocket-ai",
-      "tagline": "",
-      "pub_date": "2026-10-26T00:29:10-07:00"
+      "pub_date": "2026-10-16T08:08:14-07:00"
     },
     {
       "title": "SpeakON Agent",
@@ -311,34 +257,100 @@
       "pub_date": "2026-10-29T03:44:31-07:00"
     },
     {
+      "title": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai",
+      "tagline": "",
+      "pub_date": "2026-10-26T00:29:10-07:00"
+    },
+    {
+      "title": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
+      "tagline": "",
+      "pub_date": "2026-10-27T02:21:00-07:00"
+    },
+    {
+      "title": "fastbrowse",
+      "url": "https://www.producthunt.com/products/fastbrowse",
+      "tagline": "",
+      "pub_date": "2026-10-28T20:25:09-07:00"
+    },
+    {
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "tagline": "",
+      "pub_date": "2026-10-29T18:11:16-07:00"
+    },
+    {
       "title": "Chopstick",
       "url": "https://www.producthunt.com/products/chopstick",
       "tagline": "",
       "pub_date": "2026-10-29T00:38:23-07:00"
     },
     {
-      "title": "AssemblyAI",
-      "url": "https://www.producthunt.com/products/assemblyai",
+      "title": "sitesolide",
+      "url": "https://www.producthunt.com/products/sitesolide",
       "tagline": "",
-      "pub_date": "2026-10-28T15:35:24-07:00"
+      "pub_date": "2026-10-29T08:27:44-07:00"
     },
     {
-      "title": "Notch Metrics",
-      "url": "https://www.producthunt.com/products/notch-metrics",
+      "title": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
       "tagline": "",
-      "pub_date": "2026-10-28T02:57:56-07:00"
+      "pub_date": "2026-10-20T01:15:05-07:00"
     },
     {
-      "title": "JIMMY",
-      "url": "https://www.producthunt.com/products/jimmy",
+      "title": "iSurge",
+      "url": "https://www.producthunt.com/products/isurge",
       "tagline": "",
-      "pub_date": "2026-10-24T22:01:48-07:00"
+      "pub_date": "2026-10-28T23:15:46-07:00"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://www.producthunt.com/products/gemini-4-carbon",
+      "title": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
       "tagline": "",
-      "pub_date": "2026-10-28T10:27:14-07:00"
+      "pub_date": "2026-10-25T10:43:45-07:00"
+    },
+    {
+      "title": "Kestrix",
+      "url": "https://www.producthunt.com/products/kestrix",
+      "tagline": "",
+      "pub_date": "2026-10-28T13:26:10-07:00"
+    },
+    {
+      "title": "Polylane for ChatGPT",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-10-28T15:04:42-07:00"
+    },
+    {
+      "title": "TopAgent",
+      "url": "https://www.producthunt.com/products/topmessage",
+      "tagline": "",
+      "pub_date": "2026-10-19T05:56:25-07:00"
+    },
+    {
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "tagline": "",
+      "pub_date": "2026-10-28T11:26:21-07:00"
+    },
+    {
+      "title": "StoreLocale",
+      "url": "https://www.producthunt.com/products/storelocale",
+      "tagline": "",
+      "pub_date": "2026-10-28T04:24:39-07:00"
+    },
+    {
+      "title": "OutreachGuy",
+      "url": "https://www.producthunt.com/products/outreachguy",
+      "tagline": "",
+      "pub_date": "2026-10-19T01:05:16-07:00"
+    },
+    {
+      "title": "Intrascope 2.0",
+      "url": "https://www.producthunt.com/products/intrascope-app",
+      "tagline": "",
+      "pub_date": "2026-10-26T06:58:42-07:00"
     },
     {
       "title": "Confetti",
@@ -347,34 +359,22 @@
       "pub_date": "2026-10-27T16:51:07-07:00"
     },
     {
+      "title": "Voxel51 Multimodal",
+      "url": "https://www.producthunt.com/products/voxel51",
+      "tagline": "",
+      "pub_date": "2026-10-27T10:03:15-07:00"
+    },
+    {
+      "title": "Viggle JST-2",
+      "url": "https://www.producthunt.com/products/viggle-ai",
+      "tagline": "",
+      "pub_date": "2026-10-19T12:59:38-07:00"
+    },
+    {
       "title": "Empacer",
       "url": "https://www.producthunt.com/products/empacer",
       "tagline": "",
       "pub_date": "2026-10-27T06:56:57-07:00"
-    },
-    {
-      "title": "Gologin Cloud Browser",
-      "url": "https://www.producthunt.com/products/gologin",
-      "tagline": "",
-      "pub_date": "2026-10-22T10:53:59-07:00"
-    },
-    {
-      "title": "Scape",
-      "url": "https://www.producthunt.com/products/scape-4",
-      "tagline": "",
-      "pub_date": "2026-10-21T07:59:42-07:00"
-    },
-    {
-      "title": "AutoShelf 2.6",
-      "url": "https://www.producthunt.com/products/autoshelf",
-      "tagline": "",
-      "pub_date": "2026-10-28T15:19:51-07:00"
-    },
-    {
-      "title": "OutreachGuy",
-      "url": "https://www.producthunt.com/products/outreachguy",
-      "tagline": "",
-      "pub_date": "2026-10-19T01:05:16-07:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:49:29.402Z",
+  "generated_at": "2026-10-30T11:55:55.003Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
       "url": "https://github.com/johncassil/dontallow",
       "hn_url": "https://news.ycombinator.com/item?id=50294506",
-      "points": 109,
-      "comments": 83,
+      "points": 144,
+      "comments": 106,
       "created_ts": 1793302064,
       "author": "johncassil"
     },
@@ -16,28 +16,46 @@
       "title": "Show HN: I Turned DOOM into a Transformer",
       "url": "https://github.com/mottopanikeiku/doomformer",
       "hn_url": "https://news.ycombinator.com/item?id=50297697",
-      "points": 55,
-      "comments": 12,
+      "points": 99,
+      "comments": 31,
       "created_ts": 1793316346,
       "author": "falperc"
     },
     {
-      "title": "Show HN: UK Farming Simulator",
-      "url": "https://butterbean.farm/",
-      "hn_url": "https://news.ycombinator.com/item?id=50287255",
-      "points": 42,
-      "comments": 45,
-      "created_ts": 1793272559,
-      "author": "pattle"
+      "title": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
+      "url": "https://www.arsaze.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50300618",
+      "points": 54,
+      "comments": 0,
+      "created_ts": 1793343333,
+      "author": "ArshadAzeezM"
     },
     {
       "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
       "url": "https://github.com/lonthq/overtone-captions",
       "hn_url": "https://news.ycombinator.com/item?id=50293115",
-      "points": 37,
-      "comments": 2,
+      "points": 40,
+      "comments": 3,
       "created_ts": 1793296097,
       "author": "rvanderlinden"
+    },
+    {
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "url": "https://github.com/Millillion/lasm",
+      "hn_url": "https://news.ycombinator.com/item?id=50299004",
+      "points": 31,
+      "comments": 13,
+      "created_ts": 1793325941,
+      "author": "lastmjs"
+    },
+    {
+      "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
+      "url": "https://pypi.org/project/capo-s3/",
+      "hn_url": "https://news.ycombinator.com/item?id=50293303",
+      "points": 15,
+      "comments": 2,
+      "created_ts": 1793296923,
+      "author": "karpetrosyan"
     },
     {
       "title": "Show HN: GenesisDB – The event sourcing database, is now open source",
@@ -49,31 +67,22 @@
       "author": "patriceckhart"
     },
     {
-      "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
-      "url": "https://pypi.org/project/capo-s3/",
-      "hn_url": "https://news.ycombinator.com/item?id=50293303",
-      "points": 12,
-      "comments": 2,
-      "created_ts": 1793296923,
-      "author": "karpetrosyan"
-    },
-    {
       "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
       "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
       "hn_url": "https://news.ycombinator.com/item?id=50293361",
-      "points": 11,
+      "points": 12,
       "comments": 4,
       "created_ts": 1793297182,
       "author": "akashpatel7204"
     },
     {
-      "title": "Show HN: Uji – Gentoo of Coding Agents",
-      "url": "https://github.com/uji-labs/uji",
-      "hn_url": "https://news.ycombinator.com/item?id=50284996",
+      "title": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
+      "url": "https://sparkjs.dev/radix/",
+      "hn_url": "https://news.ycombinator.com/item?id=50292475",
       "points": 11,
       "comments": 0,
-      "created_ts": 1793253136,
-      "author": "cat-whisperer"
+      "created_ts": 1793293849,
+      "author": "dmarcos"
     }
   ],
   "hn_front": [
@@ -81,8 +90,8 @@
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "hn_url": "https://news.ycombinator.com/item?id=50294702",
-      "points": 2556,
-      "comments": 543,
+      "points": 3068,
+      "comments": 653,
       "created_ts": 1793302899,
       "author": "j4mie"
     },
@@ -90,8 +99,8 @@
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "hn_url": "https://news.ycombinator.com/item?id=50289418",
-      "points": 1257,
-      "comments": 353,
+      "points": 1538,
+      "comments": 403,
       "created_ts": 1793283201,
       "author": "kuberwastaken"
     },
@@ -99,26 +108,17 @@
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "hn_url": "https://news.ycombinator.com/item?id=50296470",
-      "points": 890,
-      "comments": 518,
+      "points": 1470,
+      "comments": 952,
       "created_ts": 1793309939,
       "author": "Tiberium"
-    },
-    {
-      "title": "DoorDash to acquire Instacart",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "hn_url": "https://news.ycombinator.com/item?id=50287919",
-      "points": 446,
-      "comments": 616,
-      "created_ts": 1793277185,
-      "author": "WalterSobchak"
     },
     {
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "points": 374,
-      "comments": 200,
+      "points": 503,
+      "comments": 263,
       "created_ts": 1793285875,
       "author": "ibobev"
     },
@@ -126,213 +126,195 @@
       "title": "H.264 Is Magic (2016)",
       "url": "https://sidbala.com/h-264-is-magic/",
       "hn_url": "https://news.ycombinator.com/item?id=50291054",
-      "points": 357,
-      "comments": 130,
+      "points": 453,
+      "comments": 151,
       "created_ts": 1793289183,
       "author": "ea016"
-    },
-    {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "hn_url": "https://news.ycombinator.com/item?id=50286987",
-      "points": 302,
-      "comments": 150,
-      "created_ts": 1793270561,
-      "author": "882542F3884314B"
-    },
-    {
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "hn_url": "https://news.ycombinator.com/item?id=50287775",
-      "points": 245,
-      "comments": 347,
-      "created_ts": 1793276340,
-      "author": "rokostik"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
-      "points": 211,
-      "comments": 69,
+      "points": 310,
+      "comments": 113,
       "created_ts": 1793310028,
       "author": "sandslash"
+    },
+    {
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "hn_url": "https://news.ycombinator.com/item?id=50287775",
+      "points": 296,
+      "comments": 413,
+      "created_ts": 1793276340,
+      "author": "rokostik"
+    },
+    {
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "hn_url": "https://news.ycombinator.com/item?id=50298436",
+      "points": 240,
+      "comments": 158,
+      "created_ts": 1793320961,
+      "author": "cherioo"
     },
     {
       "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
       "url": "https://github.com/SheepSeb/tinyworldformer",
       "hn_url": "https://news.ycombinator.com/item?id=50295450",
-      "points": 161,
-      "comments": 8,
+      "points": 232,
+      "comments": 15,
       "created_ts": 1793305948,
       "author": "airinei"
     },
     {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "hn_url": "https://news.ycombinator.com/item?id=50294506",
-      "points": 109,
-      "comments": 83,
-      "created_ts": 1793302064,
-      "author": "johncassil"
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "hn_url": "https://news.ycombinator.com/item?id=50298964",
+      "points": 157,
+      "comments": 72,
+      "created_ts": 1793325524,
+      "author": "henrid"
+    },
+    {
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "hn_url": "https://news.ycombinator.com/item?id=50297089",
+      "points": 126,
+      "comments": 29,
+      "created_ts": 1793312798,
+      "author": "simonebrunozzi"
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "hn_url": "https://news.ycombinator.com/item?id=50302334",
+      "points": 108,
+      "comments": 17,
+      "created_ts": 1793358353,
+      "author": "dsr_"
     }
   ],
   "ph_today": [
     {
-      "title": "Scape",
-      "url": "https://www.producthunt.com/products/scape-4",
+      "title": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
       "tagline": "",
-      "pub_date": "2026-10-21T07:59:42-07:00"
+      "pub_date": "2026-10-29T12:23:23-07:00"
     },
     {
-      "title": "ChatInbox",
-      "url": "https://www.producthunt.com/products/chatinbox-2",
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
       "tagline": "",
-      "pub_date": "2026-09-04T22:49:48-07:00"
+      "pub_date": "2026-10-29T18:11:16-07:00"
     },
     {
-      "title": "OutreachGuy",
-      "url": "https://www.producthunt.com/products/outreachguy",
+      "title": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
       "tagline": "",
-      "pub_date": "2026-10-19T01:05:16-07:00"
+      "pub_date": "2026-10-27T22:20:54-07:00"
     },
     {
-      "title": "Empacer",
-      "url": "https://www.producthunt.com/products/empacer",
+      "title": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
       "tagline": "",
-      "pub_date": "2026-10-27T06:56:57-07:00"
+      "pub_date": "2026-10-29T14:10:07-07:00"
     },
     {
-      "title": "StoreLocale",
-      "url": "https://www.producthunt.com/products/storelocale",
+      "title": "Kestrix",
+      "url": "https://www.producthunt.com/products/kestrix",
       "tagline": "",
-      "pub_date": "2026-10-28T04:24:39-07:00"
+      "pub_date": "2026-10-28T13:26:10-07:00"
     },
     {
-      "title": "MAO",
-      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+      "title": "sitesolide",
+      "url": "https://www.producthunt.com/products/sitesolide",
       "tagline": "",
-      "pub_date": "2026-10-28T04:27:28-07:00"
+      "pub_date": "2026-10-29T08:27:44-07:00"
     },
     {
-      "title": "Intrascope 2.0",
-      "url": "https://www.producthunt.com/products/intrascope-app",
+      "title": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
       "tagline": "",
-      "pub_date": "2026-10-26T06:58:42-07:00"
+      "pub_date": "2026-10-25T10:43:45-07:00"
     },
     {
-      "title": "AfterLid",
-      "url": "https://www.producthunt.com/products/afterlid",
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
       "tagline": "",
-      "pub_date": "2026-10-15T10:41:52-07:00"
+      "pub_date": "2026-10-29T15:03:45-07:00"
     },
     {
-      "title": "Suno MCP",
-      "url": "https://www.producthunt.com/products/suno",
+      "title": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
       "tagline": "",
-      "pub_date": "2026-10-28T11:33:54-07:00"
+      "pub_date": "2026-10-29T15:05:03-07:00"
     },
     {
-      "title": "AutoShelf 2.6",
-      "url": "https://www.producthunt.com/products/autoshelf",
+      "title": "Cluinn",
+      "url": "https://www.producthunt.com/products/cluinn",
       "tagline": "",
-      "pub_date": "2026-10-28T15:19:51-07:00"
+      "pub_date": "2026-10-16T08:08:14-07:00"
     },
     {
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
+      "title": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
       "tagline": "",
-      "pub_date": "2026-10-28T11:26:21-07:00"
+      "pub_date": "2026-10-26T22:29:14-07:00"
     },
     {
-      "title": "Confetti",
-      "url": "https://www.producthunt.com/products/confetti-5",
+      "title": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
       "tagline": "",
-      "pub_date": "2026-10-27T16:51:07-07:00"
+      "pub_date": "2026-10-29T12:42:40-07:00"
     },
     {
-      "title": "Polylane for ChatGPT",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
       "tagline": "",
-      "pub_date": "2026-10-28T15:04:42-07:00"
+      "pub_date": "2026-10-29T10:54:14-07:00"
     },
     {
-      "title": "Voxel51 Multimodal",
-      "url": "https://www.producthunt.com/products/voxel51",
+      "title": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
       "tagline": "",
-      "pub_date": "2026-10-27T10:03:15-07:00"
+      "pub_date": "2026-10-27T02:21:00-07:00"
     },
     {
-      "title": "Gologin Cloud Browser",
-      "url": "https://www.producthunt.com/products/gologin",
+      "title": "iSurge",
+      "url": "https://www.producthunt.com/products/isurge",
       "tagline": "",
-      "pub_date": "2026-10-22T10:53:59-07:00"
+      "pub_date": "2026-10-28T23:15:46-07:00"
     },
     {
-      "title": "Viggle JST-2",
-      "url": "https://www.producthunt.com/products/viggle-ai",
+      "title": "fastbrowse",
+      "url": "https://www.producthunt.com/products/fastbrowse",
       "tagline": "",
-      "pub_date": "2026-10-19T12:59:38-07:00"
+      "pub_date": "2026-10-28T20:25:09-07:00"
     },
     {
-      "title": "Notch Metrics",
-      "url": "https://www.producthunt.com/products/notch-metrics",
+      "title": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
       "tagline": "",
-      "pub_date": "2026-10-28T02:57:56-07:00"
+      "pub_date": "2026-10-20T01:15:05-07:00"
     },
     {
-      "title": "TopAgent",
-      "url": "https://www.producthunt.com/products/topmessage",
+      "title": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai",
       "tagline": "",
-      "pub_date": "2026-10-19T05:56:25-07:00"
+      "pub_date": "2026-10-26T00:29:10-07:00"
     },
     {
-      "title": "Flatbread",
-      "url": "https://www.producthunt.com/products/flatbread",
+      "title": "SpeakON Agent",
+      "url": "https://www.producthunt.com/products/speakon",
       "tagline": "",
-      "pub_date": "2026-10-28T16:47:45-07:00"
+      "pub_date": "2026-10-29T03:44:31-07:00"
     },
     {
-      "title": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
+      "title": "Chopstick",
+      "url": "https://www.producthunt.com/products/chopstick",
       "tagline": "",
-      "pub_date": "2026-10-27T13:41:59-07:00"
-    },
-    {
-      "title": "Kin",
-      "url": "https://www.producthunt.com/products/kin-6",
-      "tagline": "",
-      "pub_date": "2026-10-28T03:24:00-07:00"
-    },
-    {
-      "title": "Reset Alerts",
-      "url": "https://www.producthunt.com/products/reset-alerts",
-      "tagline": "",
-      "pub_date": "2026-10-27T12:57:18-07:00"
-    },
-    {
-      "title": "Smart Jelly",
-      "url": "https://www.producthunt.com/products/smart-jelly",
-      "tagline": "",
-      "pub_date": "2026-10-28T03:57:05-07:00"
-    },
-    {
-      "title": "Arco",
-      "url": "https://www.producthunt.com/products/arco-4",
-      "tagline": "",
-      "pub_date": "2026-10-28T22:31:15-07:00"
-    },
-    {
-      "title": "Floot in ChatGPT",
-      "url": "https://www.producthunt.com/products/floot",
-      "tagline": "",
-      "pub_date": "2026-10-28T13:14:10-07:00"
-    },
-    {
-      "title": "Enclave",
-      "url": "https://www.producthunt.com/products/enclave-2",
-      "tagline": "",
-      "pub_date": "2026-10-27T08:45:58-07:00"
+      "pub_date": "2026-10-29T00:38:23-07:00"
     },
     {
       "title": "AssemblyAI",
@@ -341,22 +323,58 @@
       "pub_date": "2026-10-28T15:35:24-07:00"
     },
     {
+      "title": "Notch Metrics",
+      "url": "https://www.producthunt.com/products/notch-metrics",
+      "tagline": "",
+      "pub_date": "2026-10-28T02:57:56-07:00"
+    },
+    {
       "title": "JIMMY",
       "url": "https://www.producthunt.com/products/jimmy",
       "tagline": "",
       "pub_date": "2026-10-24T22:01:48-07:00"
     },
     {
-      "title": "Recall for Mac",
-      "url": "https://www.producthunt.com/products/recall-for-mac",
-      "tagline": "",
-      "pub_date": "2026-10-27T23:10:13-07:00"
-    },
-    {
       "title": "Gemini 4 Carbon",
       "url": "https://www.producthunt.com/products/gemini-4-carbon",
       "tagline": "",
       "pub_date": "2026-10-28T10:27:14-07:00"
+    },
+    {
+      "title": "Confetti",
+      "url": "https://www.producthunt.com/products/confetti-5",
+      "tagline": "",
+      "pub_date": "2026-10-27T16:51:07-07:00"
+    },
+    {
+      "title": "Empacer",
+      "url": "https://www.producthunt.com/products/empacer",
+      "tagline": "",
+      "pub_date": "2026-10-27T06:56:57-07:00"
+    },
+    {
+      "title": "Gologin Cloud Browser",
+      "url": "https://www.producthunt.com/products/gologin",
+      "tagline": "",
+      "pub_date": "2026-10-22T10:53:59-07:00"
+    },
+    {
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-4",
+      "tagline": "",
+      "pub_date": "2026-10-21T07:59:42-07:00"
+    },
+    {
+      "title": "AutoShelf 2.6",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "tagline": "",
+      "pub_date": "2026-10-28T15:19:51-07:00"
+    },
+    {
+      "title": "OutreachGuy",
+      "url": "https://www.producthunt.com/products/outreachguy",
+      "tagline": "",
+      "pub_date": "2026-10-19T01:05:16-07:00"
     }
   ]
 }

@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-11-01T03:38:49.908Z",
+  "generated_at": "2026-11-01T12:26:15.305Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "hn_url": "https://news.ycombinator.com/item?id=50319169",
-      "points": 66,
-      "comments": 39,
-      "created_ts": 1793474328,
-      "author": "tevlon"
-    },
-    {
       "title": "Show HN: A language model that lives in a boot sector",
       "url": "https://github.com/kerlenton/bootgpt",
       "hn_url": "https://news.ycombinator.com/item?id=50315782",
-      "points": 62,
-      "comments": 1,
+      "points": 87,
+      "comments": 5,
       "created_ts": 1793451509,
       "author": "kerlenton"
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "hn_url": "https://news.ycombinator.com/item?id=50319169",
+      "points": 83,
+      "comments": 68,
+      "created_ts": 1793474328,
+      "author": "tevlon"
     },
     {
       "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
       "url": "https://github.com/Koppar-AI/koppar-lte-modem",
       "hn_url": "https://news.ycombinator.com/item?id=50317331",
-      "points": 50,
-      "comments": 34,
+      "points": 58,
+      "comments": 37,
       "created_ts": 1793462201,
       "author": "abijahkaj"
-    },
-    {
-      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-      "url": "https://www.jointter.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50317548",
-      "points": 13,
-      "comments": 19,
-      "created_ts": 1793463864,
-      "author": "proy87"
-    },
-    {
-      "title": "Show HN: Quit everything to make one website",
-      "url": "https://hellojomp.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50317153",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1793461090,
-      "author": "hellojomp"
     },
     {
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
       "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
       "hn_url": "https://news.ycombinator.com/item?id=50321522",
-      "points": 11,
-      "comments": 4,
+      "points": 37,
+      "comments": 8,
       "created_ts": 1793491830,
       "author": "creack"
+    },
+    {
+      "title": "Show HN: Quit everything to make one website",
+      "url": "https://hellojomp.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50317153",
+      "points": 16,
+      "comments": 1,
+      "created_ts": 1793461090,
+      "author": "hellojomp"
+    },
+    {
+      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+      "url": "https://www.jointter.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50317548",
+      "points": 14,
+      "comments": 23,
+      "created_ts": 1793463864,
+      "author": "proy87"
+    },
+    {
+      "title": "Show HN: Vela, a New Linux Desktop Environment",
+      "url": "https://velade.org/blog/vela-0-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=50321663",
+      "points": 12,
+      "comments": 12,
+      "created_ts": 1793493370,
+      "author": "BrandoDev_it"
     }
   ],
   "hn_front": [
@@ -63,96 +72,237 @@
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "hn_url": "https://news.ycombinator.com/item?id=50319510",
-      "points": 860,
-      "comments": 274,
+      "points": 1463,
+      "comments": 395,
       "created_ts": 1793476613,
       "author": "karpathy"
-    },
-    {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "hn_url": "https://news.ycombinator.com/item?id=50314654",
-      "points": 828,
-      "comments": 471,
-      "created_ts": 1793442090,
-      "author": "input_sh"
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
       "hn_url": "https://news.ycombinator.com/item?id=50319143",
-      "points": 383,
-      "comments": 181,
+      "points": 545,
+      "comments": 250,
       "created_ts": 1793474190,
       "author": "oger"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "hn_url": "https://news.ycombinator.com/item?id=50314699",
-      "points": 309,
-      "comments": 152,
-      "created_ts": 1793442611,
-      "author": "armcat"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "hn_url": "https://news.ycombinator.com/item?id=50319358",
-      "points": 236,
-      "comments": 131,
-      "created_ts": 1793475559,
-      "author": "pretext"
-    },
-    {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "hn_url": "https://news.ycombinator.com/item?id=50316100",
-      "points": 216,
-      "comments": 119,
-      "created_ts": 1793453992,
-      "author": "aphyr"
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "hn_url": "https://news.ycombinator.com/item?id=50320963",
-      "points": 211,
-      "comments": 63,
+      "points": 506,
+      "comments": 158,
       "created_ts": 1793486466,
       "author": "ecares"
     },
     {
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "hn_url": "https://news.ycombinator.com/item?id=50318720",
-      "points": 144,
-      "comments": 43,
-      "created_ts": 1793471896,
-      "author": "ntur1337"
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "hn_url": "https://news.ycombinator.com/item?id=50316100",
+      "points": 282,
+      "comments": 160,
+      "created_ts": 1793453992,
+      "author": "aphyr"
     },
     {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "hn_url": "https://news.ycombinator.com/item?id=50320995",
-      "points": 115,
-      "comments": 60,
+      "points": 277,
+      "comments": 125,
       "created_ts": 1793486772,
       "author": "guregodevo"
+    },
+    {
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "hn_url": "https://news.ycombinator.com/item?id=50318720",
+      "points": 211,
+      "comments": 69,
+      "created_ts": 1793471896,
+      "author": "ntur1337"
+    },
+    {
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "hn_url": "https://news.ycombinator.com/item?id=50324388",
+      "points": 199,
+      "comments": 79,
+      "created_ts": 1793530078,
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "hn_url": "https://news.ycombinator.com/item?id=50320588",
+      "points": 166,
+      "comments": 103,
+      "created_ts": 1793483347,
+      "author": "Zariel"
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "hn_url": "https://news.ycombinator.com/item?id=50322173",
+      "points": 159,
+      "comments": 66,
+      "created_ts": 1793499593,
+      "author": "doodlesdev"
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "hn_url": "https://news.ycombinator.com/item?id=50319110",
+      "points": 132,
+      "comments": 63,
+      "created_ts": 1793474014,
+      "author": "toomuchtodo"
+    },
+    {
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "hn_url": "https://news.ycombinator.com/item?id=50319563",
+      "points": 130,
+      "comments": 39,
+      "created_ts": 1793476926,
+      "author": "samizdis"
+    },
+    {
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50319061",
+      "points": 125,
+      "comments": 33,
+      "created_ts": 1793473656,
+      "author": "gslin"
+    },
+    {
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "hn_url": "https://news.ycombinator.com/item?id=50321048",
+      "points": 120,
+      "comments": 6,
+      "created_ts": 1793487295,
+      "author": "uvdn7"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "hn_url": "https://news.ycombinator.com/item?id=50323088",
+      "points": 117,
+      "comments": 67,
+      "created_ts": 1793513179,
+      "author": "luu"
     }
   ],
   "ph_today": [
     {
-      "title": "Hemmed",
-      "url": "https://www.producthunt.com/products/hemmed",
+      "title": "agentmash",
+      "url": "https://www.producthunt.com/products/agentmash",
       "tagline": "",
-      "pub_date": "2026-10-29T17:50:28-07:00"
+      "pub_date": "2026-10-31T11:08:19-07:00"
     },
     {
-      "title": "ChainPoints",
-      "url": "https://www.producthunt.com/products/chainpoints",
+      "title": "ClawsGO Science",
+      "url": "https://www.producthunt.com/products/clawsgo-science",
       "tagline": "",
-      "pub_date": "2026-10-30T10:51:42-07:00"
+      "pub_date": "2026-10-26T03:07:37-07:00"
+    },
+    {
+      "title": "Hamdori",
+      "url": "https://www.producthunt.com/products/hamdori",
+      "tagline": "",
+      "pub_date": "2026-10-29T22:53:06-07:00"
+    },
+    {
+      "title": "Screen Studio 4.0",
+      "url": "https://www.producthunt.com/products/screen-studio",
+      "tagline": "",
+      "pub_date": "2026-10-30T07:42:02-07:00"
+    },
+    {
+      "title": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "tagline": "",
+      "pub_date": "2026-10-26T10:33:37-07:00"
+    },
+    {
+      "title": "Usage for Claude + ChatGPT 4.0",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "tagline": "",
+      "pub_date": "2026-10-29T14:38:31-07:00"
+    },
+    {
+      "title": "Chorin: Ora et Labora",
+      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
+      "tagline": "",
+      "pub_date": "2026-10-30T08:04:03-07:00"
+    },
+    {
+      "title": "BeeBranch",
+      "url": "https://www.producthunt.com/products/beebranch",
+      "tagline": "",
+      "pub_date": "2026-10-29T08:59:11-07:00"
+    },
+    {
+      "title": "Precise Edit by Ideogram",
+      "url": "https://www.producthunt.com/products/ideogram",
+      "tagline": "",
+      "pub_date": "2026-10-29T10:04:25-07:00"
+    },
+    {
+      "title": "ernd",
+      "url": "https://www.producthunt.com/products/ernd",
+      "tagline": "",
+      "pub_date": "2026-10-31T01:07:30-07:00"
+    },
+    {
+      "title": "Raah.dev",
+      "url": "https://www.producthunt.com/products/raah-dev",
+      "tagline": "",
+      "pub_date": "2026-10-27T13:58:29-07:00"
+    },
+    {
+      "title": "Embage",
+      "url": "https://www.producthunt.com/products/embage",
+      "tagline": "",
+      "pub_date": "2026-10-30T00:01:40-07:00"
+    },
+    {
+      "title": "Termy",
+      "url": "https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62",
+      "tagline": "",
+      "pub_date": "2026-10-29T23:24:13-07:00"
+    },
+    {
+      "title": "Click",
+      "url": "https://www.producthunt.com/products/click-6",
+      "tagline": "",
+      "pub_date": "2026-10-20T11:47:20-07:00"
+    },
+    {
+      "title": "CutCat",
+      "url": "https://www.producthunt.com/products/cutcat",
+      "tagline": "",
+      "pub_date": "2026-10-24T02:34:40-07:00"
+    },
+    {
+      "title": "Yuzu Sync",
+      "url": "https://www.producthunt.com/products/yuzu-sync",
+      "tagline": "",
+      "pub_date": "2026-10-27T21:19:31-07:00"
+    },
+    {
+      "title": "magpie",
+      "url": "https://www.producthunt.com/products/magpie-14",
+      "tagline": "",
+      "pub_date": "2026-10-26T15:27:20-07:00"
+    },
+    {
+      "title": "Modelpeers",
+      "url": "https://www.producthunt.com/products/modelpeers",
+      "tagline": "",
+      "pub_date": "2026-10-27T17:09:53-07:00"
     },
     {
       "title": "telemetry.dev",
@@ -167,52 +317,10 @@
       "pub_date": "2026-10-26T07:34:31-07:00"
     },
     {
-      "title": "BaseTab AI",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "tagline": "",
-      "pub_date": "2026-10-29T10:41:03-07:00"
-    },
-    {
-      "title": "Secret Key",
-      "url": "https://www.producthunt.com/products/secret-key",
-      "tagline": "",
-      "pub_date": "2026-10-30T11:54:54-07:00"
-    },
-    {
       "title": "GitHub Copilot Fusion",
       "url": "https://www.producthunt.com/products/github-copilot-fusion",
       "tagline": "",
       "pub_date": "2026-10-28T22:39:35-07:00"
-    },
-    {
-      "title": "WinnerAdSpy",
-      "url": "https://www.producthunt.com/products/winneradspy",
-      "tagline": "",
-      "pub_date": "2026-09-22T01:35:26-07:00"
-    },
-    {
-      "title": "Backenly",
-      "url": "https://www.producthunt.com/products/backenly-2",
-      "tagline": "",
-      "pub_date": "2026-10-29T14:07:32-07:00"
-    },
-    {
-      "title": "Godwit",
-      "url": "https://www.producthunt.com/products/godwit",
-      "tagline": "",
-      "pub_date": "2026-10-30T20:45:26-07:00"
-    },
-    {
-      "title": "AC Bridge",
-      "url": "https://www.producthunt.com/products/ac-bridge",
-      "tagline": "",
-      "pub_date": "2026-10-30T21:20:01-07:00"
-    },
-    {
-      "title": "SpaceO",
-      "url": "https://www.producthunt.com/products/spaceo",
-      "tagline": "",
-      "pub_date": "2026-10-04T01:20:17-07:00"
     },
     {
       "title": "Agnos",
@@ -233,94 +341,40 @@
       "pub_date": "2026-10-30T17:15:52-07:00"
     },
     {
-      "title": "Seqora",
-      "url": "https://www.producthunt.com/products/seqora",
-      "tagline": "",
-      "pub_date": "2026-10-25T22:37:10-07:00"
-    },
-    {
-      "title": "Pluto Door",
-      "url": "https://www.producthunt.com/products/pluto-door",
-      "tagline": "",
-      "pub_date": "2026-10-30T15:10:44-07:00"
-    },
-    {
       "title": "CubbyPad",
       "url": "https://www.producthunt.com/products/cubbypad",
       "tagline": "",
       "pub_date": "2026-10-19T05:08:31-07:00"
     },
     {
-      "title": "SKI",
-      "url": "https://www.producthunt.com/products/ski",
+      "title": "SpaceO",
+      "url": "https://www.producthunt.com/products/spaceo",
       "tagline": "",
-      "pub_date": "2026-10-30T00:45:39-07:00"
+      "pub_date": "2026-10-04T01:20:17-07:00"
     },
     {
-      "title": "Coding Wrapped",
-      "url": "https://www.producthunt.com/products/coding-wrapped",
+      "title": "Seqora",
+      "url": "https://www.producthunt.com/products/seqora",
       "tagline": "",
-      "pub_date": "2026-10-20T01:53:03-07:00"
+      "pub_date": "2026-10-25T22:37:10-07:00"
     },
     {
-      "title": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
+      "title": "ChainPoints",
+      "url": "https://www.producthunt.com/products/chainpoints",
       "tagline": "",
-      "pub_date": "2026-10-18T11:03:42-07:00"
+      "pub_date": "2026-10-30T10:51:42-07:00"
     },
     {
-      "title": "Knucklebop",
-      "url": "https://www.producthunt.com/products/knucklebop",
+      "title": "WinnerAdSpy",
+      "url": "https://www.producthunt.com/products/winneradspy",
       "tagline": "",
-      "pub_date": "2026-10-28T04:02:13-07:00"
+      "pub_date": "2026-09-22T01:35:26-07:00"
     },
     {
-      "title": "StereoLift Live",
-      "url": "https://www.producthunt.com/products/stereolift-live",
+      "title": "Secret Key",
+      "url": "https://www.producthunt.com/products/secret-key",
       "tagline": "",
-      "pub_date": "2026-10-25T10:43:45-07:00"
-    },
-    {
-      "title": "Knocket AI",
-      "url": "https://www.producthunt.com/products/knocket-ai",
-      "tagline": "",
-      "pub_date": "2026-10-26T00:29:10-07:00"
-    },
-    {
-      "title": "Norah Studio",
-      "url": "https://www.producthunt.com/products/norah-studio",
-      "tagline": "",
-      "pub_date": "2026-10-29T15:05:03-07:00"
-    },
-    {
-      "title": "Nocto",
-      "url": "https://www.producthunt.com/products/nocto",
-      "tagline": "",
-      "pub_date": "2026-10-29T14:10:07-07:00"
-    },
-    {
-      "title": "Chopstick",
-      "url": "https://www.producthunt.com/products/chopstick",
-      "tagline": "",
-      "pub_date": "2026-10-29T00:38:23-07:00"
-    },
-    {
-      "title": "SpeakON Agent",
-      "url": "https://www.producthunt.com/products/speakon",
-      "tagline": "",
-      "pub_date": "2026-10-29T03:44:31-07:00"
-    },
-    {
-      "title": "StepGrab",
-      "url": "https://www.producthunt.com/products/stepgrab",
-      "tagline": "",
-      "pub_date": "2026-10-29T15:03:45-07:00"
-    },
-    {
-      "title": "Canva Brush",
-      "url": "https://www.producthunt.com/products/canva",
-      "tagline": "",
-      "pub_date": "2026-10-29T12:23:23-07:00"
+      "pub_date": "2026-10-30T11:54:54-07:00"
     }
   ]
 }

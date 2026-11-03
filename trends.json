@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:14:58.968Z",
+  "generated_at": "2026-11-03T13:22:32.858Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,46 +7,55 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "hn_url": "https://news.ycombinator.com/item?id=50340088",
-      "points": 504,
-      "comments": 272,
+      "points": 747,
+      "comments": 350,
       "created_ts": 1793639777,
       "author": "aarushyadav"
     },
     {
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
-      "hn_url": "https://news.ycombinator.com/item?id=50333339",
-      "points": 331,
-      "comments": 102,
-      "created_ts": 1793595990,
-      "author": "aizk"
-    },
-    {
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=50334704",
-      "points": 201,
-      "comments": 48,
-      "created_ts": 1793611756,
-      "author": "guitmz"
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "hn_url": "https://news.ycombinator.com/item?id=50346981",
+      "points": 342,
+      "comments": 108,
+      "created_ts": 1793670814,
+      "author": "polpenn"
     },
     {
       "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
       "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "hn_url": "https://news.ycombinator.com/item?id=50339221",
-      "points": 197,
-      "comments": 35,
+      "points": 293,
+      "comments": 48,
       "created_ts": 1793636726,
       "author": "stared"
     },
     {
-      "title": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
-      "url": "https://news.ycombinator.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50333877",
-      "points": 180,
-      "comments": 25,
-      "created_ts": 1793602780,
-      "author": "mw888"
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "hn_url": "https://news.ycombinator.com/item?id=50347552",
+      "points": 47,
+      "comments": 35,
+      "created_ts": 1793675404,
+      "author": "dh1011"
+    },
+    {
+      "title": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
+      "url": "https://github.com/atifcodesalot/pyWolf3D",
+      "hn_url": "https://news.ycombinator.com/item?id=50338891",
+      "points": 25,
+      "comments": 6,
+      "created_ts": 1793635753,
+      "author": "BSPtree"
+    },
+    {
+      "title": "Show HN: Rustable is an open source database client built in Rust",
+      "url": "https://rustable.app",
+      "hn_url": "https://news.ycombinator.com/item?id=50347524",
+      "points": 24,
+      "comments": 16,
+      "created_ts": 1793675213,
+      "author": "JaTochNietDan"
     },
     {
       "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
@@ -58,22 +67,22 @@
       "author": "wookashin"
     },
     {
-      "title": "Show HN: Hacker News but for comments posted on HN",
-      "url": "https://news.ycombinator.com/newcomments",
-      "hn_url": "https://news.ycombinator.com/item?id=50336025",
-      "points": 19,
-      "comments": 6,
-      "created_ts": 1793623079,
-      "author": "bambax"
+      "title": "Show HN: ReBirth 338 in Browser",
+      "url": "https://margeux.com/rb338.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50348740",
+      "points": 20,
+      "comments": 8,
+      "created_ts": 1793687090,
+      "author": "vegnus"
     },
     {
-      "title": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
-      "url": "https://github.com/atifcodesalot/pyWolf3D",
-      "hn_url": "https://news.ycombinator.com/item?id=50338891",
-      "points": 13,
-      "comments": 0,
-      "created_ts": 1793635753,
-      "author": "BSPtree"
+      "title": "Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server",
+      "url": "https://github.com/p10node/office-engine",
+      "hn_url": "https://news.ycombinator.com/item?id=50348361",
+      "points": 16,
+      "comments": 2,
+      "created_ts": 1793682810,
+      "author": "pierreneter"
     }
   ],
   "hn_front": [
@@ -81,26 +90,17 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "hn_url": "https://news.ycombinator.com/item?id=50341174",
-      "points": 1750,
-      "comments": 558,
+      "points": 2827,
+      "comments": 856,
       "created_ts": 1793643688,
       "author": "dbreunig"
-    },
-    {
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "hn_url": "https://news.ycombinator.com/item?id=50337608",
-      "points": 1270,
-      "comments": 575,
-      "created_ts": 1793631120,
-      "author": "chalmovsky"
     },
     {
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "hn_url": "https://news.ycombinator.com/item?id=50340088",
-      "points": 504,
-      "comments": 272,
+      "points": 747,
+      "comments": 350,
       "created_ts": 1793639777,
       "author": "aarushyadav"
     },
@@ -108,291 +108,282 @@
       "title": "If you love a website, back it up",
       "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
       "hn_url": "https://news.ycombinator.com/item?id=50336518",
-      "points": 370,
-      "comments": 92,
+      "points": 600,
+      "comments": 139,
       "created_ts": 1793625935,
       "author": "ingve"
-    },
-    {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "hn_url": "https://news.ycombinator.com/item?id=50341462",
-      "points": 279,
-      "comments": 54,
-      "created_ts": 1793644778,
-      "author": "majorchord"
     },
     {
       "title": "US boy names that became girl names and vice versa",
       "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
       "hn_url": "https://news.ycombinator.com/item?id=50339397",
-      "points": 261,
-      "comments": 294,
+      "points": 434,
+      "comments": 413,
       "created_ts": 1793637276,
       "author": "xoobdev"
     },
     {
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "hn_url": "https://news.ycombinator.com/item?id=50334704",
-      "points": 201,
-      "comments": 48,
-      "created_ts": 1793611756,
-      "author": "guitmz"
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "hn_url": "https://news.ycombinator.com/item?id=50346981",
+      "points": 342,
+      "comments": 108,
+      "created_ts": 1793670814,
+      "author": "polpenn"
     },
     {
       "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
       "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "hn_url": "https://news.ycombinator.com/item?id=50339221",
-      "points": 197,
-      "comments": 35,
+      "points": 293,
+      "comments": 48,
       "created_ts": 1793636726,
       "author": "stared"
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "hn_url": "https://news.ycombinator.com/item?id=50346849",
+      "points": 283,
+      "comments": 55,
+      "created_ts": 1793669623,
+      "author": "bpierre"
+    },
+    {
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "hn_url": "https://news.ycombinator.com/item?id=50340619",
+      "points": 267,
+      "comments": 75,
+      "created_ts": 1793641660,
+      "author": "tomrod"
     },
     {
       "title": "Ask HN: Who is hiring? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50338728",
       "hn_url": "https://news.ycombinator.com/item?id=50338728",
-      "points": 166,
-      "comments": 137,
+      "points": 227,
+      "comments": 188,
       "created_ts": 1793635297,
       "author": "whoishiring"
     },
     {
-      "title": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "hn_url": "https://news.ycombinator.com/item?id=50338747",
-      "points": 153,
-      "comments": 106,
-      "created_ts": 1793635346,
-      "author": "emschwartz"
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "hn_url": "https://news.ycombinator.com/item?id=50341736",
+      "points": 173,
+      "comments": 133,
+      "created_ts": 1793645684,
+      "author": "smilelamp"
     },
     {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50342284",
-      "points": 141,
-      "comments": 101,
-      "created_ts": 1793647657,
-      "author": "smartmic"
-    },
-    {
-      "title": "We halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "hn_url": "https://news.ycombinator.com/item?id=50337558",
-      "points": 132,
-      "comments": 44,
-      "created_ts": 1793630848,
-      "author": "wondersky"
-    },
-    {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "hn_url": "https://news.ycombinator.com/item?id=50344958",
-      "points": 123,
-      "comments": 145,
-      "created_ts": 1793658800,
-      "author": "cdrnsf"
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "hn_url": "https://news.ycombinator.com/item?id=50348962",
+      "points": 160,
+      "comments": 50,
+      "created_ts": 1793689490,
+      "author": "campervans"
     },
     {
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "url": "https://momentic.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50339913",
-      "points": 114,
-      "comments": 73,
+      "points": 149,
+      "comments": 99,
       "created_ts": 1793639125,
       "author": "wuweiweiwu"
     },
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "hn_url": "https://news.ycombinator.com/item?id=50344919",
-      "points": 114,
-      "comments": 64,
-      "created_ts": 1793658647,
-      "author": "cdrnsf"
+      "title": "Revolut moves to self-hosted GLM",
+      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "hn_url": "https://news.ycombinator.com/item?id=50350004",
+      "points": 142,
+      "comments": 101,
+      "created_ts": 1793699639,
+      "author": "pretext"
     }
   ],
   "ph_today": [
     {
-      "title": "Hera",
-      "url": "https://www.producthunt.com/products/hera-6",
+      "title": "Synter Canvas",
+      "url": "https://www.producthunt.com/products/synter-canvas",
       "tagline": "",
-      "pub_date": "2026-10-28T07:29:36-07:00"
+      "pub_date": "2026-10-20T10:07:34-07:00"
     },
     {
-      "title": "diff-tour",
-      "url": "https://www.producthunt.com/products/diff-tour",
+      "title": "Remote Gaze",
+      "url": "https://www.producthunt.com/products/remote-gaze",
       "tagline": "",
-      "pub_date": "2026-10-29T00:28:50-07:00"
+      "pub_date": "2026-11-01T21:11:35-08:00"
     },
     {
-      "title": "Cedric AI for Meetings",
-      "url": "https://www.producthunt.com/products/cedric",
+      "title": "Videco",
+      "url": "https://www.producthunt.com/products/videco",
       "tagline": "",
-      "pub_date": "2026-10-27T06:40:39-07:00"
+      "pub_date": "2026-10-22T03:55:05-07:00"
     },
     {
-      "title": "redu.cloud",
-      "url": "https://www.producthunt.com/products/redu-cloud",
+      "title": "Teamily AI",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
       "tagline": "",
-      "pub_date": "2025-12-12T08:54:24-08:00"
+      "pub_date": "2026-06-02T18:43:42-07:00"
     },
     {
-      "title": "Friday Work",
-      "url": "https://www.producthunt.com/products/friday-work",
+      "title": "AgentKit (by Scalekit)",
+      "url": "https://www.producthunt.com/products/scalekit",
       "tagline": "",
-      "pub_date": "2026-11-01T14:55:35-08:00"
+      "pub_date": "2026-10-13T07:16:55-07:00"
     },
     {
-      "title": "beacon.sh",
-      "url": "https://www.producthunt.com/products/asymptotelabs",
+      "title": "BRCKS Chat",
+      "url": "https://www.producthunt.com/products/brcks",
       "tagline": "",
-      "pub_date": "2026-10-25T07:47:53-07:00"
+      "pub_date": "2026-10-29T07:48:27-07:00"
     },
     {
-      "title": "Xmind 2027",
-      "url": "https://www.producthunt.com/products/xmind",
+      "title": "SUN Web &amp; API",
+      "url": "https://www.producthunt.com/products/sun-ai",
       "tagline": "",
-      "pub_date": "2026-11-01T16:24:06-08:00"
+      "pub_date": "2026-11-02T14:13:45-08:00"
     },
     {
-      "title": "Agent Inbox",
-      "url": "https://www.producthunt.com/products/agent-inbox",
+      "title": "Beamfy",
+      "url": "https://www.producthunt.com/products/beamfy",
       "tagline": "",
-      "pub_date": "2026-11-01T04:10:54-08:00"
+      "pub_date": "2026-10-28T13:55:52-07:00"
     },
     {
-      "title": "UnleashX",
-      "url": "https://www.producthunt.com/products/unleashx",
+      "title": "EaseIn Health",
+      "url": "https://www.producthunt.com/products/easein-health",
       "tagline": "",
-      "pub_date": "2026-10-19T06:17:47-07:00"
+      "pub_date": "2026-10-18T10:20:45-07:00"
     },
     {
-      "title": "Widgeteer",
-      "url": "https://www.producthunt.com/products/widgeteer",
+      "title": "One Roof",
+      "url": "https://www.producthunt.com/products/one-roof",
       "tagline": "",
-      "pub_date": "2026-10-30T10:42:32-07:00"
+      "pub_date": "2026-11-02T17:06:08-08:00"
     },
     {
-      "title": "Self-Growing Websites by Greta.sh",
-      "url": "https://www.producthunt.com/products/gretabyquestera",
+      "title": "Testera",
+      "url": "https://www.producthunt.com/products/testera-3",
       "tagline": "",
-      "pub_date": "2026-10-21T00:40:56-07:00"
+      "pub_date": "2026-11-02T05:52:38-08:00"
     },
     {
-      "title": "Display 1.0",
-      "url": "https://www.producthunt.com/products/display-dev",
+      "title": "Calendarly",
+      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
       "tagline": "",
-      "pub_date": "2026-10-30T08:28:49-07:00"
+      "pub_date": "2026-11-02T14:32:04-08:00"
     },
     {
-      "title": "Help",
-      "url": "https://www.producthunt.com/products/help-381",
+      "title": "Infino AI",
+      "url": "https://www.producthunt.com/products/infino-ai",
       "tagline": "",
-      "pub_date": "2026-11-01T23:05:48-08:00"
+      "pub_date": "2026-11-02T02:28:29-08:00"
     },
     {
-      "title": "CuriousLM",
-      "url": "https://www.producthunt.com/products/curiouslm",
+      "title": "NEXUPIRA",
+      "url": "https://www.producthunt.com/products/nexupira",
       "tagline": "",
-      "pub_date": "2026-10-07T00:16:11-07:00"
+      "pub_date": "2026-11-02T22:48:10-08:00"
     },
     {
-      "title": "Clayzo",
-      "url": "https://www.producthunt.com/products/clayzo",
+      "title": "MagicaLCore",
+      "url": "https://www.producthunt.com/products/magical-core-image-classifier",
       "tagline": "",
-      "pub_date": "2026-10-23T15:33:11-07:00"
+      "pub_date": "2026-10-20T12:48:02-07:00"
     },
     {
-      "title": "Linkly AI Clipper",
-      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "title": "IQ",
+      "url": "https://www.producthunt.com/products/iq-code",
       "tagline": "",
-      "pub_date": "2026-07-27T06:11:29-07:00"
+      "pub_date": "2026-10-27T16:21:31-07:00"
     },
     {
-      "title": "Hyperresearch",
-      "url": "https://www.producthunt.com/products/hyperresearch",
+      "title": "kwant",
+      "url": "https://www.producthunt.com/products/kwant",
       "tagline": "",
-      "pub_date": "2026-10-30T15:54:03-07:00"
+      "pub_date": "2026-10-30T15:10:47-07:00"
     },
     {
-      "title": "Looper",
-      "url": "https://www.producthunt.com/products/looper-3",
+      "title": "HoldTalk",
+      "url": "https://www.producthunt.com/products/holdtalk",
       "tagline": "",
-      "pub_date": "2026-10-22T02:08:58-07:00"
+      "pub_date": "2026-11-01T13:18:13-08:00"
     },
     {
-      "title": "Usage for Claude + ChatGPT 4.0",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "title": "Peji",
+      "url": "https://www.producthunt.com/products/peji",
       "tagline": "",
-      "pub_date": "2026-10-29T14:38:31-07:00"
+      "pub_date": "2026-11-01T14:31:50-08:00"
     },
     {
-      "title": "BeeBranch",
-      "url": "https://www.producthunt.com/products/beebranch",
+      "title": "MachineMail",
+      "url": "https://www.producthunt.com/products/machinemail",
       "tagline": "",
-      "pub_date": "2026-10-29T08:59:11-07:00"
+      "pub_date": "2026-11-02T02:33:33-08:00"
     },
     {
-      "title": "Riverside Agents",
-      "url": "https://www.producthunt.com/products/riverside-fm",
+      "title": "Scrawl",
+      "url": "https://www.producthunt.com/products/scrawl-2",
       "tagline": "",
-      "pub_date": "2026-10-26T10:33:37-07:00"
+      "pub_date": "2026-11-02T08:16:17-08:00"
     },
     {
-      "title": "agentmash",
-      "url": "https://www.producthunt.com/products/agentmash",
+      "title": "Flockbay",
+      "url": "https://www.producthunt.com/products/flockbay",
       "tagline": "",
-      "pub_date": "2026-10-31T11:08:19-07:00"
+      "pub_date": "2026-11-02T11:12:01-08:00"
     },
     {
-      "title": "Screen Studio 4.0",
-      "url": "https://www.producthunt.com/products/screen-studio",
+      "title": "LidCommit",
+      "url": "https://www.producthunt.com/products/lidcommit",
       "tagline": "",
-      "pub_date": "2026-10-30T07:42:02-07:00"
+      "pub_date": "2026-11-02T12:41:05-08:00"
     },
     {
-      "title": "Modelpeers",
-      "url": "https://www.producthunt.com/products/modelpeers",
+      "title": "PowerShips",
+      "url": "https://www.producthunt.com/products/powerships",
       "tagline": "",
-      "pub_date": "2026-10-27T17:09:53-07:00"
+      "pub_date": "2026-11-01T18:12:59-08:00"
     },
     {
-      "title": "Fluent 2",
-      "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
+      "title": "Brink",
+      "url": "https://www.producthunt.com/products/brink-2",
       "tagline": "",
-      "pub_date": "2026-10-29T11:35:46-07:00"
+      "pub_date": "2026-11-02T19:26:29-08:00"
     },
     {
-      "title": "ClawsGO Science",
-      "url": "https://www.producthunt.com/products/clawsgo-science",
+      "title": "VinSage",
+      "url": "https://www.producthunt.com/products/vinsage",
       "tagline": "",
-      "pub_date": "2026-10-26T03:07:37-07:00"
+      "pub_date": "2026-11-01T05:59:30-08:00"
     },
     {
-      "title": "Yuzu Sync",
-      "url": "https://www.producthunt.com/products/yuzu-sync",
+      "title": "Hookdeck Inspect",
+      "url": "https://www.producthunt.com/products/hookdeck",
       "tagline": "",
-      "pub_date": "2026-10-27T21:19:31-07:00"
+      "pub_date": "2026-10-29T07:22:17-07:00"
     },
     {
-      "title": "Chorin: Ora et Labora",
-      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
+      "title": "Wavefunction",
+      "url": "https://www.producthunt.com/products/wavefunction",
       "tagline": "",
-      "pub_date": "2026-10-30T08:04:03-07:00"
+      "pub_date": "2026-10-31T19:32:59-07:00"
     },
     {
-      "title": "Embage",
-      "url": "https://www.producthunt.com/products/embage",
+      "title": "Prism",
+      "url": "https://www.producthunt.com/products/prism-40",
       "tagline": "",
-      "pub_date": "2026-10-30T00:01:40-07:00"
+      "pub_date": "2026-11-02T13:52:37-08:00"
     },
     {
-      "title": "ernd",
-      "url": "https://www.producthunt.com/products/ernd",
+      "title": "Testifly",
+      "url": "https://www.producthunt.com/products/testifly-launch",
       "tagline": "",
-      "pub_date": "2026-10-31T01:07:30-07:00"
+      "pub_date": "2026-10-28T08:09:07-07:00"
     }
   ]
 }

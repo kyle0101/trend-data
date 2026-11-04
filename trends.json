@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:14:14.718Z",
+  "generated_at": "2026-11-04T13:33:59.962Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,16 +7,25 @@
       "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
       "url": "https://github.com/finic-ai/kairos",
       "hn_url": "https://news.ycombinator.com/item?id=50358314",
-      "points": 73,
-      "comments": 12,
+      "points": 98,
+      "comments": 26,
       "created_ts": 1793740608,
       "author": "ayanb9440"
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "hn_url": "https://news.ycombinator.com/item?id=50358352",
+      "points": 86,
+      "comments": 42,
+      "created_ts": 1793740803,
+      "author": "passkey1510"
     },
     {
       "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
       "url": "https://hissingkitty.com/hacker-churn",
       "hn_url": "https://news.ycombinator.com/item?id=50353386",
-      "points": 68,
+      "points": 71,
       "comments": 24,
       "created_ts": 1793720512,
       "author": "drewlem"
@@ -25,37 +34,10 @@
       "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
       "url": "https://concepts.laxmena.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50353468",
-      "points": 40,
+      "points": 41,
       "comments": 4,
       "created_ts": 1793720915,
       "author": "laxmena"
-    },
-    {
-      "title": "Show HN: Bema: Work messaging built for humans",
-      "url": "https://getbema.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50351404",
-      "points": 24,
-      "comments": 20,
-      "created_ts": 1793710271,
-      "author": "ben_d"
-    },
-    {
-      "title": "Show HN: ReBirth 338 in Browser",
-      "url": "https://margeux.com/rb338.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50348740",
-      "points": 24,
-      "comments": 11,
-      "created_ts": 1793687090,
-      "author": "vegnus"
-    },
-    {
-      "title": "Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server",
-      "url": "https://github.com/p10node/office-engine",
-      "hn_url": "https://news.ycombinator.com/item?id=50348361",
-      "points": 17,
-      "comments": 2,
-      "created_ts": 1793682810,
-      "author": "pierreneter"
     },
     {
       "title": "Show HN: Remene – Understand your MRI and prepare questions for your doctor",
@@ -72,26 +54,17 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "hn_url": "https://news.ycombinator.com/item?id=50354960",
-      "points": 1106,
-      "comments": 362,
+      "points": 1373,
+      "comments": 456,
       "created_ts": 1793726557,
       "author": "sidgarimella"
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "hn_url": "https://news.ycombinator.com/item?id=50351111",
-      "points": 930,
-      "comments": 194,
-      "created_ts": 1793708477,
-      "author": "syllogism"
     },
     {
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "hn_url": "https://news.ycombinator.com/item?id=50355251",
-      "points": 528,
-      "comments": 166,
+      "points": 665,
+      "comments": 193,
       "created_ts": 1793727600,
       "author": "theanonymousone"
     },
@@ -99,8 +72,8 @@
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "url": "https://neufangled.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50354358",
-      "points": 449,
-      "comments": 159,
+      "points": 664,
+      "comments": 210,
       "created_ts": 1793724449,
       "author": "nharada"
     },
@@ -108,228 +81,291 @@
       "title": "Safari introduces Adaptive Dark Mode in 27.3",
       "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
       "hn_url": "https://news.ycombinator.com/item?id=50358562",
-      "points": 343,
-      "comments": 193,
+      "points": 461,
+      "comments": 241,
       "created_ts": 1793741945,
       "author": "paddingtone"
     },
     {
-      "title": "Mac at any scale",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "hn_url": "https://news.ycombinator.com/item?id=50352758",
-      "points": 334,
-      "comments": 195,
-      "created_ts": 1793717622,
-      "author": "anner_"
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "hn_url": "https://news.ycombinator.com/item?id=50358582",
-      "points": 267,
-      "comments": 47,
-      "created_ts": 1793742053,
-      "author": "ibobev"
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "hn_url": "https://news.ycombinator.com/item?id=50360164",
+      "points": 348,
+      "comments": 246,
+      "created_ts": 1793752402,
+      "author": "thatxliner"
     },
     {
       "title": "The Internals of PostgreSQL",
       "url": "https://www.interdb.jp/pg/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50358702",
-      "points": 175,
-      "comments": 11,
+      "points": 312,
+      "comments": 23,
       "created_ts": 1793742666,
       "author": "ibobev"
+    },
+    {
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "hn_url": "https://news.ycombinator.com/item?id=50361268",
+      "points": 311,
+      "comments": 79,
+      "created_ts": 1793763650,
+      "author": "memalign"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "points": 221,
+      "comments": 118,
+      "created_ts": 1793781989,
+      "author": "novaRom"
+    },
+    {
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "hn_url": "https://news.ycombinator.com/item?id=50362980",
+      "points": 220,
+      "comments": 137,
+      "created_ts": 1793782630,
+      "author": "porridgeraisin"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "points": 220,
+      "comments": 110,
+      "created_ts": 1793793137,
+      "author": "pseudolus"
     },
     {
       "title": "How I use AI (Oct 2026)",
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "hn_url": "https://news.ycombinator.com/item?id=50355767",
-      "points": 107,
-      "comments": 98,
+      "points": 201,
+      "comments": 240,
       "created_ts": 1793729471,
       "author": "citelao"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "hn_url": "https://news.ycombinator.com/item?id=50363461",
+      "points": 176,
+      "comments": 47,
+      "created_ts": 1793787027,
+      "author": "jameslk"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50363554",
+      "points": 134,
+      "comments": 87,
+      "created_ts": 1793787814,
+      "author": "alkyon"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "hn_url": "https://news.ycombinator.com/item?id=50363378",
+      "points": 130,
+      "comments": 61,
+      "created_ts": 1793786406,
+      "author": "kevcampb"
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "hn_url": "https://news.ycombinator.com/item?id=50360573",
+      "points": 108,
+      "comments": 22,
+      "created_ts": 1793756442,
+      "author": "gmays"
     }
   ],
   "ph_today": [
     {
-      "title": "Remote Gaze",
-      "url": "https://www.producthunt.com/products/remote-gaze",
+      "title": "Orphex MCP",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
       "tagline": "",
-      "pub_date": "2026-11-01T21:11:35-08:00"
+      "pub_date": "2026-10-07T02:59:12-07:00"
     },
     {
-      "title": "Infino AI",
-      "url": "https://www.producthunt.com/products/infino-ai",
+      "title": "fileForensics",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
       "tagline": "",
-      "pub_date": "2026-11-02T02:28:29-08:00"
+      "pub_date": "2026-10-27T22:33:28-07:00"
     },
     {
-      "title": "Peji",
-      "url": "https://www.producthunt.com/products/peji",
+      "title": "kosa8",
+      "url": "https://www.producthunt.com/products/kosa8",
       "tagline": "",
-      "pub_date": "2026-11-01T14:31:50-08:00"
+      "pub_date": "2026-11-01T20:15:55-08:00"
     },
     {
-      "title": "HoldTalk",
-      "url": "https://www.producthunt.com/products/holdtalk",
+      "title": "Mellow Kids",
+      "url": "https://www.producthunt.com/products/mellow-kids",
       "tagline": "",
-      "pub_date": "2026-11-01T13:18:13-08:00"
+      "pub_date": "2026-10-26T02:08:42-07:00"
     },
     {
-      "title": "Beaquaro Studio",
-      "url": "https://www.producthunt.com/products/beaquaro-studio",
+      "title": "Render Sandboxes",
+      "url": "https://www.producthunt.com/products/render",
       "tagline": "",
-      "pub_date": "2026-11-02T08:12:30-08:00"
+      "pub_date": "2026-10-23T08:02:02-07:00"
     },
     {
-      "title": "LidCommit",
-      "url": "https://www.producthunt.com/products/lidcommit",
+      "title": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail",
       "tagline": "",
-      "pub_date": "2026-11-02T12:41:05-08:00"
+      "pub_date": "2026-10-20T05:11:36-07:00"
     },
     {
-      "title": "EaseIn Health",
-      "url": "https://www.producthunt.com/products/easein-health",
+      "title": "Prelulu",
+      "url": "https://www.producthunt.com/products/prelulu",
       "tagline": "",
-      "pub_date": "2026-10-18T10:20:45-07:00"
+      "pub_date": "2026-10-31T22:44:11-07:00"
     },
     {
-      "title": "Akema",
-      "url": "https://www.producthunt.com/products/akema",
+      "title": "TellPip",
+      "url": "https://www.producthunt.com/products/tellpip",
       "tagline": "",
-      "pub_date": "2026-11-02T09:06:41-08:00"
+      "pub_date": "2026-11-03T15:13:42-08:00"
     },
     {
-      "title": "NEXUPIRA",
-      "url": "https://www.producthunt.com/products/nexupira",
+      "title": "Wanaka Studio",
+      "url": "https://www.producthunt.com/products/wanaka-studio",
       "tagline": "",
-      "pub_date": "2026-11-02T22:48:10-08:00"
+      "pub_date": "2026-10-28T06:18:07-07:00"
     },
     {
-      "title": "asklog",
-      "url": "https://www.producthunt.com/products/asklog",
+      "title": "Rungle",
+      "url": "https://www.producthunt.com/products/rungle",
       "tagline": "",
-      "pub_date": "2026-11-02T01:03:18-08:00"
+      "pub_date": "2026-11-03T22:09:49-08:00"
     },
     {
-      "title": "MagicaLCore",
-      "url": "https://www.producthunt.com/products/magical-core-image-classifier",
+      "title": "Datashake MCP",
+      "url": "https://www.producthunt.com/products/datashake-hub",
       "tagline": "",
-      "pub_date": "2026-10-20T12:48:02-07:00"
+      "pub_date": "2026-11-03T04:49:49-08:00"
     },
     {
-      "title": "Beamfy",
-      "url": "https://www.producthunt.com/products/beamfy",
+      "title": "Fedora Linux 45",
+      "url": "https://www.producthunt.com/products/fedora-linux-45",
       "tagline": "",
-      "pub_date": "2026-10-28T13:55:52-07:00"
+      "pub_date": "2026-11-03T17:04:14-08:00"
     },
     {
-      "title": "Scrawl",
-      "url": "https://www.producthunt.com/products/scrawl-2",
+      "title": "Deployed Yet?",
+      "url": "https://www.producthunt.com/products/deployed-yet",
       "tagline": "",
-      "pub_date": "2026-11-02T08:16:17-08:00"
+      "pub_date": "2026-11-03T08:01:13-08:00"
     },
     {
-      "title": "Wavefunction",
-      "url": "https://www.producthunt.com/products/wavefunction",
+      "title": "KREV AI",
+      "url": "https://www.producthunt.com/products/krev",
       "tagline": "",
-      "pub_date": "2026-10-31T19:32:59-07:00"
+      "pub_date": "2026-11-01T14:23:58-08:00"
     },
     {
-      "title": "Hookdeck Inspect",
-      "url": "https://www.producthunt.com/products/hookdeck",
+      "title": "Eyecon",
+      "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
       "tagline": "",
-      "pub_date": "2026-10-29T07:22:17-07:00"
+      "pub_date": "2026-11-02T04:02:03-08:00"
     },
     {
-      "title": "IQ",
-      "url": "https://www.producthunt.com/products/iq-code",
+      "title": "Country Filter for X",
+      "url": "https://www.producthunt.com/products/country-filter-for-x-2",
       "tagline": "",
-      "pub_date": "2026-10-27T16:21:31-07:00"
+      "pub_date": "2026-11-03T00:59:42-08:00"
     },
     {
-      "title": "Brink",
-      "url": "https://www.producthunt.com/products/brink-2",
+      "title": "Hindsight Models and Inference API",
+      "url": "https://www.producthunt.com/products/vectorize",
       "tagline": "",
-      "pub_date": "2026-11-02T19:26:29-08:00"
+      "pub_date": "2026-11-03T11:30:48-08:00"
     },
     {
-      "title": "Testera",
-      "url": "https://www.producthunt.com/products/testera-3",
+      "title": "PasteGuard for Mac",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
       "tagline": "",
-      "pub_date": "2026-11-02T05:52:38-08:00"
+      "pub_date": "2026-11-03T10:42:44-08:00"
     },
     {
-      "title": "People Search by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
+      "title": "QualityLayer",
+      "url": "https://www.producthunt.com/products/qualitylayer",
       "tagline": "",
-      "pub_date": "2026-11-02T11:12:57-08:00"
+      "pub_date": "2026-11-03T02:58:04-08:00"
     },
     {
-      "title": "SUN Web &amp; API",
-      "url": "https://www.producthunt.com/products/sun-ai",
+      "title": "Sendu",
+      "url": "https://www.producthunt.com/products/sendu",
       "tagline": "",
-      "pub_date": "2026-11-02T14:13:45-08:00"
+      "pub_date": "2026-11-03T06:20:30-08:00"
     },
     {
-      "title": "Corvo",
-      "url": "https://www.producthunt.com/products/corvo-3",
+      "title": "Sonari",
+      "url": "https://www.producthunt.com/products/sonari",
       "tagline": "",
-      "pub_date": "2026-11-02T21:37:15-08:00"
+      "pub_date": "2026-11-03T03:19:10-08:00"
     },
     {
-      "title": "VinSage",
-      "url": "https://www.producthunt.com/products/vinsage",
+      "title": "Dessn",
+      "url": "https://www.producthunt.com/products/dessn-2",
       "tagline": "",
-      "pub_date": "2026-11-01T05:59:30-08:00"
+      "pub_date": "2026-10-21T14:03:56-07:00"
     },
     {
-      "title": "Calendarly",
-      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
+      "title": "Zero Wire",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "tagline": "",
-      "pub_date": "2026-11-02T14:32:04-08:00"
+      "pub_date": "2026-11-03T06:12:58-08:00"
     },
     {
-      "title": "AgentKit by Scalekit",
-      "url": "https://www.producthunt.com/products/scalekit",
+      "title": "Chorus Weather",
+      "url": "https://www.producthunt.com/products/chorus-weather",
       "tagline": "",
-      "pub_date": "2026-10-13T07:16:55-07:00"
+      "pub_date": "2026-10-23T12:32:49-07:00"
     },
     {
-      "title": "Teamily AI",
-      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+      "title": "CardPointers 8",
+      "url": "https://www.producthunt.com/products/cardpointers",
       "tagline": "",
-      "pub_date": "2026-06-02T18:43:42-07:00"
+      "pub_date": "2026-09-01T13:40:53-07:00"
     },
     {
-      "title": "Testifly",
-      "url": "https://www.producthunt.com/products/testifly-launch",
+      "title": "Floot Payments",
+      "url": "https://www.producthunt.com/products/floot",
       "tagline": "",
-      "pub_date": "2026-10-28T08:09:07-07:00"
+      "pub_date": "2026-11-02T13:05:52-08:00"
     },
     {
-      "title": "MachineMail",
-      "url": "https://www.producthunt.com/products/machinemail",
+      "title": "OpusClip 4.0",
+      "url": "https://www.producthunt.com/products/opusclip",
       "tagline": "",
-      "pub_date": "2026-11-02T02:33:33-08:00"
+      "pub_date": "2026-11-02T09:11:39-08:00"
     },
     {
-      "title": "Synter Canvas",
-      "url": "https://www.producthunt.com/products/synter-canvas",
+      "title": "Basedash Verified dashboards",
+      "url": "https://www.producthunt.com/products/basedash",
       "tagline": "",
-      "pub_date": "2026-10-20T10:07:34-07:00"
+      "pub_date": "2026-11-03T08:49:46-08:00"
     },
     {
-      "title": "Flockbay",
-      "url": "https://www.producthunt.com/products/flockbay",
+      "title": "Hashference",
+      "url": "https://www.producthunt.com/products/hashference",
       "tagline": "",
-      "pub_date": "2026-11-02T11:12:01-08:00"
+      "pub_date": "2026-11-03T15:09:16-08:00"
     },
     {
-      "title": "One Roof",
-      "url": "https://www.producthunt.com/products/one-roof",
+      "title": "LiveReacting for ChatGPT",
+      "url": "https://www.producthunt.com/products/livereacting",
       "tagline": "",
-      "pub_date": "2026-11-02T17:06:08-08:00"
+      "pub_date": "2026-11-03T05:45:28-08:00"
     }
   ]
 }

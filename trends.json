@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-04T23:01:50.893Z",
+  "generated_at": "2026-11-05T04:32:44.911Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-      "url": "https://pcdealcheck.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50366929",
-      "points": 83,
-      "comments": 59,
-      "created_ts": 1793805933,
-      "author": "adlep"
-    },
-    {
       "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
       "url": "https://fireflyk64.github.io/wcmulti/",
       "hn_url": "https://news.ycombinator.com/item?id=50369895",
-      "points": 79,
-      "comments": 6,
+      "points": 129,
+      "comments": 15,
       "created_ts": 1793818287,
       "author": "daniel_rh"
+    },
+    {
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50366929",
+      "points": 98,
+      "comments": 72,
+      "created_ts": 1793805933,
+      "author": "adlep"
     },
     {
       "title": "Show HN: Codemap – one-page interactive map of any Go repository",
@@ -29,6 +29,24 @@
       "comments": 18,
       "created_ts": 1793805504,
       "author": "peter_retief"
+    },
+    {
+      "title": "Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed",
+      "url": "https://github.com/flitai-io/gpuworks",
+      "hn_url": "https://news.ycombinator.com/item?id=50367630",
+      "points": 25,
+      "comments": 1,
+      "created_ts": 1793808594,
+      "author": "wangweinoo1"
+    },
+    {
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "url": "https://github.com/gauge-sh/gauge-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=50371090",
+      "points": 24,
+      "comments": 4,
+      "created_ts": 1793824290,
+      "author": "0x63_Problems"
     },
     {
       "title": "Show HN: 13M opinions on 48k products extracted from Reddit and HN",
@@ -45,98 +63,62 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "hn_url": "https://news.ycombinator.com/item?id=50364336",
-      "points": 990,
-      "comments": 601,
+      "points": 1120,
+      "comments": 655,
       "created_ts": 1793793137,
       "author": "pseudolus"
-    },
-    {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "hn_url": "https://news.ycombinator.com/item?id=50363461",
-      "points": 606,
-      "comments": 153,
-      "created_ts": 1793787027,
-      "author": "jameslk"
-    },
-    {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "hn_url": "https://news.ycombinator.com/item?id=50362905",
-      "points": 570,
-      "comments": 265,
-      "created_ts": 1793781989,
-      "author": "novaRom"
-    },
-    {
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "hn_url": "https://news.ycombinator.com/item?id=50365755",
-      "points": 543,
-      "comments": 326,
-      "created_ts": 1793801395,
-      "author": "smalltech"
-    },
-    {
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "hn_url": "https://news.ycombinator.com/item?id=50367125",
-      "points": 423,
-      "comments": 143,
-      "created_ts": 1793806714,
-      "author": "rbanffy"
     },
     {
       "title": "Residential proxies detected on White House network",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
       "hn_url": "https://news.ycombinator.com/item?id=50371246",
-      "points": 420,
-      "comments": 117,
+      "points": 804,
+      "comments": 253,
       "created_ts": 1793825118,
       "author": "Rasbora"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "hn_url": "https://news.ycombinator.com/item?id=50367125",
+      "points": 509,
+      "comments": 184,
+      "created_ts": 1793806714,
+      "author": "rbanffy"
     },
     {
       "title": "Kimi K3.1 Pro model weights are out",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "hn_url": "https://news.ycombinator.com/item?id=50366999",
-      "points": 306,
-      "comments": 83,
+      "points": 423,
+      "comments": 125,
       "created_ts": 1793806230,
       "author": "abrarthought"
-    },
-    {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "hn_url": "https://news.ycombinator.com/item?id=50363378",
-      "points": 249,
-      "comments": 124,
-      "created_ts": 1793786406,
-      "author": "kevcampb"
     },
     {
       "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
       "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
       "hn_url": "https://news.ycombinator.com/item?id=50366522",
-      "points": 233,
-      "comments": 165,
+      "points": 275,
+      "comments": 200,
       "created_ts": 1793804504,
       "author": "zenincognito"
     },
     {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "hn_url": "https://news.ycombinator.com/item?id=50363019",
-      "points": 216,
-      "comments": 128,
-      "created_ts": 1793782918,
-      "author": "ersinesen"
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "hn_url": "https://news.ycombinator.com/item?id=50363378",
+      "points": 260,
+      "comments": 129,
+      "created_ts": 1793786406,
+      "author": "kevcampb"
     },
     {
       "title": "A new Go API for JSON",
       "url": "https://go.dev/blog/jsonv2",
       "hn_url": "https://news.ycombinator.com/item?id=50369106",
-      "points": 180,
-      "comments": 77,
+      "points": 252,
+      "comments": 117,
       "created_ts": 1793814731,
       "author": "olexsmir"
     },
@@ -144,112 +126,112 @@
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "url": "https://www.ricursive.com/ripple",
       "hn_url": "https://news.ycombinator.com/item?id=50369925",
-      "points": 178,
-      "comments": 58,
+      "points": 251,
+      "comments": 90,
       "created_ts": 1793818409,
       "author": "Philpax"
-    },
-    {
-      "title": "Tencent Hy4",
-      "url": "https://hy.tencent.ai/research/hy4",
-      "hn_url": "https://news.ycombinator.com/item?id=50365780",
-      "points": 160,
-      "comments": 48,
-      "created_ts": 1793801486,
-      "author": "Philpax"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "hn_url": "https://news.ycombinator.com/item?id=50368626",
-      "points": 155,
-      "comments": 76,
-      "created_ts": 1793812666,
-      "author": "ltononro"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company",
       "url": "https://openai.com/index/openai-to-acquire-pierre/",
       "hn_url": "https://news.ycombinator.com/item?id=50366863",
-      "points": 147,
-      "comments": 51,
+      "points": 211,
+      "comments": 63,
       "created_ts": 1793805681,
       "author": "itunpredictable"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "hn_url": "https://news.ycombinator.com/item?id=50372929",
+      "points": 207,
+      "comments": 118,
+      "created_ts": 1793835194,
+      "author": "dangelosaurus"
+    },
+    {
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "hn_url": "https://news.ycombinator.com/item?id=50365780",
+      "points": 207,
+      "comments": 70,
+      "created_ts": 1793801486,
+      "author": "Philpax"
     },
     {
       "title": "Insects don't swarm at LED lights",
       "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
       "hn_url": "https://news.ycombinator.com/item?id=50370610",
-      "points": 121,
-      "comments": 68,
+      "points": 193,
+      "comments": 104,
       "created_ts": 1793821823,
       "author": "speckx"
     },
     {
-      "title": "Everything is an AI scam now",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "hn_url": "https://news.ycombinator.com/item?id=50371508",
-      "points": 106,
-      "comments": 31,
-      "created_ts": 1793826319,
-      "author": "speckx"
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "points": 191,
+      "comments": 87,
+      "created_ts": 1793812666,
+      "author": "ltononro"
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "hn_url": "https://news.ycombinator.com/item?id=50366117",
+      "points": 185,
+      "comments": 200,
+      "created_ts": 1793803042,
+      "author": "eggbrain"
+    },
+    {
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "hn_url": "https://news.ycombinator.com/item?id=50372945",
+      "points": 177,
+      "comments": 120,
+      "created_ts": 1793835344,
+      "author": "davidbarker"
+    },
+    {
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "hn_url": "https://news.ycombinator.com/item?id=50373308",
+      "points": 152,
+      "comments": 88,
+      "created_ts": 1793837898,
+      "author": "gmays"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "hn_url": "https://news.ycombinator.com/item?id=50369503",
+      "points": 142,
+      "comments": 163,
+      "created_ts": 1793816560,
+      "author": "kenrose"
+    },
+    {
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "hn_url": "https://news.ycombinator.com/item?id=50369895",
+      "points": 129,
+      "comments": 15,
+      "created_ts": 1793818287,
+      "author": "daniel_rh"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "hn_url": "https://news.ycombinator.com/item?id=50370654",
+      "points": 118,
+      "comments": 50,
+      "created_ts": 1793822114,
+      "author": "peter_d_sherman"
     }
   ],
   "ph_today": [
-    {
-      "title": "Hindsight Models and Inference API",
-      "url": "https://www.producthunt.com/products/vectorize",
-      "tagline": "",
-      "pub_date": "2026-11-03T11:30:48-08:00"
-    },
-    {
-      "title": "Zero Wire",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "tagline": "",
-      "pub_date": "2026-11-03T06:12:58-08:00"
-    },
-    {
-      "title": "Basedash Verified dashboards",
-      "url": "https://www.producthunt.com/products/basedash",
-      "tagline": "",
-      "pub_date": "2026-11-03T08:49:46-08:00"
-    },
-    {
-      "title": "PasteGuard for Mac",
-      "url": "https://www.producthunt.com/products/pasteguard-2",
-      "tagline": "",
-      "pub_date": "2026-11-03T10:42:44-08:00"
-    },
-    {
-      "title": "Rungle",
-      "url": "https://www.producthunt.com/products/rungle",
-      "tagline": "",
-      "pub_date": "2026-11-03T22:09:49-08:00"
-    },
-    {
-      "title": "Orphex MCP",
-      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
-      "tagline": "",
-      "pub_date": "2026-10-07T02:59:12-07:00"
-    },
-    {
-      "title": "QualityLayer",
-      "url": "https://www.producthunt.com/products/qualitylayer",
-      "tagline": "",
-      "pub_date": "2026-11-03T02:58:04-08:00"
-    },
-    {
-      "title": "LiveReacting for ChatGPT",
-      "url": "https://www.producthunt.com/products/livereacting",
-      "tagline": "",
-      "pub_date": "2026-11-03T05:45:28-08:00"
-    },
-    {
-      "title": "KREV AI",
-      "url": "https://www.producthunt.com/products/krev",
-      "tagline": "",
-      "pub_date": "2026-11-01T14:23:58-08:00"
-    },
     {
       "title": "Wanaka Studio",
       "url": "https://www.producthunt.com/products/wanaka-studio",
@@ -257,58 +239,10 @@
       "pub_date": "2026-10-28T06:18:07-07:00"
     },
     {
-      "title": "Resum",
-      "url": "https://www.producthunt.com/products/resum",
+      "title": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail",
       "tagline": "",
-      "pub_date": "2026-11-03T01:29:19-08:00"
-    },
-    {
-      "title": "Render Sandboxes",
-      "url": "https://www.producthunt.com/products/render",
-      "tagline": "",
-      "pub_date": "2026-10-23T08:02:02-07:00"
-    },
-    {
-      "title": "Hashference",
-      "url": "https://www.producthunt.com/products/hashference",
-      "tagline": "",
-      "pub_date": "2026-11-03T15:09:16-08:00"
-    },
-    {
-      "title": "OpusClip 4.0",
-      "url": "https://www.producthunt.com/products/opusclip",
-      "tagline": "",
-      "pub_date": "2026-11-02T09:11:39-08:00"
-    },
-    {
-      "title": "Hira",
-      "url": "https://www.producthunt.com/products/hira",
-      "tagline": "",
-      "pub_date": "2026-11-02T23:57:55-08:00"
-    },
-    {
-      "title": "Dessn",
-      "url": "https://www.producthunt.com/products/dessn-2",
-      "tagline": "",
-      "pub_date": "2026-10-21T14:03:56-07:00"
-    },
-    {
-      "title": "Datashake MCP",
-      "url": "https://www.producthunt.com/products/datashake-hub",
-      "tagline": "",
-      "pub_date": "2026-11-03T04:49:49-08:00"
-    },
-    {
-      "title": "Prelulu",
-      "url": "https://www.producthunt.com/products/prelulu",
-      "tagline": "",
-      "pub_date": "2026-10-31T22:44:11-07:00"
-    },
-    {
-      "title": "Sendu",
-      "url": "https://www.producthunt.com/products/sendu",
-      "tagline": "",
-      "pub_date": "2026-11-03T06:20:30-08:00"
+      "pub_date": "2026-10-20T05:11:36-07:00"
     },
     {
       "title": "Fedora Linux 45",
@@ -317,22 +251,16 @@
       "pub_date": "2026-11-03T17:04:14-08:00"
     },
     {
-      "title": "Sonari",
-      "url": "https://www.producthunt.com/products/sonari",
+      "title": "fileForensics",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
       "tagline": "",
-      "pub_date": "2026-11-03T03:19:10-08:00"
+      "pub_date": "2026-10-27T22:33:28-07:00"
     },
     {
-      "title": "TrackEdge",
-      "url": "https://www.producthunt.com/products/trackedge-2",
+      "title": "Dessn",
+      "url": "https://www.producthunt.com/products/dessn-2",
       "tagline": "",
-      "pub_date": "2026-11-03T08:56:37-08:00"
-    },
-    {
-      "title": "Chorus Weather",
-      "url": "https://www.producthunt.com/products/chorus-weather",
-      "tagline": "",
-      "pub_date": "2026-10-23T12:32:49-07:00"
+      "pub_date": "2026-10-21T14:03:56-07:00"
     },
     {
       "title": "Mellow Kids",
@@ -341,16 +269,34 @@
       "pub_date": "2026-10-26T02:08:42-07:00"
     },
     {
-      "title": "CardPointers 8",
-      "url": "https://www.producthunt.com/products/cardpointers",
+      "title": "OpusClip 4.0",
+      "url": "https://www.producthunt.com/products/opusclip",
       "tagline": "",
-      "pub_date": "2026-09-01T13:40:53-07:00"
+      "pub_date": "2026-11-02T09:11:39-08:00"
     },
     {
-      "title": "Country Filter for X",
-      "url": "https://www.producthunt.com/products/country-filter-for-x-2",
+      "title": "Orphex MCP",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
       "tagline": "",
-      "pub_date": "2026-11-03T00:59:42-08:00"
+      "pub_date": "2026-10-07T02:59:12-07:00"
+    },
+    {
+      "title": "Render Sandboxes",
+      "url": "https://www.producthunt.com/products/render",
+      "tagline": "",
+      "pub_date": "2026-10-23T08:02:02-07:00"
+    },
+    {
+      "title": "Floot Payments",
+      "url": "https://www.producthunt.com/products/floot",
+      "tagline": "",
+      "pub_date": "2026-11-02T13:05:52-08:00"
+    },
+    {
+      "title": "Deployed Yet?",
+      "url": "https://www.producthunt.com/products/deployed-yet",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:01:13-08:00"
     },
     {
       "title": "Eyecon",
@@ -359,10 +305,94 @@
       "pub_date": "2026-11-02T04:02:03-08:00"
     },
     {
-      "title": "fileForensics",
-      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
+      "title": "Country Filter for X",
+      "url": "https://www.producthunt.com/products/country-filter-for-x-2",
       "tagline": "",
-      "pub_date": "2026-10-27T22:33:28-07:00"
+      "pub_date": "2026-11-03T00:59:42-08:00"
+    },
+    {
+      "title": "Rungle",
+      "url": "https://www.producthunt.com/products/rungle",
+      "tagline": "",
+      "pub_date": "2026-11-03T22:09:49-08:00"
+    },
+    {
+      "title": "Zero Wire",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "tagline": "",
+      "pub_date": "2026-11-03T06:12:58-08:00"
+    },
+    {
+      "title": "Prelulu",
+      "url": "https://www.producthunt.com/products/prelulu",
+      "tagline": "",
+      "pub_date": "2026-10-31T22:44:11-07:00"
+    },
+    {
+      "title": "KREV AI",
+      "url": "https://www.producthunt.com/products/krev",
+      "tagline": "",
+      "pub_date": "2026-11-01T14:23:58-08:00"
+    },
+    {
+      "title": "Basedash Verified dashboards",
+      "url": "https://www.producthunt.com/products/basedash",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:49:46-08:00"
+    },
+    {
+      "title": "CardPointers 8",
+      "url": "https://www.producthunt.com/products/cardpointers",
+      "tagline": "",
+      "pub_date": "2026-09-01T13:40:53-07:00"
+    },
+    {
+      "title": "QualityLayer",
+      "url": "https://www.producthunt.com/products/qualitylayer",
+      "tagline": "",
+      "pub_date": "2026-11-03T02:58:04-08:00"
+    },
+    {
+      "title": "TrackEdge",
+      "url": "https://www.producthunt.com/products/trackedge-2",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:56:37-08:00"
+    },
+    {
+      "title": "Hindsight Models and Inference API",
+      "url": "https://www.producthunt.com/products/vectorize",
+      "tagline": "",
+      "pub_date": "2026-11-03T11:30:48-08:00"
+    },
+    {
+      "title": "Chorus Weather",
+      "url": "https://www.producthunt.com/products/chorus-weather",
+      "tagline": "",
+      "pub_date": "2026-10-23T12:32:49-07:00"
+    },
+    {
+      "title": "Sonari",
+      "url": "https://www.producthunt.com/products/sonari",
+      "tagline": "",
+      "pub_date": "2026-11-03T03:19:10-08:00"
+    },
+    {
+      "title": "LiveReacting for ChatGPT",
+      "url": "https://www.producthunt.com/products/livereacting",
+      "tagline": "",
+      "pub_date": "2026-11-03T05:45:28-08:00"
+    },
+    {
+      "title": "Datashake MCP",
+      "url": "https://www.producthunt.com/products/datashake-hub",
+      "tagline": "",
+      "pub_date": "2026-11-03T04:49:49-08:00"
+    },
+    {
+      "title": "Resum",
+      "url": "https://www.producthunt.com/products/resum",
+      "tagline": "",
+      "pub_date": "2026-11-03T01:29:19-08:00"
     },
     {
       "title": "TellPip",
@@ -371,10 +401,16 @@
       "pub_date": "2026-11-03T15:13:42-08:00"
     },
     {
-      "title": "Floot Payments",
-      "url": "https://www.producthunt.com/products/floot",
+      "title": "Hashference",
+      "url": "https://www.producthunt.com/products/hashference",
       "tagline": "",
-      "pub_date": "2026-11-02T13:05:52-08:00"
+      "pub_date": "2026-11-03T15:09:16-08:00"
+    },
+    {
+      "title": "Freeport Markets",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "tagline": "",
+      "pub_date": "2026-11-03T13:56:35-08:00"
     }
   ]
 }

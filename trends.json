@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:05:43.331Z",
+  "generated_at": "2026-11-06T04:30:53.868Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,17 +7,26 @@
       "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
       "url": "https://github.com/AGGIB/Stroq",
       "hn_url": "https://news.ycombinator.com/item?id=50380704",
-      "points": 56,
-      "comments": 11,
+      "points": 76,
+      "comments": 23,
       "created_ts": 1793894081,
       "author": "agybay_07"
+    },
+    {
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "url": "https://firenook.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50378643",
+      "points": 65,
+      "comments": 13,
+      "created_ts": 1793884049,
+      "author": "sanjevirau"
     },
     {
       "title": "Show HN: TubeHaus – an open-source YouTube client with no Google account",
       "url": "https://github.com/biolend83/tubehaus",
       "hn_url": "https://news.ycombinator.com/item?id=50379073",
-      "points": 14,
-      "comments": 3,
+      "points": 18,
+      "comments": 5,
       "created_ts": 1793886797,
       "author": "invidiouslove12"
     }
@@ -27,35 +36,26 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "hn_url": "https://news.ycombinator.com/item?id=50378228",
-      "points": 2183,
-      "comments": 553,
+      "points": 2447,
+      "comments": 598,
       "created_ts": 1793881142,
       "author": "josemrb"
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379704",
-      "points": 535,
-      "comments": 105,
-      "created_ts": 1793889860,
-      "author": "pantalaimon"
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "hn_url": "https://news.ycombinator.com/item?id=50385272",
+      "points": 714,
+      "comments": 245,
+      "created_ts": 1793917035,
+      "author": "motoroco"
     },
     {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=50380810",
-      "points": 361,
-      "comments": 268,
-      "created_ts": 1793894494,
-      "author": "monneyboi"
-    },
-    {
-      "title": "Kagi Search for Everyone",
-      "url": "https://kagi.com/changelog",
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
       "hn_url": "https://news.ycombinator.com/item?id=50383740",
-      "points": 334,
-      "comments": 170,
+      "points": 599,
+      "comments": 306,
       "created_ts": 1793909014,
       "author": "elashri"
     },
@@ -63,26 +63,35 @@
       "title": "Goodbye from Salon",
       "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
       "hn_url": "https://news.ycombinator.com/item?id=50383739",
-      "points": 301,
-      "comments": 105,
+      "points": 501,
+      "comments": 179,
       "created_ts": 1793909009,
       "author": "mkeeter"
     },
     {
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "hn_url": "https://news.ycombinator.com/item?id=50376313",
-      "points": 270,
-      "comments": 142,
-      "created_ts": 1793864670,
-      "author": "lucrbvi"
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=50380810",
+      "points": 422,
+      "comments": 314,
+      "created_ts": 1793894494,
+      "author": "monneyboi"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "hn_url": "https://news.ycombinator.com/item?id=50384233",
+      "points": 386,
+      "comments": 144,
+      "created_ts": 1793911422,
+      "author": "kuberwastaken"
     },
     {
       "title": "I wish tech companies knew more about me",
       "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
       "hn_url": "https://news.ycombinator.com/item?id=50378942",
-      "points": 260,
-      "comments": 235,
+      "points": 339,
+      "comments": 301,
       "created_ts": 1793886052,
       "author": "freetonik"
     },
@@ -90,53 +99,44 @@
       "title": "Download your favourite YouTube videos",
       "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
       "hn_url": "https://news.ycombinator.com/item?id=50378571",
-      "points": 245,
-      "comments": 110,
+      "points": 302,
+      "comments": 140,
       "created_ts": 1793883611,
       "author": "surprisetalk"
-    },
-    {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "hn_url": "https://news.ycombinator.com/item?id=50377976",
-      "points": 229,
-      "comments": 11,
-      "created_ts": 1793878830,
-      "author": "selckin"
-    },
-    {
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379249",
-      "points": 216,
-      "comments": 108,
-      "created_ts": 1793887715,
-      "author": "rwilinski"
     },
     {
       "title": "Window Sweaters",
       "url": "https://github.com/saragordic/window-sweaters",
       "hn_url": "https://news.ycombinator.com/item?id=50381383",
-      "points": 206,
-      "comments": 72,
+      "points": 273,
+      "comments": 88,
       "created_ts": 1793897414,
       "author": "nickswalker"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "hn_url": "https://news.ycombinator.com/item?id=50384233",
-      "points": 190,
-      "comments": 49,
-      "created_ts": 1793911422,
-      "author": "kuberwastaken"
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50379249",
+      "points": 268,
+      "comments": 116,
+      "created_ts": 1793887715,
+      "author": "rwilinski"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50383057",
+      "points": 251,
+      "comments": 120,
+      "created_ts": 1793905702,
+      "author": "rubatuga"
     },
     {
       "title": "Obscure audio codec is a perfect fit for the N64",
       "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
       "hn_url": "https://news.ycombinator.com/item?id=50378508",
-      "points": 169,
-      "comments": 19,
+      "points": 209,
+      "comments": 24,
       "created_ts": 1793883108,
       "author": "frostbyte7"
     },
@@ -144,63 +144,69 @@
       "title": "September in Servo: <progress>, rounded rectangles, and more",
       "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
       "hn_url": "https://news.ycombinator.com/item?id=50379576",
-      "points": 165,
-      "comments": 41,
+      "points": 205,
+      "comments": 50,
       "created_ts": 1793889258,
       "author": "iamnothere"
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "hn_url": "https://news.ycombinator.com/item?id=50377078",
-      "points": 162,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50385870",
+      "points": 182,
       "comments": 90,
-      "created_ts": 1793870952,
-      "author": "pretext"
-    },
-    {
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50383057",
-      "points": 149,
-      "comments": 57,
-      "created_ts": 1793905702,
-      "author": "rubatuga"
-    },
-    {
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "hn_url": "https://news.ycombinator.com/item?id=50381033",
-      "points": 149,
-      "comments": 46,
-      "created_ts": 1793895672,
-      "author": "mi-rae"
-    },
-    {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "hn_url": "https://news.ycombinator.com/item?id=50385272",
-      "points": 112,
-      "comments": 27,
-      "created_ts": 1793917035,
-      "author": "motoroco"
+      "created_ts": 1793920197,
+      "author": "randycupertino"
     },
     {
       "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
       "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
       "hn_url": "https://news.ycombinator.com/item?id=50383163",
-      "points": 105,
-      "comments": 22,
+      "points": 178,
+      "comments": 41,
       "created_ts": 1793906194,
       "author": "rdmuser"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "hn_url": "https://news.ycombinator.com/item?id=50381033",
+      "points": 171,
+      "comments": 75,
+      "created_ts": 1793895672,
+      "author": "mi-rae"
+    },
+    {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "hn_url": "https://news.ycombinator.com/item?id=50377078",
+      "points": 170,
+      "comments": 95,
+      "created_ts": 1793870952,
+      "author": "pretext"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "hn_url": "https://news.ycombinator.com/item?id=50386338",
+      "points": 117,
+      "comments": 50,
+      "created_ts": 1793923224,
+      "author": "Philpax"
     }
   ],
   "ph_today": [
     {
-      "title": "AI Employees by Easy-Peasy.AI",
-      "url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "title": "Stitch.ai",
+      "url": "https://www.producthunt.com/products/stitch-ai",
       "tagline": "",
-      "pub_date": "2026-11-03T22:19:49-08:00"
+      "pub_date": "2026-11-02T22:04:34-08:00"
+    },
+    {
+      "title": "Bridge",
+      "url": "https://www.producthunt.com/products/meetonbridge",
+      "tagline": "",
+      "pub_date": "2026-10-28T14:00:49-07:00"
     },
     {
       "title": "Pushary for Teams",
@@ -215,34 +221,16 @@
       "pub_date": "2026-11-01T11:24:15-08:00"
     },
     {
+      "title": "Living Brain",
+      "url": "https://www.producthunt.com/products/chatandbuild",
+      "tagline": "",
+      "pub_date": "2026-11-02T07:07:36-08:00"
+    },
+    {
       "title": "Rerun",
       "url": "https://www.producthunt.com/products/rerun-2",
       "tagline": "",
       "pub_date": "2026-11-03T05:00:39-08:00"
-    },
-    {
-      "title": "Tencent Hy4",
-      "url": "https://www.producthunt.com/products/hunyuan-a13b",
-      "tagline": "",
-      "pub_date": "2026-11-04T00:07:42-08:00"
-    },
-    {
-      "title": "Nemotron 3.5 Transcribe",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "tagline": "",
-      "pub_date": "2026-11-04T20:51:07-08:00"
-    },
-    {
-      "title": "CC Auto Review",
-      "url": "https://www.producthunt.com/products/cc-auto-review",
-      "tagline": "",
-      "pub_date": "2026-11-04T20:54:13-08:00"
-    },
-    {
-      "title": "Tao Browser",
-      "url": "https://www.producthunt.com/products/tao-browser",
-      "tagline": "",
-      "pub_date": "2026-11-02T20:35:21-08:00"
     },
     {
       "title": "Glasshand",
@@ -251,70 +239,28 @@
       "pub_date": "2026-11-02T12:28:39-08:00"
     },
     {
-      "title": "Clocknext",
-      "url": "https://www.producthunt.com/products/clocknext",
-      "tagline": "",
-      "pub_date": "2026-11-02T03:41:56-08:00"
-    },
-    {
-      "title": "Wingmen",
-      "url": "https://www.producthunt.com/products/wingmen",
-      "tagline": "",
-      "pub_date": "2026-10-29T13:59:23-07:00"
-    },
-    {
-      "title": "Bambu Lab H3C",
-      "url": "https://www.producthunt.com/products/bambu-lab-h3c",
-      "tagline": "",
-      "pub_date": "2026-11-03T18:19:41-08:00"
-    },
-    {
-      "title": "Polylane for Google Cloud",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-11-04T10:54:52-08:00"
-    },
-    {
-      "title": "TextKit",
-      "url": "https://www.producthunt.com/products/textkit-2",
-      "tagline": "",
-      "pub_date": "2026-11-04T16:10:10-08:00"
-    },
-    {
-      "title": "ChatNest",
-      "url": "https://www.producthunt.com/products/chatnest-2",
-      "tagline": "",
-      "pub_date": "2026-11-04T00:53:26-08:00"
-    },
-    {
       "title": "Zerg Client",
       "url": "https://www.producthunt.com/products/zerg",
       "tagline": "",
       "pub_date": "2026-10-28T19:11:01-07:00"
     },
     {
-      "title": "FounderMail",
-      "url": "https://www.producthunt.com/products/foundermail-2",
+      "title": "CC Auto Review",
+      "url": "https://www.producthunt.com/products/cc-auto-review",
       "tagline": "",
-      "pub_date": "2026-11-04T11:46:10-08:00"
+      "pub_date": "2026-11-04T20:54:13-08:00"
     },
     {
-      "title": "Bridge",
-      "url": "https://www.producthunt.com/products/meetonbridge",
+      "title": "Cosyra",
+      "url": "https://www.producthunt.com/products/cosyra",
       "tagline": "",
-      "pub_date": "2026-10-28T14:00:49-07:00"
+      "pub_date": "2026-11-03T12:20:04-08:00"
     },
     {
-      "title": "Living Brain",
-      "url": "https://www.producthunt.com/products/chatandbuild",
+      "title": "AI Employees by Easy-Peasy.AI",
+      "url": "https://www.producthunt.com/products/easy-peasy-ai",
       "tagline": "",
-      "pub_date": "2026-11-02T07:07:36-08:00"
-    },
-    {
-      "title": "Stitch.ai",
-      "url": "https://www.producthunt.com/products/stitch-ai",
-      "tagline": "",
-      "pub_date": "2026-11-02T22:04:34-08:00"
+      "pub_date": "2026-11-03T22:19:49-08:00"
     },
     {
       "title": "SafetyClip",
@@ -323,16 +269,10 @@
       "pub_date": "2026-11-04T00:40:49-08:00"
     },
     {
-      "title": "Rainbrand",
-      "url": "https://www.producthunt.com/products/rainbrand",
+      "title": "TextKit",
+      "url": "https://www.producthunt.com/products/textkit-2",
       "tagline": "",
-      "pub_date": "2026-10-26T03:25:50-07:00"
-    },
-    {
-      "title": "backlane",
-      "url": "https://www.producthunt.com/products/backlane-2",
-      "tagline": "",
-      "pub_date": "2026-11-03T08:06:19-08:00"
+      "pub_date": "2026-11-04T16:10:10-08:00"
     },
     {
       "title": "Vibeconferencing",
@@ -341,10 +281,10 @@
       "pub_date": "2026-11-02T14:49:38-08:00"
     },
     {
-      "title": "Scrollsnacks",
-      "url": "https://www.producthunt.com/products/scrollsnacks",
+      "title": "backlane",
+      "url": "https://www.producthunt.com/products/backlane-2",
       "tagline": "",
-      "pub_date": "2026-11-04T13:46:13-08:00"
+      "pub_date": "2026-11-03T08:06:19-08:00"
     },
     {
       "title": "Seamcult",
@@ -353,28 +293,88 @@
       "pub_date": "2026-11-03T03:42:12-08:00"
     },
     {
+      "title": "Bambu Lab H3C",
+      "url": "https://www.producthunt.com/products/bambu-lab-h3c",
+      "tagline": "",
+      "pub_date": "2026-11-03T18:19:41-08:00"
+    },
+    {
+      "title": "Tencent Hy4",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "tagline": "",
+      "pub_date": "2026-11-04T00:07:42-08:00"
+    },
+    {
+      "title": "DearCameo",
+      "url": "https://www.producthunt.com/products/dearcameo",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:47:22-08:00"
+    },
+    {
+      "title": "Nemotron 3.5 Transcribe",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "tagline": "",
+      "pub_date": "2026-11-04T20:51:07-08:00"
+    },
+    {
+      "title": "Rainbrand",
+      "url": "https://www.producthunt.com/products/rainbrand",
+      "tagline": "",
+      "pub_date": "2026-10-26T03:25:50-07:00"
+    },
+    {
+      "title": "Clocknext",
+      "url": "https://www.producthunt.com/products/clocknext",
+      "tagline": "",
+      "pub_date": "2026-11-02T03:41:56-08:00"
+    },
+    {
+      "title": "Paws",
+      "url": "https://www.producthunt.com/products/paws",
+      "tagline": "",
+      "pub_date": "2026-11-01T07:06:02-08:00"
+    },
+    {
+      "title": "Nock",
+      "url": "https://www.producthunt.com/products/nock-2",
+      "tagline": "",
+      "pub_date": "2026-11-01T08:46:19-08:00"
+    },
+    {
+      "title": "Tao Browser",
+      "url": "https://www.producthunt.com/products/tao-browser",
+      "tagline": "",
+      "pub_date": "2026-11-02T20:35:21-08:00"
+    },
+    {
+      "title": "FounderMail",
+      "url": "https://www.producthunt.com/products/foundermail-2",
+      "tagline": "",
+      "pub_date": "2026-11-04T11:46:10-08:00"
+    },
+    {
+      "title": "Polylane for Google Cloud",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-11-04T10:54:52-08:00"
+    },
+    {
       "title": "SnapTiles",
       "url": "https://www.producthunt.com/products/snaptiles",
       "tagline": "",
       "pub_date": "2026-10-28T06:06:04-07:00"
     },
     {
-      "title": "Pinku",
-      "url": "https://www.producthunt.com/products/pinku",
+      "title": "Wingmen",
+      "url": "https://www.producthunt.com/products/wingmen",
       "tagline": "",
-      "pub_date": "2026-11-02T23:52:00-08:00"
+      "pub_date": "2026-10-29T13:59:23-07:00"
     },
     {
       "title": "MCPCore",
       "url": "https://www.producthunt.com/products/mcpcore",
       "tagline": "",
       "pub_date": "2026-10-31T12:36:00-07:00"
-    },
-    {
-      "title": "Keel",
-      "url": "https://www.producthunt.com/products/keel-7",
-      "tagline": "",
-      "pub_date": "2026-10-31T13:16:58-07:00"
     }
   ]
 }

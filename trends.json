@@ -1,213 +1,174 @@
 {
-  "generated_at": "2026-11-06T13:31:31.270Z",
+  "generated_at": "2026-11-06T22:36:02.799Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-      "url": "https://github.com/AGGIB/Stroq",
-      "hn_url": "https://news.ycombinator.com/item?id=50380704",
-      "points": 88,
-      "comments": 34,
-      "created_ts": 1793894081,
-      "author": "agybay_07"
+      "title": "Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs",
+      "url": "https://github.com/tharun208/cloneguard",
+      "hn_url": "https://news.ycombinator.com/item?id=50397435",
+      "points": 24,
+      "comments": 6,
+      "created_ts": 1793994567,
+      "author": "tharun208"
     },
     {
-      "title": "Show HN: TubeHaus – an open-source YouTube client with no Google account",
-      "url": "https://github.com/biolend83/tubehaus",
-      "hn_url": "https://news.ycombinator.com/item?id=50379073",
-      "points": 21,
-      "comments": 5,
-      "created_ts": 1793886797,
-      "author": "invidiouslove12"
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "hn_url": "https://news.ycombinator.com/item?id=50393235",
+      "points": 18,
+      "comments": 3,
+      "created_ts": 1793977667,
+      "author": "jbspeakr"
+    },
+    {
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "hn_url": "https://news.ycombinator.com/item?id=50397325",
+      "points": 18,
+      "comments": 0,
+      "created_ts": 1793994080,
+      "author": "antelocnova"
+    },
+    {
+      "title": "Show HN: An open source webbluetooth and NFC browser for iOS",
+      "url": "https://github.com/hito-dev/wand-browser",
+      "hn_url": "https://news.ycombinator.com/item?id=50392219",
+      "points": 14,
+      "comments": 0,
+      "created_ts": 1793972707,
+      "author": "hito"
     }
   ],
   "hn_front": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "hn_url": "https://news.ycombinator.com/item?id=50385272",
-      "points": 1290,
-      "comments": 408,
-      "created_ts": 1793917035,
-      "author": "motoroco"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "hn_url": "https://news.ycombinator.com/item?id=50384233",
-      "points": 595,
-      "comments": 222,
-      "created_ts": 1793911422,
-      "author": "kuberwastaken"
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=50380810",
-      "points": 519,
-      "comments": 371,
-      "created_ts": 1793894494,
-      "author": "monneyboi"
-    },
-    {
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "hn_url": "https://news.ycombinator.com/item?id=50378942",
-      "points": 476,
-      "comments": 378,
-      "created_ts": 1793886052,
-      "author": "freetonik"
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50385870",
-      "points": 410,
-      "comments": 185,
-      "created_ts": 1793920197,
-      "author": "randycupertino"
-    },
-    {
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "hn_url": "https://news.ycombinator.com/item?id=50381383",
-      "points": 385,
-      "comments": 113,
-      "created_ts": 1793897414,
-      "author": "nickswalker"
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "hn_url": "https://news.ycombinator.com/item?id=50391456",
+      "points": 730,
+      "comments": 1551,
+      "created_ts": 1793967231,
+      "author": "PLenz"
     },
     {
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
       "url": "https://github.com/ppmpreetham/BUI",
       "hn_url": "https://news.ycombinator.com/item?id=50389333",
-      "points": 352,
-      "comments": 147,
+      "points": 663,
+      "comments": 267,
       "created_ts": 1793950835,
       "author": "ppmpreetham"
     },
     {
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50383057",
-      "points": 346,
-      "comments": 190,
-      "created_ts": 1793905702,
-      "author": "rubatuga"
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "hn_url": "https://news.ycombinator.com/item?id=50393758",
+      "points": 307,
+      "comments": 151,
+      "created_ts": 1793979876,
+      "author": "cybersoyuz"
     },
     {
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "hn_url": "https://news.ycombinator.com/item?id=50389222",
-      "points": 320,
-      "comments": 274,
-      "created_ts": 1793949724,
-      "author": "1659447091"
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=50392118",
+      "points": 273,
+      "comments": 209,
+      "created_ts": 1793972127,
+      "author": "thisisauserid"
     },
     {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "hn_url": "https://news.ycombinator.com/item?id=50390124",
-      "points": 277,
-      "comments": 172,
-      "created_ts": 1793957232,
-      "author": "microtonal"
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "hn_url": "https://news.ycombinator.com/item?id=50388001",
+      "points": 236,
+      "comments": 191,
+      "created_ts": 1793937628,
+      "author": "ChrisArchitect"
     },
     {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "hn_url": "https://news.ycombinator.com/item?id=50379576",
-      "points": 256,
-      "comments": 65,
-      "created_ts": 1793889258,
-      "author": "iamnothere"
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "hn_url": "https://news.ycombinator.com/item?id=50397429",
+      "points": 209,
+      "comments": 43,
+      "created_ts": 1793994531,
+      "author": "theanomaly"
     },
     {
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "hn_url": "https://news.ycombinator.com/item?id=50386338",
-      "points": 232,
-      "comments": 74,
-      "created_ts": 1793923224,
-      "author": "Philpax"
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "hn_url": "https://news.ycombinator.com/item?id=50394906",
+      "points": 164,
+      "comments": 388,
+      "created_ts": 1793984076,
+      "author": "dgellow"
     },
     {
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "hn_url": "https://news.ycombinator.com/item?id=50387796",
-      "points": 206,
-      "comments": 30,
-      "created_ts": 1793935634,
-      "author": "tripdout"
-    },
-    {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "hn_url": "https://news.ycombinator.com/item?id=50388122",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "hn_url": "https://news.ycombinator.com/item?id=50390525",
       "points": 155,
-      "comments": 47,
-      "created_ts": 1793938669,
-      "author": "jonbaer"
+      "comments": 49,
+      "created_ts": 1793960475,
+      "author": "hitekker"
     },
     {
-      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-      "url": "https://apps.metaebene.me/en/kugelblitz",
-      "hn_url": "https://news.ycombinator.com/item?id=50389370",
-      "points": 133,
-      "comments": 40,
-      "created_ts": 1793951258,
-      "author": "luoc"
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50394855",
+      "points": 155,
+      "comments": 29,
+      "created_ts": 1793983829,
+      "author": "LaSombra"
     },
     {
-      "title": "Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "hn_url": "https://news.ycombinator.com/item?id=50383294",
-      "points": 125,
-      "comments": 57,
-      "created_ts": 1793906872,
-      "author": "gmays"
+      "title": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "hn_url": "https://news.ycombinator.com/item?id=50391145",
+      "points": 134,
+      "comments": 95,
+      "created_ts": 1793965206,
+      "author": "ivarconr"
     },
     {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "hn_url": "https://news.ycombinator.com/item?id=50381687",
-      "points": 105,
-      "comments": 54,
-      "created_ts": 1793899062,
-      "author": "NathanFlurry"
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "hn_url": "https://news.ycombinator.com/item?id=50394569",
+      "points": 127,
+      "comments": 97,
+      "created_ts": 1793982692,
+      "author": "mik3y"
+    },
+    {
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "hn_url": "https://news.ycombinator.com/item?id=50396064",
+      "points": 122,
+      "comments": 106,
+      "created_ts": 1793988815,
+      "author": "speckx"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "hn_url": "https://news.ycombinator.com/item?id=50397219",
+      "points": 118,
+      "comments": 60,
+      "created_ts": 1793993618,
+      "author": "SerCe"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=50397994",
+      "points": 107,
+      "comments": 58,
+      "created_ts": 1793996843,
+      "author": "yurivish"
     }
   ],
   "ph_today": [
-    {
-      "title": "Turnstone",
-      "url": "https://www.producthunt.com/products/turnstone",
-      "tagline": "",
-      "pub_date": "2026-08-19T21:40:12-07:00"
-    },
-    {
-      "title": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "tagline": "",
-      "pub_date": "2026-11-05T06:05:15-08:00"
-    },
-    {
-      "title": "chalk",
-      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
-      "tagline": "",
-      "pub_date": "2026-10-29T11:42:39-07:00"
-    },
-    {
-      "title": "Datastripes Data Stories",
-      "url": "https://www.producthunt.com/products/datastripes",
-      "tagline": "",
-      "pub_date": "2026-11-04T05:49:01-08:00"
-    },
-    {
-      "title": "Wonder Dev View",
-      "url": "https://www.producthunt.com/products/wonder-dev-view",
-      "tagline": "",
-      "pub_date": "2026-11-01T19:47:30-08:00"
-    },
     {
       "title": "Meadow",
       "url": "https://www.producthunt.com/products/meadow-3",
@@ -215,34 +176,58 @@
       "pub_date": "2026-09-22T11:01:44-07:00"
     },
     {
-      "title": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
+      "title": "pwned.coffee",
+      "url": "https://www.producthunt.com/products/pwned-coffee",
       "tagline": "",
-      "pub_date": "2026-10-24T04:25:07-07:00"
+      "pub_date": "2026-11-05T02:27:12-08:00"
     },
     {
-      "title": "refern.",
-      "url": "https://www.producthunt.com/products/refern",
+      "title": "PostMyPace",
+      "url": "https://www.producthunt.com/products/postmypace",
       "tagline": "",
-      "pub_date": "2026-11-05T14:29:18-08:00"
+      "pub_date": "2026-11-05T05:26:15-08:00"
     },
     {
-      "title": "Make0 Brain OSS",
-      "url": "https://www.producthunt.com/products/make0-brain",
+      "title": "Openroster",
+      "url": "https://www.producthunt.com/products/openroster",
       "tagline": "",
-      "pub_date": "2026-10-29T08:42:42-07:00"
+      "pub_date": "2026-11-05T06:19:55-08:00"
     },
     {
-      "title": "Plainmail",
-      "url": "https://www.producthunt.com/products/plainmail",
+      "title": "Meshia",
+      "url": "https://www.producthunt.com/products/meshia",
       "tagline": "",
-      "pub_date": "2026-11-05T10:55:10-08:00"
+      "pub_date": "2026-09-08T20:42:27-07:00"
     },
     {
-      "title": "Mechvibes 3",
-      "url": "https://www.producthunt.com/products/mechvibes",
+      "title": "Chronos DB",
+      "url": "https://www.producthunt.com/products/chronos-db",
       "tagline": "",
-      "pub_date": "2026-10-30T09:02:11-07:00"
+      "pub_date": "2026-11-04T06:55:53-08:00"
+    },
+    {
+      "title": "Textwhisk",
+      "url": "https://www.producthunt.com/products/textwhisk",
+      "tagline": "",
+      "pub_date": "2026-11-03T23:13:12-08:00"
+    },
+    {
+      "title": "axel.md",
+      "url": "https://www.producthunt.com/products/axel-3",
+      "tagline": "",
+      "pub_date": "2026-11-03T14:39:14-08:00"
+    },
+    {
+      "title": "SafeGrd",
+      "url": "https://www.producthunt.com/products/safegrd",
+      "tagline": "",
+      "pub_date": "2026-11-02T03:51:56-08:00"
+    },
+    {
+      "title": "Releasebeam",
+      "url": "https://www.producthunt.com/products/releasebeam",
+      "tagline": "",
+      "pub_date": "2026-11-02T06:25:38-08:00"
     },
     {
       "title": "Alysis Code",
@@ -251,28 +236,22 @@
       "pub_date": "2026-11-03T04:47:30-08:00"
     },
     {
-      "title": "Letterpress-1",
-      "url": "https://www.producthunt.com/products/letterpress-1",
+      "title": "Translucent AI",
+      "url": "https://www.producthunt.com/products/translucent-ai",
       "tagline": "",
-      "pub_date": "2026-11-05T23:15:25-08:00"
+      "pub_date": "2026-11-05T06:57:51-08:00"
     },
     {
-      "title": "Koltrix",
-      "url": "https://www.producthunt.com/products/koltrix",
+      "title": "chalk",
+      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
       "tagline": "",
-      "pub_date": "2026-11-04T00:18:39-08:00"
+      "pub_date": "2026-10-29T11:42:39-07:00"
     },
     {
-      "title": "Kivo",
-      "url": "https://www.producthunt.com/products/kivo-4",
+      "title": "Turnstone",
+      "url": "https://www.producthunt.com/products/turnstone",
       "tagline": "",
-      "pub_date": "2026-11-05T09:51:26-08:00"
-    },
-    {
-      "title": "Pressure",
-      "url": "https://www.producthunt.com/products/pressure",
-      "tagline": "",
-      "pub_date": "2026-11-04T17:29:32-08:00"
+      "pub_date": "2026-08-19T21:40:12-07:00"
     },
     {
       "title": "Any Video to Text",
@@ -287,16 +266,16 @@
       "pub_date": "2026-11-03T23:55:56-08:00"
     },
     {
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
+      "title": "Tobira Site Agent",
+      "url": "https://www.producthunt.com/products/tobira-ai",
       "tagline": "",
-      "pub_date": "2026-11-05T00:53:29-08:00"
+      "pub_date": "2026-10-24T04:25:07-07:00"
     },
     {
-      "title": "Textwhisk",
-      "url": "https://www.producthunt.com/products/textwhisk",
+      "title": "Pressure",
+      "url": "https://www.producthunt.com/products/pressure",
       "tagline": "",
-      "pub_date": "2026-11-03T23:13:12-08:00"
+      "pub_date": "2026-11-04T17:29:32-08:00"
     },
     {
       "title": "crystl",
@@ -305,58 +284,70 @@
       "pub_date": "2026-11-05T18:44:33-08:00"
     },
     {
-      "title": "AudioCentral",
-      "url": "https://www.producthunt.com/products/audiocentral",
+      "title": "Winq",
+      "url": "https://www.producthunt.com/products/winq",
       "tagline": "",
-      "pub_date": "2026-11-05T13:36:58-08:00"
+      "pub_date": "2026-10-31T13:14:14-07:00"
     },
     {
-      "title": "OrgSync",
-      "url": "https://www.producthunt.com/products/orgsync-2",
+      "title": "Mechvibes 3",
+      "url": "https://www.producthunt.com/products/mechvibes",
       "tagline": "",
-      "pub_date": "2026-11-04T07:12:38-08:00"
+      "pub_date": "2026-10-30T09:02:11-07:00"
     },
     {
-      "title": "Magic Wonders",
-      "url": "https://www.producthunt.com/products/magic-wonders",
+      "title": "Cursor Craft",
+      "url": "https://www.producthunt.com/products/cursor-craft",
       "tagline": "",
-      "pub_date": "2026-11-05T12:06:11-08:00"
+      "pub_date": "2026-11-05T17:53:45-08:00"
     },
     {
-      "title": "SafeGrd",
-      "url": "https://www.producthunt.com/products/safegrd",
+      "title": "Koltrix",
+      "url": "https://www.producthunt.com/products/koltrix",
       "tagline": "",
-      "pub_date": "2026-11-02T03:51:56-08:00"
+      "pub_date": "2026-11-04T00:18:39-08:00"
     },
     {
-      "title": "MacDupl",
-      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "title": "Wonder Dev View",
+      "url": "https://www.producthunt.com/products/wonder-dev-view",
       "tagline": "",
-      "pub_date": "2026-11-05T14:47:07-08:00"
+      "pub_date": "2026-11-01T19:47:30-08:00"
     },
     {
-      "title": "Meshia",
-      "url": "https://www.producthunt.com/products/meshia",
+      "title": "Rankfender v3.0",
+      "url": "https://www.producthunt.com/products/rankfender",
       "tagline": "",
-      "pub_date": "2026-09-08T20:42:27-07:00"
+      "pub_date": "2026-11-05T06:05:15-08:00"
     },
     {
-      "title": "Native Tasks for Obsidian",
-      "url": "https://www.producthunt.com/products/native-tasks-for-obsidian",
+      "title": "Datastripes Data Stories",
+      "url": "https://www.producthunt.com/products/datastripes",
       "tagline": "",
-      "pub_date": "2026-10-30T14:23:46-07:00"
+      "pub_date": "2026-11-04T05:49:01-08:00"
     },
     {
-      "title": "Shipnoted",
-      "url": "https://www.producthunt.com/products/shipnoted",
+      "title": "Plainmail",
+      "url": "https://www.producthunt.com/products/plainmail",
       "tagline": "",
-      "pub_date": "2026-11-05T10:10:18-08:00"
+      "pub_date": "2026-11-05T10:55:10-08:00"
     },
     {
-      "title": "Wisp",
-      "url": "https://www.producthunt.com/products/wisp-9",
+      "title": "EdgeBar",
+      "url": "https://www.producthunt.com/products/edgebar",
       "tagline": "",
-      "pub_date": "2026-11-05T08:28:20-08:00"
+      "pub_date": "2026-11-02T03:39:27-08:00"
+    },
+    {
+      "title": "Pauta",
+      "url": "https://www.producthunt.com/products/pauta",
+      "tagline": "",
+      "pub_date": "2026-11-04T04:35:32-08:00"
+    },
+    {
+      "title": "Make0 Brain OSS",
+      "url": "https://www.producthunt.com/products/make0-brain",
+      "tagline": "",
+      "pub_date": "2026-10-29T08:42:42-07:00"
     }
   ]
 }

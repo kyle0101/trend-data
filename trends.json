@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-11-07T03:57:46.068Z",
+  "generated_at": "2026-11-07T12:12:11.628Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
+      "title": "Show HN: Did prediction markets do any predicting this midterms?",
+      "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+      "hn_url": "https://news.ycombinator.com/item?id=50401451",
+      "points": 29,
+      "comments": 16,
+      "created_ts": 1794023421,
+      "author": "nuwandavek"
+    },
+    {
       "title": "Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs",
       "url": "https://github.com/tharun208/cloneguard",
       "hn_url": "https://news.ycombinator.com/item?id=50397435",
-      "points": 28,
+      "points": 29,
       "comments": 7,
       "created_ts": 1793994567,
       "author": "tharun208"
@@ -16,7 +25,7 @@
       "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
       "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
       "hn_url": "https://news.ycombinator.com/item?id=50397325",
-      "points": 25,
+      "points": 28,
       "comments": 1,
       "created_ts": 1793994080,
       "author": "antelocnova"
@@ -25,7 +34,7 @@
       "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
       "url": "https://github.com/zalando-incubator/agentic-identity-broker",
       "hn_url": "https://news.ycombinator.com/item?id=50393235",
-      "points": 21,
+      "points": 22,
       "comments": 3,
       "created_ts": 1793977667,
       "author": "jbspeakr"
@@ -47,6 +56,15 @@
       "comments": 3,
       "created_ts": 1793984423,
       "author": "adityawebde"
+    },
+    {
+      "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
+      "url": "https://backwords.greg.technology/",
+      "hn_url": "https://news.ycombinator.com/item?id=50401409",
+      "points": 11,
+      "comments": 2,
+      "created_ts": 1794022786,
+      "author": "gregsadetsky"
     }
   ],
   "hn_front": [
@@ -54,219 +72,285 @@
       "title": "Tesla to wind down Cybertruck production",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
       "hn_url": "https://news.ycombinator.com/item?id=50391456",
-      "points": 902,
-      "comments": 1752,
+      "points": 1038,
+      "comments": 1887,
       "created_ts": 1793967231,
       "author": "PLenz"
-    },
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "hn_url": "https://news.ycombinator.com/item?id=50397429",
-      "points": 376,
-      "comments": 85,
-      "created_ts": 1793994531,
-      "author": "theanomaly"
     },
     {
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
       "hn_url": "https://news.ycombinator.com/item?id=50399933",
-      "points": 337,
-      "comments": 55,
+      "points": 718,
+      "comments": 116,
       "created_ts": 1794007852,
       "author": "mfiguiere"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "hn_url": "https://news.ycombinator.com/item?id=50397429",
+      "points": 503,
+      "comments": 119,
+      "created_ts": 1793994531,
+      "author": "theanomaly"
     },
     {
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "hn_url": "https://news.ycombinator.com/item?id=50392118",
-      "points": 304,
-      "comments": 220,
+      "points": 343,
+      "comments": 233,
       "created_ts": 1793972127,
       "author": "thisisauserid"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "hn_url": "https://news.ycombinator.com/item?id=50388001",
-      "points": 296,
-      "comments": 240,
-      "created_ts": 1793937628,
-      "author": "ChrisArchitect"
     },
     {
       "title": "AI is dramatically accelerating AI research",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
-      "points": 229,
-      "comments": 173,
+      "points": 325,
+      "comments": 281,
       "created_ts": 1793996843,
       "author": "yurivish"
-    },
-    {
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50394855",
-      "points": 200,
-      "comments": 36,
-      "created_ts": 1793983829,
-      "author": "LaSombra"
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "url": "https://pwn.ai/blog/firecracker-escape",
       "hn_url": "https://news.ycombinator.com/item?id=50397219",
-      "points": 189,
-      "comments": 88,
+      "points": 248,
+      "comments": 109,
       "created_ts": 1793993618,
       "author": "SerCe"
     },
     {
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "hn_url": "https://news.ycombinator.com/item?id=50399657",
-      "points": 148,
-      "comments": 66,
-      "created_ts": 1794006046,
-      "author": "doener"
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50394855",
+      "points": 227,
+      "comments": 42,
+      "created_ts": 1793983829,
+      "author": "LaSombra"
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "hn_url": "https://news.ycombinator.com/item?id=50401867",
+      "points": 202,
+      "comments": 164,
+      "created_ts": 1794028818,
+      "author": "ackyshake"
     },
     {
       "title": "Devvm.dev: One VM for every project",
       "url": "https://devvm.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50395450",
-      "points": 130,
-      "comments": 53,
+      "points": 161,
+      "comments": 62,
       "created_ts": 1793986222,
       "author": "luispa"
     },
     {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "url": "https://www.norvig.com/chomsky.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50389570",
-      "points": 108,
-      "comments": 89,
-      "created_ts": 1793953116,
-      "author": "andsoitis"
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "hn_url": "https://news.ycombinator.com/item?id=50397099",
+      "points": 157,
+      "comments": 34,
+      "created_ts": 1793993061,
+      "author": "DAlperin"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "hn_url": "https://news.ycombinator.com/item?id=50399991",
+      "points": 136,
+      "comments": 71,
+      "created_ts": 1794008239,
+      "author": "raybb"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "hn_url": "https://news.ycombinator.com/item?id=50403097",
+      "points": 134,
+      "comments": 49,
+      "created_ts": 1794044763,
+      "author": "infwhispers"
     },
     {
       "title": "Restaurant Delivery Payment-Skimming Campaign",
       "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
       "hn_url": "https://news.ycombinator.com/item?id=50397017",
-      "points": 103,
-      "comments": 51,
+      "points": 129,
+      "comments": 65,
       "created_ts": 1793992767,
       "author": "fiej"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "hn_url": "https://news.ycombinator.com/item?id=50401740",
+      "points": 121,
+      "comments": 88,
+      "created_ts": 1794027276,
+      "author": "benbreen"
     }
   ],
   "ph_today": [
     {
-      "title": "PostMyPace",
-      "url": "https://www.producthunt.com/products/postmypace",
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-11-05T05:26:15-08:00"
+      "pub_date": "2026-11-05T09:12:40-08:00"
     },
     {
-      "title": "Alysis Code",
-      "url": "https://www.producthunt.com/products/alysis-code",
+      "title": "LiveReview",
+      "url": "https://www.producthunt.com/products/livereview",
       "tagline": "",
-      "pub_date": "2026-11-03T04:47:30-08:00"
+      "pub_date": "2026-10-26T05:40:53-07:00"
     },
     {
-      "title": "crystl",
-      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "title": "Fleeep",
+      "url": "https://www.producthunt.com/products/fleeep",
       "tagline": "",
-      "pub_date": "2026-11-05T18:44:33-08:00"
+      "pub_date": "2026-11-03T04:41:45-08:00"
     },
     {
-      "title": "OrgSync",
-      "url": "https://www.producthunt.com/products/orgsync-2",
+      "title": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
       "tagline": "",
-      "pub_date": "2026-11-04T07:12:38-08:00"
+      "pub_date": "2026-11-05T09:10:35-08:00"
     },
     {
-      "title": "Wisp",
-      "url": "https://www.producthunt.com/products/wisp-9",
+      "title": "PacerTrip",
+      "url": "https://www.producthunt.com/products/pacertrip",
       "tagline": "",
-      "pub_date": "2026-11-05T08:28:20-08:00"
+      "pub_date": "2026-10-22T04:54:24-07:00"
     },
     {
-      "title": "Mmory",
-      "url": "https://www.producthunt.com/products/mmory",
+      "title": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
       "tagline": "",
-      "pub_date": "2026-11-04T19:06:22-08:00"
+      "pub_date": "2026-10-21T08:22:29-07:00"
     },
     {
-      "title": "EdgeBar",
-      "url": "https://www.producthunt.com/products/edgebar",
+      "title": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
       "tagline": "",
-      "pub_date": "2026-11-02T03:39:27-08:00"
+      "pub_date": "2026-11-05T16:46:05-08:00"
     },
     {
-      "title": "chalk",
-      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
+      "title": "Muse Realtime Avatar",
+      "url": "https://www.producthunt.com/products/meta-ai",
       "tagline": "",
-      "pub_date": "2026-10-29T11:42:39-07:00"
+      "pub_date": "2026-11-06T10:21:58-08:00"
     },
     {
-      "title": "Datastripes Data Stories",
-      "url": "https://www.producthunt.com/products/datastripes",
+      "title": "Exa Monitors v2",
+      "url": "https://www.producthunt.com/products/exa-ai",
       "tagline": "",
-      "pub_date": "2026-11-04T05:49:01-08:00"
+      "pub_date": "2026-11-02T10:27:33-08:00"
     },
     {
-      "title": "Wonder Dev View",
-      "url": "https://www.producthunt.com/products/wonder-dev-view",
+      "title": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
       "tagline": "",
-      "pub_date": "2026-11-01T19:47:30-08:00"
+      "pub_date": "2026-11-01T16:27:34-08:00"
     },
     {
-      "title": "Winq",
-      "url": "https://www.producthunt.com/products/winq",
+      "title": "Standflow",
+      "url": "https://www.producthunt.com/products/standflow",
       "tagline": "",
-      "pub_date": "2026-10-31T13:14:14-07:00"
+      "pub_date": "2026-10-31T15:13:34-07:00"
     },
     {
-      "title": "BuildFerry",
-      "url": "https://www.producthunt.com/products/buildferry",
+      "title": "Sequence Tool",
+      "url": "https://www.producthunt.com/products/sequence-tool",
       "tagline": "",
-      "pub_date": "2026-11-05T09:46:58-08:00"
+      "pub_date": "2026-11-06T06:55:13-08:00"
     },
     {
-      "title": "OpenVisio",
-      "url": "https://www.producthunt.com/products/openvisio",
+      "title": "kayet",
+      "url": "https://www.producthunt.com/products/kayet",
       "tagline": "",
-      "pub_date": "2026-11-05T02:54:48-08:00"
+      "pub_date": "2026-11-03T05:54:00-08:00"
     },
     {
-      "title": "Meshia",
-      "url": "https://www.producthunt.com/products/meshia",
+      "title": "Duly",
+      "url": "https://www.producthunt.com/products/duly-life-organizer",
       "tagline": "",
-      "pub_date": "2026-09-08T20:42:27-07:00"
+      "pub_date": "2026-10-22T04:22:07-07:00"
     },
     {
-      "title": "Pauta",
-      "url": "https://www.producthunt.com/products/pauta",
+      "title": "Trace by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "tagline": "",
-      "pub_date": "2026-11-04T04:35:32-08:00"
+      "pub_date": "2026-11-06T20:05:08-08:00"
     },
     {
-      "title": "Codiclens",
-      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+      "title": "Capnot",
+      "url": "https://www.producthunt.com/products/capnot",
       "tagline": "",
-      "pub_date": "2026-11-05T13:12:24-08:00"
+      "pub_date": "2026-11-06T02:25:37-08:00"
     },
     {
-      "title": "Enhanced for Todoist",
-      "url": "https://www.producthunt.com/products/enhanced-for-todoist",
+      "title": "seam",
+      "url": "https://www.producthunt.com/products/seam-2",
       "tagline": "",
-      "pub_date": "2026-11-03T23:55:56-08:00"
+      "pub_date": "2026-10-27T09:54:19-07:00"
     },
     {
-      "title": "DALI AI by SupplyzPro",
-      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "title": "ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-09-26T16:03:55-07:00"
+      "pub_date": "2026-11-05T08:20:03-08:00"
+    },
+    {
+      "title": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "tagline": "",
+      "pub_date": "2026-11-06T08:06:36-08:00"
+    },
+    {
+      "title": "Rex (Beta)",
+      "url": "https://www.producthunt.com/products/superlogical",
+      "tagline": "",
+      "pub_date": "2026-11-06T06:50:09-08:00"
+    },
+    {
+      "title": "ClarifierAI for Chrome",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "tagline": "",
+      "pub_date": "2026-10-26T03:38:44-07:00"
+    },
+    {
+      "title": "Sendoff",
+      "url": "https://www.producthunt.com/products/sendoff-2",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:55:01-08:00"
+    },
+    {
+      "title": "Switchy",
+      "url": "https://www.producthunt.com/products/switchy",
+      "tagline": "",
+      "pub_date": "2026-11-06T03:24:14-08:00"
+    },
+    {
+      "title": "Dino Kids",
+      "url": "https://www.producthunt.com/products/dino-kids",
+      "tagline": "",
+      "pub_date": "2026-11-03T23:14:57-08:00"
+    },
+    {
+      "title": "Translucent AI",
+      "url": "https://www.producthunt.com/products/translucent-ai",
+      "tagline": "",
+      "pub_date": "2026-11-05T06:57:51-08:00"
+    },
+    {
+      "title": "Releasebeam",
+      "url": "https://www.producthunt.com/products/releasebeam",
+      "tagline": "",
+      "pub_date": "2026-11-02T06:25:38-08:00"
     },
     {
       "title": "Textwhisk",
@@ -275,70 +359,22 @@
       "pub_date": "2026-11-03T23:13:12-08:00"
     },
     {
-      "title": "Mechvibes 3",
-      "url": "https://www.producthunt.com/products/mechvibes",
+      "title": "Codiclens",
+      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
       "tagline": "",
-      "pub_date": "2026-10-30T09:02:11-07:00"
+      "pub_date": "2026-11-05T13:12:24-08:00"
     },
     {
-      "title": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
+      "title": "Pauta",
+      "url": "https://www.producthunt.com/products/pauta",
       "tagline": "",
-      "pub_date": "2026-11-05T06:05:15-08:00"
+      "pub_date": "2026-11-04T04:35:32-08:00"
     },
     {
-      "title": "Turnstone",
-      "url": "https://www.producthunt.com/products/turnstone",
+      "title": "Openroster",
+      "url": "https://www.producthunt.com/products/openroster",
       "tagline": "",
-      "pub_date": "2026-08-19T21:40:12-07:00"
-    },
-    {
-      "title": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "tagline": "",
-      "pub_date": "2026-10-24T04:25:07-07:00"
-    },
-    {
-      "title": "Plainmail",
-      "url": "https://www.producthunt.com/products/plainmail",
-      "tagline": "",
-      "pub_date": "2026-11-05T10:55:10-08:00"
-    },
-    {
-      "title": "LiveShortly",
-      "url": "https://www.producthunt.com/products/liveshortly",
-      "tagline": "",
-      "pub_date": "2026-11-01T01:55:35-08:00"
-    },
-    {
-      "title": "Any Video to Text",
-      "url": "https://www.producthunt.com/products/any-video-to-text",
-      "tagline": "",
-      "pub_date": "2026-11-03T11:34:34-08:00"
-    },
-    {
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
-      "tagline": "",
-      "pub_date": "2026-11-05T00:53:29-08:00"
-    },
-    {
-      "title": "Kodivo",
-      "url": "https://www.producthunt.com/products/kodivo",
-      "tagline": "",
-      "pub_date": "2026-11-05T16:07:03-08:00"
-    },
-    {
-      "title": "SafeGrd",
-      "url": "https://www.producthunt.com/products/safegrd",
-      "tagline": "",
-      "pub_date": "2026-11-02T03:51:56-08:00"
-    },
-    {
-      "title": "Translucent AI",
-      "url": "https://www.producthunt.com/products/translucent-ai",
-      "tagline": "",
-      "pub_date": "2026-11-05T06:57:51-08:00"
+      "pub_date": "2026-11-05T06:19:55-08:00"
     }
   ]
 }

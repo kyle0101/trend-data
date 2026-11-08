@@ -1,41 +1,14 @@
 {
-  "generated_at": "2026-11-08T12:32:23.264Z",
+  "generated_at": "2026-11-08T21:30:50.299Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "hn_url": "https://news.ycombinator.com/item?id=50406292",
-      "points": 251,
-      "comments": 61,
-      "created_ts": 1794072450,
-      "author": "hedgerow-dev"
-    },
-    {
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "hn_url": "https://news.ycombinator.com/item?id=50405263",
-      "points": 69,
-      "comments": 14,
-      "created_ts": 1794064561,
-      "author": "jiant"
-    },
-    {
-      "title": "Show HN: Where Were We",
-      "url": "https://wherewerewe.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50408082",
-      "points": 46,
-      "comments": 17,
-      "created_ts": 1794085715,
-      "author": "zkiihne"
-    },
-    {
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
       "url": "https://eyesrhythm.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50408350",
-      "points": 32,
-      "comments": 15,
+      "points": 37,
+      "comments": 22,
       "created_ts": 1794088067,
       "author": "prnysoni"
     },
@@ -43,7 +16,7 @@
       "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
       "url": "https://github.com/AmSach/maple",
       "hn_url": "https://news.ycombinator.com/item?id=50410253",
-      "points": 12,
+      "points": 19,
       "comments": 5,
       "created_ts": 1794109684,
       "author": "AmSach"
@@ -52,143 +25,101 @@
       "title": "Show HN: LLM weight editing tool made by a 15-year-old",
       "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
       "hn_url": "https://news.ycombinator.com/item?id=50409986",
-      "points": 11,
-      "comments": 0,
+      "points": 13,
+      "comments": 2,
       "created_ts": 1794105430,
       "author": "032renya"
     }
   ],
   "hn_front": [
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "hn_url": "https://news.ycombinator.com/item?id=50406670",
-      "points": 625,
-      "comments": 115,
-      "created_ts": 1794075132,
-      "author": "LaurensBER"
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "hn_url": "https://news.ycombinator.com/item?id=50406111",
-      "points": 478,
-      "comments": 302,
-      "created_ts": 1794071196,
-      "author": "user_7832"
-    },
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "hn_url": "https://news.ycombinator.com/item?id=50406563",
-      "points": 468,
-      "comments": 281,
-      "created_ts": 1794074537,
-      "author": "srean"
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "hn_url": "https://news.ycombinator.com/item?id=50407882",
-      "points": 439,
-      "comments": 299,
-      "created_ts": 1794084332,
-      "author": "shmulc"
-    },
-    {
-      "title": "Goodbye Claude, Hello Pi",
+      "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
       "hn_url": "https://news.ycombinator.com/item?id=50410107",
-      "points": 381,
-      "comments": 239,
+      "points": 635,
+      "comments": 408,
       "created_ts": 1794107508,
       "author": "karagenit"
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "hn_url": "https://news.ycombinator.com/item?id=50406222",
-      "points": 333,
-      "comments": 87,
-      "created_ts": 1794071940,
-      "author": "antiuniverse"
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "hn_url": "https://news.ycombinator.com/item?id=50415628",
+      "points": 404,
+      "comments": 250,
+      "created_ts": 1794161767,
+      "author": "TheWiggles"
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "hn_url": "https://news.ycombinator.com/item?id=50406292",
-      "points": 251,
-      "comments": 61,
-      "created_ts": 1794072450,
-      "author": "hedgerow-dev"
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "hn_url": "https://news.ycombinator.com/item?id=50411961",
+      "points": 305,
+      "comments": 116,
+      "created_ts": 1794133324,
+      "author": "joshcsimmons"
     },
     {
-      "title": "The $8 Linux Computer (2022)",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50404599",
-      "points": 244,
-      "comments": 94,
-      "created_ts": 1794060020,
-      "author": "zenincognito"
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50412067",
+      "points": 226,
+      "comments": 72,
+      "created_ts": 1794134512,
+      "author": "jruohonen"
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "hn_url": "https://news.ycombinator.com/item?id=50408713",
-      "points": 156,
-      "comments": 38,
-      "created_ts": 1794091138,
-      "author": "germanrabbit"
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "hn_url": "https://news.ycombinator.com/item?id=50411467",
+      "points": 158,
+      "comments": 102,
+      "created_ts": 1794127223,
+      "author": "mthines"
     },
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "hn_url": "https://news.ycombinator.com/item?id=50408931",
-      "points": 150,
-      "comments": 101,
-      "created_ts": 1794092980,
-      "author": "xiaoyu2006"
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "hn_url": "https://news.ycombinator.com/item?id=50416801",
+      "points": 154,
+      "comments": 118,
+      "created_ts": 1794169603,
+      "author": "vincentchau"
     },
     {
-      "title": "GitHub Down Again?",
-      "url": "https://github.com/torvalds/linux",
-      "hn_url": "https://news.ycombinator.com/item?id=50411818",
-      "points": 106,
-      "comments": 101,
-      "created_ts": 1794131767,
-      "author": "ridowk"
+      "title": "Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "hn_url": "https://news.ycombinator.com/item?id=50412152",
+      "points": 151,
+      "comments": 89,
+      "created_ts": 1794135403,
+      "author": "adrianhoward"
+    },
+    {
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "hn_url": "https://news.ycombinator.com/item?id=50415172",
+      "points": 133,
+      "comments": 45,
+      "created_ts": 1794158429,
+      "author": "randycupertino"
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "hn_url": "https://news.ycombinator.com/item?id=50416158",
+      "points": 104,
+      "comments": 90,
+      "created_ts": 1794165632,
+      "author": "xmddmx"
     }
   ],
   "ph_today": [
     {
-      "title": "NotchIsland",
-      "url": "https://www.producthunt.com/products/notchisland-2",
+      "title": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon",
       "tagline": "",
-      "pub_date": "2026-11-02T03:00:48-08:00"
-    },
-    {
-      "title": "Zigzag Browser",
-      "url": "https://www.producthunt.com/products/zigzag-3",
-      "tagline": "",
-      "pub_date": "2026-11-07T06:38:06-08:00"
-    },
-    {
-      "title": "outages.live",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-11-04T16:40:25-08:00"
-    },
-    {
-      "title": "Agent Clan",
-      "url": "https://www.producthunt.com/products/agent-clan",
-      "tagline": "",
-      "pub_date": "2026-11-07T09:52:26-08:00"
-    },
-    {
-      "title": "NoMac",
-      "url": "https://www.producthunt.com/products/nomac",
-      "tagline": "",
-      "pub_date": "2026-10-26T12:07:17-07:00"
+      "pub_date": "2026-11-03T02:28:09-08:00"
     },
     {
       "title": "Memorias",
@@ -197,52 +128,34 @@
       "pub_date": "2026-10-13T06:48:16-07:00"
     },
     {
-      "title": "Textly",
-      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
-      "tagline": "",
-      "pub_date": "2026-11-02T03:53:22-08:00"
-    },
-    {
-      "title": "Deduplication",
-      "url": "https://www.producthunt.com/products/hacker-noon",
-      "tagline": "",
-      "pub_date": "2026-11-03T02:28:09-08:00"
-    },
-    {
-      "title": "Frameboy by World Labs",
-      "url": "https://www.producthunt.com/products/marble-by-world-labs",
-      "tagline": "",
-      "pub_date": "2026-11-05T21:06:31-08:00"
-    },
-    {
-      "title": "Inkling 2 Small",
-      "url": "https://www.producthunt.com/products/tinker-2",
-      "tagline": "",
-      "pub_date": "2026-11-06T06:18:59-08:00"
-    },
-    {
-      "title": "DocsAlot for customer support",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "tagline": "",
-      "pub_date": "2026-11-04T21:41:21-08:00"
-    },
-    {
       "title": "Sage2 by Levanto Labs",
       "url": "https://www.producthunt.com/products/sagecraft",
       "tagline": "",
       "pub_date": "2026-11-02T10:04:38-08:00"
     },
     {
-      "title": "Archie",
-      "url": "https://www.producthunt.com/products/archie-3",
+      "title": "Textly",
+      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
       "tagline": "",
-      "pub_date": "2026-11-01T11:15:40-08:00"
+      "pub_date": "2026-11-02T03:53:22-08:00"
     },
     {
       "title": "Tilde ",
       "url": "https://www.producthunt.com/products/tilde-for-mac",
       "tagline": "",
       "pub_date": "2026-11-03T00:46:52-08:00"
+    },
+    {
+      "title": "Zigzag Browser",
+      "url": "https://www.producthunt.com/products/zigzag-browser",
+      "tagline": "",
+      "pub_date": "2026-11-07T06:38:06-08:00"
+    },
+    {
+      "title": "NoMac",
+      "url": "https://www.producthunt.com/products/nomac",
+      "tagline": "",
+      "pub_date": "2026-10-26T12:07:17-07:00"
     },
     {
       "title": "NotchX",
@@ -257,70 +170,52 @@
       "pub_date": "2026-11-04T20:38:36-08:00"
     },
     {
+      "title": "DocsAlot for customer support",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "tagline": "",
+      "pub_date": "2026-11-04T21:41:21-08:00"
+    },
+    {
+      "title": "outages.live",
+      "url": "https://www.producthunt.com/products/polylane",
+      "tagline": "",
+      "pub_date": "2026-11-04T16:40:25-08:00"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "tagline": "",
+      "pub_date": "2026-11-06T06:18:59-08:00"
+    },
+    {
+      "title": "NotchIsland",
+      "url": "https://www.producthunt.com/products/notchisland-2",
+      "tagline": "",
+      "pub_date": "2026-11-02T03:00:48-08:00"
+    },
+    {
+      "title": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "tagline": "",
+      "pub_date": "2026-11-07T09:52:26-08:00"
+    },
+    {
       "title": "AXL",
       "url": "https://www.producthunt.com/products/axl-2",
       "tagline": "",
       "pub_date": "2026-10-30T14:17:40-07:00"
     },
     {
-      "title": "Exa Monitors v2",
-      "url": "https://www.producthunt.com/products/exa-ai",
+      "title": "Archie",
+      "url": "https://www.producthunt.com/products/archie-3",
       "tagline": "",
-      "pub_date": "2026-11-02T10:27:33-08:00"
+      "pub_date": "2026-11-01T11:15:40-08:00"
     },
     {
-      "title": "Sendoff",
-      "url": "https://www.producthunt.com/products/sendoff-2",
+      "title": "Frameboy by World Labs",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
       "tagline": "",
-      "pub_date": "2026-11-03T08:55:01-08:00"
-    },
-    {
-      "title": "The Writer's Quarter",
-      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
-      "tagline": "",
-      "pub_date": "2026-11-06T08:06:36-08:00"
-    },
-    {
-      "title": "kayet",
-      "url": "https://www.producthunt.com/products/kayet",
-      "tagline": "",
-      "pub_date": "2026-11-03T05:54:00-08:00"
-    },
-    {
-      "title": "Fleeep",
-      "url": "https://www.producthunt.com/products/fleeep",
-      "tagline": "",
-      "pub_date": "2026-11-03T04:41:45-08:00"
-    },
-    {
-      "title": "LiveReview",
-      "url": "https://www.producthunt.com/products/livereview",
-      "tagline": "",
-      "pub_date": "2026-10-26T05:40:53-07:00"
-    },
-    {
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "tagline": "",
-      "pub_date": "2026-11-05T16:46:05-08:00"
-    },
-    {
-      "title": "Muse Realtime Avatar",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "tagline": "",
-      "pub_date": "2026-11-06T10:21:58-08:00"
-    },
-    {
-      "title": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "tagline": "",
-      "pub_date": "2026-11-05T09:10:35-08:00"
-    },
-    {
-      "title": "Rex (Beta)",
-      "url": "https://www.producthunt.com/products/superlogical",
-      "tagline": "",
-      "pub_date": "2026-11-06T06:50:09-08:00"
+      "pub_date": "2026-11-05T21:06:31-08:00"
     },
     {
       "title": "ChatGPT Images 2.6",
@@ -329,16 +224,76 @@
       "pub_date": "2026-11-05T08:20:03-08:00"
     },
     {
-      "title": "Dino Kids",
-      "url": "https://www.producthunt.com/products/dino-kids",
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-11-03T23:14:57-08:00"
+      "pub_date": "2026-11-05T09:12:40-08:00"
     },
     {
-      "title": "Standflow",
-      "url": "https://www.producthunt.com/products/standflow",
+      "title": "LiveReview",
+      "url": "https://www.producthunt.com/products/livereview",
       "tagline": "",
-      "pub_date": "2026-10-31T15:13:34-07:00"
+      "pub_date": "2026-10-26T05:40:53-07:00"
+    },
+    {
+      "title": "Trace by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-11-06T20:05:08-08:00"
+    },
+    {
+      "title": "Sendoff",
+      "url": "https://www.producthunt.com/products/sendoff-2",
+      "tagline": "",
+      "pub_date": "2026-11-03T08:55:01-08:00"
+    },
+    {
+      "title": "Duly",
+      "url": "https://www.producthunt.com/products/duly-life-organizer",
+      "tagline": "",
+      "pub_date": "2026-10-22T04:22:07-07:00"
+    },
+    {
+      "title": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "tagline": "",
+      "pub_date": "2026-11-06T08:06:36-08:00"
+    },
+    {
+      "title": "seam",
+      "url": "https://www.producthunt.com/products/seam-2",
+      "tagline": "",
+      "pub_date": "2026-10-27T09:54:19-07:00"
+    },
+    {
+      "title": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "tagline": "",
+      "pub_date": "2026-10-21T08:22:29-07:00"
+    },
+    {
+      "title": "Capnot",
+      "url": "https://www.producthunt.com/products/capnot",
+      "tagline": "",
+      "pub_date": "2026-11-06T02:25:37-08:00"
+    },
+    {
+      "title": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+      "tagline": "",
+      "pub_date": "2026-11-05T09:10:35-08:00"
+    },
+    {
+      "title": "Muse Realtime Avatar",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "tagline": "",
+      "pub_date": "2026-11-06T10:21:58-08:00"
+    },
+    {
+      "title": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "tagline": "",
+      "pub_date": "2026-11-05T16:46:05-08:00"
     }
   ]
 }

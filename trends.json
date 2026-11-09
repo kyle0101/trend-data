@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-11-08T21:30:50.299Z",
+  "generated_at": "2026-11-09T03:56:01.314Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50408350",
-      "points": 37,
-      "comments": 22,
-      "created_ts": 1794088067,
-      "author": "prnysoni"
-    },
-    {
-      "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-      "url": "https://github.com/AmSach/maple",
-      "hn_url": "https://news.ycombinator.com/item?id=50410253",
-      "points": 19,
-      "comments": 5,
-      "created_ts": 1794109684,
-      "author": "AmSach"
-    },
-    {
-      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "hn_url": "https://news.ycombinator.com/item?id=50409986",
-      "points": 13,
-      "comments": 2,
-      "created_ts": 1794105430,
-      "author": "032renya"
+      "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+      "url": "https://github.com/SafeScript/safescript",
+      "hn_url": "https://news.ycombinator.com/item?id=50417478",
+      "points": 11,
+      "comments": 10,
+      "created_ts": 1794173193,
+      "author": "EGreg"
     }
   ],
   "hn_front": [
     {
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50410107",
-      "points": 635,
-      "comments": 408,
-      "created_ts": 1794107508,
-      "author": "karagenit"
-    },
-    {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "hn_url": "https://news.ycombinator.com/item?id=50415628",
-      "points": 404,
-      "comments": 250,
+      "points": 657,
+      "comments": 379,
       "created_ts": 1794161767,
       "author": "TheWiggles"
     },
@@ -54,8 +27,8 @@
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
       "hn_url": "https://news.ycombinator.com/item?id=50411961",
-      "points": 305,
-      "comments": 116,
+      "points": 386,
+      "comments": 172,
       "created_ts": 1794133324,
       "author": "joshcsimmons"
     },
@@ -63,87 +36,90 @@
       "title": "Writing as a thinking tool",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
       "hn_url": "https://news.ycombinator.com/item?id=50412067",
-      "points": 226,
-      "comments": 72,
+      "points": 304,
+      "comments": 83,
       "created_ts": 1794134512,
       "author": "jruohonen"
-    },
-    {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "hn_url": "https://news.ycombinator.com/item?id=50411467",
-      "points": 158,
-      "comments": 102,
-      "created_ts": 1794127223,
-      "author": "mthines"
-    },
-    {
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "hn_url": "https://news.ycombinator.com/item?id=50416801",
-      "points": 154,
-      "comments": 118,
-      "created_ts": 1794169603,
-      "author": "vincentchau"
-    },
-    {
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "hn_url": "https://news.ycombinator.com/item?id=50412152",
-      "points": 151,
-      "comments": 89,
-      "created_ts": 1794135403,
-      "author": "adrianhoward"
-    },
-    {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "hn_url": "https://news.ycombinator.com/item?id=50415172",
-      "points": 133,
-      "comments": 45,
-      "created_ts": 1794158429,
-      "author": "randycupertino"
     },
     {
       "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "hn_url": "https://news.ycombinator.com/item?id=50416158",
-      "points": 104,
-      "comments": 90,
+      "points": 290,
+      "comments": 205,
       "created_ts": 1794165632,
       "author": "xmddmx"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50418176",
+      "points": 287,
+      "comments": 83,
+      "created_ts": 1794177335,
+      "author": "dcoulmbe"
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50416053",
+      "points": 221,
+      "comments": 69,
+      "created_ts": 1794164931,
+      "author": "indigodaddy"
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "points": 179,
+      "comments": 142,
+      "created_ts": 1794166662,
+      "author": "kyunez"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "hn_url": "https://news.ycombinator.com/item?id=50417407",
+      "points": 161,
+      "comments": 544,
+      "created_ts": 1794172820,
+      "author": "david927"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50418182",
+      "points": 135,
+      "comments": 20,
+      "created_ts": 1794177363,
+      "author": "nmstoker"
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=50419215",
+      "points": 133,
+      "comments": 47,
+      "created_ts": 1794183050,
+      "author": "infosecau"
+    },
+    {
+      "title": "A Little Snitch for Windows",
+      "url": "https://packethound.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50415135",
+      "points": 103,
+      "comments": 48,
+      "created_ts": 1794158167,
+      "author": "BadBoyBubby"
     }
   ],
   "ph_today": [
     {
-      "title": "Deduplication",
-      "url": "https://www.producthunt.com/products/hacker-noon",
+      "title": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2",
       "tagline": "",
-      "pub_date": "2026-11-03T02:28:09-08:00"
-    },
-    {
-      "title": "Memorias",
-      "url": "https://www.producthunt.com/products/memorias-3",
-      "tagline": "",
-      "pub_date": "2026-10-13T06:48:16-07:00"
-    },
-    {
-      "title": "Sage2 by Levanto Labs",
-      "url": "https://www.producthunt.com/products/sagecraft",
-      "tagline": "",
-      "pub_date": "2026-11-02T10:04:38-08:00"
-    },
-    {
-      "title": "Textly",
-      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
-      "tagline": "",
-      "pub_date": "2026-11-02T03:53:22-08:00"
-    },
-    {
-      "title": "Tilde ",
-      "url": "https://www.producthunt.com/products/tilde-for-mac",
-      "tagline": "",
-      "pub_date": "2026-11-03T00:46:52-08:00"
+      "pub_date": "2026-10-30T14:17:40-07:00"
     },
     {
       "title": "Zigzag Browser",
@@ -152,16 +128,46 @@
       "pub_date": "2026-11-07T06:38:06-08:00"
     },
     {
-      "title": "NoMac",
-      "url": "https://www.producthunt.com/products/nomac",
+      "title": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon",
       "tagline": "",
-      "pub_date": "2026-10-26T12:07:17-07:00"
+      "pub_date": "2026-11-03T02:28:09-08:00"
     },
     {
-      "title": "NotchX",
-      "url": "https://www.producthunt.com/products/notch-11",
+      "title": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
       "tagline": "",
-      "pub_date": "2026-11-07T08:04:59-08:00"
+      "pub_date": "2026-11-07T09:52:26-08:00"
+    },
+    {
+      "title": "Textly",
+      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
+      "tagline": "",
+      "pub_date": "2026-11-02T03:53:22-08:00"
+    },
+    {
+      "title": "NotchIsland",
+      "url": "https://www.producthunt.com/products/notchisland-2",
+      "tagline": "",
+      "pub_date": "2026-11-02T03:00:48-08:00"
+    },
+    {
+      "title": "Tilde ",
+      "url": "https://www.producthunt.com/products/tilde-for-mac",
+      "tagline": "",
+      "pub_date": "2026-11-03T00:46:52-08:00"
+    },
+    {
+      "title": "Memorias",
+      "url": "https://www.producthunt.com/products/memorias-3",
+      "tagline": "",
+      "pub_date": "2026-10-13T06:48:16-07:00"
+    },
+    {
+      "title": "Frameboy by World Labs",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "tagline": "",
+      "pub_date": "2026-11-05T21:06:31-08:00"
     },
     {
       "title": "Keypause",
@@ -176,10 +182,10 @@
       "pub_date": "2026-11-04T21:41:21-08:00"
     },
     {
-      "title": "outages.live",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "NoMac",
+      "url": "https://www.producthunt.com/products/nomac",
       "tagline": "",
-      "pub_date": "2026-11-04T16:40:25-08:00"
+      "pub_date": "2026-10-26T12:07:17-07:00"
     },
     {
       "title": "Inkling 2 Small",
@@ -188,22 +194,10 @@
       "pub_date": "2026-11-06T06:18:59-08:00"
     },
     {
-      "title": "NotchIsland",
-      "url": "https://www.producthunt.com/products/notchisland-2",
+      "title": "Sage2 by Levanto Labs",
+      "url": "https://www.producthunt.com/products/sagecraft",
       "tagline": "",
-      "pub_date": "2026-11-02T03:00:48-08:00"
-    },
-    {
-      "title": "Agent Clan",
-      "url": "https://www.producthunt.com/products/agent-clan",
-      "tagline": "",
-      "pub_date": "2026-11-07T09:52:26-08:00"
-    },
-    {
-      "title": "AXL",
-      "url": "https://www.producthunt.com/products/axl-2",
-      "tagline": "",
-      "pub_date": "2026-10-30T14:17:40-07:00"
+      "pub_date": "2026-11-02T10:04:38-08:00"
     },
     {
       "title": "Archie",
@@ -212,70 +206,22 @@
       "pub_date": "2026-11-01T11:15:40-08:00"
     },
     {
-      "title": "Frameboy by World Labs",
-      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "title": "NotchX",
+      "url": "https://www.producthunt.com/products/notch-11",
       "tagline": "",
-      "pub_date": "2026-11-05T21:06:31-08:00"
+      "pub_date": "2026-11-07T08:04:59-08:00"
     },
     {
-      "title": "ChatGPT Images 2.6",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "outages.live",
+      "url": "https://www.producthunt.com/products/polylane",
       "tagline": "",
-      "pub_date": "2026-11-05T08:20:03-08:00"
+      "pub_date": "2026-11-04T16:40:25-08:00"
     },
     {
-      "title": "GPT‑6 Cyber",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
       "tagline": "",
-      "pub_date": "2026-11-05T09:12:40-08:00"
-    },
-    {
-      "title": "LiveReview",
-      "url": "https://www.producthunt.com/products/livereview",
-      "tagline": "",
-      "pub_date": "2026-10-26T05:40:53-07:00"
-    },
-    {
-      "title": "Trace by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "tagline": "",
-      "pub_date": "2026-11-06T20:05:08-08:00"
-    },
-    {
-      "title": "Sendoff",
-      "url": "https://www.producthunt.com/products/sendoff-2",
-      "tagline": "",
-      "pub_date": "2026-11-03T08:55:01-08:00"
-    },
-    {
-      "title": "Duly",
-      "url": "https://www.producthunt.com/products/duly-life-organizer",
-      "tagline": "",
-      "pub_date": "2026-10-22T04:22:07-07:00"
-    },
-    {
-      "title": "The Writer's Quarter",
-      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
-      "tagline": "",
-      "pub_date": "2026-11-06T08:06:36-08:00"
-    },
-    {
-      "title": "seam",
-      "url": "https://www.producthunt.com/products/seam-2",
-      "tagline": "",
-      "pub_date": "2026-10-27T09:54:19-07:00"
-    },
-    {
-      "title": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "tagline": "",
-      "pub_date": "2026-10-21T08:22:29-07:00"
-    },
-    {
-      "title": "Capnot",
-      "url": "https://www.producthunt.com/products/capnot",
-      "tagline": "",
-      "pub_date": "2026-11-06T02:25:37-08:00"
+      "pub_date": "2026-11-05T16:46:05-08:00"
     },
     {
       "title": "Google Omni 1.2 Flash",
@@ -284,16 +230,70 @@
       "pub_date": "2026-11-05T09:10:35-08:00"
     },
     {
-      "title": "Muse Realtime Avatar",
-      "url": "https://www.producthunt.com/products/meta-ai",
+      "title": "Switchy",
+      "url": "https://www.producthunt.com/products/switchy",
       "tagline": "",
-      "pub_date": "2026-11-06T10:21:58-08:00"
+      "pub_date": "2026-11-06T03:24:14-08:00"
     },
     {
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
+      "title": "Duly",
+      "url": "https://www.producthunt.com/products/duly-life-organizer",
       "tagline": "",
-      "pub_date": "2026-11-05T16:46:05-08:00"
+      "pub_date": "2026-10-22T04:22:07-07:00"
+    },
+    {
+      "title": "PacerTrip",
+      "url": "https://www.producthunt.com/products/pacertrip",
+      "tagline": "",
+      "pub_date": "2026-10-22T04:54:24-07:00"
+    },
+    {
+      "title": "Standflow",
+      "url": "https://www.producthunt.com/products/standflow",
+      "tagline": "",
+      "pub_date": "2026-10-31T15:13:34-07:00"
+    },
+    {
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "tagline": "",
+      "pub_date": "2026-11-05T09:12:40-08:00"
+    },
+    {
+      "title": "ClarifierAI for Chrome",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "tagline": "",
+      "pub_date": "2026-10-26T03:38:44-07:00"
+    },
+    {
+      "title": "Capnot",
+      "url": "https://www.producthunt.com/products/capnot",
+      "tagline": "",
+      "pub_date": "2026-11-06T02:25:37-08:00"
+    },
+    {
+      "title": "LiveReview",
+      "url": "https://www.producthunt.com/products/livereview",
+      "tagline": "",
+      "pub_date": "2026-10-26T05:40:53-07:00"
+    },
+    {
+      "title": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "tagline": "",
+      "pub_date": "2026-11-06T08:06:36-08:00"
+    },
+    {
+      "title": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
+      "tagline": "",
+      "pub_date": "2026-11-01T16:27:34-08:00"
+    },
+    {
+      "title": "seam",
+      "url": "https://www.producthunt.com/products/seam-2",
+      "tagline": "",
+      "pub_date": "2026-10-27T09:54:19-07:00"
     }
   ]
 }

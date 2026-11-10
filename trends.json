@@ -1,326 +1,206 @@
 {
-  "generated_at": "2026-11-10T14:02:33.465Z",
+  "generated_at": "2026-11-10T22:41:26.318Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "hn_url": "https://news.ycombinator.com/item?id=50428907",
-      "points": 407,
-      "comments": 76,
-      "created_ts": 1794246691,
-      "author": "a585gupt"
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "points": 205,
+      "comments": 58,
+      "created_ts": 1794333675,
+      "author": "paulirish"
     },
     {
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=50427934",
-      "hn_url": "https://news.ycombinator.com/item?id=50427934",
-      "points": 115,
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50441518",
+      "points": 168,
       "comments": 42,
-      "created_ts": 1794242198,
-      "author": "shayan_abbas"
-    },
-    {
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50429636",
-      "points": 111,
-      "comments": 42,
-      "created_ts": 1794249562,
-      "author": "raiseCatError"
-    },
-    {
-      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-      "url": "https://someonewashere.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50429812",
-      "points": 100,
-      "comments": 36,
-      "created_ts": 1794250256,
-      "author": "4onthefloor124"
-    },
-    {
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "hn_url": "https://news.ycombinator.com/item?id=50429144",
-      "points": 98,
-      "comments": 34,
-      "created_ts": 1794247544,
-      "author": "Dodaios"
+      "created_ts": 1794323536,
+      "author": "leugim"
     },
     {
       "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
       "url": "https://github.com/HolyArrs/HolyArrs",
       "hn_url": "https://news.ycombinator.com/item?id=50439000",
-      "points": 56,
-      "comments": 39,
+      "points": 162,
+      "comments": 130,
       "created_ts": 1794311479,
       "author": "CoderLuii"
     },
     {
-      "title": "Show HN: Write GitHub Actions in any language: Loopt",
-      "url": "https://github.com/preloopdev/loopt",
-      "hn_url": "https://news.ycombinator.com/item?id=50429031",
-      "points": 13,
-      "comments": 5,
-      "created_ts": 1794247145,
-      "author": "Bnjoroge"
-    },
-    {
-      "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
-      "url": "https://github.com/humanethq/airgap-check",
-      "hn_url": "https://news.ycombinator.com/item?id=50431705",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "hn_url": "https://news.ycombinator.com/item?id=50444761",
       "points": 11,
-      "comments": 0,
-      "created_ts": 1794256648,
-      "author": "humanethq"
+      "comments": 2,
+      "created_ts": 1794337673,
+      "author": "0xdeadf1sh"
     }
   ],
   "hn_front": [
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "hn_url": "https://news.ycombinator.com/item?id=50429068",
-      "points": 706,
-      "comments": 876,
-      "created_ts": 1794247270,
-      "author": "lairv"
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "hn_url": "https://news.ycombinator.com/item?id=50441707",
+      "points": 595,
+      "comments": 207,
+      "created_ts": 1794324320,
+      "author": "skittleson"
     },
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "hn_url": "https://news.ycombinator.com/item?id=50431058",
-      "points": 665,
-      "comments": 338,
-      "created_ts": 1794254339,
-      "author": "munro"
-    },
-    {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "hn_url": "https://news.ycombinator.com/item?id=50427362",
-      "points": 555,
-      "comments": 316,
-      "created_ts": 1794240045,
-      "author": "ocd"
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "hn_url": "https://news.ycombinator.com/item?id=50436640",
-      "points": 445,
-      "comments": 157,
-      "created_ts": 1794290468,
-      "author": "aloukissas"
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=50429734",
-      "points": 435,
-      "comments": 54,
-      "created_ts": 1794249943,
-      "author": "porridgeraisin"
-    },
-    {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "hn_url": "https://news.ycombinator.com/item?id=50428907",
-      "points": 407,
-      "comments": 76,
-      "created_ts": 1794246691,
-      "author": "a585gupt"
-    },
-    {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "hn_url": "https://news.ycombinator.com/item?id=50426175",
-      "points": 330,
-      "comments": 224,
-      "created_ts": 1794234699,
-      "author": "speckx"
-    },
-    {
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "hn_url": "https://news.ycombinator.com/item?id=50434310",
-      "points": 241,
-      "comments": 125,
-      "created_ts": 1794269446,
-      "author": "bigwheels"
-    },
-    {
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "hn_url": "https://news.ycombinator.com/item?id=50434264",
-      "points": 198,
-      "comments": 65,
-      "created_ts": 1794269237,
-      "author": "Curiositry"
-    },
-    {
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "hn_url": "https://news.ycombinator.com/item?id=50436410",
-      "points": 190,
-      "comments": 76,
-      "created_ts": 1794288285,
-      "author": "Curiositry"
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "hn_url": "https://news.ycombinator.com/item?id=50442736",
+      "points": 594,
+      "comments": 130,
+      "created_ts": 1794328664,
+      "author": "p4bl0"
     },
     {
       "title": "AlphaProof Code",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "hn_url": "https://news.ycombinator.com/item?id=50439193",
-      "points": 189,
-      "comments": 81,
+      "points": 545,
+      "comments": 171,
       "created_ts": 1794312672,
       "author": "ilreb"
     },
     {
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50435898",
-      "points": 104,
-      "comments": 30,
-      "created_ts": 1794283179,
-      "author": "Ivoah"
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "hn_url": "https://news.ycombinator.com/item?id=50442426",
+      "points": 384,
+      "comments": 53,
+      "created_ts": 1794327343,
+      "author": "amlib"
     },
     {
-      "title": "Formalizing CPython",
-      "url": "https://broyojo.com/python-formalization/",
-      "hn_url": "https://news.ycombinator.com/item?id=50435105",
-      "points": 102,
-      "comments": 40,
-      "created_ts": 1794275808,
-      "author": "carnevalem"
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "points": 310,
+      "comments": 368,
+      "created_ts": 1794306358,
+      "author": "plun9"
+    },
+    {
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "hn_url": "https://news.ycombinator.com/item?id=50443427",
+      "points": 252,
+      "comments": 64,
+      "created_ts": 1794331874,
+      "author": "tosh"
+    },
+    {
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "hn_url": "https://news.ycombinator.com/item?id=50439695",
+      "points": 247,
+      "comments": 265,
+      "created_ts": 1794315484,
+      "author": "phaser"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "hn_url": "https://news.ycombinator.com/item?id=50443824",
+      "points": 231,
+      "comments": 101,
+      "created_ts": 1794333722,
+      "author": "speckx"
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "hn_url": "https://news.ycombinator.com/item?id=50439284",
+      "points": 217,
+      "comments": 153,
+      "created_ts": 1794313207,
+      "author": "stevefan1999"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "points": 205,
+      "comments": 58,
+      "created_ts": 1794333675,
+      "author": "paulirish"
+    },
+    {
+      "title": "Queens Public Library under ransomware attack",
+      "url": "https://connect.queenslibrary.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50437790",
+      "points": 190,
+      "comments": 106,
+      "created_ts": 1794301479,
+      "author": "rustyhancock"
+    },
+    {
+      "title": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "hn_url": "https://news.ycombinator.com/item?id=50438480",
+      "points": 189,
+      "comments": 185,
+      "created_ts": 1794307638,
+      "author": "FinnLobsien"
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50441518",
+      "points": 168,
+      "comments": 42,
+      "created_ts": 1794323536,
+      "author": "leugim"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "hn_url": "https://news.ycombinator.com/item?id=50443090",
+      "points": 156,
+      "comments": 55,
+      "created_ts": 1794330152,
+      "author": "pixelpoet"
+    },
+    {
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "hn_url": "https://news.ycombinator.com/item?id=50445401",
+      "points": 147,
+      "comments": 104,
+      "created_ts": 1794340246,
+      "author": "NaOH"
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "hn_url": "https://news.ycombinator.com/item?id=50443716",
+      "points": 130,
+      "comments": 100,
+      "created_ts": 1794333307,
+      "author": "Yorothegoat"
+    },
+    {
+      "title": "M John Harrison becomes first science fiction author to win the Booker",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "hn_url": "https://news.ycombinator.com/item?id=50437242",
+      "points": 119,
+      "comments": 86,
+      "created_ts": 1794296452,
+      "author": "sorokod"
     }
   ],
   "ph_today": [
     {
-      "title": "Quillo",
-      "url": "https://www.producthunt.com/products/quillo-2",
+      "title": "Opal Reader",
+      "url": "https://www.producthunt.com/products/opal-reader",
       "tagline": "",
-      "pub_date": "2026-11-05T07:57:02-08:00"
-    },
-    {
-      "title": "Kumiko",
-      "url": "https://www.producthunt.com/products/kumiko-2",
-      "tagline": "",
-      "pub_date": "2026-11-09T13:40:59-08:00"
-    },
-    {
-      "title": "Levo",
-      "url": "https://www.producthunt.com/products/levo-3",
-      "tagline": "",
-      "pub_date": "2026-11-07T13:30:59-08:00"
-    },
-    {
-      "title": "RunThru",
-      "url": "https://www.producthunt.com/products/runthru",
-      "tagline": "",
-      "pub_date": "2026-11-07T00:05:49-08:00"
-    },
-    {
-      "title": "Gesso",
-      "url": "https://www.producthunt.com/products/gesso-2",
-      "tagline": "",
-      "pub_date": "2026-11-03T21:47:42-08:00"
-    },
-    {
-      "title": "CloakPane",
-      "url": "https://www.producthunt.com/products/cloakpane",
-      "tagline": "",
-      "pub_date": "2026-11-06T22:51:00-08:00"
-    },
-    {
-      "title": "MoreFrame",
-      "url": "https://www.producthunt.com/products/moreframe",
-      "tagline": "",
-      "pub_date": "2026-11-09T11:44:36-08:00"
-    },
-    {
-      "title": "Nadhif",
-      "url": "https://www.producthunt.com/products/nadhif",
-      "tagline": "",
-      "pub_date": "2026-11-04T17:12:09-08:00"
-    },
-    {
-      "title": "VeilCC",
-      "url": "https://www.producthunt.com/products/veilcc",
-      "tagline": "",
-      "pub_date": "2026-11-05T23:02:53-08:00"
-    },
-    {
-      "title": "SideKick By Open",
-      "url": "https://www.producthunt.com/products/open-for-sales",
-      "tagline": "",
-      "pub_date": "2026-11-09T04:59:46-08:00"
-    },
-    {
-      "title": "Maxma",
-      "url": "https://www.producthunt.com/products/maxma-2",
-      "tagline": "",
-      "pub_date": "2026-10-23T17:59:22-07:00"
-    },
-    {
-      "title": "MuJoCo 4",
-      "url": "https://www.producthunt.com/products/google",
-      "tagline": "",
-      "pub_date": "2026-11-09T22:23:09-08:00"
-    },
-    {
-      "title": "openring",
-      "url": "https://www.producthunt.com/products/openring",
-      "tagline": "",
-      "pub_date": "2026-11-09T17:26:14-08:00"
-    },
-    {
-      "title": "Seldon",
-      "url": "https://www.producthunt.com/products/seldon",
-      "tagline": "",
-      "pub_date": "2026-11-09T17:18:21-08:00"
-    },
-    {
-      "title": "Clive",
-      "url": "https://www.producthunt.com/products/clive",
-      "tagline": "",
-      "pub_date": "2026-11-09T16:23:22-08:00"
-    },
-    {
-      "title": "Tokens by UI Colors",
-      "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
-      "tagline": "",
-      "pub_date": "2026-11-09T09:29:48-08:00"
-    },
-    {
-      "title": "ZUS",
-      "url": "https://www.producthunt.com/products/zus-2",
-      "tagline": "",
-      "pub_date": "2026-11-09T09:01:49-08:00"
-    },
-    {
-      "title": "Ember",
-      "url": "https://www.producthunt.com/products/ember-117",
-      "tagline": "",
-      "pub_date": "2026-11-09T09:00:33-08:00"
-    },
-    {
-      "title": "CollaboTokyo",
-      "url": "https://www.producthunt.com/products/collabotokyo",
-      "tagline": "",
-      "pub_date": "2026-11-08T22:24:12-08:00"
-    },
-    {
-      "title": "QuotedPart",
-      "url": "https://www.producthunt.com/products/quotedpart",
-      "tagline": "",
-      "pub_date": "2026-11-08T16:04:46-08:00"
-    },
-    {
-      "title": "gitmanual",
-      "url": "https://www.producthunt.com/products/gitmanual",
-      "tagline": "",
-      "pub_date": "2026-11-06T09:01:01-08:00"
+      "pub_date": "2026-11-07T19:57:34-08:00"
     },
     {
       "title": "TK by Medium",
@@ -329,22 +209,16 @@
       "pub_date": "2026-11-05T06:33:24-08:00"
     },
     {
-      "title": "Kata Send",
-      "url": "https://www.producthunt.com/products/kata-send",
-      "tagline": "",
-      "pub_date": "2026-11-05T00:50:12-08:00"
-    },
-    {
-      "title": "TOWeb 15",
-      "url": "https://www.producthunt.com/products/toweb",
-      "tagline": "",
-      "pub_date": "2026-11-03T10:07:07-08:00"
-    },
-    {
       "title": "Latch.ai",
       "url": "https://www.producthunt.com/products/latch-ai-2",
       "tagline": "",
       "pub_date": "2026-10-28T13:19:05-07:00"
+    },
+    {
+      "title": "Kata Send",
+      "url": "https://www.producthunt.com/products/kata-send",
+      "tagline": "",
+      "pub_date": "2026-11-05T00:50:12-08:00"
     },
     {
       "title": "Ownkube",
@@ -353,16 +227,88 @@
       "pub_date": "2026-10-20T07:25:22-07:00"
     },
     {
-      "title": "Billing MCP By SubscriptionFlow",
-      "url": "https://www.producthunt.com/products/subscriptionflow-ai-billing-mcp",
+      "title": "TOWeb 15",
+      "url": "https://www.producthunt.com/products/toweb",
       "tagline": "",
-      "pub_date": "2026-10-15T00:32:33-07:00"
+      "pub_date": "2026-11-03T10:07:07-08:00"
     },
     {
-      "title": "Operum",
-      "url": "https://www.producthunt.com/products/operum",
+      "title": "Wipecraft",
+      "url": "https://www.producthunt.com/products/wipecraft",
       "tagline": "",
-      "pub_date": "2026-10-10T20:07:59-07:00"
+      "pub_date": "2026-11-09T03:50:59-08:00"
+    },
+    {
+      "title": "Obsiva",
+      "url": "https://www.producthunt.com/products/obsiva",
+      "tagline": "",
+      "pub_date": "2026-11-09T11:41:51-08:00"
+    },
+    {
+      "title": "Daytwo",
+      "url": "https://www.producthunt.com/products/daytwo-2",
+      "tagline": "",
+      "pub_date": "2026-11-09T07:17:34-08:00"
+    },
+    {
+      "title": "gitmanual",
+      "url": "https://www.producthunt.com/products/gitmanual",
+      "tagline": "",
+      "pub_date": "2026-11-06T09:01:01-08:00"
+    },
+    {
+      "title": "Rodeo",
+      "url": "https://www.producthunt.com/products/rodeo-7",
+      "tagline": "",
+      "pub_date": "2026-11-05T02:22:01-08:00"
+    },
+    {
+      "title": "Tokens by UI Colors",
+      "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
+      "tagline": "",
+      "pub_date": "2026-11-09T09:29:48-08:00"
+    },
+    {
+      "title": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona",
+      "tagline": "",
+      "pub_date": "2026-10-21T08:41:38-07:00"
+    },
+    {
+      "title": "AppTraction",
+      "url": "https://www.producthunt.com/products/apptraction",
+      "tagline": "",
+      "pub_date": "2026-10-20T13:30:58-07:00"
+    },
+    {
+      "title": "Lottie AI",
+      "url": "https://www.producthunt.com/products/lottiefiles",
+      "tagline": "",
+      "pub_date": "2026-11-09T00:16:41-08:00"
+    },
+    {
+      "title": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
+      "tagline": "",
+      "pub_date": "2026-11-09T09:01:49-08:00"
+    },
+    {
+      "title": "Coffee",
+      "url": "https://www.producthunt.com/products/coffee-9",
+      "tagline": "",
+      "pub_date": "2026-11-07T17:06:13-08:00"
+    },
+    {
+      "title": "Levo",
+      "url": "https://www.producthunt.com/products/levo-3",
+      "tagline": "",
+      "pub_date": "2026-11-07T13:30:59-08:00"
+    },
+    {
+      "title": "Maxma",
+      "url": "https://www.producthunt.com/products/maxma-2",
+      "tagline": "",
+      "pub_date": "2026-10-23T17:59:22-07:00"
     },
     {
       "title": "ChromePing",
@@ -371,10 +317,64 @@
       "pub_date": "2026-11-04T22:37:36-08:00"
     },
     {
-      "title": "Dover Startup Jobs",
-      "url": "https://www.producthunt.com/products/dover",
+      "title": "QuotedPart",
+      "url": "https://www.producthunt.com/products/quotedpart",
       "tagline": "",
-      "pub_date": "2026-11-09T18:53:06-08:00"
+      "pub_date": "2026-11-08T16:04:46-08:00"
+    },
+    {
+      "title": "Seldon",
+      "url": "https://www.producthunt.com/products/seldon",
+      "tagline": "",
+      "pub_date": "2026-11-09T17:18:21-08:00"
+    },
+    {
+      "title": "Ember",
+      "url": "https://www.producthunt.com/products/ember-117",
+      "tagline": "",
+      "pub_date": "2026-11-09T09:00:33-08:00"
+    },
+    {
+      "title": "MoreFrame",
+      "url": "https://www.producthunt.com/products/moreframe",
+      "tagline": "",
+      "pub_date": "2026-11-09T11:44:36-08:00"
+    },
+    {
+      "title": "Inspo by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-11-09T13:48:31-08:00"
+    },
+    {
+      "title": "MuJoCo 4",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-11-09T22:23:09-08:00"
+    },
+    {
+      "title": "Gesso",
+      "url": "https://www.producthunt.com/products/gesso-2",
+      "tagline": "",
+      "pub_date": "2026-11-03T21:47:42-08:00"
+    },
+    {
+      "title": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "tagline": "",
+      "pub_date": "2026-11-09T20:16:01-08:00"
+    },
+    {
+      "title": "OpenVibe",
+      "url": "https://www.producthunt.com/products/openvibe-2",
+      "tagline": "",
+      "pub_date": "2026-11-09T09:34:57-08:00"
+    },
+    {
+      "title": "openring",
+      "url": "https://www.producthunt.com/products/openring",
+      "tagline": "",
+      "pub_date": "2026-11-09T17:26:14-08:00"
     }
   ]
 }

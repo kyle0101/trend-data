@@ -1,233 +1,263 @@
 {
-  "generated_at": "2026-11-11T13:19:45.784Z",
+  "generated_at": "2026-11-11T23:54:13.344Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "hn_url": "https://news.ycombinator.com/item?id=50443812",
-      "points": 393,
-      "comments": 128,
-      "created_ts": 1794333675,
-      "author": "paulirish"
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457230",
+      "points": 150,
+      "comments": 67,
+      "created_ts": 1794424336,
+      "author": "bolau"
     },
     {
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "url": "https://tinyvalencia.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50441518",
-      "points": 235,
-      "comments": 56,
-      "created_ts": 1794323536,
-      "author": "leugim"
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "points": 149,
+      "comments": 69,
+      "created_ts": 1794411186,
+      "author": "brownrout"
     },
     {
       "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
       "url": "https://github.com/adrbn/bo2-mac",
       "hn_url": "https://news.ycombinator.com/item?id=50449891",
-      "points": 57,
-      "comments": 17,
+      "points": 138,
+      "comments": 60,
       "created_ts": 1794373007,
       "author": "adrbn"
     },
     {
-      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-      "url": "https://aircad.com",
-      "hn_url": "https://news.ycombinator.com/item?id=50441350",
-      "points": 38,
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "hn_url": "https://news.ycombinator.com/item?id=50453229",
+      "points": 96,
       "comments": 17,
-      "created_ts": 1794322879,
-      "author": "peetle"
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "hn_url": "https://news.ycombinator.com/item?id=50444761",
-      "points": 19,
-      "comments": 7,
-      "created_ts": 1794337673,
+      "created_ts": 1794404064,
       "author": "0xdeadf1sh"
     },
     {
-      "title": "Show HN: Y Recombinator – The HN threads HN keeps recommending",
-      "url": "https://yrecombinator.org/",
-      "hn_url": "https://news.ycombinator.com/item?id=50442257",
-      "points": 11,
-      "comments": 6,
-      "created_ts": 1794326642,
-      "author": "nightjar"
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "hn_url": "https://news.ycombinator.com/item?id=50454951",
+      "points": 69,
+      "comments": 28,
+      "created_ts": 1794412850,
+      "author": "ambewas"
     },
     {
-      "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
-      "url": "https://github.com/wolveflake/wolvekafka",
-      "hn_url": "https://news.ycombinator.com/item?id=50443596",
-      "points": 11,
-      "comments": 3,
-      "created_ts": 1794332720,
-      "author": "piscesdk"
+      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+      "url": "https://github.com/cattlecloud/litesql",
+      "hn_url": "https://news.ycombinator.com/item?id=50453176",
+      "points": 19,
+      "comments": 1,
+      "created_ts": 1794403826,
+      "author": "sethops1"
+    },
+    {
+      "title": "Show HN: Aq – an attention queue TUI for Claude Code",
+      "url": "https://github.com/nodo-labs-uk/attention-queue",
+      "hn_url": "https://news.ycombinator.com/item?id=50452257",
+      "points": 15,
+      "comments": 0,
+      "created_ts": 1794397415,
+      "author": "orbis-tertius"
     },
     {
       "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
       "url": "https://taipeiledger.com/gpu/",
       "hn_url": "https://news.ycombinator.com/item?id=50449232",
-      "points": 11,
-      "comments": 2,
+      "points": 14,
+      "comments": 3,
       "created_ts": 1794365401,
       "author": "khoonie"
+    },
+    {
+      "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "url": "https://thingstudio.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452230",
+      "points": 13,
+      "comments": 2,
+      "created_ts": 1794397155,
+      "author": "mkarliner"
     }
   ],
   "hn_front": [
     {
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "hn_url": "https://news.ycombinator.com/item?id=50441707",
-      "points": 1051,
-      "comments": 369,
-      "created_ts": 1794324320,
-      "author": "skittleson"
+      "title": "My AI agents found an unmapped Maya site",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "points": 908,
+      "comments": 333,
+      "created_ts": 1794398722,
+      "author": "eyvindn"
     },
     {
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "hn_url": "https://news.ycombinator.com/item?id=50442736",
-      "points": 882,
-      "comments": 191,
-      "created_ts": 1794328664,
-      "author": "p4bl0"
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hn_url": "https://news.ycombinator.com/item?id=50450488",
+      "points": 783,
+      "comments": 77,
+      "created_ts": 1794380597,
+      "author": "ayhanfuat"
     },
     {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "hn_url": "https://news.ycombinator.com/item?id=50445401",
-      "points": 502,
-      "comments": 325,
-      "created_ts": 1794340246,
-      "author": "NaOH"
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "hn_url": "https://news.ycombinator.com/item?id=50456631",
+      "points": 587,
+      "comments": 199,
+      "created_ts": 1794421298,
+      "author": "super_linear"
     },
     {
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "hn_url": "https://news.ycombinator.com/item?id=50444129",
-      "points": 451,
-      "comments": 477,
-      "created_ts": 1794334952,
-      "author": "robertjfclarke"
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "hn_url": "https://news.ycombinator.com/item?id=50455394",
+      "points": 381,
+      "comments": 189,
+      "created_ts": 1794415124,
+      "author": "mbac32768"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "hn_url": "https://news.ycombinator.com/item?id=50443824",
-      "points": 429,
-      "comments": 242,
-      "created_ts": 1794333722,
-      "author": "speckx"
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453288",
+      "points": 286,
+      "comments": 59,
+      "created_ts": 1794404369,
+      "author": "everlier"
     },
     {
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "hn_url": "https://news.ycombinator.com/item?id=50447074",
-      "points": 423,
-      "comments": 203,
-      "created_ts": 1794349076,
-      "author": "panic"
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "points": 267,
+      "comments": 244,
+      "created_ts": 1794432275,
+      "author": "herpderperator"
     },
     {
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "hn_url": "https://news.ycombinator.com/item?id=50443427",
-      "points": 402,
-      "comments": 97,
-      "created_ts": 1794331874,
-      "author": "tosh"
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "hn_url": "https://news.ycombinator.com/item?id=50451903",
+      "points": 255,
+      "comments": 102,
+      "created_ts": 1794394120,
+      "author": "lae"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "hn_url": "https://news.ycombinator.com/item?id=50443812",
-      "points": 393,
-      "comments": 128,
-      "created_ts": 1794333675,
-      "author": "paulirish"
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452655",
+      "points": 234,
+      "comments": 35,
+      "created_ts": 1794400217,
+      "author": "emschwartz"
     },
     {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "hn_url": "https://news.ycombinator.com/item?id=50446520",
-      "points": 334,
-      "comments": 320,
-      "created_ts": 1794345903,
-      "author": "linolevan"
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "points": 214,
+      "comments": 71,
+      "created_ts": 1794421962,
+      "author": "iamdelirium"
     },
     {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "hn_url": "https://news.ycombinator.com/item?id=50449748",
-      "points": 277,
-      "comments": 98,
-      "created_ts": 1794371337,
-      "author": "js2"
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "hn_url": "https://news.ycombinator.com/item?id=50453637",
+      "points": 183,
+      "comments": 66,
+      "created_ts": 1794406246,
+      "author": "linsomniac"
     },
     {
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50446246",
-      "points": 277,
-      "comments": 54,
-      "created_ts": 1794344324,
-      "author": "digital55"
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457230",
+      "points": 150,
+      "comments": 67,
+      "created_ts": 1794424336,
+      "author": "bolau"
     },
     {
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "hn_url": "https://news.ycombinator.com/item?id=50443716",
-      "points": 248,
-      "comments": 183,
-      "created_ts": 1794333307,
-      "author": "Yorothegoat"
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "points": 149,
+      "comments": 69,
+      "created_ts": 1794411186,
+      "author": "brownrout"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50448921",
-      "points": 207,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "hn_url": "https://news.ycombinator.com/item?id=50455633",
+      "points": 133,
+      "comments": 23,
+      "created_ts": 1794416265,
+      "author": "zerop"
+    },
+    {
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "hn_url": "https://news.ycombinator.com/item?id=50458208",
+      "points": 117,
       "comments": 43,
-      "created_ts": 1794362191,
-      "author": "palsecam"
+      "created_ts": 1794428792,
+      "author": "ggcr"
     },
     {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "hn_url": "https://news.ycombinator.com/item?id=50449275",
-      "points": 125,
-      "comments": 98,
-      "created_ts": 1794365828,
-      "author": "Metacelsus"
+      "title": "The Apple Support Community will permanently close on November 20, 2026",
+      "url": "https://discussions.apple.com/welcome",
+      "hn_url": "https://news.ycombinator.com/item?id=50449440",
+      "points": 102,
+      "comments": 198,
+      "created_ts": 1794367611,
+      "author": "tech234a"
     }
   ],
   "ph_today": [
     {
-      "title": "StableBar",
-      "url": "https://www.producthunt.com/products/stablebar",
+      "title": "Kippy AI",
+      "url": "https://www.producthunt.com/products/kippy-ai",
       "tagline": "",
-      "pub_date": "2026-11-10T05:11:57-08:00"
+      "pub_date": "2026-11-08T03:17:04-08:00"
     },
     {
-      "title": "Valin",
-      "url": "https://www.producthunt.com/products/valin",
+      "title": "Reddit Reviews",
+      "url": "https://www.producthunt.com/products/reddit",
       "tagline": "",
-      "pub_date": "2026-11-10T05:06:44-08:00"
+      "pub_date": "2026-11-10T22:12:05-08:00"
     },
     {
-      "title": "Shot.video",
-      "url": "https://www.producthunt.com/products/shot-video",
+      "title": "Skillbox",
+      "url": "https://www.producthunt.com/products/skillbox-5",
       "tagline": "",
-      "pub_date": "2026-11-10T03:14:30-08:00"
+      "pub_date": "2026-11-05T20:01:18-08:00"
     },
     {
-      "title": "Mister Blocks",
-      "url": "https://www.producthunt.com/products/mister-blocks",
+      "title": "CALL-E",
+      "url": "https://www.producthunt.com/products/call-e",
       "tagline": "",
-      "pub_date": "2026-11-10T19:26:18-08:00"
+      "pub_date": "2026-10-28T11:49:25-07:00"
+    },
+    {
+      "title": "Nod by n8n",
+      "url": "https://www.producthunt.com/products/n8n-io",
+      "tagline": "",
+      "pub_date": "2026-11-10T05:38:19-08:00"
+    },
+    {
+      "title": "Scribe v3 by ElevenLabs",
+      "url": "https://www.producthunt.com/products/elevenlabs",
+      "tagline": "",
+      "pub_date": "2026-11-10T10:18:20-08:00"
     },
     {
       "title": "nizima ACTION!!",
@@ -242,64 +272,10 @@
       "pub_date": "2026-11-10T21:07:26-08:00"
     },
     {
-      "title": "CALL-E",
-      "url": "https://www.producthunt.com/products/call-e",
+      "title": "Padrail",
+      "url": "https://www.producthunt.com/products/padrail",
       "tagline": "",
-      "pub_date": "2026-10-28T11:49:25-07:00"
-    },
-    {
-      "title": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "tagline": "",
-      "pub_date": "2026-10-19T01:11:42-07:00"
-    },
-    {
-      "title": "Muse Ember by Meta",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "tagline": "",
-      "pub_date": "2026-11-09T14:14:58-08:00"
-    },
-    {
-      "title": "Seedream 5.5 by ByteDance",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
-      "tagline": "",
-      "pub_date": "2026-11-09T05:57:21-08:00"
-    },
-    {
-      "title": "Scribe v3 by ElevenLabs",
-      "url": "https://www.producthunt.com/products/elevenlabs",
-      "tagline": "",
-      "pub_date": "2026-11-10T10:18:20-08:00"
-    },
-    {
-      "title": "Kippy AI",
-      "url": "https://www.producthunt.com/products/kippy-ai",
-      "tagline": "",
-      "pub_date": "2026-11-08T03:17:04-08:00"
-    },
-    {
-      "title": "Stiro",
-      "url": "https://www.producthunt.com/products/stiro",
-      "tagline": "",
-      "pub_date": "2026-11-07T05:33:58-08:00"
-    },
-    {
-      "title": "Skillbox",
-      "url": "https://www.producthunt.com/products/skillbox-5",
-      "tagline": "",
-      "pub_date": "2026-11-05T20:01:18-08:00"
-    },
-    {
-      "title": "Relay",
-      "url": "https://www.producthunt.com/products/relaytoai",
-      "tagline": "",
-      "pub_date": "2026-11-03T17:29:16-08:00"
-    },
-    {
-      "title": "Subscriptrack",
-      "url": "https://www.producthunt.com/products/subscriptrack",
-      "tagline": "",
-      "pub_date": "2026-11-10T06:06:07-08:00"
+      "pub_date": "2026-11-10T12:27:40-08:00"
     },
     {
       "title": "RigSpark",
@@ -308,10 +284,10 @@
       "pub_date": "2026-11-10T17:26:24-08:00"
     },
     {
-      "title": "MiniMax H3-Image",
-      "url": "https://www.producthunt.com/products/minimax",
+      "title": "Mister Blocks",
+      "url": "https://www.producthunt.com/products/mister-blocks",
       "tagline": "",
-      "pub_date": "2026-11-10T08:35:28-08:00"
+      "pub_date": "2026-11-10T19:26:18-08:00"
     },
     {
       "title": "Mitra MCP",
@@ -320,16 +296,28 @@
       "pub_date": "2026-11-10T10:52:46-08:00"
     },
     {
+      "title": "StableBar",
+      "url": "https://www.producthunt.com/products/stablebar",
+      "tagline": "",
+      "pub_date": "2026-11-10T05:11:57-08:00"
+    },
+    {
+      "title": "Subscriptrack",
+      "url": "https://www.producthunt.com/products/subscriptrack",
+      "tagline": "",
+      "pub_date": "2026-11-10T06:06:07-08:00"
+    },
+    {
       "title": "Xolace",
       "url": "https://www.producthunt.com/products/xolace",
       "tagline": "",
       "pub_date": "2026-11-10T14:07:24-08:00"
     },
     {
-      "title": "Nod by n8n",
-      "url": "https://www.producthunt.com/products/n8n-io",
+      "title": "Stiro",
+      "url": "https://www.producthunt.com/products/stiro",
       "tagline": "",
-      "pub_date": "2026-11-10T05:38:19-08:00"
+      "pub_date": "2026-11-07T05:33:58-08:00"
     },
     {
       "title": "Earlybird",
@@ -338,16 +326,46 @@
       "pub_date": "2026-11-10T15:11:21-08:00"
     },
     {
-      "title": "Reddit Reviews",
-      "url": "https://www.producthunt.com/products/reddit",
+      "title": "Seedream 5.5 by ByteDance",
+      "url": "https://www.producthunt.com/products/seedream-4-0",
       "tagline": "",
-      "pub_date": "2026-11-10T22:12:05-08:00"
+      "pub_date": "2026-11-09T05:57:21-08:00"
     },
     {
-      "title": "Padrail",
-      "url": "https://www.producthunt.com/products/padrail",
+      "title": "Valin",
+      "url": "https://www.producthunt.com/products/valin",
       "tagline": "",
-      "pub_date": "2026-11-10T12:27:40-08:00"
+      "pub_date": "2026-11-10T05:06:44-08:00"
+    },
+    {
+      "title": "Muse Ember by Meta",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "tagline": "",
+      "pub_date": "2026-11-09T14:14:58-08:00"
+    },
+    {
+      "title": "Shot.video",
+      "url": "https://www.producthunt.com/products/shot-video",
+      "tagline": "",
+      "pub_date": "2026-11-10T03:14:30-08:00"
+    },
+    {
+      "title": "Relay",
+      "url": "https://www.producthunt.com/products/relaytoai",
+      "tagline": "",
+      "pub_date": "2026-11-03T17:29:16-08:00"
+    },
+    {
+      "title": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "tagline": "",
+      "pub_date": "2026-10-19T01:11:42-07:00"
+    },
+    {
+      "title": "MiniMax H3-Image",
+      "url": "https://www.producthunt.com/products/minimax",
+      "tagline": "",
+      "pub_date": "2026-11-10T08:35:28-08:00"
     },
     {
       "title": "Skipbox",
@@ -362,28 +380,28 @@
       "pub_date": "2026-11-10T14:32:11-08:00"
     },
     {
+      "title": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "tagline": "",
+      "pub_date": "2026-11-09T20:16:01-08:00"
+    },
+    {
+      "title": "Ember",
+      "url": "https://www.producthunt.com/products/ember-117",
+      "tagline": "",
+      "pub_date": "2026-11-09T09:00:33-08:00"
+    },
+    {
+      "title": "CloakPane",
+      "url": "https://www.producthunt.com/products/cloakpane",
+      "tagline": "",
+      "pub_date": "2026-11-06T22:51:00-08:00"
+    },
+    {
       "title": "Kumiko",
       "url": "https://www.producthunt.com/products/kumiko-2",
       "tagline": "",
       "pub_date": "2026-11-09T13:40:59-08:00"
-    },
-    {
-      "title": "Lottie AI",
-      "url": "https://www.producthunt.com/products/lottiefiles",
-      "tagline": "",
-      "pub_date": "2026-11-09T00:16:41-08:00"
-    },
-    {
-      "title": "TK by Medium",
-      "url": "https://www.producthunt.com/products/medium",
-      "tagline": "",
-      "pub_date": "2026-11-05T06:33:24-08:00"
-    },
-    {
-      "title": "ForAgent",
-      "url": "https://www.producthunt.com/products/foragent",
-      "tagline": "",
-      "pub_date": "2026-11-04T23:09:58-08:00"
     }
   ]
 }

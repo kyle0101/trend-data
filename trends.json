@@ -1,40 +1,31 @@
 {
-  "generated_at": "2026-11-11T23:54:13.344Z",
+  "generated_at": "2026-11-12T05:11:20.555Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50457230",
-      "points": 150,
-      "comments": 67,
-      "created_ts": 1794424336,
-      "author": "bolau"
-    },
-    {
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "hn_url": "https://news.ycombinator.com/item?id=50454625",
-      "points": 149,
-      "comments": 69,
+      "points": 206,
+      "comments": 91,
       "created_ts": 1794411186,
       "author": "brownrout"
     },
     {
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "url": "https://github.com/adrbn/bo2-mac",
-      "hn_url": "https://news.ycombinator.com/item?id=50449891",
-      "points": 138,
-      "comments": 60,
-      "created_ts": 1794373007,
-      "author": "adrbn"
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457230",
+      "points": 198,
+      "comments": 79,
+      "created_ts": 1794424336,
+      "author": "bolau"
     },
     {
       "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
       "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
       "hn_url": "https://news.ycombinator.com/item?id=50453229",
-      "points": 96,
+      "points": 99,
       "comments": 17,
       "created_ts": 1794404064,
       "author": "0xdeadf1sh"
@@ -43,8 +34,8 @@
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "hn_url": "https://news.ycombinator.com/item?id=50454951",
-      "points": 69,
-      "comments": 28,
+      "points": 75,
+      "comments": 30,
       "created_ts": 1794412850,
       "author": "ambewas"
     },
@@ -52,7 +43,7 @@
       "title": "Show HN: I created a library for correctly using SQLite in Go programs",
       "url": "https://github.com/cattlecloud/litesql",
       "hn_url": "https://news.ycombinator.com/item?id=50453176",
-      "points": 19,
+      "points": 21,
       "comments": 1,
       "created_ts": 1794403826,
       "author": "sethops1"
@@ -62,24 +53,15 @@
       "url": "https://github.com/nodo-labs-uk/attention-queue",
       "hn_url": "https://news.ycombinator.com/item?id=50452257",
       "points": 15,
-      "comments": 0,
+      "comments": 1,
       "created_ts": 1794397415,
       "author": "orbis-tertius"
-    },
-    {
-      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
-      "url": "https://taipeiledger.com/gpu/",
-      "hn_url": "https://news.ycombinator.com/item?id=50449232",
-      "points": 14,
-      "comments": 3,
-      "created_ts": 1794365401,
-      "author": "khoonie"
     },
     {
       "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
       "url": "https://thingstudio.net/",
       "hn_url": "https://news.ycombinator.com/item?id=50452230",
-      "points": 13,
+      "points": 14,
       "comments": 2,
       "created_ts": 1794397155,
       "author": "mkarliner"
@@ -87,38 +69,56 @@
   ],
   "hn_front": [
     {
-      "title": "My AI agents found an unmapped Maya site",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "hn_url": "https://news.ycombinator.com/item?id=50452455",
-      "points": 908,
-      "comments": 333,
-      "created_ts": 1794398722,
-      "author": "eyvindn"
-    },
-    {
       "title": "Tim Peters has died",
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "hn_url": "https://news.ycombinator.com/item?id=50450488",
-      "points": 783,
-      "comments": 77,
+      "points": 1001,
+      "comments": 108,
       "created_ts": 1794380597,
       "author": "ayhanfuat"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "points": 953,
+      "comments": 350,
+      "created_ts": 1794398722,
+      "author": "eyvindn"
     },
     {
       "title": "AWS emulator",
       "url": "https://github.com/aws/aws-emulator",
       "hn_url": "https://news.ycombinator.com/item?id=50456631",
-      "points": 587,
-      "comments": 199,
+      "points": 758,
+      "comments": 228,
       "created_ts": 1794421298,
       "author": "super_linear"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "hn_url": "https://news.ycombinator.com/item?id=50459703",
+      "points": 745,
+      "comments": 1049,
+      "created_ts": 1794436266,
+      "author": "jbredeche"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "points": 478,
+      "comments": 466,
+      "created_ts": 1794432275,
+      "author": "herpderperator"
     },
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "hn_url": "https://news.ycombinator.com/item?id=50455394",
-      "points": 381,
-      "comments": 189,
+      "points": 449,
+      "comments": 226,
       "created_ts": 1794415124,
       "author": "mbac32768"
     },
@@ -126,53 +126,71 @@
       "title": "Hyper-Realistic Sand with WebGL2",
       "url": "https://av.github.io/safe-sand/",
       "hn_url": "https://news.ycombinator.com/item?id=50453288",
-      "points": 286,
-      "comments": 59,
+      "points": 339,
+      "comments": 66,
       "created_ts": 1794404369,
       "author": "everlier"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "hn_url": "https://news.ycombinator.com/item?id=50458900",
-      "points": 267,
-      "comments": 244,
-      "created_ts": 1794432275,
-      "author": "herpderperator"
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "hn_url": "https://news.ycombinator.com/item?id=50451903",
-      "points": 255,
-      "comments": 102,
-      "created_ts": 1794394120,
-      "author": "lae"
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "hn_url": "https://news.ycombinator.com/item?id=50452655",
-      "points": 234,
-      "comments": 35,
-      "created_ts": 1794400217,
-      "author": "emschwartz"
     },
     {
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "hn_url": "https://news.ycombinator.com/item?id=50456791",
-      "points": 214,
-      "comments": 71,
+      "points": 335,
+      "comments": 105,
       "created_ts": 1794421962,
       "author": "iamdelirium"
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50459321",
+      "points": 311,
+      "comments": 358,
+      "created_ts": 1794434638,
+      "author": "louiereederson"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "hn_url": "https://news.ycombinator.com/item?id=50451903",
+      "points": 280,
+      "comments": 115,
+      "created_ts": 1794394120,
+      "author": "lae"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "hn_url": "https://news.ycombinator.com/item?id=50459745",
+      "points": 277,
+      "comments": 37,
+      "created_ts": 1794436463,
+      "author": "zenincognito"
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50452655",
+      "points": 260,
+      "comments": 38,
+      "created_ts": 1794400217,
+      "author": "emschwartz"
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "points": 206,
+      "comments": 91,
+      "created_ts": 1794411186,
+      "author": "brownrout"
     },
     {
       "title": "Atuin Threads: All your agent sessions on every machine",
       "url": "https://blog.atuin.sh/threads-agent-sessions/",
       "hn_url": "https://news.ycombinator.com/item?id=50453637",
-      "points": 183,
-      "comments": 66,
+      "points": 202,
+      "comments": 77,
       "created_ts": 1794406246,
       "author": "linsomniac"
     },
@@ -180,54 +198,54 @@
       "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
       "url": "https://termsheetplease.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50457230",
-      "points": 150,
-      "comments": 67,
+      "points": 198,
+      "comments": 79,
       "created_ts": 1794424336,
       "author": "bolau"
     },
     {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "hn_url": "https://news.ycombinator.com/item?id=50454625",
-      "points": 149,
-      "comments": 69,
-      "created_ts": 1794411186,
-      "author": "brownrout"
-    },
-    {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "hn_url": "https://news.ycombinator.com/item?id=50455633",
-      "points": 133,
-      "comments": 23,
-      "created_ts": 1794416265,
-      "author": "zerop"
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "hn_url": "https://news.ycombinator.com/item?id=50459485",
+      "points": 183,
+      "comments": 33,
+      "created_ts": 1794435401,
+      "author": "gslin"
     },
     {
       "title": "Emacs in the Age of Magic",
       "url": "https://commandlinesystems.com/magic.txt",
       "hn_url": "https://news.ycombinator.com/item?id=50458208",
-      "points": 117,
-      "comments": 43,
+      "points": 181,
+      "comments": 62,
       "created_ts": 1794428792,
       "author": "ggcr"
     },
     {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "url": "https://discussions.apple.com/welcome",
-      "hn_url": "https://news.ycombinator.com/item?id=50449440",
-      "points": 102,
-      "comments": 198,
-      "created_ts": 1794367611,
-      "author": "tech234a"
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "hn_url": "https://news.ycombinator.com/item?id=50455633",
+      "points": 178,
+      "comments": 34,
+      "created_ts": 1794416265,
+      "author": "zerop"
+    },
+    {
+      "title": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457618",
+      "points": 106,
+      "comments": 27,
+      "created_ts": 1794426310,
+      "author": "cobbal"
     }
   ],
   "ph_today": [
     {
-      "title": "Kippy AI",
-      "url": "https://www.producthunt.com/products/kippy-ai",
+      "title": "Relay",
+      "url": "https://www.producthunt.com/products/relaytoai",
       "tagline": "",
-      "pub_date": "2026-11-08T03:17:04-08:00"
+      "pub_date": "2026-11-03T17:29:16-08:00"
     },
     {
       "title": "Reddit Reviews",
@@ -236,16 +254,22 @@
       "pub_date": "2026-11-10T22:12:05-08:00"
     },
     {
-      "title": "Skillbox",
-      "url": "https://www.producthunt.com/products/skillbox-5",
+      "title": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
       "tagline": "",
-      "pub_date": "2026-11-05T20:01:18-08:00"
+      "pub_date": "2026-10-19T01:11:42-07:00"
     },
     {
-      "title": "CALL-E",
-      "url": "https://www.producthunt.com/products/call-e",
+      "title": "Stiro",
+      "url": "https://www.producthunt.com/products/stiro",
       "tagline": "",
-      "pub_date": "2026-10-28T11:49:25-07:00"
+      "pub_date": "2026-11-07T05:33:58-08:00"
+    },
+    {
+      "title": "Mitra MCP",
+      "url": "https://www.producthunt.com/products/mitra-5",
+      "tagline": "",
+      "pub_date": "2026-11-10T10:52:46-08:00"
     },
     {
       "title": "Nod by n8n",
@@ -260,46 +284,28 @@
       "pub_date": "2026-11-10T10:18:20-08:00"
     },
     {
-      "title": "nizima ACTION!!",
-      "url": "https://www.producthunt.com/products/nizima-action-by-live2d",
+      "title": "Muse Ember by Meta",
+      "url": "https://www.producthunt.com/products/meta-ai",
       "tagline": "",
-      "pub_date": "2026-11-10T02:30:42-08:00"
+      "pub_date": "2026-11-09T14:14:58-08:00"
     },
     {
-      "title": "bonds chat",
-      "url": "https://www.producthunt.com/products/bonds-2",
+      "title": "Shot.video",
+      "url": "https://www.producthunt.com/products/shot-video",
       "tagline": "",
-      "pub_date": "2026-11-10T21:07:26-08:00"
+      "pub_date": "2026-11-10T03:14:30-08:00"
     },
     {
-      "title": "Padrail",
-      "url": "https://www.producthunt.com/products/padrail",
+      "title": "Skillbox",
+      "url": "https://www.producthunt.com/products/skillbox-5",
       "tagline": "",
-      "pub_date": "2026-11-10T12:27:40-08:00"
+      "pub_date": "2026-11-05T20:01:18-08:00"
     },
     {
-      "title": "RigSpark",
-      "url": "https://www.producthunt.com/products/rigspark",
+      "title": "CALL-E",
+      "url": "https://www.producthunt.com/products/call-e",
       "tagline": "",
-      "pub_date": "2026-11-10T17:26:24-08:00"
-    },
-    {
-      "title": "Mister Blocks",
-      "url": "https://www.producthunt.com/products/mister-blocks",
-      "tagline": "",
-      "pub_date": "2026-11-10T19:26:18-08:00"
-    },
-    {
-      "title": "Mitra MCP",
-      "url": "https://www.producthunt.com/products/mitra-5",
-      "tagline": "",
-      "pub_date": "2026-11-10T10:52:46-08:00"
-    },
-    {
-      "title": "StableBar",
-      "url": "https://www.producthunt.com/products/stablebar",
-      "tagline": "",
-      "pub_date": "2026-11-10T05:11:57-08:00"
+      "pub_date": "2026-10-28T11:49:25-07:00"
     },
     {
       "title": "Subscriptrack",
@@ -314,22 +320,10 @@
       "pub_date": "2026-11-10T14:07:24-08:00"
     },
     {
-      "title": "Stiro",
-      "url": "https://www.producthunt.com/products/stiro",
+      "title": "bonds chat",
+      "url": "https://www.producthunt.com/products/bonds-2",
       "tagline": "",
-      "pub_date": "2026-11-07T05:33:58-08:00"
-    },
-    {
-      "title": "Earlybird",
-      "url": "https://www.producthunt.com/products/earlybird-5",
-      "tagline": "",
-      "pub_date": "2026-11-10T15:11:21-08:00"
-    },
-    {
-      "title": "Seedream 5.5 by ByteDance",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
-      "tagline": "",
-      "pub_date": "2026-11-09T05:57:21-08:00"
+      "pub_date": "2026-11-10T21:07:26-08:00"
     },
     {
       "title": "Valin",
@@ -338,28 +332,40 @@
       "pub_date": "2026-11-10T05:06:44-08:00"
     },
     {
-      "title": "Muse Ember by Meta",
-      "url": "https://www.producthunt.com/products/meta-ai",
+      "title": "Seedream 5.5 by ByteDance",
+      "url": "https://www.producthunt.com/products/seedream-4-0",
       "tagline": "",
-      "pub_date": "2026-11-09T14:14:58-08:00"
+      "pub_date": "2026-11-09T05:57:21-08:00"
     },
     {
-      "title": "Shot.video",
-      "url": "https://www.producthunt.com/products/shot-video",
+      "title": "Mister Blocks",
+      "url": "https://www.producthunt.com/products/mister-blocks",
       "tagline": "",
-      "pub_date": "2026-11-10T03:14:30-08:00"
+      "pub_date": "2026-11-10T19:26:18-08:00"
     },
     {
-      "title": "Relay",
-      "url": "https://www.producthunt.com/products/relaytoai",
+      "title": "nizima ACTION!!",
+      "url": "https://www.producthunt.com/products/nizima-action-by-live2d",
       "tagline": "",
-      "pub_date": "2026-11-03T17:29:16-08:00"
+      "pub_date": "2026-11-10T02:30:42-08:00"
     },
     {
-      "title": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "title": "StableBar",
+      "url": "https://www.producthunt.com/products/stablebar",
       "tagline": "",
-      "pub_date": "2026-10-19T01:11:42-07:00"
+      "pub_date": "2026-11-10T05:11:57-08:00"
+    },
+    {
+      "title": "Kippy AI",
+      "url": "https://www.producthunt.com/products/kippy-ai",
+      "tagline": "",
+      "pub_date": "2026-11-08T03:17:04-08:00"
+    },
+    {
+      "title": "Earlybird",
+      "url": "https://www.producthunt.com/products/earlybird-5",
+      "tagline": "",
+      "pub_date": "2026-11-10T15:11:21-08:00"
     },
     {
       "title": "MiniMax H3-Image",
@@ -368,10 +374,16 @@
       "pub_date": "2026-11-10T08:35:28-08:00"
     },
     {
-      "title": "Skipbox",
-      "url": "https://www.producthunt.com/products/skipbox",
+      "title": "RigSpark",
+      "url": "https://www.producthunt.com/products/rigspark",
       "tagline": "",
-      "pub_date": "2026-11-10T13:58:02-08:00"
+      "pub_date": "2026-11-10T17:26:24-08:00"
+    },
+    {
+      "title": "Padrail",
+      "url": "https://www.producthunt.com/products/padrail",
+      "tagline": "",
+      "pub_date": "2026-11-10T12:27:40-08:00"
     },
     {
       "title": "Binqo",
@@ -380,28 +392,34 @@
       "pub_date": "2026-11-10T14:32:11-08:00"
     },
     {
-      "title": "AppuBot",
-      "url": "https://www.producthunt.com/products/appubot",
+      "title": "Skipbox",
+      "url": "https://www.producthunt.com/products/skipbox",
       "tagline": "",
-      "pub_date": "2026-11-09T20:16:01-08:00"
-    },
-    {
-      "title": "Ember",
-      "url": "https://www.producthunt.com/products/ember-117",
-      "tagline": "",
-      "pub_date": "2026-11-09T09:00:33-08:00"
-    },
-    {
-      "title": "CloakPane",
-      "url": "https://www.producthunt.com/products/cloakpane",
-      "tagline": "",
-      "pub_date": "2026-11-06T22:51:00-08:00"
+      "pub_date": "2026-11-10T13:58:02-08:00"
     },
     {
       "title": "Kumiko",
       "url": "https://www.producthunt.com/products/kumiko-2",
       "tagline": "",
       "pub_date": "2026-11-09T13:40:59-08:00"
+    },
+    {
+      "title": "CollaboTokyo",
+      "url": "https://www.producthunt.com/products/collabotokyo",
+      "tagline": "",
+      "pub_date": "2026-11-08T22:24:12-08:00"
+    },
+    {
+      "title": "Inspo by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "tagline": "",
+      "pub_date": "2026-11-09T13:48:31-08:00"
+    },
+    {
+      "title": "MuJoCo 4",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-11-09T22:23:09-08:00"
     }
   ]
 }

@@ -1,254 +1,197 @@
 {
-  "generated_at": "2026-11-14T12:47:13.074Z",
+  "generated_at": "2026-11-14T21:51:27.218Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50487228",
-      "points": 221,
-      "comments": 71,
-      "created_ts": 1794592717,
-      "author": "juscha1"
-    },
-    {
       "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
       "url": "https://grounds.top/",
       "hn_url": "https://news.ycombinator.com/item?id=50491545",
-      "points": 162,
-      "comments": 22,
+      "points": 207,
+      "comments": 26,
       "created_ts": 1794611859,
       "author": "gvsi"
     },
     {
-      "title": "Show HN: Hexalexagons, a daily word game on a hexagonal grid",
-      "url": "https://hexalexagons.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50484579",
-      "points": 19,
-      "comments": 10,
-      "created_ts": 1794582193,
-      "author": "michelleful"
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "hn_url": "https://news.ycombinator.com/item?id=50497132",
+      "points": 116,
+      "comments": 24,
+      "created_ts": 1794665154,
+      "author": "snipedbywifi"
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "hn_url": "https://news.ycombinator.com/item?id=50497589",
+      "points": 112,
+      "comments": 7,
+      "created_ts": 1794668655,
+      "author": "VaibhaavTiwari"
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "hn_url": "https://news.ycombinator.com/item?id=50497147",
+      "points": 76,
+      "comments": 21,
+      "created_ts": 1794665292,
+      "author": "paul_nameless"
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "hn_url": "https://news.ycombinator.com/item?id=50497137",
+      "points": 59,
+      "comments": 19,
+      "created_ts": 1794665194,
+      "author": "fursoy"
     },
     {
       "title": "Show HN: Light control for MacBook charger status light (open-source)",
       "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
       "hn_url": "https://news.ycombinator.com/item?id=50492269",
-      "points": 16,
+      "points": 18,
       "comments": 10,
       "created_ts": 1794617098,
       "author": "toppa33"
+    },
+    {
+      "title": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you",
+      "url": "https://cyberviber.de/",
+      "hn_url": "https://news.ycombinator.com/item?id=50496642",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1794660847,
+      "author": "d1351r43"
     }
   ],
   "hn_front": [
     {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "hn_url": "https://news.ycombinator.com/item?id=50489641",
-      "points": 1569,
-      "comments": 1195,
-      "created_ts": 1794603953,
-      "author": "zulln"
-    },
-    {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "hn_url": "https://news.ycombinator.com/item?id=50493251",
-      "points": 699,
-      "comments": 406,
-      "created_ts": 1794624779,
-      "author": "speckx"
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "hn_url": "https://news.ycombinator.com/item?id=50484658",
-      "points": 331,
-      "comments": 447,
-      "created_ts": 1794582524,
-      "author": "helloplanets"
-    },
-    {
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "hn_url": "https://news.ycombinator.com/item?id=50491423",
-      "points": 305,
-      "comments": 134,
-      "created_ts": 1794611200,
-      "author": "vinhnx"
-    },
-    {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "hn_url": "https://news.ycombinator.com/item?id=50493062",
-      "points": 302,
-      "comments": 47,
-      "created_ts": 1794623309,
-      "author": "cobychapple"
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50490593",
-      "points": 274,
-      "comments": 65,
-      "created_ts": 1794607464,
-      "author": "mmaunder"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "hn_url": "https://news.ycombinator.com/item?id=50487185",
-      "points": 268,
-      "comments": 45,
-      "created_ts": 1794592528,
-      "author": "halcdev"
-    },
-    {
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "hn_url": "https://news.ycombinator.com/item?id=50488325",
-      "points": 241,
-      "comments": 159,
-      "created_ts": 1794597242,
-      "author": "simonebrunozzi"
-    },
-    {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50487228",
-      "points": 221,
-      "comments": 71,
-      "created_ts": 1794592717,
-      "author": "juscha1"
-    },
-    {
-      "title": "A technical vision for the Haskell ecosystem",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "hn_url": "https://news.ycombinator.com/item?id=50484235",
-      "points": 213,
-      "comments": 128,
-      "created_ts": 1794580992,
-      "author": "cosmic_quanta"
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "hn_url": "https://news.ycombinator.com/item?id=50488470",
-      "points": 211,
-      "comments": 45,
-      "created_ts": 1794597921,
-      "author": "gumby"
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "hn_url": "https://news.ycombinator.com/item?id=50499017",
+      "points": 473,
+      "comments": 166,
+      "created_ts": 1794678190,
+      "author": "armcat"
     },
     {
       "title": "Monkey Island: all 13 versions side by side",
       "url": "https://monkeyisland.pages.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50493904",
-      "points": 207,
-      "comments": 62,
+      "points": 437,
+      "comments": 140,
       "created_ts": 1794630210,
       "author": "maximilianburke"
     },
     {
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "hn_url": "https://news.ycombinator.com/item?id=50484650",
-      "points": 180,
-      "comments": 103,
-      "created_ts": 1794582487,
-      "author": "bookofjoe"
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "hn_url": "https://news.ycombinator.com/item?id=50496602",
+      "points": 384,
+      "comments": 151,
+      "created_ts": 1794660345,
+      "author": "gslin"
     },
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "hn_url": "https://news.ycombinator.com/item?id=50491980",
-      "points": 172,
-      "comments": 50,
-      "created_ts": 1794614764,
-      "author": "Retro_Dev"
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "hn_url": "https://news.ycombinator.com/item?id=50496976",
+      "points": 317,
+      "comments": 68,
+      "created_ts": 1794663808,
+      "author": "mrkn1"
     },
     {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "hn_url": "https://news.ycombinator.com/item?id=50492315",
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "hn_url": "https://news.ycombinator.com/item?id=50497009",
+      "points": 272,
+      "comments": 182,
+      "created_ts": 1794664086,
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "hn_url": "https://news.ycombinator.com/item?id=50497892",
       "points": 171,
-      "comments": 60,
-      "created_ts": 1794617549,
-      "author": "snow_mac"
+      "comments": 78,
+      "created_ts": 1794670852,
+      "author": "rbanffy"
     },
     {
-      "title": "What happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50491830",
-      "points": 162,
-      "comments": 85,
-      "created_ts": 1794613739,
-      "author": "gvieri"
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "hn_url": "https://news.ycombinator.com/item?id=50500963",
+      "points": 168,
+      "comments": 77,
+      "created_ts": 1794691344,
+      "author": "ls612"
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "hn_url": "https://news.ycombinator.com/item?id=50491545",
-      "points": 162,
-      "comments": 22,
-      "created_ts": 1794611859,
-      "author": "gvsi"
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "hn_url": "https://news.ycombinator.com/item?id=50496811",
+      "points": 135,
+      "comments": 33,
+      "created_ts": 1794662443,
+      "author": "acossta"
     },
     {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "hn_url": "https://news.ycombinator.com/item?id=50492860",
-      "points": 150,
-      "comments": 34,
-      "created_ts": 1794621762,
-      "author": "gmays"
+      "title": "A Family Tree of Software Job Titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "hn_url": "https://news.ycombinator.com/item?id=50499038",
+      "points": 121,
+      "comments": 54,
+      "created_ts": 1794678319,
+      "author": "umerf"
     },
     {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "hn_url": "https://news.ycombinator.com/item?id=50488464",
-      "points": 136,
-      "comments": 23,
-      "created_ts": 1794597887,
-      "author": "gmays"
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "hn_url": "https://news.ycombinator.com/item?id=50499083",
+      "points": 118,
+      "comments": 67,
+      "created_ts": 1794678500,
+      "author": "accountinhn"
     },
     {
-      "title": "How Not to Build a Music Player",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "hn_url": "https://news.ycombinator.com/item?id=50491400",
-      "points": 131,
-      "comments": 56,
-      "created_ts": 1794611070,
-      "author": "vinhnx"
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "hn_url": "https://news.ycombinator.com/item?id=50499723",
+      "points": 117,
+      "comments": 48,
+      "created_ts": 1794682607,
+      "author": "gnabgib"
     },
     {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "hn_url": "https://news.ycombinator.com/item?id=50488835",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "hn_url": "https://news.ycombinator.com/item?id=50497132",
       "points": 116,
-      "comments": 29,
-      "created_ts": 1794599922,
-      "author": "JohnDohnBohn"
+      "comments": 24,
+      "created_ts": 1794665154,
+      "author": "snipedbywifi"
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "hn_url": "https://news.ycombinator.com/item?id=50497589",
+      "points": 112,
+      "comments": 7,
+      "created_ts": 1794668655,
+      "author": "VaibhaavTiwari"
     }
   ],
   "ph_today": [
     {
-      "title": "MAP &amp; GO!",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "title": "Gemini Robotics 2.5",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
       "tagline": "",
-      "pub_date": "2026-10-21T13:14:51-07:00"
-    },
-    {
-      "title": "Kokonut UI",
-      "url": "https://www.producthunt.com/products/kokonutui",
-      "tagline": "",
-      "pub_date": "2026-11-01T02:27:54-08:00"
-    },
-    {
-      "title": "CaptureFlow",
-      "url": "https://www.producthunt.com/products/captureflow",
-      "tagline": "",
-      "pub_date": "2026-10-15T07:48:28-07:00"
+      "pub_date": "2026-11-12T12:18:13-08:00"
     },
     {
       "title": "HiringNow",
@@ -257,16 +200,22 @@
       "pub_date": "2026-11-02T02:23:37-08:00"
     },
     {
-      "title": "VB Notes",
-      "url": "https://www.producthunt.com/products/vb-notes",
+      "title": "Uber Parking",
+      "url": "https://www.producthunt.com/products/uber",
       "tagline": "",
-      "pub_date": "2026-11-05T05:41:38-08:00"
+      "pub_date": "2026-11-09T09:07:16-08:00"
     },
     {
-      "title": "Valutorio",
-      "url": "https://www.producthunt.com/products/valutorio",
+      "title": "Dynamic Edge",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
       "tagline": "",
-      "pub_date": "2026-11-05T11:34:20-08:00"
+      "pub_date": "2026-11-11T03:40:48-08:00"
+    },
+    {
+      "title": "Restoration Scope",
+      "url": "https://www.producthunt.com/products/restoration-scope",
+      "tagline": "",
+      "pub_date": "2026-11-11T06:39:07-08:00"
     },
     {
       "title": "Aboard Sign",
@@ -281,94 +230,10 @@
       "pub_date": "2026-11-06T10:10:59-08:00"
     },
     {
-      "title": "ScreenGo",
-      "url": "https://www.producthunt.com/products/screengo",
-      "tagline": "",
-      "pub_date": "2026-11-09T07:57:03-08:00"
-    },
-    {
-      "title": "FreeFlow Dictation",
-      "url": "https://www.producthunt.com/products/freeflow-dictation",
-      "tagline": "",
-      "pub_date": "2026-11-10T00:38:27-08:00"
-    },
-    {
-      "title": "Dex Semantics",
-      "url": "https://www.producthunt.com/products/dex-by-exmergo",
-      "tagline": "",
-      "pub_date": "2026-11-11T13:48:12-08:00"
-    },
-    {
-      "title": "Default Tamer",
-      "url": "https://www.producthunt.com/products/default-tamer",
-      "tagline": "",
-      "pub_date": "2026-11-12T09:27:40-08:00"
-    },
-    {
-      "title": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "tagline": "",
-      "pub_date": "2026-11-12T12:18:13-08:00"
-    },
-    {
       "title": "CodeMesh",
       "url": "https://www.producthunt.com/products/codemesh-2",
       "tagline": "",
       "pub_date": "2026-11-13T01:07:28-08:00"
-    },
-    {
-      "title": "Tacie",
-      "url": "https://www.producthunt.com/products/tacie",
-      "tagline": "",
-      "pub_date": "2026-11-13T07:03:50-08:00"
-    },
-    {
-      "title": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "tagline": "",
-      "pub_date": "2026-11-13T13:27:29-08:00"
-    },
-    {
-      "title": "Businesses in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "tagline": "",
-      "pub_date": "2026-11-13T00:53:51-08:00"
-    },
-    {
-      "title": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
-      "tagline": "",
-      "pub_date": "2026-11-11T03:40:48-08:00"
-    },
-    {
-      "title": "Drops",
-      "url": "https://www.producthunt.com/products/drops-4",
-      "tagline": "",
-      "pub_date": "2026-11-09T14:54:34-08:00"
-    },
-    {
-      "title": "Uber Parking",
-      "url": "https://www.producthunt.com/products/uber",
-      "tagline": "",
-      "pub_date": "2026-11-09T09:07:16-08:00"
-    },
-    {
-      "title": "Restoration Scope",
-      "url": "https://www.producthunt.com/products/restoration-scope",
-      "tagline": "",
-      "pub_date": "2026-11-11T06:39:07-08:00"
-    },
-    {
-      "title": "Nexus",
-      "url": "https://www.producthunt.com/products/project-nexus-2",
-      "tagline": "",
-      "pub_date": "2026-11-06T05:40:07-08:00"
-    },
-    {
-      "title": "AnyoneHiring.today",
-      "url": "https://www.producthunt.com/products/anyonehiring-today",
-      "tagline": "",
-      "pub_date": "2026-11-11T01:26:21-08:00"
     },
     {
       "title": "Antelog",
@@ -383,16 +248,22 @@
       "pub_date": "2026-11-12T08:48:30-08:00"
     },
     {
-      "title": "Horef Rings",
-      "url": "https://www.producthunt.com/products/horef-rings",
+      "title": "Tacie",
+      "url": "https://www.producthunt.com/products/tacie",
       "tagline": "",
-      "pub_date": "2026-11-07T12:20:27-08:00"
+      "pub_date": "2026-11-13T07:03:50-08:00"
     },
     {
-      "title": "Tabletop by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
+      "title": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
       "tagline": "",
-      "pub_date": "2026-11-13T03:39:17-08:00"
+      "pub_date": "2026-11-01T02:27:54-08:00"
+    },
+    {
+      "title": "Drops",
+      "url": "https://www.producthunt.com/products/drops-4",
+      "tagline": "",
+      "pub_date": "2026-11-09T14:54:34-08:00"
     },
     {
       "title": "Blender 5.3",
@@ -401,16 +272,100 @@
       "pub_date": "2026-11-12T21:32:19-08:00"
     },
     {
-      "title": "Expo Simulators",
-      "url": "https://www.producthunt.com/products/expo",
+      "title": "Businesses in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
       "tagline": "",
-      "pub_date": "2026-11-12T10:34:18-08:00"
+      "pub_date": "2026-11-13T00:53:51-08:00"
     },
     {
-      "title": "qorqbot",
-      "url": "https://www.producthunt.com/products/qorqbot",
+      "title": "Dex Semantics",
+      "url": "https://www.producthunt.com/products/dex-by-exmergo",
       "tagline": "",
-      "pub_date": "2026-10-18T13:15:41-07:00"
+      "pub_date": "2026-11-11T13:48:12-08:00"
+    },
+    {
+      "title": "Valutorio",
+      "url": "https://www.producthunt.com/products/valutorio",
+      "tagline": "",
+      "pub_date": "2026-11-05T11:34:20-08:00"
+    },
+    {
+      "title": "ScreenGo",
+      "url": "https://www.producthunt.com/products/screengo",
+      "tagline": "",
+      "pub_date": "2026-11-09T07:57:03-08:00"
+    },
+    {
+      "title": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "tagline": "",
+      "pub_date": "2026-11-13T13:27:29-08:00"
+    },
+    {
+      "title": "Default Tamer",
+      "url": "https://www.producthunt.com/products/default-tamer",
+      "tagline": "",
+      "pub_date": "2026-11-12T09:27:40-08:00"
+    },
+    {
+      "title": "VB Notes",
+      "url": "https://www.producthunt.com/products/vb-notes",
+      "tagline": "",
+      "pub_date": "2026-11-05T05:41:38-08:00"
+    },
+    {
+      "title": "Tabletop by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "tagline": "",
+      "pub_date": "2026-11-13T03:39:17-08:00"
+    },
+    {
+      "title": "MAP &amp; GO!",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "tagline": "",
+      "pub_date": "2026-10-21T13:14:51-07:00"
+    },
+    {
+      "title": "Horef Rings",
+      "url": "https://www.producthunt.com/products/horef-rings",
+      "tagline": "",
+      "pub_date": "2026-11-07T12:20:27-08:00"
+    },
+    {
+      "title": "Nexus",
+      "url": "https://www.producthunt.com/products/project-nexus-2",
+      "tagline": "",
+      "pub_date": "2026-11-06T05:40:07-08:00"
+    },
+    {
+      "title": "FreeFlow Dictation",
+      "url": "https://www.producthunt.com/products/freeflow-dictation",
+      "tagline": "",
+      "pub_date": "2026-11-10T00:38:27-08:00"
+    },
+    {
+      "title": "CaptureFlow",
+      "url": "https://www.producthunt.com/products/captureflow",
+      "tagline": "",
+      "pub_date": "2026-10-15T07:48:28-07:00"
+    },
+    {
+      "title": "AnyoneHiring.today",
+      "url": "https://www.producthunt.com/products/anyonehiring-today",
+      "tagline": "",
+      "pub_date": "2026-11-11T01:26:21-08:00"
+    },
+    {
+      "title": "Google Pixel Tag",
+      "url": "https://www.producthunt.com/products/google",
+      "tagline": "",
+      "pub_date": "2026-11-10T16:54:47-08:00"
+    },
+    {
+      "title": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "tagline": "",
+      "pub_date": "2026-10-26T04:56:03-07:00"
     }
   ]
 }

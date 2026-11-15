@@ -1,50 +1,14 @@
 {
-  "generated_at": "2026-11-15T13:14:53.744Z",
+  "generated_at": "2026-11-15T22:20:07.763Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "hn_url": "https://news.ycombinator.com/item?id=50497589",
-      "points": 246,
-      "comments": 23,
-      "created_ts": 1794668655,
-      "author": "VaibhaavTiwari"
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "hn_url": "https://news.ycombinator.com/item?id=50497132",
-      "points": 159,
-      "comments": 39,
-      "created_ts": 1794665154,
-      "author": "snipedbywifi"
-    },
-    {
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "hn_url": "https://news.ycombinator.com/item?id=50497147",
-      "points": 103,
-      "comments": 30,
-      "created_ts": 1794665292,
-      "author": "paul_nameless"
-    },
-    {
-      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-      "url": "https://github.com/FURSOY/fursoy-cpu",
-      "hn_url": "https://news.ycombinator.com/item?id=50497137",
-      "points": 81,
-      "comments": 26,
-      "created_ts": 1794665194,
-      "author": "fursoy"
-    },
-    {
       "title": "Show HN: Gawain – Require type hints on all Python variables",
       "url": "https://github.com/matheuzgomes/gawain",
       "hn_url": "https://news.ycombinator.com/item?id=50504072",
-      "points": 60,
-      "comments": 41,
+      "points": 67,
+      "comments": 51,
       "created_ts": 1794717565,
       "author": "MarinhoD"
     },
@@ -52,8 +16,8 @@
       "title": "Show HN: A custom font based on the Jamaican flag alphabet",
       "url": "https://bobbiec.github.io/jamaican-font.html",
       "hn_url": "https://news.ycombinator.com/item?id=50502839",
-      "points": 46,
-      "comments": 6,
+      "points": 52,
+      "comments": 7,
       "created_ts": 1794704205,
       "author": "bobbiechen"
     },
@@ -61,128 +25,146 @@
       "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
       "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
       "hn_url": "https://news.ycombinator.com/item?id=50503930",
-      "points": 39,
-      "comments": 8,
+      "points": 46,
+      "comments": 9,
       "created_ts": 1794715751,
       "author": "tthanh2k6"
+    },
+    {
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "hn_url": "https://news.ycombinator.com/item?id=50506940",
+      "points": 28,
+      "comments": 7,
+      "created_ts": 1794750651,
+      "author": "nu_nu11"
     },
     {
       "title": "Show HN: Umbrella – macOS app to capture audio from any app",
       "url": "https://umbrella.pixelegg.me/",
       "hn_url": "https://news.ycombinator.com/item?id=50503097",
-      "points": 17,
-      "comments": 8,
+      "points": 26,
+      "comments": 9,
       "created_ts": 1794706520,
       "author": "threcius"
+    },
+    {
+      "title": "Show HN: Nano-Edge-TTS – 70x realtime, Lightweight Kokoro-based TTS model",
+      "url": "https://huggingface.co/drmhse/nano-edge-tts",
+      "hn_url": "https://news.ycombinator.com/item?id=50506255",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1794743617,
+      "author": "drmhse"
     }
   ],
   "hn_front": [
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "hn_url": "https://news.ycombinator.com/item?id=50500963",
-      "points": 1347,
-      "comments": 904,
-      "created_ts": 1794691344,
-      "author": "ls612"
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "hn_url": "https://news.ycombinator.com/item?id=50499017",
-      "points": 877,
-      "comments": 338,
-      "created_ts": 1794678190,
-      "author": "armcat"
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "hn_url": "https://news.ycombinator.com/item?id=50496976",
-      "points": 509,
-      "comments": 113,
-      "created_ts": 1794663808,
-      "author": "mrkn1"
-    },
-    {
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "hn_url": "https://news.ycombinator.com/item?id=50499038",
-      "points": 352,
-      "comments": 176,
-      "created_ts": 1794678319,
-      "author": "umerf"
-    },
-    {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "hn_url": "https://news.ycombinator.com/item?id=50503255",
-      "points": 264,
-      "comments": 72,
-      "created_ts": 1794708054,
-      "author": "nobody9999"
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "hn_url": "https://news.ycombinator.com/item?id=50507303",
+      "points": 983,
+      "comments": 548,
+      "created_ts": 1794754018,
+      "author": "jcubic"
     },
     {
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
       "hn_url": "https://news.ycombinator.com/item?id=50502988",
-      "points": 258,
-      "comments": 96,
+      "points": 477,
+      "comments": 210,
       "created_ts": 1794705516,
       "author": "ybathaee"
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "hn_url": "https://news.ycombinator.com/item?id=50497892",
-      "points": 255,
-      "comments": 111,
-      "created_ts": 1794670852,
-      "author": "rbanffy"
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50506180",
+      "points": 428,
+      "comments": 186,
+      "created_ts": 1794742851,
+      "author": "JumpCrisscross"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "hn_url": "https://news.ycombinator.com/item?id=50497589",
-      "points": 246,
-      "comments": 23,
-      "created_ts": 1794668655,
-      "author": "VaibhaavTiwari"
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "hn_url": "https://news.ycombinator.com/item?id=50506719",
+      "points": 368,
+      "comments": 194,
+      "created_ts": 1794748522,
+      "author": "MacAnorak"
     },
     {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "hn_url": "https://news.ycombinator.com/item?id=50501594",
-      "points": 240,
-      "comments": 128,
-      "created_ts": 1794694969,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50509411",
+      "points": 249,
+      "comments": 119,
+      "created_ts": 1794767770,
+      "author": "DeepLogin"
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "hn_url": "https://news.ycombinator.com/item?id=50505271",
+      "points": 206,
+      "comments": 140,
+      "created_ts": 1794733603,
       "author": "Skyfall106"
     },
     {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "hn_url": "https://news.ycombinator.com/item?id=50496811",
-      "points": 206,
-      "comments": 49,
-      "created_ts": 1794662443,
-      "author": "acossta"
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "hn_url": "https://news.ycombinator.com/item?id=50506376",
+      "points": 180,
+      "comments": 21,
+      "created_ts": 1794744846,
+      "author": "vismit2000"
     },
     {
-      "title": "My favourite modern NES games",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "hn_url": "https://news.ycombinator.com/item?id=50503465",
-      "points": 125,
-      "comments": 12,
-      "created_ts": 1794710485,
-      "author": "jordigh"
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50506894",
+      "points": 171,
+      "comments": 84,
+      "created_ts": 1794750256,
+      "author": "ksec"
+    },
+    {
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "hn_url": "https://news.ycombinator.com/item?id=50507553",
+      "points": 153,
+      "comments": 80,
+      "created_ts": 1794756081,
+      "author": "nyc111"
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "hn_url": "https://news.ycombinator.com/item?id=50509308",
+      "points": 121,
+      "comments": 29,
+      "created_ts": 1794767001,
+      "author": "nharada"
+    },
+    {
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50509023",
+      "points": 102,
+      "comments": 80,
+      "created_ts": 1794765211,
+      "author": "gumby"
     }
   ],
   "ph_today": [
     {
-      "title": "Emayler",
-      "url": "https://www.producthunt.com/products/emayler",
+      "title": "Frevana Multiplayer",
+      "url": "https://www.producthunt.com/products/frevana-2",
       "tagline": "",
-      "pub_date": "2026-11-12T15:32:53-08:00"
+      "pub_date": "2026-11-09T21:18:49-08:00"
     },
     {
       "title": "Tulvo",
@@ -191,16 +173,16 @@
       "pub_date": "2026-11-07T06:08:39-08:00"
     },
     {
-      "title": "TwoBucket",
-      "url": "https://www.producthunt.com/products/twobucket",
+      "title": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
       "tagline": "",
-      "pub_date": "2026-11-06T23:14:18-08:00"
+      "pub_date": "2026-11-14T22:22:09-08:00"
     },
     {
-      "title": "Spiik",
-      "url": "https://www.producthunt.com/products/spiik",
+      "title": "Talyn",
+      "url": "https://www.producthunt.com/products/talyn",
       "tagline": "",
-      "pub_date": "2026-11-07T03:57:13-08:00"
+      "pub_date": "2026-11-12T02:07:59-08:00"
     },
     {
       "title": "Pixel Office",
@@ -215,22 +197,28 @@
       "pub_date": "2026-11-07T15:33:53-08:00"
     },
     {
-      "title": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2",
-      "tagline": "",
-      "pub_date": "2026-11-09T21:18:49-08:00"
-    },
-    {
       "title": "Rakazo",
       "url": "https://www.producthunt.com/products/rakazo",
       "tagline": "",
       "pub_date": "2026-11-13T10:46:58-08:00"
     },
     {
-      "title": "Talyn",
-      "url": "https://www.producthunt.com/products/talyn",
+      "title": "TwoBucket",
+      "url": "https://www.producthunt.com/products/twobucket",
       "tagline": "",
-      "pub_date": "2026-11-12T02:07:59-08:00"
+      "pub_date": "2026-11-06T23:14:18-08:00"
+    },
+    {
+      "title": "Spiik",
+      "url": "https://www.producthunt.com/products/spiik",
+      "tagline": "",
+      "pub_date": "2026-11-07T03:57:13-08:00"
+    },
+    {
+      "title": "Emayler",
+      "url": "https://www.producthunt.com/products/emayler",
+      "tagline": "",
+      "pub_date": "2026-11-12T15:32:53-08:00"
     },
     {
       "title": "Privacyboard",
@@ -239,16 +227,10 @@
       "pub_date": "2026-11-14T02:31:24-08:00"
     },
     {
-      "title": "Canvas by AgentGrid.io",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "title": "Perit Marketplace",
+      "url": "https://www.producthunt.com/products/perit-marketplace",
       "tagline": "",
-      "pub_date": "2026-11-14T22:22:09-08:00"
-    },
-    {
-      "title": "Polylane for Security",
-      "url": "https://www.producthunt.com/products/polylane",
-      "tagline": "",
-      "pub_date": "2026-11-11T10:55:28-08:00"
+      "pub_date": "2026-11-14T21:04:05-08:00"
     },
     {
       "title": "Remindly",
@@ -257,16 +239,22 @@
       "pub_date": "2026-11-13T15:19:19-08:00"
     },
     {
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "tagline": "",
+      "pub_date": "2026-11-14T09:42:45-08:00"
+    },
+    {
       "title": "ByteAsk Cloud Agents",
       "url": "https://www.producthunt.com/products/byteask-cloud-agents",
       "tagline": "",
       "pub_date": "2026-11-13T22:54:44-08:00"
     },
     {
-      "title": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
+      "title": "Polylane for Security",
+      "url": "https://www.producthunt.com/products/polylane",
       "tagline": "",
-      "pub_date": "2026-11-14T09:42:45-08:00"
+      "pub_date": "2026-11-11T10:55:28-08:00"
     },
     {
       "title": "HuntMonitor",
@@ -275,46 +263,10 @@
       "pub_date": "2026-11-14T09:36:18-08:00"
     },
     {
-      "title": "Perit Marketplace",
-      "url": "https://www.producthunt.com/products/perit-marketplace",
-      "tagline": "",
-      "pub_date": "2026-11-14T21:04:05-08:00"
-    },
-    {
       "title": "HiringNow",
       "url": "https://www.producthunt.com/products/hiringnow",
       "tagline": "",
       "pub_date": "2026-11-02T02:23:37-08:00"
-    },
-    {
-      "title": "Tacie",
-      "url": "https://www.producthunt.com/products/tacie",
-      "tagline": "",
-      "pub_date": "2026-11-13T07:03:50-08:00"
-    },
-    {
-      "title": "Replay",
-      "url": "https://www.producthunt.com/products/replay-11",
-      "tagline": "",
-      "pub_date": "2026-11-06T10:10:59-08:00"
-    },
-    {
-      "title": "Valutorio",
-      "url": "https://www.producthunt.com/products/valutorio",
-      "tagline": "",
-      "pub_date": "2026-11-05T11:34:20-08:00"
-    },
-    {
-      "title": "Dex Semantics",
-      "url": "https://www.producthunt.com/products/dex-by-exmergo",
-      "tagline": "",
-      "pub_date": "2026-11-11T13:48:12-08:00"
-    },
-    {
-      "title": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "tagline": "",
-      "pub_date": "2026-11-12T12:18:13-08:00"
     },
     {
       "title": "Kokonut UI",
@@ -327,6 +279,36 @@
       "url": "https://www.producthunt.com/products/uber",
       "tagline": "",
       "pub_date": "2026-11-09T09:07:16-08:00"
+    },
+    {
+      "title": "Valutorio",
+      "url": "https://www.producthunt.com/products/valutorio",
+      "tagline": "",
+      "pub_date": "2026-11-05T11:34:20-08:00"
+    },
+    {
+      "title": "Gemini Robotics 2.5",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "tagline": "",
+      "pub_date": "2026-11-12T12:18:13-08:00"
+    },
+    {
+      "title": "Dex Semantics",
+      "url": "https://www.producthunt.com/products/dex-by-exmergo",
+      "tagline": "",
+      "pub_date": "2026-11-11T13:48:12-08:00"
+    },
+    {
+      "title": "Dynamic Edge",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "tagline": "",
+      "pub_date": "2026-11-11T03:40:48-08:00"
+    },
+    {
+      "title": "Default Tamer",
+      "url": "https://www.producthunt.com/products/default-tamer",
+      "tagline": "",
+      "pub_date": "2026-11-12T09:27:40-08:00"
     },
     {
       "title": "Drops",
@@ -347,16 +329,16 @@
       "pub_date": "2026-11-13T13:27:29-08:00"
     },
     {
-      "title": "Aboard Sign",
-      "url": "https://www.producthunt.com/products/aboard-sign",
+      "title": "Replay",
+      "url": "https://www.producthunt.com/products/replay-11",
       "tagline": "",
-      "pub_date": "2026-11-05T14:21:53-08:00"
+      "pub_date": "2026-11-06T10:10:59-08:00"
     },
     {
-      "title": "Default Tamer",
-      "url": "https://www.producthunt.com/products/default-tamer",
+      "title": "CodeMesh",
+      "url": "https://www.producthunt.com/products/codemesh-2",
       "tagline": "",
-      "pub_date": "2026-11-12T09:27:40-08:00"
+      "pub_date": "2026-11-13T01:07:28-08:00"
     }
   ]
 }

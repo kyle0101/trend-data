@@ -1,151 +1,88 @@
 {
-  "generated_at": "2026-11-16T04:07:02.946Z",
+  "generated_at": "2026-11-16T14:25:22.606Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "hn_url": "https://news.ycombinator.com/item?id=50504072",
-      "points": 67,
-      "comments": 54,
-      "created_ts": 1794717565,
-      "author": "MarinhoD"
-    },
-    {
       "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
       "url": "https://lastcomplication.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50511718",
-      "points": 58,
-      "comments": 8,
+      "points": 75,
+      "comments": 15,
       "created_ts": 1794782932,
       "author": "tdeangelis"
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "hn_url": "https://news.ycombinator.com/item?id=50503930",
-      "points": 47,
-      "comments": 9,
-      "created_ts": 1794715751,
-      "author": "tthanh2k6"
+      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "url": "https://github.com/withcoral/coral",
+      "hn_url": "https://news.ycombinator.com/item?id=50517803",
+      "points": 18,
+      "comments": 6,
+      "created_ts": 1794838491,
+      "author": "jcs"
     },
     {
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "hn_url": "https://news.ycombinator.com/item?id=50506940",
-      "points": 35,
-      "comments": 10,
-      "created_ts": 1794750651,
-      "author": "nu_nu11"
+      "title": "Show HN: Rbit – Self Hosted Git Forge in Rust",
+      "url": "https://rbit.sh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50511238",
+      "points": 17,
+      "comments": 5,
+      "created_ts": 1794779660,
+      "author": "GitRbit"
     },
     {
-      "title": "Show HN: Nano-Edge-TTS – 70x realtime, Lightweight Kokoro-based TTS model",
-      "url": "https://huggingface.co/drmhse/nano-edge-tts",
-      "hn_url": "https://news.ycombinator.com/item?id=50506255",
-      "points": 13,
-      "comments": 2,
-      "created_ts": 1794743617,
-      "author": "drmhse"
+      "title": "Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents",
+      "url": "https://github.com/jjyr/canban",
+      "hn_url": "https://news.ycombinator.com/item?id=50508535",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1794762377,
+      "author": "fwee"
     }
   ],
   "hn_front": [
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50509411",
-      "points": 439,
-      "comments": 192,
-      "created_ts": 1794767770,
-      "author": "DeepLogin"
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "hn_url": "https://news.ycombinator.com/item?id=50513215",
+      "points": 681,
+      "comments": 320,
+      "created_ts": 1794795284,
+      "author": "ilreb"
     },
     {
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "hn_url": "https://news.ycombinator.com/item?id=50506719",
-      "points": 435,
-      "comments": 245,
-      "created_ts": 1794748522,
-      "author": "MacAnorak"
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "hn_url": "https://news.ycombinator.com/item?id=50514470",
+      "points": 494,
+      "comments": 92,
+      "created_ts": 1794808237,
+      "author": "o4c"
     },
     {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "hn_url": "https://news.ycombinator.com/item?id=50506376",
-      "points": 217,
-      "comments": 27,
-      "created_ts": 1794744846,
-      "author": "vismit2000"
-    },
-    {
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50506894",
-      "points": 214,
-      "comments": 112,
-      "created_ts": 1794750256,
-      "author": "ksec"
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "hn_url": "https://news.ycombinator.com/item?id=50513160",
+      "points": 486,
+      "comments": 138,
+      "created_ts": 1794794688,
+      "author": "zaik"
     },
     {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "url": "https://bruceroettgers.eu/blog/protomaps/",
       "hn_url": "https://news.ycombinator.com/item?id=50509837",
-      "points": 214,
-      "comments": 47,
+      "points": 403,
+      "comments": 69,
       "created_ts": 1794770782,
       "author": "bcye"
-    },
-    {
-      "title": "Old Bitly links are being hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "hn_url": "https://news.ycombinator.com/item?id=50511395",
-      "points": 208,
-      "comments": 113,
-      "created_ts": 1794780703,
-      "author": "hspeiser"
-    },
-    {
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "hn_url": "https://news.ycombinator.com/item?id=50509308",
-      "points": 194,
-      "comments": 86,
-      "created_ts": 1794767001,
-      "author": "nharada"
-    },
-    {
-      "title": "Crows make decisions faster than we can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50509023",
-      "points": 188,
-      "comments": 140,
-      "created_ts": 1794765211,
-      "author": "gumby"
-    },
-    {
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "hn_url": "https://news.ycombinator.com/item?id=50507553",
-      "points": 188,
-      "comments": 107,
-      "created_ts": 1794756081,
-      "author": "nyc111"
-    },
-    {
-      "title": "Qwen4-Max",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "hn_url": "https://news.ycombinator.com/item?id=50513215",
-      "points": 177,
-      "comments": 44,
-      "created_ts": 1794795284,
-      "author": "ilreb"
     },
     {
       "title": "Handwriting, as a Font",
       "url": "https://ductus.sorenblank.com",
       "hn_url": "https://news.ycombinator.com/item?id=50509972",
-      "points": 173,
-      "comments": 40,
+      "points": 367,
+      "comments": 63,
       "created_ts": 1794771733,
       "author": "coinfused"
     },
@@ -153,228 +90,264 @@
       "title": "What's Next for Nvidia?",
       "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
       "hn_url": "https://news.ycombinator.com/item?id=50512235",
-      "points": 124,
-      "comments": 140,
+      "points": 349,
+      "comments": 430,
       "created_ts": 1794786955,
       "author": "zdw"
     },
     {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "hn_url": "https://news.ycombinator.com/item?id=50513160",
-      "points": 124,
-      "comments": 24,
-      "created_ts": 1794794688,
-      "author": "zaik"
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "hn_url": "https://news.ycombinator.com/item?id=50511395",
+      "points": 330,
+      "comments": 165,
+      "created_ts": 1794780703,
+      "author": "hspeiser"
     },
     {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "hn_url": "https://news.ycombinator.com/item?id=50508715",
-      "points": 113,
-      "comments": 70,
-      "created_ts": 1794763352,
-      "author": "molenzwiebel"
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50509023",
+      "points": 267,
+      "comments": 180,
+      "created_ts": 1794765211,
+      "author": "gumby"
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "hn_url": "https://news.ycombinator.com/item?id=50509308",
+      "points": 265,
+      "comments": 146,
+      "created_ts": 1794767001,
+      "author": "nharada"
     },
     {
       "title": "WebGL Flight Simulator with seed generated terrain",
       "url": "https://baron.by.dai.studio/",
       "hn_url": "https://news.ycombinator.com/item?id=50510296",
-      "points": 102,
-      "comments": 15,
+      "points": 192,
+      "comments": 47,
       "created_ts": 1794774005,
       "author": "ranger_danger"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "hn_url": "https://news.ycombinator.com/item?id=50512441",
+      "points": 191,
+      "comments": 53,
+      "created_ts": 1794788514,
+      "author": "aillia"
     },
     {
       "title": "Preserving 30 years of Salon journalism",
       "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
       "hn_url": "https://news.ycombinator.com/item?id=50511806",
-      "points": 101,
-      "comments": 30,
+      "points": 178,
+      "comments": 48,
       "created_ts": 1794783611,
       "author": "CharlesW"
+    },
+    {
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50516245",
+      "points": 105,
+      "comments": 65,
+      "created_ts": 1794826996,
+      "author": "Michelangelo11"
+    },
+    {
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "hn_url": "https://news.ycombinator.com/item?id=50516473",
+      "points": 101,
+      "comments": 39,
+      "created_ts": 1794829171,
+      "author": "sammatilda"
     }
   ],
   "ph_today": [
     {
-      "title": "Emayler",
-      "url": "https://www.producthunt.com/products/emayler",
+      "title": "Cal.com v7",
+      "url": "https://www.producthunt.com/products/cal",
       "tagline": "",
-      "pub_date": "2026-11-12T15:32:53-08:00"
+      "pub_date": "2026-11-15T06:46:35-08:00"
     },
     {
-      "title": "collecto.rs",
-      "url": "https://www.producthunt.com/products/collecto-rs",
+      "title": "Zoom Slides",
+      "url": "https://www.producthunt.com/products/zoom",
       "tagline": "",
-      "pub_date": "2026-11-07T15:33:53-08:00"
+      "pub_date": "2026-11-05T19:08:24-08:00"
     },
     {
-      "title": "Privacyboard",
-      "url": "https://www.producthunt.com/products/privacyboard",
+      "title": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
       "tagline": "",
-      "pub_date": "2026-11-14T02:31:24-08:00"
+      "pub_date": "2026-11-03T00:33:13-08:00"
     },
     {
-      "title": "Rakazo",
-      "url": "https://www.producthunt.com/products/rakazo",
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
       "tagline": "",
-      "pub_date": "2026-11-13T10:46:58-08:00"
+      "pub_date": "2026-11-15T11:51:59-08:00"
     },
     {
-      "title": "TwoBucket",
-      "url": "https://www.producthunt.com/products/twobucket",
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
       "tagline": "",
-      "pub_date": "2026-11-06T23:14:18-08:00"
+      "pub_date": "2026-11-15T09:59:28-08:00"
     },
     {
-      "title": "Canvas by AgentGrid.io",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "title": "Zode",
+      "url": "https://www.producthunt.com/products/zode",
       "tagline": "",
-      "pub_date": "2026-11-14T22:22:09-08:00"
+      "pub_date": "2026-11-09T06:50:16-08:00"
     },
     {
-      "title": "Talyn",
-      "url": "https://www.producthunt.com/products/talyn",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit",
       "tagline": "",
-      "pub_date": "2026-11-12T02:07:59-08:00"
+      "pub_date": "2026-08-25T07:23:36-07:00"
     },
     {
-      "title": "Tulvo",
-      "url": "https://www.producthunt.com/products/tulvo",
+      "title": "Trusty CSV",
+      "url": "https://www.producthunt.com/products/trusty-csv",
       "tagline": "",
-      "pub_date": "2026-11-07T06:08:39-08:00"
+      "pub_date": "2026-11-15T01:19:42-08:00"
     },
     {
-      "title": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2",
+      "title": "LingoMic",
+      "url": "https://www.producthunt.com/products/lingomic",
       "tagline": "",
-      "pub_date": "2026-11-09T21:18:49-08:00"
+      "pub_date": "2026-11-15T18:10:36-08:00"
     },
     {
-      "title": "Pixel Office",
-      "url": "https://www.producthunt.com/products/pixel-office-3",
+      "title": "Curates",
+      "url": "https://www.producthunt.com/products/curates",
       "tagline": "",
-      "pub_date": "2026-11-12T08:47:12-08:00"
+      "pub_date": "2026-11-11T12:36:29-08:00"
     },
     {
-      "title": "Spiik",
-      "url": "https://www.producthunt.com/products/spiik",
+      "title": "Flamigo",
+      "url": "https://www.producthunt.com/products/flamigo",
       "tagline": "",
-      "pub_date": "2026-11-07T03:57:13-08:00"
+      "pub_date": "2026-11-09T18:54:22-08:00"
     },
     {
-      "title": "Remindly",
-      "url": "https://www.producthunt.com/products/remindly-6",
+      "title": "Newsology",
+      "url": "https://www.producthunt.com/products/newsology",
       "tagline": "",
-      "pub_date": "2026-11-13T15:19:19-08:00"
+      "pub_date": "2026-10-31T23:39:07-07:00"
     },
     {
-      "title": "ByteAsk Cloud Agents",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "title": "AgentWatch",
+      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
       "tagline": "",
-      "pub_date": "2026-11-13T22:54:44-08:00"
+      "pub_date": "2026-11-11T20:57:18-08:00"
     },
     {
-      "title": "Polylane for Security",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Laurence",
+      "url": "https://www.producthunt.com/products/laurence",
       "tagline": "",
-      "pub_date": "2026-11-11T10:55:28-08:00"
+      "pub_date": "2026-11-12T15:52:35-08:00"
     },
     {
-      "title": "Perit Marketplace",
-      "url": "https://www.producthunt.com/products/perit-marketplace",
+      "title": "Intelligent Eyewear",
+      "url": "https://www.producthunt.com/products/sumsung",
       "tagline": "",
-      "pub_date": "2026-11-14T21:04:05-08:00"
+      "pub_date": "2026-11-12T18:23:37-08:00"
     },
     {
-      "title": "HuntMonitor",
-      "url": "https://www.producthunt.com/products/huntmonitor",
+      "title": "Kafkador",
+      "url": "https://www.producthunt.com/products/kafkador",
       "tagline": "",
-      "pub_date": "2026-11-14T09:36:18-08:00"
+      "pub_date": "2026-11-13T13:49:23-08:00"
     },
     {
-      "title": "Restoration Scope",
-      "url": "https://www.producthunt.com/products/restoration-scope",
+      "title": "Centralize",
+      "url": "https://www.producthunt.com/products/centralize",
       "tagline": "",
-      "pub_date": "2026-11-11T06:39:07-08:00"
+      "pub_date": "2026-11-14T13:21:02-08:00"
     },
     {
-      "title": "HiringNow",
-      "url": "https://www.producthunt.com/products/hiringnow",
+      "title": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio",
       "tagline": "",
-      "pub_date": "2026-11-02T02:23:37-08:00"
+      "pub_date": "2026-11-14T16:43:18-08:00"
     },
     {
-      "title": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
       "tagline": "",
-      "pub_date": "2026-11-11T03:40:48-08:00"
+      "pub_date": "2026-11-15T15:41:27-08:00"
     },
     {
-      "title": "Default Tamer",
-      "url": "https://www.producthunt.com/products/default-tamer",
+      "title": "Notebook to Notes",
+      "url": "https://www.producthunt.com/products/notebook-to-notes",
       "tagline": "",
-      "pub_date": "2026-11-12T09:27:40-08:00"
+      "pub_date": "2026-11-15T17:20:51-08:00"
     },
     {
-      "title": "Uber Parking",
-      "url": "https://www.producthunt.com/products/uber",
+      "title": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
       "tagline": "",
-      "pub_date": "2026-11-09T09:07:16-08:00"
+      "pub_date": "2026-11-13T10:06:13-08:00"
     },
     {
-      "title": "Horef Rings",
-      "url": "https://www.producthunt.com/products/horef-rings",
+      "title": "Fluid",
+      "url": "https://www.producthunt.com/products/kugelaudio",
       "tagline": "",
-      "pub_date": "2026-11-07T12:20:27-08:00"
+      "pub_date": "2026-11-13T00:49:47-08:00"
     },
     {
-      "title": "CodeMesh",
-      "url": "https://www.producthunt.com/products/codemesh-2",
+      "title": "Cookie Away",
+      "url": "https://www.producthunt.com/products/cookie-away",
       "tagline": "",
-      "pub_date": "2026-11-13T01:07:28-08:00"
+      "pub_date": "2026-11-09T08:38:00-08:00"
     },
     {
-      "title": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "title": "Pharen Hub",
+      "url": "https://www.producthunt.com/products/pharen-hub",
       "tagline": "",
-      "pub_date": "2026-11-12T12:18:13-08:00"
+      "pub_date": "2026-11-11T01:03:46-08:00"
     },
     {
-      "title": "CaptureFlow",
-      "url": "https://www.producthunt.com/products/captureflow",
+      "title": "ByteVoice",
+      "url": "https://www.producthunt.com/products/bytevoice",
       "tagline": "",
-      "pub_date": "2026-10-15T07:48:28-07:00"
+      "pub_date": "2026-11-15T17:45:10-08:00"
     },
     {
-      "title": "Antelog",
-      "url": "https://www.producthunt.com/products/antelog",
+      "title": "OpenFrame",
+      "url": "https://www.producthunt.com/products/openframe-3",
       "tagline": "",
-      "pub_date": "2026-11-09T21:38:22-08:00"
+      "pub_date": "2026-11-04T10:56:32-08:00"
     },
     {
-      "title": "Blender 5.3",
-      "url": "https://www.producthunt.com/products/blender",
+      "title": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
       "tagline": "",
-      "pub_date": "2026-11-12T21:32:19-08:00"
+      "pub_date": "2026-11-08T22:32:36-08:00"
     },
     {
-      "title": "Businesses in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Punchcutter",
+      "url": "https://www.producthunt.com/products/punchcutter",
       "tagline": "",
-      "pub_date": "2026-11-13T00:53:51-08:00"
+      "pub_date": "2026-11-15T00:59:05-08:00"
     },
     {
-      "title": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
       "tagline": "",
-      "pub_date": "2026-11-13T13:27:29-08:00"
+      "pub_date": "2026-11-15T12:32:35-08:00"
     },
     {
-      "title": "VB Notes",
-      "url": "https://www.producthunt.com/products/vb-notes",
+      "title": "Glifa",
+      "url": "https://www.producthunt.com/products/glifa",
       "tagline": "",
-      "pub_date": "2026-11-05T05:41:38-08:00"
+      "pub_date": "2026-11-15T04:25:03-08:00"
     }
   ]
 }

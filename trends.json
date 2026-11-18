@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-17T15:18:01.737Z",
+  "generated_at": "2026-11-18T00:18:41.957Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "url": "https://github.com/0nelight/sutra-os",
-      "hn_url": "https://news.ycombinator.com/item?id=50525052",
-      "points": 63,
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50532385",
+      "points": 172,
       "comments": 31,
-      "created_ts": 1794871541,
-      "author": "0nelight"
+      "created_ts": 1794928029,
+      "author": "prafandy"
     },
     {
-      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
-      "url": "https://fakemetrics.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50520741",
-      "points": 47,
-      "comments": 21,
-      "created_ts": 1794852484,
-      "author": "tigranbs"
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "hn_url": "https://news.ycombinator.com/item?id=50533270",
+      "points": 41,
+      "comments": 5,
+      "created_ts": 1794931264,
+      "author": "sanchitmonga22"
     },
     {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "url": "https://github.com/aryamandarda/tamserve",
-      "hn_url": "https://news.ycombinator.com/item?id=50523377",
-      "points": 34,
-      "comments": 2,
-      "created_ts": 1794863679,
-      "author": "aryaman_darda"
+      "title": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens",
+      "url": "https://github.com/prapaa-ai/agav",
+      "hn_url": "https://news.ycombinator.com/item?id=50531644",
+      "points": 26,
+      "comments": 8,
+      "created_ts": 1794924790,
+      "author": "GeradeMoleculee"
     },
     {
       "title": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
       "url": "https://wine-assembly.berrry.app/",
       "hn_url": "https://news.ycombinator.com/item?id=50526380",
-      "points": 20,
+      "points": 21,
       "comments": 5,
       "created_ts": 1794880254,
       "author": "vgrichina"
@@ -43,19 +43,19 @@
       "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
       "url": "https://github.com/yocontra/pulsar",
       "hn_url": "https://news.ycombinator.com/item?id=50526967",
-      "points": 19,
-      "comments": 2,
+      "points": 20,
+      "comments": 4,
       "created_ts": 1794885533,
       "author": "contrahax"
     },
     {
-      "title": "Show HN: Birds as Code",
-      "url": "https://erl-j.github.io/fun-zone/birds.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50521287",
-      "points": 16,
-      "comments": 10,
-      "created_ts": 1794854934,
-      "author": "abdljasser2"
+      "title": "Show HN: An open virtual office to cowork with humans while your agents work",
+      "url": "https://flat.social/virtual-office-platform",
+      "hn_url": "https://news.ycombinator.com/item?id=50531481",
+      "points": 13,
+      "comments": 4,
+      "created_ts": 1794924032,
+      "author": "pawelwentpawel"
     },
     {
       "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
@@ -74,130 +74,178 @@
       "comments": 8,
       "created_ts": 1794881533,
       "author": "sadrk"
+    },
+    {
+      "title": "Show HN: SSH into DOS: I wrote an x86 (IBM PC) emulator",
+      "url": "https://www.dialup.net/farcall/",
+      "hn_url": "https://news.ycombinator.com/item?id=50536648",
+      "points": 12,
+      "comments": 2,
+      "created_ts": 1794942853,
+      "author": "keito"
     }
   ],
   "hn_front": [
     {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "hn_url": "https://news.ycombinator.com/item?id=50522980",
-      "points": 1940,
-      "comments": 265,
-      "created_ts": 1794861816,
-      "author": "pcompeau"
-    },
-    {
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50523601",
-      "points": 647,
-      "comments": 293,
-      "created_ts": 1794864737,
-      "author": "lode"
-    },
-    {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "hn_url": "https://news.ycombinator.com/item?id=50524767",
-      "points": 512,
-      "comments": 203,
-      "created_ts": 1794870034,
-      "author": "kristjansson"
-    },
-    {
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
       "hn_url": "https://news.ycombinator.com/item?id=50530163",
-      "points": 509,
-      "comments": 255,
+      "points": 1139,
+      "comments": 566,
       "created_ts": 1794915951,
       "author": "donohoe"
     },
     {
-      "title": "Frame – 31.5\" color ePaper display",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "hn_url": "https://news.ycombinator.com/item?id=50519354",
-      "points": 483,
-      "comments": 339,
-      "created_ts": 1794846202,
-      "author": "geerlingguy"
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "hn_url": "https://news.ycombinator.com/item?id=50535230",
+      "points": 1048,
+      "comments": 656,
+      "created_ts": 1794937603,
+      "author": "jasondavies"
     },
     {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "hn_url": "https://news.ycombinator.com/item?id=50519744",
-      "points": 417,
-      "comments": 88,
-      "created_ts": 1794848019,
-      "author": "burntsushi"
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "hn_url": "https://news.ycombinator.com/item?id=50535238",
+      "points": 613,
+      "comments": 334,
+      "created_ts": 1794937634,
+      "author": "willy_k"
     },
     {
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "hn_url": "https://news.ycombinator.com/item?id=50520182",
-      "points": 305,
-      "comments": 307,
-      "created_ts": 1794850066,
-      "author": "PaulHoule"
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "hn_url": "https://news.ycombinator.com/item?id=50532849",
+      "points": 437,
+      "comments": 519,
+      "created_ts": 1794929908,
+      "author": "monkeydust"
     },
     {
-      "title": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "hn_url": "https://news.ycombinator.com/item?id=50522643",
-      "points": 285,
-      "comments": 123,
-      "created_ts": 1794860538,
-      "author": "sebg"
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538240",
+      "points": 421,
+      "comments": 108,
+      "created_ts": 1794949888,
+      "author": "werrett"
     },
     {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "hn_url": "https://news.ycombinator.com/item?id=50525575",
-      "points": 218,
-      "comments": 75,
-      "created_ts": 1794874584,
-      "author": "mfiguiere"
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "hn_url": "https://news.ycombinator.com/item?id=50534631",
+      "points": 352,
+      "comments": 177,
+      "created_ts": 1794935526,
+      "author": "louiereederson"
     },
     {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "hn_url": "https://news.ycombinator.com/item?id=50523025",
-      "points": 201,
-      "comments": 168,
-      "created_ts": 1794862088,
-      "author": "jaredwiener"
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=50532191",
+      "points": 324,
+      "comments": 113,
+      "created_ts": 1794927223,
+      "author": "Edward40"
     },
     {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
-      "hn_url": "https://news.ycombinator.com/item?id=50526560",
-      "points": 186,
-      "comments": 100,
-      "created_ts": 1794881824,
-      "author": "jshier"
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=50535885",
+      "points": 267,
+      "comments": 125,
+      "created_ts": 1794939913,
+      "author": "lemonish97"
     },
     {
       "title": "How the Claude Code team thinks about verification",
       "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
       "hn_url": "https://news.ycombinator.com/item?id=50529612",
-      "points": 108,
-      "comments": 113,
+      "points": 254,
+      "comments": 198,
       "created_ts": 1794910840,
       "author": "craigmart"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "hn_url": "https://news.ycombinator.com/item?id=50535992",
+      "points": 251,
+      "comments": 25,
+      "created_ts": 1794940285,
+      "author": "notmine1337"
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "hn_url": "https://news.ycombinator.com/item?id=50537156",
+      "points": 231,
+      "comments": 127,
+      "created_ts": 1794945040,
+      "author": "petecooper"
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "hn_url": "https://news.ycombinator.com/item?id=50536813",
+      "points": 226,
+      "comments": 69,
+      "created_ts": 1794943527,
+      "author": "dxs"
+    },
+    {
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "hn_url": "https://news.ycombinator.com/item?id=50536387",
+      "points": 202,
+      "comments": 53,
+      "created_ts": 1794941777,
+      "author": "pier25"
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "hn_url": "https://news.ycombinator.com/item?id=50538994",
+      "points": 183,
+      "comments": 45,
+      "created_ts": 1794953614,
+      "author": "subset"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50532385",
+      "points": 172,
+      "comments": 31,
+      "created_ts": 1794928029,
+      "author": "prafandy"
+    },
+    {
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "hn_url": "https://news.ycombinator.com/item?id=50532118",
+      "points": 141,
+      "comments": 25,
+      "created_ts": 1794926883,
+      "author": "b33f"
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "url": "https://browser.engineering/",
+      "hn_url": "https://news.ycombinator.com/item?id=50537290",
+      "points": 113,
+      "comments": 19,
+      "created_ts": 1794945695,
+      "author": "ibobev"
     }
   ],
   "ph_today": [
     {
-      "title": "Lasso",
-      "url": "https://www.producthunt.com/products/lasso-11",
+      "title": "ExtraDock 5",
+      "url": "https://www.producthunt.com/products/extradock",
       "tagline": "",
-      "pub_date": "2026-11-07T12:23:28-08:00"
-    },
-    {
-      "title": "Creatify Max",
-      "url": "https://www.producthunt.com/products/creatify",
-      "tagline": "",
-      "pub_date": "2026-11-09T10:35:24-08:00"
+      "pub_date": "2026-11-16T10:29:20-08:00"
     },
     {
       "title": "RankSpot",
@@ -206,46 +254,16 @@
       "pub_date": "2026-11-14T02:52:03-08:00"
     },
     {
-      "title": "Superhands",
-      "url": "https://www.producthunt.com/products/stencil-by-superhands",
+      "title": "Creatify Max",
+      "url": "https://www.producthunt.com/products/creatify",
       "tagline": "",
-      "pub_date": "2026-11-16T00:11:08-08:00"
+      "pub_date": "2026-11-09T10:35:24-08:00"
     },
     {
-      "title": "infaiw",
-      "url": "https://www.producthunt.com/products/infaiw",
+      "title": "EkLine",
+      "url": "https://www.producthunt.com/products/ekline",
       "tagline": "",
-      "pub_date": "2026-11-16T10:23:22-08:00"
-    },
-    {
-      "title": "DearInside",
-      "url": "https://www.producthunt.com/products/dearinside",
-      "tagline": "",
-      "pub_date": "2026-11-07T20:15:31-08:00"
-    },
-    {
-      "title": "WispOS",
-      "url": "https://www.producthunt.com/products/wispos",
-      "tagline": "",
-      "pub_date": "2026-11-16T08:56:27-08:00"
-    },
-    {
-      "title": "Continuo",
-      "url": "https://www.producthunt.com/products/continuo-4",
-      "tagline": "",
-      "pub_date": "2026-11-05T19:15:01-08:00"
-    },
-    {
-      "title": "GlissTouch",
-      "url": "https://www.producthunt.com/products/glisstouch",
-      "tagline": "",
-      "pub_date": "2026-11-16T01:43:23-08:00"
-    },
-    {
-      "title": "AWS Emulator",
-      "url": "https://www.producthunt.com/products/aws",
-      "tagline": "",
-      "pub_date": "2026-11-16T11:56:50-08:00"
+      "pub_date": "2026-11-04T13:32:44-08:00"
     },
     {
       "title": "Pinecall",
@@ -254,10 +272,10 @@
       "pub_date": "2026-11-16T02:54:15-08:00"
     },
     {
-      "title": "Hako",
-      "url": "https://www.producthunt.com/products/hako",
+      "title": "superlog",
+      "url": "https://www.producthunt.com/products/superlog",
       "tagline": "",
-      "pub_date": "2026-11-04T17:01:17-08:00"
+      "pub_date": "2026-11-15T09:20:53-08:00"
     },
     {
       "title": "VINC",
@@ -266,34 +284,10 @@
       "pub_date": "2026-11-16T06:15:05-08:00"
     },
     {
-      "title": "superlog",
-      "url": "https://www.producthunt.com/products/superlog",
-      "tagline": "",
-      "pub_date": "2026-11-15T09:20:53-08:00"
-    },
-    {
-      "title": "Trellus",
-      "url": "https://www.producthunt.com/products/trellus",
-      "tagline": "",
-      "pub_date": "2026-11-03T08:19:13-08:00"
-    },
-    {
       "title": "ROOTKey Platform",
       "url": "https://www.producthunt.com/products/rootkey-platform",
       "tagline": "",
       "pub_date": "2026-11-04T07:10:13-08:00"
-    },
-    {
-      "title": "Agents API by Recall.ai",
-      "url": "https://www.producthunt.com/products/recall-ai",
-      "tagline": "",
-      "pub_date": "2026-11-16T16:38:25-08:00"
-    },
-    {
-      "title": "ExtraDock 5",
-      "url": "https://www.producthunt.com/products/extradock",
-      "tagline": "",
-      "pub_date": "2026-11-16T10:29:20-08:00"
     },
     {
       "title": "Trading Agents",
@@ -302,16 +296,100 @@
       "pub_date": "2026-09-22T10:09:52-07:00"
     },
     {
+      "title": "Liquid d1.2",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "tagline": "",
+      "pub_date": "2026-11-16T08:59:43-08:00"
+    },
+    {
+      "title": "WispOS",
+      "url": "https://www.producthunt.com/products/wispos",
+      "tagline": "",
+      "pub_date": "2026-11-16T08:56:27-08:00"
+    },
+    {
+      "title": "DearInside",
+      "url": "https://www.producthunt.com/products/dearinside",
+      "tagline": "",
+      "pub_date": "2026-11-07T20:15:31-08:00"
+    },
+    {
       "title": "OnlineCompiler.io",
       "url": "https://www.producthunt.com/products/onlinecompiler-io",
       "tagline": "",
       "pub_date": "2026-11-09T21:37:19-08:00"
     },
     {
+      "title": "AWS Emulator",
+      "url": "https://www.producthunt.com/products/aws",
+      "tagline": "",
+      "pub_date": "2026-11-16T11:56:50-08:00"
+    },
+    {
       "title": "GatherHQ Agent Research",
       "url": "https://www.producthunt.com/products/gatherhq-agent-research",
       "tagline": "",
       "pub_date": "2026-11-16T19:18:14-08:00"
+    },
+    {
+      "title": "Continuo",
+      "url": "https://www.producthunt.com/products/continuo-4",
+      "tagline": "",
+      "pub_date": "2026-11-05T19:15:01-08:00"
+    },
+    {
+      "title": "BASE Studio",
+      "url": "https://www.producthunt.com/products/base-studio",
+      "tagline": "",
+      "pub_date": "2026-11-16T06:16:03-08:00"
+    },
+    {
+      "title": "Hako",
+      "url": "https://www.producthunt.com/products/hako",
+      "tagline": "",
+      "pub_date": "2026-11-04T17:01:17-08:00"
+    },
+    {
+      "title": "infaiw",
+      "url": "https://www.producthunt.com/products/infaiw",
+      "tagline": "",
+      "pub_date": "2026-11-16T10:23:22-08:00"
+    },
+    {
+      "title": "Retriever",
+      "url": "https://www.producthunt.com/products/retriever-4",
+      "tagline": "",
+      "pub_date": "2026-11-16T21:04:07-08:00"
+    },
+    {
+      "title": "Lasso",
+      "url": "https://www.producthunt.com/products/lasso-11",
+      "tagline": "",
+      "pub_date": "2026-11-07T12:23:28-08:00"
+    },
+    {
+      "title": "Inbox Hero",
+      "url": "https://www.producthunt.com/products/inbox-hero-2",
+      "tagline": "",
+      "pub_date": "2026-11-14T09:42:02-08:00"
+    },
+    {
+      "title": "GlissTouch",
+      "url": "https://www.producthunt.com/products/glisstouch",
+      "tagline": "",
+      "pub_date": "2026-11-16T01:43:23-08:00"
+    },
+    {
+      "title": "AI Visibility by TruLata",
+      "url": "https://www.producthunt.com/products/trulata",
+      "tagline": "",
+      "pub_date": "2026-10-29T06:53:43-07:00"
+    },
+    {
+      "title": "Clamor",
+      "url": "https://www.producthunt.com/products/clamor-2",
+      "tagline": "",
+      "pub_date": "2026-11-16T11:37:32-08:00"
     },
     {
       "title": "Glass Page",
@@ -326,46 +404,22 @@
       "pub_date": "2026-11-04T18:07:47-08:00"
     },
     {
-      "title": "Retriever",
-      "url": "https://www.producthunt.com/products/retriever-4",
-      "tagline": "",
-      "pub_date": "2026-11-16T21:04:07-08:00"
-    },
-    {
       "title": "TheBold",
       "url": "https://www.producthunt.com/products/thebold",
       "tagline": "",
       "pub_date": "2026-09-21T06:33:19-07:00"
     },
     {
-      "title": "Clamor",
-      "url": "https://www.producthunt.com/products/clamor-2",
+      "title": "Trellus",
+      "url": "https://www.producthunt.com/products/trellus",
       "tagline": "",
-      "pub_date": "2026-11-16T11:37:32-08:00"
+      "pub_date": "2026-11-03T08:19:13-08:00"
     },
     {
-      "title": "EkLine",
-      "url": "https://www.producthunt.com/products/ekline",
+      "title": "Link.bio",
+      "url": "https://www.producthunt.com/products/link-bio",
       "tagline": "",
-      "pub_date": "2026-11-04T13:32:44-08:00"
-    },
-    {
-      "title": "Inbox Hero",
-      "url": "https://www.producthunt.com/products/inbox-hero-2",
-      "tagline": "",
-      "pub_date": "2026-11-14T09:42:02-08:00"
-    },
-    {
-      "title": "AI Visibility by TruLata",
-      "url": "https://www.producthunt.com/products/trulata",
-      "tagline": "",
-      "pub_date": "2026-10-29T06:53:43-07:00"
-    },
-    {
-      "title": "Ballet",
-      "url": "https://www.producthunt.com/products/ballet",
-      "tagline": "",
-      "pub_date": "2026-11-16T11:55:26-08:00"
+      "pub_date": "2026-11-09T11:37:56-08:00"
     }
   ]
 }

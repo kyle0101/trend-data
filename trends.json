@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:31:32.445Z",
+  "generated_at": "2026-11-21T05:00:52.799Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,10 +7,19 @@
       "title": "Show HN: OpenComputer – an open source alternative to Devin",
       "url": "https://github.com/diggerhq/opencomputer",
       "hn_url": "https://news.ycombinator.com/item?id=50581403",
-      "points": 42,
-      "comments": 14,
+      "points": 82,
+      "comments": 23,
       "created_ts": 1795205996,
       "author": "iacguy"
+    },
+    {
+      "title": "Show HN: Drive around my village in 3D",
+      "url": "https://cherwellvalleymotorclub.app",
+      "hn_url": "https://news.ycombinator.com/item?id=50574412",
+      "points": 11,
+      "comments": 13,
+      "created_ts": 1795181562,
+      "author": "johnwards"
     }
   ],
   "hn_front": [
@@ -18,8 +27,8 @@
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=50574968",
-      "points": 2255,
-      "comments": 1536,
+      "points": 2466,
+      "comments": 1663,
       "created_ts": 1795184181,
       "author": "iamronaldo"
     },
@@ -27,98 +36,71 @@
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "hn_url": "https://news.ycombinator.com/item?id=50579568",
-      "points": 1310,
-      "comments": 599,
+      "points": 1774,
+      "comments": 791,
       "created_ts": 1795199594,
       "author": "jasondavies"
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "hn_url": "https://news.ycombinator.com/item?id=50572503",
-      "points": 604,
-      "comments": 316,
-      "created_ts": 1795168901,
-      "author": "shioyama"
-    },
-    {
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "hn_url": "https://news.ycombinator.com/item?id=50572355",
-      "points": 596,
-      "comments": 284,
-      "created_ts": 1795167799,
-      "author": "sammatilda"
     },
     {
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "hn_url": "https://news.ycombinator.com/item?id=50581260",
-      "points": 519,
-      "comments": 83,
+      "points": 829,
+      "comments": 143,
       "created_ts": 1795205539,
       "author": "jasondavies"
     },
     {
-      "title": "Signal Is Serious About Protecting Your Privacy",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "hn_url": "https://news.ycombinator.com/item?id=50572348",
-      "points": 471,
-      "comments": 290,
+      "points": 533,
+      "comments": 311,
       "created_ts": 1795167736,
       "author": "dotcoma"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "hn_url": "https://news.ycombinator.com/item?id=50577265",
-      "points": 313,
-      "comments": 103,
-      "created_ts": 1795192146,
-      "author": "lwhsiao"
     },
     {
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "hn_url": "https://news.ycombinator.com/item?id=50578358",
-      "points": 289,
-      "comments": 109,
+      "points": 384,
+      "comments": 154,
       "created_ts": 1795195296,
       "author": "archon1410"
     },
     {
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "hn_url": "https://news.ycombinator.com/item?id=50576232",
-      "points": 240,
-      "comments": 77,
-      "created_ts": 1795188871,
-      "author": "trotro"
-    },
-    {
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "hn_url": "https://news.ycombinator.com/item?id=50577901",
-      "points": 239,
-      "comments": 175,
-      "created_ts": 1795193967,
-      "author": "cdrnsf"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "hn_url": "https://news.ycombinator.com/item?id=50577265",
+      "points": 367,
+      "comments": 115,
+      "created_ts": 1795192146,
+      "author": "lwhsiao"
     },
     {
       "title": "We promoted developers into architects without informing them",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
       "hn_url": "https://news.ycombinator.com/item?id=50579331",
-      "points": 238,
-      "comments": 154,
+      "points": 346,
+      "comments": 210,
       "created_ts": 1795198671,
       "author": "QueensGambit"
     },
     {
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "hn_url": "https://news.ycombinator.com/item?id=50576232",
+      "points": 269,
+      "comments": 86,
+      "created_ts": 1795188871,
+      "author": "trotro"
+    },
+    {
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
       "hn_url": "https://news.ycombinator.com/item?id=50581438",
-      "points": 178,
-      "comments": 78,
+      "points": 266,
+      "comments": 140,
       "created_ts": 1795206161,
       "author": "ftchd"
     },
@@ -126,30 +108,105 @@
       "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
       "url": "https://scottaaronson.blog/?p=10344",
       "hn_url": "https://news.ycombinator.com/item?id=50581084",
-      "points": 172,
-      "comments": 139,
+      "points": 250,
+      "comments": 226,
       "created_ts": 1795204987,
       "author": "stratos123"
+    },
+    {
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "hn_url": "https://news.ycombinator.com/item?id=50583982",
+      "points": 183,
+      "comments": 176,
+      "created_ts": 1795218164,
+      "author": "_dain_"
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50583274",
+      "points": 180,
+      "comments": 43,
+      "created_ts": 1795213847,
+      "author": "CharlesW"
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "hn_url": "https://news.ycombinator.com/item?id=50581110",
+      "points": 151,
+      "comments": 29,
+      "created_ts": 1795205039,
+      "author": "facundo_olano"
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "hn_url": "https://news.ycombinator.com/item?id=50579297",
+      "points": 128,
+      "comments": 49,
+      "created_ts": 1795198516,
+      "author": "ankitvgupta"
+    },
+    {
+      "title": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "hn_url": "https://news.ycombinator.com/item?id=50581177",
+      "points": 120,
+      "comments": 61,
+      "created_ts": 1795205275,
+      "author": "notfried"
+    },
+    {
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "hn_url": "https://news.ycombinator.com/item?id=50580536",
+      "points": 117,
+      "comments": 36,
+      "created_ts": 1795203016,
+      "author": "sohzm"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "hn_url": "https://news.ycombinator.com/item?id=50577613",
+      "points": 105,
+      "comments": 149,
+      "created_ts": 1795193125,
+      "author": "proberts"
     }
   ],
   "ph_today": [
     {
-      "title": "tinytldr",
-      "url": "https://www.producthunt.com/products/tinytldr",
+      "title": "Same Moon",
+      "url": "https://www.producthunt.com/products/same-moon",
       "tagline": "",
-      "pub_date": "2026-11-10T23:15:57-08:00"
+      "pub_date": "2026-11-16T03:04:38-08:00"
+    },
+    {
+      "title": "InteraOne",
+      "url": "https://www.producthunt.com/products/interaone",
+      "tagline": "",
+      "pub_date": "2026-11-18T22:13:43-08:00"
+    },
+    {
+      "title": "Groundwork",
+      "url": "https://www.producthunt.com/products/groundwork-6",
+      "tagline": "",
+      "pub_date": "2026-11-18T09:21:39-08:00"
+    },
+    {
+      "title": "tripps",
+      "url": "https://www.producthunt.com/products/tripps",
+      "tagline": "",
+      "pub_date": "2026-11-17T11:25:40-08:00"
     },
     {
       "title": "pickfit",
       "url": "https://www.producthunt.com/products/pickfit",
       "tagline": "",
       "pub_date": "2026-11-17T21:38:56-08:00"
-    },
-    {
-      "title": "Cup of Sugar",
-      "url": "https://www.producthunt.com/products/cup-of-sugar-2",
-      "tagline": "",
-      "pub_date": "2026-11-15T01:17:50-08:00"
     },
     {
       "title": "DWaste",
@@ -164,10 +221,22 @@
       "pub_date": "2026-11-19T00:29:12-08:00"
     },
     {
+      "title": "tensorViz",
+      "url": "https://www.producthunt.com/products/tensorviz",
+      "tagline": "",
+      "pub_date": "2026-11-12T13:35:14-08:00"
+    },
+    {
       "title": "Direct by Instagram",
       "url": "https://www.producthunt.com/products/instagram",
       "tagline": "",
       "pub_date": "2026-11-18T21:57:27-08:00"
+    },
+    {
+      "title": "Currents",
+      "url": "https://www.producthunt.com/products/currents-4",
+      "tagline": "",
+      "pub_date": "2026-11-19T06:02:31-08:00"
     },
     {
       "title": "Volcano",
@@ -176,22 +245,16 @@
       "pub_date": "2026-11-18T22:11:24-08:00"
     },
     {
+      "title": "Compass OS",
+      "url": "https://www.producthunt.com/products/compassos-dev",
+      "tagline": "",
+      "pub_date": "2026-10-28T22:46:11-07:00"
+    },
+    {
       "title": "Scam Link Check",
       "url": "https://www.producthunt.com/products/scam-link-check",
       "tagline": "",
       "pub_date": "2026-11-13T05:32:14-08:00"
-    },
-    {
-      "title": "Tamekoshi",
-      "url": "https://www.producthunt.com/products/tamekoshi",
-      "tagline": "",
-      "pub_date": "2026-11-19T03:38:06-08:00"
-    },
-    {
-      "title": "Andromon",
-      "url": "https://www.producthunt.com/products/andromon",
-      "tagline": "",
-      "pub_date": "2026-11-19T04:20:09-08:00"
     },
     {
       "title": "Fack’d",
@@ -200,106 +263,10 @@
       "pub_date": "2026-11-19T18:06:25-08:00"
     },
     {
-      "title": "Interview Coach",
-      "url": "https://www.producthunt.com/products/interview-coach-3",
+      "title": "FFMPA Kids News",
+      "url": "https://www.producthunt.com/products/ffmpa-kids-news",
       "tagline": "",
-      "pub_date": "2026-11-19T19:48:51-08:00"
-    },
-    {
-      "title": "Lumyna Community Challenge",
-      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
-      "tagline": "",
-      "pub_date": "2026-11-19T20:55:57-08:00"
-    },
-    {
-      "title": "Mailpipe",
-      "url": "https://www.producthunt.com/products/mailpipe-2",
-      "tagline": "",
-      "pub_date": "2026-11-19T20:13:55-08:00"
-    },
-    {
-      "title": "NetSieve",
-      "url": "https://www.producthunt.com/products/netsieve",
-      "tagline": "",
-      "pub_date": "2026-11-19T07:32:15-08:00"
-    },
-    {
-      "title": "Nova by Vybe",
-      "url": "https://www.producthunt.com/products/vybe-4",
-      "tagline": "",
-      "pub_date": "2026-11-19T11:54:06-08:00"
-    },
-    {
-      "title": "Rox",
-      "url": "https://www.producthunt.com/products/rox-2",
-      "tagline": "",
-      "pub_date": "2026-11-19T04:00:00-08:00"
-    },
-    {
-      "title": "Samiksa",
-      "url": "https://www.producthunt.com/products/samiksa",
-      "tagline": "",
-      "pub_date": "2026-11-19T20:22:09-08:00"
-    },
-    {
-      "title": "ThreadLore",
-      "url": "https://www.producthunt.com/products/threadlore",
-      "tagline": "",
-      "pub_date": "2026-11-19T18:03:00-08:00"
-    },
-    {
-      "title": "UndoGuard",
-      "url": "https://www.producthunt.com/products/undoguard",
-      "tagline": "",
-      "pub_date": "2026-11-19T11:15:42-08:00"
-    },
-    {
-      "title": "Veryfi Thinking Mode",
-      "url": "https://www.producthunt.com/products/veryfi",
-      "tagline": "",
-      "pub_date": "2026-11-19T13:30:01-08:00"
-    },
-    {
-      "title": "Badya",
-      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
-      "tagline": "",
-      "pub_date": "2026-11-12T00:29:05-08:00"
-    },
-    {
-      "title": "tripps",
-      "url": "https://www.producthunt.com/products/tripps",
-      "tagline": "",
-      "pub_date": "2026-11-17T11:25:40-08:00"
-    },
-    {
-      "title": "Memanto Cloud",
-      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
-      "tagline": "",
-      "pub_date": "2026-11-10T10:16:20-08:00"
-    },
-    {
-      "title": "tensorViz",
-      "url": "https://www.producthunt.com/products/tensorviz",
-      "tagline": "",
-      "pub_date": "2026-11-12T13:35:14-08:00"
-    },
-    {
-      "title": "aiteam.space",
-      "url": "https://www.producthunt.com/products/aiteam-space",
-      "tagline": "",
-      "pub_date": "2026-11-10T14:14:37-08:00"
-    },
-    {
-      "title": "Compass OS",
-      "url": "https://www.producthunt.com/products/compassos-dev",
-      "tagline": "",
-      "pub_date": "2026-10-28T22:46:11-07:00"
-    },
-    {
-      "title": "Same Moon",
-      "url": "https://www.producthunt.com/products/same-moon",
-      "tagline": "",
-      "pub_date": "2026-11-16T03:04:38-08:00"
+      "pub_date": "2026-11-12T21:03:20-08:00"
     },
     {
       "title": "Storiara",
@@ -308,10 +275,88 @@
       "pub_date": "2026-11-17T12:02:24-08:00"
     },
     {
-      "title": "Kuc-kuc",
-      "url": "https://www.producthunt.com/products/kuc-kuc",
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
       "tagline": "",
-      "pub_date": "2026-11-13T12:20:29-08:00"
+      "pub_date": "2026-11-19T20:13:55-08:00"
+    },
+    {
+      "title": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+      "tagline": "",
+      "pub_date": "2026-11-19T20:55:57-08:00"
+    },
+    {
+      "title": "aiteam.space",
+      "url": "https://www.producthunt.com/products/aiteam-space",
+      "tagline": "",
+      "pub_date": "2026-11-10T14:14:37-08:00"
+    },
+    {
+      "title": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
+      "tagline": "",
+      "pub_date": "2026-11-19T20:22:09-08:00"
+    },
+    {
+      "title": "Interview Coach",
+      "url": "https://www.producthunt.com/products/interview-coach-3",
+      "tagline": "",
+      "pub_date": "2026-11-19T19:48:51-08:00"
+    },
+    {
+      "title": "Rox",
+      "url": "https://www.producthunt.com/products/rox-2",
+      "tagline": "",
+      "pub_date": "2026-11-19T04:00:00-08:00"
+    },
+    {
+      "title": "Andromon",
+      "url": "https://www.producthunt.com/products/andromon",
+      "tagline": "",
+      "pub_date": "2026-11-19T04:20:09-08:00"
+    },
+    {
+      "title": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
+      "tagline": "",
+      "pub_date": "2026-11-19T11:15:42-08:00"
+    },
+    {
+      "title": "Nova by Vybe",
+      "url": "https://www.producthunt.com/products/vybe-4",
+      "tagline": "",
+      "pub_date": "2026-11-19T11:54:06-08:00"
+    },
+    {
+      "title": "Memanto Cloud",
+      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
+      "tagline": "",
+      "pub_date": "2026-11-10T10:16:20-08:00"
+    },
+    {
+      "title": "Tamekoshi",
+      "url": "https://www.producthunt.com/products/tamekoshi",
+      "tagline": "",
+      "pub_date": "2026-11-19T03:38:06-08:00"
+    },
+    {
+      "title": "Salus",
+      "url": "https://www.producthunt.com/products/salus",
+      "tagline": "",
+      "pub_date": "2026-11-16T16:35:53-08:00"
+    },
+    {
+      "title": "NetSieve",
+      "url": "https://www.producthunt.com/products/netsieve",
+      "tagline": "",
+      "pub_date": "2026-11-19T07:32:15-08:00"
+    },
+    {
+      "title": "Zethos",
+      "url": "https://www.producthunt.com/products/zethos",
+      "tagline": "",
+      "pub_date": "2026-11-18T16:53:37-08:00"
     }
   ]
 }

@@ -1,134 +1,116 @@
 {
-  "generated_at": "2026-11-22T13:51:31.730Z",
+  "generated_at": "2026-11-22T23:02:17.809Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50590279",
-      "points": 163,
-      "comments": 113,
-      "created_ts": 1795275549,
-      "author": "reverseblade2"
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "hn_url": "https://news.ycombinator.com/item?id=50599762",
+      "points": 253,
+      "comments": 59,
+      "created_ts": 1795355818,
+      "author": "ivantgam"
     },
     {
       "title": "Show HN: The Riemann Proof Handbook",
       "url": "https://github.com/tamnd/riemann-handbook",
       "hn_url": "https://news.ycombinator.com/item?id=50596664",
-      "points": 71,
-      "comments": 42,
+      "points": 82,
+      "comments": 58,
       "created_ts": 1795326390,
       "author": "tamnd"
-    },
-    {
-      "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
-      "url": "https://github.com/natsu0529/agent-mcts",
-      "hn_url": "https://news.ycombinator.com/item?id=50589235",
-      "points": 15,
-      "comments": 0,
-      "created_ts": 1795269188,
-      "author": "natsu529"
     }
   ],
   "hn_front": [
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "hn_url": "https://news.ycombinator.com/item?id=50589618",
-      "points": 1098,
-      "comments": 916,
-      "created_ts": 1795271805,
-      "author": "g-b-r"
-    },
-    {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "hn_url": "https://news.ycombinator.com/item?id=50596133",
-      "points": 715,
-      "comments": 439,
+      "points": 1155,
+      "comments": 663,
       "created_ts": 1795320296,
       "author": "zdw"
-    },
-    {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "hn_url": "https://news.ycombinator.com/item?id=50591853",
-      "points": 496,
-      "comments": 124,
-      "created_ts": 1795284139,
-      "author": "k__"
-    },
-    {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50594911",
-      "points": 349,
-      "comments": 123,
-      "created_ts": 1795306079,
-      "author": "subdomain"
     },
     {
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "hn_url": "https://news.ycombinator.com/item?id=50597612",
-      "points": 274,
-      "comments": 368,
+      "points": 831,
+      "comments": 853,
       "created_ts": 1795337854,
       "author": "happosai"
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "hn_url": "https://news.ycombinator.com/item?id=50593737",
-      "points": 201,
-      "comments": 91,
-      "created_ts": 1795295873,
-      "author": "raphlinus"
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50594911",
+      "points": 556,
+      "comments": 195,
+      "created_ts": 1795306079,
+      "author": "subdomain"
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "hn_url": "https://news.ycombinator.com/item?id=50595554",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "hn_url": "https://news.ycombinator.com/item?id=50601525",
+      "points": 426,
+      "comments": 292,
+      "created_ts": 1795367187,
+      "author": "acossta"
+    },
+    {
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "hn_url": "https://news.ycombinator.com/item?id=50602947",
+      "points": 294,
+      "comments": 150,
+      "created_ts": 1795375215,
+      "author": "greenyouse"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "hn_url": "https://news.ycombinator.com/item?id=50602843",
+      "points": 256,
+      "comments": 97,
+      "created_ts": 1795374634,
+      "author": "gaws"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "hn_url": "https://news.ycombinator.com/item?id=50599762",
+      "points": 253,
+      "comments": 59,
+      "created_ts": 1795355818,
+      "author": "ivantgam"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=50600511",
       "points": 200,
-      "comments": 70,
-      "created_ts": 1795313654,
-      "author": "sdko"
+      "comments": 200,
+      "created_ts": 1795361072,
+      "author": "doener"
     },
     {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "url": "https://pwn.ai/upload2shell",
-      "hn_url": "https://news.ycombinator.com/item?id=50592097",
-      "points": 133,
-      "comments": 64,
-      "created_ts": 1795285769,
-      "author": "f311a"
-    },
-    {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "hn_url": "https://news.ycombinator.com/item?id=50594132",
-      "points": 130,
-      "comments": 19,
-      "created_ts": 1795298998,
-      "author": "sebaandrada"
-    },
-    {
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "hn_url": "https://news.ycombinator.com/item?id=50593481",
-      "points": 113,
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "hn_url": "https://news.ycombinator.com/item?id=50600622",
+      "points": 112,
       "comments": 29,
-      "created_ts": 1795294061,
-      "author": "vasie"
+      "created_ts": 1795361724,
+      "author": "fortran77"
     }
   ],
   "ph_today": [
     {
-      "title": "Ulika",
-      "url": "https://www.producthunt.com/products/ulika",
+      "title": "TeaserKit",
+      "url": "https://www.producthunt.com/products/teaserkit",
       "tagline": "",
-      "pub_date": "2026-11-17T11:23:36-08:00"
+      "pub_date": "2026-11-19T07:08:42-08:00"
     },
     {
       "title": "Resurf",
@@ -137,16 +119,58 @@
       "pub_date": "2026-11-21T08:21:36-08:00"
     },
     {
-      "title": "Omi CLI",
-      "url": "https://www.producthunt.com/products/omi-cli",
+      "title": "Copy Haste",
+      "url": "https://www.producthunt.com/products/copy-haste",
       "tagline": "",
-      "pub_date": "2026-11-21T00:05:31-08:00"
+      "pub_date": "2026-11-15T09:16:10-08:00"
+    },
+    {
+      "title": "Daymaker",
+      "url": "https://www.producthunt.com/products/daymaker",
+      "tagline": "",
+      "pub_date": "2026-10-19T11:41:04-07:00"
+    },
+    {
+      "title": "Leapdeck",
+      "url": "https://www.producthunt.com/products/leapdeck",
+      "tagline": "",
+      "pub_date": "2026-11-16T05:09:26-08:00"
+    },
+    {
+      "title": "DeNotch",
+      "url": "https://www.producthunt.com/products/denotch",
+      "tagline": "",
+      "pub_date": "2026-11-18T23:57:34-08:00"
+    },
+    {
+      "title": "Yoroll",
+      "url": "https://www.producthunt.com/products/yoroll",
+      "tagline": "",
+      "pub_date": "2026-11-05T19:24:04-08:00"
     },
     {
       "title": "Creavit Studio 4.0",
       "url": "https://www.producthunt.com/products/creavit-studio",
       "tagline": "",
       "pub_date": "2026-11-20T13:11:32-08:00"
+    },
+    {
+      "title": "Ulika",
+      "url": "https://www.producthunt.com/products/ulika",
+      "tagline": "",
+      "pub_date": "2026-11-17T11:23:36-08:00"
+    },
+    {
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "tagline": "",
+      "pub_date": "2026-11-21T12:02:03-08:00"
+    },
+    {
+      "title": "MeshLive",
+      "url": "https://www.producthunt.com/products/meshlive",
+      "tagline": "",
+      "pub_date": "2026-11-17T05:49:46-08:00"
     },
     {
       "title": "Pushback",
@@ -161,10 +185,16 @@
       "pub_date": "2026-11-19T18:04:14-08:00"
     },
     {
-      "title": "MeshLive",
-      "url": "https://www.producthunt.com/products/meshlive",
+      "title": "Slotify",
+      "url": "https://www.producthunt.com/products/slotify-2",
       "tagline": "",
-      "pub_date": "2026-11-17T05:49:46-08:00"
+      "pub_date": "2026-11-09T05:55:35-08:00"
+    },
+    {
+      "title": "Webless Agents",
+      "url": "https://www.producthunt.com/products/webless",
+      "tagline": "",
+      "pub_date": "2026-11-06T18:49:47-08:00"
     },
     {
       "title": "Wispim",
@@ -179,64 +209,34 @@
       "pub_date": "2026-11-19T02:33:05-08:00"
     },
     {
-      "title": "Webless Agents",
-      "url": "https://www.producthunt.com/products/webless",
+      "title": "Omi CLI",
+      "url": "https://www.producthunt.com/products/omi-cli",
       "tagline": "",
-      "pub_date": "2026-11-06T18:49:47-08:00"
-    },
-    {
-      "title": "TeaserKit",
-      "url": "https://www.producthunt.com/products/teaserkit",
-      "tagline": "",
-      "pub_date": "2026-11-19T07:08:42-08:00"
-    },
-    {
-      "title": "Daymaker",
-      "url": "https://www.producthunt.com/products/daymaker",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:41:04-07:00"
-    },
-    {
-      "title": "oovi",
-      "url": "https://www.producthunt.com/products/oovi",
-      "tagline": "",
-      "pub_date": "2026-11-21T12:02:03-08:00"
-    },
-    {
-      "title": "Yoroll",
-      "url": "https://www.producthunt.com/products/yoroll",
-      "tagline": "",
-      "pub_date": "2026-11-05T19:24:04-08:00"
-    },
-    {
-      "title": "Leapdeck",
-      "url": "https://www.producthunt.com/products/leapdeck",
-      "tagline": "",
-      "pub_date": "2026-11-16T05:09:26-08:00"
-    },
-    {
-      "title": "Slotify",
-      "url": "https://www.producthunt.com/products/slotify-2",
-      "tagline": "",
-      "pub_date": "2026-11-09T05:55:35-08:00"
-    },
-    {
-      "title": "DeNotch",
-      "url": "https://www.producthunt.com/products/denotch",
-      "tagline": "",
-      "pub_date": "2026-11-18T23:57:34-08:00"
-    },
-    {
-      "title": "Copy Haste",
-      "url": "https://www.producthunt.com/products/copy-haste",
-      "tagline": "",
-      "pub_date": "2026-11-15T09:16:10-08:00"
+      "pub_date": "2026-11-21T00:05:31-08:00"
     },
     {
       "title": "Squint",
       "url": "https://www.producthunt.com/products/squint",
       "tagline": "",
       "pub_date": "2026-11-10T13:43:34-08:00"
+    },
+    {
+      "title": "Rankhog",
+      "url": "https://www.producthunt.com/products/rankhog",
+      "tagline": "",
+      "pub_date": "2026-11-19T04:43:48-08:00"
+    },
+    {
+      "title": "Verge: Corner Controls",
+      "url": "https://www.producthunt.com/products/verge-corner-controls",
+      "tagline": "",
+      "pub_date": "2026-11-21T04:26:00-08:00"
+    },
+    {
+      "title": "Zapyso",
+      "url": "https://www.producthunt.com/products/zapyso",
+      "tagline": "",
+      "pub_date": "2026-11-17T01:59:16-08:00"
     },
     {
       "title": "30yr-uptime",
@@ -251,22 +251,22 @@
       "pub_date": "2026-11-17T14:58:38-08:00"
     },
     {
-      "title": "Zapyso",
-      "url": "https://www.producthunt.com/products/zapyso",
+      "title": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
       "tagline": "",
-      "pub_date": "2026-11-17T01:59:16-08:00"
+      "pub_date": "2026-11-20T11:38:38-08:00"
     },
     {
-      "title": "Verge: Corner Controls",
-      "url": "https://www.producthunt.com/products/verge-corner-controls",
+      "title": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
       "tagline": "",
-      "pub_date": "2026-11-21T04:26:00-08:00"
+      "pub_date": "2026-11-09T06:46:21-08:00"
     },
     {
-      "title": "Rankhog",
-      "url": "https://www.producthunt.com/products/rankhog",
+      "title": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
       "tagline": "",
-      "pub_date": "2026-11-19T04:43:48-08:00"
+      "pub_date": "2026-11-14T07:57:43-08:00"
     },
     {
       "title": "Prompt Puncher",
@@ -275,34 +275,16 @@
       "pub_date": "2026-11-17T10:29:56-08:00"
     },
     {
-      "title": "Codemany",
-      "url": "https://www.producthunt.com/products/codemany",
+      "title": "Shipyard",
+      "url": "https://www.producthunt.com/products/shipyard",
       "tagline": "",
-      "pub_date": "2026-11-14T12:12:52-08:00"
+      "pub_date": "2026-11-16T10:21:35-08:00"
     },
     {
-      "title": "Smorza",
-      "url": "https://www.producthunt.com/products/smorza",
+      "title": "Publicit",
+      "url": "https://www.producthunt.com/products/publicit",
       "tagline": "",
-      "pub_date": "2026-11-20T11:28:10-08:00"
-    },
-    {
-      "title": "LoudFlow",
-      "url": "https://www.producthunt.com/products/loudflow",
-      "tagline": "",
-      "pub_date": "2026-11-06T12:01:47-08:00"
-    },
-    {
-      "title": "Hollr",
-      "url": "https://www.producthunt.com/products/hollr-3",
-      "tagline": "",
-      "pub_date": "2026-11-17T04:22:18-08:00"
-    },
-    {
-      "title": "gitroots",
-      "url": "https://www.producthunt.com/products/gitroots",
-      "tagline": "",
-      "pub_date": "2026-11-20T05:22:16-08:00"
+      "pub_date": "2026-11-18T07:19:01-08:00"
     }
   ]
 }

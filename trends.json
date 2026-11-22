@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:38:52.034Z",
+  "generated_at": "2026-11-22T04:25:28.000Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50590279",
-      "points": 110,
-      "comments": 84,
+      "points": 142,
+      "comments": 102,
       "created_ts": 1795275549,
       "author": "reverseblade2"
     },
@@ -16,10 +16,19 @@
       "title": "Show HN: I made a PS1 style racing game",
       "url": "https://outpostracer.com",
       "hn_url": "https://news.ycombinator.com/item?id=50589184",
-      "points": 18,
-      "comments": 7,
+      "points": 25,
+      "comments": 23,
       "created_ts": 1795268865,
       "author": "shash7"
+    },
+    {
+      "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+      "url": "https://github.com/natsu0529/agent-mcts",
+      "hn_url": "https://news.ycombinator.com/item?id=50589235",
+      "points": 14,
+      "comments": 0,
+      "created_ts": 1795269188,
+      "author": "natsu529"
     }
   ],
   "hn_front": [
@@ -27,26 +36,17 @@
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "hn_url": "https://news.ycombinator.com/item?id=50589618",
-      "points": 707,
-      "comments": 557,
+      "points": 903,
+      "comments": 764,
       "created_ts": 1795271805,
       "author": "g-b-r"
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "hn_url": "https://news.ycombinator.com/item?id=50583761",
-      "points": 575,
-      "comments": 630,
-      "created_ts": 1795216712,
-      "author": "LetThingsBeDiff"
     },
     {
       "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "hn_url": "https://news.ycombinator.com/item?id=50588982",
-      "points": 462,
-      "comments": 307,
+      "points": 566,
+      "comments": 369,
       "created_ts": 1795267394,
       "author": "beginning_end"
     },
@@ -54,8 +54,8 @@
       "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "hn_url": "https://news.ycombinator.com/item?id=50587875",
-      "points": 418,
-      "comments": 213,
+      "points": 532,
+      "comments": 256,
       "created_ts": 1795257392,
       "author": "soheilpro"
     },
@@ -63,8 +63,8 @@
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "hn_url": "https://news.ycombinator.com/item?id=50591853",
-      "points": 288,
-      "comments": 62,
+      "points": 395,
+      "comments": 99,
       "created_ts": 1795284139,
       "author": "k__"
     },
@@ -72,8 +72,8 @@
       "title": "RCE in Gnupg",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "hn_url": "https://news.ycombinator.com/item?id=50587208",
-      "points": 212,
-      "comments": 86,
+      "points": 245,
+      "comments": 98,
       "created_ts": 1795249978,
       "author": "gdgghhhhh"
     },
@@ -81,30 +81,45 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50590279",
-      "points": 110,
-      "comments": 84,
+      "points": 142,
+      "comments": 102,
       "created_ts": 1795275549,
       "author": "reverseblade2"
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "hn_url": "https://news.ycombinator.com/item?id=50591260",
+      "points": 129,
+      "comments": 23,
+      "created_ts": 1795280884,
+      "author": "valyala"
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "hn_url": "https://news.ycombinator.com/item?id=50593737",
+      "points": 114,
+      "comments": 25,
+      "created_ts": 1795295873,
+      "author": "raphlinus"
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "hn_url": "https://news.ycombinator.com/item?id=50590441",
+      "points": 106,
+      "comments": 37,
+      "created_ts": 1795276474,
+      "author": "Bluestein"
     }
   ],
   "ph_today": [
     {
-      "title": "Glassmail",
-      "url": "https://www.producthunt.com/products/glassmail",
+      "title": "Hollr",
+      "url": "https://www.producthunt.com/products/hollr-3",
       "tagline": "",
-      "pub_date": "2026-11-14T07:57:43-08:00"
-    },
-    {
-      "title": "SuperMailbox",
-      "url": "https://www.producthunt.com/products/supermailbox",
-      "tagline": "",
-      "pub_date": "2026-11-14T03:45:31-08:00"
-    },
-    {
-      "title": "AI Context Flow MCP",
-      "url": "https://www.producthunt.com/products/ai-context-flow",
-      "tagline": "",
-      "pub_date": "2026-11-09T06:46:21-08:00"
+      "pub_date": "2026-11-17T04:22:18-08:00"
     },
     {
       "title": "AlterContacts",
@@ -119,82 +134,10 @@
       "pub_date": "2026-11-16T10:21:35-08:00"
     },
     {
-      "title": "Exa Websets V2",
-      "url": "https://www.producthunt.com/products/exa-ai",
-      "tagline": "",
-      "pub_date": "2026-11-18T09:15:13-08:00"
-    },
-    {
       "title": "Beat Watcher",
       "url": "https://www.producthunt.com/products/beat-watcher",
       "tagline": "",
       "pub_date": "2026-11-14T18:56:43-08:00"
-    },
-    {
-      "title": "Publicit",
-      "url": "https://www.producthunt.com/products/publicit",
-      "tagline": "",
-      "pub_date": "2026-11-18T07:19:01-08:00"
-    },
-    {
-      "title": "gitroots",
-      "url": "https://www.producthunt.com/products/gitroots",
-      "tagline": "",
-      "pub_date": "2026-11-20T05:22:16-08:00"
-    },
-    {
-      "title": "WaitFeed",
-      "url": "https://www.producthunt.com/products/waitfeed-2",
-      "tagline": "",
-      "pub_date": "2026-11-20T12:01:06-08:00"
-    },
-    {
-      "title": "Hollr",
-      "url": "https://www.producthunt.com/products/hollr-3",
-      "tagline": "",
-      "pub_date": "2026-11-17T04:22:18-08:00"
-    },
-    {
-      "title": "Codemany",
-      "url": "https://www.producthunt.com/products/codemany",
-      "tagline": "",
-      "pub_date": "2026-11-14T12:12:52-08:00"
-    },
-    {
-      "title": "Smorza",
-      "url": "https://www.producthunt.com/products/smorza",
-      "tagline": "",
-      "pub_date": "2026-11-20T11:28:10-08:00"
-    },
-    {
-      "title": "Backspin",
-      "url": "https://www.producthunt.com/products/backspin",
-      "tagline": "",
-      "pub_date": "2026-11-18T18:52:10-08:00"
-    },
-    {
-      "title": "Doddle",
-      "url": "https://www.producthunt.com/products/doddle-3",
-      "tagline": "",
-      "pub_date": "2026-11-18T19:30:17-08:00"
-    },
-    {
-      "title": "Stitch Loop",
-      "url": "https://www.producthunt.com/products/stitch-loop",
-      "tagline": "",
-      "pub_date": "2026-11-20T11:38:38-08:00"
-    },
-    {
-      "title": "LoudFlow",
-      "url": "https://www.producthunt.com/products/loudflow",
-      "tagline": "",
-      "pub_date": "2026-11-06T12:01:47-08:00"
-    },
-    {
-      "title": "AnyProfile",
-      "url": "https://www.producthunt.com/products/anyprofile",
-      "tagline": "",
-      "pub_date": "2026-11-14T06:46:05-08:00"
     },
     {
       "title": "OpenVorld",
@@ -203,10 +146,94 @@
       "pub_date": "2026-11-16T11:15:46-08:00"
     },
     {
+      "title": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
+      "tagline": "",
+      "pub_date": "2026-11-14T07:57:43-08:00"
+    },
+    {
+      "title": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
+      "tagline": "",
+      "pub_date": "2026-11-09T06:46:21-08:00"
+    },
+    {
+      "title": "WaitFeed",
+      "url": "https://www.producthunt.com/products/waitfeed-2",
+      "tagline": "",
+      "pub_date": "2026-11-20T12:01:06-08:00"
+    },
+    {
+      "title": "gitroots",
+      "url": "https://www.producthunt.com/products/gitroots",
+      "tagline": "",
+      "pub_date": "2026-11-20T05:22:16-08:00"
+    },
+    {
+      "title": "AnyProfile",
+      "url": "https://www.producthunt.com/products/anyprofile",
+      "tagline": "",
+      "pub_date": "2026-11-14T06:46:05-08:00"
+    },
+    {
+      "title": "Publicit",
+      "url": "https://www.producthunt.com/products/publicit",
+      "tagline": "",
+      "pub_date": "2026-11-18T07:19:01-08:00"
+    },
+    {
+      "title": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "tagline": "",
+      "pub_date": "2026-11-20T11:38:38-08:00"
+    },
+    {
+      "title": "Exa Websets V2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "tagline": "",
+      "pub_date": "2026-11-18T09:15:13-08:00"
+    },
+    {
+      "title": "Doddle",
+      "url": "https://www.producthunt.com/products/doddle-3",
+      "tagline": "",
+      "pub_date": "2026-11-18T19:30:17-08:00"
+    },
+    {
       "title": "Prompt Puncher",
       "url": "https://www.producthunt.com/products/prompt-puncher",
       "tagline": "",
       "pub_date": "2026-11-17T10:29:56-08:00"
+    },
+    {
+      "title": "Codemany",
+      "url": "https://www.producthunt.com/products/codemany",
+      "tagline": "",
+      "pub_date": "2026-11-14T12:12:52-08:00"
+    },
+    {
+      "title": "Backspin",
+      "url": "https://www.producthunt.com/products/backspin",
+      "tagline": "",
+      "pub_date": "2026-11-18T18:52:10-08:00"
+    },
+    {
+      "title": "LoudFlow",
+      "url": "https://www.producthunt.com/products/loudflow",
+      "tagline": "",
+      "pub_date": "2026-11-06T12:01:47-08:00"
+    },
+    {
+      "title": "SuperMailbox",
+      "url": "https://www.producthunt.com/products/supermailbox",
+      "tagline": "",
+      "pub_date": "2026-11-14T03:45:31-08:00"
+    },
+    {
+      "title": "Smorza",
+      "url": "https://www.producthunt.com/products/smorza",
+      "tagline": "",
+      "pub_date": "2026-11-20T11:28:10-08:00"
     },
     {
       "title": "CROON",
@@ -215,40 +242,10 @@
       "pub_date": "2026-11-18T03:51:36-08:00"
     },
     {
-      "title": "Badya",
-      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
+      "title": "tensorViz",
+      "url": "https://www.producthunt.com/products/tensorviz",
       "tagline": "",
-      "pub_date": "2026-11-12T00:29:05-08:00"
-    },
-    {
-      "title": "Stormi",
-      "url": "https://www.producthunt.com/products/stormi",
-      "tagline": "",
-      "pub_date": "2026-11-19T04:24:03-08:00"
-    },
-    {
-      "title": "tinytldr",
-      "url": "https://www.producthunt.com/products/tinytldr",
-      "tagline": "",
-      "pub_date": "2026-11-10T23:15:57-08:00"
-    },
-    {
-      "title": "Baby's Day In",
-      "url": "https://www.producthunt.com/products/baby-s-day-in",
-      "tagline": "",
-      "pub_date": "2026-11-19T00:50:55-08:00"
-    },
-    {
-      "title": "InteraOne",
-      "url": "https://www.producthunt.com/products/interaone",
-      "tagline": "",
-      "pub_date": "2026-11-18T22:13:43-08:00"
-    },
-    {
-      "title": "pickfit",
-      "url": "https://www.producthunt.com/products/pickfit",
-      "tagline": "",
-      "pub_date": "2026-11-17T21:38:56-08:00"
+      "pub_date": "2026-11-12T13:35:14-08:00"
     },
     {
       "title": "Tamekoshi",
@@ -257,16 +254,46 @@
       "pub_date": "2026-11-19T03:38:06-08:00"
     },
     {
-      "title": "Nova by Vybe",
-      "url": "https://www.producthunt.com/products/vybe-4",
+      "title": "Direct by Instagram",
+      "url": "https://www.producthunt.com/products/instagram",
       "tagline": "",
-      "pub_date": "2026-11-19T11:54:06-08:00"
+      "pub_date": "2026-11-18T21:57:27-08:00"
     },
     {
-      "title": "ThreadLore",
-      "url": "https://www.producthunt.com/products/threadlore",
+      "title": "Volcano",
+      "url": "https://www.producthunt.com/products/volcano-3",
       "tagline": "",
-      "pub_date": "2026-11-19T18:03:00-08:00"
+      "pub_date": "2026-11-18T22:11:24-08:00"
+    },
+    {
+      "title": "Scam Link Check",
+      "url": "https://www.producthunt.com/products/scam-link-check",
+      "tagline": "",
+      "pub_date": "2026-11-13T05:32:14-08:00"
+    },
+    {
+      "title": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
+      "tagline": "",
+      "pub_date": "2026-11-19T20:22:09-08:00"
+    },
+    {
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "tagline": "",
+      "pub_date": "2026-11-19T20:13:55-08:00"
+    },
+    {
+      "title": "aiteam.space",
+      "url": "https://www.producthunt.com/products/aiteam-space",
+      "tagline": "",
+      "pub_date": "2026-11-10T14:14:37-08:00"
+    },
+    {
+      "title": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+      "tagline": "",
+      "pub_date": "2026-11-19T20:55:57-08:00"
     }
   ]
 }

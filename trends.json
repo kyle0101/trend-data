@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:02:17.809Z",
+  "generated_at": "2026-11-23T05:01:08.652Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
-      "points": 253,
-      "comments": 59,
+      "points": 291,
+      "comments": 69,
       "created_ts": 1795355818,
       "author": "ivantgam"
     },
@@ -16,7 +16,7 @@
       "title": "Show HN: The Riemann Proof Handbook",
       "url": "https://github.com/tamnd/riemann-handbook",
       "hn_url": "https://news.ycombinator.com/item?id=50596664",
-      "points": 82,
+      "points": 86,
       "comments": 58,
       "created_ts": 1795326390,
       "author": "tamnd"
@@ -24,38 +24,11 @@
   ],
   "hn_front": [
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "hn_url": "https://news.ycombinator.com/item?id=50596133",
-      "points": 1155,
-      "comments": 663,
-      "created_ts": 1795320296,
-      "author": "zdw"
-    },
-    {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "hn_url": "https://news.ycombinator.com/item?id=50597612",
-      "points": 831,
-      "comments": 853,
-      "created_ts": 1795337854,
-      "author": "happosai"
-    },
-    {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50594911",
-      "points": 556,
-      "comments": 195,
-      "created_ts": 1795306079,
-      "author": "subdomain"
-    },
-    {
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence/",
       "hn_url": "https://news.ycombinator.com/item?id=50601525",
-      "points": 426,
-      "comments": 292,
+      "points": 528,
+      "comments": 361,
       "created_ts": 1795367187,
       "author": "acossta"
     },
@@ -63,8 +36,8 @@
       "title": "What Happened to Silicon Valley?",
       "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
       "hn_url": "https://news.ycombinator.com/item?id=50602947",
-      "points": 294,
-      "comments": 150,
+      "points": 523,
+      "comments": 290,
       "created_ts": 1795375215,
       "author": "greenyouse"
     },
@@ -72,129 +45,117 @@
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "hn_url": "https://news.ycombinator.com/item?id=50602843",
-      "points": 256,
-      "comments": 97,
+      "points": 411,
+      "comments": 204,
       "created_ts": 1795374634,
       "author": "gaws"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "hn_url": "https://news.ycombinator.com/item?id=50603845",
+      "points": 348,
+      "comments": 143,
+      "created_ts": 1795381276,
+      "author": "Retell15"
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
       "hn_url": "https://news.ycombinator.com/item?id=50599762",
-      "points": 253,
-      "comments": 59,
+      "points": 291,
+      "comments": 69,
       "created_ts": 1795355818,
       "author": "ivantgam"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "hn_url": "https://news.ycombinator.com/item?id=50606192",
+      "points": 257,
+      "comments": 43,
+      "created_ts": 1795396431,
+      "author": "SockThief"
     },
     {
       "title": "Open Social Web Alliance",
       "url": "https://osw-alliance.net/en/",
       "hn_url": "https://news.ycombinator.com/item?id=50600511",
-      "points": 200,
-      "comments": 200,
+      "points": 233,
+      "comments": 223,
       "created_ts": 1795361072,
       "author": "doener"
+    },
+    {
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50603589",
+      "points": 199,
+      "comments": 81,
+      "created_ts": 1795379603,
+      "author": "dutilh"
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "hn_url": "https://news.ycombinator.com/item?id=50605045",
+      "points": 187,
+      "comments": 152,
+      "created_ts": 1795389130,
+      "author": "Qision"
     },
     {
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
       "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
       "hn_url": "https://news.ycombinator.com/item?id=50600622",
-      "points": 112,
-      "comments": 29,
+      "points": 138,
+      "comments": 47,
       "created_ts": 1795361724,
       "author": "fortran77"
+    },
+    {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "hn_url": "https://news.ycombinator.com/item?id=50604988",
+      "points": 135,
+      "comments": 65,
+      "created_ts": 1795388797,
+      "author": "gregsadetsky"
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=50603465",
+      "points": 116,
+      "comments": 14,
+      "created_ts": 1795378559,
+      "author": "o_-_o"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "hn_url": "https://news.ycombinator.com/item?id=50598441",
+      "points": 115,
+      "comments": 50,
+      "created_ts": 1795345196,
+      "author": "xiaoyu2006"
+    },
+    {
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "hn_url": "https://news.ycombinator.com/item?id=50603143",
+      "points": 109,
+      "comments": 56,
+      "created_ts": 1795376490,
+      "author": "dshacker"
     }
   ],
   "ph_today": [
-    {
-      "title": "TeaserKit",
-      "url": "https://www.producthunt.com/products/teaserkit",
-      "tagline": "",
-      "pub_date": "2026-11-19T07:08:42-08:00"
-    },
     {
       "title": "Resurf",
       "url": "https://www.producthunt.com/products/resurf-2",
       "tagline": "",
       "pub_date": "2026-11-21T08:21:36-08:00"
-    },
-    {
-      "title": "Copy Haste",
-      "url": "https://www.producthunt.com/products/copy-haste",
-      "tagline": "",
-      "pub_date": "2026-11-15T09:16:10-08:00"
-    },
-    {
-      "title": "Daymaker",
-      "url": "https://www.producthunt.com/products/daymaker",
-      "tagline": "",
-      "pub_date": "2026-10-19T11:41:04-07:00"
-    },
-    {
-      "title": "Leapdeck",
-      "url": "https://www.producthunt.com/products/leapdeck",
-      "tagline": "",
-      "pub_date": "2026-11-16T05:09:26-08:00"
-    },
-    {
-      "title": "DeNotch",
-      "url": "https://www.producthunt.com/products/denotch",
-      "tagline": "",
-      "pub_date": "2026-11-18T23:57:34-08:00"
-    },
-    {
-      "title": "Yoroll",
-      "url": "https://www.producthunt.com/products/yoroll",
-      "tagline": "",
-      "pub_date": "2026-11-05T19:24:04-08:00"
-    },
-    {
-      "title": "Creavit Studio 4.0",
-      "url": "https://www.producthunt.com/products/creavit-studio",
-      "tagline": "",
-      "pub_date": "2026-11-20T13:11:32-08:00"
-    },
-    {
-      "title": "Ulika",
-      "url": "https://www.producthunt.com/products/ulika",
-      "tagline": "",
-      "pub_date": "2026-11-17T11:23:36-08:00"
-    },
-    {
-      "title": "oovi",
-      "url": "https://www.producthunt.com/products/oovi",
-      "tagline": "",
-      "pub_date": "2026-11-21T12:02:03-08:00"
-    },
-    {
-      "title": "MeshLive",
-      "url": "https://www.producthunt.com/products/meshlive",
-      "tagline": "",
-      "pub_date": "2026-11-17T05:49:46-08:00"
-    },
-    {
-      "title": "Pushback",
-      "url": "https://www.producthunt.com/products/pushback-flight-tracker",
-      "tagline": "",
-      "pub_date": "2026-11-19T15:48:07-08:00"
-    },
-    {
-      "title": "Mockreel",
-      "url": "https://www.producthunt.com/products/mockreel",
-      "tagline": "",
-      "pub_date": "2026-11-19T18:04:14-08:00"
-    },
-    {
-      "title": "Slotify",
-      "url": "https://www.producthunt.com/products/slotify-2",
-      "tagline": "",
-      "pub_date": "2026-11-09T05:55:35-08:00"
-    },
-    {
-      "title": "Webless Agents",
-      "url": "https://www.producthunt.com/products/webless",
-      "tagline": "",
-      "pub_date": "2026-11-06T18:49:47-08:00"
     },
     {
       "title": "Wispim",
@@ -203,10 +164,40 @@
       "pub_date": "2026-11-05T08:46:59-08:00"
     },
     {
+      "title": "Creavit Studio 4.0",
+      "url": "https://www.producthunt.com/products/creavit-studio",
+      "tagline": "",
+      "pub_date": "2026-11-20T13:11:32-08:00"
+    },
+    {
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "tagline": "",
+      "pub_date": "2026-11-21T12:02:03-08:00"
+    },
+    {
+      "title": "DeNotch",
+      "url": "https://www.producthunt.com/products/denotch",
+      "tagline": "",
+      "pub_date": "2026-11-18T23:57:34-08:00"
+    },
+    {
       "title": "Raccoon Kids",
       "url": "https://www.producthunt.com/products/raccoon-kids",
       "tagline": "",
       "pub_date": "2026-11-19T02:33:05-08:00"
+    },
+    {
+      "title": "MeshLive",
+      "url": "https://www.producthunt.com/products/meshlive",
+      "tagline": "",
+      "pub_date": "2026-11-17T05:49:46-08:00"
+    },
+    {
+      "title": "Mockreel",
+      "url": "https://www.producthunt.com/products/mockreel",
+      "tagline": "",
+      "pub_date": "2026-11-19T18:04:14-08:00"
     },
     {
       "title": "Omi CLI",
@@ -215,10 +206,64 @@
       "pub_date": "2026-11-21T00:05:31-08:00"
     },
     {
+      "title": "Ulika",
+      "url": "https://www.producthunt.com/products/ulika",
+      "tagline": "",
+      "pub_date": "2026-11-17T11:23:36-08:00"
+    },
+    {
+      "title": "Copy Haste",
+      "url": "https://www.producthunt.com/products/copy-haste",
+      "tagline": "",
+      "pub_date": "2026-11-15T09:16:10-08:00"
+    },
+    {
+      "title": "TeaserKit",
+      "url": "https://www.producthunt.com/products/teaserkit",
+      "tagline": "",
+      "pub_date": "2026-11-19T07:08:42-08:00"
+    },
+    {
+      "title": "Yoroll",
+      "url": "https://www.producthunt.com/products/yoroll",
+      "tagline": "",
+      "pub_date": "2026-11-05T19:24:04-08:00"
+    },
+    {
+      "title": "Daymaker",
+      "url": "https://www.producthunt.com/products/daymaker",
+      "tagline": "",
+      "pub_date": "2026-10-19T11:41:04-07:00"
+    },
+    {
+      "title": "Pushback",
+      "url": "https://www.producthunt.com/products/pushback-flight-tracker",
+      "tagline": "",
+      "pub_date": "2026-11-19T15:48:07-08:00"
+    },
+    {
+      "title": "Webless Agents",
+      "url": "https://www.producthunt.com/products/webless",
+      "tagline": "",
+      "pub_date": "2026-11-06T18:49:47-08:00"
+    },
+    {
+      "title": "Slotify",
+      "url": "https://www.producthunt.com/products/slotify-2",
+      "tagline": "",
+      "pub_date": "2026-11-09T05:55:35-08:00"
+    },
+    {
       "title": "Squint",
       "url": "https://www.producthunt.com/products/squint",
       "tagline": "",
       "pub_date": "2026-11-10T13:43:34-08:00"
+    },
+    {
+      "title": "Leapdeck",
+      "url": "https://www.producthunt.com/products/leapdeck",
+      "tagline": "",
+      "pub_date": "2026-11-16T05:09:26-08:00"
     },
     {
       "title": "Rankhog",
@@ -227,22 +272,16 @@
       "pub_date": "2026-11-19T04:43:48-08:00"
     },
     {
-      "title": "Verge: Corner Controls",
-      "url": "https://www.producthunt.com/products/verge-corner-controls",
-      "tagline": "",
-      "pub_date": "2026-11-21T04:26:00-08:00"
-    },
-    {
       "title": "Zapyso",
       "url": "https://www.producthunt.com/products/zapyso",
       "tagline": "",
       "pub_date": "2026-11-17T01:59:16-08:00"
     },
     {
-      "title": "30yr-uptime",
-      "url": "https://www.producthunt.com/products/30yr-uptime",
+      "title": "Verge: Corner Controls",
+      "url": "https://www.producthunt.com/products/verge-corner-controls",
       "tagline": "",
-      "pub_date": "2026-11-20T02:55:49-08:00"
+      "pub_date": "2026-11-21T04:26:00-08:00"
     },
     {
       "title": "Do It For Them Wallpaper Maker",
@@ -251,10 +290,16 @@
       "pub_date": "2026-11-17T14:58:38-08:00"
     },
     {
-      "title": "Stitch Loop",
-      "url": "https://www.producthunt.com/products/stitch-loop",
+      "title": "30yr-uptime",
+      "url": "https://www.producthunt.com/products/30yr-uptime",
       "tagline": "",
-      "pub_date": "2026-11-20T11:38:38-08:00"
+      "pub_date": "2026-11-20T02:55:49-08:00"
+    },
+    {
+      "title": "SuperMailbox",
+      "url": "https://www.producthunt.com/products/supermailbox",
+      "tagline": "",
+      "pub_date": "2026-11-14T03:45:31-08:00"
     },
     {
       "title": "AI Context Flow MCP",
@@ -263,28 +308,28 @@
       "pub_date": "2026-11-09T06:46:21-08:00"
     },
     {
-      "title": "Glassmail",
-      "url": "https://www.producthunt.com/products/glassmail",
+      "title": "Backspin",
+      "url": "https://www.producthunt.com/products/backspin",
       "tagline": "",
-      "pub_date": "2026-11-14T07:57:43-08:00"
+      "pub_date": "2026-11-18T18:52:10-08:00"
     },
     {
-      "title": "Prompt Puncher",
-      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "title": "Exa Websets V2",
+      "url": "https://www.producthunt.com/products/exa-ai",
       "tagline": "",
-      "pub_date": "2026-11-17T10:29:56-08:00"
+      "pub_date": "2026-11-18T09:15:13-08:00"
     },
     {
-      "title": "Shipyard",
-      "url": "https://www.producthunt.com/products/shipyard",
+      "title": "Smorza",
+      "url": "https://www.producthunt.com/products/smorza",
       "tagline": "",
-      "pub_date": "2026-11-16T10:21:35-08:00"
+      "pub_date": "2026-11-20T11:28:10-08:00"
     },
     {
-      "title": "Publicit",
-      "url": "https://www.producthunt.com/products/publicit",
+      "title": "LoudFlow",
+      "url": "https://www.producthunt.com/products/loudflow",
       "tagline": "",
-      "pub_date": "2026-11-18T07:19:01-08:00"
+      "pub_date": "2026-11-06T12:01:47-08:00"
     }
   ]
 }

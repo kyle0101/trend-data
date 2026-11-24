@@ -1,133 +1,79 @@
 {
-  "generated_at": "2026-11-24T03:40:16.347Z",
+  "generated_at": "2026-11-24T16:47:06.665Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
-      "url": "https://hermitcrm.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=50609708",
-      "points": 42,
-      "comments": 4,
-      "created_ts": 1795428542,
-      "author": "gijsbos"
+      "title": "Show HN: Ant – A scripting language with goroutines and static types",
+      "url": "https://ant-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50624596",
+      "points": 15,
+      "comments": 5,
+      "created_ts": 1795502940,
+      "author": "medv"
     },
     {
-      "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-      "url": "https://github.com/ruairidhflint/news-blocklist",
-      "hn_url": "https://news.ycombinator.com/item?id=50611026",
-      "points": 20,
-      "comments": 11,
-      "created_ts": 1795438972,
-      "author": "mrroryflint"
+      "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
+      "url": "https://firevoice.fabwaseem.com",
+      "hn_url": "https://news.ycombinator.com/item?id=50623038",
+      "points": 14,
+      "comments": 3,
+      "created_ts": 1795489100,
+      "author": "fabwaseem"
+    },
+    {
+      "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+      "url": "https://github.com/GenesisAgentInfra/genesis",
+      "hn_url": "https://news.ycombinator.com/item?id=50623965",
+      "points": 12,
+      "comments": 0,
+      "created_ts": 1795496681,
+      "author": "willlzl"
     }
   ],
   "hn_front": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50611576",
-      "points": 2238,
-      "comments": 3263,
-      "created_ts": 1795442418,
-      "author": "jaz"
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "hn_url": "https://news.ycombinator.com/item?id=50624497",
+      "points": 712,
+      "comments": 264,
+      "created_ts": 1795501833,
+      "author": "setheron"
     },
     {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "hn_url": "https://news.ycombinator.com/item?id=50614249",
-      "points": 1550,
-      "comments": 364,
-      "created_ts": 1795450392,
-      "author": "janvdberg"
-    },
-    {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "hn_url": "https://news.ycombinator.com/item?id=50615308",
-      "points": 1299,
-      "comments": 719,
-      "created_ts": 1795453646,
-      "author": "MrBuddyCasino"
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "hn_url": "https://news.ycombinator.com/item?id=50609685",
-      "points": 1080,
-      "comments": 350,
-      "created_ts": 1795428403,
-      "author": "foohis"
-    },
-    {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "url": "https://arm.jonpalmisc.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50617499",
-      "points": 905,
-      "comments": 209,
-      "created_ts": 1795461475,
-      "author": "tech234a"
-    },
-    {
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "hn_url": "https://news.ycombinator.com/item?id=50615481",
-      "points": 372,
-      "comments": 278,
-      "created_ts": 1795454221,
-      "author": "rdmuser"
-    },
-    {
-      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-      "url": "https://github.com/os6/nospeaker",
-      "hn_url": "https://news.ycombinator.com/item?id=50610318",
-      "points": 291,
-      "comments": 165,
-      "created_ts": 1795433514,
-      "author": "yakkomajuri"
-    },
-    {
-      "title": "VP ≠ VNP over Every Field",
-      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-      "hn_url": "https://news.ycombinator.com/item?id=50620102",
-      "points": 279,
-      "comments": 234,
-      "created_ts": 1795471750,
-      "author": "mikeryan52"
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "hn_url": "https://news.ycombinator.com/item?id=50622774",
+      "points": 661,
+      "comments": 305,
+      "created_ts": 1795487222,
+      "author": "DeepLogin"
     },
     {
       "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "hn_url": "https://news.ycombinator.com/item?id=50620349",
-      "points": 266,
-      "comments": 136,
+      "points": 627,
+      "comments": 317,
       "created_ts": 1795473149,
       "author": "shaunpud"
     },
     {
-      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
-      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-      "hn_url": "https://news.ycombinator.com/item?id=50620822",
-      "points": 262,
-      "comments": 194,
-      "created_ts": 1795475498,
-      "author": "ortusdux"
-    },
-    {
-      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "url": "https://github.com/mikuta0407/win4wine",
-      "hn_url": "https://news.ycombinator.com/item?id=50610743",
-      "points": 222,
-      "comments": 116,
-      "created_ts": 1795436891,
-      "author": "hard_times"
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "hn_url": "https://news.ycombinator.com/item?id=50627340",
+      "points": 564,
+      "comments": 237,
+      "created_ts": 1795524015,
+      "author": "surprisetalk"
     },
     {
       "title": "GPUI is getting its own repository",
       "url": "https://github.com/zed-industries/gpui",
       "hn_url": "https://news.ycombinator.com/item?id=50619103",
-      "points": 165,
-      "comments": 57,
+      "points": 353,
+      "comments": 127,
       "created_ts": 1795467174,
       "author": "EvilGoose"
     },
@@ -135,201 +81,246 @@
       "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
       "url": "https://www.bored.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50619207",
-      "points": 144,
-      "comments": 33,
+      "points": 310,
+      "comments": 65,
       "created_ts": 1795467676,
       "author": "susam"
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "hn_url": "https://news.ycombinator.com/item?id=50611402",
-      "points": 136,
-      "comments": 29,
-      "created_ts": 1795441358,
-      "author": "toebee"
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "hn_url": "https://news.ycombinator.com/item?id=50626861",
+      "points": 251,
+      "comments": 129,
+      "created_ts": 1795521065,
+      "author": "hubraumhugo"
+    },
+    {
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "hn_url": "https://news.ycombinator.com/item?id=50622638",
+      "points": 229,
+      "comments": 356,
+      "created_ts": 1795486089,
+      "author": "smuhakg"
+    },
+    {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "hn_url": "https://news.ycombinator.com/item?id=50624061",
+      "points": 186,
+      "comments": 96,
+      "created_ts": 1795497322,
+      "author": "zdw"
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "hn_url": "https://news.ycombinator.com/item?id=50625384",
+      "points": 170,
+      "comments": 65,
+      "created_ts": 1795509194,
+      "author": "farrokhi"
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "hn_url": "https://news.ycombinator.com/item?id=50626413",
+      "points": 154,
+      "comments": 23,
+      "created_ts": 1795517414,
+      "author": "kqr"
+    },
+    {
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50623515",
+      "points": 150,
+      "comments": 57,
+      "created_ts": 1795492828,
+      "author": "uptrails"
     }
   ],
   "ph_today": [
     {
-      "title": "Replit Missions",
-      "url": "https://www.producthunt.com/products/replit",
+      "title": "Astrolabio",
+      "url": "https://www.producthunt.com/products/astrolabio",
       "tagline": "",
-      "pub_date": "2026-11-22T09:13:25-08:00"
+      "pub_date": "2026-11-23T05:39:26-08:00"
     },
     {
-      "title": "Spikely",
-      "url": "https://www.producthunt.com/products/spikely",
+      "title": "tday.com",
+      "url": "https://www.producthunt.com/products/tday",
       "tagline": "",
-      "pub_date": "2026-11-21T02:04:50-08:00"
+      "pub_date": "2026-11-23T13:22:27-08:00"
     },
     {
-      "title": "Snowly",
-      "url": "https://www.producthunt.com/products/snowly-2",
+      "title": "Context",
+      "url": "https://www.producthunt.com/products/context-13",
       "tagline": "",
-      "pub_date": "2026-11-17T18:11:19-08:00"
+      "pub_date": "2026-11-10T15:16:49-08:00"
     },
     {
-      "title": "Branchery",
-      "url": "https://www.producthunt.com/products/branchery",
+      "title": "Tendor",
+      "url": "https://www.producthunt.com/products/tendor",
       "tagline": "",
-      "pub_date": "2026-11-22T13:29:23-08:00"
+      "pub_date": "2026-11-19T23:02:20-08:00"
     },
     {
-      "title": "Inkling 2 Mini",
-      "url": "https://www.producthunt.com/products/tinker-2",
+      "title": "Mystonie",
+      "url": "https://www.producthunt.com/products/mystonie",
       "tagline": "",
-      "pub_date": "2026-11-22T19:37:24-08:00"
+      "pub_date": "2026-11-23T18:57:54-08:00"
     },
     {
-      "title": "Tesla Self-Driving V15",
-      "url": "https://www.producthunt.com/products/tesla",
+      "title": "Ohhai",
+      "url": "https://www.producthunt.com/products/ohhai",
       "tagline": "",
-      "pub_date": "2026-11-21T18:23:40-08:00"
+      "pub_date": "2026-11-18T10:05:36-08:00"
     },
     {
-      "title": "Kopyo",
-      "url": "https://www.producthunt.com/products/kopyo",
+      "title": "Finer Screenshot",
+      "url": "https://www.producthunt.com/products/finer-screenshot",
       "tagline": "",
-      "pub_date": "2026-11-22T07:35:04-08:00"
+      "pub_date": "2026-11-23T20:45:20-08:00"
     },
     {
-      "title": "Hydrilla",
-      "url": "https://www.producthunt.com/products/hydrilla",
+      "title": "Prates",
+      "url": "https://www.producthunt.com/products/prates",
       "tagline": "",
-      "pub_date": "2026-03-12T09:31:13-07:00"
+      "pub_date": "2026-11-21T06:13:49-08:00"
     },
     {
-      "title": "MAI Image 2.7",
-      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "title": "SparrowDesk Phone Calls",
+      "url": "https://www.producthunt.com/products/sparrowdesk",
       "tagline": "",
-      "pub_date": "2026-11-17T10:42:27-08:00"
+      "pub_date": "2026-11-22T23:07:05-08:00"
     },
     {
-      "title": "Gauth Personal Study Agent",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "title": "Granular.Build",
+      "url": "https://www.producthunt.com/products/granular-build",
       "tagline": "",
-      "pub_date": "2026-11-20T09:12:34-08:00"
+      "pub_date": "2026-11-18T10:51:22-08:00"
     },
     {
-      "title": "Omi Work",
-      "url": "https://www.producthunt.com/products/omi-work",
+      "title": "Juncts",
+      "url": "https://www.producthunt.com/products/juncts",
       "tagline": "",
-      "pub_date": "2026-11-22T00:35:25-08:00"
+      "pub_date": "2026-11-23T19:08:21-08:00"
     },
     {
-      "title": "Chat with Work",
-      "url": "https://www.producthunt.com/products/chat-with-work",
+      "title": "K-Stra",
+      "url": "https://www.producthunt.com/products/k-stra",
       "tagline": "",
-      "pub_date": "2026-11-21T01:06:12-08:00"
+      "pub_date": "2026-11-20T06:25:07-08:00"
     },
     {
-      "title": "naturefunding.org",
-      "url": "https://www.producthunt.com/products/naturefunding-org",
+      "title": "Rotara",
+      "url": "https://www.producthunt.com/products/rotara",
       "tagline": "",
-      "pub_date": "2026-11-18T19:48:42-08:00"
+      "pub_date": "2026-11-22T08:59:41-08:00"
     },
     {
-      "title": "Open Source Solana Wallet",
-      "url": "https://www.producthunt.com/products/open-source-solana-wallet",
+      "title": "Cullman",
+      "url": "https://www.producthunt.com/products/cullman",
       "tagline": "",
-      "pub_date": "2026-11-22T14:44:38-08:00"
+      "pub_date": "2026-11-18T21:59:36-08:00"
     },
     {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
+      "title": "Viktor Code",
+      "url": "https://www.producthunt.com/products/viktor",
       "tagline": "",
-      "pub_date": "2026-11-22T09:08:26-08:00"
+      "pub_date": "2026-11-23T08:35:13-08:00"
     },
     {
-      "title": "Motionflare",
-      "url": "https://www.producthunt.com/products/motionflare",
+      "title": "distribution.dev",
+      "url": "https://www.producthunt.com/products/distribution-dev",
       "tagline": "",
-      "pub_date": "2026-11-14T01:50:44-08:00"
+      "pub_date": "2026-11-17T01:23:57-08:00"
     },
     {
-      "title": "Dog Translator SuperTranslator",
-      "url": "https://www.producthunt.com/products/dog-translator-supertranslator",
+      "title": "Umami Manager",
+      "url": "https://www.producthunt.com/products/umami-manager",
       "tagline": "",
-      "pub_date": "2026-11-05T06:56:09-08:00"
+      "pub_date": "2026-11-23T08:55:11-08:00"
     },
     {
-      "title": "Ashwa",
-      "url": "https://www.producthunt.com/products/ashwa",
+      "title": "Hourly Journal",
+      "url": "https://www.producthunt.com/products/hourly-journal",
       "tagline": "",
-      "pub_date": "2026-11-22T12:25:10-08:00"
+      "pub_date": "2026-11-23T20:54:41-08:00"
     },
     {
-      "title": "LeanTake",
-      "url": "https://www.producthunt.com/products/leantake",
+      "title": "Claude Ship",
+      "url": "https://www.producthunt.com/products/claude-code",
       "tagline": "",
-      "pub_date": "2026-11-22T04:14:55-08:00"
+      "pub_date": "2026-11-23T13:00:36-08:00"
     },
     {
-      "title": "Modem",
-      "url": "https://www.producthunt.com/products/modem",
+      "title": "Finseo",
+      "url": "https://www.producthunt.com/products/finseo-ai",
       "tagline": "",
-      "pub_date": "2026-08-17T12:08:59-07:00"
+      "pub_date": "2026-11-23T08:47:25-08:00"
     },
     {
-      "title": "Letter Visitors",
-      "url": "https://www.producthunt.com/products/visitors",
+      "title": "Astor",
+      "url": "https://www.producthunt.com/products/astor",
       "tagline": "",
-      "pub_date": "2026-11-21T23:39:42-08:00"
+      "pub_date": "2026-11-18T18:44:24-08:00"
     },
     {
-      "title": "Strict",
-      "url": "https://www.producthunt.com/products/strict",
+      "title": "Wellbreak",
+      "url": "https://www.producthunt.com/products/wellbreak",
       "tagline": "",
-      "pub_date": "2026-11-22T15:04:09-08:00"
+      "pub_date": "2026-11-23T11:09:40-08:00"
     },
     {
-      "title": "FigmaMCP",
-      "url": "https://www.producthunt.com/products/figmamcp",
+      "title": "Willow iOS 2.0",
+      "url": "https://www.producthunt.com/products/willow-voice",
       "tagline": "",
-      "pub_date": "2026-11-22T15:28:02-08:00"
+      "pub_date": "2026-11-23T22:38:15-08:00"
     },
     {
-      "title": "Orpheus",
-      "url": "https://www.producthunt.com/products/orpheus-2",
+      "title": "frwrd.to",
+      "url": "https://www.producthunt.com/products/frwrd-to",
       "tagline": "",
-      "pub_date": "2026-11-14T09:41:01-08:00"
+      "pub_date": "2026-11-23T04:34:54-08:00"
     },
     {
-      "title": "Jot",
-      "url": "https://www.producthunt.com/products/jot-15",
+      "title": "Kodak SlideTag",
+      "url": "https://www.producthunt.com/products/kodak-slidetag",
       "tagline": "",
-      "pub_date": "2026-11-21T01:34:42-08:00"
+      "pub_date": "2026-11-23T19:40:58-08:00"
     },
     {
-      "title": "Journalistic Tech",
-      "url": "https://www.producthunt.com/products/journalistic-tech",
+      "title": "Adanotch",
+      "url": "https://www.producthunt.com/products/adanotch",
       "tagline": "",
-      "pub_date": "2026-11-16T11:28:27-08:00"
+      "pub_date": "2026-11-17T12:36:39-08:00"
     },
     {
-      "title": "Mobile Agent Testers",
-      "url": "https://www.producthunt.com/products/mobile-agent-testers",
+      "title": "Even G2 Enterprise SDK",
+      "url": "https://www.producthunt.com/products/even-g2",
       "tagline": "",
-      "pub_date": "2026-11-22T08:08:46-08:00"
+      "pub_date": "2026-11-23T10:57:21-08:00"
     },
     {
-      "title": "Othor AI",
-      "url": "https://www.producthunt.com/products/othor-ai",
+      "title": "LayAuto 4",
+      "url": "https://www.producthunt.com/products/layauto-for-mac",
       "tagline": "",
-      "pub_date": "2026-11-21T03:57:04-08:00"
+      "pub_date": "2026-11-23T07:51:28-08:00"
     },
     {
-      "title": "freddy",
-      "url": "https://www.producthunt.com/products/freddy",
+      "title": "Pinned",
+      "url": "https://www.producthunt.com/products/pinned",
       "tagline": "",
-      "pub_date": "2026-11-19T09:09:58-08:00"
+      "pub_date": "2026-11-23T17:33:35-08:00"
     },
     {
-      "title": "Polylane Swarms",
-      "url": "https://www.producthunt.com/products/polylane",
+      "title": "Fleetify",
+      "url": "https://www.producthunt.com/products/fleetify",
       "tagline": "",
-      "pub_date": "2026-11-20T12:43:55-08:00"
+      "pub_date": "2026-11-23T08:11:52-08:00"
     }
   ]
 }

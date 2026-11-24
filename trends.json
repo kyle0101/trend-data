@@ -1,227 +1,185 @@
 {
-  "generated_at": "2026-11-23T16:58:57.746Z",
+  "generated_at": "2026-11-24T03:40:16.347Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
+    {
+      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+      "url": "https://hermitcrm.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=50609708",
+      "points": 42,
+      "comments": 4,
+      "created_ts": 1795428542,
+      "author": "gijsbos"
+    },
     {
       "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
       "url": "https://github.com/ruairidhflint/news-blocklist",
       "hn_url": "https://news.ycombinator.com/item?id=50611026",
       "points": 20,
-      "comments": 10,
+      "comments": 11,
       "created_ts": 1795438972,
       "author": "mrroryflint"
-    },
-    {
-      "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
-      "url": "https://github.com/njgreb/n64fireplace",
-      "hn_url": "https://news.ycombinator.com/item?id=50606513",
-      "points": 12,
-      "comments": 5,
-      "created_ts": 1795398732,
-      "author": "gweedo767"
     }
   ],
   "hn_front": [
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
-      "hn_url": "https://news.ycombinator.com/item?id=50606192",
-      "points": 770,
-      "comments": 140,
-      "created_ts": 1795396431,
-      "author": "SockThief"
-    },
-    {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "hn_url": "https://news.ycombinator.com/item?id=50609685",
-      "points": 717,
-      "comments": 257,
-      "created_ts": 1795428403,
-      "author": "foohis"
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "hn_url": "https://news.ycombinator.com/item?id=50603845",
-      "points": 670,
-      "comments": 271,
-      "created_ts": 1795381276,
-      "author": "Retell15"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=50601525",
-      "points": 658,
-      "comments": 428,
-      "created_ts": 1795367187,
-      "author": "acossta"
-    },
-    {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "hn_url": "https://news.ycombinator.com/item?id=50602843",
-      "points": 602,
-      "comments": 337,
-      "created_ts": 1795374634,
-      "author": "gaws"
-    },
-    {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "hn_url": "https://news.ycombinator.com/item?id=50607261",
-      "points": 516,
-      "comments": 210,
-      "created_ts": 1795405764,
-      "author": "mmastrac"
-    },
-    {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "hn_url": "https://news.ycombinator.com/item?id=50611576",
-      "points": 442,
-      "comments": 1654,
+      "points": 2238,
+      "comments": 3263,
       "created_ts": 1795442418,
       "author": "jaz"
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "url": "https://smallsf.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50603589",
-      "points": 349,
-      "comments": 108,
-      "created_ts": 1795379603,
-      "author": "dutilh"
-    },
-    {
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "hn_url": "https://news.ycombinator.com/item?id=50603143",
-      "points": 292,
-      "comments": 141,
-      "created_ts": 1795376490,
-      "author": "dshacker"
-    },
-    {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "hn_url": "https://news.ycombinator.com/item?id=50604988",
-      "points": 254,
-      "comments": 120,
-      "created_ts": 1795388797,
-      "author": "gregsadetsky"
-    },
-    {
-      "title": "Ladybird Is Now in Alpha",
+      "title": "Ladybird is now in alpha",
       "url": "https://ladybird.org/posts/alpha/",
       "hn_url": "https://news.ycombinator.com/item?id=50614249",
-      "points": 243,
-      "comments": 54,
+      "points": 1550,
+      "comments": 364,
       "created_ts": 1795450392,
       "author": "janvdberg"
     },
     {
-      "title": "Yes, 17M lines of Lean is a lot",
-      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-      "hn_url": "https://news.ycombinator.com/item?id=50607668",
-      "points": 219,
-      "comments": 259,
-      "created_ts": 1795410049,
-      "author": "seizethecheese"
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "hn_url": "https://news.ycombinator.com/item?id=50615308",
+      "points": 1299,
+      "comments": 719,
+      "created_ts": 1795453646,
+      "author": "MrBuddyCasino"
     },
     {
-      "title": "Treemap of the Riemann Hypothesis Lean Proof",
-      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-      "hn_url": "https://news.ycombinator.com/item?id=50606499",
-      "points": 163,
-      "comments": 68,
-      "created_ts": 1795398623,
-      "author": "pengowray"
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "hn_url": "https://news.ycombinator.com/item?id=50609685",
+      "points": 1080,
+      "comments": 350,
+      "created_ts": 1795428403,
+      "author": "foohis"
     },
     {
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-      "hn_url": "https://news.ycombinator.com/item?id=50610334",
-      "points": 147,
-      "comments": 75,
-      "created_ts": 1795433656,
-      "author": "qtqtqt"
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50617499",
+      "points": 905,
+      "comments": 209,
+      "created_ts": 1795461475,
+      "author": "tech234a"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "hn_url": "https://news.ycombinator.com/item?id=50615481",
+      "points": 372,
+      "comments": 278,
+      "created_ts": 1795454221,
+      "author": "rdmuser"
     },
     {
       "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
       "url": "https://github.com/os6/nospeaker",
       "hn_url": "https://news.ycombinator.com/item?id=50610318",
-      "points": 140,
-      "comments": 64,
+      "points": 291,
+      "comments": 165,
       "created_ts": 1795433514,
       "author": "yakkomajuri"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "hn_url": "https://news.ycombinator.com/item?id=50620102",
+      "points": 279,
+      "comments": 234,
+      "created_ts": 1795471750,
+      "author": "mikeryan52"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "hn_url": "https://news.ycombinator.com/item?id=50620349",
+      "points": 266,
+      "comments": 136,
+      "created_ts": 1795473149,
+      "author": "shaunpud"
+    },
+    {
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "hn_url": "https://news.ycombinator.com/item?id=50620822",
+      "points": 262,
+      "comments": 194,
+      "created_ts": 1795475498,
+      "author": "ortusdux"
     },
     {
       "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
       "url": "https://github.com/mikuta0407/win4wine",
       "hn_url": "https://news.ycombinator.com/item?id=50610743",
-      "points": 116,
-      "comments": 63,
+      "points": 222,
+      "comments": 116,
       "created_ts": 1795436891,
       "author": "hard_times"
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "hn_url": "https://news.ycombinator.com/item?id=50619103",
+      "points": 165,
+      "comments": 57,
+      "created_ts": 1795467174,
+      "author": "EvilGoose"
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50619207",
+      "points": 144,
+      "comments": 33,
+      "created_ts": 1795467676,
+      "author": "susam"
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "hn_url": "https://news.ycombinator.com/item?id=50611402",
+      "points": 136,
+      "comments": 29,
+      "created_ts": 1795441358,
+      "author": "toebee"
     }
   ],
   "ph_today": [
     {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
+      "title": "Replit Missions",
+      "url": "https://www.producthunt.com/products/replit",
       "tagline": "",
-      "pub_date": "2026-11-22T09:08:26-08:00"
+      "pub_date": "2026-11-22T09:13:25-08:00"
     },
     {
-      "title": "Gauth Personal Study Agent",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "title": "Spikely",
+      "url": "https://www.producthunt.com/products/spikely",
       "tagline": "",
-      "pub_date": "2026-11-20T09:12:34-08:00"
+      "pub_date": "2026-11-21T02:04:50-08:00"
     },
     {
-      "title": "Dog Translator SuperTranslator",
-      "url": "https://www.producthunt.com/products/dog-translator-supertranslator",
+      "title": "Snowly",
+      "url": "https://www.producthunt.com/products/snowly-2",
       "tagline": "",
-      "pub_date": "2026-11-05T06:56:09-08:00"
+      "pub_date": "2026-11-17T18:11:19-08:00"
     },
     {
-      "title": "Chat with Work",
-      "url": "https://www.producthunt.com/products/chat-with-work",
+      "title": "Branchery",
+      "url": "https://www.producthunt.com/products/branchery",
       "tagline": "",
-      "pub_date": "2026-11-21T01:06:12-08:00"
+      "pub_date": "2026-11-22T13:29:23-08:00"
     },
     {
-      "title": "Motionflare",
-      "url": "https://www.producthunt.com/products/motionflare",
+      "title": "Inkling 2 Mini",
+      "url": "https://www.producthunt.com/products/tinker-2",
       "tagline": "",
-      "pub_date": "2026-11-14T01:50:44-08:00"
-    },
-    {
-      "title": "Modem",
-      "url": "https://www.producthunt.com/products/modem",
-      "tagline": "",
-      "pub_date": "2026-08-17T12:08:59-07:00"
-    },
-    {
-      "title": "Omi Work",
-      "url": "https://www.producthunt.com/products/omi-work",
-      "tagline": "",
-      "pub_date": "2026-11-22T00:35:25-08:00"
-    },
-    {
-      "title": "Ashwa",
-      "url": "https://www.producthunt.com/products/ashwa",
-      "tagline": "",
-      "pub_date": "2026-11-22T12:25:10-08:00"
-    },
-    {
-      "title": "naturefunding.org",
-      "url": "https://www.producthunt.com/products/naturefunding-org",
-      "tagline": "",
-      "pub_date": "2026-11-18T19:48:42-08:00"
+      "pub_date": "2026-11-22T19:37:24-08:00"
     },
     {
       "title": "Tesla Self-Driving V15",
@@ -236,28 +194,10 @@
       "pub_date": "2026-11-22T07:35:04-08:00"
     },
     {
-      "title": "Strict",
-      "url": "https://www.producthunt.com/products/strict",
+      "title": "Hydrilla",
+      "url": "https://www.producthunt.com/products/hydrilla",
       "tagline": "",
-      "pub_date": "2026-11-22T15:04:09-08:00"
-    },
-    {
-      "title": "Open Source Solana Wallet",
-      "url": "https://www.producthunt.com/products/open-source-solana-wallet",
-      "tagline": "",
-      "pub_date": "2026-11-22T14:44:38-08:00"
-    },
-    {
-      "title": "Letter Visitors",
-      "url": "https://www.producthunt.com/products/visitors",
-      "tagline": "",
-      "pub_date": "2026-11-21T23:39:42-08:00"
-    },
-    {
-      "title": "Inkling 2 Mini",
-      "url": "https://www.producthunt.com/products/tinker-2",
-      "tagline": "",
-      "pub_date": "2026-11-22T19:37:24-08:00"
+      "pub_date": "2026-03-12T09:31:13-07:00"
     },
     {
       "title": "MAI Image 2.7",
@@ -266,22 +206,58 @@
       "pub_date": "2026-11-17T10:42:27-08:00"
     },
     {
-      "title": "Spikely",
-      "url": "https://www.producthunt.com/products/spikely",
+      "title": "Gauth Personal Study Agent",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
       "tagline": "",
-      "pub_date": "2026-11-21T02:04:50-08:00"
+      "pub_date": "2026-11-20T09:12:34-08:00"
     },
     {
-      "title": "Branchery",
-      "url": "https://www.producthunt.com/products/branchery",
+      "title": "Omi Work",
+      "url": "https://www.producthunt.com/products/omi-work",
       "tagline": "",
-      "pub_date": "2026-11-22T13:29:23-08:00"
+      "pub_date": "2026-11-22T00:35:25-08:00"
     },
     {
-      "title": "Journalistic Tech",
-      "url": "https://www.producthunt.com/products/journalistic-tech",
+      "title": "Chat with Work",
+      "url": "https://www.producthunt.com/products/chat-with-work",
       "tagline": "",
-      "pub_date": "2026-11-16T11:28:27-08:00"
+      "pub_date": "2026-11-21T01:06:12-08:00"
+    },
+    {
+      "title": "naturefunding.org",
+      "url": "https://www.producthunt.com/products/naturefunding-org",
+      "tagline": "",
+      "pub_date": "2026-11-18T19:48:42-08:00"
+    },
+    {
+      "title": "Open Source Solana Wallet",
+      "url": "https://www.producthunt.com/products/open-source-solana-wallet",
+      "tagline": "",
+      "pub_date": "2026-11-22T14:44:38-08:00"
+    },
+    {
+      "title": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "tagline": "",
+      "pub_date": "2026-11-22T09:08:26-08:00"
+    },
+    {
+      "title": "Motionflare",
+      "url": "https://www.producthunt.com/products/motionflare",
+      "tagline": "",
+      "pub_date": "2026-11-14T01:50:44-08:00"
+    },
+    {
+      "title": "Dog Translator SuperTranslator",
+      "url": "https://www.producthunt.com/products/dog-translator-supertranslator",
+      "tagline": "",
+      "pub_date": "2026-11-05T06:56:09-08:00"
+    },
+    {
+      "title": "Ashwa",
+      "url": "https://www.producthunt.com/products/ashwa",
+      "tagline": "",
+      "pub_date": "2026-11-22T12:25:10-08:00"
     },
     {
       "title": "LeanTake",
@@ -290,22 +266,34 @@
       "pub_date": "2026-11-22T04:14:55-08:00"
     },
     {
+      "title": "Modem",
+      "url": "https://www.producthunt.com/products/modem",
+      "tagline": "",
+      "pub_date": "2026-08-17T12:08:59-07:00"
+    },
+    {
+      "title": "Letter Visitors",
+      "url": "https://www.producthunt.com/products/visitors",
+      "tagline": "",
+      "pub_date": "2026-11-21T23:39:42-08:00"
+    },
+    {
+      "title": "Strict",
+      "url": "https://www.producthunt.com/products/strict",
+      "tagline": "",
+      "pub_date": "2026-11-22T15:04:09-08:00"
+    },
+    {
       "title": "FigmaMCP",
       "url": "https://www.producthunt.com/products/figmamcp",
       "tagline": "",
       "pub_date": "2026-11-22T15:28:02-08:00"
     },
     {
-      "title": "Replit Missions",
-      "url": "https://www.producthunt.com/products/replit",
+      "title": "Orpheus",
+      "url": "https://www.producthunt.com/products/orpheus-2",
       "tagline": "",
-      "pub_date": "2026-11-22T09:13:25-08:00"
-    },
-    {
-      "title": "Hydrilla",
-      "url": "https://www.producthunt.com/products/hydrilla",
-      "tagline": "",
-      "pub_date": "2026-03-12T09:31:13-07:00"
+      "pub_date": "2026-11-14T09:41:01-08:00"
     },
     {
       "title": "Jot",
@@ -314,16 +302,22 @@
       "pub_date": "2026-11-21T01:34:42-08:00"
     },
     {
-      "title": "Snowly",
-      "url": "https://www.producthunt.com/products/snowly-2",
+      "title": "Journalistic Tech",
+      "url": "https://www.producthunt.com/products/journalistic-tech",
       "tagline": "",
-      "pub_date": "2026-11-17T18:11:19-08:00"
+      "pub_date": "2026-11-16T11:28:27-08:00"
     },
     {
-      "title": "Orpheus",
-      "url": "https://www.producthunt.com/products/orpheus-2",
+      "title": "Mobile Agent Testers",
+      "url": "https://www.producthunt.com/products/mobile-agent-testers",
       "tagline": "",
-      "pub_date": "2026-11-14T09:41:01-08:00"
+      "pub_date": "2026-11-22T08:08:46-08:00"
+    },
+    {
+      "title": "Othor AI",
+      "url": "https://www.producthunt.com/products/othor-ai",
+      "tagline": "",
+      "pub_date": "2026-11-21T03:57:04-08:00"
     },
     {
       "title": "freddy",
@@ -336,18 +330,6 @@
       "url": "https://www.producthunt.com/products/polylane",
       "tagline": "",
       "pub_date": "2026-11-20T12:43:55-08:00"
-    },
-    {
-      "title": "Othor AI",
-      "url": "https://www.producthunt.com/products/othor-ai",
-      "tagline": "",
-      "pub_date": "2026-11-21T03:57:04-08:00"
-    },
-    {
-      "title": "Mobile Agent Testers",
-      "url": "https://www.producthunt.com/products/mobile-agent-testers",
-      "tagline": "",
-      "pub_date": "2026-11-22T08:08:46-08:00"
     }
   ]
 }

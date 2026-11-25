@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-11-24T16:47:06.665Z",
+  "generated_at": "2026-11-25T01:47:12.676Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
+    {
+      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+      "url": "https://masondata.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50630294",
+      "points": 86,
+      "comments": 16,
+      "created_ts": 1795536712,
+      "author": "tagspace"
+    },
+    {
+      "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+      "url": "https://github.com/hatchet-dev/brickie",
+      "hn_url": "https://news.ycombinator.com/item?id=50629936",
+      "points": 28,
+      "comments": 5,
+      "created_ts": 1795535314,
+      "author": "abelanger"
+    },
     {
       "title": "Show HN: Ant – A scripting language with goroutines and static types",
       "url": "https://ant-lang.org/",
@@ -16,7 +34,7 @@
       "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
       "url": "https://firevoice.fabwaseem.com",
       "hn_url": "https://news.ycombinator.com/item?id=50623038",
-      "points": 14,
+      "points": 15,
       "comments": 3,
       "created_ts": 1795489100,
       "author": "fabwaseem"
@@ -25,146 +43,161 @@
       "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
       "url": "https://github.com/GenesisAgentInfra/genesis",
       "hn_url": "https://news.ycombinator.com/item?id=50623965",
-      "points": 12,
+      "points": 13,
       "comments": 0,
       "created_ts": 1795496681,
       "author": "willlzl"
+    },
+    {
+      "title": "Show HN: Open-Interpretability Explain",
+      "url": "https://open-interpretability.com/posts/explain/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50628121",
+      "points": 11,
+      "comments": 1,
+      "created_ts": 1795528040,
+      "author": "sackfield"
     }
   ],
   "hn_front": [
     {
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "hn_url": "https://news.ycombinator.com/item?id=50624497",
-      "points": 712,
-      "comments": 264,
-      "created_ts": 1795501833,
-      "author": "setheron"
-    },
-    {
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "hn_url": "https://news.ycombinator.com/item?id=50622774",
-      "points": 661,
-      "comments": 305,
-      "created_ts": 1795487222,
-      "author": "DeepLogin"
-    },
-    {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "hn_url": "https://news.ycombinator.com/item?id=50620349",
-      "points": 627,
-      "comments": 317,
-      "created_ts": 1795473149,
-      "author": "shaunpud"
-    },
-    {
       "title": "LLM agents work for their parent companies, not for you",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
       "hn_url": "https://news.ycombinator.com/item?id=50627340",
-      "points": 564,
-      "comments": 237,
+      "points": 909,
+      "comments": 384,
       "created_ts": 1795524015,
       "author": "surprisetalk"
-    },
-    {
-      "title": "GPUI is getting its own repository",
-      "url": "https://github.com/zed-industries/gpui",
-      "hn_url": "https://news.ycombinator.com/item?id=50619103",
-      "points": 353,
-      "comments": 127,
-      "created_ts": 1795467174,
-      "author": "EvilGoose"
-    },
-    {
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "url": "https://www.bored.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50619207",
-      "points": 310,
-      "comments": 65,
-      "created_ts": 1795467676,
-      "author": "susam"
-    },
-    {
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "hn_url": "https://news.ycombinator.com/item?id=50626861",
-      "points": 251,
-      "comments": 129,
-      "created_ts": 1795521065,
-      "author": "hubraumhugo"
-    },
-    {
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "url": "https://github.com/ItsNotRexed/Leonida/issues",
-      "hn_url": "https://news.ycombinator.com/item?id=50622638",
-      "points": 229,
-      "comments": 356,
-      "created_ts": 1795486089,
-      "author": "smuhakg"
-    },
-    {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "hn_url": "https://news.ycombinator.com/item?id=50624061",
-      "points": 186,
-      "comments": 96,
-      "created_ts": 1795497322,
-      "author": "zdw"
     },
     {
       "title": "Quad9 pulled their DNS service from France",
       "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
       "hn_url": "https://news.ycombinator.com/item?id=50625384",
-      "points": 170,
-      "comments": 65,
+      "points": 354,
+      "comments": 178,
       "created_ts": 1795509194,
       "author": "farrokhi"
+    },
+    {
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "hn_url": "https://news.ycombinator.com/item?id=50622638",
+      "points": 340,
+      "comments": 605,
+      "created_ts": 1795486089,
+      "author": "smuhakg"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "hn_url": "https://news.ycombinator.com/item?id=50633922",
+      "points": 336,
+      "comments": 112,
+      "created_ts": 1795550883,
+      "author": "b0m"
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "hn_url": "https://news.ycombinator.com/item?id=50627783",
+      "points": 285,
+      "comments": 361,
+      "created_ts": 1795526371,
+      "author": "andrem"
+    },
+    {
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "hn_url": "https://news.ycombinator.com/item?id=50630462",
+      "points": 273,
+      "comments": 120,
+      "created_ts": 1795537382,
+      "author": "zdw"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "hn_url": "https://news.ycombinator.com/item?id=50630594",
+      "points": 264,
+      "comments": 124,
+      "created_ts": 1795537937,
+      "author": "louiereederson"
     },
     {
       "title": "Worshipping at the altar of Brendan Gregg",
       "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
       "hn_url": "https://news.ycombinator.com/item?id=50626413",
-      "points": 154,
-      "comments": 23,
+      "points": 226,
+      "comments": 42,
       "created_ts": 1795517414,
       "author": "kqr"
     },
     {
-      "title": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50623515",
-      "points": 150,
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "hn_url": "https://news.ycombinator.com/item?id=50629231",
+      "points": 179,
       "comments": 57,
-      "created_ts": 1795492828,
-      "author": "uptrails"
+      "created_ts": 1795532620,
+      "author": "bluepeter"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "hn_url": "https://news.ycombinator.com/item?id=50634658",
+      "points": 166,
+      "comments": 37,
+      "created_ts": 1795554142,
+      "author": "acossta"
+    },
+    {
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "hn_url": "https://news.ycombinator.com/item?id=50635271",
+      "points": 138,
+      "comments": 57,
+      "created_ts": 1795557081,
+      "author": "gmays"
+    },
+    {
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "url": "https://grafana.com/grafana/download",
+      "hn_url": "https://news.ycombinator.com/item?id=50633159",
+      "points": 135,
+      "comments": 21,
+      "created_ts": 1795548224,
+      "author": "petecooper"
+    },
+    {
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "hn_url": "https://news.ycombinator.com/item?id=50629106",
+      "points": 131,
+      "comments": 86,
+      "created_ts": 1795532050,
+      "author": "fcjr"
+    },
+    {
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "hn_url": "https://news.ycombinator.com/item?id=50634933",
+      "points": 104,
+      "comments": 31,
+      "created_ts": 1795555467,
+      "author": "armcat"
     }
   ],
   "ph_today": [
     {
-      "title": "Astrolabio",
-      "url": "https://www.producthunt.com/products/astrolabio",
+      "title": "frwrd.to",
+      "url": "https://www.producthunt.com/products/frwrd-to",
       "tagline": "",
-      "pub_date": "2026-11-23T05:39:26-08:00"
+      "pub_date": "2026-11-23T04:34:54-08:00"
     },
     {
-      "title": "tday.com",
-      "url": "https://www.producthunt.com/products/tday",
+      "title": "Viktor Code",
+      "url": "https://www.producthunt.com/products/viktor",
       "tagline": "",
-      "pub_date": "2026-11-23T13:22:27-08:00"
-    },
-    {
-      "title": "Context",
-      "url": "https://www.producthunt.com/products/context-13",
-      "tagline": "",
-      "pub_date": "2026-11-10T15:16:49-08:00"
-    },
-    {
-      "title": "Tendor",
-      "url": "https://www.producthunt.com/products/tendor",
-      "tagline": "",
-      "pub_date": "2026-11-19T23:02:20-08:00"
+      "pub_date": "2026-11-23T08:35:13-08:00"
     },
     {
       "title": "Mystonie",
@@ -179,10 +212,34 @@
       "pub_date": "2026-11-18T10:05:36-08:00"
     },
     {
-      "title": "Finer Screenshot",
-      "url": "https://www.producthunt.com/products/finer-screenshot",
+      "title": "Astor",
+      "url": "https://www.producthunt.com/products/astor",
       "tagline": "",
-      "pub_date": "2026-11-23T20:45:20-08:00"
+      "pub_date": "2026-11-18T18:44:24-08:00"
+    },
+    {
+      "title": "Astrolabio",
+      "url": "https://www.producthunt.com/products/astrolabio",
+      "tagline": "",
+      "pub_date": "2026-11-23T05:39:26-08:00"
+    },
+    {
+      "title": "Umami Manager",
+      "url": "https://www.producthunt.com/products/umami-manager",
+      "tagline": "",
+      "pub_date": "2026-11-23T08:55:11-08:00"
+    },
+    {
+      "title": "Context",
+      "url": "https://www.producthunt.com/products/context-13",
+      "tagline": "",
+      "pub_date": "2026-11-10T15:16:49-08:00"
+    },
+    {
+      "title": "Even G2 Enterprise SDK",
+      "url": "https://www.producthunt.com/products/even-g2",
+      "tagline": "",
+      "pub_date": "2026-11-23T10:57:21-08:00"
     },
     {
       "title": "Prates",
@@ -191,28 +248,10 @@
       "pub_date": "2026-11-21T06:13:49-08:00"
     },
     {
-      "title": "SparrowDesk Phone Calls",
-      "url": "https://www.producthunt.com/products/sparrowdesk",
+      "title": "Willow iOS 2.0",
+      "url": "https://www.producthunt.com/products/willow-voice",
       "tagline": "",
-      "pub_date": "2026-11-22T23:07:05-08:00"
-    },
-    {
-      "title": "Granular.Build",
-      "url": "https://www.producthunt.com/products/granular-build",
-      "tagline": "",
-      "pub_date": "2026-11-18T10:51:22-08:00"
-    },
-    {
-      "title": "Juncts",
-      "url": "https://www.producthunt.com/products/juncts",
-      "tagline": "",
-      "pub_date": "2026-11-23T19:08:21-08:00"
-    },
-    {
-      "title": "K-Stra",
-      "url": "https://www.producthunt.com/products/k-stra",
-      "tagline": "",
-      "pub_date": "2026-11-20T06:25:07-08:00"
+      "pub_date": "2026-11-23T22:38:15-08:00"
     },
     {
       "title": "Rotara",
@@ -221,28 +260,28 @@
       "pub_date": "2026-11-22T08:59:41-08:00"
     },
     {
+      "title": "Finseo",
+      "url": "https://www.producthunt.com/products/finseo-ai",
+      "tagline": "",
+      "pub_date": "2026-11-23T08:47:25-08:00"
+    },
+    {
+      "title": "Juncts",
+      "url": "https://www.producthunt.com/products/juncts",
+      "tagline": "",
+      "pub_date": "2026-11-23T19:08:21-08:00"
+    },
+    {
       "title": "Cullman",
       "url": "https://www.producthunt.com/products/cullman",
       "tagline": "",
       "pub_date": "2026-11-18T21:59:36-08:00"
     },
     {
-      "title": "Viktor Code",
-      "url": "https://www.producthunt.com/products/viktor",
+      "title": "K-Stra",
+      "url": "https://www.producthunt.com/products/k-stra",
       "tagline": "",
-      "pub_date": "2026-11-23T08:35:13-08:00"
-    },
-    {
-      "title": "distribution.dev",
-      "url": "https://www.producthunt.com/products/distribution-dev",
-      "tagline": "",
-      "pub_date": "2026-11-17T01:23:57-08:00"
-    },
-    {
-      "title": "Umami Manager",
-      "url": "https://www.producthunt.com/products/umami-manager",
-      "tagline": "",
-      "pub_date": "2026-11-23T08:55:11-08:00"
+      "pub_date": "2026-11-20T06:25:07-08:00"
     },
     {
       "title": "Hourly Journal",
@@ -257,40 +296,10 @@
       "pub_date": "2026-11-23T13:00:36-08:00"
     },
     {
-      "title": "Finseo",
-      "url": "https://www.producthunt.com/products/finseo-ai",
+      "title": "Finer Screenshot",
+      "url": "https://www.producthunt.com/products/finer-screenshot",
       "tagline": "",
-      "pub_date": "2026-11-23T08:47:25-08:00"
-    },
-    {
-      "title": "Astor",
-      "url": "https://www.producthunt.com/products/astor",
-      "tagline": "",
-      "pub_date": "2026-11-18T18:44:24-08:00"
-    },
-    {
-      "title": "Wellbreak",
-      "url": "https://www.producthunt.com/products/wellbreak",
-      "tagline": "",
-      "pub_date": "2026-11-23T11:09:40-08:00"
-    },
-    {
-      "title": "Willow iOS 2.0",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "tagline": "",
-      "pub_date": "2026-11-23T22:38:15-08:00"
-    },
-    {
-      "title": "frwrd.to",
-      "url": "https://www.producthunt.com/products/frwrd-to",
-      "tagline": "",
-      "pub_date": "2026-11-23T04:34:54-08:00"
-    },
-    {
-      "title": "Kodak SlideTag",
-      "url": "https://www.producthunt.com/products/kodak-slidetag",
-      "tagline": "",
-      "pub_date": "2026-11-23T19:40:58-08:00"
+      "pub_date": "2026-11-23T20:45:20-08:00"
     },
     {
       "title": "Adanotch",
@@ -299,28 +308,64 @@
       "pub_date": "2026-11-17T12:36:39-08:00"
     },
     {
-      "title": "Even G2 Enterprise SDK",
-      "url": "https://www.producthunt.com/products/even-g2",
+      "title": "Tendor",
+      "url": "https://www.producthunt.com/products/tendor",
       "tagline": "",
-      "pub_date": "2026-11-23T10:57:21-08:00"
+      "pub_date": "2026-11-19T23:02:20-08:00"
     },
     {
-      "title": "LayAuto 4",
-      "url": "https://www.producthunt.com/products/layauto-for-mac",
+      "title": "Wellbreak",
+      "url": "https://www.producthunt.com/products/wellbreak",
       "tagline": "",
-      "pub_date": "2026-11-23T07:51:28-08:00"
+      "pub_date": "2026-11-23T11:09:40-08:00"
     },
     {
-      "title": "Pinned",
-      "url": "https://www.producthunt.com/products/pinned",
+      "title": "SparrowDesk Phone Calls",
+      "url": "https://www.producthunt.com/products/sparrowdesk",
       "tagline": "",
-      "pub_date": "2026-11-23T17:33:35-08:00"
+      "pub_date": "2026-11-22T23:07:05-08:00"
+    },
+    {
+      "title": "tday.com",
+      "url": "https://www.producthunt.com/products/tday",
+      "tagline": "",
+      "pub_date": "2026-11-23T13:22:27-08:00"
+    },
+    {
+      "title": "Kodak SlideTag",
+      "url": "https://www.producthunt.com/products/kodak-slidetag",
+      "tagline": "",
+      "pub_date": "2026-11-23T19:40:58-08:00"
+    },
+    {
+      "title": "Granular.Build",
+      "url": "https://www.producthunt.com/products/granular-build",
+      "tagline": "",
+      "pub_date": "2026-11-18T10:51:22-08:00"
+    },
+    {
+      "title": "distribution.dev",
+      "url": "https://www.producthunt.com/products/distribution-dev",
+      "tagline": "",
+      "pub_date": "2026-11-17T01:23:57-08:00"
     },
     {
       "title": "Fleetify",
       "url": "https://www.producthunt.com/products/fleetify",
       "tagline": "",
       "pub_date": "2026-11-23T08:11:52-08:00"
+    },
+    {
+      "title": "doola MCP",
+      "url": "https://www.producthunt.com/products/doola-mcp",
+      "tagline": "",
+      "pub_date": "2026-11-22T11:23:24-08:00"
+    },
+    {
+      "title": "InField",
+      "url": "https://www.producthunt.com/products/infield-translate-and-refine",
+      "tagline": "",
+      "pub_date": "2026-11-23T08:52:44-08:00"
     }
   ]
 }

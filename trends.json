@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:35:08.239Z",
+  "generated_at": "2026-11-26T01:23:07.255Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
@@ -7,8 +7,8 @@
       "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
       "url": "https://gpu-demo-gallery.pages.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=50638503",
-      "points": 264,
-      "comments": 58,
+      "points": 337,
+      "comments": 74,
       "created_ts": 1795581108,
       "author": "arkits"
     },
@@ -16,10 +16,28 @@
       "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
       "url": "https://vcarl.com/sashay/",
       "hn_url": "https://news.ycombinator.com/item?id=50637936",
-      "points": 34,
+      "points": 37,
       "comments": 8,
       "created_ts": 1795576218,
       "author": "vcarl"
+    },
+    {
+      "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+      "url": "https://github.com/click6067-ship-it/token-tv",
+      "hn_url": "https://news.ycombinator.com/item?id=50642300",
+      "points": 34,
+      "comments": 0,
+      "created_ts": 1795614704,
+      "author": "click6067"
+    },
+    {
+      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "url": "https://carry.md/",
+      "hn_url": "https://news.ycombinator.com/item?id=50637995",
+      "points": 27,
+      "comments": 18,
+      "created_ts": 1795576742,
+      "author": "iankit17"
     },
     {
       "title": "Show HN: U.S. Interstate Weather",
@@ -31,200 +49,155 @@
       "author": "projproj"
     },
     {
-      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-      "url": "https://carry.md/",
-      "hn_url": "https://news.ycombinator.com/item?id=50637995",
-      "points": 25,
-      "comments": 15,
-      "created_ts": 1795576742,
-      "author": "iankit17"
+      "title": "Show HN: Openfal, local image and video generation with a fal-style API",
+      "url": "https://openfal.org",
+      "hn_url": "https://news.ycombinator.com/item?id=50647219",
+      "points": 15,
+      "comments": 5,
+      "created_ts": 1795639252,
+      "author": "webbrain"
     },
     {
       "title": "Show HN: Mergeon – A native desktop Git client written in Rust with GPUI",
       "url": "https://github.com/Spilveru/mergeon",
       "hn_url": "https://news.ycombinator.com/item?id=50637887",
-      "points": 14,
+      "points": 15,
       "comments": 1,
       "created_ts": 1795575833,
       "author": "Spilveru"
-    },
-    {
-      "title": "Show HN: Analysis of Hacker News predictions since 2008",
-      "url": "https://hnpredictions.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50633531",
-      "points": 11,
-      "comments": 7,
-      "created_ts": 1795549614,
-      "author": "mv4"
     }
   ],
   "hn_front": [
     {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=50637220",
-      "points": 864,
-      "comments": 475,
-      "created_ts": 1795569566,
-      "author": "E-Reverance"
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50644817",
+      "points": 1116,
+      "comments": 482,
+      "created_ts": 1795627106,
+      "author": "lxhrstn"
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50638032",
-      "points": 674,
-      "comments": 108,
-      "created_ts": 1795576987,
-      "author": "gaurang_tandon"
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "hn_url": "https://news.ycombinator.com/item?id=50646108",
+      "points": 868,
+      "comments": 717,
+      "created_ts": 1795633887,
+      "author": "Kotlopou"
     },
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "hn_url": "https://news.ycombinator.com/item?id=50633922",
-      "points": 510,
-      "comments": 161,
-      "created_ts": 1795550883,
-      "author": "b0m"
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "hn_url": "https://news.ycombinator.com/item?id=50637686",
-      "points": 373,
-      "comments": 156,
-      "created_ts": 1795574061,
-      "author": "gmays"
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "hn_url": "https://news.ycombinator.com/item?id=50637890",
-      "points": 359,
-      "comments": 127,
-      "created_ts": 1795575877,
-      "author": "vinhnx"
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "hn_url": "https://news.ycombinator.com/item?id=50637056",
-      "points": 351,
-      "comments": 63,
-      "created_ts": 1795568089,
-      "author": "smusamashah"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "hn_url": "https://news.ycombinator.com/item?id=50634658",
-      "points": 327,
-      "comments": 92,
-      "created_ts": 1795554142,
-      "author": "acossta"
-    },
-    {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=50638503",
-      "points": 264,
-      "comments": 58,
-      "created_ts": 1795581108,
-      "author": "arkits"
-    },
-    {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "hn_url": "https://news.ycombinator.com/item?id=50642086",
-      "points": 232,
-      "comments": 192,
+      "points": 443,
+      "comments": 332,
       "created_ts": 1795613587,
       "author": "rgwohlbold"
-    },
-    {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "hn_url": "https://news.ycombinator.com/item?id=50641171",
-      "points": 218,
-      "comments": 122,
-      "created_ts": 1795606465,
-      "author": "ThrowNotAway"
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "hn_url": "https://news.ycombinator.com/item?id=50638220",
-      "points": 192,
-      "comments": 78,
-      "created_ts": 1795578462,
-      "author": "Curiositry"
-    },
-    {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "hn_url": "https://news.ycombinator.com/item?id=50638478",
-      "points": 181,
-      "comments": 38,
-      "created_ts": 1795580875,
-      "author": "negura"
     },
     {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "hn_url": "https://news.ycombinator.com/item?id=50643129",
-      "points": 150,
-      "comments": 39,
+      "points": 436,
+      "comments": 106,
       "created_ts": 1795619672,
       "author": "gumby"
     },
     {
-      "title": "Macrohistory in Six Facts",
-      "url": "https://basilhalperin.com/essays/macrohistory.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50637891",
-      "points": 124,
-      "comments": 67,
-      "created_ts": 1795575886,
-      "author": "tptacek"
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "hn_url": "https://news.ycombinator.com/item?id=50641171",
+      "points": 315,
+      "comments": 173,
+      "created_ts": 1795606465,
+      "author": "ThrowNotAway"
     },
     {
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "hn_url": "https://news.ycombinator.com/item?id=50638070",
-      "points": 121,
-      "comments": 18,
-      "created_ts": 1795577286,
-      "author": "octember"
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "hn_url": "https://news.ycombinator.com/item?id=50639698",
+      "points": 274,
+      "comments": 213,
+      "created_ts": 1795592803,
+      "author": "matthewsinclair"
     },
     {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "hn_url": "https://news.ycombinator.com/item?id=50642496",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "hn_url": "https://news.ycombinator.com/item?id=50648050",
+      "points": 253,
+      "comments": 116,
+      "created_ts": 1795643290,
+      "author": "nb-t"
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "hn_url": "https://news.ycombinator.com/item?id=50648823",
+      "points": 209,
+      "comments": 59,
+      "created_ts": 1795647424,
+      "author": "csoham"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "hn_url": "https://news.ycombinator.com/item?id=50647673",
+      "points": 187,
+      "comments": 126,
+      "created_ts": 1795641482,
+      "author": "rmason"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "hn_url": "https://news.ycombinator.com/item?id=50642939",
+      "points": 183,
+      "comments": 64,
+      "created_ts": 1795618612,
+      "author": "encyclopedism"
+    },
+    {
+      "title": "72-hour fasting can reset your immune system, USC study shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "hn_url": "https://news.ycombinator.com/item?id=50647158",
+      "points": 153,
+      "comments": 105,
+      "created_ts": 1795638939,
+      "author": "handfuloflight"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "hn_url": "https://news.ycombinator.com/item?id=50647181",
+      "points": 134,
+      "comments": 52,
+      "created_ts": 1795639080,
+      "author": "gslin"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50644980",
       "points": 119,
-      "comments": 103,
-      "created_ts": 1795615949,
-      "author": "nephihaha"
-    },
-    {
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-      "hn_url": "https://news.ycombinator.com/item?id=50643065",
-      "points": 115,
-      "comments": 49,
-      "created_ts": 1795619324,
-      "author": "lilytweed"
+      "comments": 30,
+      "created_ts": 1795628074,
+      "author": "acossta"
     }
   ],
   "ph_today": [
-    {
-      "title": "Continual-ARC",
-      "url": "https://www.producthunt.com/products/unify-5",
-      "tagline": "",
-      "pub_date": "2026-11-10T15:48:03-08:00"
-    },
     {
       "title": "Airbot",
       "url": "https://www.producthunt.com/products/airbots",
       "tagline": "",
       "pub_date": "2026-11-19T08:45:54-08:00"
+    },
+    {
+      "title": "Hai",
+      "url": "https://www.producthunt.com/products/hai-4",
+      "tagline": "",
+      "pub_date": "2026-11-24T03:19:56-08:00"
     },
     {
       "title": "MyClaw 3.0",
@@ -233,10 +206,34 @@
       "pub_date": "2026-11-24T07:39:09-08:00"
     },
     {
-      "title": "Hiring Right Now",
-      "url": "https://www.producthunt.com/products/hiring-right-now",
+      "title": "Blink",
+      "url": "https://www.producthunt.com/products/blink-35",
       "tagline": "",
-      "pub_date": "2026-11-24T19:54:59-08:00"
+      "pub_date": "2026-11-24T17:17:35-08:00"
+    },
+    {
+      "title": "Qube",
+      "url": "https://www.producthunt.com/products/qube-6",
+      "tagline": "",
+      "pub_date": "2026-11-24T09:55:06-08:00"
+    },
+    {
+      "title": "CodeRabbit Verify",
+      "url": "https://www.producthunt.com/products/coderabbit",
+      "tagline": "",
+      "pub_date": "2026-11-18T08:26:36-08:00"
+    },
+    {
+      "title": "OpenEight",
+      "url": "https://www.producthunt.com/products/openeight",
+      "tagline": "",
+      "pub_date": "2026-11-24T22:58:59-08:00"
+    },
+    {
+      "title": "RelayRunner",
+      "url": "https://www.producthunt.com/products/relayrunner",
+      "tagline": "",
+      "pub_date": "2026-11-19T08:42:50-08:00"
     },
     {
       "title": "Falcon by Vybe",
@@ -245,10 +242,46 @@
       "pub_date": "2026-11-24T15:52:06-08:00"
     },
     {
-      "title": "Blink",
-      "url": "https://www.producthunt.com/products/blink-35",
+      "title": "MAGI-2",
+      "url": "https://www.producthunt.com/products/magi-1",
       "tagline": "",
-      "pub_date": "2026-11-24T17:17:35-08:00"
+      "pub_date": "2026-11-24T21:35:39-08:00"
+    },
+    {
+      "title": "SteerLatch",
+      "url": "https://www.producthunt.com/products/steerlatch",
+      "tagline": "",
+      "pub_date": "2026-11-14T13:12:05-08:00"
+    },
+    {
+      "title": "Hiring Right Now",
+      "url": "https://www.producthunt.com/products/hiring-right-now",
+      "tagline": "",
+      "pub_date": "2026-11-24T19:54:59-08:00"
+    },
+    {
+      "title": "Hold'em",
+      "url": "https://www.producthunt.com/products/hold-em",
+      "tagline": "",
+      "pub_date": "2026-11-24T14:25:40-08:00"
+    },
+    {
+      "title": "PartGenie 2.0",
+      "url": "https://www.producthunt.com/products/partgenie",
+      "tagline": "",
+      "pub_date": "2026-11-12T23:27:08-08:00"
+    },
+    {
+      "title": "Tendeck",
+      "url": "https://www.producthunt.com/products/tendeck",
+      "tagline": "",
+      "pub_date": "2026-11-14T16:00:45-08:00"
+    },
+    {
+      "title": "MemoryWorks",
+      "url": "https://www.producthunt.com/products/memoryworks",
+      "tagline": "",
+      "pub_date": "2026-11-24T12:30:45-08:00"
     },
     {
       "title": "VibeCode.surf",
@@ -257,10 +290,10 @@
       "pub_date": "2026-11-21T04:32:45-08:00"
     },
     {
-      "title": "MAGI-2",
-      "url": "https://www.producthunt.com/products/magi-1",
+      "title": "eluna",
+      "url": "https://www.producthunt.com/products/eluna",
       "tagline": "",
-      "pub_date": "2026-11-24T21:35:39-08:00"
+      "pub_date": "2026-11-22T07:35:37-08:00"
     },
     {
       "title": "3way.Social MCP",
@@ -275,76 +308,16 @@
       "pub_date": "2026-11-24T09:54:28-08:00"
     },
     {
-      "title": "Koed",
-      "url": "https://www.producthunt.com/products/koed",
-      "tagline": "",
-      "pub_date": "2026-11-24T01:30:45-08:00"
-    },
-    {
-      "title": "PartGenie 2.0",
-      "url": "https://www.producthunt.com/products/partgenie",
-      "tagline": "",
-      "pub_date": "2026-11-12T23:27:08-08:00"
-    },
-    {
-      "title": "TruAstra",
-      "url": "https://www.producthunt.com/products/truastra",
-      "tagline": "",
-      "pub_date": "2026-11-23T11:41:33-08:00"
-    },
-    {
-      "title": "eluna",
-      "url": "https://www.producthunt.com/products/eluna",
-      "tagline": "",
-      "pub_date": "2026-11-22T07:35:37-08:00"
-    },
-    {
-      "title": "CodeRabbit Verify",
-      "url": "https://www.producthunt.com/products/coderabbit",
-      "tagline": "",
-      "pub_date": "2026-11-18T08:26:36-08:00"
-    },
-    {
-      "title": "Qube",
-      "url": "https://www.producthunt.com/products/qube-6",
-      "tagline": "",
-      "pub_date": "2026-11-24T09:55:06-08:00"
-    },
-    {
-      "title": "Canva MCP",
-      "url": "https://www.producthunt.com/products/canva",
-      "tagline": "",
-      "pub_date": "2026-11-24T07:05:09-08:00"
-    },
-    {
-      "title": "Hold'em",
-      "url": "https://www.producthunt.com/products/hold-em",
-      "tagline": "",
-      "pub_date": "2026-11-24T14:25:40-08:00"
-    },
-    {
-      "title": "file.spot",
-      "url": "https://www.producthunt.com/products/file-spot",
-      "tagline": "",
-      "pub_date": "2026-11-24T06:25:48-08:00"
-    },
-    {
       "title": "GibHub",
       "url": "https://www.producthunt.com/products/gibhub-git-file-history",
       "tagline": "",
       "pub_date": "2026-11-24T20:38:27-08:00"
     },
     {
-      "title": "Tendeck",
-      "url": "https://www.producthunt.com/products/tendeck",
+      "title": "TruAstra",
+      "url": "https://www.producthunt.com/products/truastra",
       "tagline": "",
-      "pub_date": "2026-11-14T16:00:45-08:00"
-    },
-    {
-      "title": "RelayRunner",
-      "url": "https://www.producthunt.com/products/relayrunner",
-      "tagline": "",
-      "pub_date": "2026-11-19T08:42:50-08:00"
+      "pub_date": "2026-11-23T11:41:33-08:00"
     },
     {
       "title": "Tray",
@@ -359,40 +332,40 @@
       "pub_date": "2026-11-24T17:44:41-08:00"
     },
     {
-      "title": "OpenEight",
-      "url": "https://www.producthunt.com/products/openeight",
+      "title": "Koed",
+      "url": "https://www.producthunt.com/products/koed",
       "tagline": "",
-      "pub_date": "2026-11-24T22:58:59-08:00"
+      "pub_date": "2026-11-24T01:30:45-08:00"
     },
     {
-      "title": "Hai",
-      "url": "https://www.producthunt.com/products/hai-4",
+      "title": "Canva MCP",
+      "url": "https://www.producthunt.com/products/canva",
       "tagline": "",
-      "pub_date": "2026-11-24T03:19:56-08:00"
+      "pub_date": "2026-11-24T07:05:09-08:00"
     },
     {
-      "title": "MemoryWorks",
-      "url": "https://www.producthunt.com/products/memoryworks",
+      "title": "Continual-ARC",
+      "url": "https://www.producthunt.com/products/unify-5",
       "tagline": "",
-      "pub_date": "2026-11-24T12:30:45-08:00"
+      "pub_date": "2026-11-10T15:48:03-08:00"
     },
     {
-      "title": "SteerLatch",
-      "url": "https://www.producthunt.com/products/steerlatch",
+      "title": "file.spot",
+      "url": "https://www.producthunt.com/products/file-spot",
       "tagline": "",
-      "pub_date": "2026-11-14T13:12:05-08:00"
-    },
-    {
-      "title": "Omi X 2.0",
-      "url": "https://www.producthunt.com/products/omi-x",
-      "tagline": "",
-      "pub_date": "2026-11-24T18:11:54-08:00"
+      "pub_date": "2026-11-24T06:25:48-08:00"
     },
     {
       "title": "Snag by Parallel",
       "url": "https://www.producthunt.com/products/snag",
       "tagline": "",
       "pub_date": "2026-11-23T17:50:08-08:00"
+    },
+    {
+      "title": "Statefold",
+      "url": "https://www.producthunt.com/products/statefold-2",
+      "tagline": "",
+      "pub_date": "2026-11-24T17:45:57-08:00"
     }
   ]
 }

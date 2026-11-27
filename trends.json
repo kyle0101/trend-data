@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-11-26T16:07:29.968Z",
+  "generated_at": "2026-11-27T01:20:56.633Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Openfal, local image and video generation with a fal-style API",
-      "url": "https://openfal.org",
-      "hn_url": "https://news.ycombinator.com/item?id=50647219",
-      "points": 15,
-      "comments": 5,
-      "created_ts": 1795639252,
-      "author": "webbrain"
+      "title": "Show HN: Fuck_data_brokers.py",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "hn_url": "https://news.ycombinator.com/item?id=50658191",
+      "points": 216,
+      "comments": 44,
+      "created_ts": 1795718241,
+      "author": "gary23w"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "hn_url": "https://news.ycombinator.com/item?id=50656036",
+      "points": 112,
+      "comments": 26,
+      "created_ts": 1795705206,
+      "author": "michidk"
     },
     {
       "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
       "url": "https://olumino.app",
       "hn_url": "https://news.ycombinator.com/item?id=50651099",
-      "points": 12,
-      "comments": 6,
+      "points": 73,
+      "comments": 36,
       "created_ts": 1795663986,
       "author": "Wiyseful"
     },
     {
-      "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
-      "url": "https://github.com/onatm/rustling",
-      "hn_url": "https://news.ycombinator.com/item?id=50646482",
-      "points": 12,
-      "comments": 0,
-      "created_ts": 1795635756,
-      "author": "onatm"
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "hn_url": "https://news.ycombinator.com/item?id=50655868",
+      "points": 52,
+      "comments": 19,
+      "created_ts": 1795704262,
+      "author": "thanato0s"
+    },
+    {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "hn_url": "https://news.ycombinator.com/item?id=50657070",
+      "points": 37,
+      "comments": 8,
+      "created_ts": 1795711898,
+      "author": "rxliuli"
+    },
+    {
+      "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+      "url": "https://github.com/batanus/lip-dictation",
+      "hn_url": "https://news.ycombinator.com/item?id=50655639",
+      "points": 15,
+      "comments": 2,
+      "created_ts": 1795703108,
+      "author": "dima7711"
     },
     {
       "title": "Show HN: Run your own Hacker News on Hatamoto (open-source, one binary)",
@@ -42,195 +69,129 @@
   ],
   "hn_front": [
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "hn_url": "https://news.ycombinator.com/item?id=50646108",
-      "points": 1806,
-      "comments": 1649,
-      "created_ts": 1795633887,
-      "author": "Kotlopou"
-    },
-    {
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "hn_url": "https://news.ycombinator.com/item?id=50644817",
-      "points": 1573,
-      "comments": 673,
-      "created_ts": 1795627106,
-      "author": "lxhrstn"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "hn_url": "https://news.ycombinator.com/item?id=50647673",
-      "points": 517,
-      "comments": 437,
-      "created_ts": 1795641482,
-      "author": "rmason"
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "hn_url": "https://news.ycombinator.com/item?id=50648050",
-      "points": 507,
-      "comments": 318,
-      "created_ts": 1795643290,
-      "author": "nb-t"
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "hn_url": "https://news.ycombinator.com/item?id=50651117",
-      "points": 404,
-      "comments": 223,
-      "created_ts": 1795664218,
-      "author": "Herrera"
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "hn_url": "https://news.ycombinator.com/item?id=50647181",
-      "points": 365,
-      "comments": 210,
-      "created_ts": 1795639080,
-      "author": "gslin"
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "hn_url": "https://news.ycombinator.com/item?id=50649864",
-      "points": 348,
-      "comments": 135,
-      "created_ts": 1795653814,
-      "author": "dang"
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "hn_url": "https://news.ycombinator.com/item?id=50649834",
-      "points": 322,
-      "comments": 60,
-      "created_ts": 1795653600,
-      "author": "sohkamyung"
-    },
-    {
-      "title": "Intel One Mono font",
-      "url": "https://github.com/intel/intel-one-mono",
-      "hn_url": "https://news.ycombinator.com/item?id=50653667",
-      "points": 288,
-      "comments": 175,
-      "created_ts": 1795687861,
-      "author": "saikatsg"
-    },
-    {
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "hn_url": "https://news.ycombinator.com/item?id=50654289",
-      "points": 258,
-      "comments": 110,
-      "created_ts": 1795693849,
-      "author": "e12e"
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "url": "https://progrium.github.io/minipg/",
-      "hn_url": "https://news.ycombinator.com/item?id=50650892",
-      "points": 218,
-      "comments": 33,
-      "created_ts": 1795662048,
-      "author": "rguiscard"
-    },
-    {
-      "title": "Bare Metal Qwen",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "hn_url": "https://news.ycombinator.com/item?id=50648365",
-      "points": 210,
-      "comments": 46,
-      "created_ts": 1795644934,
-      "author": "miohtama"
-    },
-    {
       "title": "Tell HN: Happy Thanksgiving",
       "url": "https://news.ycombinator.com/item?id=50655664",
       "hn_url": "https://news.ycombinator.com/item?id=50655664",
-      "points": 209,
-      "comments": 61,
+      "points": 593,
+      "comments": 135,
       "created_ts": 1795703214,
       "author": "ericmay"
     },
     {
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "hn_url": "https://news.ycombinator.com/item?id=50647161",
-      "points": 189,
-      "comments": 79,
-      "created_ts": 1795638950,
-      "author": "dm"
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "hn_url": "https://news.ycombinator.com/item?id=50653667",
+      "points": 459,
+      "comments": 238,
+      "created_ts": 1795687861,
+      "author": "saikatsg"
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "hn_url": "https://news.ycombinator.com/item?id=50651719",
-      "points": 187,
-      "comments": 39,
-      "created_ts": 1795669979,
-      "author": "joonehur"
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "hn_url": "https://news.ycombinator.com/item?id=50654289",
+      "points": 396,
+      "comments": 203,
+      "created_ts": 1795693849,
+      "author": "e12e"
     },
     {
-      "title": "Moat: Your OpenRouter Replacement",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "hn_url": "https://news.ycombinator.com/item?id=50657265",
+      "points": 279,
+      "comments": 69,
+      "created_ts": 1795713089,
+      "author": "julianlam"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "hn_url": "https://news.ycombinator.com/item?id=50660180",
+      "points": 278,
+      "comments": 152,
+      "created_ts": 1795729665,
+      "author": "jlelse"
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "hn_url": "https://news.ycombinator.com/item?id=50652527",
+      "points": 267,
+      "comments": 254,
+      "created_ts": 1795678392,
+      "author": "seizethecheese"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "hn_url": "https://news.ycombinator.com/item?id=50657530",
+      "points": 256,
+      "comments": 329,
+      "created_ts": 1795714607,
+      "author": "iantongeorge"
+    },
+    {
+      "title": "Moat: OpenRouter replacement",
       "url": "https://commandcode.ai/moat",
       "hn_url": "https://news.ycombinator.com/item?id=50652184",
-      "points": 152,
-      "comments": 98,
+      "points": 246,
+      "comments": 141,
       "created_ts": 1795674768,
       "author": "amanverasia"
     },
     {
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "hn_url": "https://news.ycombinator.com/item?id=50648323",
-      "points": 137,
-      "comments": 18,
-      "created_ts": 1795644745,
-      "author": "qzervaas"
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "hn_url": "https://news.ycombinator.com/item?id=50653477",
+      "points": 232,
+      "comments": 202,
+      "created_ts": 1795686263,
+      "author": "ritzaco"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "hn_url": "https://news.ycombinator.com/item?id=50659841",
+      "points": 222,
+      "comments": 45,
+      "created_ts": 1795727285,
+      "author": "dverlaeckt80"
     },
     {
       "title": "An algebraic quantization of gravity from the null cone",
       "url": "https://arxiv.org/abs/2611.34924",
       "hn_url": "https://news.ycombinator.com/item?id=50651863",
-      "points": 119,
-      "comments": 31,
+      "points": 209,
+      "comments": 71,
       "created_ts": 1795671471,
       "author": "hecmmm"
     },
     {
-      "title": "Unconditional Integer Factorization in Subexponential Time",
-      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-      "hn_url": "https://news.ycombinator.com/item?id=50651627",
-      "points": 105,
-      "comments": 14,
-      "created_ts": 1795669196,
-      "author": "_alternator_"
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "hn_url": "https://news.ycombinator.com/item?id=50657645",
+      "points": 205,
+      "comments": 92,
+      "created_ts": 1795715265,
+      "author": "Bender"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "hn_url": "https://news.ycombinator.com/item?id=50656036",
+      "points": 112,
+      "comments": 26,
+      "created_ts": 1795705206,
+      "author": "michidk"
     }
   ],
   "ph_today": [
     {
-      "title": "OpenChat",
-      "url": "https://www.producthunt.com/products/openchat-5",
+      "title": "SuperLoupe",
+      "url": "https://www.producthunt.com/products/superloupe",
       "tagline": "",
-      "pub_date": "2026-11-25T09:54:19-08:00"
-    },
-    {
-      "title": "NEXUS",
-      "url": "https://www.producthunt.com/products/nexus-42",
-      "tagline": "",
-      "pub_date": "2026-11-25T04:41:13-08:00"
-    },
-    {
-      "title": "Nookdeck",
-      "url": "https://www.producthunt.com/products/nookdeck",
-      "tagline": "",
-      "pub_date": "2026-11-25T00:17:17-08:00"
+      "pub_date": "2026-11-25T15:54:50-08:00"
     },
     {
       "title": "ExtraOrbital",
@@ -245,22 +206,10 @@
       "pub_date": "2026-11-24T10:34:28-08:00"
     },
     {
-      "title": "Kagi Mail",
-      "url": "https://www.producthunt.com/products/kagi",
+      "title": "OpenChat",
+      "url": "https://www.producthunt.com/products/openchat-5",
       "tagline": "",
-      "pub_date": "2026-11-24T23:24:38-08:00"
-    },
-    {
-      "title": "Flurra",
-      "url": "https://www.producthunt.com/products/flurra",
-      "tagline": "",
-      "pub_date": "2026-11-25T08:34:30-08:00"
-    },
-    {
-      "title": "InfraThrone DevOps Park",
-      "url": "https://www.producthunt.com/products/infrathrone-devops-park",
-      "tagline": "",
-      "pub_date": "2026-11-25T04:07:17-08:00"
+      "pub_date": "2026-11-25T09:54:19-08:00"
     },
     {
       "title": "WhipDesk",
@@ -269,34 +218,28 @@
       "pub_date": "2026-11-25T13:44:16-08:00"
     },
     {
-      "title": "SuperLoupe",
-      "url": "https://www.producthunt.com/products/superloupe",
+      "title": "Meboki",
+      "url": "https://www.producthunt.com/products/meboki",
       "tagline": "",
-      "pub_date": "2026-11-25T15:54:50-08:00"
+      "pub_date": "2026-11-23T07:44:08-08:00"
     },
     {
-      "title": "ServNook",
-      "url": "https://www.producthunt.com/products/webhut",
+      "title": "Nookdeck",
+      "url": "https://www.producthunt.com/products/nookdeck",
       "tagline": "",
-      "pub_date": "2026-10-23T03:52:49-07:00"
+      "pub_date": "2026-11-25T00:17:17-08:00"
     },
     {
-      "title": "Claude-Mem Cloud Sync",
-      "url": "https://www.producthunt.com/products/claude-mem",
+      "title": "NEXUS",
+      "url": "https://www.producthunt.com/products/nexus-42",
       "tagline": "",
-      "pub_date": "2026-11-25T23:58:18-08:00"
+      "pub_date": "2026-11-25T04:41:13-08:00"
     },
     {
-      "title": "Remora",
-      "url": "https://www.producthunt.com/products/remora-6",
+      "title": "Kagi Mail",
+      "url": "https://www.producthunt.com/products/kagi",
       "tagline": "",
-      "pub_date": "2026-11-25T10:28:50-08:00"
-    },
-    {
-      "title": "Transept AI",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "tagline": "",
-      "pub_date": "2026-11-25T08:34:15-08:00"
+      "pub_date": "2026-11-24T23:24:38-08:00"
     },
     {
       "title": "iwantmy.app",
@@ -305,10 +248,22 @@
       "pub_date": "2026-11-25T09:00:47-08:00"
     },
     {
-      "title": "Meboki",
-      "url": "https://www.producthunt.com/products/meboki",
+      "title": "Transept AI",
+      "url": "https://www.producthunt.com/products/transept-ai",
       "tagline": "",
-      "pub_date": "2026-11-23T07:44:08-08:00"
+      "pub_date": "2026-11-25T08:34:15-08:00"
+    },
+    {
+      "title": "Flurra",
+      "url": "https://www.producthunt.com/products/flurra",
+      "tagline": "",
+      "pub_date": "2026-11-25T08:34:30-08:00"
+    },
+    {
+      "title": "Claude-Mem Cloud Sync",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "tagline": "",
+      "pub_date": "2026-11-25T23:58:18-08:00"
     },
     {
       "title": "Superframes",
@@ -317,16 +272,52 @@
       "pub_date": "2026-11-25T21:09:09-08:00"
     },
     {
-      "title": "DeskFleet",
-      "url": "https://www.producthunt.com/products/deskfleet",
+      "title": "InfraThrone DevOps Park",
+      "url": "https://www.producthunt.com/products/infrathrone-devops-park",
       "tagline": "",
-      "pub_date": "2026-11-25T09:17:28-08:00"
+      "pub_date": "2026-11-25T04:07:17-08:00"
     },
     {
       "title": "Doodle",
       "url": "https://www.producthunt.com/products/doodle-5",
       "tagline": "",
       "pub_date": "2026-11-25T15:52:43-08:00"
+    },
+    {
+      "title": "Chunkify",
+      "url": "https://www.producthunt.com/products/chunkify",
+      "tagline": "",
+      "pub_date": "2026-11-23T02:45:10-08:00"
+    },
+    {
+      "title": "Postmaster of Puppets",
+      "url": "https://www.producthunt.com/products/postmaster-of-puppets",
+      "tagline": "",
+      "pub_date": "2026-11-25T02:54:52-08:00"
+    },
+    {
+      "title": "Upsolve Harness 2.0",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "tagline": "",
+      "pub_date": "2026-11-25T14:03:32-08:00"
+    },
+    {
+      "title": "Watch Reader",
+      "url": "https://www.producthunt.com/products/watch-reader",
+      "tagline": "",
+      "pub_date": "2026-11-22T00:47:07-08:00"
+    },
+    {
+      "title": "Remora",
+      "url": "https://www.producthunt.com/products/remora-6",
+      "tagline": "",
+      "pub_date": "2026-11-25T10:28:50-08:00"
+    },
+    {
+      "title": "Pax by Pydantic",
+      "url": "https://www.producthunt.com/products/pydantic",
+      "tagline": "",
+      "pub_date": "2026-11-25T20:04:50-08:00"
     },
     {
       "title": "Bifura",
@@ -341,28 +332,10 @@
       "pub_date": "2026-11-25T04:43:11-08:00"
     },
     {
-      "title": "Upsolve Harness 2.0",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "title": "Ottante",
+      "url": "https://www.producthunt.com/products/ottante",
       "tagline": "",
-      "pub_date": "2026-11-25T14:03:32-08:00"
-    },
-    {
-      "title": "Pax by Pydantic",
-      "url": "https://www.producthunt.com/products/pydantic",
-      "tagline": "",
-      "pub_date": "2026-11-25T20:04:50-08:00"
-    },
-    {
-      "title": "Chunkify",
-      "url": "https://www.producthunt.com/products/chunkify",
-      "tagline": "",
-      "pub_date": "2026-11-23T02:45:10-08:00"
-    },
-    {
-      "title": "Watch Reader",
-      "url": "https://www.producthunt.com/products/watch-reader",
-      "tagline": "",
-      "pub_date": "2026-11-22T00:47:07-08:00"
+      "pub_date": "2026-11-25T07:15:16-08:00"
     },
     {
       "title": "Mime",
@@ -371,28 +344,28 @@
       "pub_date": "2026-11-24T23:22:06-08:00"
     },
     {
+      "title": "DeskFleet",
+      "url": "https://www.producthunt.com/products/deskfleet",
+      "tagline": "",
+      "pub_date": "2026-11-25T09:17:28-08:00"
+    },
+    {
       "title": "FocusHaze",
       "url": "https://www.producthunt.com/products/focushaze",
       "tagline": "",
       "pub_date": "2026-11-25T02:52:17-08:00"
     },
     {
-      "title": "Postmaster of Puppets",
-      "url": "https://www.producthunt.com/products/postmaster-of-puppets",
+      "title": "ServNook",
+      "url": "https://www.producthunt.com/products/webhut",
       "tagline": "",
-      "pub_date": "2026-11-25T02:54:52-08:00"
+      "pub_date": "2026-10-23T03:52:49-07:00"
     },
     {
-      "title": "Ottante",
-      "url": "https://www.producthunt.com/products/ottante",
+      "title": "MeetFolks",
+      "url": "https://www.producthunt.com/products/meetfolks",
       "tagline": "",
-      "pub_date": "2026-11-25T07:15:16-08:00"
-    },
-    {
-      "title": "Clary",
-      "url": "https://www.producthunt.com/products/clary-2",
-      "tagline": "",
-      "pub_date": "2026-11-24T16:47:25-08:00"
+      "pub_date": "2026-11-25T13:33:47-08:00"
     }
   ]
 }

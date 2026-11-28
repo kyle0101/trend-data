@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-11-27T15:54:54.493Z",
+  "generated_at": "2026-11-28T00:55:11.239Z",
   "window_hours": 24,
   "ph_source": "producthunt.com/feed",
   "hn_show": [
     {
-      "title": "Show HN: Fuck_data_brokers.py",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "hn_url": "https://news.ycombinator.com/item?id=50658191",
-      "points": 240,
-      "comments": 53,
-      "created_ts": 1795718241,
-      "author": "gary23w"
-    },
-    {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "url": "https://github.com/rxliuli/sim-drop",
-      "hn_url": "https://news.ycombinator.com/item?id=50657070",
-      "points": 52,
-      "comments": 10,
-      "created_ts": 1795711898,
-      "author": "rxliuli"
-    },
-    {
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
       "url": "https://bouncemarket.minhanhday.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50667726",
-      "points": 41,
-      "comments": 25,
+      "points": 323,
+      "comments": 111,
       "created_ts": 1795791710,
       "author": "mday404"
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50669673",
+      "points": 93,
+      "comments": 28,
+      "created_ts": 1795802188,
+      "author": "ziofill"
+    },
+    {
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "hn_url": "https://news.ycombinator.com/item?id=50667452",
+      "points": 69,
+      "comments": 23,
+      "created_ts": 1795790222,
+      "author": "codepoet80"
+    },
+    {
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "hn_url": "https://news.ycombinator.com/item?id=50670443",
+      "points": 33,
+      "comments": 7,
+      "created_ts": 1795805995,
+      "author": "runtimenotes"
+    },
+    {
+      "title": "Show HN: King – Man + Woman = ?",
+      "url": "https://kingminusman.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50668269",
+      "points": 24,
+      "comments": 6,
+      "created_ts": 1795794653,
+      "author": "Gooblebrai"
     },
     {
       "title": "Show HN: Sqrin – A better screen share for Mac",
@@ -42,139 +60,85 @@
   ],
   "hn_front": [
     {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "hn_url": "https://news.ycombinator.com/item?id=50660180",
-      "points": 921,
-      "comments": 446,
-      "created_ts": 1795729665,
-      "author": "jlelse"
-    },
-    {
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50663595",
-      "points": 508,
-      "comments": 221,
-      "created_ts": 1795761874,
-      "author": "utiiiD"
-    },
-    {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "hn_url": "https://news.ycombinator.com/item?id=50659640",
-      "points": 481,
-      "comments": 247,
-      "created_ts": 1795726189,
-      "author": "liamg"
-    },
-    {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "hn_url": "https://news.ycombinator.com/item?id=50657530",
-      "points": 478,
-      "comments": 563,
-      "created_ts": 1795714607,
-      "author": "iantongeorge"
-    },
-    {
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "hn_url": "https://news.ycombinator.com/item?id=50661646",
-      "points": 476,
-      "comments": 414,
-      "created_ts": 1795742029,
-      "author": "zdw"
-    },
-    {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "hn_url": "https://news.ycombinator.com/item?id=50659841",
-      "points": 462,
-      "comments": 116,
-      "created_ts": 1795727285,
-      "author": "dverlaeckt80"
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "hn_url": "https://news.ycombinator.com/item?id=50657265",
-      "points": 411,
-      "comments": 101,
-      "created_ts": 1795713089,
-      "author": "julianlam"
-    },
-    {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "hn_url": "https://news.ycombinator.com/item?id=50657645",
-      "points": 315,
-      "comments": 157,
-      "created_ts": 1795715265,
-      "author": "Bender"
-    },
-    {
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "url": "https://www.buynothingday.co.uk/",
-      "hn_url": "https://news.ycombinator.com/item?id=50663261",
-      "points": 247,
-      "comments": 77,
-      "created_ts": 1795758762,
-      "author": "f_allwein"
-    },
-    {
       "title": "Claude sabotaging ML research tasks?",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "hn_url": "https://news.ycombinator.com/item?id=50664325",
-      "points": 196,
-      "comments": 111,
+      "points": 587,
+      "comments": 283,
       "created_ts": 1795768088,
       "author": "baobabKoodaa"
     },
     {
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "hn_url": "https://news.ycombinator.com/item?id=50658632",
-      "points": 153,
-      "comments": 35,
-      "created_ts": 1795720689,
-      "author": "zerosegfaults"
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "hn_url": "https://news.ycombinator.com/item?id=50668145",
+      "points": 412,
+      "comments": 211,
+      "created_ts": 1795794031,
+      "author": "scanr"
     },
     {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=50665968",
-      "points": 150,
-      "comments": 67,
-      "created_ts": 1795781331,
-      "author": "yuvadam"
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50670757",
+      "points": 367,
+      "comments": 243,
+      "created_ts": 1795807861,
+      "author": "brandonb"
     },
     {
-      "title": "US Air Force's cloud computing platform hacked",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "hn_url": "https://news.ycombinator.com/item?id=50666375",
-      "points": 130,
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50667726",
+      "points": 323,
+      "comments": 111,
+      "created_ts": 1795791710,
+      "author": "mday404"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "hn_url": "https://news.ycombinator.com/item?id=50670855",
+      "points": 248,
+      "comments": 131,
+      "created_ts": 1795808545,
+      "author": "DeepLogin"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "hn_url": "https://news.ycombinator.com/item?id=50669765",
+      "points": 221,
       "comments": 70,
-      "created_ts": 1795784051,
-      "author": "freakynit"
+      "created_ts": 1795802565,
+      "author": "MickyTheMouse"
     },
     {
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "hn_url": "https://news.ycombinator.com/item?id=50658498",
-      "points": 122,
-      "comments": 11,
-      "created_ts": 1795719890,
-      "author": "chrhenning"
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50667989",
+      "points": 175,
+      "comments": 75,
+      "created_ts": 1795793169,
+      "author": "_tk_"
     },
     {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "hn_url": "https://news.ycombinator.com/item?id=50665920",
-      "points": 106,
-      "comments": 68,
-      "created_ts": 1795780991,
-      "author": "theanonymousone"
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "hn_url": "https://news.ycombinator.com/item?id=50671301",
+      "points": 139,
+      "comments": 65,
+      "created_ts": 1795811115,
+      "author": "Lio"
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50662313",
+      "points": 128,
+      "comments": 45,
+      "created_ts": 1795749019,
+      "author": "o4c"
     }
   ],
   "ph_today": [
@@ -185,10 +149,10 @@
       "pub_date": "2026-11-24T23:56:05-08:00"
     },
     {
-      "title": "slay",
-      "url": "https://www.producthunt.com/products/slay-3",
+      "title": "Depost AI",
+      "url": "https://www.producthunt.com/products/depost-ai",
       "tagline": "",
-      "pub_date": "2026-11-25T23:23:58-08:00"
+      "pub_date": "2026-11-26T19:17:55-08:00"
     },
     {
       "title": "RightFont 2026",
@@ -197,16 +161,34 @@
       "pub_date": "2026-11-26T15:17:29-08:00"
     },
     {
+      "title": "slay",
+      "url": "https://www.producthunt.com/products/slay-3",
+      "tagline": "",
+      "pub_date": "2026-11-25T23:23:58-08:00"
+    },
+    {
+      "title": "ChickyTutor",
+      "url": "https://www.producthunt.com/products/chickytutor",
+      "tagline": "",
+      "pub_date": "2026-11-23T12:47:39-08:00"
+    },
+    {
+      "title": "Espresso 27",
+      "url": "https://www.producthunt.com/products/espresso-27",
+      "tagline": "",
+      "pub_date": "2026-11-25T01:08:04-08:00"
+    },
+    {
+      "title": "Ploid",
+      "url": "https://www.producthunt.com/products/ploid",
+      "tagline": "",
+      "pub_date": "2026-11-26T13:06:26-08:00"
+    },
+    {
       "title": "Spark AI",
       "url": "https://www.producthunt.com/products/spark-ai-7",
       "tagline": "",
       "pub_date": "2026-11-24T23:30:40-08:00"
-    },
-    {
-      "title": "Prosed AI 2.0 + MCP",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "tagline": "",
-      "pub_date": "2026-10-26T22:29:10-07:00"
     },
     {
       "title": "Form Action Store",
@@ -215,28 +197,28 @@
       "pub_date": "2026-11-26T12:08:11-08:00"
     },
     {
-      "title": "gpyou",
-      "url": "https://www.producthunt.com/products/gpyou",
-      "tagline": "",
-      "pub_date": "2026-11-24T12:36:16-08:00"
-    },
-    {
-      "title": "Depost AI",
-      "url": "https://www.producthunt.com/products/depost-ai",
-      "tagline": "",
-      "pub_date": "2026-11-26T19:17:55-08:00"
-    },
-    {
       "title": "snibl",
       "url": "https://www.producthunt.com/products/snibl",
       "tagline": "",
       "pub_date": "2026-11-22T04:50:36-08:00"
     },
     {
-      "title": "ChickyTutor",
-      "url": "https://www.producthunt.com/products/chickytutor",
+      "title": "gpyou",
+      "url": "https://www.producthunt.com/products/gpyou",
       "tagline": "",
-      "pub_date": "2026-11-23T12:47:39-08:00"
+      "pub_date": "2026-11-24T12:36:16-08:00"
+    },
+    {
+      "title": "Prosed AI 2.0 + MCP",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "tagline": "",
+      "pub_date": "2026-10-26T22:29:10-07:00"
+    },
+    {
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "tagline": "",
+      "pub_date": "2026-11-26T21:09:46-08:00"
     },
     {
       "title": "Remove Silence",
@@ -249,24 +231,6 @@
       "url": "https://www.producthunt.com/products/onset",
       "tagline": "",
       "pub_date": "2026-11-26T11:18:34-08:00"
-    },
-    {
-      "title": "Ploid",
-      "url": "https://www.producthunt.com/products/ploid",
-      "tagline": "",
-      "pub_date": "2026-11-26T13:06:26-08:00"
-    },
-    {
-      "title": "Woomool",
-      "url": "https://www.producthunt.com/products/woomool",
-      "tagline": "",
-      "pub_date": "2026-11-26T21:09:46-08:00"
-    },
-    {
-      "title": "Espresso 27",
-      "url": "https://www.producthunt.com/products/espresso-27",
-      "tagline": "",
-      "pub_date": "2026-11-25T01:08:04-08:00"
     },
     {
       "title": "Contral",
@@ -287,46 +251,34 @@
       "pub_date": "2026-11-22T07:44:08-08:00"
     },
     {
+      "title": "ExtraOrbital",
+      "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752",
+      "tagline": "",
+      "pub_date": "2026-11-03T07:25:43-08:00"
+    },
+    {
+      "title": "Hub",
+      "url": "https://www.producthunt.com/products/hub-20",
+      "tagline": "",
+      "pub_date": "2026-11-24T10:34:28-08:00"
+    },
+    {
+      "title": "Pax by Pydantic",
+      "url": "https://www.producthunt.com/products/pydantic",
+      "tagline": "",
+      "pub_date": "2026-11-25T20:04:50-08:00"
+    },
+    {
+      "title": "DeskFleet",
+      "url": "https://www.producthunt.com/products/deskfleet",
+      "tagline": "",
+      "pub_date": "2026-11-25T09:17:28-08:00"
+    },
+    {
       "title": "OpenChat",
       "url": "https://www.producthunt.com/products/openchat-5",
       "tagline": "",
       "pub_date": "2026-11-25T09:54:19-08:00"
-    },
-    {
-      "title": "InfraThrone DevOps Park",
-      "url": "https://www.producthunt.com/products/infrathrone-devops-park",
-      "tagline": "",
-      "pub_date": "2026-11-25T04:07:17-08:00"
-    },
-    {
-      "title": "NEXUS",
-      "url": "https://www.producthunt.com/products/nexus-42",
-      "tagline": "",
-      "pub_date": "2026-11-25T04:41:13-08:00"
-    },
-    {
-      "title": "Upsolve Harness 2.0",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "tagline": "",
-      "pub_date": "2026-11-25T14:03:32-08:00"
-    },
-    {
-      "title": "WhipDesk",
-      "url": "https://www.producthunt.com/products/whipdesk",
-      "tagline": "",
-      "pub_date": "2026-11-25T13:44:16-08:00"
-    },
-    {
-      "title": "Postmaster of Puppets",
-      "url": "https://www.producthunt.com/products/postmaster-of-puppets",
-      "tagline": "",
-      "pub_date": "2026-11-25T02:54:52-08:00"
-    },
-    {
-      "title": "Transept AI",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "tagline": "",
-      "pub_date": "2026-11-25T08:34:15-08:00"
     },
     {
       "title": "FocusHaze",
@@ -341,22 +293,34 @@
       "pub_date": "2026-11-23T07:44:08-08:00"
     },
     {
-      "title": "Doodle",
-      "url": "https://www.producthunt.com/products/doodle-5",
+      "title": "Nookdeck",
+      "url": "https://www.producthunt.com/products/nookdeck",
       "tagline": "",
-      "pub_date": "2026-11-25T15:52:43-08:00"
+      "pub_date": "2026-11-25T00:17:17-08:00"
     },
     {
-      "title": "Claude-Mem Cloud Sync",
-      "url": "https://www.producthunt.com/products/claude-mem",
+      "title": "ServNook",
+      "url": "https://www.producthunt.com/products/webhut",
       "tagline": "",
-      "pub_date": "2026-11-25T23:58:18-08:00"
+      "pub_date": "2026-10-23T03:52:49-07:00"
     },
     {
-      "title": "DeskFleet",
-      "url": "https://www.producthunt.com/products/deskfleet",
+      "title": "NEXUS",
+      "url": "https://www.producthunt.com/products/nexus-42",
       "tagline": "",
-      "pub_date": "2026-11-25T09:17:28-08:00"
+      "pub_date": "2026-11-25T04:41:13-08:00"
+    },
+    {
+      "title": "Hello Transcribe 5",
+      "url": "https://www.producthunt.com/products/hello-transcribe",
+      "tagline": "",
+      "pub_date": "2026-11-25T04:43:11-08:00"
+    },
+    {
+      "title": "iwantmy.app",
+      "url": "https://www.producthunt.com/products/iwantmy-app",
+      "tagline": "",
+      "pub_date": "2026-11-25T09:00:47-08:00"
     }
   ]
 }
